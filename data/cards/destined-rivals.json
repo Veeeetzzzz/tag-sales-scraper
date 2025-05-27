@@ -1,0 +1,289 @@
+{
+  "setInfo": {
+    "name": "Destined Rivals",
+    "code": "SM11.5",
+    "releaseDate": "2019-08-02",
+    "totalCards": 199,
+    "description": "Special subset featuring TAG TEAM Pokemon and popular cards"
+  },
+  "cards": [
+    {
+      "id": "001",
+      "name": "Celebi & Venusaur GX",
+      "cardNumber": "001",
+      "rarity": "RR",
+      "type": "Grass",
+      "subtype": "TAG TEAM",
+      "hp": 270,
+      "retreatCost": 4,
+      "artist": "Mitsuhiro Arita",
+      "flavorText": "",
+      "attacks": [
+        {
+          "name": "Pollen Hazard",
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned."
+        },
+        {
+          "name": "Solar Beam GX",
+          "cost": ["Grass", "Grass", "Colorless", "Colorless"],
+          "damage": "150",
+          "text": "If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), this attack does 50 more damage, and your opponent's Active Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Rowlet & Alolan Exeggutor GX",
+      "cardNumber": "002",
+      "rarity": "RR",
+      "type": "Grass",
+      "subtype": "TAG TEAM",
+      "hp": 270,
+      "retreatCost": 3,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Tropical Swing",
+          "cost": ["Grass", "Colorless"],
+          "damage": "20×",
+          "text": "This attack does 20 damage for each Energy attached to this Pokémon."
+        },
+        {
+          "name": "Paradise GX",
+          "cost": ["Grass", "Grass", "Colorless"],
+          "damage": "150",
+          "text": "If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "name": "Pheromosa & Buzzwole GX",
+      "cardNumber": "003",
+      "rarity": "RR",
+      "type": "Fighting",
+      "subtype": "TAG TEAM",
+      "hp": 260,
+      "retreatCost": 2,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Jet Punch",
+          "cost": ["Fighting", "Colorless"],
+          "damage": "30",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Elegant Sole GX",
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": "180",
+          "text": "If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "name": "Garchomp & Giratina GX",
+      "cardNumber": "004",
+      "rarity": "RR",
+      "type": "Psychic",
+      "subtype": "TAG TEAM",
+      "hp": 280,
+      "retreatCost": 3,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Calamitous Slash",
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "damage": "10+",
+          "text": "This attack does 50 more damage for each Prize card your opponent has taken."
+        },
+        {
+          "name": "GG End GX",
+          "cost": ["Psychic", "Psychic", "Colorless", "Colorless"],
+          "damage": "200",
+          "text": "If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), this attack does 50 more damage, and you take 1 more Prize card. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "name": "Mewtwo & Mew GX",
+      "cardNumber": "005",
+      "rarity": "RR",
+      "type": "Psychic",
+      "subtype": "TAG TEAM",
+      "hp": 270,
+      "retreatCost": 2,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Perfection",
+          "cost": ["Psychic"],
+          "damage": "",
+          "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Miracle Twin GX",
+          "cost": ["Psychic", "Psychic"],
+          "damage": "",
+          "text": "Choose 2 of your opponent's Pokémon. For each of those Pokémon, choose a different type of basic Energy card from your discard pile and attach it to 1 of your Pokémon. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), take 1 more Prize card. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "name": "Espeon & Deoxys GX",
+      "cardNumber": "006",
+      "rarity": "RR",
+      "type": "Psychic",
+      "subtype": "TAG TEAM",
+      "hp": 260,
+      "retreatCost": 2,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Cross Division GX",
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "damage": "",
+          "text": "Put 10 damage counters on your opponent's Pokémon in any way you like. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), put 8 more damage counters on your opponent's Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "name": "Umbreon & Darkrai GX",
+      "cardNumber": "007",
+      "rarity": "RR",
+      "type": "Darkness",
+      "subtype": "TAG TEAM",
+      "hp": 270,
+      "retreatCost": 3,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Dark Moon GX",
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "damage": "200",
+          "text": "You may put 4 damage counters on 1 of your opponent's Benched Pokémon. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), put 12 damage counters instead of 4. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "name": "Mega Sableye & Tyranitar GX",
+      "cardNumber": "008",
+      "rarity": "RR",
+      "type": "Darkness",
+      "subtype": "TAG TEAM",
+      "hp": "330",
+      "retreatCost": 4,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Greedy Crush",
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "damage": "210",
+          "text": "Before doing damage, discard all Trainer cards from your opponent's hand."
+        },
+        {
+          "name": "Gigafall GX",
+          "cost": ["Darkness", "Darkness", "Darkness", "Colorless"],
+          "damage": "250",
+          "text": "If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), this attack does 100 more damage. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "name": "Slowpoke & Psyduck GX",
+      "cardNumber": "009",
+      "rarity": "RR",
+      "type": "Water",
+      "subtype": "TAG TEAM",
+      "hp": 270,
+      "retreatCost": 3,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Ditch and Shake",
+          "cost": ["Water", "Colorless"],
+          "damage": "30",
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Thrash About GX",
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": "200",
+          "text": "This Pokémon is now Confused. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "name": "Magikarp & Wailord GX",
+      "cardNumber": "010",
+      "rarity": "RR",
+      "type": "Water",
+      "subtype": "TAG TEAM",
+      "hp": 300,
+      "retreatCost": 4,
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Towering Splash GX",
+          "cost": ["Water", "Water", "Water"],
+          "damage": "",
+          "text": "This attack does 10 damage to each of your opponent's Pokémon for each Water Energy attached to this Pokémon. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), this attack does 30 damage instead of 10. (You can't use more than 1 GX attack in a game.)"
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "name": "Red & Blue",
+      "cardNumber": "011",
+      "rarity": "RR",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "text": "Discard your hand and draw 6 cards. If you played Red's Challenge during your last turn, draw 2 more cards."
+    },
+    {
+      "id": "012",
+      "name": "Misty & Lorelei",
+      "cardNumber": "012",
+      "rarity": "RR",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "text": "Draw 3 cards. If you have any Water Pokémon in play, draw 3 more cards."
+    },
+    {
+      "id": "013",
+      "name": "Sabrina's Suggestion",
+      "cardNumber": "013",
+      "rarity": "RR",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "text": "Draw 4 cards. If you have any Psychic Pokémon in play, your opponent reveals their hand."
+    },
+    {
+      "id": "014",
+      "name": "Koga's Trap",
+      "cardNumber": "014",
+      "rarity": "RR",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "text": "Your opponent's Active Pokémon is now Confused and Poisoned. If you have any Darkness Pokémon in play, that Pokémon is also Paralyzed."
+    },
+    {
+      "id": "015",
+      "name": "Giovanni's Exile",
+      "cardNumber": "015",
+      "rarity": "RR",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "text": "Discard the top 2 cards of your opponent's deck. If both cards are Pokémon, this attack does 80 more damage."
+    }
+  ]
+} 
