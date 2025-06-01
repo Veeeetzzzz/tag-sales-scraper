@@ -183,11 +183,11 @@ export default function Home() {
       // No cached data, show loading
       fetchData();
     }
-  }, []);
+  }, []); // Empty dependency array to run only once
 
   useEffect(() => {
     applyFilters(searchTerm, sortBy);
-  }, [items]);
+  }, [items, searchTerm, sortBy]); // Only run when these specific values change
 
   // Keyboard shortcuts
   useEffect(() => {
