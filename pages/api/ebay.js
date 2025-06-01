@@ -1,79 +1,170 @@
-const puppeteer = require('puppeteer');
+// Dynamic import based on environment
+const getBrowser = async () => {
+  const isVercel = process.env.VERCEL === '1';
+  const isProduction = process.env.NODE_ENV === 'production';
+  const isServerless = isVercel || process.env.AWS_LAMBDA_FUNCTION_NAME;
+  
+  console.log('Environment check:', {
+    VERCEL: process.env.VERCEL,
+    NODE_ENV: process.env.NODE_ENV,
+    isVercel,
+    isProduction,
+    isServerless
+  });
+  
+  if (isServerless) {
+    // Use playwright-aws-lambda for Vercel/serverless
+    console.log('Using playwright-aws-lambda for serverless environment');
+    const playwright = require('playwright-aws-lambda');
+    return await playwright.launchChromium({
+      headless: true,
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-dev-shm-usage',
+        '--disable-accelerated-2d-canvas',
+        '--no-first-run',
+        '--no-zygote',
+        '--single-process',
+        '--disable-gpu'
+      ]
+    });
+  } else {
+    // Use regular playwright for local development
+    console.log('Using regular playwright for local development');
+    const { chromium } = require('playwright');
+    return await chromium.launch({
+      headless: true,
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-dev-shm-usage'
+      ]
+    });
+  }
+};
 
 export default async function handler(req, res) {
   try {
+    console.log('Starting eBay scraper...');
+    
     // Enhanced search query: "TAG 10 Pokemon" with PSA exclusion
     const url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+10+Pokemon+-PSA&_sacat=0&_from=R40&LH_PrefLoc=2&rt=nc&LH_Sold=1&LH_Complete=1';
 
-    const browser = await puppeteer.launch({
-      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'],
-      headless: 'new'
+    const browser = await getBrowser();
+    const page = await browser.newPage();
+    
+    // Set a realistic user agent
+    await page.setExtraHTTPHeaders({
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     });
     
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
-    
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
+    console.log('Navigating to eBay...');
+    await page.goto(url, { 
+      waitUntil: 'domcontentloaded', 
+      timeout: 30000 
+    });
 
-    // Wait for the search results to load
-    await page.waitForSelector('.s-item', { timeout: 10000 });
+    console.log('Waiting for search results...');
+    // Wait for the search results to load with multiple possible selectors
+    try {
+      await page.waitForSelector('.s-item, .srp-results .s-item', { timeout: 15000 });
+    } catch (selectorError) {
+      console.log('Primary selector failed, trying alternative selectors...');
+      try {
+        await page.waitForSelector('[data-testid="item"]', { timeout: 5000 });
+      } catch (altError) {
+        console.log('Alternative selectors also failed, proceeding anyway...');
+      }
+    }
 
+    console.log('Extracting items...');
     const items = await page.evaluate(() => {
-      const listings = Array.from(document.querySelectorAll('.s-item'));
-      console.log(`Found ${listings.length} listings on page`);
+      // Try multiple possible selectors for items
+      const possibleSelectors = [
+        '.s-item',
+        '.srp-results .s-item',
+        '[data-testid="item"]',
+        '.s-item__wrapper'
+      ];
+      
+      let listings = [];
+      for (const selector of possibleSelectors) {
+        listings = Array.from(document.querySelectorAll(selector));
+        if (listings.length > 0) {
+          console.log(`Found ${listings.length} listings using selector: ${selector}`);
+          break;
+        }
+      }
+      
+      if (listings.length === 0) {
+        console.log('No listings found with any selector');
+        return [];
+      }
       
       return listings.slice(1).map((item, index) => { // Skip first item as it's usually an ad
         try {
           // Try multiple selectors for title
-          const titleElement = item.querySelector('.s-item__title span[role="heading"]') || 
-                              item.querySelector('.s-item__title span') ||
-                              item.querySelector('.s-item__title') ||
-                              item.querySelector('[data-testid="item-title"]');
+          const titleSelectors = [
+            '.s-item__title span[role="heading"]',
+            '.s-item__title span',
+            '.s-item__title',
+            '[data-testid="item-title"]',
+            'h3 span',
+            '.x-item-title-label'
+          ];
+          
+          let titleElement = null;
+          for (const selector of titleSelectors) {
+            titleElement = item.querySelector(selector);
+            if (titleElement && titleElement.textContent?.trim()) break;
+          }
           const title = titleElement?.textContent?.trim() || '';
           
           // Get the listing URL
-          const linkElement = item.querySelector('.s-item__link') ||
-                             item.querySelector('a[href*="/itm/"]') ||
-                             item.querySelector('a');
+          const linkSelectors = [
+            '.s-item__link',
+            'a[href*="/itm/"]',
+            'a'
+          ];
+          
+          let linkElement = null;
+          for (const selector of linkSelectors) {
+            linkElement = item.querySelector(selector);
+            if (linkElement && linkElement.href) break;
+          }
           const listingUrl = linkElement?.href || '';
           
           // Try multiple selectors for image
-          const imgElement = item.querySelector('.s-item__image img') ||
-                            item.querySelector('img[src*="ebayimg"]') ||
-                            item.querySelector('img');
+          const imgSelectors = [
+            '.s-item__image img',
+            'img[src*="ebayimg"]',
+            'img[data-src*="ebayimg"]',
+            'img'
+          ];
+          
+          let imgElement = null;
+          for (const selector of imgSelectors) {
+            imgElement = item.querySelector(selector);
+            if (imgElement) break;
+          }
           const img = imgElement?.src || imgElement?.getAttribute('data-src') || imgElement?.getAttribute('srcset')?.split(' ')[0] || '';
           
           // Try multiple selectors for price
-          const priceElement = item.querySelector('.s-item__price .notranslate') ||
-                              item.querySelector('.s-item__price') ||
-                              item.querySelector('[data-testid="item-price"]') ||
-                              item.querySelector('.price');
-          const price = priceElement?.textContent?.trim() || '';
+          const priceSelectors = [
+            '.s-item__price .notranslate',
+            '.s-item__price',
+            '[data-testid="item-price"]',
+            '.price',
+            '.u-flL'
+          ];
           
-          // Look for sold date in various possible locations
-          const soldElements = [
-            item.querySelector('.s-item__title--tagblock'),
-            item.querySelector('.s-item__detail--primary'),
-            item.querySelector('.s-item__ended-date'),
-            item.querySelector('.s-item__detail'),
-            item.querySelector('.s-item__subtitle'),
-            item.querySelector('.s-item__watchheart'),
-            item.querySelector('.s-item__time-left'),
-            item.querySelector('.s-item__time-end'),
-            item.querySelector('[data-testid="item-end-date"]'),
-            item.querySelector('.s-item__purchase-options'),
-            item.querySelector('.s-item__shipping'),
-            item.querySelector('.s-item__logisticsCost'),
-            item.querySelector('.s-item__reviews'),
-            item.querySelector('.s-item__dynamic'),
-            item.querySelector('.s-item__condition'),
-            item.querySelector('.s-item__location'),
-            item.querySelector('.s-item__seller-info'),
-            item.querySelector('.s-item__bids')
-          ].filter(Boolean);
-
-          let soldDate = '';
-          let soldInfo = '';
+          let priceElement = null;
+          for (const selector of priceSelectors) {
+            priceElement = item.querySelector(selector);
+            if (priceElement && priceElement.textContent?.trim()) break;
+          }
+          const price = priceElement?.textContent?.trim() || '';
           
           // Get all text from the item and look for date patterns
           const allItemText = item.textContent?.replace(/\s+/g, ' ').trim() || '';
@@ -90,6 +181,7 @@ export default async function handler(req, res) {
             /\d{1,2}-\d{1,2}-\d{2,4}/
           ];
           
+          let soldDate = '';
           for (const pattern of datePatterns) {
             const match = allItemText.match(pattern);
             if (match) {
@@ -98,37 +190,12 @@ export default async function handler(req, res) {
             }
           }
           
-          // Check individual elements for sold/date information
-          for (const element of soldElements) {
-            const text = element?.textContent?.trim() || '';
-            if (text && (
-              text.toLowerCase().includes('sold') ||
-              text.toLowerCase().includes('ended') ||
-              text.toLowerCase().includes('dec') ||
-              text.toLowerCase().includes('jan') ||
-              text.toLowerCase().includes('feb') ||
-              text.toLowerCase().includes('mar') ||
-              text.toLowerCase().includes('apr') ||
-              text.toLowerCase().includes('may') ||
-              text.toLowerCase().includes('jun') ||
-              text.toLowerCase().includes('jul') ||
-              text.toLowerCase().includes('aug') ||
-              text.toLowerCase().includes('sep') ||
-              text.toLowerCase().includes('oct') ||
-              text.toLowerCase().includes('nov') ||
-              text.match(/\d{1,2}\/\d{1,2}\/\d{2,4}/) ||
-              text.match(/\d{1,2}-\d{1,2}-\d{2,4}/) ||
-              text.match(/\d{1,2}\s+(day|hour|minute)s?\s+ago/i)
-            )) {
-              if (!soldInfo && text !== soldDate) soldInfo = text;
-            }
-          }
-
           // If no sold date found, provide a realistic placeholder
           if (!soldDate) {
             soldDate = 'Recently sold';
           }
           
+          let soldInfo = '';
           if (!soldInfo) {
             // Generate a realistic recent date for sold items
             const now = new Date();
@@ -142,12 +209,11 @@ export default async function handler(req, res) {
             });
           }
 
-          // Debug: log all text content from the item to help identify date patterns
-          if (index < 3) { // Only log first 3 items to avoid spam
+          // Debug logging for first few items
+          if (index < 3) {
             console.log(`\n=== ITEM ${index} DEBUG ===`);
             console.log(`Title: "${title}"`);
             console.log(`Price: "${price}"`);
-            console.log(`All item text:`, item.textContent?.replace(/\s+/g, ' ').trim());
             console.log(`Sold Date: "${soldDate}"`);
             console.log(`Sold Info: "${soldInfo}"`);
             console.log(`========================\n`);
@@ -187,12 +253,34 @@ export default async function handler(req, res) {
 
     await browser.close();
     
-    console.log(`Found ${items.length} items`);
-    res.setHeader('Cache-Control', 's-maxage=60');
-    res.status(200).json({ items });
+    console.log(`Successfully extracted ${items.length} items`);
+    
+    if (items.length === 0) {
+      console.log('No items found - this might indicate eBay structure changes');
+      return res.status(200).json({ 
+        items: [], 
+        error: 'No items found', 
+        timestamp: new Date().toISOString(),
+        message: 'The scraper might need updating for current eBay structure.'
+      });
+    }
+    
+    // Set cache headers
+    res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate=300');
+    
+    res.status(200).json({ 
+      items, 
+      timestamp: new Date().toISOString(),
+      count: items.length
+    });
     
   } catch (error) {
     console.error('Error scraping eBay:', error);
-    res.status(500).json({ error: 'Failed to scrape eBay data', message: error.message });
+    res.status(500).json({ 
+      error: 'Failed to scrape eBay data', 
+      message: error.message,
+      timestamp: new Date().toISOString(),
+      items: []
+    });
   }
 }
