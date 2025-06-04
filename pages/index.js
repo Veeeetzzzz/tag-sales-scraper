@@ -253,15 +253,12 @@ export default function Home() {
               >
                 All TAG Sales
               </span>
-              <button 
-                onClick={() => setShowComingSoon(true)}
+              <a 
+                href="/cards"
                 className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
               >
                 Card List
-                <span className="ml-2 text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded-full">
-                  Coming Soon
-                </span>
-              </button>
+              </a>
             </div>
           </div>
         </div>
