@@ -259,6 +259,12 @@ export default function Home() {
               >
                 Card List
               </a>
+              <a 
+                href="/sets"
+                className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
+              >
+                Card Sets
+              </a>
             </div>
           </div>
         </div>

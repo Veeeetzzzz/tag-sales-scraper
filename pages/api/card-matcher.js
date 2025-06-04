@@ -5,6 +5,7 @@ const path = require('path');
 class CardMatcher {
   constructor() {
     this.cards = [];
+    this.sets = {};
     this.initialized = false;
   }
 
@@ -12,16 +13,54 @@ class CardMatcher {
     if (this.initialized) return;
     
     try {
-      const cardsPath = path.join(process.cwd(), 'data', 'cards', 'tag-team-cards.json');
-      const cardsData = await fs.readFile(cardsPath, 'utf8');
-      const cardDatabase = JSON.parse(cardsData);
-      this.cards = cardDatabase.cards;
+      const cardsDir = path.join(process.cwd(), 'data', 'cards');
+      const files = await fs.readdir(cardsDir);
+      
+      // Load all JSON files in the cards directory
+      const jsonFiles = files.filter(file => file.endsWith('.json'));
+      
+      for (const file of jsonFiles) {
+        try {
+          const filePath = path.join(cardsDir, file);
+          const fileData = await fs.readFile(filePath, 'utf8');
+          const cardDatabase = JSON.parse(fileData);
+          
+          if (cardDatabase.cards && Array.isArray(cardDatabase.cards)) {
+            // Store set info
+            const setKey = file.replace('.json', '');
+            this.sets[setKey] = {
+              ...cardDatabase.setInfo,
+              cards: cardDatabase.cards,
+              fileName: file
+            };
+            
+            // Add cards to main array for matching
+            this.cards.push(...cardDatabase.cards);
+          }
+        } catch (error) {
+          console.error(`Error loading ${file}:`, error);
+        }
+      }
+      
       this.initialized = true;
-      console.log(`Loaded ${this.cards.length} cards for matching`);
+      console.log(`Loaded ${this.cards.length} cards from ${Object.keys(this.sets).length} sets for matching`);
     } catch (error) {
       console.error('Error loading card database:', error);
       this.cards = [];
+      this.sets = {};
     }
+  }
+
+  // Get all available sets
+  async getSets() {
+    await this.loadCards();
+    return this.sets;
+  }
+
+  // Get specific set
+  async getSet(setKey) {
+    await this.loadCards();
+    return this.sets[setKey] || null;
   }
 
   // Fuzzy matching algorithm
@@ -49,8 +88,9 @@ class CardMatcher {
     let score = 0;
     let maxPossibleScore = 0;
 
-    // Check each matching keyword
-    for (const keyword of card.matchingKeywords) {
+    // Check each matching keyword - safely handle missing matchingKeywords
+    const keywords = card.matchingKeywords || [];
+    for (const keyword of keywords) {
       const normalizedKeyword = keyword.toLowerCase();
       maxPossibleScore += 1;
 
@@ -70,7 +110,7 @@ class CardMatcher {
     maxPossibleScore += 2;
 
     // Bonus for set code match
-    if (title.includes(card.setCode.toLowerCase())) {
+    if (card.setCode && title.includes(card.setCode.toLowerCase())) {
       score += 0.5;
     }
     maxPossibleScore += 0.5;
@@ -93,7 +133,8 @@ class CardMatcher {
 
   getMatchedKeywords(title, card) {
     const matched = [];
-    for (const keyword of card.matchingKeywords) {
+    const keywords = card.matchingKeywords || [];
+    for (const keyword of keywords) {
       if (title.includes(keyword.toLowerCase())) {
         matched.push(keyword);
       }
@@ -202,25 +243,58 @@ class CardMatcher {
 // API endpoint
 export default async function handler(req, res) {
   try {
-    const { sales } = req.body;
-    
-    if (!sales || !Array.isArray(sales)) {
-      return res.status(400).json({ error: 'Sales data required' });
-    }
-
     const matcher = new CardMatcher();
-    const result = await matcher.groupSalesByCard(sales);
     
-    res.status(200).json({
-      success: true,
-      ...result,
-      timestamp: new Date().toISOString()
-    });
+    if (req.method === 'GET') {
+      // Return all sets information
+      const { set } = req.query;
+      
+      if (set) {
+        // Get specific set
+        const setData = await matcher.getSet(set);
+        if (!setData) {
+          return res.status(404).json({ error: 'Set not found' });
+        }
+        res.status(200).json({
+          success: true,
+          set: setData,
+          timestamp: new Date().toISOString()
+        });
+      } else {
+        // Get all sets
+        const sets = await matcher.getSets();
+        res.status(200).json({
+          success: true,
+          sets: sets,
+          setCount: Object.keys(sets).length,
+          totalCards: Object.values(sets).reduce((sum, set) => sum + set.cards.length, 0),
+          timestamp: new Date().toISOString()
+        });
+      }
+    } else if (req.method === 'POST') {
+      // Existing card matching functionality
+      const { sales } = req.body;
+      
+      if (!sales || !Array.isArray(sales)) {
+        return res.status(400).json({ error: 'Sales data required' });
+      }
+
+      const result = await matcher.groupSalesByCard(sales);
+      
+      res.status(200).json({
+        success: true,
+        ...result,
+        timestamp: new Date().toISOString()
+      });
+    } else {
+      res.setHeader('Allow', ['GET', 'POST']);
+      res.status(405).json({ error: 'Method not allowed' });
+    }
     
   } catch (error) {
     console.error('Error in card matcher:', error);
     res.status(500).json({ 
-      error: 'Failed to match cards',
+      error: 'Failed to process request',
       message: error.message
     });
   }

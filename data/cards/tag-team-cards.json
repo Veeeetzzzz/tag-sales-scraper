@@ -12,7 +12,7 @@
       "setCode": "TEU",
       "cardNumber": "33",
       "rarity": "Ultra Rare",
-      "type": ["Electric"],
+      "type": "Electric",
       "hp": 240,
       "artist": "Mitsuhiro Arita",
       "matchingKeywords": [
@@ -21,26 +21,10 @@
         "PikachuZekrom",
         "Pika Zek",
         "TEU 33",
-        "Team Up 33"
+        "Team Up 33",
+        "Pikachu Zekrom GX"
       ],
-      "imageUrl": "https://images.pokemontcg.io/sm9/33_hires.png",
-      "variants": [
-        {
-          "variant": "Regular",
-          "condition": "NM",
-          "marketPrice": 15.00
-        },
-        {
-          "variant": "Full Art",
-          "condition": "NM", 
-          "marketPrice": 25.00
-        },
-        {
-          "variant": "Rainbow Rare",
-          "condition": "NM",
-          "marketPrice": 45.00
-        }
-      ]
+      "imageUrl": "https://images.pokemontcg.io/sm9/33_hires.png"
     },
     {
       "id": "tag-002", 
@@ -49,7 +33,7 @@
       "setCode": "UNB",
       "cardNumber": "20",
       "rarity": "Ultra Rare",
-      "type": ["Fire"],
+      "type": "Fire",
       "hp": 270,
       "artist": "Mitsuhiro Arita",
       "matchingKeywords": [
@@ -58,26 +42,10 @@
         "ReshiramCharizard",
         "Resh Char",
         "UNB 20",
-        "Unbroken Bonds 20"
+        "Unbroken Bonds 20",
+        "Reshiram Charizard GX"
       ],
-      "imageUrl": "https://images.pokemontcg.io/sm10/20_hires.png",
-      "variants": [
-        {
-          "variant": "Regular",
-          "condition": "NM",
-          "marketPrice": 20.00
-        },
-        {
-          "variant": "Full Art", 
-          "condition": "NM",
-          "marketPrice": 35.00
-        },
-        {
-          "variant": "Rainbow Rare",
-          "condition": "NM", 
-          "marketPrice": 60.00
-        }
-      ]
+      "imageUrl": "https://images.pokemontcg.io/sm10/20_hires.png"
     },
     {
       "id": "tag-003",
@@ -86,7 +54,7 @@
       "setCode": "UNM",
       "cardNumber": "71",
       "rarity": "Ultra Rare",
-      "type": ["Psychic"],
+      "type": "Psychic",
       "hp": 270,
       "artist": "sowsow",
       "matchingKeywords": [
@@ -95,26 +63,10 @@
         "MewtwoMew", 
         "Mew2 Mew",
         "UNM 71",
-        "Unified Minds 71"
+        "Unified Minds 71",
+        "Mewtwo Mew GX"
       ],
-      "imageUrl": "https://images.pokemontcg.io/sm11/71_hires.png",
-      "variants": [
-        {
-          "variant": "Regular",
-          "condition": "NM",
-          "marketPrice": 25.00
-        },
-        {
-          "variant": "Full Art",
-          "condition": "NM",
-          "marketPrice": 40.00  
-        },
-        {
-          "variant": "Rainbow Rare",
-          "condition": "NM",
-          "marketPrice": 80.00
-        }
-      ]
+      "imageUrl": "https://images.pokemontcg.io/sm11/71_hires.png"
     }
   ]
 } 
