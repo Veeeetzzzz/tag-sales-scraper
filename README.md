@@ -1,10 +1,10 @@
 # TAG Sales Scraper 🎴
 
-A modern web application that tracks Pokemon TAG TEAM card sales from eBay, with intelligent card matching and price analytics.
+A modern web application that tracks Pokemon TAG graded card sales from eBay, with intelligent card matching and price analytics.
 
 ## 🚀 Features
 
-- **Real-time eBay Scraping**: Automatically fetches sold TAG TEAM Pokemon cards
+- **Real-time eBay Scraping**: Automatically fetches sold TAG graded Pokemon cards
 - **Smart Card Matching**: Fuzzy matching algorithm links sales to specific cards
 - **Individual Card Analytics**: Price trends, statistics, and variant tracking
 - **Currency Conversion**: Toggle between GBP and USD with real-time conversion
@@ -47,8 +47,8 @@ The application uses a sophisticated matching algorithm:
 ```json
 {
   "setInfo": {
-    "name": "TAG TEAM Cards",
-    "description": "Pokemon TAG TEAM cards from various sets",
+    "name": "TAG Graded Cards",
+    "description": "Pokemon TAG graded cards from various sets",
     "lastUpdated": "2024-06-01"
   },
   "cards": [

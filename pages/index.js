@@ -11,6 +11,7 @@ export default function Home() {
   const [error, setError] = useState(null);
   const [searchTerm, setSearchTerm] = useState('');
   const [sortBy, setSortBy] = useState('newest'); // newest, oldest, price-high, price-low, title-az, title-za
+  const [gradeFilter, setGradeFilter] = useState('all'); // all, tag-10, tag-9, tag-8, etc.
   const [lastUpdated, setLastUpdated] = useState(null);
   const { currency } = useCurrency();
   const [showComingSoon, setShowComingSoon] = useState(false);
@@ -147,27 +148,51 @@ export default function Home() {
   // Fast client-side search/filter
   const handleSearch = (term) => {
     setSearchTerm(term);
-    applyFilters(term, sortBy);
+    applyFilters(term, sortBy, gradeFilter);
   };
 
   // Handle sort change
   const handleSortChange = (newSortBy) => {
     setSortBy(newSortBy);
-    applyFilters(searchTerm, newSortBy);
+    applyFilters(searchTerm, newSortBy, gradeFilter);
   };
 
-  // Apply both search and sort filters
-  const applyFilters = (searchTerm, sortType) => {
+  // Handle grade filter change
+  const handleGradeFilterChange = (newGradeFilter) => {
+    setGradeFilter(newGradeFilter);
+    applyFilters(searchTerm, sortBy, newGradeFilter);
+  };
+
+  // Apply search, grade, and sort filters
+  const applyFilters = (searchTerm, sortType, gradeFilterType = gradeFilter) => {
     let filtered = items;
     
     // Apply search filter
     if (searchTerm.trim()) {
-      filtered = items.filter(item => 
+      filtered = filtered.filter(item => 
         item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
         item.price.toLowerCase().includes(searchTerm.toLowerCase()) ||
         (item.soldDate && item.soldDate.toLowerCase().includes(searchTerm.toLowerCase())) ||
         (item.soldInfo && item.soldInfo.toLowerCase().includes(searchTerm.toLowerCase()))
       );
+    }
+    
+    // Apply grade filter
+    if (gradeFilterType !== 'all') {
+      filtered = filtered.filter(item => {
+        const title = item.title.toLowerCase();
+        if (gradeFilterType === 'tag-10') return title.includes('tag 10');
+        if (gradeFilterType === 'tag-9') return title.includes('tag 9');
+        if (gradeFilterType === 'tag-8') return title.includes('tag 8');
+        if (gradeFilterType === 'tag-7') return title.includes('tag 7');
+        if (gradeFilterType === 'tag-6') return title.includes('tag 6');
+        if (gradeFilterType === 'tag-5') return title.includes('tag 5');
+        if (gradeFilterType === 'tag-4') return title.includes('tag 4');
+        if (gradeFilterType === 'tag-3') return title.includes('tag 3');
+        if (gradeFilterType === 'tag-2') return title.includes('tag 2');
+        if (gradeFilterType === 'tag-1') return title.includes('tag 1');
+        return true;
+      });
     }
     
     // Apply sorting
@@ -192,8 +217,8 @@ export default function Home() {
   }, []); // Empty dependency array to run only once
 
   useEffect(() => {
-    applyFilters(searchTerm, sortBy);
-  }, [items, searchTerm, sortBy]); // Only run when these specific values change
+    applyFilters(searchTerm, sortBy, gradeFilter);
+  }, [items, searchTerm, sortBy, gradeFilter]); // Only run when these specific values change
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -286,7 +311,7 @@ export default function Home() {
       <div className="p-6">
         <div className="mb-6">
           <div className="flex justify-between items-center mb-4">
-            <h2 className="text-3xl font-bold text-center flex-1">eBay TAG 10 Pokemon Sales</h2>
+            <h2 className="text-3xl font-bold text-center flex-1">eBay TAG Graded Pokemon Sales</h2>
             <div className="flex gap-2">
               <button 
                 onClick={() => fetchData(true)}
@@ -344,6 +369,31 @@ export default function Home() {
                 </div>
               </div>
 
+              {/* Grade Filter Dropdown */}
+              <div className="flex items-center gap-2">
+                <label htmlFor="grade-select" className="text-sm font-medium text-gray-700 whitespace-nowrap">
+                  Grade:
+                </label>
+                <select
+                  id="grade-select"
+                  value={gradeFilter}
+                  onChange={(e) => handleGradeFilterChange(e.target.value)}
+                  className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
+                >
+                  <option value="all">All Grades</option>
+                  <option value="tag-10">TAG 10</option>
+                  <option value="tag-9">TAG 9</option>
+                  <option value="tag-8">TAG 8</option>
+                  <option value="tag-7">TAG 7</option>
+                  <option value="tag-6">TAG 6</option>
+                  <option value="tag-5">TAG 5</option>
+                  <option value="tag-4">TAG 4</option>
+                  <option value="tag-3">TAG 3</option>
+                  <option value="tag-2">TAG 2</option>
+                  <option value="tag-1">TAG 1</option>
+                </select>
+              </div>
+
               {/* Sort Dropdown */}
               <div className="flex items-center gap-2">
                 <label htmlFor="sort-select" className="text-sm font-medium text-gray-700 whitespace-nowrap">
@@ -365,12 +415,13 @@ export default function Home() {
               </div>
 
               {/* Clear Filters Button */}
-              {(searchTerm || sortBy !== 'newest') && (
+              {(searchTerm || sortBy !== 'newest' || gradeFilter !== 'all') && (
                 <button
                   onClick={() => {
                     setSearchTerm('');
                     setSortBy('newest');
-                    applyFilters('', 'newest');
+                    setGradeFilter('all');
+                    applyFilters('', 'newest', 'all');
                   }}
                   className="px-3 py-2 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors whitespace-nowrap"
                 >
@@ -380,11 +431,12 @@ export default function Home() {
             </div>
 
             {/* Results Info */}
-            {(searchTerm || sortBy !== 'newest') && (
+            {(searchTerm || sortBy !== 'newest' || gradeFilter !== 'all') && (
               <div className="text-center mt-3">
                 <p className="text-sm text-gray-600">
                   Showing {filteredItems.length} of {items.length} items
                   {searchTerm && ` matching "${searchTerm}"`}
+                  {gradeFilter !== 'all' && ` filtered to ${gradeFilter.replace('-', ' ').toUpperCase()}`}
                   {sortBy !== 'newest' && ` sorted by ${
                     sortBy === 'oldest' ? 'oldest first' :
                     sortBy === 'price-high' ? 'price (high to low)' :

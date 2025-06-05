@@ -1,0 +1,590 @@
+{
+  "setInfo": {
+    "name": "Stellar Crown",
+    "code": "SV07",
+    "releaseDate": "2024/09/13",
+    "totalCards": 175,
+    "series": "Scarlet & Violet",
+    "description": "Pokemon Stellar Crown featuring the legendary Terapagos ex in multiple variants, classic starter Pokemon, and ACE SPEC trainer cards"
+  },
+  "cards": [
+    {
+      "number": "001/142",
+      "name": "Venusaur ex",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["venusaur", "venusaur ex", "stellar crown", "sv07", "001"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "002/142",
+      "name": "Ledyba",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": ["ledyba", "stellar crown", "sv07", "002"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.50,
+        "high": 1
+      },
+      "metadata": {
+        "artist": "Kouki Saitou",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "003/142",
+      "name": "Ledian",
+      "type": "Grass",
+      "rarity": "Rare",
+      "matchingKeywords": ["ledian", "stellar crown", "sv07", "003"],
+      "variants": ["Regular", "Illustration Rare"],
+      "marketPrice": {
+        "low": 1,
+        "mid": 2,
+        "high": 4
+      },
+      "metadata": {
+        "artist": "Kouki Saitou",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "014/142",
+      "name": "Hydrapple ex",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["hydrapple", "hydrapple ex", "stellar crown", "sv07", "014"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "028/142",
+      "name": "Cinderace ex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["cinderace", "cinderace ex", "stellar crown", "sv07", "028"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation VIII"
+      }
+    },
+    {
+      "number": "030/142",
+      "name": "Blastoise ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["blastoise", "blastoise ex", "stellar crown", "sv07", "030"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "032/142",
+      "name": "Lapras ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["lapras", "lapras ex", "stellar crown", "sv07", "032"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "041/142",
+      "name": "Greninja ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["greninja", "greninja ex", "stellar crown", "sv07", "041"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation VI"
+      }
+    },
+    {
+      "number": "051/142",
+      "name": "Galvantula ex",
+      "type": "Lightning",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["galvantula", "galvantula ex", "stellar crown", "sv07", "051"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "055/142",
+      "name": "Zeraora",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "matchingKeywords": ["zeraora", "stellar crown", "sv07", "055"],
+      "variants": ["Regular", "Illustration Rare"],
+      "marketPrice": {
+        "low": 2,
+        "mid": 4,
+        "high": 8
+      },
+      "metadata": {
+        "artist": "Ryuta Fuse",
+        "generation": "Generation VII"
+      }
+    },
+    {
+      "number": "067/142",
+      "name": "Dachsbun ex",
+      "type": "Psychic",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["dachsbun", "dachsbun ex", "stellar crown", "sv07", "067"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 5,
+        "mid": 10,
+        "high": 18
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "080/142",
+      "name": "Medicham ex",
+      "type": "Fighting",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["medicham", "medicham ex", "stellar crown", "sv07", "080"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation III"
+      }
+    },
+    {
+      "number": "082/142",
+      "name": "Lucario ex",
+      "type": "Fighting",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["lucario", "lucario ex", "stellar crown", "sv07", "082"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 22,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IV"
+      }
+    },
+    {
+      "number": "089/142",
+      "name": "Garganaclx ex",
+      "type": "Fighting",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["garganacl", "garganaclx", "garganaclx ex", "stellar crown", "sv07", "089"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 5,
+        "mid": 10,
+        "high": 18
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "105/142",
+      "name": "Melmetal ex",
+      "type": "Metal",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["melmetal", "melmetal ex", "stellar crown", "sv07", "105"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation VII"
+      }
+    },
+    {
+      "number": "110/142",
+      "name": "Orthworm ex",
+      "type": "Metal",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["orthworm", "orthworm ex", "stellar crown", "sv07", "110"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 5,
+        "mid": 10,
+        "high": 18
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "128/142",
+      "name": "Terapagos ex",
+      "type": "Colorless",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["terapagos", "terapagos ex", "stellar crown", "sv07", "128"],
+      "variants": ["Regular", "Special Illustration Rare", "Hyper Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 30,
+        "high": 60
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "134/142",
+      "name": "Deluxe Bomb",
+      "type": "Pokemon Tool",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["deluxe bomb", "ace spec", "stellar crown", "sv07", "134"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "136/142",
+      "name": "Grand Tree",
+      "type": "Stadium",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["grand tree", "ace spec", "stellar crown", "sv07", "136"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "Ryo Ueda",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "142/142",
+      "name": "Sparkling Crystal",
+      "type": "Pokemon Tool",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["sparkling crystal", "ace spec", "stellar crown", "sv07", "142"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "143/142",
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["bulbasaur", "illustration rare", "stellar crown", "sv07", "143"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "Akira Komayama",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "148/142",
+      "name": "Squirtle",
+      "type": "Water",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["squirtle", "illustration rare", "stellar crown", "sv07", "148"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "Akira Komayama",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "156/142",
+      "name": "Hydrapple ex",
+      "type": "Grass",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["hydrapple", "hydrapple ex", "ultra rare", "stellar crown", "sv07", "156"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "157/142",
+      "name": "Cinderace ex",
+      "type": "Fire",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["cinderace", "cinderace ex", "ultra rare", "stellar crown", "sv07", "157"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 18,
+        "mid": 30,
+        "high": 50
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation VIII"
+      }
+    },
+    {
+      "number": "158/142",
+      "name": "Lapras ex",
+      "type": "Water",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["lapras", "lapras ex", "ultra rare", "stellar crown", "sv07", "158"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "167/142",
+      "name": "Hydrapple ex",
+      "type": "Grass",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["hydrapple", "hydrapple ex", "special illustration rare", "sir", "stellar crown", "sv07", "167"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 45,
+        "high": 80
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "168/142",
+      "name": "Galvantula ex",
+      "type": "Lightning",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["galvantula", "galvantula ex", "special illustration rare", "sir", "stellar crown", "sv07", "168"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 20,
+        "mid": 35,
+        "high": 60
+      },
+      "metadata": {
+        "artist": "Ryota Murayama",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "169/142",
+      "name": "Dachsbun ex",
+      "type": "Psychic",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["dachsbun", "dachsbun ex", "special illustration rare", "sir", "stellar crown", "sv07", "169"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 18,
+        "mid": 32,
+        "high": 55
+      },
+      "metadata": {
+        "artist": "Akira Komayama",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "170/142",
+      "name": "Terapagos ex",
+      "type": "Colorless",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["terapagos", "terapagos ex", "special illustration rare", "sir", "stellar crown", "sv07", "170"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 40,
+        "mid": 70,
+        "high": 120
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "171/142",
+      "name": "Briar",
+      "type": "Supporter",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["briar", "special illustration rare", "sir", "trainer", "stellar crown", "sv07", "171"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 45,
+        "high": 80
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "172/142",
+      "name": "Lacey",
+      "type": "Supporter",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["lacey", "special illustration rare", "sir", "trainer", "stellar crown", "sv07", "172"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 30,
+        "mid": 55,
+        "high": 100
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "173/142",
+      "name": "Terapagos ex",
+      "type": "Colorless",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["terapagos", "terapagos ex", "hyper rare", "gold", "stellar crown", "sv07", "173"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 60,
+        "mid": 100,
+        "high": 180
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "174/142",
+      "name": "Area Zero Underdepths",
+      "type": "Stadium",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["area zero underdepths", "hyper rare", "gold", "stadium", "stellar crown", "sv07", "174"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 45,
+        "high": 80
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "175/142",
+      "name": "Bravery Charm",
+      "type": "Pokemon Tool",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["bravery charm", "hyper rare", "gold", "stellar crown", "sv07", "175"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 30,
+        "mid": 55,
+        "high": 100
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Trainer"
+      }
+    }
+  ]
+} 

@@ -1,0 +1,826 @@
+{
+  "setInfo": {
+    "name": "Twilight Masquerade",
+    "code": "SV06",
+    "releaseDate": "2024/05/24",
+    "totalCards": 226,
+    "series": "Scarlet & Violet",
+    "description": "Pokemon Twilight Masquerade featuring Ogerpon in all four mask forms from the Teal Mask DLC, Bloodmoon Ursaluna ex, and popular characters like Carmine and Kieran"
+  },
+  "cards": [
+    {
+      "number": "023/167",
+      "name": "Sinistcha ex",
+      "setName": "Twilight Masquerade",
+      "setCode": "SV06",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["sinistcha", "sinistcha ex", "twilight masquerade", "sv06", "023"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "025/167",
+      "name": "Teal Mask Ogerpon ex",
+      "setName": "Twilight Masquerade",
+      "setCode": "SV06",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["teal mask ogerpon", "ogerpon", "ogerpon ex", "teal mask", "twilight masquerade", "sv06", "025"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare", "Hyper Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 30,
+        "high": 60
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "029/167",
+      "name": "Magcargo ex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["magcargo", "magcargo ex", "twilight masquerade", "sv06", "029"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "040/167",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["hearthflame mask ogerpon", "ogerpon", "ogerpon ex", "hearthflame mask", "twilight masquerade", "sv06", "040"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 25,
+        "high": 45
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "061/167",
+      "name": "Palafin ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["palafin", "palafin ex", "twilight masquerade", "sv06", "061"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "064/167",
+      "name": "Wellspring Mask Ogerpon ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["wellspring mask ogerpon", "ogerpon", "ogerpon ex", "wellspring mask", "twilight masquerade", "sv06", "064"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "068/167",
+      "name": "Luxray ex",
+      "type": "Lightning",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["luxray", "luxray ex", "twilight masquerade", "sv06", "068"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IV"
+      }
+    },
+    {
+      "number": "077/167",
+      "name": "Iron Thorns ex",
+      "type": "Lightning",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["iron thorns", "iron thorns ex", "twilight masquerade", "sv06", "077"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "094/167",
+      "name": "Scream Tail ex",
+      "type": "Psychic",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["scream tail", "scream tail ex", "twilight masquerade", "sv06", "094"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "106/167",
+      "name": "Greninja ex",
+      "setName": "Twilight Masquerade",
+      "setCode": "SV06",
+      "type": "Fighting",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["greninja", "greninja ex", "twilight masquerade", "sv06", "106"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 45
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation VI"
+      }
+    },
+    {
+      "number": "112/167",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "type": "Fighting",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["cornerstone mask ogerpon", "ogerpon", "ogerpon ex", "cornerstone mask", "twilight masquerade", "sv06", "112"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "130/167",
+      "name": "Dragapult ex",
+      "type": "Dragon",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["dragapult", "dragapult ex", "twilight masquerade", "sv06", "130"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation VIII"
+      }
+    },
+    {
+      "number": "134/167",
+      "name": "Blissey ex",
+      "type": "Colorless",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["blissey", "blissey ex", "twilight masquerade", "sv06", "134"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "141/167",
+      "name": "Bloodmoon Ursaluna ex",
+      "type": "Colorless",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["bloodmoon ursaluna", "ursaluna", "ursaluna ex", "blood moon", "twilight masquerade", "sv06", "141"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare", "Hyper Rare"],
+      "marketPrice": {
+        "low": 20,
+        "mid": 40,
+        "high": 80
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "152/167",
+      "name": "Hyper Aroma",
+      "type": "Item",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["hyper aroma", "ace spec", "twilight masquerade", "sv06", "152"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "162/167",
+      "name": "Scoop Up Cyclone",
+      "type": "Item",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["scoop up cyclone", "ace spec", "twilight masquerade", "sv06", "162"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "163/167",
+      "name": "Secret Box",
+      "type": "Item",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["secret box", "ace spec", "twilight masquerade", "sv06", "163"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "164/167",
+      "name": "Survival Brace",
+      "type": "Pokemon Tool",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["survival brace", "ace spec", "twilight masquerade", "sv06", "164"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "165/167",
+      "name": "Unfair Stamp",
+      "type": "Item",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["unfair stamp", "ace spec", "twilight masquerade", "sv06", "165"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 45
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "167/167",
+      "name": "Legacy Energy",
+      "type": "Special Energy",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["legacy energy", "ace spec", "rainbow energy", "twilight masquerade", "sv06", "167"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Energy"
+      }
+    },
+    {
+      "number": "171/167",
+      "name": "Poltchageist",
+      "type": "Grass",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["poltchageist", "illustration rare", "twilight masquerade", "sv06", "171"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "Miki Tanaka",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "173/167",
+      "name": "Infernape",
+      "setName": "Twilight Masquerade",
+      "setCode": "SV06",
+      "type": "Fire",
+      "hp": 110,
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["infernape", "illustration rare", "twilight masquerade", "sv06", "173", "173/167", "infernape illustration"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "Akira Komayama",
+        "generation": "Generation IV"
+      }
+    },
+    {
+      "number": "188/167",
+      "name": "Eevee",
+      "type": "Colorless",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["eevee", "illustration rare", "twilight masquerade", "sv06", "188"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "189/167",
+      "name": "Sinistcha ex",
+      "type": "Grass",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["sinistcha", "sinistcha ex", "ultra rare", "twilight masquerade", "sv06", "189"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "190/167",
+      "name": "Teal Mask Ogerpon ex",
+      "type": "Grass",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["teal mask ogerpon", "ogerpon", "ogerpon ex", "ultra rare", "twilight masquerade", "sv06", "190"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 45,
+        "high": 80
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "192/167",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "type": "Fire",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["hearthflame mask ogerpon", "ogerpon", "ogerpon ex", "ultra rare", "twilight masquerade", "sv06", "192"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 20,
+        "mid": 35,
+        "high": 60
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "194/167",
+      "name": "Wellspring Mask Ogerpon ex",
+      "type": "Water",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["wellspring mask ogerpon", "ogerpon", "ogerpon ex", "ultra rare", "twilight masquerade", "sv06", "194"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 18,
+        "mid": 30,
+        "high": 50
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "198/167",
+      "name": "Greninja ex",
+      "type": "Fighting",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["greninja", "greninja ex", "ultra rare", "twilight masquerade", "sv06", "198"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 40,
+        "high": 70
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation VI"
+      }
+    },
+    {
+      "number": "199/167",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "type": "Fighting",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["cornerstone mask ogerpon", "ogerpon", "ogerpon ex", "ultra rare", "twilight masquerade", "sv06", "199"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 18,
+        "mid": 30,
+        "high": 50
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "202/167",
+      "name": "Bloodmoon Ursaluna ex",
+      "setName": "Twilight Masquerade",
+      "setCode": "SV06",
+      "type": "Colorless",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["bloodmoon ursaluna", "ursaluna", "ursaluna ex", "ultra rare", "twilight masquerade", "sv06", "202"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 35,
+        "mid": 60,
+        "high": 100
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "204/167",
+      "name": "Carmine",
+      "setName": "Twilight Masquerade",
+      "setCode": "SV06",
+      "type": "Supporter",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["carmine", "ultra rare", "trainer", "twilight masquerade", "sv06", "204"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 18,
+        "mid": 30,
+        "high": 50
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "206/167",
+      "name": "Kieran",
+      "setName": "Twilight Masquerade",
+      "setCode": "SV06",
+      "type": "Supporter",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["kieran", "ultra rare", "trainer", "twilight masquerade", "sv06", "206"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 20,
+        "mid": 35,
+        "high": 60
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "209/167",
+      "name": "Perrin",
+      "type": "Supporter",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["perrin", "ultra rare", "trainer", "twilight masquerade", "sv06", "209"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "210/167",
+      "name": "Sinistcha ex",
+      "type": "Grass",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["sinistcha", "sinistcha ex", "special illustration rare", "sir", "twilight masquerade", "sv06", "210"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 45,
+        "high": 80
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "211/167",
+      "name": "Teal Mask Ogerpon ex",
+      "type": "Grass",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["teal mask ogerpon", "ogerpon", "ogerpon ex", "special illustration rare", "sir", "twilight masquerade", "sv06", "211"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 40,
+        "mid": 70,
+        "high": 120
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "212/167",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "type": "Fire",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["hearthflame mask ogerpon", "ogerpon", "ogerpon ex", "special illustration rare", "sir", "twilight masquerade", "sv06", "212"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 35,
+        "mid": 60,
+        "high": 100
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "213/167",
+      "name": "Wellspring Mask Ogerpon ex",
+      "type": "Water",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["wellspring mask ogerpon", "ogerpon", "ogerpon ex", "special illustration rare", "sir", "twilight masquerade", "sv06", "213"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 30,
+        "mid": 55,
+        "high": 95
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "214/167",
+      "name": "Greninja ex",
+      "type": "Fighting",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["greninja", "greninja ex", "special illustration rare", "sir", "twilight masquerade", "sv06", "214"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 40,
+        "mid": 70,
+        "high": 120
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation VI"
+      }
+    },
+    {
+      "number": "215/167",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "type": "Fighting",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["cornerstone mask ogerpon", "ogerpon", "ogerpon ex", "special illustration rare", "sir", "twilight masquerade", "sv06", "215"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 30,
+        "mid": 50,
+        "high": 85
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "216/167",
+      "name": "Bloodmoon Ursaluna ex",
+      "type": "Colorless",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["bloodmoon ursaluna", "ursaluna", "ursaluna ex", "special illustration rare", "sir", "twilight masquerade", "sv06", "216"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 60,
+        "mid": 100,
+        "high": 180
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "217/167",
+      "name": "Carmine",
+      "type": "Supporter",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["carmine", "special illustration rare", "sir", "trainer", "twilight masquerade", "sv06", "217"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 35,
+        "mid": 60,
+        "high": 100
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "218/167",
+      "name": "Kieran",
+      "type": "Supporter",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["kieran", "special illustration rare", "sir", "trainer", "twilight masquerade", "sv06", "218"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 40,
+        "mid": 70,
+        "high": 120
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "220/167",
+      "name": "Perrin",
+      "type": "Supporter",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["perrin", "special illustration rare", "sir", "trainer", "twilight masquerade", "sv06", "220"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 30,
+        "mid": 50,
+        "high": 85
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "221/167",
+      "name": "Teal Mask Ogerpon ex",
+      "type": "Grass",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["teal mask ogerpon", "ogerpon", "ogerpon ex", "hyper rare", "gold", "twilight masquerade", "sv06", "221"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 80,
+        "mid": 130,
+        "high": 220
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "222/167",
+      "name": "Bloodmoon Ursaluna ex",
+      "type": "Colorless",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["bloodmoon ursaluna", "ursaluna", "ursaluna ex", "hyper rare", "gold", "twilight masquerade", "sv06", "222"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 100,
+        "mid": 170,
+        "high": 300
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "223/167",
+      "name": "Buddy-Buddy Poffin",
+      "type": "Item",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["buddy-buddy poffin", "poffin", "hyper rare", "gold", "twilight masquerade", "sv06", "223"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 40,
+        "mid": 70,
+        "high": 120
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "226/167",
+      "name": "Luminous Energy",
+      "type": "Special Energy",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["luminous energy", "rainbow energy", "hyper rare", "gold", "twilight masquerade", "sv06", "226"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 30,
+        "mid": 50,
+        "high": 85
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Energy"
+      }
+    }
+  ]
+} 

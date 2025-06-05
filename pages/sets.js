@@ -107,10 +107,10 @@ export default function Sets() {
                 />
 
                 <div className="mt-4 space-y-3 text-sm">
-                  <div><strong>HP:</strong> {card.hp || 'N/A'}</div>
+                  <div><strong>HP:</strong> {card.hp || card.metadata?.hp || 'N/A'}</div>
                   <div><strong>Type:</strong> {Array.isArray(card.type) ? card.type.join(', ') : (card.type || 'N/A')}</div>
                   <div><strong>Rarity:</strong> {card.rarity || 'N/A'}</div>
-                  <div><strong>Artist:</strong> {card.artist || 'N/A'}</div>
+                  <div><strong>Artist:</strong> {card.artist || card.metadata?.artist || 'N/A'}</div>
                   <div><strong>Card Number:</strong> {card.fullNumber || card.cardNumber}</div>
                 </div>
 

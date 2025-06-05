@@ -2,9 +2,11 @@ import React, { useEffect, useState } from "react";
 import Footer from '../components/Footer';
 import CurrencySelector from '../components/CurrencySelector';
 import { useCurrency } from '../contexts/CurrencyContext';
-import { convertAndFormatPrice } from '../utils/currency';
+import { convertAndFormatPrice, convertCurrency } from '../utils/currency';
 
 export default function Cards() {
+  const [allSales, setAllSales] = useState([]);
+  const [filteredSales, setFilteredSales] = useState([]);
   const [cardSales, setCardSales] = useState({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -12,8 +14,16 @@ export default function Cards() {
   const [selectedCard, setSelectedCard] = useState(null);
   const { currency } = useCurrency();
 
+  // Filter states
+  const [searchTerm, setSearchTerm] = useState('');
+  const [gradeFilter, setGradeFilter] = useState('all');
+  const [sortBy, setSortBy] = useState('newest');
+  const [matchFilter, setMatchFilter] = useState('all'); // all, matched, unmatched
+  const [priceRange, setPriceRange] = useState({ min: '', max: '' });
+
   const fetchCardData = async () => {
     setLoading(true);
+    setError(null);
     try {
       // First, get the sales data
       const salesResponse = await fetch('/api/ebay');
@@ -32,9 +42,39 @@ export default function Cards() {
         if (matchData.success) {
           setCardSales(matchData.cardSales);
           setUnmatchedSales(matchData.unmatchedSales);
+          
+          // Create a combined array of all sales with match information
+          const allSalesWithMatches = [];
+          
+          // Add matched sales
+          Object.values(matchData.cardSales).forEach(cardData => {
+            cardData.sales.forEach(sale => {
+              allSalesWithMatches.push({
+                ...sale,
+                matched: true,
+                matchedCard: cardData.card,
+                matchConfidence: sale.matchConfidence
+              });
+            });
+          });
+          
+          // Add unmatched sales
+          matchData.unmatchedSales.forEach(sale => {
+            allSalesWithMatches.push({
+              ...sale,
+              matched: false,
+              matchedCard: null,
+              matchConfidence: 0
+            });
+          });
+          
+          setAllSales(allSalesWithMatches);
+          setFilteredSales(allSalesWithMatches);
         } else {
           setError('Failed to match cards to sales');
         }
+      } else if (salesData.error) {
+        setError(salesData.message || 'No sales data available');
       } else {
         setError('No sales data available');
       }
@@ -54,14 +94,146 @@ export default function Cards() {
     return convertAndFormatPrice(price, currency, 'GBP');
   };
 
-  const getPriceColor = (currentPrice, marketPrice) => {
-    const ratio = currentPrice / marketPrice;
-    if (ratio > 1.1) return 'text-red-600'; // Above market
-    if (ratio < 0.9) return 'text-green-600'; // Below market
-    return 'text-gray-700'; // Around market
+  // Sorting function
+  const sortSales = (salesToSort, sortType) => {
+    const sorted = [...salesToSort].sort((a, b) => {
+      switch (sortType) {
+        case 'newest':
+          return 0; // Keep original order (newest first from eBay)
+        case 'oldest':
+          return 0; // Will be reversed
+        case 'price-high':
+          const priceA = parseFloat(a.price.replace(/[£$,]/g, '')) || 0;
+          const priceB = parseFloat(b.price.replace(/[£$,]/g, '')) || 0;
+          return priceB - priceA;
+        case 'price-low':
+          const priceA2 = parseFloat(a.price.replace(/[£$,]/g, '')) || 0;
+          const priceB2 = parseFloat(b.price.replace(/[£$,]/g, '')) || 0;
+          return priceA2 - priceB2;
+        case 'title-az':
+          return a.title.localeCompare(b.title);
+        case 'title-za':
+          return b.title.localeCompare(a.title);
+        case 'confidence-high':
+          return (b.matchConfidence || 0) - (a.matchConfidence || 0);
+        case 'confidence-low':
+          return (a.matchConfidence || 0) - (b.matchConfidence || 0);
+        default:
+          return 0;
+      }
+    });
+    
+    if (sortType === 'oldest') {
+      return sorted.reverse();
+    }
+    
+    return sorted;
   };
 
+  // Apply all filters
+  const applyFilters = (searchTerm, gradeFilter, matchFilter, sortBy, priceRange) => {
+    let filtered = allSales;
+    
+    // Apply search filter
+    if (searchTerm.trim()) {
+      filtered = filtered.filter(sale => 
+        sale.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        sale.price.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        (sale.soldDate && sale.soldDate.toLowerCase().includes(searchTerm.toLowerCase())) ||
+        (sale.soldInfo && sale.soldInfo.toLowerCase().includes(searchTerm.toLowerCase())) ||
+        (sale.matchedCard && sale.matchedCard.name.toLowerCase().includes(searchTerm.toLowerCase()))
+      );
+    }
+    
+    // Apply grade filter
+    if (gradeFilter !== 'all') {
+      filtered = filtered.filter(sale => {
+        const title = sale.title.toLowerCase();
+        if (gradeFilter === 'tag-10') return title.includes('tag 10');
+        if (gradeFilter === 'tag-9') return title.includes('tag 9');
+        if (gradeFilter === 'tag-8') return title.includes('tag 8');
+        if (gradeFilter === 'tag-7') return title.includes('tag 7');
+        if (gradeFilter === 'tag-6') return title.includes('tag 6');
+        if (gradeFilter === 'tag-5') return title.includes('tag 5');
+        if (gradeFilter === 'tag-4') return title.includes('tag 4');
+        if (gradeFilter === 'tag-3') return title.includes('tag 3');
+        if (gradeFilter === 'tag-2') return title.includes('tag 2');
+        if (gradeFilter === 'tag-1') return title.includes('tag 1');
+        return true;
+      });
+    }
+    
+    // Apply match filter
+    if (matchFilter === 'matched') {
+      filtered = filtered.filter(sale => sale.matched);
+    } else if (matchFilter === 'unmatched') {
+      filtered = filtered.filter(sale => !sale.matched);
+    }
+    
+    // Apply price range filter
+    if (priceRange.min || priceRange.max) {
+      filtered = filtered.filter(sale => {
+        const price = parseFloat(sale.price.replace(/[£$,]/g, '')) || 0;
+        const fromCurrency = sale.price.includes('$') ? 'USD' : 'GBP';
+        const convertedPrice = convertCurrency(price, fromCurrency, 'GBP');
+        
+        if (priceRange.min && convertedPrice < parseFloat(priceRange.min)) return false;
+        if (priceRange.max && convertedPrice > parseFloat(priceRange.max)) return false;
+        return true;
+      });
+    }
+    
+    // Apply sorting
+    filtered = sortSales(filtered, sortBy);
+    
+    setFilteredSales(filtered);
+  };
+
+  // Filter handlers
+  const handleSearch = (term) => {
+    setSearchTerm(term);
+    applyFilters(term, gradeFilter, matchFilter, sortBy, priceRange);
+  };
+
+  const handleGradeFilterChange = (newGradeFilter) => {
+    setGradeFilter(newGradeFilter);
+    applyFilters(searchTerm, newGradeFilter, matchFilter, sortBy, priceRange);
+  };
+
+  const handleMatchFilterChange = (newMatchFilter) => {
+    setMatchFilter(newMatchFilter);
+    applyFilters(searchTerm, gradeFilter, newMatchFilter, sortBy, priceRange);
+  };
+
+  const handleSortChange = (newSortBy) => {
+    setSortBy(newSortBy);
+    applyFilters(searchTerm, gradeFilter, matchFilter, newSortBy, priceRange);
+  };
+
+  const handlePriceRangeChange = (newPriceRange) => {
+    setPriceRange(newPriceRange);
+    applyFilters(searchTerm, gradeFilter, matchFilter, sortBy, newPriceRange);
+  };
+
+  const clearAllFilters = () => {
+    setSearchTerm('');
+    setGradeFilter('all');
+    setMatchFilter('all');
+    setSortBy('newest');
+    setPriceRange({ min: '', max: '' });
+    applyFilters('', 'all', 'all', 'newest', { min: '', max: '' });
+  };
+
+  // Update filters when allSales changes
+  useEffect(() => {
+    if (allSales.length > 0) {
+      applyFilters(searchTerm, gradeFilter, matchFilter, sortBy, priceRange);
+    }
+  }, [allSales]);
+
   const CardModal = ({ card, cardData, onClose }) => {
+    if (!card || !cardData) return null;
+    
     // Get fallback image from most recent eBay sale
     const fallbackImage = cardData.sales && cardData.sales.length > 0 
       ? cardData.sales[0].img || cardData.sales[0].image 
@@ -79,6 +251,11 @@ export default function Cards() {
               <div>
                 <h2 className="text-2xl font-bold text-gray-900">{card.name}</h2>
                 <p className="text-gray-600">{card.setName} • {card.setCode} {card.cardNumber}</p>
+                {card.setName && (
+                  <span className="inline-block bg-yellow-100 text-yellow-800 px-2 py-1 text-xs font-medium rounded-full mt-1">
+                    {card.setName}
+                  </span>
+                )}
               </div>
               <button
                 onClick={onClose}
@@ -96,40 +273,22 @@ export default function Cards() {
                     src={imageUrl} 
                     alt={card.name}
                     className="w-full max-w-sm mx-auto rounded-lg shadow-lg"
-                    onError={(e) => {
-                      // If the image fails to load, try to find another image from sales data
-                      const altImages = cardData.sales
-                        ?.map(sale => sale.img || sale.image)
-                        .filter(img => img && img !== imageUrl);
-                      
-                      if (altImages && altImages.length > 0) {
-                        e.target.src = altImages[0];
-                      } else {
-                        // Show placeholder if no images available
-                        e.target.style.display = 'none';
-                        e.target.nextElementSibling.style.display = 'flex';
-                      }
-                    }}
                   />
-                ) : null}
-                
-                {/* Placeholder when no image is available */}
-                <div 
-                  className="w-full max-w-sm mx-auto h-96 bg-gray-100 rounded-lg shadow-lg flex items-center justify-center text-gray-400"
-                  style={{ display: imageUrl ? 'none' : 'flex' }}
-                >
-                  <div className="text-center">
-                    <svg className="w-16 h-16 mx-auto mb-2" fill="currentColor" viewBox="0 0 24 24">
-                      <path d="M4 4h16v16H4V4zm2 2v12h12V6H6zm8 3l3 4H7l2-2.5L11 13l3-4z"/>
-                    </svg>
-                    <p className="text-lg">No Image Available</p>
+                ) : (
+                  <div className="w-full max-w-sm mx-auto h-96 bg-gray-100 rounded-lg shadow-lg flex items-center justify-center text-gray-400">
+                    <div className="text-center">
+                      <svg className="w-16 h-16 mx-auto mb-2" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M4 4h16v16H4V4zm2 2v12h12V6H6zm8 3l3 4H7l2-2.5L11 13l3-4z"/>
+                      </svg>
+                      <p className="text-lg">No Image Available</p>
+                    </div>
                   </div>
-                </div>
+                )}
                 
                 <div className="mt-4 text-sm text-gray-600">
-                  <p><strong>HP:</strong> {card.hp}</p>
+                  <p><strong>HP:</strong> {card.hp || card.metadata?.hp || '-'}</p>
                   <p><strong>Type:</strong> {Array.isArray(card.type) ? card.type.join(', ') : (card.type || 'N/A')}</p>
-                  <p><strong>Artist:</strong> {card.artist}</p>
+                  <p><strong>Artist:</strong> {card.artist || card.metadata?.artist || '-'}</p>
                   <p><strong>Rarity:</strong> {card.rarity}</p>
                 </div>
               </div>
@@ -196,7 +355,7 @@ export default function Cards() {
       <div className="min-h-screen bg-gray-100 flex items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-          <p>Loading card data...</p>
+          <p>Loading sales data...</p>
         </div>
       </div>
     );
@@ -218,7 +377,8 @@ export default function Cards() {
     );
   }
 
-  const cardEntries = Object.entries(cardSales);
+  const matchedSalesCount = filteredSales.filter(sale => sale.matched).length;
+  const unmatchedSalesCount = filteredSales.filter(sale => !sale.matched).length;
 
   return (
     <div className="min-h-screen bg-gray-100">
@@ -227,7 +387,7 @@ export default function Cards() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-                              <h1 className="text-xl font-bold text-gray-900">TAG (Technical Authentication & Grading) Sales Tracker</h1>
+              <h1 className="text-xl font-bold text-gray-900">TAG (Technical Authentication & Grading) Sales Tracker</h1>
             </div>
             <div className="flex space-x-8">
               <a href="/" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
@@ -253,115 +413,223 @@ export default function Cards() {
           <div className="mb-6">
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
               <div>
-                <h2 className="text-3xl font-bold text-gray-900 mb-2">Matched Cards</h2>
+                <h2 className="text-3xl font-bold text-gray-900 mb-2">All TAG Sales</h2>
                 <p className="text-gray-600">
-                  {cardEntries.length} cards with sales data • 
-                  {Object.values(cardSales).reduce((sum, card) => sum + card.sales.length, 0)} total sales matched
-                  {unmatchedSales.length > 0 && ` • ${unmatchedSales.length} unmatched sales`}
+                  {filteredSales.length} of {allSales.length} sales •
+                  {matchedSalesCount} matched • {unmatchedSalesCount} unmatched
                 </p>
               </div>
-              <div className="mt-4 sm:mt-0">
+              <div className="mt-4 sm:mt-0 flex gap-2">
                 <CurrencySelector />
+                <button 
+                  onClick={fetchCardData}
+                  disabled={loading}
+                  className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 disabled:opacity-50"
+                >
+                  Refresh
+                </button>
               </div>
             </div>
           </div>
 
-          {/* Cards Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {cardEntries.map(([cardId, cardData]) => {
-              const card = cardData.card;
-              const stats = cardData.stats;
-              
-              // Get fallback image from most recent eBay sale
-              const fallbackImage = cardData.sales && cardData.sales.length > 0 
-                ? cardData.sales[0].img || cardData.sales[0].image 
-                : null;
-              
-              // Use card image if available, otherwise fallback to eBay listing image
-              const imageUrl = card.imageUrl || fallbackImage;
-              
-              return (
-                <div 
-                  key={cardId}
-                  className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow cursor-pointer"
-                  onClick={() => setSelectedCard({ card, cardData })}
-                >
-                  <div className="p-4">
-                    {imageUrl ? (
-                      <img 
-                        src={imageUrl} 
-                        alt={card.name}
-                        className="w-full h-48 object-contain rounded-lg mb-4"
-                        onError={(e) => {
-                          // If the image fails to load, try to find another image from sales data
-                          const altImages = cardData.sales
-                            ?.map(sale => sale.img || sale.image)
-                            .filter(img => img && img !== imageUrl);
-                          
-                          if (altImages && altImages.length > 0) {
-                            e.target.src = altImages[0];
-                          } else {
-                            // Show placeholder if no images available
-                            e.target.style.display = 'none';
-                            e.target.nextElementSibling.style.display = 'flex';
-                          }
-                        }}
-                      />
-                    ) : null}
-                    
-                    {/* Placeholder when no image is available */}
-                    <div 
-                      className="w-full h-48 bg-gray-100 rounded-lg mb-4 flex items-center justify-center text-gray-400"
-                      style={{ display: imageUrl ? 'none' : 'flex' }}
-                    >
-                      <div className="text-center">
-                        <svg className="w-12 h-12 mx-auto mb-2" fill="currentColor" viewBox="0 0 24 24">
-                          <path d="M4 4h16v16H4V4zm2 2v12h12V6H6zm8 3l3 4H7l2-2.5L11 13l3-4z"/>
+          {/* Filter Controls */}
+          <div className="max-w-6xl mx-auto mb-6">
+            <div className="bg-white rounded-lg shadow p-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
+                {/* Search */}
+                <div className="xl:col-span-2">
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Search</label>
+                  <div className="relative">
+                    <input
+                      type="text"
+                      placeholder="Search titles, cards, prices..."
+                      value={searchTerm}
+                      onChange={(e) => handleSearch(e.target.value)}
+                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    />
+                    {searchTerm && (
+                      <button
+                        onClick={() => handleSearch('')}
+                        className="absolute inset-y-0 right-0 pr-3 flex items-center text-gray-400 hover:text-gray-600"
+                      >
+                        <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                         </svg>
-                        <p className="text-sm">No Image</p>
-                      </div>
-                    </div>
-                    
-                    <h3 className="font-bold text-lg mb-2 line-clamp-2">{card.name}</h3>
-                    <p className="text-sm text-gray-600 mb-3">{card.setName}</p>
-                    
-                    {stats && (
-                      <div className="space-y-2">
-                        <div className="flex justify-between text-sm">
-                          <span className="text-gray-600">Sales:</span>
-                          <span className="font-medium">{stats.count}</span>
-                        </div>
-                        
-                        <div className="flex justify-between text-sm">
-                          <span className="text-gray-600">Avg Price:</span>
-                          <span className="font-medium text-green-600">
-                            {formatPrice(stats.averagePrice)}
-                          </span>
-                        </div>
-                        
-                        <div className="flex justify-between text-sm">
-                          <span className="text-gray-600">Range:</span>
-                          <span className="font-medium">
-                            {formatPrice(stats.minPrice)} - {formatPrice(stats.maxPrice)}
-                          </span>
-                        </div>
-                        
-                        <div className="pt-2 border-t">
-                          <p className="text-xs text-gray-500">
-                            Last sale: {stats.lastSale?.soldInfo || 'N/A'}
-                          </p>
-                        </div>
-                      </div>
+                      </button>
                     )}
                   </div>
                 </div>
-              );
-            })}
+
+                {/* Grade Filter */}
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Grade</label>
+                  <select
+                    value={gradeFilter}
+                    onChange={(e) => handleGradeFilterChange(e.target.value)}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  >
+                    <option value="all">All Grades</option>
+                    <option value="tag-10">TAG 10</option>
+                    <option value="tag-9">TAG 9</option>
+                    <option value="tag-8">TAG 8</option>
+                    <option value="tag-7">TAG 7</option>
+                    <option value="tag-6">TAG 6</option>
+                    <option value="tag-5">TAG 5</option>
+                    <option value="tag-4">TAG 4</option>
+                    <option value="tag-3">TAG 3</option>
+                    <option value="tag-2">TAG 2</option>
+                    <option value="tag-1">TAG 1</option>
+                  </select>
+                </div>
+
+                {/* Match Filter */}
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Match Status</label>
+                  <select
+                    value={matchFilter}
+                    onChange={(e) => handleMatchFilterChange(e.target.value)}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  >
+                    <option value="all">All Sales</option>
+                    <option value="matched">Matched Only</option>
+                    <option value="unmatched">Unmatched Only</option>
+                  </select>
+                </div>
+
+                {/* Sort */}
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Sort By</label>
+                  <select
+                    value={sortBy}
+                    onChange={(e) => handleSortChange(e.target.value)}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  >
+                    <option value="newest">Newest First</option>
+                    <option value="oldest">Oldest First</option>
+                    <option value="price-high">Price: High to Low</option>
+                    <option value="price-low">Price: Low to High</option>
+                    <option value="title-az">Title: A to Z</option>
+                    <option value="title-za">Title: Z to A</option>
+                    <option value="confidence-high">Confidence: High to Low</option>
+                    <option value="confidence-low">Confidence: Low to High</option>
+                  </select>
+                </div>
+              </div>
+
+              {/* Price Range */}
+              <div className="mt-4 grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Min Price (£)</label>
+                  <input
+                    type="number"
+                    placeholder="0"
+                    value={priceRange.min}
+                    onChange={(e) => handlePriceRangeChange({ ...priceRange, min: e.target.value })}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  />
+                </div>
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Max Price (£)</label>
+                  <input
+                    type="number"
+                    placeholder="1000"
+                    value={priceRange.max}
+                    onChange={(e) => handlePriceRangeChange({ ...priceRange, max: e.target.value })}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  />
+                </div>
+                <div className="flex items-end">
+                  <button
+                    onClick={clearAllFilters}
+                    className="w-full px-3 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
+                  >
+                    Clear All Filters
+                  </button>
+                </div>
+              </div>
+            </div>
           </div>
 
-          {cardEntries.length === 0 && (
+          {/* Sales Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {filteredSales.map((sale, idx) => (
+              <div 
+                key={idx} 
+                className={`bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow ${
+                  sale.matched ? 'border-l-4 border-green-500' : 'border-l-4 border-gray-300'
+                }`}
+              >
+                <div className="p-4">
+                  <img 
+                    src={sale.img} 
+                    alt={sale.title} 
+                    className="w-full h-48 object-contain rounded-lg mb-4" 
+                  />
+                  
+                  <h3 className="font-semibold text-lg mb-2 line-clamp-2">{sale.title}</h3>
+                  
+                  <div className="flex justify-between items-center mb-2">
+                    <p className="text-green-600 font-bold text-xl">
+                      {convertAndFormatPrice(sale.price, currency)}
+                    </p>
+                    {sale.matched && (
+                      <span className="text-xs bg-green-100 text-green-800 px-2 py-1 rounded-full">
+                        {(sale.matchConfidence * 100).toFixed(0)}% match
+                      </span>
+                    )}
+                  </div>
+
+                  {sale.matched && sale.matchedCard && (
+                    <div className="mb-2">
+                      <p className="text-sm text-blue-600 font-medium">
+                        → {sale.matchedCard.name}
+                      </p>
+                      <p className="text-xs text-gray-500">{sale.matchedCard.setName}</p>
+                    </div>
+                  )}
+
+                  <div className="mb-3">
+                    <p className="text-sm text-gray-600">
+                      <span className="font-medium">Sold:</span> {sale.soldInfo || sale.soldDate || 'Recently sold'}
+                    </p>
+                  </div>
+
+                  <div className="flex gap-2">
+                    {sale.listingUrl && (
+                      <a 
+                        href={sale.listingUrl} 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="flex-1 text-center bg-blue-500 text-white px-3 py-2 rounded text-sm hover:bg-blue-600 transition-colors"
+                      >
+                        View on eBay
+                      </a>
+                    )}
+                    {sale.matched && sale.matchedCard && (
+                      <button
+                        onClick={() => setSelectedCard({ 
+                          card: sale.matchedCard, 
+                          cardData: cardSales[sale.matchedCard.id] 
+                        })}
+                        className="flex-1 text-center bg-gray-500 text-white px-3 py-2 rounded text-sm hover:bg-gray-600 transition-colors"
+                      >
+                        Card Details
+                      </button>
+                    )}
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {filteredSales.length === 0 && !loading && (
             <div className="text-center py-12">
-              <p className="text-gray-500">No card sales data available yet.</p>
+              <p className="text-gray-500">
+                {allSales.length === 0 
+                  ? "No sales data available yet." 
+                  : "No sales match your filters. Try adjusting your search criteria."
+                }
+              </p>
             </div>
           )}
         </div>

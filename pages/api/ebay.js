@@ -176,7 +176,7 @@ export default async function handler(req, res) {
   try {
     console.log('Starting eBay scraper...');
     
-    const url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+10+Pokemon+-PSA&_sacat=0&_from=R40&LH_PrefLoc=2&rt=nc&LH_Sold=1&LH_Complete=1';
+    const url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+Pokemon+-PSA&_sacat=0&_from=R40&LH_PrefLoc=2&rt=nc&LH_Sold=1&LH_Complete=1';
     
     let items = [];
     

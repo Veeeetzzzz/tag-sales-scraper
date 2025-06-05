@@ -1,0 +1,624 @@
+{
+  "setInfo": {
+    "name": "Shrouded Fable",
+    "code": "SV06.5",
+    "releaseDate": "2024/08/02",
+    "totalCards": 99,
+    "series": "Scarlet & Violet",
+    "description": "Pokemon Shrouded Fable featuring the Loyal Three (Okidogi, Munkidori, Fezandipiti) and the mythical Pecharunt ex with Toxic Chain theme"
+  },
+  "cards": [
+    {
+      "number": "012/064",
+      "name": "Kingdra ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["kingdra", "kingdra ex", "shrouded fable", "sv06.5", "012"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "015/064",
+      "name": "Revavroom ex",
+      "type": "Lightning",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["revavroom", "revavroom ex", "shrouded fable", "sv06.5", "015"],
+      "variants": ["Regular", "Ultra Rare"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "025/064",
+      "name": "Bloodmoon Ursaluna",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "matchingKeywords": ["bloodmoon ursaluna", "ursaluna", "blood moon", "shrouded fable", "sv06.5", "025"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 3,
+        "mid": 6,
+        "high": 12
+      },
+      "metadata": {
+        "artist": "Ryuta Fuse",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "036/064",
+      "name": "Okidogi ex",
+      "type": "Darkness",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["okidogi", "okidogi ex", "loyal three", "shrouded fable", "sv06.5", "036"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "037/064",
+      "name": "Munkidori ex",
+      "type": "Darkness",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["munkidori", "munkidori ex", "loyal three", "shrouded fable", "sv06.5", "037"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "038/064",
+      "name": "Fezandipiti ex",
+      "type": "Darkness",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["fezandipiti", "fezandipiti ex", "loyal three", "shrouded fable", "sv06.5", "038"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "039/064",
+      "name": "Pecharunt ex",
+      "type": "Darkness",
+      "rarity": "Double Rare",
+      "matchingKeywords": ["pecharunt", "pecharunt ex", "shrouded fable", "sv06.5", "039"],
+      "variants": ["Regular", "Ultra Rare", "Special Illustration Rare", "Hyper Rare"],
+      "marketPrice": {
+        "low": 20,
+        "mid": 35,
+        "high": 60
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "058/064",
+      "name": "Dangerous Laser",
+      "type": "Item",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["dangerous laser", "ace spec", "shrouded fable", "sv06.5", "058"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "060/064",
+      "name": "Neutralization Zone",
+      "type": "Stadium",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["neutralization zone", "ace spec", "stadium", "shrouded fable", "sv06.5", "060"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "Ryo Ueda",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "062/064",
+      "name": "Poké Vital A",
+      "type": "Item",
+      "rarity": "ACE SPEC Rare",
+      "matchingKeywords": ["poke vital a", "poké vital a", "ace spec", "shrouded fable", "sv06.5", "062"],
+      "variants": ["Regular"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "Studio Bora Inc.",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "065/064",
+      "name": "Tapu Bulu",
+      "type": "Grass",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["tapu bulu", "illustration rare", "shrouded fable", "sv06.5", "065"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 6,
+        "mid": 12,
+        "high": 20
+      },
+      "metadata": {
+        "artist": "Kouki Saitou",
+        "generation": "Generation VII"
+      }
+    },
+    {
+      "number": "067/064",
+      "name": "Horsea",
+      "type": "Water",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["horsea", "illustration rare", "shrouded fable", "sv06.5", "067"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 4,
+        "mid": 8,
+        "high": 15
+      },
+      "metadata": {
+        "artist": "Miki Tanaka",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "070/064",
+      "name": "Dusknoir",
+      "type": "Psychic",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["dusknoir", "illustration rare", "shrouded fable", "sv06.5", "070"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "Shinji Kanda",
+        "generation": "Generation IV"
+      }
+    },
+    {
+      "number": "071/064",
+      "name": "Cresselia",
+      "type": "Psychic",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["cresselia", "illustration rare", "shrouded fable", "sv06.5", "071"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "Akira Komayama",
+        "generation": "Generation IV"
+      }
+    },
+    {
+      "number": "072/064",
+      "name": "Munkidori",
+      "type": "Psychic",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["munkidori", "illustration rare", "loyal three", "shrouded fable", "sv06.5", "072"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "Ryota Murayama",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "073/064",
+      "name": "Fezandipiti",
+      "type": "Psychic",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["fezandipiti", "illustration rare", "loyal three", "shrouded fable", "sv06.5", "073"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "074/064",
+      "name": "Okidogi",
+      "type": "Fighting",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["okidogi", "illustration rare", "loyal three", "shrouded fable", "sv06.5", "074"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 10,
+        "mid": 18,
+        "high": 30
+      },
+      "metadata": {
+        "artist": "Akira Komayama",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "075/064",
+      "name": "Zorua",
+      "type": "Darkness",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": ["zorua", "illustration rare", "shrouded fable", "sv06.5", "075"],
+      "variants": ["Illustration Rare"],
+      "marketPrice": {
+        "low": 8,
+        "mid": 15,
+        "high": 25
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "080/064",
+      "name": "Kingdra ex",
+      "type": "Water",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["kingdra", "kingdra ex", "ultra rare", "shrouded fable", "sv06.5", "080"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "081/064",
+      "name": "Revavroom ex",
+      "type": "Lightning",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["revavroom", "revavroom ex", "ultra rare", "shrouded fable", "sv06.5", "081"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "082/064",
+      "name": "Okidogi ex",
+      "type": "Darkness",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["okidogi", "okidogi ex", "ultra rare", "loyal three", "shrouded fable", "sv06.5", "082"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 18,
+        "mid": 30,
+        "high": 50
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "083/064",
+      "name": "Munkidori ex",
+      "type": "Darkness",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["munkidori", "munkidori ex", "ultra rare", "loyal three", "shrouded fable", "sv06.5", "083"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 20,
+        "mid": 35,
+        "high": 60
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "084/064",
+      "name": "Fezandipiti ex",
+      "type": "Darkness",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["fezandipiti", "fezandipiti ex", "ultra rare", "loyal three", "shrouded fable", "sv06.5", "084"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 40,
+        "high": 70
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "085/064",
+      "name": "Pecharunt ex",
+      "type": "Darkness",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["pecharunt", "pecharunt ex", "ultra rare", "shrouded fable", "sv06.5", "085"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 30,
+        "mid": 50,
+        "high": 85
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "086/064",
+      "name": "Cassiopeia",
+      "type": "Supporter",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["cassiopeia", "ultra rare", "trainer", "shrouded fable", "sv06.5", "086"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "088/064",
+      "name": "Janine's Secret Art",
+      "type": "Supporter",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": ["janine's secret art", "janine", "ultra rare", "trainer", "shrouded fable", "sv06.5", "088"],
+      "variants": ["Ultra Rare"],
+      "marketPrice": {
+        "low": 18,
+        "mid": 30,
+        "high": 50
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "090/064",
+      "name": "Okidogi ex",
+      "type": "Darkness",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["okidogi", "okidogi ex", "special illustration rare", "sir", "loyal three", "shrouded fable", "sv06.5", "090"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 45,
+        "high": 80
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "091/064",
+      "name": "Munkidori ex",
+      "type": "Darkness",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["munkidori", "munkidori ex", "special illustration rare", "sir", "loyal three", "shrouded fable", "sv06.5", "091"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 30,
+        "mid": 55,
+        "high": 100
+      },
+      "metadata": {
+        "artist": "Ryota Murayama",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "092/064",
+      "name": "Fezandipiti ex",
+      "type": "Darkness",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["fezandipiti", "fezandipiti ex", "special illustration rare", "sir", "loyal three", "shrouded fable", "sv06.5", "092"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 40,
+        "mid": 70,
+        "high": 120
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "093/064",
+      "name": "Pecharunt ex",
+      "type": "Darkness",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["pecharunt", "pecharunt ex", "special illustration rare", "sir", "shrouded fable", "sv06.5", "093"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 50,
+        "mid": 85,
+        "high": 150
+      },
+      "metadata": {
+        "artist": "Naoki Saito",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "094/064",
+      "name": "Cassiopeia",
+      "type": "Supporter",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": ["cassiopeia", "special illustration rare", "sir", "trainer", "shrouded fable", "sv06.5", "094"],
+      "variants": ["Special Illustration Rare"],
+      "marketPrice": {
+        "low": 35,
+        "mid": 60,
+        "high": 100
+      },
+      "metadata": {
+        "artist": "Yuu Nishida",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "095/064",
+      "name": "Pecharunt ex",
+      "type": "Darkness",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["pecharunt", "pecharunt ex", "hyper rare", "gold", "shrouded fable", "sv06.5", "095"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 80,
+        "mid": 130,
+        "high": 220
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "096/064",
+      "name": "Earthen Vessel",
+      "type": "Item",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["earthen vessel", "hyper rare", "gold", "shrouded fable", "sv06.5", "096"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 25,
+        "mid": 45,
+        "high": 80
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "097/064",
+      "name": "Powerglass",
+      "type": "Pokemon Tool",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["powerglass", "hyper rare", "gold", "shrouded fable", "sv06.5", "097"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 20,
+        "mid": 35,
+        "high": 60
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Trainer"
+      }
+    },
+    {
+      "number": "098/064",
+      "name": "Basic Darkness Energy",
+      "type": "Basic Energy",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["basic darkness energy", "darkness energy", "hyper rare", "gold", "shrouded fable", "sv06.5", "098"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 15,
+        "mid": 25,
+        "high": 40
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Energy"
+      }
+    },
+    {
+      "number": "099/064",
+      "name": "Basic Metal Energy",
+      "type": "Basic Energy",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": ["basic metal energy", "metal energy", "hyper rare", "gold", "shrouded fable", "sv06.5", "099"],
+      "variants": ["Hyper Rare"],
+      "marketPrice": {
+        "low": 12,
+        "mid": 20,
+        "high": 35
+      },
+      "metadata": {
+        "artist": "5ban Graphics",
+        "cardType": "Energy"
+      }
+    }
+  ]
+} 
