@@ -1,11 +1,14 @@
 {
-  "name": "Surging Sparks",
-  "setCode": "SV8",
-  "series": "Scarlet & Violet",
-  "releaseDate": "2024-11-08",
-  "totalCards": 252,
-  "description": "The eighth expansion in the Scarlet & Violet series featuring powerful ex Pokemon and new mechanics.",
-  "lastUpdated": "2024-12-19",
+  "setInfo": {
+    "name": "Surging Sparks",
+    "setCode": "SV8",
+    "series": "Scarlet & Violet",
+    "releaseDate": "2024-11-08",
+    "totalCards": 252,
+    "description": "The eighth expansion in the Scarlet & Violet series featuring powerful ex Pokemon and new mechanics.",
+    "lastUpdated": "2024-12-19",
+    "tagSales": 1847
+  },
   "cards": [
     {
       "id": "surging-sparks-001-191",

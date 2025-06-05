@@ -437,7 +437,7 @@ export default function Sets() {
                         {setInfo.releaseDate && (
                           <div className="flex justify-between">
                             <span className="text-gray-600">Release Date:</span>
-                            <span className="font-medium">{new Date(setInfo.releaseDate).toLocaleDateString()}</span>
+                            <span className="font-medium">{setInfo.releaseDate.substring(2).replace(/-/g, '/')}</span>
                           </div>
                         )}
                         
@@ -447,34 +447,9 @@ export default function Sets() {
                             <span className="font-medium">{setInfo.tagSales.toLocaleString()}</span>
                           </div>
                         )}
-                        
-                        <div className="flex justify-between">
-                          <span className="text-gray-600">Last Updated:</span>
-                          <span className="font-medium">{setInfo.lastUpdated}</span>
-                        </div>
                       </div>
 
-                      {/* Sample Cards Preview */}
                       <div className="mt-4 pt-4 border-t">
-                        <div className="flex -space-x-2">
-                          {setData.cards.slice(0, 4).map((card, idx) => (
-                            <div
-                              key={idx}
-                              className="w-8 h-10 bg-gray-200 rounded border-2 border-white flex items-center justify-center text-xs font-bold text-gray-600"
-                              title={card.name}
-                            >
-                              #{card.cardNumber}
-                            </div>
-                          ))}
-                          {setData.cards.length > 4 && (
-                            <div className="w-8 h-10 bg-blue-100 text-blue-600 rounded border-2 border-white flex items-center justify-center text-xs font-bold">
-                              +{setData.cards.length - 4}
-                            </div>
-                          )}
-                        </div>
-                      </div>
-
-                      <div className="mt-4">
                         <button className="w-full bg-blue-50 text-blue-600 py-2 px-4 rounded-lg font-medium hover:bg-blue-100 transition-colors">
                           Browse Cards →
                         </button>
