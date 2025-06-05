@@ -1,5 +1,8 @@
 import React, { useEffect, useState } from "react";
 import Footer from '../components/Footer';
+import CurrencySelector from '../components/CurrencySelector';
+import { useCurrency } from '../contexts/CurrencyContext';
+import { convertAndFormatPrice } from '../utils/currency';
 
 export default function Cards() {
   const [cardSales, setCardSales] = useState({});
@@ -7,6 +10,7 @@ export default function Cards() {
   const [error, setError] = useState(null);
   const [unmatchedSales, setUnmatchedSales] = useState([]);
   const [selectedCard, setSelectedCard] = useState(null);
+  const { currency } = useCurrency();
 
   const fetchCardData = async () => {
     setLoading(true);
@@ -47,10 +51,7 @@ export default function Cards() {
   }, []);
 
   const formatPrice = (price) => {
-    return new Intl.NumberFormat('en-GB', {
-      style: 'currency',
-      currency: 'GBP'
-    }).format(price);
+    return convertAndFormatPrice(price, currency, 'GBP');
   };
 
   const getPriceColor = (currentPrice, marketPrice) => {
@@ -250,12 +251,19 @@ export default function Cards() {
       <div className="p-6">
         <div className="max-w-7xl mx-auto">
           <div className="mb-6">
-            <h2 className="text-3xl font-bold text-gray-900 mb-2">Matched Cards</h2>
-            <p className="text-gray-600">
-              {cardEntries.length} cards with sales data • 
-              {Object.values(cardSales).reduce((sum, card) => sum + card.sales.length, 0)} total sales matched
-              {unmatchedSales.length > 0 && ` • ${unmatchedSales.length} unmatched sales`}
-            </p>
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
+              <div>
+                <h2 className="text-3xl font-bold text-gray-900 mb-2">Matched Cards</h2>
+                <p className="text-gray-600">
+                  {cardEntries.length} cards with sales data • 
+                  {Object.values(cardSales).reduce((sum, card) => sum + card.sales.length, 0)} total sales matched
+                  {unmatchedSales.length > 0 && ` • ${unmatchedSales.length} unmatched sales`}
+                </p>
+              </div>
+              <div className="mt-4 sm:mt-0">
+                <CurrencySelector />
+              </div>
+            </div>
           </div>
 
           {/* Cards Grid */}

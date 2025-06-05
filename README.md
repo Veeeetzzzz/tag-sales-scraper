@@ -7,6 +7,7 @@ A modern web application that tracks Pokemon TAG TEAM card sales from eBay, with
 - **Real-time eBay Scraping**: Automatically fetches sold TAG TEAM Pokemon cards
 - **Smart Card Matching**: Fuzzy matching algorithm links sales to specific cards
 - **Individual Card Analytics**: Price trends, statistics, and variant tracking
+- **Currency Conversion**: Toggle between GBP and USD with real-time conversion
 - **Local Caching**: Browser localStorage for instant loading
 - **Responsive Design**: Works on desktop and mobile
 - **Open Source**: Card database hosted on GitHub
@@ -95,6 +96,12 @@ The application uses a sophisticated matching algorithm:
 - **Confidence scoring**: Ensures accurate matches
 - **Statistics calculation**: Price trends and analytics
 
+### Currency Conversion System
+- **Multi-currency support**: GBP and USD with automatic detection
+- **Real-time conversion**: Converts all prices based on user preference
+- **Persistent settings**: Currency choice saved in localStorage
+- **Exchange rate API**: Extensible for real-time rate updates
+
 ### Caching Strategy
 - **Browser localStorage**: Instant loading for users
 - **Timestamp tracking**: Shows data freshness
@@ -159,6 +166,18 @@ This is an open-source project! Contributions welcome:
   ```json
   {
     "sales": [/* eBay sales array */]
+  }
+  ```
+- `GET /api/exchange-rates` - Get current exchange rates
+  ```json
+  {
+    "success": true,
+    "base": "GBP",
+    "rates": {
+      "GBP": 1.0,
+      "USD": 1.27
+    },
+    "timestamp": "2024-01-01T00:00:00.000Z"
   }
   ```
 

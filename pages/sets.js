@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from 'next/router';
 import Footer from '../components/Footer';
+import CurrencySelector from '../components/CurrencySelector';
+import { useCurrency } from '../contexts/CurrencyContext';
+import { convertAndFormatPrice } from '../utils/currency';
 
 export default function Sets() {
   const [sets, setSets] = useState({});
@@ -13,6 +16,7 @@ export default function Sets() {
   const [salesLoading, setSalesLoading] = useState(false);
   const [sortBy, setSortBy] = useState('newest'); // newest, oldest, name-az, name-za
   const router = useRouter();
+  const { currency } = useCurrency();
 
   const fetchSets = async () => {
     setLoading(true);
@@ -67,10 +71,7 @@ export default function Sets() {
   }, []);
 
   const formatPrice = (price) => {
-    return new Intl.NumberFormat('en-GB', {
-      style: 'currency',
-      currency: 'GBP'
-    }).format(price);
+    return convertAndFormatPrice(price, currency, 'GBP');
   };
 
   const getCardImage = (card) => {
@@ -164,7 +165,9 @@ export default function Sets() {
                                   </p>
                                 </div>
                                 <div className="text-right ml-2">
-                                  <p className="font-semibold text-green-600">{sale.price}</p>
+                                  <p className="font-semibold text-green-600">
+                                    {convertAndFormatPrice(sale.price, currency)}
+                                  </p>
                                   <p className="text-xs text-gray-500">{sale.soldInfo}</p>
                                 </div>
                               </div>
@@ -381,25 +384,30 @@ export default function Sets() {
                     </p>
                   </div>
                   
-                  {/* Sort Controls */}
-                  <div className="mt-4 sm:mt-0 sm:ml-4">
-                    <div className="flex items-center gap-2">
-                      <label htmlFor="sort-sets" className="text-sm font-medium text-gray-700 whitespace-nowrap">
-                        Sort by:
-                      </label>
-                      <select
-                        id="sort-sets"
-                        value={sortBy}
-                        onChange={(e) => setSortBy(e.target.value)}
-                        className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white text-sm"
-                      >
-                        <option value="newest">Release Date (Newest)</option>
-                        <option value="oldest">Release Date (Oldest)</option>
-                        <option value="name-az">Name (A-Z)</option>
-                        <option value="name-za">Name (Z-A)</option>
-                        <option value="sales-high">TAG Sales (High)</option>
-                        <option value="sales-low">TAG Sales (Low)</option>
-                      </select>
+                  {/* Controls */}
+                  <div className="mt-4 sm:mt-0 sm:ml-4 flex flex-col sm:flex-row gap-4">
+                    <CurrencySelector />
+                    
+                    {/* Sort Controls */}
+                    <div>
+                      <div className="flex items-center gap-2">
+                        <label htmlFor="sort-sets" className="text-sm font-medium text-gray-700 whitespace-nowrap">
+                          Sort by:
+                        </label>
+                        <select
+                          id="sort-sets"
+                          value={sortBy}
+                          onChange={(e) => setSortBy(e.target.value)}
+                          className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white text-sm"
+                        >
+                          <option value="newest">Release Date (Newest)</option>
+                          <option value="oldest">Release Date (Oldest)</option>
+                          <option value="name-az">Name (A-Z)</option>
+                          <option value="name-za">Name (Z-A)</option>
+                          <option value="sales-high">TAG Sales (High)</option>
+                          <option value="sales-low">TAG Sales (Low)</option>
+                        </select>
+                      </div>
                     </div>
                   </div>
                 </div>

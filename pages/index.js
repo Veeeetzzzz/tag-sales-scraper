@@ -1,5 +1,8 @@
 import React, { useEffect, useState } from "react";
 import Footer from '../components/Footer';
+import CurrencySelector from '../components/CurrencySelector';
+import { useCurrency } from '../contexts/CurrencyContext';
+import { convertAndFormatPrice, convertCurrency } from '../utils/currency';
 
 export default function Home() {
   const [items, setItems] = useState([]);
@@ -8,6 +11,8 @@ export default function Home() {
   const [error, setError] = useState(null);
   const [searchTerm, setSearchTerm] = useState('');
   const [sortBy, setSortBy] = useState('newest'); // newest, oldest, price-high, price-low, title-az, title-za
+  const [lastUpdated, setLastUpdated] = useState(null);
+  const { currency } = useCurrency();
   const [showComingSoon, setShowComingSoon] = useState(false);
   const [lastFetchTime, setLastFetchTime] = useState(null);
   const [isRefreshing, setIsRefreshing] = useState(false);
@@ -308,6 +313,9 @@ export default function Home() {
           {/* Search and Filter Controls */}
           <div className="max-w-4xl mx-auto">
             <div className="flex flex-col md:flex-row gap-4 items-center">
+              {/* Currency Selector */}
+              <CurrencySelector />
+              
               {/* Search Bar */}
               <div className="flex-1 max-w-md">
                 <div className="relative">
@@ -393,12 +401,20 @@ export default function Home() {
               <div className="text-center mt-2">
                 <p className="text-xs text-gray-500">
                   {(() => {
-                    const prices = filteredItems.map(item => parseFloat(item.price.replace(/[£$,]/g, '')) || 0).filter(p => p > 0);
+                    const prices = filteredItems.map(item => {
+                      const price = parseFloat(item.price.replace(/[£$,]/g, '')) || 0;
+                      if (price <= 0) return 0;
+                      // Convert to target currency
+                      const fromCurrency = item.price.includes('$') ? 'USD' : 'GBP';
+                      return convertCurrency(price, fromCurrency, currency);
+                    }).filter(p => p > 0);
+                    
                     if (prices.length === 0) return '';
                     const min = Math.min(...prices);
                     const max = Math.max(...prices);
                     const avg = prices.reduce((a, b) => a + b, 0) / prices.length;
-                    return `Price range: £${min.toFixed(2)} - £${max.toFixed(2)} • Average: £${avg.toFixed(2)}`;
+                    const symbol = currency === 'USD' ? '$' : '£';
+                    return `Price range: ${symbol}${min.toFixed(2)} - ${symbol}${max.toFixed(2)} • Average: ${symbol}${avg.toFixed(2)}`;
                   })()}
                 </p>
               </div>
@@ -432,7 +448,9 @@ export default function Home() {
               <div key={idx} className="bg-white p-4 rounded-xl shadow hover:shadow-lg transition-shadow">
                 <img src={item.img} alt={item.title} className="w-full h-48 object-contain mb-4 rounded" />
                 <h2 className="text-lg font-semibold mb-2 line-clamp-2">{item.title}</h2>
-                <p className="text-green-600 font-bold text-xl mb-2">{item.price}</p>
+                <p className="text-green-600 font-bold text-xl mb-2">
+                  {convertAndFormatPrice(item.price, currency)}
+                </p>
                 
                 {/* Sold Date/Time */}
                 <div className="mb-3">
