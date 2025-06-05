@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Footer from '../components/Footer';
 
 export default function Cards() {
   const [cardSales, setCardSales] = useState({});
@@ -225,7 +226,7 @@ export default function Cards() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <h1 className="text-xl font-bold text-gray-900">TAG Price Tracker</h1>
+                              <h1 className="text-xl font-bold text-gray-900">TAG (Technical Authentication & Grading) Sales Tracker</h1>
             </div>
             <div className="flex space-x-8">
               <a href="/" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
@@ -236,6 +237,9 @@ export default function Cards() {
               </span>
               <a href="/sets" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
                 Card Sets
+              </a>
+              <a href="/faq" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
+                FAQ
               </a>
             </div>
           </div>
@@ -363,6 +367,8 @@ export default function Cards() {
           onClose={() => setSelectedCard(null)}
         />
       )}
+
+      <Footer />
     </div>
   );
 } 

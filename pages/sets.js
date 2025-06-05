@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from 'next/router';
+import Footer from '../components/Footer';
 
 export default function Sets() {
   const [sets, setSets] = useState({});
@@ -303,7 +304,7 @@ export default function Sets() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <h1 className="text-xl font-bold text-gray-900">TAG Price Tracker</h1>
+                              <h1 className="text-xl font-bold text-gray-900">TAG (Technical Authentication & Grading) Sales Tracker</h1>
             </div>
             <div className="flex space-x-8">
               <a href="/" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
@@ -315,6 +316,9 @@ export default function Sets() {
               <span className="text-blue-600 border-b-2 border-blue-600 px-1 pb-4 pt-5 text-sm font-medium">
                 Card Sets
               </span>
+              <a href="/faq" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
+                FAQ
+              </a>
             </div>
           </div>
         </div>
@@ -428,6 +432,8 @@ export default function Sets() {
           onClose={() => setSelectedCard(null)}
         />
       )}
+
+      <Footer />
     </div>
   );
 } 

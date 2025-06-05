@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Footer from '../components/Footer';
 
 export default function Home() {
   const [items, setItems] = useState([]);
@@ -243,7 +244,7 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             {/* Logo/Brand */}
             <div className="flex items-center">
-              <h1 className="text-xl font-bold text-gray-900">TAG Price Tracker</h1>
+                              <h1 className="text-xl font-bold text-gray-900">TAG (Technical Authentication & Grading) Sales Tracker</h1>
             </div>
             
             {/* Navigation Links */}
@@ -264,6 +265,12 @@ export default function Home() {
                 className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
               >
                 Card Sets
+              </a>
+              <a 
+                href="/faq"
+                className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
+              >
+                FAQ
               </a>
             </div>
           </div>
@@ -505,6 +512,7 @@ export default function Home() {
           </div>
         </div>
       )}
+      <Footer />
     </div>
   );
 }

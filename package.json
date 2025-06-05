@@ -8,13 +8,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ai-seo": "^1.0.1",
+    "autoprefixer": "^10.4.21",
+    "cheerio": "^1.0.0-rc.12",
     "next": "^14.0.0",
+    "playwright": "^1.40.0",
+    "postcss": "^8.5.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
-    "cheerio": "^1.0.0-rc.12",
-    "playwright": "^1.40.0",
     "tailwindcss": "^3.4.0"
   },
   "devDependencies": {
