@@ -12,15 +12,16 @@ export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
   const [sortBy, setSortBy] = useState('newest'); // newest, oldest, price-high, price-low, title-az, title-za
   const [gradeFilter, setGradeFilter] = useState('all'); // all, tag-10, tag-9, tag-8, etc.
+  const [marketplace, setMarketplace] = useState('uk'); // uk, us
   const [lastUpdated, setLastUpdated] = useState(null);
-  const { currency } = useCurrency();
+  const { currency, setCurrency } = useCurrency();
   const [showComingSoon, setShowComingSoon] = useState(false);
   const [lastFetchTime, setLastFetchTime] = useState(null);
   const [isRefreshing, setIsRefreshing] = useState(false);
 
-  // Cache key for localStorage
-  const CACHE_KEY = 'tag-sales-data';
-  const CACHE_TIMESTAMP_KEY = 'tag-sales-timestamp';
+  // Cache keys for localStorage (marketplace-specific)
+  const CACHE_KEY = `tag-sales-data-${marketplace}`;
+  const CACHE_TIMESTAMP_KEY = `tag-sales-timestamp-${marketplace}`;
 
   // Load cached data from localStorage
   const loadCachedData = () => {
@@ -64,7 +65,7 @@ export default function Home() {
     }
     setError(null);
     
-    fetch('/api/ebay')
+    fetch(`/api/ebay?marketplace=${marketplace}`)
       .then(res => res.json())
       .then(data => {
         const itemsData = data.items || [];
@@ -163,6 +164,26 @@ export default function Home() {
     applyFilters(searchTerm, sortBy, newGradeFilter);
   };
 
+  // Handle marketplace change
+  const handleMarketplaceChange = (newMarketplace) => {
+    setMarketplace(newMarketplace);
+    
+    // Auto-switch currency based on marketplace
+    if (newMarketplace === 'us') {
+      setCurrency('USD');
+    } else if (newMarketplace === 'uk') {
+      setCurrency('GBP');
+    }
+    
+    // Clear current data to show loading
+    setItems([]);
+    setFilteredItems([]);
+    // Clear filters
+    setSearchTerm('');
+    setGradeFilter('all');
+    setSortBy('newest');
+  };
+
   // Apply search, grade, and sort filters
   const applyFilters = (searchTerm, sortType, gradeFilterType = gradeFilter) => {
     let filtered = items;
@@ -173,7 +194,8 @@ export default function Home() {
         item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
         item.price.toLowerCase().includes(searchTerm.toLowerCase()) ||
         (item.soldDate && item.soldDate.toLowerCase().includes(searchTerm.toLowerCase())) ||
-        (item.soldInfo && item.soldInfo.toLowerCase().includes(searchTerm.toLowerCase()))
+        (item.soldInfo && item.soldInfo.toLowerCase().includes(searchTerm.toLowerCase())) ||
+        (item.location && item.location.toLowerCase().includes(searchTerm.toLowerCase()))
       );
     }
     
@@ -181,17 +203,19 @@ export default function Home() {
     if (gradeFilterType !== 'all') {
       filtered = filtered.filter(item => {
         const title = item.title.toLowerCase();
-        if (gradeFilterType === 'tag-10') return title.includes('tag 10');
-        if (gradeFilterType === 'tag-9') return title.includes('tag 9');
-        if (gradeFilterType === 'tag-8') return title.includes('tag 8');
-        if (gradeFilterType === 'tag-7') return title.includes('tag 7');
-        if (gradeFilterType === 'tag-6') return title.includes('tag 6');
-        if (gradeFilterType === 'tag-5') return title.includes('tag 5');
-        if (gradeFilterType === 'tag-4') return title.includes('tag 4');
-        if (gradeFilterType === 'tag-3') return title.includes('tag 3');
-        if (gradeFilterType === 'tag-2') return title.includes('tag 2');
-        if (gradeFilterType === 'tag-1') return title.includes('tag 1');
-        return true;
+        const grade = gradeFilterType.replace('tag-', '');
+        
+        // Check for various TAG grade formats:
+        // "TAG 10", "TAG10", "TAG-10", etc.
+        const gradePatterns = [
+          `tag ${grade}`,    // "TAG 10"
+          `tag${grade}`,     // "TAG10"  
+          `tag-${grade}`,    // "TAG-10"
+          `tag_${grade}`,    // "TAG_10"
+          `tag  ${grade}`,   // "TAG  10" (extra space)
+        ];
+        
+        return gradePatterns.some(pattern => title.includes(pattern));
       });
     }
     
@@ -202,6 +226,13 @@ export default function Home() {
   };
 
   useEffect(() => {
+    // Set initial currency based on marketplace
+    if (marketplace === 'us') {
+      setCurrency('USD');
+    } else if (marketplace === 'uk') {
+      setCurrency('GBP');
+    }
+    
     // Try to load cached data first
     const hasCachedData = loadCachedData();
     
@@ -214,7 +245,7 @@ export default function Home() {
       // No cached data, show loading
       fetchData();
     }
-  }, []); // Empty dependency array to run only once
+  }, [marketplace]); // Run when marketplace changes
 
   useEffect(() => {
     applyFilters(searchTerm, sortBy, gradeFilter);
@@ -311,7 +342,9 @@ export default function Home() {
       <div className="p-6">
         <div className="mb-6">
           <div className="flex justify-between items-center mb-4">
-            <h2 className="text-3xl font-bold text-center flex-1">eBay TAG Graded Pokemon Sales</h2>
+            <h2 className="text-3xl font-bold text-center flex-1">
+              eBay TAG Graded Pokemon Sales
+            </h2>
             <div className="flex gap-2">
               <button 
                 onClick={() => fetchData(true)}
@@ -340,6 +373,22 @@ export default function Home() {
             <div className="flex flex-col md:flex-row gap-4 items-center">
               {/* Currency Selector */}
               <CurrencySelector />
+              
+              {/* Marketplace Selector */}
+              <div className="flex items-center gap-2">
+                <label htmlFor="marketplace-select" className="text-sm font-medium text-gray-700 whitespace-nowrap">
+                  Marketplace:
+                </label>
+                <select
+                  id="marketplace-select"
+                  value={marketplace}
+                  onChange={(e) => handleMarketplaceChange(e.target.value)}
+                  className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
+                >
+                  <option value="uk">🇬🇧 UK eBay</option>
+                  <option value="us">🇺🇸 US eBay</option>
+                </select>
+              </div>
               
               {/* Search Bar */}
               <div className="flex-1 max-w-md">
@@ -381,9 +430,9 @@ export default function Home() {
                   className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white"
                 >
                   <option value="all">All Grades</option>
-                  <option value="tag-10">TAG 10</option>
-                  <option value="tag-9">TAG 9</option>
-                  <option value="tag-8">TAG 8</option>
+                  <option value="tag-10">TAG 10 (Pristine)</option>
+                  <option value="tag-9">TAG 9 (Mint)</option>
+                  <option value="tag-8">TAG 8 (Near Mint)</option>
                   <option value="tag-7">TAG 7</option>
                   <option value="tag-6">TAG 6</option>
                   <option value="tag-5">TAG 5</option>
@@ -425,7 +474,7 @@ export default function Home() {
                   }}
                   className="px-3 py-2 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors whitespace-nowrap"
                 >
-                  Clear All
+                  Clear Filters
                 </button>
               )}
             </div>
@@ -434,7 +483,7 @@ export default function Home() {
             {(searchTerm || sortBy !== 'newest' || gradeFilter !== 'all') && (
               <div className="text-center mt-3">
                 <p className="text-sm text-gray-600">
-                  Showing {filteredItems.length} of {items.length} items
+                  Showing {filteredItems.length} of {items.length} items from {marketplace === 'us' ? '🇺🇸 US eBay' : '🇬🇧 UK eBay'}
                   {searchTerm && ` matching "${searchTerm}"`}
                   {gradeFilter !== 'all' && ` filtered to ${gradeFilter.replace('-', ' ').toUpperCase()}`}
                   {sortBy !== 'newest' && ` sorted by ${
@@ -452,7 +501,7 @@ export default function Home() {
             {!loading && items.length > 0 && (
               <div className="text-center mt-2">
                 <p className="text-xs text-gray-500">
-                  {(() => {
+                  {filteredItems.length} TAG graded Pokemon cards from {marketplace === 'us' ? '🇺🇸 US eBay' : '🇬🇧 UK eBay'} • {(() => {
                     const prices = filteredItems.map(item => {
                       const price = parseFloat(item.price.replace(/[£$,]/g, '')) || 0;
                       if (price <= 0) return 0;
@@ -461,7 +510,7 @@ export default function Home() {
                       return convertCurrency(price, fromCurrency, currency);
                     }).filter(p => p > 0);
                     
-                    if (prices.length === 0) return '';
+                    if (prices.length === 0) return 'No valid prices';
                     const min = Math.min(...prices);
                     const max = Math.max(...prices);
                     const avg = prices.reduce((a, b) => a + b, 0) / prices.length;

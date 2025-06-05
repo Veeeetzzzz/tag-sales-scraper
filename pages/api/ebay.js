@@ -1,7 +1,7 @@
 const cheerio = require('cheerio');
 
 // Hybrid scraping approach
-const scrapeWithFetch = async (url) => {
+const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   console.log('Using fetch + cheerio approach...');
   
   const response = await fetch(url, {
@@ -26,6 +26,7 @@ const scrapeWithFetch = async (url) => {
   const listings = $('.s-item').toArray();
   
   console.log(`Found ${listings.length} listings with cheerio`);
+  console.log(`URL used: ${url}`);
   
   listings.slice(1).forEach((item, index) => { // Skip first item (usually ad)
     try {
@@ -38,9 +39,14 @@ const scrapeWithFetch = async (url) => {
                    '';
       
       // Extract price
-      const price = $item.find('.s-item__price .notranslate').text().trim() ||
-                   $item.find('.s-item__price').text().trim() ||
-                   '';
+      let price = $item.find('.s-item__price .notranslate').text().trim() ||
+                  $item.find('.s-item__price').text().trim() ||
+                  '';
+      
+      // For US marketplace, remove shipping costs from price display
+      if (isUSMarketplace && price.includes('+')) {
+        price = price.split('+')[0].trim();
+      }
       
       // Extract image
       const img = $item.find('.s-item__image img').attr('src') ||
@@ -52,6 +58,11 @@ const scrapeWithFetch = async (url) => {
       const listingUrl = $item.find('.s-item__link').attr('href') ||
                         $item.find('a[href*="/itm/"]').attr('href') ||
                         '';
+      
+      // Extract location information for display only
+      const locationText = $item.find('.s-item__location').text().trim() ||
+                          $item.find('.s-item__shipping').text().trim() ||
+                          '';
       
       // Generate sold date (since it's harder to extract from static HTML)
       const now = new Date();
@@ -70,7 +81,9 @@ const scrapeWithFetch = async (url) => {
           price,
           soldDate: 'Recently sold',
           soldInfo,
-          listingUrl
+          listingUrl,
+          location: locationText,
+          marketplace: isUSMarketplace ? 'us' : 'uk'
         });
       }
     } catch (error) {
@@ -78,27 +91,39 @@ const scrapeWithFetch = async (url) => {
     }
   });
   
-  return items.filter(item => {
+  console.log(`Raw items before filtering: ${items.length}`);
+  
+  const filteredItems = items.filter(item => {
     // Basic filters
     if (!item.title || item.title === 'Shop on eBay' || item.title.length === 0) {
       return false;
     }
     
-    // Exclude PSA graded cards (case insensitive)
-    if (item.title.toLowerCase().includes('psa')) {
+    const title = item.title.toLowerCase();
+    
+    // Exclude other grading companies
+    if (title.includes('psa') || title.includes('cgc') || title.includes('bgs')) {
       return false;
     }
     
-    // Must contain "TAG" (case insensitive)
-    if (!item.title.toLowerCase().includes('tag')) {
+    // Must contain "TAG" (but be more lenient about the pattern for now)
+    if (!title.includes('tag')) {
+      return false;
+    }
+    
+    // Additional check: must contain "pokemon", "graded", or other card-related terms
+    if (!title.includes('pokemon') && !title.includes('graded') && !title.includes('card')) {
       return false;
     }
     
     return true;
   });
+  
+  console.log(`Items after filtering: ${filteredItems.length}`);
+  return filteredItems;
 };
 
-const scrapeWithPlaywright = async (url) => {
+const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
   console.log('Using playwright approach...');
   
   const { chromium } = require('playwright');
@@ -124,7 +149,7 @@ const scrapeWithPlaywright = async (url) => {
     console.log('No .s-item found, proceeding anyway...');
   }
   
-  const items = await page.evaluate(() => {
+  const items = await page.evaluate((isUSMarketplace) => {
     const listings = Array.from(document.querySelectorAll('.s-item'));
     
     return listings.slice(1).map((item, index) => {
@@ -136,7 +161,12 @@ const scrapeWithPlaywright = async (url) => {
         
         const priceElement = item.querySelector('.s-item__price .notranslate') ||
                             item.querySelector('.s-item__price');
-        const price = priceElement?.textContent?.trim() || '';
+        let price = priceElement?.textContent?.trim() || '';
+        
+        // For US marketplace, remove shipping costs from price display
+        if (isUSMarketplace && price.includes('+')) {
+          price = price.split('+')[0].trim();
+        }
         
         const imgElement = item.querySelector('.s-item__image img') ||
                           item.querySelector('img[src*="ebayimg"]');
@@ -145,6 +175,11 @@ const scrapeWithPlaywright = async (url) => {
         const linkElement = item.querySelector('.s-item__link') ||
                            item.querySelector('a[href*="/itm/"]');
         const listingUrl = linkElement?.href || '';
+        
+        // Extract location information for display only
+        const locationElement = item.querySelector('.s-item__location') ||
+                               item.querySelector('.s-item__shipping');
+        const locationText = locationElement?.textContent?.trim() || '';
         
         // Generate sold date
         const now = new Date();
@@ -156,17 +191,27 @@ const scrapeWithPlaywright = async (url) => {
           year: 'numeric' 
         });
         
-        return { title, img, price, soldDate: 'Recently sold', soldInfo, listingUrl };
+        return { title, img, price, soldDate: 'Recently sold', soldInfo, listingUrl, location: locationText, marketplace: isUSMarketplace ? 'us' : 'uk' };
       } catch (error) {
-        return { title: '', img: '', price: '', soldDate: '', soldInfo: '', listingUrl: '' };
+        return { title: '', img: '', price: '', soldDate: '', soldInfo: '', listingUrl: '', location: '', marketplace: isUSMarketplace ? 'us' : 'uk' };
       }
     }).filter(item => {
       if (!item.title || item.title === 'Shop on eBay' || item.title.length === 0) return false;
-      if (item.title.toLowerCase().includes('psa')) return false;
-      if (!item.title.toLowerCase().includes('tag')) return false;
+      
+      const title = item.title.toLowerCase();
+      
+      // Exclude other grading companies
+      if (title.includes('psa') || title.includes('cgc') || title.includes('bgs')) return false;
+      
+      // Must contain "TAG"
+      if (!title.includes('tag')) return false;
+      
+      // Additional check: must contain "pokemon", "graded", or other card-related terms
+      if (!title.includes('pokemon') && !title.includes('graded') && !title.includes('card')) return false;
+      
       return true;
     });
-  });
+  }, isUSMarketplace);
   
   await browser.close();
   return items;
@@ -176,20 +221,33 @@ export default async function handler(req, res) {
   try {
     console.log('Starting eBay scraper...');
     
-    const url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+Pokemon+-PSA&_sacat=0&_from=R40&LH_PrefLoc=2&rt=nc&LH_Sold=1&LH_Complete=1';
+    // Get marketplace parameter
+    const marketplace = req.query.marketplace || 'uk'; // Default to UK
+    
+    // Set URL based on marketplace
+    let url, isUSMarketplace;
+    if (marketplace === 'us') {
+      url = 'https://www.ebay.com/sch/i.html?_nkw=TAG+pokemon&_sacat=0&_from=R40&Graded=Yes&Professional%2520Grader=Technical%2520Authentication%2520%2526%2520Grading%2520%2528TAG%2529&_dcat=183454&rt=nc&LH_Sold=1&LH_Complete=1';
+      isUSMarketplace = true;
+    } else {
+      url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+Pokemon&_sacat=0&_from=R40&Graded=Yes&Professional%2520Grader=Technical%2520Authentication%2520%2526%2520Grading%2520%2528TAG%2529&_dcat=183454&LH_Sold=1&LH_Complete=1&rt=nc&LH_PrefLoc=1';
+      isUSMarketplace = false;
+    }
+    
+    console.log(`Using ${marketplace.toUpperCase()} eBay URL:`, url);
     
     let items = [];
     
     // Try fetch + cheerio first (works on Vercel)
     try {
-      items = await scrapeWithFetch(url);
+      items = await scrapeWithFetch(url, isUSMarketplace);
       console.log(`Fetch + cheerio extracted ${items.length} items`);
     } catch (fetchError) {
       console.log('Fetch + cheerio failed, trying playwright...', fetchError.message);
       
       // Fallback to playwright (local development)
       try {
-        items = await scrapeWithPlaywright(url);
+        items = await scrapeWithPlaywright(url, isUSMarketplace);
         console.log(`Playwright extracted ${items.length} items`);
       } catch (playwrightError) {
         console.error('Both methods failed:', playwrightError.message);
@@ -213,7 +271,8 @@ export default async function handler(req, res) {
     res.status(200).json({ 
       items, 
       timestamp: new Date().toISOString(),
-      count: items.length
+      count: items.length,
+      marketplace: marketplace
     });
     
   } catch (error) {
