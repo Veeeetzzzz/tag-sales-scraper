@@ -11,6 +11,7 @@ export default function Sets() {
   const [searchTerm, setSearchTerm] = useState('');
   const [cardSales, setCardSales] = useState({});
   const [salesLoading, setSalesLoading] = useState(false);
+  const [sortBy, setSortBy] = useState('newest'); // newest, oldest, name-az, name-za
   const router = useRouter();
 
   const fetchSets = async () => {
@@ -295,7 +296,41 @@ export default function Sets() {
     );
   }
 
-  const setEntries = Object.entries(sets);
+  // Sort sets based on selected option
+  const sortSets = (setsData) => {
+    const setEntries = Object.entries(setsData);
+    
+    return setEntries.sort(([keyA, setA], [keyB, setB]) => {
+      // Get setInfo or fallback to set data itself
+      const infoA = setA.setInfo || setA;
+      const infoB = setB.setInfo || setB;
+      
+      switch (sortBy) {
+        case 'newest':
+          // Sort by release date (newest first)
+          const dateA = new Date(infoA.releaseDate || '1900-01-01');
+          const dateB = new Date(infoB.releaseDate || '1900-01-01');
+          return dateB - dateA;
+        case 'oldest':
+          // Sort by release date (oldest first)
+          const dateA2 = new Date(infoA.releaseDate || '2099-01-01');
+          const dateB2 = new Date(infoB.releaseDate || '2099-01-01');
+          return dateA2 - dateB2;
+        case 'name-az':
+          return infoA.name.localeCompare(infoB.name);
+        case 'name-za':
+          return infoB.name.localeCompare(infoA.name);
+        case 'sales-high':
+          return (infoB.tagSales || 0) - (infoA.tagSales || 0);
+        case 'sales-low':
+          return (infoA.tagSales || 0) - (infoB.tagSales || 0);
+        default:
+          return 0;
+      }
+    });
+  };
+
+  const sortedSetEntries = sortSets(sets);
 
   return (
     <div className="min-h-screen bg-gray-100">
@@ -338,14 +373,44 @@ export default function Sets() {
           ) : (
             <div>
               <div className="mb-6">
-                <h2 className="text-3xl font-bold text-gray-900 mb-2">Card Sets</h2>
-                <p className="text-gray-600">
-                  Browse Pokemon cards organized by set • {setEntries.length} sets available
-                </p>
+                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
+                  <div>
+                    <h2 className="text-3xl font-bold text-gray-900 mb-2">Card Sets</h2>
+                    <p className="text-gray-600">
+                      Browse Pokemon cards organized by set • {sortedSetEntries.length} sets available
+                    </p>
+                  </div>
+                  
+                  {/* Sort Controls */}
+                  <div className="mt-4 sm:mt-0 sm:ml-4">
+                    <div className="flex items-center gap-2">
+                      <label htmlFor="sort-sets" className="text-sm font-medium text-gray-700 whitespace-nowrap">
+                        Sort by:
+                      </label>
+                      <select
+                        id="sort-sets"
+                        value={sortBy}
+                        onChange={(e) => setSortBy(e.target.value)}
+                        className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white text-sm"
+                      >
+                        <option value="newest">Release Date (Newest)</option>
+                        <option value="oldest">Release Date (Oldest)</option>
+                        <option value="name-az">Name (A-Z)</option>
+                        <option value="name-za">Name (Z-A)</option>
+                        <option value="sales-high">TAG Sales (High)</option>
+                        <option value="sales-low">TAG Sales (Low)</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {setEntries.map(([setKey, setData]) => (
+                {sortedSetEntries.map(([setKey, setData]) => {
+                  // Get setInfo or fallback to set data itself
+                  const setInfo = setData.setInfo || setData;
+                  
+                  return (
                   <div
                     key={setKey}
                     className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow cursor-pointer overflow-hidden"
@@ -354,11 +419,11 @@ export default function Sets() {
                     <div className="p-6">
                       <div className="flex items-start justify-between mb-4">
                         <div className="flex-1">
-                          <h3 className="text-xl font-bold text-gray-900 mb-2">{setData.name}</h3>
-                          <p className="text-gray-600 text-sm mb-3">{setData.description}</p>
+                          <h3 className="text-xl font-bold text-gray-900 mb-2">{setInfo.name}</h3>
+                          <p className="text-gray-600 text-sm mb-3">{setInfo.description}</p>
                         </div>
                         <div className="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs font-medium">
-                          {setData.setCode}
+                          {setInfo.setCode}
                         </div>
                       </div>
 
@@ -369,16 +434,23 @@ export default function Sets() {
                           <span className="font-medium">{setData.cards.length}</span>
                         </div>
                         
-                        {setData.totalCards && (
+                        {setInfo.releaseDate && (
                           <div className="flex justify-between">
-                            <span className="text-gray-600">Complete Set:</span>
-                            <span className="font-medium">{setData.totalCards} cards</span>
+                            <span className="text-gray-600">Release Date:</span>
+                            <span className="font-medium">{new Date(setInfo.releaseDate).toLocaleDateString()}</span>
+                          </div>
+                        )}
+                        
+                        {setInfo.tagSales && (
+                          <div className="flex justify-between">
+                            <span className="text-gray-600">TAG Sales:</span>
+                            <span className="font-medium">{setInfo.tagSales.toLocaleString()}</span>
                           </div>
                         )}
                         
                         <div className="flex justify-between">
                           <span className="text-gray-600">Last Updated:</span>
-                          <span className="font-medium">{setData.lastUpdated}</span>
+                          <span className="font-medium">{setInfo.lastUpdated}</span>
                         </div>
                       </div>
 
@@ -409,7 +481,8 @@ export default function Sets() {
                       </div>
                     </div>
                   </div>
-                ))}
+                  );
+                })}
               </div>
 
               {setEntries.length === 0 && (
