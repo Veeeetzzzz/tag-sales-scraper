@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useRouter } from 'next/router';
 import Footer from '../components/Footer';
 import CurrencySelector from '../components/CurrencySelector';
+import SEOHead from '../components/SEOHead';
 import { useCurrency } from '../contexts/CurrencyContext';
 import { convertAndFormatPrice } from '../utils/currency';
 
@@ -335,8 +336,39 @@ export default function Sets() {
 
   const sortedSetEntries = sortSets(sets);
 
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Pokemon Card Sets Database",
+    "description": "Comprehensive database of Pokemon card sets with sales analytics and market data",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Pokemon Card Sets",
+      "numberOfItems": sortedSetEntries.length,
+      "itemListElement": sortedSetEntries.slice(0, 10).map(([setKey, setData], index) => {
+        const setInfo = setData.setInfo || setData;
+        return {
+          "@type": "Product",
+          "position": index + 1,
+          "name": setInfo.name,
+          "description": setInfo.description,
+          "identifier": setInfo.setCode,
+          "category": "Pokemon Trading Card Game Set"
+        };
+      })
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gray-100">
+      <SEOHead
+        title="Pokemon Card Sets Database - TAG Sales Tracker"
+        description={`Browse ${sortedSetEntries.length} Pokemon card sets with comprehensive sales analytics and market data. Explore cards from Base Set to modern releases with TAG grading insights.`}
+        keywords="Pokemon card sets, Pokemon TCG sets, card database, Pokemon card collection, Base Set, modern Pokemon sets, TAG graded cards, Pokemon card analytics"
+        canonicalUrl="https://tag-sales-tracker.vercel.app/sets"
+        structuredData={structuredData}
+      />
+      
       {/* Navigation */}
       <nav className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

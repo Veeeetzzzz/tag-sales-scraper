@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Allow: /cards
+Allow: /sets
+Allow: /faq
+Allow: /about
+Allow: /terms
+Allow: /privacy
+
+# Block API routes from indexing
+Disallow: /api/
+
+# Block internal files
+Disallow: /_next/
+Disallow: /static/
+
+# Allow specific assets
+Allow: /favicon.ico
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.webp
+
+# Sitemap location
+Sitemap: https://tag-sales-tracker.vercel.app/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1 

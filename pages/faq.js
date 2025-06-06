@@ -1,19 +1,10 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
-import Head from 'next/head';
-import { initSEO } from 'ai-seo';
 import Footer from '../components/Footer';
+import SEOHead from '../components/SEOHead';
 
 const FAQPage = () => {
   const [openFAQ, setOpenFAQ] = useState(null);
-
-  useEffect(() => {
-    initSEO({
-      pageType: 'FAQPage',
-      questionType: 'What is TAG Sales Tracker?',
-      answerType: 'TAG Sales Tracker is a comprehensive Pokemon card price tracking platform that monitors eBay sales data, provides market analytics, and helps collectors understand current market values for graded and ungraded Pokemon cards.'
-    });
-  }, []);
 
   const faqData = [
     {
@@ -72,17 +63,28 @@ const FAQPage = () => {
     setOpenFAQ(openFAQ === id ? null : id);
   };
 
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqData.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  };
+
   return (
     <>
-      <Head>
-        <title>FAQ - TAG Sales Tracker | Pokemon Card Price Tracking</title>
-        <meta name="description" content="Frequently asked questions about TAG Sales Tracker - the premier Pokemon card price tracking and market analytics platform." />
-        <meta name="keywords" content="pokemon cards, price tracking, FAQ, market data, eBay sales, card values, grading, PSA, BGS" />
-        <meta property="og:title" content="FAQ - TAG Sales Tracker" />
-        <meta property="og:description" content="Get answers to common questions about Pokemon card price tracking and market analytics." />
-        <meta property="og:type" content="website" />
-        <link rel="canonical" href="/faq" />
-      </Head>
+      <SEOHead
+        title="FAQ - TAG Sales Tracker | Pokemon Card Price Tracking Questions"
+        description="Frequently asked questions about TAG Sales Tracker - the premier Pokemon card price tracking platform. Get answers about market data, pricing analytics, and card tracking features."
+        keywords="TAG Sales Tracker FAQ, Pokemon card price tracking questions, Pokemon card market data, eBay sales tracking, graded card values, Pokemon TCG analytics"
+        canonicalUrl="https://tag-sales-tracker.vercel.app/faq"
+        structuredData={structuredData}
+      />
 
       <div className="min-h-screen bg-gray-50">
         {/* Navigation Header */}

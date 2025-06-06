@@ -1,29 +1,33 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import Link from 'next/link';
-import Head from 'next/head';
-import { initSEO } from 'ai-seo';
 import Footer from '../components/Footer';
+import SEOHead from '../components/SEOHead';
 
 const AboutPage = () => {
-  useEffect(() => {
-    initSEO({
-      pageType: 'AboutPage',
-      questionType: 'What is TAG Sales Tracker and how does it help Pokemon card collectors?',
-      answerType: 'TAG Sales Tracker is a comprehensive Pokemon card price tracking platform that provides real-time market data, sales analytics, and price trends to help collectors make informed decisions about buying and selling Pokemon cards.'
-    });
-  }, []);
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "mainEntity": {
+      "@type": "Organization",
+      "name": "TAG Sales Tracker",
+      "description": "Premier destination for TAG graded Pokemon card market data and pricing analytics",
+      "url": "https://tag-sales-tracker.vercel.app",
+      "foundingDate": "2024",
+      "serviceType": "Pokemon Card Price Tracking",
+      "areaServed": ["United Kingdom", "United States"],
+      "knowsAbout": ["Pokemon Cards", "TAG Grading", "Market Analytics", "Price Tracking"]
+    }
+  };
 
   return (
     <>
-      <Head>
-        <title>About Us - TAG Sales Tracker | Pokemon Card Price Analytics</title>
-        <meta name="description" content="Learn about TAG Sales Tracker - the leading Pokemon card price tracking platform providing comprehensive market analytics and sales data." />
-        <meta name="keywords" content="pokemon cards, price tracking, market analytics, about us, card values, eBay sales data" />
-        <meta property="og:title" content="About TAG Sales Tracker" />
-        <meta property="og:description" content="Discover how TAG Sales Tracker helps Pokemon card collectors with comprehensive price tracking and market analytics." />
-        <meta property="og:type" content="website" />
-        <link rel="canonical" href="/about" />
-      </Head>
+      <SEOHead
+        title="About TAG Sales Tracker - Pokemon Card Market Analytics Platform"
+        description="Learn about TAG Sales Tracker - the leading Pokemon card price tracking platform providing comprehensive market analytics, real-time sales data, and pricing insights for collectors worldwide."
+        keywords="TAG Sales Tracker, about us, Pokemon card price tracking, market analytics, graded cards, eBay sales data, Pokemon TCG, card collecting platform"
+        canonicalUrl="https://tag-sales-tracker.vercel.app/about"
+        structuredData={structuredData}
+      />
 
       <div className="min-h-screen bg-gray-50">
         {/* Navigation Header */}

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Footer from '../components/Footer';
 import CurrencySelector from '../components/CurrencySelector';
+import SEOHead from '../components/SEOHead';
 import { useCurrency } from '../contexts/CurrencyContext';
 import { convertAndFormatPrice, convertCurrency } from '../utils/currency';
 
@@ -372,8 +373,46 @@ export default function Home() {
     });
   };
 
+  // Structured data for sales listings
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "TAG Graded Pokemon Card Sales",
+    "description": "Latest TAG graded Pokemon card sales from eBay UK and US marketplaces with real-time pricing data",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "TAG Pokemon Card Sales",
+      "numberOfItems": filteredItems.length,
+      "itemListElement": filteredItems.slice(0, 10).map((item, index) => ({
+        "@type": "Product",
+        "position": index + 1,
+        "name": item.title,
+        "offers": {
+          "@type": "Offer",
+          "price": parseFloat(item.price.replace(/[£$,]/g, '')) || 0,
+          "priceCurrency": item.price.includes('$') ? 'USD' : 'GBP',
+          "availability": "https://schema.org/SoldOut",
+          "seller": {
+            "@type": "Organization",
+            "name": "eBay"
+          }
+        },
+        "image": item.img,
+        "url": item.listingUrl
+      }))
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gray-100">
+      <SEOHead
+        title="TAG Sales Tracker - Latest Pokemon Card Sales & Market Data"
+        description={`Track ${items.length} TAG graded Pokemon card sales from eBay UK and US marketplaces. Real-time pricing data, market analytics, and sales history for graded Pokemon cards.`}
+        keywords="TAG graded Pokemon cards, Pokemon card prices, eBay Pokemon sales, graded card market, Pokemon card values, TAG authentication, Pokemon TCG prices, card grading"
+        canonicalUrl="https://tag-sales-tracker.vercel.app"
+        structuredData={structuredData}
+      />
+      
       {/* Navigation Bar */}
       <nav className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -649,7 +688,12 @@ export default function Home() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {filteredItems.map((item, idx) => (
               <div key={idx} className="bg-white p-4 rounded-xl shadow hover:shadow-lg transition-shadow">
-                <img src={item.img} alt={item.title} className="w-full h-48 object-contain mb-4 rounded" />
+                <img 
+                  src={item.img} 
+                  alt={`${item.title} - TAG graded Pokemon card sold on eBay`} 
+                  className="w-full h-48 object-contain mb-4 rounded"
+                  loading="lazy"
+                />
                 <h2 className="text-lg font-semibold mb-2 line-clamp-2">{item.title}</h2>
                 <p className="text-green-600 font-bold text-xl mb-2">
                   {convertAndFormatPrice(item.price, currency)}

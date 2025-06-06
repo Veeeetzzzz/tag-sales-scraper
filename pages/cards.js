@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Footer from '../components/Footer';
 import CurrencySelector from '../components/CurrencySelector';
+import SEOHead from '../components/SEOHead';
 import { useCurrency } from '../contexts/CurrencyContext';
 import { convertAndFormatPrice, convertCurrency } from '../utils/currency';
 
@@ -505,8 +506,29 @@ export default function Cards() {
   const matchedSalesCount = filteredSales.filter(sale => sale.matched).length;
   const unmatchedSalesCount = filteredSales.filter(sale => !sale.matched).length;
 
+  // Card sales structured data
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "TAG Pokemon Card Database & Sales Analytics",
+    "description": "Comprehensive database of TAG graded Pokemon cards with sales analytics, price tracking, and market insights",
+    "mainEntity": {
+      "@type": "ItemList",
+      "name": "Matched TAG Pokemon Cards",
+      "numberOfItems": filteredSales.filter(sale => sale.matched).length
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gray-100">
+      <SEOHead
+        title="TAG Pokemon Card Database - Sales Analytics & Price Tracking"
+        description={`Browse ${filteredSales.length} TAG graded Pokemon card sales with detailed analytics. Track price history, market trends, and card matching data across UK and US eBay marketplaces.`}
+        keywords="TAG Pokemon card database, Pokemon card analytics, graded card sales data, Pokemon card matching, TAG card prices, Pokemon market analysis"
+        canonicalUrl="https://tag-sales-tracker.vercel.app/cards"
+        structuredData={structuredData}
+      />
+      
       {/* Navigation */}
       <nav className="bg-white shadow-sm border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -731,8 +753,9 @@ export default function Cards() {
                 <div className="p-4">
                   <img 
                     src={sale.img} 
-                    alt={sale.title} 
-                    className="w-full h-48 object-contain rounded-lg mb-4" 
+                    alt={`${sale.title} - TAG graded Pokemon card${sale.matched ? ` matched to ${sale.matchedCard.name}` : ''}`} 
+                    className="w-full h-48 object-contain rounded-lg mb-4"
+                    loading="lazy"
                   />
                   
                   <h3 className="font-semibold text-lg mb-2 line-clamp-2">{sale.title}</h3>
