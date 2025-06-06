@@ -1,0 +1,4301 @@
+{
+  "setInfo": {
+    "name": "Black Bolt (JAP)",
+    "setCode": "BB01",
+    "releaseDate": "2025/06/06",
+    "totalCards": 174,
+    "series": "Black & White",
+    "description": "Black Bolt set featuring Generation V Pokemon with classic Black & White era designs and mechanics"
+  },
+  "cards": [
+    {
+      "number": "001/086",
+      "name": "Snivy",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "snivy",
+        "black bolt",
+        "bb01",
+        "001"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "002/086",
+      "name": "Servine",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "servine",
+        "black bolt",
+        "bb01",
+        "002"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "003/086",
+      "name": "Serperiorex",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "serperiorex",
+        "black bolt",
+        "bb01",
+        "003"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "004/086",
+      "name": "Pansage",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "pansage",
+        "black bolt",
+        "bb01",
+        "004"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "005/086",
+      "name": "Simisage",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "simisage",
+        "black bolt",
+        "bb01",
+        "005"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "006/086",
+      "name": "Petilil",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "petilil",
+        "black bolt",
+        "bb01",
+        "006"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "007/086",
+      "name": "Lilligant",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "lilligant",
+        "black bolt",
+        "bb01",
+        "007"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "008/086",
+      "name": "Maractus",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "maractus",
+        "black bolt",
+        "bb01",
+        "008"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "009/086",
+      "name": "Karrablast",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "karrablast",
+        "black bolt",
+        "bb01",
+        "009"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "010/086",
+      "name": "Foongus",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "foongus",
+        "black bolt",
+        "bb01",
+        "010"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "011/086",
+      "name": "Amoonguss",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "amoonguss",
+        "black bolt",
+        "bb01",
+        "011"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "012/086",
+      "name": "Victini",
+      "type": "Fire",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "victini",
+        "black bolt",
+        "bb01",
+        "012"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "013/086",
+      "name": "Darumaka",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "darumaka",
+        "black bolt",
+        "bb01",
+        "013"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "014/086",
+      "name": "Darmanitan",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "darmanitan",
+        "black bolt",
+        "bb01",
+        "014"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "015/086",
+      "name": "Litwick",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "litwick",
+        "black bolt",
+        "bb01",
+        "015"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "016/086",
+      "name": "Lampent",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "lampent",
+        "black bolt",
+        "bb01",
+        "016"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "017/086",
+      "name": "Chandelure",
+      "type": "Fire",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "chandelure",
+        "black bolt",
+        "bb01",
+        "017"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "018/086",
+      "name": "Larvesta",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "larvesta",
+        "black bolt",
+        "bb01",
+        "018"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "019/086",
+      "name": "Volcarona",
+      "type": "Fire",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "volcarona",
+        "black bolt",
+        "bb01",
+        "019"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "020/086",
+      "name": "Panpour",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "panpour",
+        "black bolt",
+        "bb01",
+        "020"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "021/086",
+      "name": "Simipour",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "simipour",
+        "black bolt",
+        "bb01",
+        "021"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "022/086",
+      "name": "Tympole",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "tympole",
+        "black bolt",
+        "bb01",
+        "022"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "023/086",
+      "name": "Palpitoad",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "palpitoad",
+        "black bolt",
+        "bb01",
+        "023"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "024/086",
+      "name": "Seismitoad",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "seismitoad",
+        "black bolt",
+        "bb01",
+        "024"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "025/086",
+      "name": "Tirtouga",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "tirtouga",
+        "black bolt",
+        "bb01",
+        "025"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "026/086",
+      "name": "Carracosta",
+      "type": "Water",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "carracosta",
+        "black bolt",
+        "bb01",
+        "026"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "027/086",
+      "name": "Alomomola",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "alomomola",
+        "black bolt",
+        "bb01",
+        "027"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "028/086",
+      "name": "Cubchoo",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "cubchoo",
+        "black bolt",
+        "bb01",
+        "028"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "029/086",
+      "name": "Beartic",
+      "type": "Water",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "beartic",
+        "black bolt",
+        "bb01",
+        "029"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "030/086",
+      "name": "Cryogonal",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "cryogonal",
+        "black bolt",
+        "bb01",
+        "030"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "031/086",
+      "name": "Kyuremex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "kyuremex",
+        "black bolt",
+        "bb01",
+        "031"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "032/086",
+      "name": "Emolga",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "emolga",
+        "black bolt",
+        "bb01",
+        "032"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "033/086",
+      "name": "Tynamo",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "tynamo",
+        "black bolt",
+        "bb01",
+        "033"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "034/086",
+      "name": "Eelektrik",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "eelektrik",
+        "black bolt",
+        "bb01",
+        "034"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "035/086",
+      "name": "Eelektross",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "eelektross",
+        "black bolt",
+        "bb01",
+        "035"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "036/086",
+      "name": "Thundurus",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "thundurus",
+        "black bolt",
+        "bb01",
+        "036"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "037/086",
+      "name": "Zekromex",
+      "type": "Lightning",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "zekromex",
+        "black bolt",
+        "bb01",
+        "037"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "038/086",
+      "name": "Munna",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "munna",
+        "black bolt",
+        "bb01",
+        "038"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "039/086",
+      "name": "Musharna",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "musharna",
+        "black bolt",
+        "bb01",
+        "039"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "040/086",
+      "name": "Solosis",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "solosis",
+        "black bolt",
+        "bb01",
+        "040"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "041/086",
+      "name": "Duosion",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "duosion",
+        "black bolt",
+        "bb01",
+        "041"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "042/086",
+      "name": "Reuniclus",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "reuniclus",
+        "black bolt",
+        "bb01",
+        "042"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "043/086",
+      "name": "Elgyem",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "elgyem",
+        "black bolt",
+        "bb01",
+        "043"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "044/086",
+      "name": "Beheeyem",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "beheeyem",
+        "black bolt",
+        "bb01",
+        "044"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "045/086",
+      "name": "Golett",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "golett",
+        "black bolt",
+        "bb01",
+        "045"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "046/086",
+      "name": "Golurk",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "golurk",
+        "black bolt",
+        "bb01",
+        "046"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "047/086",
+      "name": "Meloettaex",
+      "type": "Psychic",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "meloettaex",
+        "black bolt",
+        "bb01",
+        "047"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "048/086",
+      "name": "Drilbur",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "drilbur",
+        "black bolt",
+        "bb01",
+        "048"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "049/086",
+      "name": "Excadrillex",
+      "type": "Fighting",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "excadrillex",
+        "black bolt",
+        "bb01",
+        "049"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "050/086",
+      "name": "Timburr",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "timburr",
+        "black bolt",
+        "bb01",
+        "050"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "051/086",
+      "name": "Gurdurr",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "gurdurr",
+        "black bolt",
+        "bb01",
+        "051"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "052/086",
+      "name": "Conkeldurr",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "conkeldurr",
+        "black bolt",
+        "bb01",
+        "052"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "053/086",
+      "name": "Throh",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "throh",
+        "black bolt",
+        "bb01",
+        "053"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "054/086",
+      "name": "Dwebble",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "dwebble",
+        "black bolt",
+        "bb01",
+        "054"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "055/086",
+      "name": "Crustle",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "crustle",
+        "black bolt",
+        "bb01",
+        "055"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "056/086",
+      "name": "Landorus",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "landorus",
+        "black bolt",
+        "bb01",
+        "056"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "057/086",
+      "name": "Venipede",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "venipede",
+        "black bolt",
+        "bb01",
+        "057"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "058/086",
+      "name": "Whirlipede",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "whirlipede",
+        "black bolt",
+        "bb01",
+        "058"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "059/086",
+      "name": "Scolipede",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "scolipede",
+        "black bolt",
+        "bb01",
+        "059"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "060/086",
+      "name": "Sandile",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "sandile",
+        "black bolt",
+        "bb01",
+        "060"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "061/086",
+      "name": "Krokorok",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "krokorok",
+        "black bolt",
+        "bb01",
+        "061"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "062/086",
+      "name": "Krookodile",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "krookodile",
+        "black bolt",
+        "bb01",
+        "062"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "063/086",
+      "name": "Vullaby",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "vullaby",
+        "black bolt",
+        "bb01",
+        "063"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "064/086",
+      "name": "Mandibuzz",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "mandibuzz",
+        "black bolt",
+        "bb01",
+        "064"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "065/086",
+      "name": "Escavalier",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "escavalier",
+        "black bolt",
+        "bb01",
+        "065"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "066/086",
+      "name": "Pawniard",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "pawniard",
+        "black bolt",
+        "bb01",
+        "066"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "067/086",
+      "name": "Bisharp",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "bisharp",
+        "black bolt",
+        "bb01",
+        "067"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "068/086",
+      "name": "Cobalion",
+      "type": "Metal",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "cobalion",
+        "black bolt",
+        "bb01",
+        "068"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "069/086",
+      "name": "Genesectex",
+      "type": "Metal",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "genesectex",
+        "black bolt",
+        "bb01",
+        "069"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "070/086",
+      "name": "Axew",
+      "type": "Dragon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "axew",
+        "black bolt",
+        "bb01",
+        "070"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "071/086",
+      "name": "Fraxure",
+      "type": "Dragon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "fraxure",
+        "black bolt",
+        "bb01",
+        "071"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "072/086",
+      "name": "Haxorus",
+      "type": "Dragon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "haxorus",
+        "black bolt",
+        "bb01",
+        "072"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "073/086",
+      "name": "Pidove",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "pidove",
+        "black bolt",
+        "bb01",
+        "073"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "074/086",
+      "name": "Tranquill",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "tranquill",
+        "black bolt",
+        "bb01",
+        "074"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "075/086",
+      "name": "Unfezant",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "unfezant",
+        "black bolt",
+        "bb01",
+        "075"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "076/086",
+      "name": "Audino",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "audino",
+        "black bolt",
+        "bb01",
+        "076"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "077/086",
+      "name": "Minccino",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "minccino",
+        "black bolt",
+        "bb01",
+        "077"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "078/086",
+      "name": "Cinccino",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "cinccino",
+        "black bolt",
+        "bb01",
+        "078"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "079/086",
+      "name": "Energy Coin",
+      "type": "Item",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "energy coin",
+        "black bolt",
+        "bb01",
+        "079"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "080/086",
+      "name": "Antique Cover Fossil",
+      "type": "Item",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "antique cover fossil",
+        "black bolt",
+        "bb01",
+        "080"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "081/086",
+      "name": "Pokégear 3.0",
+      "type": "Item",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "pokégear 3.0",
+        "black bolt",
+        "bb01",
+        "081"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "082/086",
+      "name": "Air Balloon",
+      "type": "Pokemon Tool",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "air balloon",
+        "black bolt",
+        "bb01",
+        "082"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "083/086",
+      "name": "N's Plot",
+      "type": "Supporter",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "n's plot",
+        "black bolt",
+        "bb01",
+        "083"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "084/086",
+      "name": "Professor's Research [Professor Juniper]",
+      "type": "Supporter",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "professor's research [professor juniper]",
+        "black bolt",
+        "bb01",
+        "084"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "085/086",
+      "name": "Fennel",
+      "type": "Supporter",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "fennel",
+        "black bolt",
+        "bb01",
+        "085"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "086/086",
+      "name": "Prism Energy",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "prism energy",
+        "black bolt",
+        "bb01",
+        "086"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "087/086",
+      "name": "Snivy",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "snivy",
+        "black bolt",
+        "bb01",
+        "087"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "088/086",
+      "name": "Servine",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "servine",
+        "black bolt",
+        "bb01",
+        "088"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "089/086",
+      "name": "Pansage",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "pansage",
+        "black bolt",
+        "bb01",
+        "089"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "090/086",
+      "name": "Simisage",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "simisage",
+        "black bolt",
+        "bb01",
+        "090"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "091/086",
+      "name": "Petilil",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "petilil",
+        "black bolt",
+        "bb01",
+        "091"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "092/086",
+      "name": "Lilligant",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "lilligant",
+        "black bolt",
+        "bb01",
+        "092"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "093/086",
+      "name": "Maractus",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "maractus",
+        "black bolt",
+        "bb01",
+        "093"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "094/086",
+      "name": "Karrablast",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "karrablast",
+        "black bolt",
+        "bb01",
+        "094"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "095/086",
+      "name": "Foongus",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "foongus",
+        "black bolt",
+        "bb01",
+        "095"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "096/086",
+      "name": "Amoonguss",
+      "type": "Grass",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "amoonguss",
+        "black bolt",
+        "bb01",
+        "096"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "097/086",
+      "name": "Victini",
+      "type": "Fire",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "victini",
+        "black bolt",
+        "bb01",
+        "097"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "098/086",
+      "name": "Darumaka",
+      "type": "Fire",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "darumaka",
+        "black bolt",
+        "bb01",
+        "098"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "099/086",
+      "name": "Darmanitan",
+      "type": "Fire",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "darmanitan",
+        "black bolt",
+        "bb01",
+        "099"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "100/086",
+      "name": "Litwick",
+      "type": "Fire",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "litwick",
+        "black bolt",
+        "bb01",
+        "100"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "101/086",
+      "name": "Lampent",
+      "type": "Fire",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "lampent",
+        "black bolt",
+        "bb01",
+        "101"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "102/086",
+      "name": "Chandelure",
+      "type": "Fire",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "chandelure",
+        "black bolt",
+        "bb01",
+        "102"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "103/086",
+      "name": "Larvesta",
+      "type": "Fire",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "larvesta",
+        "black bolt",
+        "bb01",
+        "103"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "104/086",
+      "name": "Volcarona",
+      "type": "Fire",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "volcarona",
+        "black bolt",
+        "bb01",
+        "104"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "105/086",
+      "name": "Panpour",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "panpour",
+        "black bolt",
+        "bb01",
+        "105"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "106/086",
+      "name": "Simipour",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "simipour",
+        "black bolt",
+        "bb01",
+        "106"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "107/086",
+      "name": "Tympole",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "tympole",
+        "black bolt",
+        "bb01",
+        "107"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "108/086",
+      "name": "Palpitoad",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "palpitoad",
+        "black bolt",
+        "bb01",
+        "108"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "109/086",
+      "name": "Seismitoad",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "seismitoad",
+        "black bolt",
+        "bb01",
+        "109"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "110/086",
+      "name": "Tirtouga",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "tirtouga",
+        "black bolt",
+        "bb01",
+        "110"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "111/086",
+      "name": "Carracosta",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "carracosta",
+        "black bolt",
+        "bb01",
+        "111"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "112/086",
+      "name": "Alomomola",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "alomomola",
+        "black bolt",
+        "bb01",
+        "112"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "113/086",
+      "name": "Cubchoo",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "cubchoo",
+        "black bolt",
+        "bb01",
+        "113"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "114/086",
+      "name": "Beartic",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "beartic",
+        "black bolt",
+        "bb01",
+        "114"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "115/086",
+      "name": "Cryogonal",
+      "type": "Water",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "cryogonal",
+        "black bolt",
+        "bb01",
+        "115"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "116/086",
+      "name": "Emolga",
+      "type": "Lightning",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "emolga",
+        "black bolt",
+        "bb01",
+        "116"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "117/086",
+      "name": "Tynamo",
+      "type": "Lightning",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "tynamo",
+        "black bolt",
+        "bb01",
+        "117"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "118/086",
+      "name": "Eelektrik",
+      "type": "Lightning",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "eelektrik",
+        "black bolt",
+        "bb01",
+        "118"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "119/086",
+      "name": "Eelektross",
+      "type": "Lightning",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "eelektross",
+        "black bolt",
+        "bb01",
+        "119"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "120/086",
+      "name": "Thundurus",
+      "type": "Lightning",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "thundurus",
+        "black bolt",
+        "bb01",
+        "120"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "121/086",
+      "name": "Munna",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "munna",
+        "black bolt",
+        "bb01",
+        "121"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "122/086",
+      "name": "Musharna",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "musharna",
+        "black bolt",
+        "bb01",
+        "122"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "123/086",
+      "name": "Solosis",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "solosis",
+        "black bolt",
+        "bb01",
+        "123"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "124/086",
+      "name": "Duosion",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "duosion",
+        "black bolt",
+        "bb01",
+        "124"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "125/086",
+      "name": "Reuniclus",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "reuniclus",
+        "black bolt",
+        "bb01",
+        "125"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "126/086",
+      "name": "Elgyem",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "elgyem",
+        "black bolt",
+        "bb01",
+        "126"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "127/086",
+      "name": "Beheeyem",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "beheeyem",
+        "black bolt",
+        "bb01",
+        "127"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "128/086",
+      "name": "Golett",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "golett",
+        "black bolt",
+        "bb01",
+        "128"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "129/086",
+      "name": "Golurk",
+      "type": "Psychic",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "golurk",
+        "black bolt",
+        "bb01",
+        "129"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "130/086",
+      "name": "Drilbur",
+      "type": "Fighting",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "drilbur",
+        "black bolt",
+        "bb01",
+        "130"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "131/086",
+      "name": "Timburr",
+      "type": "Fighting",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "timburr",
+        "black bolt",
+        "bb01",
+        "131"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "132/086",
+      "name": "Gurdurr",
+      "type": "Fighting",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "gurdurr",
+        "black bolt",
+        "bb01",
+        "132"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "133/086",
+      "name": "Conkeldurr",
+      "type": "Fighting",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "conkeldurr",
+        "black bolt",
+        "bb01",
+        "133"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "134/086",
+      "name": "Throh",
+      "type": "Fighting",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "throh",
+        "black bolt",
+        "bb01",
+        "134"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "135/086",
+      "name": "Dwebble",
+      "type": "Fighting",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "dwebble",
+        "black bolt",
+        "bb01",
+        "135"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "136/086",
+      "name": "Crustle",
+      "type": "Fighting",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "crustle",
+        "black bolt",
+        "bb01",
+        "136"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "137/086",
+      "name": "Landorus",
+      "type": "Fighting",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "landorus",
+        "black bolt",
+        "bb01",
+        "137"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "138/086",
+      "name": "Venipede",
+      "type": "Darkness",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "venipede",
+        "black bolt",
+        "bb01",
+        "138"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "139/086",
+      "name": "Whirlipede",
+      "type": "Darkness",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "whirlipede",
+        "black bolt",
+        "bb01",
+        "139"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "140/086",
+      "name": "Scolipede",
+      "type": "Darkness",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "scolipede",
+        "black bolt",
+        "bb01",
+        "140"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "141/086",
+      "name": "Sandile",
+      "type": "Darkness",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "sandile",
+        "black bolt",
+        "bb01",
+        "141"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "142/086",
+      "name": "Krokorok",
+      "type": "Darkness",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "krokorok",
+        "black bolt",
+        "bb01",
+        "142"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "143/086",
+      "name": "Krookodile",
+      "type": "Darkness",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "krookodile",
+        "black bolt",
+        "bb01",
+        "143"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "144/086",
+      "name": "Vullaby",
+      "type": "Darkness",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "vullaby",
+        "black bolt",
+        "bb01",
+        "144"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "145/086",
+      "name": "Mandibuzz",
+      "type": "Darkness",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "mandibuzz",
+        "black bolt",
+        "bb01",
+        "145"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "146/086",
+      "name": "Escavalier",
+      "type": "Metal",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "escavalier",
+        "black bolt",
+        "bb01",
+        "146"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "147/086",
+      "name": "Pawniard",
+      "type": "Metal",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "pawniard",
+        "black bolt",
+        "bb01",
+        "147"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "148/086",
+      "name": "Bisharp",
+      "type": "Metal",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "bisharp",
+        "black bolt",
+        "bb01",
+        "148"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "149/086",
+      "name": "Cobalion",
+      "type": "Metal",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "cobalion",
+        "black bolt",
+        "bb01",
+        "149"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "150/086",
+      "name": "Axew",
+      "type": "Dragon",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "axew",
+        "black bolt",
+        "bb01",
+        "150"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "151/086",
+      "name": "Fraxure",
+      "type": "Dragon",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "fraxure",
+        "black bolt",
+        "bb01",
+        "151"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "152/086",
+      "name": "Haxorus",
+      "type": "Dragon",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "haxorus",
+        "black bolt",
+        "bb01",
+        "152"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "153/086",
+      "name": "Pidove",
+      "type": "Colorless",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "pidove",
+        "black bolt",
+        "bb01",
+        "153"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "154/086",
+      "name": "Tranquill",
+      "type": "Colorless",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "tranquill",
+        "black bolt",
+        "bb01",
+        "154"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "155/086",
+      "name": "Unfezant",
+      "type": "Colorless",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "unfezant",
+        "black bolt",
+        "bb01",
+        "155"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "156/086",
+      "name": "Audino",
+      "type": "Colorless",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "audino",
+        "black bolt",
+        "bb01",
+        "156"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "157/086",
+      "name": "Minccino",
+      "type": "Colorless",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "minccino",
+        "black bolt",
+        "bb01",
+        "157"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "158/086",
+      "name": "Cinccino",
+      "type": "Colorless",
+      "rarity": "Alternative Rare",
+      "matchingKeywords": [
+        "cinccino",
+        "black bolt",
+        "bb01",
+        "158"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 6.0,
+        "high": 12.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "159/086",
+      "name": "Serperiorex",
+      "type": "Grass",
+      "rarity": "Secret Rare",
+      "matchingKeywords": [
+        "serperiorex",
+        "black bolt",
+        "bb01",
+        "159"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "160/086",
+      "name": "Kyuremex",
+      "type": "Water",
+      "rarity": "Secret Rare",
+      "matchingKeywords": [
+        "kyuremex",
+        "black bolt",
+        "bb01",
+        "160"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "161/086",
+      "name": "Zekromex",
+      "type": "Lightning",
+      "rarity": "Secret Rare",
+      "matchingKeywords": [
+        "zekromex",
+        "black bolt",
+        "bb01",
+        "161"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "162/086",
+      "name": "Meloettaex",
+      "type": "Psychic",
+      "rarity": "Secret Rare",
+      "matchingKeywords": [
+        "meloettaex",
+        "black bolt",
+        "bb01",
+        "162"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "163/086",
+      "name": "Excadrillex",
+      "type": "Fighting",
+      "rarity": "Secret Rare",
+      "matchingKeywords": [
+        "excadrillex",
+        "black bolt",
+        "bb01",
+        "163"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "164/086",
+      "name": "Genesectex",
+      "type": "Metal",
+      "rarity": "Secret Rare",
+      "matchingKeywords": [
+        "genesectex",
+        "black bolt",
+        "bb01",
+        "164"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "165/086",
+      "name": "N's Plot",
+      "type": "Supporter",
+      "rarity": "Secret Rare",
+      "matchingKeywords": [
+        "n's plot",
+        "black bolt",
+        "bb01",
+        "165"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "166/086",
+      "name": "Fennel",
+      "type": "Supporter",
+      "rarity": "Secret Rare",
+      "matchingKeywords": [
+        "fennel",
+        "black bolt",
+        "bb01",
+        "166"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "167/086",
+      "name": "Serperiorex",
+      "type": "Grass",
+      "rarity": "Special Alternative Rare",
+      "matchingKeywords": [
+        "serperiorex",
+        "black bolt",
+        "bb01",
+        "167"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "168/086",
+      "name": "Kyuremex",
+      "type": "Water",
+      "rarity": "Special Alternative Rare",
+      "matchingKeywords": [
+        "kyuremex",
+        "black bolt",
+        "bb01",
+        "168"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "169/086",
+      "name": "Zekromex",
+      "type": "Lightning",
+      "rarity": "Special Alternative Rare",
+      "matchingKeywords": [
+        "zekromex",
+        "black bolt",
+        "bb01",
+        "169"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "170/086",
+      "name": "Meloettaex",
+      "type": "Psychic",
+      "rarity": "Special Alternative Rare",
+      "matchingKeywords": [
+        "meloettaex",
+        "black bolt",
+        "bb01",
+        "170"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "171/086",
+      "name": "Excadrillex",
+      "type": "Fighting",
+      "rarity": "Special Alternative Rare",
+      "matchingKeywords": [
+        "excadrillex",
+        "black bolt",
+        "bb01",
+        "171"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "172/086",
+      "name": "Genesectex",
+      "type": "Metal",
+      "rarity": "Special Alternative Rare",
+      "matchingKeywords": [
+        "genesectex",
+        "black bolt",
+        "bb01",
+        "172"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "173/086",
+      "name": "N's Plot",
+      "type": "Supporter",
+      "rarity": "Special Alternative Rare",
+      "matchingKeywords": [
+        "n's plot",
+        "black bolt",
+        "bb01",
+        "173"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "174/086",
+      "name": "Zekromex",
+      "type": "Lightning",
+      "rarity": "Black & White Rare",
+      "matchingKeywords": [
+        "zekromex",
+        "black bolt",
+        "bb01",
+        "174"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 50.0,
+        "mid": 100.0,
+        "high": 200.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    }
+  ]
+}

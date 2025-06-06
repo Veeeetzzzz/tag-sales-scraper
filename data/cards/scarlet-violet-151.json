@@ -1,0 +1,4894 @@
+{
+  "setInfo": {
+    "name": "Scarlet and Violet 151",
+    "code": "SV151",
+    "releaseDate": "2023-09-22",
+    "totalCards": 207,
+    "series": "Scarlet & Violet",
+    "description": "A special anniversary set celebrating the original 151 Kanto Pokemon with modern Scarlet & Violet era artwork and mechanics. Features all Generation I Pokemon with new ex variants, special illustration cards, and nostalgic trainer cards from the Kanto region."
+  },
+  "cards": [
+    {
+      "number": "001/165",
+      "name": "Bulbasaur",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Grass Starter",
+        "Generation I Starter"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "002/165",
+      "name": "Ivysaur",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Grass Starter",
+        "Generation I Starter"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "003/165",
+      "name": "Venusaurex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Grass Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "004/165",
+      "name": "Charmander",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Fire Starter",
+        "Generation I Starter"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "005/165",
+      "name": "Charmeleon",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Fire Starter",
+        "Generation I Starter"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "006/165",
+      "name": "Charizardex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Fire Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "007/165",
+      "name": "Squirtle",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Water Starter",
+        "Generation I Starter"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "008/165",
+      "name": "Wartortle",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Water Starter",
+        "Generation I Starter"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "009/165",
+      "name": "Blastoiseex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Water Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "010/165",
+      "name": "Caterpie",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "011/165",
+      "name": "Metapod",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "012/165",
+      "name": "Butterfree",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "013/165",
+      "name": "Weedle",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "014/165",
+      "name": "Kakuna",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "015/165",
+      "name": "Beedrill",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "016/165",
+      "name": "Pidgey",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "017/165",
+      "name": "Pidgeotto",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "018/165",
+      "name": "Pidgeot",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "019/165",
+      "name": "Rattata",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "020/165",
+      "name": "Raticate",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "021/165",
+      "name": "Spearow",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "022/165",
+      "name": "Fearow",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "023/165",
+      "name": "Ekans",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "024/165",
+      "name": "Arbokex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "025/165",
+      "name": "Pikachu",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Electric Mouse",
+        "Mascot Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "026/165",
+      "name": "Raichu",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Electric Mouse",
+        "Mascot Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "027/165",
+      "name": "Sandshrew",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "028/165",
+      "name": "Sandslash",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "029/165",
+      "name": "Nidoran♀",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "030/165",
+      "name": "Nidorina",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "031/165",
+      "name": "Nidoqueen",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "032/165",
+      "name": "Nidoran♂",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "033/165",
+      "name": "Nidorino",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "034/165",
+      "name": "Nidoking",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "035/165",
+      "name": "Clefairy",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "036/165",
+      "name": "Clefable",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "037/165",
+      "name": "Vulpix",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "038/165",
+      "name": "Ninetalesex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "039/165",
+      "name": "Jigglypuff",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "040/165",
+      "name": "Wigglytuffex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "041/165",
+      "name": "Zubat",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "042/165",
+      "name": "Golbat",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "043/165",
+      "name": "Oddish",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "044/165",
+      "name": "Gloom",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "045/165",
+      "name": "Vileplume",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "046/165",
+      "name": "Paras",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "047/165",
+      "name": "Parasect",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "048/165",
+      "name": "Venonat",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "049/165",
+      "name": "Venomoth",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "050/165",
+      "name": "Diglett",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "051/165",
+      "name": "Dugtrio",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "052/165",
+      "name": "Meowth",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "053/165",
+      "name": "Persian",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "054/165",
+      "name": "Psyduck",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "055/165",
+      "name": "Golduck",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "056/165",
+      "name": "Mankey",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "057/165",
+      "name": "Primeape",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "058/165",
+      "name": "Growlithe",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "059/165",
+      "name": "Arcanine",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "060/165",
+      "name": "Poliwag",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "061/165",
+      "name": "Poliwhirl",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "062/165",
+      "name": "Poliwrath",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "063/165",
+      "name": "Abra",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "064/165",
+      "name": "Kadabra",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "065/165",
+      "name": "Alakazamex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "066/165",
+      "name": "Machop",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "067/165",
+      "name": "Machoke",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "068/165",
+      "name": "Machamp",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "069/165",
+      "name": "Bellsprout",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "070/165",
+      "name": "Weepinbell",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "071/165",
+      "name": "Victreebel",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "072/165",
+      "name": "Tentacool",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "073/165",
+      "name": "Tentacruel",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "074/165",
+      "name": "Geodude",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "075/165",
+      "name": "Graveler",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "076/165",
+      "name": "Golemex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "077/165",
+      "name": "Ponyta",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "078/165",
+      "name": "Rapidash",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "079/165",
+      "name": "Slowpoke",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "080/165",
+      "name": "Slowbro",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "081/165",
+      "name": "Magnemite",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "082/165",
+      "name": "Magneton",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "083/165",
+      "name": "Farfetch'd",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "084/165",
+      "name": "Doduo",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "085/165",
+      "name": "Dodrio",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "086/165",
+      "name": "Seel",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "087/165",
+      "name": "Dewgong",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "088/165",
+      "name": "Grimer",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "089/165",
+      "name": "Muk",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "090/165",
+      "name": "Shellder",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "091/165",
+      "name": "Cloyster",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "092/165",
+      "name": "Gastly",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "093/165",
+      "name": "Haunter",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "094/165",
+      "name": "Gengar",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "095/165",
+      "name": "Onix",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "096/165",
+      "name": "Drowzee",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "097/165",
+      "name": "Hypno",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "098/165",
+      "name": "Krabby",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "099/165",
+      "name": "Kingler",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "100/165",
+      "name": "Voltorb",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "101/165",
+      "name": "Electrode",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "102/165",
+      "name": "Exeggcute",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "103/165",
+      "name": "Exeggutor",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "104/165",
+      "name": "Cubone",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "105/165",
+      "name": "Marowak",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "106/165",
+      "name": "Hitmonlee",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "107/165",
+      "name": "Hitmonchan",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "108/165",
+      "name": "Lickitung",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "109/165",
+      "name": "Koffing",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "110/165",
+      "name": "Weezing",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "111/165",
+      "name": "Rhyhorn",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "112/165",
+      "name": "Rhydon",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "113/165",
+      "name": "Chansey",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "114/165",
+      "name": "Tangela",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "115/165",
+      "name": "Kangaskhanex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "116/165",
+      "name": "Horsea",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "117/165",
+      "name": "Seadra",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "118/165",
+      "name": "Goldeen",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "119/165",
+      "name": "Seaking",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "120/165",
+      "name": "Staryu",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "121/165",
+      "name": "Starmie",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "122/165",
+      "name": "Mr. Mime",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "123/165",
+      "name": "Scyther",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "124/165",
+      "name": "Jynxex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "125/165",
+      "name": "Electabuzz",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "126/165",
+      "name": "Magmar",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "127/165",
+      "name": "Pinsir",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "128/165",
+      "name": "Tauros",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "129/165",
+      "name": "Magikarp",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "130/165",
+      "name": "Gyarados",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "131/165",
+      "name": "Lapras",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "132/165",
+      "name": "Ditto",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "133/165",
+      "name": "Eevee",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Eeveelution",
+        "Evolution Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "134/165",
+      "name": "Vaporeon",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Eeveelution",
+        "Evolution Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "135/165",
+      "name": "Jolteon",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Eeveelution",
+        "Evolution Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "136/165",
+      "name": "Flareon",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Eeveelution",
+        "Evolution Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "137/165",
+      "name": "Porygon",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "138/165",
+      "name": "Omanyte",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Fossil Pokemon",
+        "Ancient Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "139/165",
+      "name": "Omastar",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Fossil Pokemon",
+        "Ancient Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "140/165",
+      "name": "Kabuto",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Fossil Pokemon",
+        "Ancient Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "141/165",
+      "name": "Kabutops",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Fossil Pokemon",
+        "Ancient Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "142/165",
+      "name": "Aerodactyl",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Fossil Pokemon",
+        "Ancient Pokemon"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "143/165",
+      "name": "Snorlax",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "144/165",
+      "name": "Articuno",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "145/165",
+      "name": "Zapdosex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "146/165",
+      "name": "Moltres",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "147/165",
+      "name": "Dratini",
+      "type": "Pokemon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "148/165",
+      "name": "Dragonair",
+      "type": "Pokemon",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "149/165",
+      "name": "Dragonite",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "150/165",
+      "name": "Mewtwo",
+      "type": "Pokemon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 1.0,
+        "max": 5.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "151/165",
+      "name": "Mewex",
+      "type": "Pokemon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary",
+        "ex Pokemon",
+        "Double Rare",
+        "ex Pokemon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "min": 5.0,
+        "max": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "152/165",
+      "name": "Antique Dome Fossil",
+      "type": "Trainer",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Fossil",
+        "Item Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "153/165",
+      "name": "Antique Helix Fossil",
+      "type": "Trainer",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Fossil",
+        "Item Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "154/165",
+      "name": "Antique Old Amber",
+      "type": "Trainer",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Item",
+        "Item Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.25,
+        "max": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "155/165",
+      "name": "Big Air Balloon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Pokemon Tool",
+        "Tool Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "156/165",
+      "name": "Bill's Transfer",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Bill",
+        "Kanto Gym Leader",
+        "Supporter",
+        "Supporter Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "157/165",
+      "name": "Cycling Road",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Stadium",
+        "Stadium Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "158/165",
+      "name": "Daisy's Help",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Daisy",
+        "Professor Oak",
+        "Supporter",
+        "Supporter Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "159/165",
+      "name": "Energy Sticker",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Item",
+        "Item Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "160/165",
+      "name": "Erika's Invitation",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Erika",
+        "Kanto Gym Leader",
+        "Grass Gym",
+        "Supporter",
+        "Supporter Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "161/165",
+      "name": "Giovanni's Charisma",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Giovanni",
+        "Team Rocket",
+        "Ground Gym",
+        "Supporter",
+        "Supporter Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "162/165",
+      "name": "Grabber",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Item",
+        "Item Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "163/165",
+      "name": "Leftovers",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Pokemon Tool",
+        "Tool Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "164/165",
+      "name": "Protective Goggles",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Pokemon Tool",
+        "Tool Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "165/165",
+      "name": "Rigid Band",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Pokemon Tool",
+        "Tool Card"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "min": 0.5,
+        "max": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "166/165",
+      "name": "Bulbasaur",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Grass Starter",
+        "Generation I Starter",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "167/165",
+      "name": "Ivysaur",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Grass Starter",
+        "Generation I Starter",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "168/165",
+      "name": "Charmander",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Fire Starter",
+        "Generation I Starter",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "169/165",
+      "name": "Charmeleon",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Fire Starter",
+        "Generation I Starter",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "170/165",
+      "name": "Squirtle",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Water Starter",
+        "Generation I Starter",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "171/165",
+      "name": "Wartortle",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Water Starter",
+        "Generation I Starter",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "172/165",
+      "name": "Caterpie",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "173/165",
+      "name": "Pikachu",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Electric Mouse",
+        "Mascot Pokemon",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "174/165",
+      "name": "Nidoking",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "175/165",
+      "name": "Psyduck",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "176/165",
+      "name": "Poliwhirl",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "177/165",
+      "name": "Machoke",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "178/165",
+      "name": "Tangela",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "179/165",
+      "name": "Mr. Mime",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "180/165",
+      "name": "Omanyte",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Fossil Pokemon",
+        "Ancient Pokemon",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "181/165",
+      "name": "Dragonair",
+      "type": "Pokemon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Illustration Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 8.0,
+        "max": 30.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "182/165",
+      "name": "Venusaurex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Grass Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "183/165",
+      "name": "Charizardex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Fire Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "184/165",
+      "name": "Blastoiseex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Water Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "185/165",
+      "name": "Arbokex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "186/165",
+      "name": "Ninetalesex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "187/165",
+      "name": "Wigglytuffex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "188/165",
+      "name": "Alakazamex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "189/165",
+      "name": "Golemex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "190/165",
+      "name": "Kangaskhanex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "191/165",
+      "name": "Jynxex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "192/165",
+      "name": "Zapdosex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "193/165",
+      "name": "Mewex",
+      "type": "Pokemon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary",
+        "ex Pokemon",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "194/165",
+      "name": "Bill's Transfer",
+      "type": "Trainer",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Bill",
+        "Kanto Gym Leader",
+        "Supporter",
+        "Supporter Card",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "195/165",
+      "name": "Daisy's Help",
+      "type": "Trainer",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Daisy",
+        "Professor Oak",
+        "Supporter",
+        "Supporter Card",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "196/165",
+      "name": "Erika's Invitation",
+      "type": "Trainer",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Erika",
+        "Kanto Gym Leader",
+        "Grass Gym",
+        "Supporter",
+        "Supporter Card",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "197/165",
+      "name": "Giovanni's Charisma",
+      "type": "Trainer",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Giovanni",
+        "Team Rocket",
+        "Ground Gym",
+        "Supporter",
+        "Supporter Card",
+        "Ultra Rare",
+        "Special Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 15.0,
+        "max": 60.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "198/165",
+      "name": "Venusaurex",
+      "type": "Pokemon",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Grass Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Special Illustration Rare",
+        "Premium Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 25.0,
+        "max": 100.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "199/165",
+      "name": "Charizardex",
+      "type": "Pokemon",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Fire Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Special Illustration Rare",
+        "Premium Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 25.0,
+        "max": 100.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "200/165",
+      "name": "Blastoiseex",
+      "type": "Pokemon",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Starter Pokemon",
+        "Water Starter",
+        "Generation I Starter",
+        "ex Pokemon",
+        "Special Illustration Rare",
+        "Premium Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 25.0,
+        "max": 100.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "201/165",
+      "name": "Alakazamex",
+      "type": "Pokemon",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "ex Pokemon",
+        "Special Illustration Rare",
+        "Premium Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 25.0,
+        "max": 100.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "202/165",
+      "name": "Zapdosex",
+      "type": "Pokemon",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary",
+        "ex Pokemon",
+        "Special Illustration Rare",
+        "Premium Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 25.0,
+        "max": 100.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "203/165",
+      "name": "Erika's Invitation",
+      "type": "Trainer",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Erika",
+        "Kanto Gym Leader",
+        "Grass Gym",
+        "Supporter",
+        "Supporter Card",
+        "Special Illustration Rare",
+        "Premium Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 25.0,
+        "max": 100.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "204/165",
+      "name": "Giovanni's Charisma",
+      "type": "Trainer",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Giovanni",
+        "Team Rocket",
+        "Ground Gym",
+        "Supporter",
+        "Supporter Card",
+        "Special Illustration Rare",
+        "Premium Art"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 25.0,
+        "max": 100.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "205/165",
+      "name": "Mewex",
+      "type": "Pokemon",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": [
+        "Generation I",
+        "Kanto",
+        "Original 151",
+        "Legendary Pokemon",
+        "Generation I Legendary",
+        "ex Pokemon",
+        "Hyper Rare",
+        "Rainbow Rare",
+        "Premium Card"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 40.0,
+        "max": 150.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "206/165",
+      "name": "Switch",
+      "type": "Trainer",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": [
+        "Trainer Card",
+        "Item",
+        "Item Card",
+        "Hyper Rare",
+        "Rainbow Rare",
+        "Premium Card"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 40.0,
+        "max": 150.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    },
+    {
+      "number": "207/165",
+      "name": "Basic Psychic Energy",
+      "type": "Energy",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": [
+        "Energy Card",
+        "Basic Energy",
+        "Psychic Energy",
+        "Hyper Rare",
+        "Rainbow Rare",
+        "Premium Card"
+      ],
+      "variants": [
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "min": 40.0,
+        "max": 150.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Modern"
+      }
+    }
+  ]
+}

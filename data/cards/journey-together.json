@@ -1,0 +1,4701 @@
+{
+  "setInfo": {
+    "name": "Journey Together",
+    "setCode": "JTG",
+    "releaseDate": "2025/03/28",
+    "totalCards": 190,
+    "series": "Special Collection",
+    "description": "Journey Together set featuring beloved trainers and their signature Pokemon companions across multiple generations"
+  },
+  "cards": [
+    {
+      "number": "001/159",
+      "name": "Caterpie",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "caterpie",
+        "journey together",
+        "jtg",
+        "001"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "002/159",
+      "name": "Metapod",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "metapod",
+        "journey together",
+        "jtg",
+        "002"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "003/159",
+      "name": "Butterfree",
+      "type": "Grass",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "butterfree",
+        "journey together",
+        "jtg",
+        "003"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "004/159",
+      "name": "Paras",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "paras",
+        "journey together",
+        "jtg",
+        "004"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "005/159",
+      "name": "Parasect",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "parasect",
+        "journey together",
+        "jtg",
+        "005"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "006/159",
+      "name": "Petilil",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "petilil",
+        "journey together",
+        "jtg",
+        "006"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "007/159",
+      "name": "Lilligant",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "lilligant",
+        "journey together",
+        "jtg",
+        "007"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "008/159",
+      "name": "Maractus",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "maractus",
+        "journey together",
+        "jtg",
+        "008"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "009/159",
+      "name": "Karrablast",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "karrablast",
+        "journey together",
+        "jtg",
+        "009"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "010/159",
+      "name": "Foongus",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "foongus",
+        "journey together",
+        "jtg",
+        "010"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "011/159",
+      "name": "Amoongussex",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "amoongussex",
+        "journey together",
+        "jtg",
+        "011"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "012/159",
+      "name": "Shelmet",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "shelmet",
+        "journey together",
+        "jtg",
+        "012"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "013/159",
+      "name": "Accelgor",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "accelgor",
+        "journey together",
+        "jtg",
+        "013"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "014/159",
+      "name": "Durant",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "durant",
+        "journey together",
+        "jtg",
+        "014"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "015/159",
+      "name": "Virizion",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "virizion",
+        "journey together",
+        "jtg",
+        "015"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "016/159",
+      "name": "Sprigatito",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "sprigatito",
+        "journey together",
+        "jtg",
+        "016"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "017/159",
+      "name": "Floragato",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "floragato",
+        "journey together",
+        "jtg",
+        "017"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "018/159",
+      "name": "Meowscarada",
+      "type": "Grass",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "meowscarada",
+        "journey together",
+        "jtg",
+        "018"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation IX"
+      }
+    },
+    {
+      "number": "019/159",
+      "name": "Nymble",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "nymble",
+        "journey together",
+        "jtg",
+        "019"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "020/159",
+      "name": "Magmar",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "magmar",
+        "journey together",
+        "jtg",
+        "020"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "021/159",
+      "name": "Magmortar",
+      "type": "Fire",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "magmortar",
+        "journey together",
+        "jtg",
+        "021"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "022/159",
+      "name": "Torchic",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "torchic",
+        "journey together",
+        "jtg",
+        "022"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation III"
+      }
+    },
+    {
+      "number": "023/159",
+      "name": "Combusken",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "combusken",
+        "journey together",
+        "jtg",
+        "023"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation III"
+      }
+    },
+    {
+      "number": "024/159",
+      "name": "Blazikenex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "blazikenex",
+        "journey together",
+        "jtg",
+        "024"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation III"
+      }
+    },
+    {
+      "number": "025/159",
+      "name": "Torkoal",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "torkoal",
+        "journey together",
+        "jtg",
+        "025"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "026/159",
+      "name": "N's Darumaka",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "n's darumaka",
+        "journey together",
+        "jtg",
+        "026",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "027/159",
+      "name": "N's Darmanitan",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "n's darmanitan",
+        "journey together",
+        "jtg",
+        "027",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "028/159",
+      "name": "Larvesta",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "larvesta",
+        "journey together",
+        "jtg",
+        "028"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "029/159",
+      "name": "Volcarona",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "volcarona",
+        "journey together",
+        "jtg",
+        "029"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "030/159",
+      "name": "Reshiramex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "reshiramex",
+        "journey together",
+        "jtg",
+        "030"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "031/159",
+      "name": "Volcanionex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "volcanionex",
+        "journey together",
+        "jtg",
+        "031"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "032/159",
+      "name": "Articuno",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "articuno",
+        "journey together",
+        "jtg",
+        "032"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "033/159",
+      "name": "Remoraid",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "remoraid",
+        "journey together",
+        "jtg",
+        "033"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "034/159",
+      "name": "Octillery",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "octillery",
+        "journey together",
+        "jtg",
+        "034"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "035/159",
+      "name": "Lotad",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "lotad",
+        "journey together",
+        "jtg",
+        "035"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "036/159",
+      "name": "Lombre",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "lombre",
+        "journey together",
+        "jtg",
+        "036"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "037/159",
+      "name": "Ludicolo",
+      "type": "Water",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "ludicolo",
+        "journey together",
+        "jtg",
+        "037"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "038/159",
+      "name": "Wingull",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "wingull",
+        "journey together",
+        "jtg",
+        "038"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "039/159",
+      "name": "Pelipper",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "pelipper",
+        "journey together",
+        "jtg",
+        "039"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "040/159",
+      "name": "Wailmer",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "wailmer",
+        "journey together",
+        "jtg",
+        "040"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "041/159",
+      "name": "Wailord",
+      "type": "Water",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "wailord",
+        "journey together",
+        "jtg",
+        "041"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "042/159",
+      "name": "Regice",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "regice",
+        "journey together",
+        "jtg",
+        "042"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "043/159",
+      "name": "Veluzaex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "veluzaex",
+        "journey together",
+        "jtg",
+        "043"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "044/159",
+      "name": "Alolan Geodude",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "alolan geodude",
+        "journey together",
+        "jtg",
+        "044",
+        "alolan"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "045/159",
+      "name": "Alolan Graveler",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "alolan graveler",
+        "journey together",
+        "jtg",
+        "045",
+        "alolan"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "046/159",
+      "name": "Alolan Golem",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "alolan golem",
+        "journey together",
+        "jtg",
+        "046",
+        "alolan"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "047/159",
+      "name": "Iono's Voltorb",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "iono's voltorb",
+        "journey together",
+        "jtg",
+        "047",
+        "iono"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "048/159",
+      "name": "Iono's Electrode",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "iono's electrode",
+        "journey together",
+        "jtg",
+        "048",
+        "iono"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "049/159",
+      "name": "N's Joltik",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "n's joltik",
+        "journey together",
+        "jtg",
+        "049",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "050/159",
+      "name": "Togedemaru",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "togedemaru",
+        "journey together",
+        "jtg",
+        "050"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "051/159",
+      "name": "Tapu Kokoex",
+      "type": "Lightning",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "tapu kokoex",
+        "journey together",
+        "jtg",
+        "051"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "052/159",
+      "name": "Iono's Tadbulb",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "iono's tadbulb",
+        "journey together",
+        "jtg",
+        "052",
+        "iono"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "053/159",
+      "name": "Iono's Belliboltex",
+      "type": "Lightning",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "iono's belliboltex",
+        "journey together",
+        "jtg",
+        "053",
+        "iono"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "054/159",
+      "name": "Iono's Wattrel",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "iono's wattrel",
+        "journey together",
+        "jtg",
+        "054",
+        "iono"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "055/159",
+      "name": "Iono's Kilowattrel",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "iono's kilowattrel",
+        "journey together",
+        "jtg",
+        "055",
+        "iono"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "056/159",
+      "name": "Lillie's Clefairyex",
+      "type": "Psychic",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "lillie's clefairyex",
+        "journey together",
+        "jtg",
+        "056",
+        "lillie"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "057/159",
+      "name": "Alolan Marowak",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "alolan marowak",
+        "journey together",
+        "jtg",
+        "057",
+        "alolan"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "058/159",
+      "name": "Mr. Mime",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "mr. mime",
+        "journey together",
+        "jtg",
+        "058"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "059/159",
+      "name": "Shuppet",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "shuppet",
+        "journey together",
+        "jtg",
+        "059"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "060/159",
+      "name": "Banette",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "banette",
+        "journey together",
+        "jtg",
+        "060"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "061/159",
+      "name": "Beldum",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "beldum",
+        "journey together",
+        "jtg",
+        "061"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "062/159",
+      "name": "Metang",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "metang",
+        "journey together",
+        "jtg",
+        "062"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "063/159",
+      "name": "Metagross",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "metagross",
+        "journey together",
+        "jtg",
+        "063"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "064/159",
+      "name": "N's Sigilyph",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "n's sigilyph",
+        "journey together",
+        "jtg",
+        "064",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "065/159",
+      "name": "Oricorio",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "oricorio",
+        "journey together",
+        "jtg",
+        "065"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "066/159",
+      "name": "Lillie's Cutiefly",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "lillie's cutiefly",
+        "journey together",
+        "jtg",
+        "066",
+        "lillie"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "067/159",
+      "name": "Lillie's Ribombee",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "lillie's ribombee",
+        "journey together",
+        "jtg",
+        "067",
+        "lillie"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "068/159",
+      "name": "Lillie's Comfey",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "lillie's comfey",
+        "journey together",
+        "jtg",
+        "068",
+        "lillie"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "069/159",
+      "name": "Mimikyuex",
+      "type": "Psychic",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "mimikyuex",
+        "journey together",
+        "jtg",
+        "069"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "070/159",
+      "name": "Dhelmise",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "dhelmise",
+        "journey together",
+        "jtg",
+        "070"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "071/159",
+      "name": "Impidimp",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "impidimp",
+        "journey together",
+        "jtg",
+        "071"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "072/159",
+      "name": "Morgrem",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "morgrem",
+        "journey together",
+        "jtg",
+        "072"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "073/159",
+      "name": "Grimmsnarl",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "grimmsnarl",
+        "journey together",
+        "jtg",
+        "073"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "074/159",
+      "name": "Milcery",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "milcery",
+        "journey together",
+        "jtg",
+        "074"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "075/159",
+      "name": "Alcremieex",
+      "type": "Psychic",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "alcremieex",
+        "journey together",
+        "jtg",
+        "075"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "076/159",
+      "name": "Cubone",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "cubone",
+        "journey together",
+        "jtg",
+        "076"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "077/159",
+      "name": "Swinub",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "swinub",
+        "journey together",
+        "jtg",
+        "077"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "078/159",
+      "name": "Piloswine",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "piloswine",
+        "journey together",
+        "jtg",
+        "078"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "079/159",
+      "name": "Mamoswineex",
+      "type": "Fighting",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "mamoswineex",
+        "journey together",
+        "jtg",
+        "079"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "080/159",
+      "name": "Larvitar",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "larvitar",
+        "journey together",
+        "jtg",
+        "080"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "081/159",
+      "name": "Pupitar",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "pupitar",
+        "journey together",
+        "jtg",
+        "081"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "082/159",
+      "name": "Regirock",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "regirock",
+        "journey together",
+        "jtg",
+        "082"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "083/159",
+      "name": "Pancham",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "pancham",
+        "journey together",
+        "jtg",
+        "083"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "084/159",
+      "name": "Rockruff",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "rockruff",
+        "journey together",
+        "jtg",
+        "084"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "085/159",
+      "name": "Lycanroc",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "lycanroc",
+        "journey together",
+        "jtg",
+        "085"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "086/159",
+      "name": "Hop's Silicobra",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "hop's silicobra",
+        "journey together",
+        "jtg",
+        "086",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "087/159",
+      "name": "Hop's Sandaconda",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "hop's sandaconda",
+        "journey together",
+        "jtg",
+        "087",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "088/159",
+      "name": "Toedscool",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "toedscool",
+        "journey together",
+        "jtg",
+        "088"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "089/159",
+      "name": "Toedscruel",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "toedscruel",
+        "journey together",
+        "jtg",
+        "089"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "090/159",
+      "name": "Klawf",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "klawf",
+        "journey together",
+        "jtg",
+        "090"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "091/159",
+      "name": "Koffing",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "koffing",
+        "journey together",
+        "jtg",
+        "091"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "092/159",
+      "name": "Weezing",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "weezing",
+        "journey together",
+        "jtg",
+        "092"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "093/159",
+      "name": "Paldean Wooper",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "paldean wooper",
+        "journey together",
+        "jtg",
+        "093",
+        "paldean"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "094/159",
+      "name": "Paldean Clodsireex",
+      "type": "Darkness",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "paldean clodsireex",
+        "journey together",
+        "jtg",
+        "094",
+        "paldean"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "095/159",
+      "name": "Tyranitar",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "tyranitar",
+        "journey together",
+        "jtg",
+        "095"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "096/159",
+      "name": "N's Purrloin",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "n's purrloin",
+        "journey together",
+        "jtg",
+        "096",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "097/159",
+      "name": "N's Zorua",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "n's zorua",
+        "journey together",
+        "jtg",
+        "097",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "098/159",
+      "name": "N's Zoroarkex",
+      "type": "Darkness",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "n's zoroarkex",
+        "journey together",
+        "jtg",
+        "098",
+        "n"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "099/159",
+      "name": "Pangoro",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "pangoro",
+        "journey together",
+        "jtg",
+        "099"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "100/159",
+      "name": "Lokix",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "lokix",
+        "journey together",
+        "jtg",
+        "100"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "101/159",
+      "name": "Bombirdier",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "bombirdier",
+        "journey together",
+        "jtg",
+        "101"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "102/159",
+      "name": "Escavalier",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "escavalier",
+        "journey together",
+        "jtg",
+        "102"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "103/159",
+      "name": "N's Klink",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "n's klink",
+        "journey together",
+        "jtg",
+        "103",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "104/159",
+      "name": "N's Klang",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "n's klang",
+        "journey together",
+        "jtg",
+        "104",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "105/159",
+      "name": "N's Klinklang",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "n's klinklang",
+        "journey together",
+        "jtg",
+        "105",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "106/159",
+      "name": "Galarian Stunfisk",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "galarian stunfisk",
+        "journey together",
+        "jtg",
+        "106",
+        "galarian"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "107/159",
+      "name": "Magearna",
+      "type": "Metal",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "magearna",
+        "journey together",
+        "jtg",
+        "107"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "108/159",
+      "name": "Hop's Corviknight",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "hop's corviknight",
+        "journey together",
+        "jtg",
+        "108",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "109/159",
+      "name": "Cufant",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "cufant",
+        "journey together",
+        "jtg",
+        "109"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "110/159",
+      "name": "Copperajah",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "copperajah",
+        "journey together",
+        "jtg",
+        "110"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "111/159",
+      "name": "Hop's Zacianex",
+      "type": "Metal",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "hop's zacianex",
+        "journey together",
+        "jtg",
+        "111",
+        "hop"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "112/159",
+      "name": "Bagon",
+      "type": "Dragon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "bagon",
+        "journey together",
+        "jtg",
+        "112"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation III"
+      }
+    },
+    {
+      "number": "113/159",
+      "name": "Shelgon",
+      "type": "Dragon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "shelgon",
+        "journey together",
+        "jtg",
+        "113"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "114/159",
+      "name": "Salamenceex",
+      "type": "Dragon",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "salamenceex",
+        "journey together",
+        "jtg",
+        "114"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation III"
+      }
+    },
+    {
+      "number": "115/159",
+      "name": "Druddigon",
+      "type": "Dragon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "druddigon",
+        "journey together",
+        "jtg",
+        "115"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "116/159",
+      "name": "N's Reshiram",
+      "type": "Dragon",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "n's reshiram",
+        "journey together",
+        "jtg",
+        "116",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "117/159",
+      "name": "Hop's Snorlax",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "hop's snorlax",
+        "journey together",
+        "jtg",
+        "117",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "118/159",
+      "name": "Sentret",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "sentret",
+        "journey together",
+        "jtg",
+        "118"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "119/159",
+      "name": "Furret",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "furret",
+        "journey together",
+        "jtg",
+        "119"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "120/159",
+      "name": "Dunsparce",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "dunsparce",
+        "journey together",
+        "jtg",
+        "120"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "121/159",
+      "name": "Dudunsparceex",
+      "type": "Colorless",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "dudunsparceex",
+        "journey together",
+        "jtg",
+        "121"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "122/159",
+      "name": "Kecleon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "kecleon",
+        "journey together",
+        "jtg",
+        "122"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "123/159",
+      "name": "Tropius",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "tropius",
+        "journey together",
+        "jtg",
+        "123"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "124/159",
+      "name": "Audino",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "audino",
+        "journey together",
+        "jtg",
+        "124"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "125/159",
+      "name": "Minccino",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "minccino",
+        "journey together",
+        "jtg",
+        "125"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "126/159",
+      "name": "Cinccino",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "cinccino",
+        "journey together",
+        "jtg",
+        "126"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "127/159",
+      "name": "Noibat",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "noibat",
+        "journey together",
+        "jtg",
+        "127"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "128/159",
+      "name": "Noivern",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "noivern",
+        "journey together",
+        "jtg",
+        "128"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "129/159",
+      "name": "Komala",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "komala",
+        "journey together",
+        "jtg",
+        "129"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "130/159",
+      "name": "Drampa",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "drampa",
+        "journey together",
+        "jtg",
+        "130"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "131/159",
+      "name": "Skwovet",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "skwovet",
+        "journey together",
+        "jtg",
+        "131"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "132/159",
+      "name": "Greedent",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "greedent",
+        "journey together",
+        "jtg",
+        "132"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "133/159",
+      "name": "Hop's Rookidee",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "hop's rookidee",
+        "journey together",
+        "jtg",
+        "133",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "134/159",
+      "name": "Hop's Corvisquire",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "hop's corvisquire",
+        "journey together",
+        "jtg",
+        "134",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "135/159",
+      "name": "Hop's Wooloo",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "hop's wooloo",
+        "journey together",
+        "jtg",
+        "135",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "136/159",
+      "name": "Hop's Dubwool",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "hop's dubwool",
+        "journey together",
+        "jtg",
+        "136",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "137/159",
+      "name": "Cramorant",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "cramorant",
+        "journey together",
+        "jtg",
+        "137"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "138/159",
+      "name": "Hop's Cramorant",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "hop's cramorant",
+        "journey together",
+        "jtg",
+        "138",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "139/159",
+      "name": "Lechonk",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "lechonk",
+        "journey together",
+        "jtg",
+        "139"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "140/159",
+      "name": "Oinkologne",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "oinkologne",
+        "journey together",
+        "jtg",
+        "140"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "141/159",
+      "name": "Squawkabilly",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "squawkabilly",
+        "journey together",
+        "jtg",
+        "141"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "142/159",
+      "name": "Billy & O'Nare",
+      "type": "Supporter",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "billy & o'nare",
+        "journey together",
+        "jtg",
+        "142"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "143/159",
+      "name": "Black Belt's Training",
+      "type": "Supporter",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "black belt's training",
+        "journey together",
+        "jtg",
+        "143"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "144/159",
+      "name": "Black Belt's Training",
+      "type": "Supporter",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "black belt's training",
+        "journey together",
+        "jtg",
+        "144"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "145/159",
+      "name": "Black Belt's Training",
+      "type": "Supporter",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "black belt's training",
+        "journey together",
+        "jtg",
+        "145"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "146/159",
+      "name": "Brock's Scouting",
+      "type": "Supporter",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "brock's scouting",
+        "journey together",
+        "jtg",
+        "146",
+        "brock"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "147/159",
+      "name": "Hop's Bag",
+      "type": "Item",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "hop's bag",
+        "journey together",
+        "jtg",
+        "147",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "148/159",
+      "name": "Hop's Choice Band",
+      "type": "Pokemon Tool",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "hop's choice band",
+        "journey together",
+        "jtg",
+        "148",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "149/159",
+      "name": "Iris's Fighting Spirit",
+      "type": "Supporter",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "iris's fighting spirit",
+        "journey together",
+        "jtg",
+        "149",
+        "iris"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "150/159",
+      "name": "Levincia",
+      "type": "Stadium",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "levincia",
+        "journey together",
+        "jtg",
+        "150"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "151/159",
+      "name": "Lillie's Pearl",
+      "type": "Pokemon Tool",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "lillie's pearl",
+        "journey together",
+        "jtg",
+        "151",
+        "lillie"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "152/159",
+      "name": "N's Castle",
+      "type": "Stadium",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "n's castle",
+        "journey together",
+        "jtg",
+        "152",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "153/159",
+      "name": "N's PP Up",
+      "type": "Item",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "n's pp up",
+        "journey together",
+        "jtg",
+        "153",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "154/159",
+      "name": "Postwick",
+      "type": "Stadium",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "postwick",
+        "journey together",
+        "jtg",
+        "154"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "155/159",
+      "name": "Professor's Research [Professor Sada]",
+      "type": "Supporter",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "professor's research [professor sada]",
+        "journey together",
+        "jtg",
+        "155"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "156/159",
+      "name": "Redeemable Ticket",
+      "type": "Item",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "redeemable ticket",
+        "journey together",
+        "jtg",
+        "156"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "157/159",
+      "name": "Ruffian",
+      "type": "Supporter",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "ruffian",
+        "journey together",
+        "jtg",
+        "157"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "158/159",
+      "name": "Super Potion",
+      "type": "Item",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "super potion",
+        "journey together",
+        "jtg",
+        "158"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "159/159",
+      "name": "Spiky Energy",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "spiky energy",
+        "journey together",
+        "jtg",
+        "159"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "160/159",
+      "name": "Maractus",
+      "type": "Grass",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "maractus",
+        "journey together",
+        "jtg",
+        "160"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "161/159",
+      "name": "Articuno",
+      "type": "Water",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "articuno",
+        "journey together",
+        "jtg",
+        "161"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I"
+      }
+    },
+    {
+      "number": "162/159",
+      "name": "Wailord",
+      "type": "Water",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "wailord",
+        "journey together",
+        "jtg",
+        "162"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "163/159",
+      "name": "Iono's Kilowattrel",
+      "type": "Lightning",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "iono's kilowattrel",
+        "journey together",
+        "jtg",
+        "163",
+        "iono"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "164/159",
+      "name": "Lillie's Ribombee",
+      "type": "Psychic",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "lillie's ribombee",
+        "journey together",
+        "jtg",
+        "164",
+        "lillie"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "165/159",
+      "name": "Swinub",
+      "type": "Fighting",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "swinub",
+        "journey together",
+        "jtg",
+        "165"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "166/159",
+      "name": "Lycanroc",
+      "type": "Fighting",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "lycanroc",
+        "journey together",
+        "jtg",
+        "166"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "167/159",
+      "name": "N's Reshiram",
+      "type": "Dragon",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "n's reshiram",
+        "journey together",
+        "jtg",
+        "167",
+        "n"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "168/159",
+      "name": "Furret",
+      "type": "Colorless",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "furret",
+        "journey together",
+        "jtg",
+        "168"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "169/159",
+      "name": "Noibat",
+      "type": "Colorless",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "noibat",
+        "journey together",
+        "jtg",
+        "169"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "170/159",
+      "name": "Hop's Wooloo",
+      "type": "Colorless",
+      "rarity": "Illustration Rare",
+      "matchingKeywords": [
+        "hop's wooloo",
+        "journey together",
+        "jtg",
+        "170",
+        "hop"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 4.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "171/159",
+      "name": "Volcanionex",
+      "type": "Fire",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "volcanionex",
+        "journey together",
+        "jtg",
+        "171"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "172/159",
+      "name": "Iono's Belliboltex",
+      "type": "Lightning",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "iono's belliboltex",
+        "journey together",
+        "jtg",
+        "172",
+        "iono"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "173/159",
+      "name": "Lillie's Clefairyex",
+      "type": "Psychic",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "lillie's clefairyex",
+        "journey together",
+        "jtg",
+        "173",
+        "lillie"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "174/159",
+      "name": "Mamoswineex",
+      "type": "Fighting",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "mamoswineex",
+        "journey together",
+        "jtg",
+        "174"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "175/159",
+      "name": "N's Zoroarkex",
+      "type": "Darkness",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "n's zoroarkex",
+        "journey together",
+        "jtg",
+        "175",
+        "n"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "176/159",
+      "name": "Hop's Zacianex",
+      "type": "Metal",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "hop's zacianex",
+        "journey together",
+        "jtg",
+        "176",
+        "hop"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "177/159",
+      "name": "Salamenceex",
+      "type": "Dragon",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "salamenceex",
+        "journey together",
+        "jtg",
+        "177"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation III"
+      }
+    },
+    {
+      "number": "178/159",
+      "name": "Dudunsparceex",
+      "type": "Colorless",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "dudunsparceex",
+        "journey together",
+        "jtg",
+        "178"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation II"
+      }
+    },
+    {
+      "number": "179/159",
+      "name": "Brock's Scouting",
+      "type": "Supporter",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "brock's scouting",
+        "journey together",
+        "jtg",
+        "179",
+        "brock"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "180/159",
+      "name": "Iris's Fighting Spirit",
+      "type": "Supporter",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "iris's fighting spirit",
+        "journey together",
+        "jtg",
+        "180",
+        "iris"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "181/159",
+      "name": "Ruffian",
+      "type": "Supporter",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "ruffian",
+        "journey together",
+        "jtg",
+        "181"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 12.0,
+        "mid": 20.0,
+        "high": 35.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "182/159",
+      "name": "Volcanionex",
+      "type": "Fire",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "volcanionex",
+        "journey together",
+        "jtg",
+        "182"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    },
+    {
+      "number": "183/159",
+      "name": "Iono's Belliboltex",
+      "type": "Lightning",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "iono's belliboltex",
+        "journey together",
+        "jtg",
+        "183",
+        "iono"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "184/159",
+      "name": "Lillie's Clefairyex",
+      "type": "Psychic",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "lillie's clefairyex",
+        "journey together",
+        "jtg",
+        "184",
+        "lillie"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation I-VII"
+      }
+    },
+    {
+      "number": "185/159",
+      "name": "N's Zoroarkex",
+      "type": "Darkness",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "n's zoroarkex",
+        "journey together",
+        "jtg",
+        "185",
+        "n"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "186/159",
+      "name": "Hop's Zacianex",
+      "type": "Metal",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "hop's zacianex",
+        "journey together",
+        "jtg",
+        "186",
+        "hop"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "187/159",
+      "name": "Salamenceex",
+      "type": "Dragon",
+      "rarity": "Special Illustration Rare",
+      "matchingKeywords": [
+        "salamenceex",
+        "journey together",
+        "jtg",
+        "187"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 25.0,
+        "mid": 45.0,
+        "high": 75.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation III"
+      }
+    },
+    {
+      "number": "188/159",
+      "name": "Iono's Belliboltex",
+      "type": "Lightning",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": [
+        "iono's belliboltex",
+        "journey together",
+        "jtg",
+        "188",
+        "iono"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 40.0,
+        "mid": 80.0,
+        "high": 150.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation VIII-IX"
+      }
+    },
+    {
+      "number": "189/159",
+      "name": "N's Zoroarkex",
+      "type": "Darkness",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": [
+        "n's zoroarkex",
+        "journey together",
+        "jtg",
+        "189",
+        "n"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 40.0,
+        "mid": 80.0,
+        "high": 150.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "190/159",
+      "name": "Spiky Energy",
+      "type": "Colorless",
+      "rarity": "Hyper Rare",
+      "matchingKeywords": [
+        "spiky energy",
+        "journey together",
+        "jtg",
+        "190"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 40.0,
+        "mid": 80.0,
+        "high": 150.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Mixed Generations"
+      }
+    }
+  ]
+}
