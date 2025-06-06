@@ -12,29 +12,74 @@ export default function Cards() {
   const [error, setError] = useState(null);
   const [unmatchedSales, setUnmatchedSales] = useState([]);
   const [selectedCard, setSelectedCard] = useState(null);
-  const { currency } = useCurrency();
+  const { currency, setCurrency } = useCurrency();
 
   // Filter states
   const [searchTerm, setSearchTerm] = useState('');
   const [gradeFilter, setGradeFilter] = useState('all');
   const [sortBy, setSortBy] = useState('newest');
-  const [matchFilter, setMatchFilter] = useState('all'); // all, matched, unmatched
+  const [matchFilter, setMatchFilter] = useState('matched'); // Default to matched only
+  const [marketplaceFilter, setMarketplaceFilter] = useState('all'); // all, uk, us
   const [priceRange, setPriceRange] = useState({ min: '', max: '' });
+  const [currencyOverridden, setCurrencyOverridden] = useState(false);
+
+  // Utility function to get high-quality image URL
+  const getHighQualityImageUrl = (originalUrl) => {
+    if (!originalUrl) return originalUrl;
+    
+    // Replace s-l140 with s-l500 for higher quality
+    // Also handle other low-res formats
+    return originalUrl
+      .replace(/s-l140/g, 's-l500')
+      .replace(/s-l225/g, 's-l500')
+      .replace(/s-l300/g, 's-l500')
+      .replace(/\.webp$/g, '.jpg'); // Prefer JPG over WebP for better compatibility
+  };
 
   const fetchCardData = async () => {
     setLoading(true);
     setError(null);
     try {
-      // First, get the sales data
-      const salesResponse = await fetch('/api/ebay');
-      const salesData = await salesResponse.json();
+      // Fetch from both UK and US marketplaces
+      const [ukResponse, usResponse] = await Promise.all([
+        fetch('/api/ebay?marketplace=uk'),
+        fetch('/api/ebay?marketplace=us')
+      ]);
       
-      if (salesData.items && salesData.items.length > 0) {
+      const [ukData, usData] = await Promise.all([
+        ukResponse.json(),
+        usResponse.json()
+      ]);
+      
+      // Combine sales data from both marketplaces
+      const allItems = [];
+      
+      if (ukData.items && ukData.items.length > 0) {
+        ukData.items.forEach(item => {
+          allItems.push({
+            ...item,
+            marketplace: 'uk',
+            img: getHighQualityImageUrl(item.img) // Upgrade image quality
+          });
+        });
+      }
+      
+      if (usData.items && usData.items.length > 0) {
+        usData.items.forEach(item => {
+          allItems.push({
+            ...item,
+            marketplace: 'us',
+            img: getHighQualityImageUrl(item.img) // Upgrade image quality
+          });
+        });
+      }
+      
+      if (allItems.length > 0) {
         // Then match cards to sales
         const matchResponse = await fetch('/api/card-matcher', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ sales: salesData.items })
+          body: JSON.stringify({ sales: allItems })
         });
         
         const matchData = await matchResponse.json();
@@ -53,7 +98,8 @@ export default function Cards() {
                 ...sale,
                 matched: true,
                 matchedCard: cardData.card,
-                matchConfidence: sale.matchConfidence
+                matchConfidence: sale.matchConfidence,
+                img: getHighQualityImageUrl(sale.img) // Ensure high quality image
               });
             });
           });
@@ -64,7 +110,8 @@ export default function Cards() {
               ...sale,
               matched: false,
               matchedCard: null,
-              matchConfidence: 0
+              matchConfidence: 0,
+              img: getHighQualityImageUrl(sale.img) // Ensure high quality image
             });
           });
           
@@ -73,10 +120,8 @@ export default function Cards() {
         } else {
           setError('Failed to match cards to sales');
         }
-      } else if (salesData.error) {
-        setError(salesData.message || 'No sales data available');
       } else {
-        setError('No sales data available');
+        setError('No sales data available from either marketplace');
       }
     } catch (error) {
       console.error('Error fetching card data:', error);
@@ -94,44 +139,114 @@ export default function Cards() {
     return convertAndFormatPrice(price, currency, 'GBP');
   };
 
+  // Handle manual currency change (user override)
+  const handleCurrencyChange = (newCurrency) => {
+    setCurrency(newCurrency);
+    setCurrencyOverridden(true);
+  };
+
+  // Helper function to parse date from soldInfo
+  const parseSoldDate = (soldInfo) => {
+    if (!soldInfo) return new Date();
+    
+    // Try to parse various date formats
+    const text = soldInfo.toLowerCase();
+    
+    // Handle "X days ago", "X hours ago" format
+    if (text.includes('ago')) {
+      const now = new Date();
+      if (text.includes('hour')) {
+        const hours = parseInt(text.match(/(\d+)\s*hour/)?.[1]) || 0;
+        return new Date(now.getTime() - (hours * 60 * 60 * 1000));
+      } else if (text.includes('day')) {
+        const days = parseInt(text.match(/(\d+)\s*day/)?.[1]) || 0;
+        return new Date(now.getTime() - (days * 24 * 60 * 60 * 1000));
+      }
+    }
+    
+    // Handle "DD MMM YYYY" format (e.g., "29 May 2025")
+    const dateMatch = soldInfo.match(/(\d{1,2})\s+(\w{3})\s+(\d{4})/);
+    if (dateMatch) {
+      const [, day, month, year] = dateMatch;
+      const monthMap = {
+        'jan': 0, 'feb': 1, 'mar': 2, 'apr': 3, 'may': 4, 'jun': 5,
+        'jul': 6, 'aug': 7, 'sep': 8, 'oct': 9, 'nov': 10, 'dec': 11
+      };
+      const monthNum = monthMap[month.toLowerCase()];
+      if (monthNum !== undefined) {
+        return new Date(parseInt(year), monthNum, parseInt(day));
+      }
+    }
+    
+    // Fallback: try to parse as standard date
+    const fallbackDate = new Date(soldInfo);
+    return isNaN(fallbackDate.getTime()) ? new Date() : fallbackDate;
+  };
+
   // Sorting function
   const sortSales = (salesToSort, sortType) => {
-    const sorted = [...salesToSort].sort((a, b) => {
-      switch (sortType) {
-        case 'newest':
-          return 0; // Keep original order (newest first from eBay)
-        case 'oldest':
-          return 0; // Will be reversed
-        case 'price-high':
+    const sorted = [...salesToSort];
+    
+    switch (sortType) {
+      case 'newest':
+        // Sort by date, newest first
+        sorted.sort((a, b) => {
+          const dateA = parseSoldDate(a.soldInfo || a.soldDate);
+          const dateB = parseSoldDate(b.soldInfo || b.soldDate);
+          return dateB.getTime() - dateA.getTime(); // Newest first
+        });
+        break;
+      case 'oldest':
+        // Sort by date, oldest first
+        sorted.sort((a, b) => {
+          const dateA = parseSoldDate(a.soldInfo || a.soldDate);
+          const dateB = parseSoldDate(b.soldInfo || b.soldDate);
+          return dateA.getTime() - dateB.getTime(); // Oldest first
+        });
+        break;
+      case 'price-high':
+        sorted.sort((a, b) => {
           const priceA = parseFloat(a.price.replace(/[£$,]/g, '')) || 0;
           const priceB = parseFloat(b.price.replace(/[£$,]/g, '')) || 0;
-          return priceB - priceA;
-        case 'price-low':
-          const priceA2 = parseFloat(a.price.replace(/[£$,]/g, '')) || 0;
-          const priceB2 = parseFloat(b.price.replace(/[£$,]/g, '')) || 0;
-          return priceA2 - priceB2;
-        case 'title-az':
-          return a.title.localeCompare(b.title);
-        case 'title-za':
-          return b.title.localeCompare(a.title);
-        case 'confidence-high':
-          return (b.matchConfidence || 0) - (a.matchConfidence || 0);
-        case 'confidence-low':
-          return (a.matchConfidence || 0) - (b.matchConfidence || 0);
-        default:
-          return 0;
-      }
-    });
-    
-    if (sortType === 'oldest') {
-      return sorted.reverse();
+          const fromCurrencyA = a.price.includes('$') ? 'USD' : 'GBP';
+          const fromCurrencyB = b.price.includes('$') ? 'USD' : 'GBP';
+          const convertedPriceA = convertCurrency(priceA, fromCurrencyA, currency);
+          const convertedPriceB = convertCurrency(priceB, fromCurrencyB, currency);
+          return convertedPriceB - convertedPriceA;
+        });
+        break;
+      case 'price-low':
+        sorted.sort((a, b) => {
+          const priceA = parseFloat(a.price.replace(/[£$,]/g, '')) || 0;
+          const priceB = parseFloat(b.price.replace(/[£$,]/g, '')) || 0;
+          const fromCurrencyA = a.price.includes('$') ? 'USD' : 'GBP';
+          const fromCurrencyB = b.price.includes('$') ? 'USD' : 'GBP';
+          const convertedPriceA = convertCurrency(priceA, fromCurrencyA, currency);
+          const convertedPriceB = convertCurrency(priceB, fromCurrencyB, currency);
+          return convertedPriceA - convertedPriceB;
+        });
+        break;
+      case 'title-az':
+        sorted.sort((a, b) => a.title.localeCompare(b.title));
+        break;
+      case 'title-za':
+        sorted.sort((a, b) => b.title.localeCompare(a.title));
+        break;
+      case 'confidence-high':
+        sorted.sort((a, b) => (b.matchConfidence || 0) - (a.matchConfidence || 0));
+        break;
+      case 'confidence-low':
+        sorted.sort((a, b) => (a.matchConfidence || 0) - (b.matchConfidence || 0));
+        break;
+      default:
+        break;
     }
     
     return sorted;
   };
 
   // Apply all filters
-  const applyFilters = (searchTerm, gradeFilter, matchFilter, sortBy, priceRange) => {
+  const applyFilters = (searchTerm, gradeFilter, matchFilter, marketplaceFilter, sortBy, priceRange) => {
     let filtered = allSales;
     
     // Apply search filter
@@ -149,17 +264,18 @@ export default function Cards() {
     if (gradeFilter !== 'all') {
       filtered = filtered.filter(sale => {
         const title = sale.title.toLowerCase();
-        if (gradeFilter === 'tag-10') return title.includes('tag 10');
-        if (gradeFilter === 'tag-9') return title.includes('tag 9');
-        if (gradeFilter === 'tag-8') return title.includes('tag 8');
-        if (gradeFilter === 'tag-7') return title.includes('tag 7');
-        if (gradeFilter === 'tag-6') return title.includes('tag 6');
-        if (gradeFilter === 'tag-5') return title.includes('tag 5');
-        if (gradeFilter === 'tag-4') return title.includes('tag 4');
-        if (gradeFilter === 'tag-3') return title.includes('tag 3');
-        if (gradeFilter === 'tag-2') return title.includes('tag 2');
-        if (gradeFilter === 'tag-1') return title.includes('tag 1');
-        return true;
+        const grade = gradeFilter.replace('tag-', '');
+        
+        // Check for various TAG grade formats
+        const gradePatterns = [
+          `tag ${grade}`,    // "TAG 10"
+          `tag${grade}`,     // "TAG10"  
+          `tag-${grade}`,    // "TAG-10"
+          `tag_${grade}`,    // "TAG_10"
+          `tag  ${grade}`,   // "TAG  10" (extra space)
+        ];
+        
+        return gradePatterns.some(pattern => title.includes(pattern));
       });
     }
     
@@ -168,6 +284,11 @@ export default function Cards() {
       filtered = filtered.filter(sale => sale.matched);
     } else if (matchFilter === 'unmatched') {
       filtered = filtered.filter(sale => !sale.matched);
+    }
+    
+    // Apply marketplace filter
+    if (marketplaceFilter !== 'all') {
+      filtered = filtered.filter(sale => sale.marketplace === marketplaceFilter);
     }
     
     // Apply price range filter
@@ -192,44 +313,48 @@ export default function Cards() {
   // Filter handlers
   const handleSearch = (term) => {
     setSearchTerm(term);
-    applyFilters(term, gradeFilter, matchFilter, sortBy, priceRange);
+    applyFilters(term, gradeFilter, matchFilter, marketplaceFilter, sortBy, priceRange);
   };
 
   const handleGradeFilterChange = (newGradeFilter) => {
     setGradeFilter(newGradeFilter);
-    applyFilters(searchTerm, newGradeFilter, matchFilter, sortBy, priceRange);
+    applyFilters(searchTerm, newGradeFilter, matchFilter, marketplaceFilter, sortBy, priceRange);
   };
 
   const handleMatchFilterChange = (newMatchFilter) => {
     setMatchFilter(newMatchFilter);
-    applyFilters(searchTerm, gradeFilter, newMatchFilter, sortBy, priceRange);
+    applyFilters(searchTerm, gradeFilter, newMatchFilter, marketplaceFilter, sortBy, priceRange);
+  };
+
+  const handleMarketplaceFilterChange = (newMarketplaceFilter) => {
+    setMarketplaceFilter(newMarketplaceFilter);
+    applyFilters(searchTerm, gradeFilter, matchFilter, newMarketplaceFilter, sortBy, priceRange);
   };
 
   const handleSortChange = (newSortBy) => {
     setSortBy(newSortBy);
-    applyFilters(searchTerm, gradeFilter, matchFilter, newSortBy, priceRange);
+    applyFilters(searchTerm, gradeFilter, matchFilter, marketplaceFilter, newSortBy, priceRange);
   };
 
   const handlePriceRangeChange = (newPriceRange) => {
     setPriceRange(newPriceRange);
-    applyFilters(searchTerm, gradeFilter, matchFilter, sortBy, newPriceRange);
+    applyFilters(searchTerm, gradeFilter, matchFilter, marketplaceFilter, sortBy, newPriceRange);
   };
 
   const clearAllFilters = () => {
     setSearchTerm('');
     setGradeFilter('all');
-    setMatchFilter('all');
+    setMatchFilter('matched'); // Reset to matched (don't show unmatched by default)
+    setMarketplaceFilter('all');
     setSortBy('newest');
     setPriceRange({ min: '', max: '' });
-    applyFilters('', 'all', 'all', 'newest', { min: '', max: '' });
+    applyFilters('', 'all', 'matched', 'all', 'newest', { min: '', max: '' });
   };
 
-  // Update filters when allSales changes
+  // Apply filters whenever dependencies change
   useEffect(() => {
-    if (allSales.length > 0) {
-      applyFilters(searchTerm, gradeFilter, matchFilter, sortBy, priceRange);
-    }
-  }, [allSales]);
+    applyFilters(searchTerm, gradeFilter, matchFilter, marketplaceFilter, sortBy, priceRange);
+  }, [allSales, searchTerm, gradeFilter, matchFilter, marketplaceFilter, sortBy, priceRange]);
 
   const CardModal = ({ card, cardData, onClose }) => {
     if (!card || !cardData) return null;
@@ -389,19 +514,51 @@ export default function Cards() {
             <div className="flex items-center">
               <h1 className="text-xl font-bold text-gray-900">TAG (Technical Authentication & Grading) Sales Tracker</h1>
             </div>
-            <div className="flex space-x-8">
-              <a href="/" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
-                All Sales
-              </a>
-              <span className="text-blue-600 border-b-2 border-blue-600 px-1 pb-4 pt-5 text-sm font-medium">
-                Card List
-              </span>
-              <a href="/sets" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
-                Card Sets
-              </a>
-              <a href="/faq" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
-                FAQ
-              </a>
+            
+            {/* Right side: Navigation Links + Currency Selector */}
+            <div className="flex items-center space-x-8">
+              {/* Navigation Links */}
+              <div className="flex space-x-8">
+                <a href="/" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
+                  All Sales
+                </a>
+                <span className="text-blue-600 border-b-2 border-blue-600 px-1 pb-4 pt-5 text-sm font-medium">
+                  Card List
+                </span>
+                <a href="/sets" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
+                  Card Sets
+                </a>
+                <a href="/faq" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
+                  FAQ
+                </a>
+              </div>
+              
+              {/* Currency Selector */}
+              <div className="flex items-center gap-2">
+                <span className="text-sm font-medium text-gray-700">Currency:</span>
+                <div className="flex bg-gray-100 rounded-lg p-1">
+                  <button
+                    onClick={() => handleCurrencyChange('GBP')}
+                    className={`px-3 py-1 text-sm font-medium rounded-md transition-all duration-200 ${
+                      currency === 'GBP'
+                        ? 'bg-white text-blue-600 shadow-sm'
+                        : 'text-gray-600 hover:text-gray-900'
+                    }`}
+                  >
+                    £ GBP
+                  </button>
+                  <button
+                    onClick={() => handleCurrencyChange('USD')}
+                    className={`px-3 py-1 text-sm font-medium rounded-md transition-all duration-200 ${
+                      currency === 'USD'
+                        ? 'bg-white text-blue-600 shadow-sm'
+                        : 'text-gray-600 hover:text-gray-900'
+                    }`}
+                  >
+                    $ USD
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -420,7 +577,6 @@ export default function Cards() {
                 </p>
               </div>
               <div className="mt-4 sm:mt-0 flex gap-2">
-                <CurrencySelector />
                 <button 
                   onClick={fetchCardData}
                   disabled={loading}
@@ -435,7 +591,7 @@ export default function Cards() {
           {/* Filter Controls */}
           <div className="max-w-6xl mx-auto mb-6">
             <div className="bg-white rounded-lg shadow p-4">
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6 gap-4">
                 {/* Search */}
                 <div className="xl:col-span-2">
                   <label className="block text-sm font-medium text-gray-700 mb-1">Search</label>
@@ -490,9 +646,22 @@ export default function Cards() {
                     onChange={(e) => handleMatchFilterChange(e.target.value)}
                     className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                   >
-                    <option value="all">All Sales</option>
                     <option value="matched">Matched Only</option>
                     <option value="unmatched">Unmatched Only</option>
+                  </select>
+                </div>
+
+                {/* Marketplace Filter */}
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Marketplace</label>
+                  <select
+                    value={marketplaceFilter}
+                    onChange={(e) => handleMarketplaceFilterChange(e.target.value)}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  >
+                    <option value="all">All Marketplaces</option>
+                    <option value="uk">UK</option>
+                    <option value="us">US</option>
                   </select>
                 </div>
 

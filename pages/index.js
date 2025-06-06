@@ -18,6 +18,7 @@ export default function Home() {
   const [showComingSoon, setShowComingSoon] = useState(false);
   const [lastFetchTime, setLastFetchTime] = useState(null);
   const [isRefreshing, setIsRefreshing] = useState(false);
+  const [currencyOverridden, setCurrencyOverridden] = useState(false); // Track if user manually overrode currency
 
   // Cache keys for localStorage (marketplace-specific)
   const CACHE_KEY = `tag-sales-data-${marketplace}`;
@@ -111,36 +112,97 @@ export default function Home() {
       });
   };
 
+  // Helper function to parse date from soldInfo
+  const parseSoldDate = (soldInfo) => {
+    if (!soldInfo) return new Date();
+    
+    // Try to parse various date formats
+    const text = soldInfo.toLowerCase();
+    
+    // Handle "X days ago", "X hours ago" format
+    if (text.includes('ago')) {
+      const now = new Date();
+      if (text.includes('hour')) {
+        const hours = parseInt(text.match(/(\d+)\s*hour/)?.[1]) || 0;
+        return new Date(now.getTime() - (hours * 60 * 60 * 1000));
+      } else if (text.includes('day')) {
+        const days = parseInt(text.match(/(\d+)\s*day/)?.[1]) || 0;
+        return new Date(now.getTime() - (days * 24 * 60 * 60 * 1000));
+      }
+    }
+    
+    // Handle "DD MMM YYYY" format (e.g., "29 May 2025")
+    const dateMatch = soldInfo.match(/(\d{1,2})\s+(\w{3})\s+(\d{4})/);
+    if (dateMatch) {
+      const [, day, month, year] = dateMatch;
+      const monthMap = {
+        'jan': 0, 'feb': 1, 'mar': 2, 'apr': 3, 'may': 4, 'jun': 5,
+        'jul': 6, 'aug': 7, 'sep': 8, 'oct': 9, 'nov': 10, 'dec': 11
+      };
+      const monthNum = monthMap[month.toLowerCase()];
+      if (monthNum !== undefined) {
+        return new Date(parseInt(year), monthNum, parseInt(day));
+      }
+    }
+    
+    // Fallback: try to parse as standard date
+    const fallbackDate = new Date(soldInfo);
+    return isNaN(fallbackDate.getTime()) ? new Date() : fallbackDate;
+  };
+
   // Sorting function
   const sortItems = (itemsToSort, sortType) => {
-    const sorted = [...itemsToSort].sort((a, b) => {
-      switch (sortType) {
-        case 'newest':
-          // Since we don't have real dates, sort by index (newer items first)
-          return 0; // Keep original order (newest first from eBay)
-        case 'oldest':
-          // Reverse the order
-          return 0; // Will be handled by reversing the array
-        case 'price-high':
+    const sorted = [...itemsToSort];
+    
+    switch (sortType) {
+      case 'newest':
+        // Sort by date, newest first
+        sorted.sort((a, b) => {
+          const dateA = parseSoldDate(a.soldInfo || a.soldDate);
+          const dateB = parseSoldDate(b.soldInfo || b.soldDate);
+          return dateB.getTime() - dateA.getTime(); // Newest first
+        });
+        break;
+      case 'oldest':
+        // Sort by date, oldest first
+        sorted.sort((a, b) => {
+          const dateA = parseSoldDate(a.soldInfo || a.soldDate);
+          const dateB = parseSoldDate(b.soldInfo || b.soldDate);
+          return dateA.getTime() - dateB.getTime(); // Oldest first
+        });
+        break;
+      case 'price-high':
+        sorted.sort((a, b) => {
           const priceA = parseFloat(a.price.replace(/[£$,]/g, '')) || 0;
           const priceB = parseFloat(b.price.replace(/[£$,]/g, '')) || 0;
-          return priceB - priceA;
-        case 'price-low':
-          const priceA2 = parseFloat(a.price.replace(/[£$,]/g, '')) || 0;
-          const priceB2 = parseFloat(b.price.replace(/[£$,]/g, '')) || 0;
-          return priceA2 - priceB2;
-        case 'title-az':
-          return a.title.localeCompare(b.title);
-        case 'title-za':
-          return b.title.localeCompare(a.title);
-        default:
-          return 0;
-      }
-    });
-    
-    // For oldest, reverse the array
-    if (sortType === 'oldest') {
-      return sorted.reverse();
+          // Convert to same currency for proper comparison
+          const fromCurrencyA = a.price.includes('$') ? 'USD' : 'GBP';
+          const fromCurrencyB = b.price.includes('$') ? 'USD' : 'GBP';
+          const convertedPriceA = convertCurrency(priceA, fromCurrencyA, currency);
+          const convertedPriceB = convertCurrency(priceB, fromCurrencyB, currency);
+          return convertedPriceB - convertedPriceA;
+        });
+        break;
+      case 'price-low':
+        sorted.sort((a, b) => {
+          const priceA = parseFloat(a.price.replace(/[£$,]/g, '')) || 0;
+          const priceB = parseFloat(b.price.replace(/[£$,]/g, '')) || 0;
+          // Convert to same currency for proper comparison
+          const fromCurrencyA = a.price.includes('$') ? 'USD' : 'GBP';
+          const fromCurrencyB = b.price.includes('$') ? 'USD' : 'GBP';
+          const convertedPriceA = convertCurrency(priceA, fromCurrencyA, currency);
+          const convertedPriceB = convertCurrency(priceB, fromCurrencyB, currency);
+          return convertedPriceA - convertedPriceB;
+        });
+        break;
+      case 'title-az':
+        sorted.sort((a, b) => a.title.localeCompare(b.title));
+        break;
+      case 'title-za':
+        sorted.sort((a, b) => b.title.localeCompare(a.title));
+        break;
+      default:
+        break;
     }
     
     return sorted;
@@ -168,12 +230,17 @@ export default function Home() {
   const handleMarketplaceChange = (newMarketplace) => {
     setMarketplace(newMarketplace);
     
-    // Auto-switch currency based on marketplace
-    if (newMarketplace === 'us') {
-      setCurrency('USD');
-    } else if (newMarketplace === 'uk') {
-      setCurrency('GBP');
+    // Auto-switch currency based on marketplace ONLY if user hasn't manually overridden
+    if (!currencyOverridden) {
+      if (newMarketplace === 'us') {
+        setCurrency('USD');
+      } else if (newMarketplace === 'uk') {
+        setCurrency('GBP');
+      }
     }
+    
+    // Reset currency override flag when marketplace changes (return to default behavior)
+    setCurrencyOverridden(false);
     
     // Clear current data to show loading
     setItems([]);
@@ -182,6 +249,12 @@ export default function Home() {
     setSearchTerm('');
     setGradeFilter('all');
     setSortBy('newest');
+  };
+
+  // Handle manual currency change (user override)
+  const handleCurrencyChange = (newCurrency) => {
+    setCurrency(newCurrency);
+    setCurrencyOverridden(true); // Mark that user has manually overridden the currency
   };
 
   // Apply search, grade, and sort filters
@@ -226,11 +299,13 @@ export default function Home() {
   };
 
   useEffect(() => {
-    // Set initial currency based on marketplace
-    if (marketplace === 'us') {
-      setCurrency('USD');
-    } else if (marketplace === 'uk') {
-      setCurrency('GBP');
+    // Set initial currency based on marketplace (only if not manually overridden)
+    if (!currencyOverridden) {
+      if (marketplace === 'us') {
+        setCurrency('USD');
+      } else if (marketplace === 'uk') {
+        setCurrency('GBP');
+      }
     }
     
     // Try to load cached data first
@@ -305,34 +380,64 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             {/* Logo/Brand */}
             <div className="flex items-center">
-                              <h1 className="text-xl font-bold text-gray-900">TAG (Technical Authentication & Grading) Sales Tracker</h1>
+              <h1 className="text-xl font-bold text-gray-900">TAG (Technical Authentication & Grading) Sales Tracker</h1>
             </div>
             
-            {/* Navigation Links */}
-            <div className="flex space-x-8">
-              <span 
-                className="text-blue-600 border-b-2 border-blue-600 px-1 pb-4 pt-5 text-sm font-medium"
-              >
-                All TAG Sales
-              </span>
-              <a 
-                href="/cards"
-                className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
-              >
-                Card List
-              </a>
-              <a 
-                href="/sets"
-                className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
-              >
-                Card Sets
-              </a>
-              <a 
-                href="/faq"
-                className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
-              >
-                FAQ
-              </a>
+            {/* Right side: Navigation Links + Currency Selector */}
+            <div className="flex items-center space-x-8">
+              {/* Navigation Links */}
+              <div className="flex space-x-8">
+                <span 
+                  className="text-blue-600 border-b-2 border-blue-600 px-1 pb-4 pt-5 text-sm font-medium"
+                >
+                  All TAG Sales
+                </span>
+                <a 
+                  href="/cards"
+                  className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
+                >
+                  Card List
+                </a>
+                <a 
+                  href="/sets"
+                  className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
+                >
+                  Card Sets
+                </a>
+                <a 
+                  href="/faq"
+                  className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
+                >
+                  FAQ
+                </a>
+              </div>
+              
+              {/* Currency Selector */}
+              <div className="flex items-center gap-2">
+                <span className="text-sm font-medium text-gray-700">Currency:</span>
+                <div className="flex bg-gray-100 rounded-lg p-1">
+                  <button
+                    onClick={() => handleCurrencyChange('GBP')}
+                    className={`px-3 py-1 text-sm font-medium rounded-md transition-all duration-200 ${
+                      currency === 'GBP'
+                        ? 'bg-white text-blue-600 shadow-sm'
+                        : 'text-gray-600 hover:text-gray-900'
+                    }`}
+                  >
+                    £ GBP
+                  </button>
+                  <button
+                    onClick={() => handleCurrencyChange('USD')}
+                    className={`px-3 py-1 text-sm font-medium rounded-md transition-all duration-200 ${
+                      currency === 'USD'
+                        ? 'bg-white text-blue-600 shadow-sm'
+                        : 'text-gray-600 hover:text-gray-900'
+                    }`}
+                  >
+                    $ USD
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -371,9 +476,6 @@ export default function Home() {
           {/* Search and Filter Controls */}
           <div className="max-w-4xl mx-auto">
             <div className="flex flex-col md:flex-row gap-4 items-center">
-              {/* Currency Selector */}
-              <CurrencySelector />
-              
               {/* Marketplace Selector */}
               <div className="flex items-center gap-2">
                 <label htmlFor="marketplace-select" className="text-sm font-medium text-gray-700 whitespace-nowrap">

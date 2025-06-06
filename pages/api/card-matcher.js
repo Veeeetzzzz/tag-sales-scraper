@@ -71,7 +71,7 @@ class CardMatcher {
 
     for (const card of this.cards) {
       const score = this.calculateMatchScore(normalizedTitle, card);
-      if (score > bestScore && score > 0.6) { // 60% confidence threshold
+      if (score > bestScore && score > 0.7) { // 70% confidence threshold for good balance
         bestScore = score;
         bestMatch = {
           card,
@@ -87,6 +87,11 @@ class CardMatcher {
   calculateMatchScore(title, card) {
     let score = 0;
     let maxPossibleScore = 0;
+
+    // Early filter: must contain "pokemon" to be considered valid
+    if (!title.includes('pokemon')) {
+      return 0;
+    }
 
     // Check each matching keyword - safely handle missing matchingKeywords
     const keywords = card.matchingKeywords || [];
@@ -104,16 +109,28 @@ class CardMatcher {
       }
     }
 
-    // Bonus for card name match
-    const cardNameScore = this.fuzzyMatch(title, card.name.toLowerCase());
-    score += cardNameScore * 2; // Weight card name higher
-    maxPossibleScore += 2;
+    // Bonus for card name match - require more precise matching
+    const cardNameWords = card.name.toLowerCase().split(' ');
+    let cardNameMatches = 0;
+    for (const word of cardNameWords) {
+      if (word.length > 2 && title.includes(word)) { // Ignore very short words
+        cardNameMatches++;
+      }
+    }
+    const cardNameScore = cardNameWords.length > 0 ? cardNameMatches / cardNameWords.length : 0;
+    score += cardNameScore * 3; // Weight card name very high
+    maxPossibleScore += 3;
 
     // Bonus for set code match
     if (card.setCode && title.includes(card.setCode.toLowerCase())) {
       score += 0.5;
     }
     maxPossibleScore += 0.5;
+
+    // Penalty for mismatched grading companies in title
+    if (title.includes('psa') || title.includes('cgc') || title.includes('bgs')) {
+      score *= 0.1; // Heavy penalty for wrong grading company
+    }
 
     return maxPossibleScore > 0 ? score / maxPossibleScore : 0;
   }
