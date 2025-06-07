@@ -1,0 +1,146 @@
+{
+  "dataInfo": {
+    "name": "Best Offers Accepted",
+    "description": "Pokemon card sales data where eBay offers were accepted. This data is manually compiled as eBay hides the final accepted offer prices on their platform, making it impossible to scrape this information automatically.",
+    "lastUpdated": "2024-12-19",
+    "dataSource": "Manual compilation from protected eBay seller data",
+    "notes": "Unlike regular sold listings, this data represents accepted Best Offers which are not publicly visible on eBay after the sale completes. Prices shown are the actual accepted offer amounts."
+  },
+  "offers": [
+    {
+      "id": "bo-001",
+      "listingTitle": "TAG 0 Pristine JAPANESE POKEMON 2019 Charizard & Braiven GX 008/064 REMIX SM…",
+      "avgSold": "268.18",
+      "currency": "GBP",
+      "postage": "26.07",
+      "quantity": 1,
+      "dateLastSold": "27 May 2026"
+    },
+    {
+      "id": "bo-002", 
+      "listingTitle": "Ivysaur 002/032 Classic CLF Japanese Pokemon Card Graded",
+      "avgSold": "29.77",
+      "currency": "GBP", 
+      "postage": "2.23",
+      "quantity": 1,
+      "dateLastSold": "23 May 2026"
+    },
+    {
+      "id": "bo-003",
+      "listingTitle": "Pokemon TCG Magikarp TAG GEM MINT 10 (Triple Beat Art Rare)",
+      "avgSold": "299.09",
+      "currency": "GBP",
+      "postage": "0.00", 
+      "quantity": 1,
+      "dateLastSold": "21 May 2026"
+    },
+    {
+      "id": "bo-004",
+      "listingTitle": "TAG Magikarp Holo 006/032 CLK Classic Collection GEM MINT", 
+      "avgSold": "20.62",
+      "currency": "GBP",
+      "postage": "2.21",
+      "quantity": 1,
+      "dateLastSold": "- May 2026*"
+    },
+    {
+      "id": "bo-005",
+      "listingTitle": "TAG Celebi 013/032 CLL Classic Collection GEM MINT",
+      "avgSold": "220.62",
+      "currency": "GBP", 
+      "postage": "2.21",
+      "quantity": 1,
+      "dateLastSold": "% May 2025*"
+    },
+    {
+      "id": "bo-006",
+      "listingTitle": "Leafeon ex SAR Terastal Festival 200/187 (TAG 10, not PSA)",
+      "avgSold": "288.23",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1, 
+      "dateLastSold": "1 May 2025*"
+    },
+    {
+      "id": "bo-007",
+      "listingTitle": "2022 Glaceon V-Star 217 V-Star Universe (TAG 10)",
+      "avgSold": "39.21",
+      "currency": "GBP",
+      "postage": "4.90",
+      "quantity": 1,
+      "dateLastSold": "13 May 2025"
+    },
+    {
+      "id": "bo-008", 
+      "listingTitle": "Umbreon VMAX 215/203 Alt Art Evolving Skies (TAG 8 NM)",
+      "avgSold": "2807.21",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1,
+      "dateLastSold": "11 May 2025"
+    },
+    {
+      "id": "bo-009",
+      "listingTitle": "Darkrai V-STAR GG50/GG70 – Crown Zenith (TAG 10)",
+      "avgSold": "20.21", 
+      "currency": "GBP",
+      "postage": "2.83",
+      "quantity": 1,
+      "dateLastSold": "9 May 2025"
+    },
+    {
+      "id": "bo-010",
+      "listingTitle": "Mew Holo Movie 002/020 (very rare, Japanese)",
+      "avgSold": "2165.00",
+      "currency": "GBP",
+      "postage": "2.21",
+      "quantity": 1,
+      "dateLastSold": "6 May 2025"
+    },
+    {
+      "id": "bo-011",
+      "listingTitle": "VMAX Climax Character Rare 170/184 Kingdra (TAG 10)",
+      "avgSold": "23.01",
+      "currency": "GBP",
+      "postage": "2.22", 
+      "quantity": 1,
+      "dateLastSold": "4 May 2025"
+    },
+    {
+      "id": "bo-012",
+      "listingTitle": "2023 Scarlet Ex #082/078 (TAG 10)",
+      "avgSold": "16.86",
+      "currency": "GBP",
+      "postage": "2.21",
+      "quantity": 1,
+      "dateLastSold": "2 May 2025"
+    },
+    {
+      "id": "bo-013",
+      "listingTitle": "Kanazawa's Pikachu 144/S-P Promo (2020) GEM MINT",
+      "avgSold": "88.55",
+      "currency": "GBP",
+      "postage": "2.21",
+      "quantity": 1,
+      "dateLastSold": "28 Apr 2025"
+    },
+    {
+      "id": "bo-014",
+      "listingTitle": "TAG Gyarados 007/032 Holo CLK Trading Card Game Classic",
+      "avgSold": "29.62",
+      "currency": "GBP", 
+      "postage": "9.40",
+      "quantity": 1,
+      "dateLastSold": "27 Apr 2025"
+    },
+    {
+      "id": "bo-015",
+      "listingTitle": "Pokemon Japanese 151 Charmander 168/165 Art Rare (TAG 10 PRISTINE)",
+      "avgSold": "264.60", 
+      "currency": "GBP",
+      "postage": "22.23",
+      "quantity": 1,
+      "dateLastSold": "22 May 2025"
+    }
+  ]
+} 

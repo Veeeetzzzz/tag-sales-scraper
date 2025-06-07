@@ -432,6 +432,12 @@ export default function Home() {
                   All TAG Sales
                 </span>
                 <a 
+                  href="/best-offers"
+                  className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
+                >
+                  Best Offers Accepted
+                </a>
+                <a 
                   href="/cards"
                   className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium cursor-pointer hover:text-gray-600 transition-colors"
                 >

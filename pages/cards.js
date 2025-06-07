@@ -544,6 +544,9 @@ export default function Cards() {
                 <a href="/" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
                   All Sales
                 </a>
+                <a href="/best-offers" className="text-gray-400 px-1 pb-4 pt-5 text-sm font-medium hover:text-gray-600">
+                  Best Offers Accepted
+                </a>
                 <span className="text-blue-600 border-b-2 border-blue-600 px-1 pb-4 pt-5 text-sm font-medium">
                   Card List
                 </span>
