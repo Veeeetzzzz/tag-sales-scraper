@@ -1,0 +1,4240 @@
+{
+  "setInfo": {
+    "name": "White Flare (JAP)",
+    "setCode": "WF01",
+    "releaseDate": "2025/06/06",
+    "totalCards": 173,
+    "series": "Black & White",
+    "description": "White Flare set featuring Generation V Pokemon with classic Black & White era designs and mechanics"
+  },
+  "cards": [
+    {
+      "number": "001/086",
+      "name": "Sewaddle",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "sewaddle",
+        "white flare",
+        "wf01",
+        "001"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "002/086",
+      "name": "Swadloon",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "swadloon",
+        "white flare",
+        "wf01",
+        "002"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "003/086",
+      "name": "Leavanny",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "leavanny",
+        "white flare",
+        "wf01",
+        "003"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "004/086",
+      "name": "Cottonee",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "cottonee",
+        "white flare",
+        "wf01",
+        "004"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "005/086",
+      "name": "Whimsicott ex",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "whimsicott ex",
+        "white flare",
+        "wf01",
+        "005",
+        "whimsicott"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "006/086",
+      "name": "Deerling",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "deerling",
+        "white flare",
+        "wf01",
+        "006"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "007/086",
+      "name": "Sawsbuck",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "sawsbuck",
+        "white flare",
+        "wf01",
+        "007"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "008/086",
+      "name": "Shelmet",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "shelmet",
+        "white flare",
+        "wf01",
+        "008"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "009/086",
+      "name": "Accelgor",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "accelgor",
+        "white flare",
+        "wf01",
+        "009"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "010/086",
+      "name": "Virizion",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "virizion",
+        "white flare",
+        "wf01",
+        "010"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "011/086",
+      "name": "Tepig",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "tepig",
+        "white flare",
+        "wf01",
+        "011"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "012/086",
+      "name": "Pignite",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "pignite",
+        "white flare",
+        "wf01",
+        "012"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "013/086",
+      "name": "Emboar",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "emboar",
+        "white flare",
+        "wf01",
+        "013"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "014/086",
+      "name": "Pansear",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "pansear",
+        "white flare",
+        "wf01",
+        "014"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "015/086",
+      "name": "Simisear",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "simisear",
+        "white flare",
+        "wf01",
+        "015"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "016/086",
+      "name": "Heatmor",
+      "type": "Fire",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "heatmor",
+        "white flare",
+        "wf01",
+        "016"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "017/086",
+      "name": "Reshiram ex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "reshiram ex",
+        "white flare",
+        "wf01",
+        "017",
+        "reshiram"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "018/086",
+      "name": "Oshawott",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "oshawott",
+        "white flare",
+        "wf01",
+        "018"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "019/086",
+      "name": "Dewott",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "dewott",
+        "white flare",
+        "wf01",
+        "019"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "020/086",
+      "name": "Samurott",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "samurott",
+        "white flare",
+        "wf01",
+        "020"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "021/086",
+      "name": "Basculin",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "basculin",
+        "white flare",
+        "wf01",
+        "021"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "022/086",
+      "name": "Ducklett",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "ducklett",
+        "white flare",
+        "wf01",
+        "022"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "023/086",
+      "name": "Swanna",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "swanna",
+        "white flare",
+        "wf01",
+        "023"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "024/086",
+      "name": "Vanillite",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "vanillite",
+        "white flare",
+        "wf01",
+        "024"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "025/086",
+      "name": "Vanillish",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "vanillish",
+        "white flare",
+        "wf01",
+        "025"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "026/086",
+      "name": "Vanilluxe",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "vanilluxe",
+        "white flare",
+        "wf01",
+        "026"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "027/086",
+      "name": "Keldeo ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "keldeo ex",
+        "white flare",
+        "wf01",
+        "027",
+        "keldeo"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "028/086",
+      "name": "Blitzle",
+      "type": "Electric",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "blitzle",
+        "white flare",
+        "wf01",
+        "028"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "029/086",
+      "name": "Zebstrika",
+      "type": "Electric",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "zebstrika",
+        "white flare",
+        "wf01",
+        "029"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "030/086",
+      "name": "Joltik",
+      "type": "Electric",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "joltik",
+        "white flare",
+        "wf01",
+        "030"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "031/086",
+      "name": "Galvantula",
+      "type": "Electric",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "galvantula",
+        "white flare",
+        "wf01",
+        "031"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "032/086",
+      "name": "Stunfisk",
+      "type": "Electric",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "stunfisk",
+        "white flare",
+        "wf01",
+        "032"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "033/086",
+      "name": "Woobat",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "woobat",
+        "white flare",
+        "wf01",
+        "033"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "034/086",
+      "name": "Swoobat",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "swoobat",
+        "white flare",
+        "wf01",
+        "034"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "035/086",
+      "name": "Sigilpyh",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "sigilpyh",
+        "white flare",
+        "wf01",
+        "035"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "036/086",
+      "name": "Yamask",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "yamask",
+        "white flare",
+        "wf01",
+        "036"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "037/086",
+      "name": "Cofagrigus",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "cofagrigus",
+        "white flare",
+        "wf01",
+        "037"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "038/086",
+      "name": "Gothita",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "gothita",
+        "white flare",
+        "wf01",
+        "038"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "039/086",
+      "name": "Gothorita",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "gothorita",
+        "white flare",
+        "wf01",
+        "039"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "040/086",
+      "name": "Gothitelle",
+      "type": "Psychic",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "gothitelle",
+        "white flare",
+        "wf01",
+        "040"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "041/086",
+      "name": "Frillish",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "frillish",
+        "white flare",
+        "wf01",
+        "041"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "042/086",
+      "name": "Jellicent ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "jellicent ex",
+        "white flare",
+        "wf01",
+        "042",
+        "jellicent"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "043/086",
+      "name": "Roggenrola",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "roggenrola",
+        "white flare",
+        "wf01",
+        "043"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "044/086",
+      "name": "Boldore",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "boldore",
+        "white flare",
+        "wf01",
+        "044"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "045/086",
+      "name": "Gigalith",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "gigalith",
+        "white flare",
+        "wf01",
+        "045"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "046/086",
+      "name": "Sawk",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "sawk",
+        "white flare",
+        "wf01",
+        "046"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "047/086",
+      "name": "Archen",
+      "type": "Trainer",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "archen",
+        "white flare",
+        "wf01",
+        "047"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "048/086",
+      "name": "Archeops",
+      "type": "Trainer",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "archeops",
+        "white flare",
+        "wf01",
+        "048"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "049/086",
+      "name": "Mienfoo",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "mienfoo",
+        "white flare",
+        "wf01",
+        "049"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "050/086",
+      "name": "Mienshao",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "mienshao",
+        "white flare",
+        "wf01",
+        "050"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "051/086",
+      "name": "Terrakion",
+      "type": "Fighting",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "terrakion",
+        "white flare",
+        "wf01",
+        "051"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "052/086",
+      "name": "Purrloin",
+      "type": "Dark",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "purrloin",
+        "white flare",
+        "wf01",
+        "052"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "053/086",
+      "name": "Liepard",
+      "type": "Dark",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "liepard",
+        "white flare",
+        "wf01",
+        "053"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "054/086",
+      "name": "Scraggy",
+      "type": "Dark",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "scraggy",
+        "white flare",
+        "wf01",
+        "054"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "055/086",
+      "name": "Scrafty",
+      "type": "Dark",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "scrafty",
+        "white flare",
+        "wf01",
+        "055"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "056/086",
+      "name": "Trubbish",
+      "type": "Trainer",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "trubbish",
+        "white flare",
+        "wf01",
+        "056"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "057/086",
+      "name": "Garbodor",
+      "type": "Trainer",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "garbodor",
+        "white flare",
+        "wf01",
+        "057"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "058/086",
+      "name": "Zorua",
+      "type": "Dark",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "zorua",
+        "white flare",
+        "wf01",
+        "058"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "059/086",
+      "name": "Zoroark",
+      "type": "Dark",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "zoroark",
+        "white flare",
+        "wf01",
+        "059"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "060/086",
+      "name": "Deino",
+      "type": "Dark",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "deino",
+        "white flare",
+        "wf01",
+        "060"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "061/086",
+      "name": "Zweilous",
+      "type": "Dark",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "zweilous",
+        "white flare",
+        "wf01",
+        "061"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "062/086",
+      "name": "Hydreigon ex",
+      "type": "Dark",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "hydreigon ex",
+        "white flare",
+        "wf01",
+        "062",
+        "hydreigon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "063/086",
+      "name": "Ferroseed",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "ferroseed",
+        "white flare",
+        "wf01",
+        "063"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "064/086",
+      "name": "Ferrothorn",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "ferrothorn",
+        "white flare",
+        "wf01",
+        "064"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "065/086",
+      "name": "Klink",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "klink",
+        "white flare",
+        "wf01",
+        "065"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "066/086",
+      "name": "Klang",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "klang",
+        "white flare",
+        "wf01",
+        "066"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "067/086",
+      "name": "Klinklang",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "klinklang",
+        "white flare",
+        "wf01",
+        "067"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "068/086",
+      "name": "Durant",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "durant",
+        "white flare",
+        "wf01",
+        "068"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "069/086",
+      "name": "Druddigon",
+      "type": "Dragon",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "druddigon",
+        "white flare",
+        "wf01",
+        "069"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "070/086",
+      "name": "Patrat",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "patrat",
+        "white flare",
+        "wf01",
+        "070"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "071/086",
+      "name": "Watchog",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "watchog",
+        "white flare",
+        "wf01",
+        "071"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "072/086",
+      "name": "Lillipup",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "lillipup",
+        "white flare",
+        "wf01",
+        "072"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "073/086",
+      "name": "Herdier",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "herdier",
+        "white flare",
+        "wf01",
+        "073"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "074/086",
+      "name": "Stoutland",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "stoutland",
+        "white flare",
+        "wf01",
+        "074"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "075/086",
+      "name": "Bouffalant ex",
+      "type": "Colorless",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "bouffalant ex",
+        "white flare",
+        "wf01",
+        "075",
+        "bouffalant"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "076/086",
+      "name": "Rufflet",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "rufflet",
+        "white flare",
+        "wf01",
+        "076"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "077/086",
+      "name": "Braviary",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "braviary",
+        "white flare",
+        "wf01",
+        "077"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "078/086",
+      "name": "Tornadus",
+      "type": "Colorless",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "tornadus",
+        "white flare",
+        "wf01",
+        "078"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "079/086",
+      "name": "Antique Plume Fossil",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "antique plume fossil",
+        "white flare",
+        "wf01",
+        "079"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "080/086",
+      "name": "Brave Bangle",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "brave bangle",
+        "white flare",
+        "wf01",
+        "080"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "081/086",
+      "name": "Cheren",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "cheren",
+        "white flare",
+        "wf01",
+        "081"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "082/086",
+      "name": "Energy Retrieval",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "energy retrieval",
+        "white flare",
+        "wf01",
+        "082"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "083/086",
+      "name": "Harlequin",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "harlequin",
+        "white flare",
+        "wf01",
+        "083"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "084/086",
+      "name": "Hilda",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "hilda",
+        "white flare",
+        "wf01",
+        "084"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "085/086",
+      "name": "Tool Scrapper",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "tool scrapper",
+        "white flare",
+        "wf01",
+        "085"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "086/086",
+      "name": "Ignition Energy",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "ignition energy",
+        "white flare",
+        "wf01",
+        "086"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "087/086",
+      "name": "Sewaddle",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "sewaddle",
+        "white flare",
+        "wf01",
+        "087"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "088/086",
+      "name": "Swadloon",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "swadloon",
+        "white flare",
+        "wf01",
+        "088"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "089/086",
+      "name": "Leavanny",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "leavanny",
+        "white flare",
+        "wf01",
+        "089"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "090/086",
+      "name": "Cottonee",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "cottonee",
+        "white flare",
+        "wf01",
+        "090"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "091/086",
+      "name": "Deerling",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "deerling",
+        "white flare",
+        "wf01",
+        "091"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "092/086",
+      "name": "Sawsbuck",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "sawsbuck",
+        "white flare",
+        "wf01",
+        "092"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "093/086",
+      "name": "Shelmet",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "shelmet",
+        "white flare",
+        "wf01",
+        "093"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "094/086",
+      "name": "Accelgor",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "accelgor",
+        "white flare",
+        "wf01",
+        "094"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "095/086",
+      "name": "Virizion",
+      "type": "Grass",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "virizion",
+        "white flare",
+        "wf01",
+        "095"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "096/086",
+      "name": "Tepig",
+      "type": "Fire",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "tepig",
+        "white flare",
+        "wf01",
+        "096"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "097/086",
+      "name": "Pignite",
+      "type": "Fire",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "pignite",
+        "white flare",
+        "wf01",
+        "097"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "098/086",
+      "name": "Emboar",
+      "type": "Fire",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "emboar",
+        "white flare",
+        "wf01",
+        "098"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "099/086",
+      "name": "Pansear",
+      "type": "Fire",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "pansear",
+        "white flare",
+        "wf01",
+        "099"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "100/086",
+      "name": "Simisear",
+      "type": "Fire",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "simisear",
+        "white flare",
+        "wf01",
+        "100"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "101/086",
+      "name": "Heatmor",
+      "type": "Fire",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "heatmor",
+        "white flare",
+        "wf01",
+        "101"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "102/086",
+      "name": "Oshawott",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "oshawott",
+        "white flare",
+        "wf01",
+        "102"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "103/086",
+      "name": "Dewott",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "dewott",
+        "white flare",
+        "wf01",
+        "103"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "104/086",
+      "name": "Samurott",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "samurott",
+        "white flare",
+        "wf01",
+        "104"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "105/086",
+      "name": "Basculin",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "basculin",
+        "white flare",
+        "wf01",
+        "105"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "106/086",
+      "name": "Ducklett",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "ducklett",
+        "white flare",
+        "wf01",
+        "106"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "107/086",
+      "name": "Swanna",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "swanna",
+        "white flare",
+        "wf01",
+        "107"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "108/086",
+      "name": "Vanillite",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "vanillite",
+        "white flare",
+        "wf01",
+        "108"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "109/086",
+      "name": "Vanillish",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "vanillish",
+        "white flare",
+        "wf01",
+        "109"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "110/086",
+      "name": "Vanilluxe",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "vanilluxe",
+        "white flare",
+        "wf01",
+        "110"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "111/086",
+      "name": "Blitzle",
+      "type": "Electric",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "blitzle",
+        "white flare",
+        "wf01",
+        "111"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "112/086",
+      "name": "Zebstrika",
+      "type": "Electric",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "zebstrika",
+        "white flare",
+        "wf01",
+        "112"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "113/086",
+      "name": "Joltik",
+      "type": "Electric",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "joltik",
+        "white flare",
+        "wf01",
+        "113"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "114/086",
+      "name": "Galvantula",
+      "type": "Electric",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "galvantula",
+        "white flare",
+        "wf01",
+        "114"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "115/086",
+      "name": "Stunfisk",
+      "type": "Electric",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "stunfisk",
+        "white flare",
+        "wf01",
+        "115"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "116/086",
+      "name": "Woobat",
+      "type": "Psychic",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "woobat",
+        "white flare",
+        "wf01",
+        "116"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "117/086",
+      "name": "Swoobat",
+      "type": "Psychic",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "swoobat",
+        "white flare",
+        "wf01",
+        "117"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "118/086",
+      "name": "Sigilyph",
+      "type": "Psychic",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "sigilyph",
+        "white flare",
+        "wf01",
+        "118"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "119/086",
+      "name": "Yamask",
+      "type": "Psychic",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "yamask",
+        "white flare",
+        "wf01",
+        "119"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "120/086",
+      "name": "Cofagrigus",
+      "type": "Psychic",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "cofagrigus",
+        "white flare",
+        "wf01",
+        "120"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "121/086",
+      "name": "Gothita",
+      "type": "Psychic",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "gothita",
+        "white flare",
+        "wf01",
+        "121"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "122/086",
+      "name": "Gothorita",
+      "type": "Psychic",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "gothorita",
+        "white flare",
+        "wf01",
+        "122"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "123/086",
+      "name": "Gothitelle",
+      "type": "Psychic",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "gothitelle",
+        "white flare",
+        "wf01",
+        "123"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "124/086",
+      "name": "Frillish",
+      "type": "Water",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "frillish",
+        "white flare",
+        "wf01",
+        "124"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "125/086",
+      "name": "Roggenrola",
+      "type": "Fighting",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "roggenrola",
+        "white flare",
+        "wf01",
+        "125"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "126/086",
+      "name": "Boldore",
+      "type": "Fighting",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "boldore",
+        "white flare",
+        "wf01",
+        "126"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "127/086",
+      "name": "Gigalith",
+      "type": "Fighting",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "gigalith",
+        "white flare",
+        "wf01",
+        "127"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "128/086",
+      "name": "Sawk",
+      "type": "Fighting",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "sawk",
+        "white flare",
+        "wf01",
+        "128"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "129/086",
+      "name": "Archen",
+      "type": "Trainer",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "archen",
+        "white flare",
+        "wf01",
+        "129"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "130/086",
+      "name": "Archeops",
+      "type": "Trainer",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "archeops",
+        "white flare",
+        "wf01",
+        "130"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "131/086",
+      "name": "Mienfoo",
+      "type": "Fighting",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "mienfoo",
+        "white flare",
+        "wf01",
+        "131"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "132/086",
+      "name": "Mienshao",
+      "type": "Fighting",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "mienshao",
+        "white flare",
+        "wf01",
+        "132"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "133/086",
+      "name": "Terrakion",
+      "type": "Fighting",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "terrakion",
+        "white flare",
+        "wf01",
+        "133"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "134/086",
+      "name": "Purrloin",
+      "type": "Dark",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "purrloin",
+        "white flare",
+        "wf01",
+        "134"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "135/086",
+      "name": "Liepard",
+      "type": "Dark",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "liepard",
+        "white flare",
+        "wf01",
+        "135"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "136/086",
+      "name": "Scraggy",
+      "type": "Dark",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "scraggy",
+        "white flare",
+        "wf01",
+        "136"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "137/086",
+      "name": "Scrafty",
+      "type": "Dark",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "scrafty",
+        "white flare",
+        "wf01",
+        "137"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "138/086",
+      "name": "Trubbish",
+      "type": "Trainer",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "trubbish",
+        "white flare",
+        "wf01",
+        "138"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "139/086",
+      "name": "Garbodor",
+      "type": "Trainer",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "garbodor",
+        "white flare",
+        "wf01",
+        "139"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "140/086",
+      "name": "Zorua",
+      "type": "Dark",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "zorua",
+        "white flare",
+        "wf01",
+        "140"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "141/086",
+      "name": "Zoroark",
+      "type": "Dark",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "zoroark",
+        "white flare",
+        "wf01",
+        "141"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "142/086",
+      "name": "Deino",
+      "type": "Dark",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "deino",
+        "white flare",
+        "wf01",
+        "142"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "143/086",
+      "name": "Zweilous",
+      "type": "Dark",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "zweilous",
+        "white flare",
+        "wf01",
+        "143"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "144/086",
+      "name": "Ferroseed",
+      "type": "Metal",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "ferroseed",
+        "white flare",
+        "wf01",
+        "144"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "145/086",
+      "name": "Ferrothorn",
+      "type": "Metal",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "ferrothorn",
+        "white flare",
+        "wf01",
+        "145"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "146/086",
+      "name": "Klink",
+      "type": "Metal",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "klink",
+        "white flare",
+        "wf01",
+        "146"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "147/086",
+      "name": "Klang",
+      "type": "Metal",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "klang",
+        "white flare",
+        "wf01",
+        "147"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "148/086",
+      "name": "Klinklang",
+      "type": "Metal",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "klinklang",
+        "white flare",
+        "wf01",
+        "148"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "149/086",
+      "name": "Durant",
+      "type": "Metal",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "durant",
+        "white flare",
+        "wf01",
+        "149"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "150/086",
+      "name": "Druddigon",
+      "type": "Dragon",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "druddigon",
+        "white flare",
+        "wf01",
+        "150"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "151/086",
+      "name": "Patrat",
+      "type": "Colorless",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "patrat",
+        "white flare",
+        "wf01",
+        "151"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "152/086",
+      "name": "Watchog",
+      "type": "Colorless",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "watchog",
+        "white flare",
+        "wf01",
+        "152"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "153/086",
+      "name": "Lillipup",
+      "type": "Colorless",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "lillipup",
+        "white flare",
+        "wf01",
+        "153"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "154/086",
+      "name": "Herdier",
+      "type": "Colorless",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "herdier",
+        "white flare",
+        "wf01",
+        "154"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "155/086",
+      "name": "Stoutland",
+      "type": "Colorless",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "stoutland",
+        "white flare",
+        "wf01",
+        "155"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "156/086",
+      "name": "Rufflet",
+      "type": "Colorless",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "rufflet",
+        "white flare",
+        "wf01",
+        "156"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "157/086",
+      "name": "Braviary",
+      "type": "Colorless",
+      "rarity": "Special Rare",
+      "matchingKeywords": [
+        "braviary",
+        "white flare",
+        "wf01",
+        "157"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 3.0,
+        "mid": 8.0,
+        "high": 15.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "158/086",
+      "name": "Whimsicott ex",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "whimsicott ex",
+        "white flare",
+        "wf01",
+        "158",
+        "whimsicott"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "159/086",
+      "name": "Reshiram ex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "reshiram ex",
+        "white flare",
+        "wf01",
+        "159",
+        "reshiram"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "160/086",
+      "name": "Keldeo ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "keldeo ex",
+        "white flare",
+        "wf01",
+        "160",
+        "keldeo"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "161/086",
+      "name": "Jellicent ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "jellicent ex",
+        "white flare",
+        "wf01",
+        "161",
+        "jellicent"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "162/086",
+      "name": "Hydreigon ex",
+      "type": "Dark",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "hydreigon ex",
+        "white flare",
+        "wf01",
+        "162",
+        "hydreigon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "163/086",
+      "name": "Bouffalant ex",
+      "type": "Colorless",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "bouffalant ex",
+        "white flare",
+        "wf01",
+        "163",
+        "bouffalant"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "164/086",
+      "name": "Harlequin",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "harlequin",
+        "white flare",
+        "wf01",
+        "164"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "165/086",
+      "name": "Hilda",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "hilda",
+        "white flare",
+        "wf01",
+        "165"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "166/086",
+      "name": "Whimsicott ex",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "whimsicott ex",
+        "white flare",
+        "wf01",
+        "166",
+        "whimsicott"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "167/086",
+      "name": "Reshiram ex",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "reshiram ex",
+        "white flare",
+        "wf01",
+        "167",
+        "reshiram"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "168/086",
+      "name": "Keldeo ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "keldeo ex",
+        "white flare",
+        "wf01",
+        "168",
+        "keldeo"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "169/086",
+      "name": "Jellicent ex",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "jellicent ex",
+        "white flare",
+        "wf01",
+        "169",
+        "jellicent"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "170/086",
+      "name": "Hydreigon ex",
+      "type": "Dark",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "hydreigon ex",
+        "white flare",
+        "wf01",
+        "170",
+        "hydreigon"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "171/086",
+      "name": "Bouffalant ex",
+      "type": "Colorless",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "bouffalant ex",
+        "white flare",
+        "wf01",
+        "171",
+        "bouffalant"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "172/086",
+      "name": "Hilda",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "hilda",
+        "white flare",
+        "wf01",
+        "172"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    },
+    {
+      "number": "173/086",
+      "name": "Reshiram ex White Flare",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "reshiram ex white flare",
+        "white flare",
+        "wf01",
+        "173",
+        "reshiram white flare"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Full Art",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      }
+    }
+  ]
+}
