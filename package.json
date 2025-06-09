@@ -5,7 +5,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "download-images": "node scripts/download-images.js"
   },
   "dependencies": {
     "ai-seo": "^1.0.1",

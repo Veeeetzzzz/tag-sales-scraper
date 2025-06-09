@@ -5,6 +5,7 @@ import CurrencySelector from '../components/CurrencySelector';
 import SEOHead from '../components/SEOHead';
 import { useCurrency } from '../contexts/CurrencyContext';
 import { convertAndFormatPrice } from '../utils/currency';
+import { getCardImageUrl } from '../utils/imageUtils';
 
 export default function Sets() {
   const [sets, setSets] = useState({});
@@ -76,7 +77,7 @@ export default function Sets() {
   };
 
   const getCardImage = (card) => {
-    return card.imageUrl || 'https://via.placeholder.com/250x350/e5e7eb/9ca3af?text=No+Image';
+    return getCardImageUrl(card);
   };
 
   const CardModal = ({ card, onClose }) => {

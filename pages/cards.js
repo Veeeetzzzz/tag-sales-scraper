@@ -4,6 +4,7 @@ import CurrencySelector from '../components/CurrencySelector';
 import SEOHead from '../components/SEOHead';
 import { useCurrency } from '../contexts/CurrencyContext';
 import { convertAndFormatPrice, convertCurrency } from '../utils/currency';
+import { getOptimizedImageUrl, getCardImageUrl } from '../utils/imageUtils';
 
 export default function Cards() {
   const [allSales, setAllSales] = useState([]);
@@ -24,18 +25,7 @@ export default function Cards() {
   const [priceRange, setPriceRange] = useState({ min: '', max: '' });
   const [currencyOverridden, setCurrencyOverridden] = useState(false);
 
-  // Utility function to get high-quality image URL
-  const getHighQualityImageUrl = (originalUrl) => {
-    if (!originalUrl) return originalUrl;
-    
-    // Replace s-l140 with s-l500 for higher quality
-    // Also handle other low-res formats
-    return originalUrl
-      .replace(/s-l140/g, 's-l500')
-      .replace(/s-l225/g, 's-l500')
-      .replace(/s-l300/g, 's-l500')
-      .replace(/\.webp$/g, '.jpg'); // Prefer JPG over WebP for better compatibility
-  };
+  // Note: getHighQualityImageUrl moved to utils/imageUtils.js and renamed to getOptimizedImageUrl
 
   const fetchCardData = async () => {
     setLoading(true);
@@ -60,7 +50,7 @@ export default function Cards() {
           allItems.push({
             ...item,
             marketplace: 'uk',
-            img: getHighQualityImageUrl(item.img) // Upgrade image quality
+            img: getOptimizedImageUrl(item.img) // Upgrade image quality
           });
         });
       }
@@ -70,7 +60,7 @@ export default function Cards() {
           allItems.push({
             ...item,
             marketplace: 'us',
-            img: getHighQualityImageUrl(item.img) // Upgrade image quality
+            img: getOptimizedImageUrl(item.img) // Upgrade image quality
           });
         });
       }
@@ -100,7 +90,7 @@ export default function Cards() {
                 matched: true,
                 matchedCard: cardData.card,
                 matchConfidence: sale.matchConfidence,
-                img: getHighQualityImageUrl(sale.img) // Ensure high quality image
+                img: getOptimizedImageUrl(sale.img) // Ensure high quality image
               });
             });
           });
@@ -112,7 +102,7 @@ export default function Cards() {
               matched: false,
               matchedCard: null,
               matchConfidence: 0,
-              img: getHighQualityImageUrl(sale.img) // Ensure high quality image
+              img: getOptimizedImageUrl(sale.img) // Ensure high quality image
             });
           });
           
@@ -366,7 +356,7 @@ export default function Cards() {
       : null;
     
     // Use card image if available, otherwise fallback to eBay listing image
-    const imageUrl = card.imageUrl || fallbackImage;
+    const imageUrl = getCardImageUrl(card) || fallbackImage;
     
     return (
       <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
