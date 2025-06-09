@@ -1,6 +1,17 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { getOptimizedImageUrl, getPlaceholderImageUrl } from '../utils/imageUtils';
 
+/**
+ * Check if we're in a serverless environment
+ */
+function isServerlessEnvironment() {
+  if (typeof window !== 'undefined') {
+    const hostname = window.location.hostname;
+    return hostname.includes('vercel.app') || hostname.includes('netlify.app') || hostname.includes('amazonaws.com');
+  }
+  return false;
+}
+
 const OptimizedImage = ({ 
   src, 
   alt, 
@@ -48,9 +59,10 @@ const OptimizedImage = ({
     onLoad?.();
   };
 
-  const handleError = () => {
+  const handleError = (event) => {
+    console.warn(`Failed to load image: ${event.target.src}`);
     setIsError(true);
-    onError?.();
+    onError?.(event);
   };
 
   const getImageSrc = () => {
@@ -60,6 +72,12 @@ const OptimizedImage = ({
     if (!isInView) {
       return placeholder || getPlaceholderImageUrl(width, height, 'Loading...');
     }
+    
+    // In serverless environments, we might want to be more conservative with image optimization
+    if (isServerlessEnvironment()) {
+      return src || getPlaceholderImageUrl(width, height, 'No Image');
+    }
+    
     return getOptimizedImageUrl(src) || getPlaceholderImageUrl(width, height, 'No Image');
   };
 
@@ -83,6 +101,12 @@ const OptimizedImage = ({
         onLoad={handleLoad}
         onError={handleError}
         loading={lazy ? 'lazy' : 'eager'}
+        style={{ 
+          maxWidth: '100%', 
+          height: 'auto',
+          // Add explicit dimensions to help with loading
+          width: width ? `${width}px` : 'auto'
+        }}
       />
       
       {/* Loading indicator */}

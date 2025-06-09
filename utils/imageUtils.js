@@ -1,17 +1,47 @@
 /**
+ * Check if running on Vercel or other serverless environment
+ */
+function isServerlessEnvironment() {
+  return !!(
+    process.env.VERCEL || 
+    process.env.NETLIFY || 
+    process.env.AWS_LAMBDA_FUNCTION_NAME ||
+    (typeof window === 'undefined' && process.env.NODE_ENV === 'production')
+  );
+}
+
+/**
+ * Check if running in browser
+ */
+function isBrowser() {
+  return typeof window !== 'undefined';
+}
+
+/**
  * Generate a proxied image URL that will cache the image locally
  * @param {string} originalUrl - The original external image URL
- * @returns {string} - The proxied URL
+ * @returns {string} - The proxied URL or original URL if in serverless environment
  */
 export function getProxiedImageUrl(originalUrl) {
   if (!originalUrl) return null;
   
   // If it's already a local URL, return as is
-  if (originalUrl.startsWith('/') || originalUrl.includes(window?.location?.hostname)) {
+  if (originalUrl.startsWith('/') || (isBrowser() && originalUrl.includes(window.location.hostname))) {
     return originalUrl;
   }
   
-  // Create proxy URL
+  // In serverless environments (like Vercel), use direct URLs
+  if (isBrowser()) {
+    // Check if we're on a known serverless platform domain
+    const hostname = window.location.hostname;
+    if (hostname.includes('vercel.app') || hostname.includes('netlify.app') || hostname.includes('amazonaws.com')) {
+      return originalUrl; // Use direct URL
+    }
+  } else if (isServerlessEnvironment()) {
+    return originalUrl; // Use direct URL
+  }
+  
+  // For local development, use proxy
   return `/api/image-proxy?url=${encodeURIComponent(originalUrl)}`;
 }
 
@@ -35,7 +65,7 @@ export function getHighQualityImageUrl(originalUrl) {
 /**
  * Get optimized image URL with proxy and quality upgrades
  * @param {string} originalUrl - The original image URL
- * @returns {string} - The optimized and proxied URL
+ * @returns {string} - The optimized and proxied URL (or direct URL in serverless)
  */
 export function getOptimizedImageUrl(originalUrl) {
   if (!originalUrl) return null;
@@ -52,6 +82,17 @@ export function getOptimizedImageUrl(originalUrl) {
  * @returns {string} - Placeholder image URL
  */
 export function getPlaceholderImageUrl(width = 250, height = 350, text = 'No Image') {
+  // Use local fallback API in serverless environments for better reliability
+  if (isBrowser()) {
+    const hostname = window.location.hostname;
+    if (hostname.includes('vercel.app') || hostname.includes('netlify.app') || hostname.includes('amazonaws.com')) {
+      return `/api/image-fallback?width=${width}&height=${height}&text=${encodeURIComponent(text)}`;
+    }
+  } else if (isServerlessEnvironment()) {
+    return `/api/image-fallback?width=${width}&height=${height}&text=${encodeURIComponent(text)}`;
+  }
+  
+  // Fallback to external service for local development
   return `https://via.placeholder.com/${width}x${height}/e5e7eb/9ca3af?text=${encodeURIComponent(text)}`;
 }
 
@@ -70,7 +111,7 @@ export function getCardImageUrl(card, fallbackOptions = {}) {
   } = fallbackOptions;
   
   if (card?.imageUrl) {
-    return useProxy ? getOptimizedImageUrl(card.imageUrl) : card.imageUrl;
+    return useProxy ? getOptimizedImageUrl(card.imageUrl) : getHighQualityImageUrl(card.imageUrl);
   }
   
   // Fallback to placeholder

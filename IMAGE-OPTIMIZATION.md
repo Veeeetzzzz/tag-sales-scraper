@@ -96,10 +96,10 @@ public/
 ## Configuration
 
 ### Environment Considerations:
-- **Development**: Images cached locally
-- **Production**: Consider deployment caching strategy
-- **Vercel**: May need persistent storage solution
-- **Self-hosted**: Works out of the box
+- **Development**: Images cached locally via proxy
+- **Vercel/Netlify**: Uses direct URLs with quality upgrades (no caching)
+- **Self-hosted**: Works out of the box with full caching
+- **Serverless**: Automatically detects and uses direct URLs
 
 ### Customization Options:
 - Cache directory location
@@ -107,6 +107,20 @@ public/
 - Lazy loading thresholds
 - Error fallback images
 - Download retry attempts
+
+## Deployment Environments
+
+### Vercel Deployment
+The system automatically detects Vercel deployment and:
+- Disables image proxy (not compatible with serverless)
+- Uses direct external URLs with quality upgrades
+- Falls back to local SVG placeholders for missing images
+- Maintains lazy loading and error handling
+
+### Local Development
+- Full image proxy with persistent caching
+- Downloads and caches images in `public/cached-images/`
+- Faster subsequent loads
 
 ## Troubleshooting
 
