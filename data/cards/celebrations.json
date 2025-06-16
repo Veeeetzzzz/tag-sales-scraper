@@ -1,0 +1,513 @@
+{
+  "setInfo": {
+    "name": "Celebrations",
+    "description": "Pokemon Celebrations 25th Anniversary expansion set - Special 25 card set featuring classic Pokemon reprints and new cards",
+    "lastUpdated": "2025-06-16",
+    "setCode": "CEL",
+    "totalCards": 25,
+    "releaseDate": "2021-10-08",
+    "tagSales": 0
+  },
+  "cards": [
+    {
+      "id": "cel25-001",
+      "name": "Ho-Oh",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "001",
+      "fullNumber": "001/025",
+      "rarity": "Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Ho-Oh",
+        "CEL 001",
+        "Celebrations 001",
+        "001/025",
+        "Celebrations Ho-Oh"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/001.png"
+    },
+    {
+      "id": "cel25-002",
+      "name": "Reshiram",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "002",
+      "fullNumber": "002/025",
+      "rarity": "Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Reshiram",
+        "CEL 002",
+        "Celebrations 002",
+        "002/025",
+        "Celebrations Reshiram"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/002.png"
+    },
+    {
+      "id": "cel25-003",
+      "name": "Kyogre",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "003",
+      "fullNumber": "003/025",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Kyogre",
+        "CEL 003",
+        "Celebrations 003",
+        "003/025",
+        "Celebrations Kyogre"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/003.png"
+    },
+    {
+      "id": "cel25-004",
+      "name": "Palkia",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "004",
+      "fullNumber": "004/025",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Palkia",
+        "CEL 004",
+        "Celebrations 004",
+        "004/025",
+        "Celebrations Palkia"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/004.png"
+    },
+    {
+      "id": "cel25-005",
+      "name": "Pikachu",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "005",
+      "fullNumber": "005/025",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Pikachu",
+        "CEL 005",
+        "Celebrations 005",
+        "005/025",
+        "Celebrations Pikachu"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/005.png"
+    },
+    {
+      "id": "cel25-006",
+      "name": "Flying PikachuV",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "006",
+      "fullNumber": "006/025",
+      "rarity": "Ultra-Rare Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Flying PikachuV",
+        "CEL 006",
+        "Celebrations 006",
+        "006/025",
+        "Celebrations Flying PikachuV"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/006.png"
+    },
+    {
+      "id": "cel25-007",
+      "name": "Flying PikachuVMAX",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "007",
+      "fullNumber": "007/025",
+      "rarity": "Rare VMAX",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Flying PikachuVMAX",
+        "CEL 007",
+        "Celebrations 007",
+        "007/025",
+        "Celebrations Flying PikachuVMAX"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/007.png"
+    },
+    {
+      "id": "cel25-008",
+      "name": "Surfing PikachuV",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "008",
+      "fullNumber": "008/025",
+      "rarity": "Ultra-Rare Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Surfing PikachuV",
+        "CEL 008",
+        "Celebrations 008",
+        "008/025",
+        "Celebrations Surfing PikachuV"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/008.png"
+    },
+    {
+      "id": "cel25-009",
+      "name": "Surfing PikachuVMAX",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "009",
+      "fullNumber": "009/025",
+      "rarity": "Rare VMAX",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Surfing PikachuVMAX",
+        "CEL 009",
+        "Celebrations 009",
+        "009/025",
+        "Celebrations Surfing PikachuVMAX"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/009.png"
+    },
+    {
+      "id": "cel25-010",
+      "name": "Zekrom",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "010",
+      "fullNumber": "010/025",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Zekrom",
+        "CEL 010",
+        "Celebrations 010",
+        "010/025",
+        "Celebrations Zekrom"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/010.png"
+    },
+    {
+      "id": "cel25-011",
+      "name": "Mew",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "011",
+      "fullNumber": "011/025",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Mew",
+        "CEL 011",
+        "Celebrations 011",
+        "011/025",
+        "Celebrations Mew"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/011.png"
+    },
+    {
+      "id": "cel25-012",
+      "name": "Xerneas",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "012",
+      "fullNumber": "012/025",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Xerneas",
+        "CEL 012",
+        "Celebrations 012",
+        "012/025",
+        "Celebrations Xerneas"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/012.png"
+    },
+    {
+      "id": "cel25-013",
+      "name": "Cosmog",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "013",
+      "fullNumber": "013/025",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Cosmog",
+        "CEL 013",
+        "Celebrations 013",
+        "013/025",
+        "Celebrations Cosmog"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/013.png"
+    },
+    {
+      "id": "cel25-014",
+      "name": "Cosmoem",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "014",
+      "fullNumber": "014/025",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Cosmoem",
+        "CEL 014",
+        "Celebrations 014",
+        "014/025",
+        "Celebrations Cosmoem"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/014.png"
+    },
+    {
+      "id": "cel25-015",
+      "name": "Lunala",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "015",
+      "fullNumber": "015/025",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Lunala",
+        "CEL 015",
+        "Celebrations 015",
+        "015/025",
+        "Celebrations Lunala"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/015.png"
+    },
+    {
+      "id": "cel25-016",
+      "name": "ZacianV",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "016",
+      "fullNumber": "016/025",
+      "rarity": "Ultra-Rare Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "ZacianV",
+        "CEL 016",
+        "Celebrations 016",
+        "016/025",
+        "Celebrations ZacianV"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/016.png"
+    },
+    {
+      "id": "cel25-017",
+      "name": "Groudon",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "017",
+      "fullNumber": "017/025",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Groudon",
+        "CEL 017",
+        "Celebrations 017",
+        "017/025",
+        "Celebrations Groudon"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/017.png"
+    },
+    {
+      "id": "cel25-018",
+      "name": "ZamazentaV",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "018",
+      "fullNumber": "018/025",
+      "rarity": "Ultra-Rare Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "ZamazentaV",
+        "CEL 018",
+        "Celebrations 018",
+        "018/025",
+        "Celebrations ZamazentaV"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/018.png"
+    },
+    {
+      "id": "cel25-019",
+      "name": "Yveltal",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "019",
+      "fullNumber": "019/025",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Yveltal",
+        "CEL 019",
+        "Celebrations 019",
+        "019/025",
+        "Celebrations Yveltal"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/019.png"
+    },
+    {
+      "id": "cel25-020",
+      "name": "Dialga",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "020",
+      "fullNumber": "020/025",
+      "rarity": "Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Dialga",
+        "CEL 020",
+        "Celebrations 020",
+        "020/025",
+        "Celebrations Dialga"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/020.png"
+    },
+    {
+      "id": "cel25-021",
+      "name": "Solgaleo",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "021",
+      "fullNumber": "021/025",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Solgaleo",
+        "CEL 021",
+        "Celebrations 021",
+        "021/025",
+        "Celebrations Solgaleo"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/021.png"
+    },
+    {
+      "id": "cel25-022",
+      "name": "Lugia",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "022",
+      "fullNumber": "022/025",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Lugia",
+        "CEL 022",
+        "Celebrations 022",
+        "022/025",
+        "Celebrations Lugia"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/022.png"
+    },
+    {
+      "id": "cel25-023",
+      "name": "Professor's Research [Professor Oak]",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "023",
+      "fullNumber": "023/025",
+      "rarity": "Rare Holo",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Professor's Research [Professor Oak]",
+        "CEL 023",
+        "Celebrations 023",
+        "023/025",
+        "Celebrations Professor's Research [Professor Oak]"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/023.png"
+    },
+    {
+      "id": "cel25-024",
+      "name": "Professor's Research [Professor Oak]",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "024",
+      "fullNumber": "024/025",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Professor's Research [Professor Oak]",
+        "CEL 024",
+        "Celebrations 024",
+        "024/025",
+        "Celebrations Professor's Research [Professor Oak]"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/024.png"
+    },
+    {
+      "id": "cel25-025",
+      "name": "Mew",
+      "setName": "Celebrations",
+      "setCode": "CEL",
+      "cardNumber": "025",
+      "fullNumber": "025/025",
+      "rarity": "Rare Secret",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Mew",
+        "CEL 025",
+        "Celebrations 025",
+        "025/025",
+        "Celebrations Mew"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/cel25/025.png"
+    }
+  ]
+}

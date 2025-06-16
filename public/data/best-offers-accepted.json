@@ -2,9 +2,9 @@
   "dataInfo": {
     "name": "Best Offers Accepted",
     "description": "Pokemon card sales data where eBay offers were accepted. This data is manually compiled as eBay hides the final accepted offer prices on their platform, making it impossible to scrape this information automatically.",
-    "lastUpdated": "2024-12-19",
+    "lastUpdated": "2025-06-16",
     "dataSource": "Manual compilation from protected eBay seller data",
-    "notes": "Unlike regular sold listings, this data represents accepted Best Offers which are not publicly visible on eBay after the sale completes. Prices shown are the actual accepted offer amounts."
+    "notes": "Unlike regular sold listings, this data represents accepted Best Offers which are not publicly visible on eBay after the sale completes. Prices shown are the actual accepted offer amounts. Updated format now includes listing URLs for reference."
   },
   "offers": [
     {
@@ -14,7 +14,7 @@
       "currency": "GBP",
       "postage": "26.07",
       "quantity": 1,
-      "dateLastSold": "27 May 2026"
+      "dateLastSold": "27 May 2025"
     },
     {
       "id": "bo-002", 
@@ -23,7 +23,7 @@
       "currency": "GBP", 
       "postage": "2.23",
       "quantity": 1,
-      "dateLastSold": "23 May 2026"
+      "dateLastSold": "23 May 2025"
     },
     {
       "id": "bo-003",
@@ -32,7 +32,7 @@
       "currency": "GBP",
       "postage": "0.00", 
       "quantity": 1,
-      "dateLastSold": "21 May 2026"
+      "dateLastSold": "21 May 2025"
     },
     {
       "id": "bo-004",
@@ -41,7 +41,7 @@
       "currency": "GBP",
       "postage": "2.21",
       "quantity": 1,
-      "dateLastSold": "- May 2026*"
+      "dateLastSold": "- May 2025*"
     },
     {
       "id": "bo-005",
@@ -141,6 +141,26 @@
       "postage": "22.23",
       "quantity": 1,
       "dateLastSold": "22 May 2025"
+    },
+    {
+      "id": "bo-016",
+      "listingTitle": "Pokemon Cards TAG 10 WAILORD 103 AR BATTLE PARTNERS sv9 2025 GEM MINT PSA",
+      "avgSold": "33.15",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1,
+      "dateLastSold": "7 Jun 2025",
+      "listingUrl": "https://www.ebay.co.uk/itm/297332591341?nordt=true&orig_cvip=true&rt=nc"
+    },
+    {
+      "id": "bo-017",
+      "listingTitle": "Bloodmoon Ursaluna Ex 216/167 Twilight Masquerade Pokemon",
+      "avgSold": "73.66",
+      "currency": "GBP",
+      "postage": "13.75",
+      "quantity": 1,
+      "dateLastSold": "5 Jun 2025",
+      "listingUrl": "https://www.ebay.co.uk/itm/357000940620?nordt=true&orig_cvip=true&rt=nc"
     }
   ]
 } 

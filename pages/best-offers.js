@@ -51,8 +51,28 @@ export default function BestOffers() {
         break;
       case 'date-newest':
         sorted.sort((a, b) => {
-          // Simple date comparison - may need refinement
-          return new Date(b.dateLastSold) - new Date(a.dateLastSold);
+          // Parse dates in format "7 Jun 2025" or similar
+          const parseDate = (dateStr) => {
+            if (!dateStr || dateStr.includes('*') || dateStr.includes('%') || dateStr.includes('-')) {
+              return new Date(0); // Put invalid dates at the end
+            }
+            
+            try {
+              const date = new Date(dateStr);
+              // Check if the parsed date is valid
+              if (isNaN(date.getTime())) {
+                return new Date(0);
+              }
+              return date;
+            } catch (e) {
+              return new Date(0);
+            }
+          };
+          
+          const dateA = parseDate(a.dateLastSold);
+          const dateB = parseDate(b.dateLastSold);
+          
+          return dateB - dateA;
         });
         break;
       default:
@@ -301,6 +321,9 @@ export default function BestOffers() {
                       <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                         Date Last Sold
                       </th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                        eBay Link
+                      </th>
                     </tr>
                   </thead>
                   <tbody className="bg-white divide-y divide-gray-200">
@@ -325,6 +348,23 @@ export default function BestOffers() {
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
                           {offer.dateLastSold}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                          {offer.listingUrl ? (
+                            <a 
+                              href={offer.listingUrl} 
+                              target="_blank" 
+                              rel="noopener noreferrer"
+                              className="text-blue-600 hover:text-blue-800 hover:underline flex items-center gap-1"
+                            >
+                              View
+                              <svg className="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                              </svg>
+                            </a>
+                          ) : (
+                            <span className="text-gray-400">-</span>
+                          )}
                         </td>
                       </tr>
                     ))}

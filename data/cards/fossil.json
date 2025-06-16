@@ -1,0 +1,1253 @@
+{
+  "setInfo": {
+    "name": "Fossil",
+    "description": "Pokemon Fossil expansion set - Third set in the original Pokemon TCG featuring prehistoric Pokemon",
+    "lastUpdated": "2025-06-16",
+    "setCode": "FO",
+    "totalCards": 62,
+    "releaseDate": "1999-10-10",
+    "tagSales": 0
+  },
+  "cards": [
+    {
+      "id": "fossil-01",
+      "name": "Aerodactyl",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "01",
+      "fullNumber": "1/62",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Aerodactyl",
+        "FO 1",
+        "Fossil 1",
+        "1/62",
+        "Fossil Aerodactyl"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/01.png"
+    },
+    {
+      "id": "fossil-02",
+      "name": "Articuno",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "02",
+      "fullNumber": "2/62",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Articuno",
+        "FO 2",
+        "Fossil 2",
+        "2/62",
+        "Fossil Articuno"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/02.png"
+    },
+    {
+      "id": "fossil-03",
+      "name": "Ditto",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "03",
+      "fullNumber": "3/62",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Ditto",
+        "FO 3",
+        "Fossil 3",
+        "3/62",
+        "Fossil Ditto"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/03.png"
+    },
+    {
+      "id": "fossil-04",
+      "name": "Dragonite",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "04",
+      "fullNumber": "4/62",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Dragonite",
+        "FO 4",
+        "Fossil 4",
+        "4/62",
+        "Fossil Dragonite"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/04.png"
+    },
+    {
+      "id": "fossil-05",
+      "name": "Gengar",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "05",
+      "fullNumber": "5/62",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Gengar",
+        "FO 5",
+        "Fossil 5",
+        "5/62",
+        "Fossil Gengar"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/05.png"
+    },
+    {
+      "id": "fossil-06",
+      "name": "Haunter",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "06",
+      "fullNumber": "6/62",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Haunter",
+        "FO 6",
+        "Fossil 6",
+        "6/62",
+        "Fossil Haunter"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/06.png"
+    },
+    {
+      "id": "fossil-07",
+      "name": "Hitmonlee",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "07",
+      "fullNumber": "7/62",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Hitmonlee",
+        "FO 7",
+        "Fossil 7",
+        "7/62",
+        "Fossil Hitmonlee"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/07.png"
+    },
+    {
+      "id": "fossil-08",
+      "name": "Hypno",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "08",
+      "fullNumber": "8/62",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Hypno",
+        "FO 8",
+        "Fossil 8",
+        "8/62",
+        "Fossil Hypno"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/08.png"
+    },
+    {
+      "id": "fossil-09",
+      "name": "Kabutops",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "09",
+      "fullNumber": "9/62",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Kabutops",
+        "FO 9",
+        "Fossil 9",
+        "9/62",
+        "Fossil Kabutops"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/09.png"
+    },
+    {
+      "id": "fossil-10",
+      "name": "Lapras",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "10",
+      "fullNumber": "10/62",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Lapras",
+        "FO 10",
+        "Fossil 10",
+        "10/62",
+        "Fossil Lapras"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/10.png"
+    },
+    {
+      "id": "fossil-11",
+      "name": "Magneton",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "11",
+      "fullNumber": "11/62",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Magneton",
+        "FO 11",
+        "Fossil 11",
+        "11/62",
+        "Fossil Magneton"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/11.png"
+    },
+    {
+      "id": "fossil-12",
+      "name": "Moltres",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "12",
+      "fullNumber": "12/62",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Moltres",
+        "FO 12",
+        "Fossil 12",
+        "12/62",
+        "Fossil Moltres"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/12.png"
+    },
+    {
+      "id": "fossil-13",
+      "name": "Muk",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "13",
+      "fullNumber": "13/62",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Muk",
+        "FO 13",
+        "Fossil 13",
+        "13/62",
+        "Fossil Muk"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/13.png"
+    },
+    {
+      "id": "fossil-14",
+      "name": "Raichu",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "14",
+      "fullNumber": "14/62",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Raichu",
+        "FO 14",
+        "Fossil 14",
+        "14/62",
+        "Fossil Raichu"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/14.png"
+    },
+    {
+      "id": "fossil-15",
+      "name": "Zapdos",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "15",
+      "fullNumber": "15/62",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Zapdos",
+        "FO 15",
+        "Fossil 15",
+        "15/62",
+        "Fossil Zapdos"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/15.png"
+    },
+    {
+      "id": "fossil-16",
+      "name": "Aerodactyl",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "16",
+      "fullNumber": "16/62",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Aerodactyl",
+        "FO 16",
+        "Fossil 16",
+        "16/62",
+        "Fossil Aerodactyl"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/16.png"
+    },
+    {
+      "id": "fossil-17",
+      "name": "Articuno",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "17",
+      "fullNumber": "17/62",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Articuno",
+        "FO 17",
+        "Fossil 17",
+        "17/62",
+        "Fossil Articuno"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/17.png"
+    },
+    {
+      "id": "fossil-18",
+      "name": "Ditto",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "18",
+      "fullNumber": "18/62",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Ditto",
+        "FO 18",
+        "Fossil 18",
+        "18/62",
+        "Fossil Ditto"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/18.png"
+    },
+    {
+      "id": "fossil-19",
+      "name": "Dragonite",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "19",
+      "fullNumber": "19/62",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Dragonite",
+        "FO 19",
+        "Fossil 19",
+        "19/62",
+        "Fossil Dragonite"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/19.png"
+    },
+    {
+      "id": "fossil-20",
+      "name": "Gengar",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "20",
+      "fullNumber": "20/62",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Gengar",
+        "FO 20",
+        "Fossil 20",
+        "20/62",
+        "Fossil Gengar"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/20.png"
+    },
+    {
+      "id": "fossil-21",
+      "name": "Haunter",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "21",
+      "fullNumber": "21/62",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Haunter",
+        "FO 21",
+        "Fossil 21",
+        "21/62",
+        "Fossil Haunter"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/21.png"
+    },
+    {
+      "id": "fossil-22",
+      "name": "Hitmonlee",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "22",
+      "fullNumber": "22/62",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Hitmonlee",
+        "FO 22",
+        "Fossil 22",
+        "22/62",
+        "Fossil Hitmonlee"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/22.png"
+    },
+    {
+      "id": "fossil-23",
+      "name": "Hypno",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "23",
+      "fullNumber": "23/62",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Hypno",
+        "FO 23",
+        "Fossil 23",
+        "23/62",
+        "Fossil Hypno"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/23.png"
+    },
+    {
+      "id": "fossil-24",
+      "name": "Kabutops",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "24",
+      "fullNumber": "24/62",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Kabutops",
+        "FO 24",
+        "Fossil 24",
+        "24/62",
+        "Fossil Kabutops"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/24.png"
+    },
+    {
+      "id": "fossil-25",
+      "name": "Lapras",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "25",
+      "fullNumber": "25/62",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Lapras",
+        "FO 25",
+        "Fossil 25",
+        "25/62",
+        "Fossil Lapras"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/25.png"
+    },
+    {
+      "id": "fossil-26",
+      "name": "Magneton",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "26",
+      "fullNumber": "26/62",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Magneton",
+        "FO 26",
+        "Fossil 26",
+        "26/62",
+        "Fossil Magneton"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/26.png"
+    },
+    {
+      "id": "fossil-27",
+      "name": "Moltres",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "27",
+      "fullNumber": "27/62",
+      "rarity": "Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Moltres",
+        "FO 27",
+        "Fossil 27",
+        "27/62",
+        "Fossil Moltres"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/27.png"
+    },
+    {
+      "id": "fossil-28",
+      "name": "Muk",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "28",
+      "fullNumber": "28/62",
+      "rarity": "Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Muk",
+        "FO 28",
+        "Fossil 28",
+        "28/62",
+        "Fossil Muk"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/28.png"
+    },
+    {
+      "id": "fossil-29",
+      "name": "Raichu",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "29",
+      "fullNumber": "29/62",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Raichu",
+        "FO 29",
+        "Fossil 29",
+        "29/62",
+        "Fossil Raichu"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/29.png"
+    },
+    {
+      "id": "fossil-30",
+      "name": "Zapdos",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "30",
+      "fullNumber": "30/62",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Zapdos",
+        "FO 30",
+        "Fossil 30",
+        "30/62",
+        "Fossil Zapdos"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/30.png"
+    },
+    {
+      "id": "fossil-31",
+      "name": "Arbok",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "31",
+      "fullNumber": "31/62",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Arbok",
+        "FO 31",
+        "Fossil 31",
+        "31/62",
+        "Fossil Arbok"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/31.png"
+    },
+    {
+      "id": "fossil-32",
+      "name": "Cloyster",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "32",
+      "fullNumber": "32/62",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Cloyster",
+        "FO 32",
+        "Fossil 32",
+        "32/62",
+        "Fossil Cloyster"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/32.png"
+    },
+    {
+      "id": "fossil-33",
+      "name": "Gastly",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "33",
+      "fullNumber": "33/62",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Gastly",
+        "FO 33",
+        "Fossil 33",
+        "33/62",
+        "Fossil Gastly"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/33.png"
+    },
+    {
+      "id": "fossil-34",
+      "name": "Golbat",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "34",
+      "fullNumber": "34/62",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Golbat",
+        "FO 34",
+        "Fossil 34",
+        "34/62",
+        "Fossil Golbat"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/34.png"
+    },
+    {
+      "id": "fossil-35",
+      "name": "Golduck",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "35",
+      "fullNumber": "35/62",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Golduck",
+        "FO 35",
+        "Fossil 35",
+        "35/62",
+        "Fossil Golduck"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/35.png"
+    },
+    {
+      "id": "fossil-36",
+      "name": "Golem",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "36",
+      "fullNumber": "36/62",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Golem",
+        "FO 36",
+        "Fossil 36",
+        "36/62",
+        "Fossil Golem"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/36.png"
+    },
+    {
+      "id": "fossil-37",
+      "name": "Graveler",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "37",
+      "fullNumber": "37/62",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Graveler",
+        "FO 37",
+        "Fossil 37",
+        "37/62",
+        "Fossil Graveler"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/37.png"
+    },
+    {
+      "id": "fossil-38",
+      "name": "Kingler",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "38",
+      "fullNumber": "38/62",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Kingler",
+        "FO 38",
+        "Fossil 38",
+        "38/62",
+        "Fossil Kingler"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/38.png"
+    },
+    {
+      "id": "fossil-39",
+      "name": "Magmar",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "39",
+      "fullNumber": "39/62",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Magmar",
+        "FO 39",
+        "Fossil 39",
+        "39/62",
+        "Fossil Magmar"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/39.png"
+    },
+    {
+      "id": "fossil-40",
+      "name": "Omastar",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "40",
+      "fullNumber": "40/62",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Omastar",
+        "FO 40",
+        "Fossil 40",
+        "40/62",
+        "Fossil Omastar"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/40.png"
+    },
+    {
+      "id": "fossil-41",
+      "name": "Sandslash",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "41",
+      "fullNumber": "41/62",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Sandslash",
+        "FO 41",
+        "Fossil 41",
+        "41/62",
+        "Fossil Sandslash"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/41.png"
+    },
+    {
+      "id": "fossil-42",
+      "name": "Seadra",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "42",
+      "fullNumber": "42/62",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Seadra",
+        "FO 42",
+        "Fossil 42",
+        "42/62",
+        "Fossil Seadra"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/42.png"
+    },
+    {
+      "id": "fossil-43",
+      "name": "Slowbro",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "43",
+      "fullNumber": "43/62",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Slowbro",
+        "FO 43",
+        "Fossil 43",
+        "43/62",
+        "Fossil Slowbro"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/43.png"
+    },
+    {
+      "id": "fossil-44",
+      "name": "Tentacruel",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "44",
+      "fullNumber": "44/62",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Tentacruel",
+        "FO 44",
+        "Fossil 44",
+        "44/62",
+        "Fossil Tentacruel"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/44.png"
+    },
+    {
+      "id": "fossil-45",
+      "name": "Weezing",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "45",
+      "fullNumber": "45/62",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Weezing",
+        "FO 45",
+        "Fossil 45",
+        "45/62",
+        "Fossil Weezing"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/45.png"
+    },
+    {
+      "id": "fossil-46",
+      "name": "Ekans",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "46",
+      "fullNumber": "46/62",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Ekans",
+        "FO 46",
+        "Fossil 46",
+        "46/62",
+        "Fossil Ekans"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/46.png"
+    },
+    {
+      "id": "fossil-47",
+      "name": "Geodude",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "47",
+      "fullNumber": "47/62",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Geodude",
+        "FO 47",
+        "Fossil 47",
+        "47/62",
+        "Fossil Geodude"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/47.png"
+    },
+    {
+      "id": "fossil-48",
+      "name": "Grimer",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "48",
+      "fullNumber": "48/62",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Grimer",
+        "FO 48",
+        "Fossil 48",
+        "48/62",
+        "Fossil Grimer"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/48.png"
+    },
+    {
+      "id": "fossil-49",
+      "name": "Horsea",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "49",
+      "fullNumber": "49/62",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Horsea",
+        "FO 49",
+        "Fossil 49",
+        "49/62",
+        "Fossil Horsea"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/49.png"
+    },
+    {
+      "id": "fossil-50",
+      "name": "Kabuto",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "50",
+      "fullNumber": "50/62",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Kabuto",
+        "FO 50",
+        "Fossil 50",
+        "50/62",
+        "Fossil Kabuto"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/50.png"
+    },
+    {
+      "id": "fossil-51",
+      "name": "Krabby",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "51",
+      "fullNumber": "51/62",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Krabby",
+        "FO 51",
+        "Fossil 51",
+        "51/62",
+        "Fossil Krabby"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/51.png"
+    },
+    {
+      "id": "fossil-52",
+      "name": "Omanyte",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "52",
+      "fullNumber": "52/62",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Omanyte",
+        "FO 52",
+        "Fossil 52",
+        "52/62",
+        "Fossil Omanyte"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/52.png"
+    },
+    {
+      "id": "fossil-53",
+      "name": "Psyduck",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "53",
+      "fullNumber": "53/62",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Psyduck",
+        "FO 53",
+        "Fossil 53",
+        "53/62",
+        "Fossil Psyduck"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/53.png"
+    },
+    {
+      "id": "fossil-54",
+      "name": "Shellder",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "54",
+      "fullNumber": "54/62",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Shellder",
+        "FO 54",
+        "Fossil 54",
+        "54/62",
+        "Fossil Shellder"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/54.png"
+    },
+    {
+      "id": "fossil-55",
+      "name": "Slowpoke",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "55",
+      "fullNumber": "55/62",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Slowpoke",
+        "FO 55",
+        "Fossil 55",
+        "55/62",
+        "Fossil Slowpoke"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/55.png"
+    },
+    {
+      "id": "fossil-56",
+      "name": "Tentacool",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "56",
+      "fullNumber": "56/62",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Tentacool",
+        "FO 56",
+        "Fossil 56",
+        "56/62",
+        "Fossil Tentacool"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/56.png"
+    },
+    {
+      "id": "fossil-57",
+      "name": "Zubat",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "57",
+      "fullNumber": "57/62",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Zubat",
+        "FO 57",
+        "Fossil 57",
+        "57/62",
+        "Fossil Zubat"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/57.png"
+    },
+    {
+      "id": "fossil-58",
+      "name": "Mr. Fuji",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "58",
+      "fullNumber": "58/62",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Mr. Fuji",
+        "FO 58",
+        "Fossil 58",
+        "58/62",
+        "Fossil Mr. Fuji"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/58.png"
+    },
+    {
+      "id": "fossil-59",
+      "name": "Energy Search",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "59",
+      "fullNumber": "59/62",
+      "rarity": "Common",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Energy Search",
+        "FO 59",
+        "Fossil 59",
+        "59/62",
+        "Fossil Energy Search"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/59.png"
+    },
+    {
+      "id": "fossil-60",
+      "name": "Gambler",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "60",
+      "fullNumber": "60/62",
+      "rarity": "Common",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Gambler",
+        "FO 60",
+        "Fossil 60",
+        "60/62",
+        "Fossil Gambler"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/60.png"
+    },
+    {
+      "id": "fossil-61",
+      "name": "Recycle",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "61",
+      "fullNumber": "61/62",
+      "rarity": "Common",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Recycle",
+        "FO 61",
+        "Fossil 61",
+        "61/62",
+        "Fossil Recycle"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/61.png"
+    },
+    {
+      "id": "fossil-62",
+      "name": "Mysterious Fossil",
+      "setName": "Fossil",
+      "setCode": "FO",
+      "cardNumber": "62",
+      "fullNumber": "62/62",
+      "rarity": "Common",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Mysterious Fossil",
+        "FO 62",
+        "Fossil 62",
+        "62/62",
+        "Fossil Mysterious Fossil"
+      ],
+      "imageUrl": "https://images.pokemontcg.io/fossil/62.png"
+    }
+  ]
+}
