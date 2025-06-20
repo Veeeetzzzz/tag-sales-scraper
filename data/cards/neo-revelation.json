@@ -1,0 +1,1333 @@
+{
+  "setInfo": {
+    "name": "Neo Revelation",
+    "description": "Neo Revelation set from September 2001 - Complete 66 card set featuring legendary Pokemon and the first Shining cards",
+    "lastUpdated": "2024/12/19",
+    "setCode": "NEO3",
+    "totalCards": 66,
+    "releaseDate": "2001/09/21",
+    "tagSales": 0
+  },
+  "cards": [
+    {
+      "id": "neo3-001",
+      "name": "Ampharos",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "1",
+      "fullNumber": "1/64",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Ampharos",
+        "NEO3 1",
+        "Neo Revelation 1",
+        "1/64",
+        "Ampharos Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/1.jpg"
+    },
+    {
+      "id": "neo3-002",
+      "name": "Blissey",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "2",
+      "fullNumber": "2/64",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Blissey",
+        "NEO3 2",
+        "Neo Revelation 2",
+        "2/64",
+        "Blissey Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/2.jpg"
+    },
+    {
+      "id": "neo3-003",
+      "name": "Celebi",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "3",
+      "fullNumber": "3/64",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Celebi",
+        "NEO3 3",
+        "Neo Revelation 3",
+        "3/64",
+        "Celebi Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/3.jpg"
+    },
+    {
+      "id": "neo3-004",
+      "name": "Crobat",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "4",
+      "fullNumber": "4/64",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Crobat",
+        "NEO3 4",
+        "Neo Revelation 4",
+        "4/64",
+        "Crobat Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/4.jpg"
+    },
+    {
+      "id": "neo3-005",
+      "name": "Delibird",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "5",
+      "fullNumber": "5/64",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Delibird",
+        "NEO3 5",
+        "Neo Revelation 5",
+        "5/64",
+        "Delibird Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/5.jpg"
+    },
+    {
+      "id": "neo3-006",
+      "name": "Entei",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "6",
+      "fullNumber": "6/64",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Entei",
+        "NEO3 6",
+        "Neo Revelation 6",
+        "6/64",
+        "Entei Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/6.jpg"
+    },
+    {
+      "id": "neo3-007",
+      "name": "Ho-Oh",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "7",
+      "fullNumber": "7/64",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Ho-Oh",
+        "NEO3 7",
+        "Neo Revelation 7",
+        "7/64",
+        "Ho-Oh Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/7.jpg"
+    },
+    {
+      "id": "neo3-008",
+      "name": "Houndoom",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "8",
+      "fullNumber": "8/64",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Houndoom",
+        "NEO3 8",
+        "Neo Revelation 8",
+        "8/64",
+        "Houndoom Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/8.jpg"
+    },
+    {
+      "id": "neo3-009",
+      "name": "Jumpluff",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "9",
+      "fullNumber": "9/64",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Jumpluff",
+        "NEO3 9",
+        "Neo Revelation 9",
+        "9/64",
+        "Jumpluff Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/9.jpg"
+    },
+    {
+      "id": "neo3-010",
+      "name": "Magneton",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "10",
+      "fullNumber": "10/64",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Magneton",
+        "NEO3 10",
+        "Neo Revelation 10",
+        "10/64",
+        "Magneton Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/10.jpg"
+    },
+    {
+      "id": "neo3-011",
+      "name": "Misdreavus",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "11",
+      "fullNumber": "11/64",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Misdreavus",
+        "NEO3 11",
+        "Neo Revelation 11",
+        "11/64",
+        "Misdreavus Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/11.jpg"
+    },
+    {
+      "id": "neo3-012",
+      "name": "Porygon2",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "12",
+      "fullNumber": "12/64",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Porygon2",
+        "NEO3 12",
+        "Neo Revelation 12",
+        "12/64",
+        "Porygon2 Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/12.jpg"
+    },
+    {
+      "id": "neo3-013",
+      "name": "Raikou",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "13",
+      "fullNumber": "13/64",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Raikou",
+        "NEO3 13",
+        "Neo Revelation 13",
+        "13/64",
+        "Raikou Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/13.jpg"
+    },
+    {
+      "id": "neo3-014",
+      "name": "Suicune",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "14",
+      "fullNumber": "14/64",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Suicune",
+        "NEO3 14",
+        "Neo Revelation 14",
+        "14/64",
+        "Suicune Rare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/14.jpg"
+    },
+    {
+      "id": "neo3-015",
+      "name": "Aerodactyl",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "15",
+      "fullNumber": "15/64",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Aerodactyl",
+        "NEO3 15",
+        "Neo Revelation 15",
+        "15/64",
+        "Aerodactyl Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/15.jpg"
+    },
+    {
+      "id": "neo3-016",
+      "name": "Celebi",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "16",
+      "fullNumber": "16/64",
+      "rarity": "Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Celebi",
+        "NEO3 16",
+        "Neo Revelation 16",
+        "16/64",
+        "Celebi Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/16.jpg"
+    },
+    {
+      "id": "neo3-017",
+      "name": "Entei",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "17",
+      "fullNumber": "17/64",
+      "rarity": "Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Entei",
+        "NEO3 17",
+        "Neo Revelation 17",
+        "17/64",
+        "Entei Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/17.jpg"
+    },
+    {
+      "id": "neo3-018",
+      "name": "Ho-Oh",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "18",
+      "fullNumber": "18/64",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Ho-Oh",
+        "NEO3 18",
+        "Neo Revelation 18",
+        "18/64",
+        "Ho-Oh Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/18.jpg"
+    },
+    {
+      "id": "neo3-019",
+      "name": "Kingdra",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "19",
+      "fullNumber": "19/64",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Kingdra",
+        "NEO3 19",
+        "Neo Revelation 19",
+        "19/64",
+        "Kingdra Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/19.jpg"
+    },
+    {
+      "id": "neo3-020",
+      "name": "Lugia",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "20",
+      "fullNumber": "20/64",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Lugia",
+        "NEO3 20",
+        "Neo Revelation 20",
+        "20/64",
+        "Lugia Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/20.jpg"
+    },
+    {
+      "id": "neo3-021",
+      "name": "Raichu",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "21",
+      "fullNumber": "21/64",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Raichu",
+        "NEO3 21",
+        "Neo Revelation 21",
+        "21/64",
+        "Raichu Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/21.jpg"
+    },
+    {
+      "id": "neo3-022",
+      "name": "Raikou",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "22",
+      "fullNumber": "22/64",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Raikou",
+        "NEO3 22",
+        "Neo Revelation 22",
+        "22/64",
+        "Raikou Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/22.jpg"
+    },
+    {
+      "id": "neo3-023",
+      "name": "Skarmory",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "23",
+      "fullNumber": "23/64",
+      "rarity": "Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Skarmory",
+        "NEO3 23",
+        "Neo Revelation 23",
+        "23/64",
+        "Skarmory Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/23.jpg"
+    },
+    {
+      "id": "neo3-024",
+      "name": "Sneasel",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "24",
+      "fullNumber": "24/64",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Sneasel",
+        "NEO3 24",
+        "Neo Revelation 24",
+        "24/64",
+        "Sneasel Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/24.jpg"
+    },
+    {
+      "id": "neo3-025",
+      "name": "Starmie",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "25",
+      "fullNumber": "25/64",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Starmie",
+        "NEO3 25",
+        "Neo Revelation 25",
+        "25/64",
+        "Starmie Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/25.jpg"
+    },
+    {
+      "id": "neo3-026",
+      "name": "Sudowoodo",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "26",
+      "fullNumber": "26/64",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Sudowoodo",
+        "NEO3 26",
+        "Neo Revelation 26",
+        "26/64",
+        "Sudowoodo Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/26.jpg"
+    },
+    {
+      "id": "neo3-027",
+      "name": "Suicune",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "27",
+      "fullNumber": "27/64",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Suicune",
+        "NEO3 27",
+        "Neo Revelation 27",
+        "27/64",
+        "Suicune Rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/27.jpg"
+    },
+    {
+      "id": "neo3-028",
+      "name": "Flaaffy",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "28",
+      "fullNumber": "28/64",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Flaaffy",
+        "NEO3 28",
+        "Neo Revelation 28",
+        "28/64",
+        "Flaaffy Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/28.jpg"
+    },
+    {
+      "id": "neo3-029",
+      "name": "Golbat",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "29",
+      "fullNumber": "29/64",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Golbat",
+        "NEO3 29",
+        "Neo Revelation 29",
+        "29/64",
+        "Golbat Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/29.jpg"
+    },
+    {
+      "id": "neo3-030",
+      "name": "Graveler",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "30",
+      "fullNumber": "30/64",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Graveler",
+        "NEO3 30",
+        "Neo Revelation 30",
+        "30/64",
+        "Graveler Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/30.jpg"
+    },
+    {
+      "id": "neo3-031",
+      "name": "Jynx",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "31",
+      "fullNumber": "31/64",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Jynx",
+        "NEO3 31",
+        "Neo Revelation 31",
+        "31/64",
+        "Jynx Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/31.jpg"
+    },
+    {
+      "id": "neo3-032",
+      "name": "Lanturn",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "32",
+      "fullNumber": "32/64",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Lanturn",
+        "NEO3 32",
+        "Neo Revelation 32",
+        "32/64",
+        "Lanturn Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/32.jpg"
+    },
+    {
+      "id": "neo3-033",
+      "name": "Magcargo",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "33",
+      "fullNumber": "33/64",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Magcargo",
+        "NEO3 33",
+        "Neo Revelation 33",
+        "33/64",
+        "Magcargo Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/33.jpg"
+    },
+    {
+      "id": "neo3-034",
+      "name": "Octillery",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "34",
+      "fullNumber": "34/64",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Octillery",
+        "NEO3 34",
+        "Neo Revelation 34",
+        "34/64",
+        "Octillery Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/34.jpg"
+    },
+    {
+      "id": "neo3-035",
+      "name": "Parasect",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "35",
+      "fullNumber": "35/64",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Parasect",
+        "NEO3 35",
+        "Neo Revelation 35",
+        "35/64",
+        "Parasect Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/35.jpg"
+    },
+    {
+      "id": "neo3-036",
+      "name": "Piloswine",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "36",
+      "fullNumber": "36/64",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Piloswine",
+        "NEO3 36",
+        "Neo Revelation 36",
+        "36/64",
+        "Piloswine Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/36.jpg"
+    },
+    {
+      "id": "neo3-037",
+      "name": "Seaking",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "37",
+      "fullNumber": "37/64",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Seaking",
+        "NEO3 37",
+        "Neo Revelation 37",
+        "37/64",
+        "Seaking Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/37.jpg"
+    },
+    {
+      "id": "neo3-038",
+      "name": "Stantler",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "38",
+      "fullNumber": "38/64",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Stantler",
+        "NEO3 38",
+        "Neo Revelation 38",
+        "38/64",
+        "Stantler Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/38.jpg"
+    },
+    {
+      "id": "neo3-039",
+      "name": "Unown B",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "39",
+      "fullNumber": "39/64",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Unown B",
+        "NEO3 39",
+        "Neo Revelation 39",
+        "39/64",
+        "Unown B Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/39.jpg"
+    },
+    {
+      "id": "neo3-040",
+      "name": "Unown Y",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "40",
+      "fullNumber": "40/64",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Unown Y",
+        "NEO3 40",
+        "Neo Revelation 40",
+        "40/64",
+        "Unown Y Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/40.jpg"
+    },
+    {
+      "id": "neo3-041",
+      "name": "Aipom",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "41",
+      "fullNumber": "41/64",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Aipom",
+        "NEO3 41",
+        "Neo Revelation 41",
+        "41/64",
+        "Aipom"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/41.jpg"
+    },
+    {
+      "id": "neo3-042",
+      "name": "Chinchou",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "42",
+      "fullNumber": "42/64",
+      "rarity": "Common",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Chinchou",
+        "NEO3 42",
+        "Neo Revelation 42",
+        "42/64",
+        "Chinchou"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/42.jpg"
+    },
+    {
+      "id": "neo3-043",
+      "name": "Farfetch'd",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "43",
+      "fullNumber": "43/64",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Farfetch'd",
+        "NEO3 43",
+        "Neo Revelation 43",
+        "43/64",
+        "Farfetch'd"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/43.jpg"
+    },
+    {
+      "id": "neo3-044",
+      "name": "Geodude",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "44",
+      "fullNumber": "44/64",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Geodude",
+        "NEO3 44",
+        "Neo Revelation 44",
+        "44/64",
+        "Geodude"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/44.jpg"
+    },
+    {
+      "id": "neo3-045",
+      "name": "Goldeen",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "45",
+      "fullNumber": "45/64",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Goldeen",
+        "NEO3 45",
+        "Neo Revelation 45",
+        "45/64",
+        "Goldeen"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/45.jpg"
+    },
+    {
+      "id": "neo3-046",
+      "name": "Murkrow",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "46",
+      "fullNumber": "46/64",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Murkrow",
+        "NEO3 46",
+        "Neo Revelation 46",
+        "46/64",
+        "Murkrow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/46.jpg"
+    },
+    {
+      "id": "neo3-047",
+      "name": "Paras",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "47",
+      "fullNumber": "47/64",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Paras",
+        "NEO3 47",
+        "Neo Revelation 47",
+        "47/64",
+        "Paras"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/47.jpg"
+    },
+    {
+      "id": "neo3-048",
+      "name": "Quagsire",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "48",
+      "fullNumber": "48/64",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Quagsire",
+        "NEO3 48",
+        "Neo Revelation 48",
+        "48/64",
+        "Quagsire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/48.jpg"
+    },
+    {
+      "id": "neo3-049",
+      "name": "Qwilfish",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "49",
+      "fullNumber": "49/64",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Qwilfish",
+        "NEO3 49",
+        "Neo Revelation 49",
+        "49/64",
+        "Qwilfish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/49.jpg"
+    },
+    {
+      "id": "neo3-050",
+      "name": "Remoraid",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "50",
+      "fullNumber": "50/64",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Remoraid",
+        "NEO3 50",
+        "Neo Revelation 50",
+        "50/64",
+        "Remoraid"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/50.jpg"
+    },
+    {
+      "id": "neo3-051",
+      "name": "Shuckle",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "51",
+      "fullNumber": "51/64",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Shuckle",
+        "NEO3 51",
+        "Neo Revelation 51",
+        "51/64",
+        "Shuckle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/51.jpg"
+    },
+    {
+      "id": "neo3-052",
+      "name": "Skiploom",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "52",
+      "fullNumber": "52/64",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Skiploom",
+        "NEO3 52",
+        "Neo Revelation 52",
+        "52/64",
+        "Skiploom"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/52.jpg"
+    },
+    {
+      "id": "neo3-053",
+      "name": "Slugma",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "53",
+      "fullNumber": "53/64",
+      "rarity": "Common",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Slugma",
+        "NEO3 53",
+        "Neo Revelation 53",
+        "53/64",
+        "Slugma"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/53.jpg"
+    },
+    {
+      "id": "neo3-054",
+      "name": "Smoochum",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "54",
+      "fullNumber": "54/64",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Smoochum",
+        "NEO3 54",
+        "Neo Revelation 54",
+        "54/64",
+        "Smoochum"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/54.jpg"
+    },
+    {
+      "id": "neo3-055",
+      "name": "Snubbull",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "55",
+      "fullNumber": "55/64",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Snubbull",
+        "NEO3 55",
+        "Neo Revelation 55",
+        "55/64",
+        "Snubbull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/55.jpg"
+    },
+    {
+      "id": "neo3-056",
+      "name": "Staryu",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "56",
+      "fullNumber": "56/64",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Staryu",
+        "NEO3 56",
+        "Neo Revelation 56",
+        "56/64",
+        "Staryu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/56.jpg"
+    },
+    {
+      "id": "neo3-057",
+      "name": "Swinub",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "57",
+      "fullNumber": "57/64",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Swinub",
+        "NEO3 57",
+        "Neo Revelation 57",
+        "57/64",
+        "Swinub"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/57.jpg"
+    },
+    {
+      "id": "neo3-058",
+      "name": "Unown K",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "58",
+      "fullNumber": "58/64",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Unown K",
+        "NEO3 58",
+        "Neo Revelation 58",
+        "58/64",
+        "Unown K"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/58.jpg"
+    },
+    {
+      "id": "neo3-059",
+      "name": "Zubat",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "59",
+      "fullNumber": "59/64",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Zubat",
+        "NEO3 59",
+        "Neo Revelation 59",
+        "59/64",
+        "Zubat"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/59.jpg"
+    },
+    {
+      "id": "neo3-060",
+      "name": "Balloon Berry",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "60",
+      "fullNumber": "60/64",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Balloon Berry",
+        "NEO3 60",
+        "Neo Revelation 60",
+        "60/64",
+        "Balloon Berry Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/60.jpg"
+    },
+    {
+      "id": "neo3-061",
+      "name": "Healing Field",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "61",
+      "fullNumber": "61/64",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Healing Field",
+        "NEO3 61",
+        "Neo Revelation 61",
+        "61/64",
+        "Healing Field Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/61.jpg"
+    },
+    {
+      "id": "neo3-062",
+      "name": "Pokémon Breeder Fields",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "62",
+      "fullNumber": "62/64",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Pokémon Breeder Fields",
+        "NEO3 62",
+        "Neo Revelation 62",
+        "62/64",
+        "Pokémon Breeder Fields Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/62.jpg"
+    },
+    {
+      "id": "neo3-063",
+      "name": "Rocket's Hideout",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "63",
+      "fullNumber": "63/64",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Rocket's Hideout",
+        "NEO3 63",
+        "Neo Revelation 63",
+        "63/64",
+        "Rocket's Hideout Uncommon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/63.jpg"
+    },
+    {
+      "id": "neo3-064",
+      "name": "Old Rod",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "64",
+      "fullNumber": "64/64",
+      "rarity": "Common",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Old Rod",
+        "NEO3 64",
+        "Neo Revelation 64",
+        "64/64",
+        "Old Rod"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/64.jpg"
+    },
+    {
+      "id": "neo3-065",
+      "name": "Shining Gyarados",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "65",
+      "fullNumber": "65/64",
+      "rarity": "SuperRare Holo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Shining Gyarados",
+        "NEO3 65",
+        "Neo Revelation 65",
+        "65/64",
+        "Shining Gyarados SuperRare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/65.jpg"
+    },
+    {
+      "id": "neo3-066",
+      "name": "Shining Magikarp",
+      "setName": "Neo Revelation",
+      "setCode": "NEO3",
+      "cardNumber": "66",
+      "fullNumber": "66/64",
+      "rarity": "SuperRare Holo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Shining Magikarp",
+        "NEO3 66",
+        "Neo Revelation 66",
+        "66/64",
+        "Shining Magikarp SuperRare Holo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/neorevelation/66.jpg"
+    }
+  ]
+}
