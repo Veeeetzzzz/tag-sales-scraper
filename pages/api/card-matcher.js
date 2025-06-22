@@ -9,8 +9,8 @@ class CardMatcher {
     this.initialized = false;
   }
 
-  async loadCards() {
-    if (this.initialized) return;
+  async loadCards(forceReload = false) {
+    if (this.initialized && !forceReload) return;
     
     try {
       const cardsDir = path.join(process.cwd(), 'data', 'cards');
@@ -44,11 +44,22 @@ class CardMatcher {
       
       this.initialized = true;
       console.log(`Loaded ${this.cards.length} cards from ${Object.keys(this.sets).length} sets for matching`);
-    } catch (error) {
-      console.error('Error loading card database:', error);
-      this.cards = [];
-      this.sets = {};
-    }
+      
+      // Clear any previous data when force reloading
+      if (forceReload) {
+        console.log('Force reloaded card database with updated data');
+      }
+          } catch (error) {
+        console.error('Error loading card database:', error);
+        this.cards = [];
+        this.sets = {};
+      }
+      
+      // Reset state when force reloading to ensure clean state
+      if (forceReload) {
+        this.cards = [];
+        this.sets = {};
+      }
   }
 
   // Get all available sets
@@ -71,7 +82,7 @@ class CardMatcher {
 
     for (const card of this.cards) {
       const score = this.calculateMatchScore(normalizedTitle, card);
-      if (score > bestScore && score > 0.7) { // 70% confidence threshold for good balance
+      if (score > bestScore && score > 0.5) { // 50% confidence threshold for better matching
         bestScore = score;
         bestMatch = {
           card,
@@ -93,21 +104,23 @@ class CardMatcher {
       return 0;
     }
 
-    // Check each matching keyword - safely handle missing matchingKeywords
+    // Check each matching keyword - but weight them differently
     const keywords = card.matchingKeywords || [];
+    let keywordMatches = 0;
+    
     for (const keyword of keywords) {
       const normalizedKeyword = keyword.toLowerCase();
-      maxPossibleScore += 1;
-
+      
       if (title.includes(normalizedKeyword)) {
-        // Exact match gets full points
-        score += 1;
-      } else {
-        // Partial match using fuzzy logic
-        const partialScore = this.fuzzyMatch(title, normalizedKeyword);
-        score += partialScore;
+        keywordMatches++;
       }
     }
+    
+    // Calculate keyword score based on percentage of matches, not total count
+    // This prevents dilution from having too many keywords
+    const keywordScore = keywords.length > 0 ? keywordMatches / keywords.length : 0;
+    score += keywordScore * 2; // Weight keywords moderately
+    maxPossibleScore += 2;
 
     // Bonus for card name match - require more precise matching
     const cardNameWords = card.name.toLowerCase().split(' ');
@@ -118,14 +131,43 @@ class CardMatcher {
       }
     }
     const cardNameScore = cardNameWords.length > 0 ? cardNameMatches / cardNameWords.length : 0;
-    score += cardNameScore * 3; // Weight card name very high
-    maxPossibleScore += 3;
+    score += cardNameScore * 4; // Weight card name very high
+    maxPossibleScore += 4;
 
-    // Bonus for set code match
-    if (card.setCode && title.includes(card.setCode.toLowerCase())) {
-      score += 0.5;
+    // Bonus for card number match (very important for Pokemon cards)
+    if (card.fullNumber && title.includes(card.fullNumber)) {
+      score += 2; // High weight for exact card number match
+    } else if (card.cardNumber && title.includes(card.cardNumber + '/')) {
+      score += 1.5; // Partial credit for card number without full format
     }
-    maxPossibleScore += 0.5;
+    maxPossibleScore += 2;
+
+    // Bonus for set identification - check multiple variations
+    let setMatch = false;
+    if (card.setCode && title.includes(card.setCode.toLowerCase())) {
+      setMatch = true;
+    }
+    // Check for set name variations
+    if (card.setName) {
+      const setNameVariations = [
+        card.setName.toLowerCase(),
+        card.setName.toLowerCase().replace(/\s+/g, ''),
+        card.setName.toLowerCase().replace(/[^a-z0-9]/g, ''),
+        card.setName.toLowerCase().replace('&', 'and')
+      ];
+      
+      for (const variation of setNameVariations) {
+        if (title.includes(variation)) {
+          setMatch = true;
+          break;
+        }
+      }
+    }
+    
+    if (setMatch) {
+      score += 1;
+    }
+    maxPossibleScore += 1;
 
     // Penalty for mismatched grading companies in title (but not TAG since that's what we're looking for)
     if (title.includes('psa') || title.includes('cgc') || title.includes('bgs')) {
@@ -264,7 +306,17 @@ export default async function handler(req, res) {
     
     if (req.method === 'GET') {
       // Return all sets information
-      const { set } = req.query;
+      const { set, action } = req.query;
+      
+      if (action === 'reload') {
+        // Force reload the card database
+        await matcher.loadCards(true);
+        return res.status(200).json({
+          success: true,
+          message: 'Card database reloaded successfully',
+          timestamp: new Date().toISOString()
+        });
+      }
       
       if (set) {
         // Get specific set
