@@ -88,8 +88,8 @@ class CardMatcher {
     let score = 0;
     let maxPossibleScore = 0;
 
-    // Early filter: must contain "pokemon" to be considered valid
-    if (!title.includes('pokemon')) {
+    // Early filter: must contain "pokemon" OR "tag" (for TAG graded cards) to be considered valid
+    if (!title.includes('pokemon') && !title.includes('tag')) {
       return 0;
     }
 
@@ -127,7 +127,7 @@ class CardMatcher {
     }
     maxPossibleScore += 0.5;
 
-    // Penalty for mismatched grading companies in title
+    // Penalty for mismatched grading companies in title (but not TAG since that's what we're looking for)
     if (title.includes('psa') || title.includes('cgc') || title.includes('bgs')) {
       score *= 0.1; // Heavy penalty for wrong grading company
     }

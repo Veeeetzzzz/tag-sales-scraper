@@ -1,0 +1,3316 @@
+{
+  "setInfo": {
+    "name": "Darkness Ablaze",
+    "description": "A major expansion released in August 2020 featuring powerful Pokémon V and VMAX cards. Notable for introducing Eternatus VMAX and featuring popular Pokémon like Charizard, Crobat, and Scizor in their V and VMAX forms.",
+    "setCode": "darkness-ablaze",
+    "totalCards": 201,
+    "releaseDate": "August 14, 2020",
+    "tagSales": []
+  },
+  "cards": [
+    {
+      "id": "darkness-ablaze-001",
+      "name": "ButterfreeV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 1,
+      "fullNumber": "001/189",
+      "rarity": "Ultra Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "butterfreev",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/1.jpg"
+    },
+    {
+      "id": "darkness-ablaze-002",
+      "name": "ButterfreeVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 2,
+      "fullNumber": "002/189",
+      "rarity": "Rare VMAX",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "butterfreevmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/2.jpg"
+    },
+    {
+      "id": "darkness-ablaze-003",
+      "name": "Paras",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 3,
+      "fullNumber": "003/189",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "paras"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/3.jpg"
+    },
+    {
+      "id": "darkness-ablaze-004",
+      "name": "Parasect",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 4,
+      "fullNumber": "004/189",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "parasect"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/4.jpg"
+    },
+    {
+      "id": "darkness-ablaze-005",
+      "name": "Carnivine",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 5,
+      "fullNumber": "005/189",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "carnivine"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/5.jpg"
+    },
+    {
+      "id": "darkness-ablaze-006",
+      "name": "Pansage",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 6,
+      "fullNumber": "006/189",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pansage"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/6.jpg"
+    },
+    {
+      "id": "darkness-ablaze-007",
+      "name": "Simisage",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 7,
+      "fullNumber": "007/189",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "simisage"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/7.jpg"
+    },
+    {
+      "id": "darkness-ablaze-008",
+      "name": "Karrablast",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 8,
+      "fullNumber": "008/189",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "karrablast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/8.jpg"
+    },
+    {
+      "id": "darkness-ablaze-009",
+      "name": "Shelmet",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 9,
+      "fullNumber": "009/189",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "shelmet"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/9.jpg"
+    },
+    {
+      "id": "darkness-ablaze-010",
+      "name": "Accelgor",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 10,
+      "fullNumber": "010/189",
+      "rarity": "Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "accelgor"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/10.jpg"
+    },
+    {
+      "id": "darkness-ablaze-011",
+      "name": "Rowlet",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 11,
+      "fullNumber": "011/189",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rowlet"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/11.jpg"
+    },
+    {
+      "id": "darkness-ablaze-012",
+      "name": "Dartrix",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 12,
+      "fullNumber": "012/189",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "dartrix"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/12.jpg"
+    },
+    {
+      "id": "darkness-ablaze-013",
+      "name": "Decidueye",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 13,
+      "fullNumber": "013/189",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "decidueye"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/13.jpg"
+    },
+    {
+      "id": "darkness-ablaze-014",
+      "name": "Bounsweet",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 14,
+      "fullNumber": "014/189",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "bounsweet"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/14.jpg"
+    },
+    {
+      "id": "darkness-ablaze-015",
+      "name": "Steenee",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 15,
+      "fullNumber": "015/189",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "steenee"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/15.jpg"
+    },
+    {
+      "id": "darkness-ablaze-016",
+      "name": "Tsareena",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 16,
+      "fullNumber": "016/189",
+      "rarity": "Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "tsareena"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/16.jpg"
+    },
+    {
+      "id": "darkness-ablaze-017",
+      "name": "Wimpod",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 17,
+      "fullNumber": "017/189",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "wimpod"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/17.jpg"
+    },
+    {
+      "id": "darkness-ablaze-018",
+      "name": "Golisopod",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 18,
+      "fullNumber": "018/189",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "golisopod"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/18.jpg"
+    },
+    {
+      "id": "darkness-ablaze-019",
+      "name": "CharizardV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 19,
+      "fullNumber": "019/189",
+      "rarity": "Ultra Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "charizardv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/19.jpg"
+    },
+    {
+      "id": "darkness-ablaze-020",
+      "name": "CharizardVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 20,
+      "fullNumber": "020/189",
+      "rarity": "Rare VMAX",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "charizardvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/20.jpg"
+    },
+    {
+      "id": "darkness-ablaze-021",
+      "name": "HoundoomV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 21,
+      "fullNumber": "021/189",
+      "rarity": "Ultra Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "houndoomv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/21.jpg"
+    },
+    {
+      "id": "darkness-ablaze-022",
+      "name": "Torchic",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 22,
+      "fullNumber": "022/189",
+      "rarity": "Common",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "torchic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/22.jpg"
+    },
+    {
+      "id": "darkness-ablaze-023",
+      "name": "Combusken",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 23,
+      "fullNumber": "023/189",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "combusken"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/23.jpg"
+    },
+    {
+      "id": "darkness-ablaze-024",
+      "name": "Blaziken",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 24,
+      "fullNumber": "024/189",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "blaziken"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/24.jpg"
+    },
+    {
+      "id": "darkness-ablaze-025",
+      "name": "Heatran",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 25,
+      "fullNumber": "025/189",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "heatran"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/25.jpg"
+    },
+    {
+      "id": "darkness-ablaze-026",
+      "name": "Pansear",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 26,
+      "fullNumber": "026/189",
+      "rarity": "Common",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pansear"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/26.jpg"
+    },
+    {
+      "id": "darkness-ablaze-027",
+      "name": "Simisear",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 27,
+      "fullNumber": "027/189",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "simisear"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/27.jpg"
+    },
+    {
+      "id": "darkness-ablaze-028",
+      "name": "Galarian Darmanitan",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 28,
+      "fullNumber": "028/189",
+      "rarity": "Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galariandarmanitan",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/28.jpg"
+    },
+    {
+      "id": "darkness-ablaze-029",
+      "name": "Larvesta",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 29,
+      "fullNumber": "029/189",
+      "rarity": "Common",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "larvesta"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/29.jpg"
+    },
+    {
+      "id": "darkness-ablaze-030",
+      "name": "Volcarona",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 30,
+      "fullNumber": "030/189",
+      "rarity": "Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "volcarona"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/30.jpg"
+    },
+    {
+      "id": "darkness-ablaze-031",
+      "name": "Fletchinder",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 31,
+      "fullNumber": "031/189",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "fletchinder"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/31.jpg"
+    },
+    {
+      "id": "darkness-ablaze-032",
+      "name": "Talonflame",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 32,
+      "fullNumber": "032/189",
+      "rarity": "Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "talonflame"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/32.jpg"
+    },
+    {
+      "id": "darkness-ablaze-033",
+      "name": "CentiskorchV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 33,
+      "fullNumber": "033/189",
+      "rarity": "Ultra Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "centiskorchv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/33.jpg"
+    },
+    {
+      "id": "darkness-ablaze-034",
+      "name": "CentiskorchVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 34,
+      "fullNumber": "034/189",
+      "rarity": "Rare VMAX",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "centiskorchvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/34.jpg"
+    },
+    {
+      "id": "darkness-ablaze-035",
+      "name": "Galarian Mr. Mime",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 35,
+      "fullNumber": "035/189",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galarianmrmime",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/35.jpg"
+    },
+    {
+      "id": "darkness-ablaze-036",
+      "name": "Galarian Mr. Rime",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 36,
+      "fullNumber": "036/189",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galarianmrrime",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/36.jpg"
+    },
+    {
+      "id": "darkness-ablaze-037",
+      "name": "Suicune",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 37,
+      "fullNumber": "037/189",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "suicune"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/37.jpg"
+    },
+    {
+      "id": "darkness-ablaze-038",
+      "name": "Feebas",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 38,
+      "fullNumber": "038/189",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "feebas"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/38.jpg"
+    },
+    {
+      "id": "darkness-ablaze-039",
+      "name": "Milotic",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 39,
+      "fullNumber": "039/189",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "milotic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/39.jpg"
+    },
+    {
+      "id": "darkness-ablaze-040",
+      "name": "Relicanth",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 40,
+      "fullNumber": "040/189",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "relicanth"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/40.jpg"
+    },
+    {
+      "id": "darkness-ablaze-041",
+      "name": "Panpour",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 41,
+      "fullNumber": "041/189",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "panpour"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/41.jpg"
+    },
+    {
+      "id": "darkness-ablaze-042",
+      "name": "Simipour",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 42,
+      "fullNumber": "042/189",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "simipour"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/42.jpg"
+    },
+    {
+      "id": "darkness-ablaze-043",
+      "name": "Galarian Darumaka",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 43,
+      "fullNumber": "043/189",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galariandarumaka",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/43.jpg"
+    },
+    {
+      "id": "darkness-ablaze-044",
+      "name": "Galarian Darmanitan",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 44,
+      "fullNumber": "044/189",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galariandarmanitan",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/44.jpg"
+    },
+    {
+      "id": "darkness-ablaze-045",
+      "name": "Vanillite",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 45,
+      "fullNumber": "045/189",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "vanillite"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/45.jpg"
+    },
+    {
+      "id": "darkness-ablaze-046",
+      "name": "Vanillish",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 46,
+      "fullNumber": "046/189",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "vanillish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/46.jpg"
+    },
+    {
+      "id": "darkness-ablaze-047",
+      "name": "Vanilluxe",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 47,
+      "fullNumber": "047/189",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "vanilluxe"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/47.jpg"
+    },
+    {
+      "id": "darkness-ablaze-048",
+      "name": "Cubchoo",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 48,
+      "fullNumber": "048/189",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "cubchoo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/48.jpg"
+    },
+    {
+      "id": "darkness-ablaze-049",
+      "name": "Beartic",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 49,
+      "fullNumber": "049/189",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "beartic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/49.jpg"
+    },
+    {
+      "id": "darkness-ablaze-050",
+      "name": "Wishiwashi",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 50,
+      "fullNumber": "050/189",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "wishiwashi"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/50.jpg"
+    },
+    {
+      "id": "darkness-ablaze-051",
+      "name": "Mareanie",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 51,
+      "fullNumber": "051/189",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "mareanie"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/51.jpg"
+    },
+    {
+      "id": "darkness-ablaze-052",
+      "name": "Toxapex",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 52,
+      "fullNumber": "052/189",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "toxapex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/52.jpg"
+    },
+    {
+      "id": "darkness-ablaze-053",
+      "name": "Dracovish",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 53,
+      "fullNumber": "053/189",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "dracovish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/53.jpg"
+    },
+    {
+      "id": "darkness-ablaze-054",
+      "name": "Arctovish",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 54,
+      "fullNumber": "054/189",
+      "rarity": "Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "arctovish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/54.jpg"
+    },
+    {
+      "id": "darkness-ablaze-055",
+      "name": "Mareep",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 55,
+      "fullNumber": "055/189",
+      "rarity": "Common",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "mareep"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/55.jpg"
+    },
+    {
+      "id": "darkness-ablaze-056",
+      "name": "Flaaffy",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 56,
+      "fullNumber": "056/189",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "flaaffy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/56.jpg"
+    },
+    {
+      "id": "darkness-ablaze-057",
+      "name": "Ampharos",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 57,
+      "fullNumber": "057/189",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "ampharos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/57.jpg"
+    },
+    {
+      "id": "darkness-ablaze-058",
+      "name": "Electrike",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 58,
+      "fullNumber": "058/189",
+      "rarity": "Common",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "electrike"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/58.jpg"
+    },
+    {
+      "id": "darkness-ablaze-059",
+      "name": "Manectric",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 59,
+      "fullNumber": "059/189",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "manectric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/59.jpg"
+    },
+    {
+      "id": "darkness-ablaze-060",
+      "name": "VikavoltV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 60,
+      "fullNumber": "060/189",
+      "rarity": "Ultra Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "vikavoltv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/60.jpg"
+    },
+    {
+      "id": "darkness-ablaze-061",
+      "name": "Tapu Koko",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 61,
+      "fullNumber": "061/189",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "tapukoko"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/61.jpg"
+    },
+    {
+      "id": "darkness-ablaze-062",
+      "name": "Toxel",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 62,
+      "fullNumber": "062/189",
+      "rarity": "Common",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "toxel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/62.jpg"
+    },
+    {
+      "id": "darkness-ablaze-063",
+      "name": "Toxtricity",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 63,
+      "fullNumber": "063/189",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "toxtricity"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/63.jpg"
+    },
+    {
+      "id": "darkness-ablaze-064",
+      "name": "Pincurchin",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 64,
+      "fullNumber": "064/189",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pincurchin"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/64.jpg"
+    },
+    {
+      "id": "darkness-ablaze-065",
+      "name": "Dracozolt",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 65,
+      "fullNumber": "065/189",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "dracozolt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/65.jpg"
+    },
+    {
+      "id": "darkness-ablaze-066",
+      "name": "Arctozolt",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 66,
+      "fullNumber": "066/189",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "arctozolt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/66.jpg"
+    },
+    {
+      "id": "darkness-ablaze-067",
+      "name": "Jigglypuff",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 67,
+      "fullNumber": "067/189",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "jigglypuff"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/67.jpg"
+    },
+    {
+      "id": "darkness-ablaze-068",
+      "name": "Wigglytuff",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 68,
+      "fullNumber": "068/189",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "wigglytuff"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/68.jpg"
+    },
+    {
+      "id": "darkness-ablaze-069",
+      "name": "MewV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 69,
+      "fullNumber": "069/189",
+      "rarity": "Ultra Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "mewv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/69.jpg"
+    },
+    {
+      "id": "darkness-ablaze-070",
+      "name": "Snubbull",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 70,
+      "fullNumber": "070/189",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "snubbull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/70.jpg"
+    },
+    {
+      "id": "darkness-ablaze-071",
+      "name": "Granbull",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 71,
+      "fullNumber": "071/189",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "granbull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/71.jpg"
+    },
+    {
+      "id": "darkness-ablaze-072",
+      "name": "Lunatone",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 72,
+      "fullNumber": "072/189",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "lunatone"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/72.jpg"
+    },
+    {
+      "id": "darkness-ablaze-073",
+      "name": "Gothita",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 73,
+      "fullNumber": "073/189",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "gothita"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/73.jpg"
+    },
+    {
+      "id": "darkness-ablaze-074",
+      "name": "Gothorita",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 74,
+      "fullNumber": "074/189",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "gothorita"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/74.jpg"
+    },
+    {
+      "id": "darkness-ablaze-075",
+      "name": "Gothitelle",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 75,
+      "fullNumber": "075/189",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "gothitelle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/75.jpg"
+    },
+    {
+      "id": "darkness-ablaze-076",
+      "name": "Golett",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 76,
+      "fullNumber": "076/189",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "golett"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/76.jpg"
+    },
+    {
+      "id": "darkness-ablaze-077",
+      "name": "Golurk",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 77,
+      "fullNumber": "077/189",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "golurk"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/77.jpg"
+    },
+    {
+      "id": "darkness-ablaze-078",
+      "name": "Dedenne",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 78,
+      "fullNumber": "078/189",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "dedenne"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/78.jpg"
+    },
+    {
+      "id": "darkness-ablaze-079",
+      "name": "Morelull",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 79,
+      "fullNumber": "079/189",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "morelull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/79.jpg"
+    },
+    {
+      "id": "darkness-ablaze-080",
+      "name": "Shiinotic",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 80,
+      "fullNumber": "080/189",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "shiinotic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/80.jpg"
+    },
+    {
+      "id": "darkness-ablaze-081",
+      "name": "Mimikyu",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 81,
+      "fullNumber": "081/189",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "mimikyu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/81.jpg"
+    },
+    {
+      "id": "darkness-ablaze-082",
+      "name": "Sinistea",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 82,
+      "fullNumber": "082/189",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "sinistea"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/82.jpg"
+    },
+    {
+      "id": "darkness-ablaze-083",
+      "name": "Polteageist",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 83,
+      "fullNumber": "083/189",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "polteageist"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/83.jpg"
+    },
+    {
+      "id": "darkness-ablaze-084",
+      "name": "Diglett",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 84,
+      "fullNumber": "084/189",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "diglett"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/84.jpg"
+    },
+    {
+      "id": "darkness-ablaze-085",
+      "name": "Dugtrio",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 85,
+      "fullNumber": "085/189",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "dugtrio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/85.jpg"
+    },
+    {
+      "id": "darkness-ablaze-086",
+      "name": "Larvitar",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 86,
+      "fullNumber": "086/189",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "larvitar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/86.jpg"
+    },
+    {
+      "id": "darkness-ablaze-087",
+      "name": "Pupitar",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 87,
+      "fullNumber": "087/189",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pupitar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/87.jpg"
+    },
+    {
+      "id": "darkness-ablaze-088",
+      "name": "Tyranitar",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 88,
+      "fullNumber": "088/189",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "tyranitar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/88.jpg"
+    },
+    {
+      "id": "darkness-ablaze-089",
+      "name": "Trapinch",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 89,
+      "fullNumber": "089/189",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "trapinch"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/89.jpg"
+    },
+    {
+      "id": "darkness-ablaze-090",
+      "name": "Vibrava",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 90,
+      "fullNumber": "090/189",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "vibrava"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/90.jpg"
+    },
+    {
+      "id": "darkness-ablaze-091",
+      "name": "Flygon",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 91,
+      "fullNumber": "091/189",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "flygon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/91.jpg"
+    },
+    {
+      "id": "darkness-ablaze-092",
+      "name": "Solrock",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 92,
+      "fullNumber": "092/189",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "solrock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/92.jpg"
+    },
+    {
+      "id": "darkness-ablaze-093",
+      "name": "Hippopotas",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 93,
+      "fullNumber": "093/189",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hippopotas"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/93.jpg"
+    },
+    {
+      "id": "darkness-ablaze-094",
+      "name": "Hippowdon",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 94,
+      "fullNumber": "094/189",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hippowdon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/94.jpg"
+    },
+    {
+      "id": "darkness-ablaze-095",
+      "name": "RhyperiorV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 95,
+      "fullNumber": "095/189",
+      "rarity": "Ultra Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rhyperiorv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/95.jpg"
+    },
+    {
+      "id": "darkness-ablaze-096",
+      "name": "Diggersby",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 96,
+      "fullNumber": "096/189",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "diggersby"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/96.jpg"
+    },
+    {
+      "id": "darkness-ablaze-097",
+      "name": "Passimian",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 97,
+      "fullNumber": "097/189",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "passimian"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/97.jpg"
+    },
+    {
+      "id": "darkness-ablaze-098",
+      "name": "Galarian Sirfetch'd",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 98,
+      "fullNumber": "098/189",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galariansirfetchd",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/98.jpg"
+    },
+    {
+      "id": "darkness-ablaze-099",
+      "name": "Galarian SlowbroV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 99,
+      "fullNumber": "099/189",
+      "rarity": "Ultra Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galarianslowbrov",
+        "v",
+        "vcard",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/99.jpg"
+    },
+    {
+      "id": "darkness-ablaze-100",
+      "name": "Grimer",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 100,
+      "fullNumber": "100/189",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "grimer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/100.jpg"
+    },
+    {
+      "id": "darkness-ablaze-101",
+      "name": "Muk",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 101,
+      "fullNumber": "101/189",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "muk"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/101.jpg"
+    },
+    {
+      "id": "darkness-ablaze-102",
+      "name": "Spinarak",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 102,
+      "fullNumber": "102/189",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "spinarak"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/102.jpg"
+    },
+    {
+      "id": "darkness-ablaze-103",
+      "name": "Ariados",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 103,
+      "fullNumber": "103/189",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "ariados"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/103.jpg"
+    },
+    {
+      "id": "darkness-ablaze-104",
+      "name": "CrobatV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 104,
+      "fullNumber": "104/189",
+      "rarity": "Ultra Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "crobatv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/104.jpg"
+    },
+    {
+      "id": "darkness-ablaze-105",
+      "name": "Darkrai",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 105,
+      "fullNumber": "105/189",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "darkrai"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/105.jpg"
+    },
+    {
+      "id": "darkness-ablaze-106",
+      "name": "Purrloin",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 106,
+      "fullNumber": "106/189",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "purrloin"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/106.jpg"
+    },
+    {
+      "id": "darkness-ablaze-107",
+      "name": "Liepard",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 107,
+      "fullNumber": "107/189",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "liepard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/107.jpg"
+    },
+    {
+      "id": "darkness-ablaze-108",
+      "name": "Deino",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 108,
+      "fullNumber": "108/189",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "deino"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/108.jpg"
+    },
+    {
+      "id": "darkness-ablaze-109",
+      "name": "Zweilous",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 109,
+      "fullNumber": "109/189",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "zweilous"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/109.jpg"
+    },
+    {
+      "id": "darkness-ablaze-110",
+      "name": "Hydreigon",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 110,
+      "fullNumber": "110/189",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hydreigon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/110.jpg"
+    },
+    {
+      "id": "darkness-ablaze-111",
+      "name": "Hoopa",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 111,
+      "fullNumber": "111/189",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hoopa"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/111.jpg"
+    },
+    {
+      "id": "darkness-ablaze-112",
+      "name": "Nickit",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 112,
+      "fullNumber": "112/189",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "nickit"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/112.jpg"
+    },
+    {
+      "id": "darkness-ablaze-113",
+      "name": "Thievul",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 113,
+      "fullNumber": "113/189",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "thievul"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/113.jpg"
+    },
+    {
+      "id": "darkness-ablaze-114",
+      "name": "GrimmsnarlV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 114,
+      "fullNumber": "114/189",
+      "rarity": "Ultra Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "grimmsnarlv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/114.jpg"
+    },
+    {
+      "id": "darkness-ablaze-115",
+      "name": "GrimmsnarlVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 115,
+      "fullNumber": "115/189",
+      "rarity": "Rare VMAX",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "grimmsnarlvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/115.jpg"
+    },
+    {
+      "id": "darkness-ablaze-116",
+      "name": "EternatusV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 116,
+      "fullNumber": "116/189",
+      "rarity": "Ultra Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "eternatusv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/116.jpg"
+    },
+    {
+      "id": "darkness-ablaze-117",
+      "name": "EternatusVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 117,
+      "fullNumber": "117/189",
+      "rarity": "Rare VMAX",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "eternatusvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/117.jpg"
+    },
+    {
+      "id": "darkness-ablaze-118",
+      "name": "ScizorV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 118,
+      "fullNumber": "118/189",
+      "rarity": "Ultra Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "scizorv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/118.jpg"
+    },
+    {
+      "id": "darkness-ablaze-119",
+      "name": "ScizorVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 119,
+      "fullNumber": "119/189",
+      "rarity": "Rare VMAX",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "scizorvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/119.jpg"
+    },
+    {
+      "id": "darkness-ablaze-120",
+      "name": "Skarmory",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 120,
+      "fullNumber": "120/189",
+      "rarity": "Common",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "skarmory"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/120.jpg"
+    },
+    {
+      "id": "darkness-ablaze-121",
+      "name": "Aron",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 121,
+      "fullNumber": "121/189",
+      "rarity": "Common",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "aron"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/121.jpg"
+    },
+    {
+      "id": "darkness-ablaze-122",
+      "name": "Lairon",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 122,
+      "fullNumber": "122/189",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "lairon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/122.jpg"
+    },
+    {
+      "id": "darkness-ablaze-123",
+      "name": "Aggron",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 123,
+      "fullNumber": "123/189",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "aggron"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/123.jpg"
+    },
+    {
+      "id": "darkness-ablaze-124",
+      "name": "Escavalier",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 124,
+      "fullNumber": "124/189",
+      "rarity": "Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "escavalier"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/124.jpg"
+    },
+    {
+      "id": "darkness-ablaze-125",
+      "name": "Klink",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 125,
+      "fullNumber": "125/189",
+      "rarity": "Common",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "klink"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/125.jpg"
+    },
+    {
+      "id": "darkness-ablaze-126",
+      "name": "Klang",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 126,
+      "fullNumber": "126/189",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "klang"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/126.jpg"
+    },
+    {
+      "id": "darkness-ablaze-127",
+      "name": "Klinklang",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 127,
+      "fullNumber": "127/189",
+      "rarity": "Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "klinklang"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/127.jpg"
+    },
+    {
+      "id": "darkness-ablaze-128",
+      "name": "Galarian StunfiskV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 128,
+      "fullNumber": "128/189",
+      "rarity": "Ultra Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galarianstunfiskv",
+        "v",
+        "vcard",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/128.jpg"
+    },
+    {
+      "id": "darkness-ablaze-129",
+      "name": "Meltan",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 129,
+      "fullNumber": "129/189",
+      "rarity": "Common",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "meltan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/129.jpg"
+    },
+    {
+      "id": "darkness-ablaze-130",
+      "name": "Melmetal",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 130,
+      "fullNumber": "130/189",
+      "rarity": "Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "melmetal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/130.jpg"
+    },
+    {
+      "id": "darkness-ablaze-131",
+      "name": "Cufant",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 131,
+      "fullNumber": "131/189",
+      "rarity": "Common",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "cufant"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/131.jpg"
+    },
+    {
+      "id": "darkness-ablaze-132",
+      "name": "Copperajah",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 132,
+      "fullNumber": "132/189",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "copperajah"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/132.jpg"
+    },
+    {
+      "id": "darkness-ablaze-133",
+      "name": "Kangaskhan",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 133,
+      "fullNumber": "133/189",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "kangaskhan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/133.jpg"
+    },
+    {
+      "id": "darkness-ablaze-134",
+      "name": "Tauros",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 134,
+      "fullNumber": "134/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "tauros"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/134.jpg"
+    },
+    {
+      "id": "darkness-ablaze-135",
+      "name": "Sentret",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 135,
+      "fullNumber": "135/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "sentret"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/135.jpg"
+    },
+    {
+      "id": "darkness-ablaze-136",
+      "name": "Furret",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 136,
+      "fullNumber": "136/189",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "furret"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/136.jpg"
+    },
+    {
+      "id": "darkness-ablaze-137",
+      "name": "Dunsparce",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 137,
+      "fullNumber": "137/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "dunsparce"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/137.jpg"
+    },
+    {
+      "id": "darkness-ablaze-138",
+      "name": "Teddiursa",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 138,
+      "fullNumber": "138/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "teddiursa"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/138.jpg"
+    },
+    {
+      "id": "darkness-ablaze-139",
+      "name": "Ursaring",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 139,
+      "fullNumber": "139/189",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "ursaring"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/139.jpg"
+    },
+    {
+      "id": "darkness-ablaze-140",
+      "name": "Lugia",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 140,
+      "fullNumber": "140/189",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "lugia"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/140.jpg"
+    },
+    {
+      "id": "darkness-ablaze-141",
+      "name": "Skitty",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 141,
+      "fullNumber": "141/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "skitty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/141.jpg"
+    },
+    {
+      "id": "darkness-ablaze-142",
+      "name": "Delcatty",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 142,
+      "fullNumber": "142/189",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "delcatty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/142.jpg"
+    },
+    {
+      "id": "darkness-ablaze-143",
+      "name": "SalamenceV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 143,
+      "fullNumber": "143/189",
+      "rarity": "Ultra Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "salamencev",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/143.jpg"
+    },
+    {
+      "id": "darkness-ablaze-144",
+      "name": "SalamenceVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 144,
+      "fullNumber": "144/189",
+      "rarity": "Rare VMAX",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "salamencevmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/144.jpg"
+    },
+    {
+      "id": "darkness-ablaze-145",
+      "name": "Starly",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 145,
+      "fullNumber": "145/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "starly"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/145.jpg"
+    },
+    {
+      "id": "darkness-ablaze-146",
+      "name": "Staravia",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 146,
+      "fullNumber": "146/189",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "staravia"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/146.jpg"
+    },
+    {
+      "id": "darkness-ablaze-147",
+      "name": "Staraptor",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 147,
+      "fullNumber": "147/189",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "staraptor"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/147.jpg"
+    },
+    {
+      "id": "darkness-ablaze-148",
+      "name": "Ducklett",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 148,
+      "fullNumber": "148/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "ducklett"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/148.jpg"
+    },
+    {
+      "id": "darkness-ablaze-149",
+      "name": "Swanna",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 149,
+      "fullNumber": "149/189",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "swanna"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/149.jpg"
+    },
+    {
+      "id": "darkness-ablaze-150",
+      "name": "Bunnelby",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 150,
+      "fullNumber": "150/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "bunnelby"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/150.jpg"
+    },
+    {
+      "id": "darkness-ablaze-151",
+      "name": "Fletchling",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 151,
+      "fullNumber": "151/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "fletchling"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/151.jpg"
+    },
+    {
+      "id": "darkness-ablaze-152",
+      "name": "Skwovet",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 152,
+      "fullNumber": "152/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "skwovet"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/152.jpg"
+    },
+    {
+      "id": "darkness-ablaze-153",
+      "name": "Greedent",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 153,
+      "fullNumber": "153/189",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "greedent"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/153.jpg"
+    },
+    {
+      "id": "darkness-ablaze-154",
+      "name": "Rookidee",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 154,
+      "fullNumber": "154/189",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rookidee"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/154.jpg"
+    },
+    {
+      "id": "darkness-ablaze-155",
+      "name": "Corvisquire",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 155,
+      "fullNumber": "155/189",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "corvisquire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/155.jpg"
+    },
+    {
+      "id": "darkness-ablaze-156",
+      "name": "Corviknight",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 156,
+      "fullNumber": "156/189",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "corviknight"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/156.jpg"
+    },
+    {
+      "id": "darkness-ablaze-157",
+      "name": "Big Parasol",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 157,
+      "fullNumber": "157/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "bigparasol"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/157.jpg"
+    },
+    {
+      "id": "darkness-ablaze-158",
+      "name": "Billowing Smoke",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 158,
+      "fullNumber": "158/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "billowingsmoke"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/158.jpg"
+    },
+    {
+      "id": "darkness-ablaze-159",
+      "name": "Bird Keeper",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 159,
+      "fullNumber": "159/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "birdkeeper"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/159.jpg"
+    },
+    {
+      "id": "darkness-ablaze-160",
+      "name": "Cape of Toughness",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 160,
+      "fullNumber": "160/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "capeoftoughness"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/160.jpg"
+    },
+    {
+      "id": "darkness-ablaze-161",
+      "name": "Familiar Bell",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 161,
+      "fullNumber": "161/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "familiarbell"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/161.jpg"
+    },
+    {
+      "id": "darkness-ablaze-162",
+      "name": "Glimwood Tangle",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 162,
+      "fullNumber": "162/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "glimwoodtangle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/162.jpg"
+    },
+    {
+      "id": "darkness-ablaze-163",
+      "name": "Kabu",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 163,
+      "fullNumber": "163/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "kabu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/163.jpg"
+    },
+    {
+      "id": "darkness-ablaze-164",
+      "name": "Old PC",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 164,
+      "fullNumber": "164/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "oldpc"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/164.jpg"
+    },
+    {
+      "id": "darkness-ablaze-165",
+      "name": "Piers",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 165,
+      "fullNumber": "165/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "piers"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/165.jpg"
+    },
+    {
+      "id": "darkness-ablaze-166",
+      "name": "Pokémon Breeder's Nurturing",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 166,
+      "fullNumber": "166/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pokémonbreedersnurturing"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/166.jpg"
+    },
+    {
+      "id": "darkness-ablaze-167",
+      "name": "Rare Fossil",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 167,
+      "fullNumber": "167/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rarefossil"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/167.jpg"
+    },
+    {
+      "id": "darkness-ablaze-168",
+      "name": "Rose",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 168,
+      "fullNumber": "168/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rose"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/168.jpg"
+    },
+    {
+      "id": "darkness-ablaze-169",
+      "name": "Rose Tower",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 169,
+      "fullNumber": "169/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rosetower"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/169.jpg"
+    },
+    {
+      "id": "darkness-ablaze-170",
+      "name": "Spikemuth",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 170,
+      "fullNumber": "170/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "spikemuth"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/170.jpg"
+    },
+    {
+      "id": "darkness-ablaze-171",
+      "name": "Struggle Gloves",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 171,
+      "fullNumber": "171/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "strugglegloves"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/171.jpg"
+    },
+    {
+      "id": "darkness-ablaze-172",
+      "name": "Turbo Patch",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 172,
+      "fullNumber": "172/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "turbopatch"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/172.jpg"
+    },
+    {
+      "id": "darkness-ablaze-173",
+      "name": "Yell Horn",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 173,
+      "fullNumber": "173/189",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "yellhorn"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/173.jpg"
+    },
+    {
+      "id": "darkness-ablaze-174",
+      "name": "Heat Fire Energy",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 174,
+      "fullNumber": "174/189",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "heatfireenergy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/174.jpg"
+    },
+    {
+      "id": "darkness-ablaze-175",
+      "name": "Hiding Darkness Energy",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 175,
+      "fullNumber": "175/189",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hidingdarknessenergy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/175.jpg"
+    },
+    {
+      "id": "darkness-ablaze-176",
+      "name": "Powerful Colorless Energy",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 176,
+      "fullNumber": "176/189",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "powerfulcolorlessenergy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/176.jpg"
+    },
+    {
+      "id": "darkness-ablaze-177",
+      "name": "ButterfreeV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 177,
+      "fullNumber": "177/189",
+      "rarity": "Ultra Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "butterfreev",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/177.jpg"
+    },
+    {
+      "id": "darkness-ablaze-178",
+      "name": "HoundoomV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 178,
+      "fullNumber": "178/189",
+      "rarity": "Ultra Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "houndoomv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/178.jpg"
+    },
+    {
+      "id": "darkness-ablaze-179",
+      "name": "CentiskorchV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 179,
+      "fullNumber": "179/189",
+      "rarity": "Ultra Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "centiskorchv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/179.jpg"
+    },
+    {
+      "id": "darkness-ablaze-180",
+      "name": "VikavoltV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 180,
+      "fullNumber": "180/189",
+      "rarity": "Ultra Rare",
+      "type": "Lightning",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "vikavoltv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/180.jpg"
+    },
+    {
+      "id": "darkness-ablaze-181",
+      "name": "RhyperiorV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 181,
+      "fullNumber": "181/189",
+      "rarity": "Ultra Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rhyperiorv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/181.jpg"
+    },
+    {
+      "id": "darkness-ablaze-182",
+      "name": "CrobatV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 182,
+      "fullNumber": "182/189",
+      "rarity": "Ultra Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "crobatv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/182.jpg"
+    },
+    {
+      "id": "darkness-ablaze-183",
+      "name": "ScizorV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 183,
+      "fullNumber": "183/189",
+      "rarity": "Ultra Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "scizorv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/183.jpg"
+    },
+    {
+      "id": "darkness-ablaze-184",
+      "name": "Galarian StunfiskV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 184,
+      "fullNumber": "184/189",
+      "rarity": "Ultra Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galarianstunfiskv",
+        "v",
+        "vcard",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/184.jpg"
+    },
+    {
+      "id": "darkness-ablaze-185",
+      "name": "SalamenceV",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 185,
+      "fullNumber": "185/189",
+      "rarity": "Ultra Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "salamencev",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/185.jpg"
+    },
+    {
+      "id": "darkness-ablaze-186",
+      "name": "Kabu",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 186,
+      "fullNumber": "186/189",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "kabu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/186.jpg"
+    },
+    {
+      "id": "darkness-ablaze-187",
+      "name": "Piers",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 187,
+      "fullNumber": "187/189",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "piers"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/187.jpg"
+    },
+    {
+      "id": "darkness-ablaze-188",
+      "name": "Pokémon Breeder's Nurturing",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 188,
+      "fullNumber": "188/189",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pokémonbreedersnurturing"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/188.jpg"
+    },
+    {
+      "id": "darkness-ablaze-189",
+      "name": "Rose",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 189,
+      "fullNumber": "189/189",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rose"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/189.jpg"
+    },
+    {
+      "id": "darkness-ablaze-190",
+      "name": "ButterfreeVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 190,
+      "fullNumber": "190/189",
+      "rarity": "Rainbow Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "butterfreevmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/190.jpg"
+    },
+    {
+      "id": "darkness-ablaze-191",
+      "name": "CentiskorchVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 191,
+      "fullNumber": "191/189",
+      "rarity": "Rainbow Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "centiskorchvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/191.jpg"
+    },
+    {
+      "id": "darkness-ablaze-192",
+      "name": "EternatusVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 192,
+      "fullNumber": "192/189",
+      "rarity": "Rainbow Rare",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "eternatusvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/192.jpg"
+    },
+    {
+      "id": "darkness-ablaze-193",
+      "name": "ScizorVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 193,
+      "fullNumber": "193/189",
+      "rarity": "Rainbow Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "scizorvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/193.jpg"
+    },
+    {
+      "id": "darkness-ablaze-194",
+      "name": "SalamenceVMAX",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 194,
+      "fullNumber": "194/189",
+      "rarity": "Rainbow Rare",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "salamencevmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/194.jpg"
+    },
+    {
+      "id": "darkness-ablaze-195",
+      "name": "Pokémon Breeder's Nurturing",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 195,
+      "fullNumber": "195/189",
+      "rarity": "Rainbow Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pokémonbreedersnurturing"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/195.jpg"
+    },
+    {
+      "id": "darkness-ablaze-196",
+      "name": "Rose",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 196,
+      "fullNumber": "196/189",
+      "rarity": "Rainbow Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rose"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/196.jpg"
+    },
+    {
+      "id": "darkness-ablaze-197",
+      "name": "Rillaboom",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 197,
+      "fullNumber": "197/189",
+      "rarity": "Secret Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rillaboom"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/197.jpg"
+    },
+    {
+      "id": "darkness-ablaze-198",
+      "name": "Coalossal",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 198,
+      "fullNumber": "198/189",
+      "rarity": "Secret Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "coalossal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/198.jpg"
+    },
+    {
+      "id": "darkness-ablaze-199",
+      "name": "Big Parasol",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 199,
+      "fullNumber": "199/189",
+      "rarity": "Secret Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "bigparasol"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/199.jpg"
+    },
+    {
+      "id": "darkness-ablaze-200",
+      "name": "Turbo Patch",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 200,
+      "fullNumber": "200/189",
+      "rarity": "Secret Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "turbopatch"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/200.jpg"
+    },
+    {
+      "id": "darkness-ablaze-201",
+      "name": "Capture Energy",
+      "setName": "Darkness Ablaze",
+      "setCode": "darkness-ablaze",
+      "cardNumber": 201,
+      "fullNumber": "201/189",
+      "rarity": "Secret Rare",
+      "type": "Energy",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "captureenergy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/darknessablaze/201.jpg"
+    }
+  ]
+}

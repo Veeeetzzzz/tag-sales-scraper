@@ -1,0 +1,1346 @@
+{
+  "setInfo": {
+    "name": "Champion's Path",
+    "description": "A special set released in September 2020 featuring Pokémon from the Galar region, including powerful V and VMAX cards. Notable for featuring Charizard V and Charizard VMAX cards.",
+    "setCode": "champions-path",
+    "totalCards": 80,
+    "releaseDate": "September 25, 2020",
+    "tagSales": []
+  },
+  "cards": [
+    {
+      "id": "champions-path-001",
+      "name": "VenusaurV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 1,
+      "fullNumber": "001/073",
+      "rarity": "Ultra Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "venusaurv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-002",
+      "name": "Weedle",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 2,
+      "fullNumber": "002/073",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "weedle"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-003",
+      "name": "Kakuna",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 3,
+      "fullNumber": "003/073",
+      "rarity": "Common",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "kakuna"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-004",
+      "name": "Beedrill",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 4,
+      "fullNumber": "004/073",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "beedrill"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-005",
+      "name": "EldegossV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 5,
+      "fullNumber": "005/073",
+      "rarity": "Ultra Rare",
+      "type": "Grass",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "eldegossv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-006",
+      "name": "Vulpix",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 6,
+      "fullNumber": "006/073",
+      "rarity": "Common",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "vulpix"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-007",
+      "name": "Victini",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 7,
+      "fullNumber": "007/073",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "victini"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-008",
+      "name": "IncineroarV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 8,
+      "fullNumber": "008/073",
+      "rarity": "Ultra Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "incineroarv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-009",
+      "name": "Sizzlipede",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 9,
+      "fullNumber": "009/073",
+      "rarity": "Common",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "sizzlipede"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-010",
+      "name": "Centiskorch",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 10,
+      "fullNumber": "010/073",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "centiskorch"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-011",
+      "name": "Carvanha",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 11,
+      "fullNumber": "011/073",
+      "rarity": "Common",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "carvanha"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-012",
+      "name": "Sharpedo",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 12,
+      "fullNumber": "012/073",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "sharpedo"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-013",
+      "name": "WailordV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 13,
+      "fullNumber": "013/073",
+      "rarity": "Ultra Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "wailordv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-014",
+      "name": "DrednawV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 14,
+      "fullNumber": "014/073",
+      "rarity": "Ultra Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "drednawv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-015",
+      "name": "DrednawVMAX",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 15,
+      "fullNumber": "015/073",
+      "rarity": "Rare VMAX",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "drednawvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-016",
+      "name": "GardevoirV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 16,
+      "fullNumber": "016/073",
+      "rarity": "Ultra Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "gardevoirv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-017",
+      "name": "GardevoirVMAX",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 17,
+      "fullNumber": "017/073",
+      "rarity": "Rare VMAX",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "gardevoirvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-018",
+      "name": "Hatenna",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 18,
+      "fullNumber": "018/073",
+      "rarity": "Common",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hatenna"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-019",
+      "name": "Hattrem",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 19,
+      "fullNumber": "019/073",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hattrem"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-020",
+      "name": "Hatterene",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 20,
+      "fullNumber": "020/073",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hatterene"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-021",
+      "name": "Galarian CursolaV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 21,
+      "fullNumber": "021/073",
+      "rarity": "Ultra Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galariancursolav",
+        "v",
+        "vcard",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-022",
+      "name": "AlcremieV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 22,
+      "fullNumber": "022/073",
+      "rarity": "Ultra Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "alcremiev",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-023",
+      "name": "AlcremieVMAX",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 23,
+      "fullNumber": "023/073",
+      "rarity": "Rare VMAX",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "alcremievmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-024",
+      "name": "Machop",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 24,
+      "fullNumber": "024/073",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "machop"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-025",
+      "name": "Machoke",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 25,
+      "fullNumber": "025/073",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "machoke"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-026",
+      "name": "Machamp",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 26,
+      "fullNumber": "026/073",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "machamp"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-027",
+      "name": "LucarioV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 27,
+      "fullNumber": "027/073",
+      "rarity": "Ultra Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "lucariov",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-028",
+      "name": "Zygarde",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 28,
+      "fullNumber": "028/073",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "zygarde"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-029",
+      "name": "Rockruff",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 29,
+      "fullNumber": "029/073",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rockruff"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-030",
+      "name": "Lycanroc",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 30,
+      "fullNumber": "030/073",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "lycanroc"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-031",
+      "name": "Rolycoly",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 31,
+      "fullNumber": "031/073",
+      "rarity": "Common",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rolycoly"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-032",
+      "name": "GrapploctV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 32,
+      "fullNumber": "032/073",
+      "rarity": "Ultra Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "grapploctv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-033",
+      "name": "Ekans",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 33,
+      "fullNumber": "033/073",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "ekans"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-034",
+      "name": "Arbok",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 34,
+      "fullNumber": "034/073",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "arbok"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-035",
+      "name": "Galarian Zigzagoon",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 35,
+      "fullNumber": "035/073",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galarianzigzagoon",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-036",
+      "name": "Galarian Linoone",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 36,
+      "fullNumber": "036/073",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galarianlinoone",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-037",
+      "name": "Galarian Obstagoon",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 37,
+      "fullNumber": "037/073",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galarianobstagoon",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-038",
+      "name": "Absol",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 38,
+      "fullNumber": "038/073",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "absol"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-039",
+      "name": "Purrloin",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 39,
+      "fullNumber": "039/073",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "purrloin"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-040",
+      "name": "Liepard",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 40,
+      "fullNumber": "040/073",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "liepard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-041",
+      "name": "Scraggy",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 41,
+      "fullNumber": "041/073",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "scraggy"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-042",
+      "name": "Scrafty",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 42,
+      "fullNumber": "042/073",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "scrafty"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-043",
+      "name": "Trubbish",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 43,
+      "fullNumber": "043/073",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "trubbish"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-044",
+      "name": "Inkay",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 44,
+      "fullNumber": "044/073",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "inkay"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-045",
+      "name": "Malamar",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 45,
+      "fullNumber": "045/073",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "malamar"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-046",
+      "name": "Nickit",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 46,
+      "fullNumber": "046/073",
+      "rarity": "Common",
+      "type": "Darkness",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "nickit"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-047",
+      "name": "DuraludonV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 47,
+      "fullNumber": "047/073",
+      "rarity": "Ultra Rare",
+      "type": "Metal",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "duraludonv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-048",
+      "name": "Swablu",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 48,
+      "fullNumber": "048/073",
+      "rarity": "Common",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "swablu"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-049",
+      "name": "Altaria",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 49,
+      "fullNumber": "049/073",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "altaria"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-050",
+      "name": "Bede",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 50,
+      "fullNumber": "050/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "bede"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-051",
+      "name": "Full Heal",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 51,
+      "fullNumber": "051/073",
+      "rarity": "Common",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "fullheal"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-052",
+      "name": "Great Ball",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 52,
+      "fullNumber": "052/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "greatball"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-053",
+      "name": "Hop",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 53,
+      "fullNumber": "053/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hop"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-054",
+      "name": "Hyper Potion",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 54,
+      "fullNumber": "054/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hyperpotion"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-055",
+      "name": "Kabu",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 55,
+      "fullNumber": "055/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "kabu"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-056",
+      "name": "Marnie",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 56,
+      "fullNumber": "056/073",
+      "rarity": "Rare Holo",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "marnie"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-057",
+      "name": "Milo",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 57,
+      "fullNumber": "057/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "milo"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-058",
+      "name": "Piers",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 58,
+      "fullNumber": "058/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "piers"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-059",
+      "name": "Poké Ball",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 59,
+      "fullNumber": "059/073",
+      "rarity": "Common",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pokéball"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-060",
+      "name": "Pokémon Center Lady",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 60,
+      "fullNumber": "060/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "pokémoncenterlady"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-061",
+      "name": "Potion",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 61,
+      "fullNumber": "061/073",
+      "rarity": "Common",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "potion"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-062",
+      "name": "Professor's Research [Professor Magnolia]",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 62,
+      "fullNumber": "062/073",
+      "rarity": "Rare Holo",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "professor'sresearch[professormagnolia]"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-063",
+      "name": "Rotom Bike",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 63,
+      "fullNumber": "063/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rotombike"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-064",
+      "name": "Rotom Phone",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 64,
+      "fullNumber": "064/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "rotomphone"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-065",
+      "name": "Sonia",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 65,
+      "fullNumber": "065/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "sonia"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-066",
+      "name": "Suspicious Food Tin",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 66,
+      "fullNumber": "066/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "suspiciousfoodtin"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-067",
+      "name": "Team Yell Grunt",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 67,
+      "fullNumber": "067/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "teamyellgrunt"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-068",
+      "name": "Turffield Stadium",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 68,
+      "fullNumber": "068/073",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "turffieldstadium"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-069",
+      "name": "DrednawV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 69,
+      "fullNumber": "069/073",
+      "rarity": "Ultra Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "drednawv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-070",
+      "name": "GardevoirV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 70,
+      "fullNumber": "070/073",
+      "rarity": "Ultra Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "gardevoirv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-071",
+      "name": "Galarian CursolaV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 71,
+      "fullNumber": "071/073",
+      "rarity": "Ultra Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "galariancursolav",
+        "v",
+        "vcard",
+        "galarian",
+        "galar"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-072",
+      "name": "GrapploctV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 72,
+      "fullNumber": "072/073",
+      "rarity": "Ultra Rare",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "grapploctv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-073",
+      "name": "Hop",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 73,
+      "fullNumber": "073/073",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "hop"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-074",
+      "name": "CharizardVMAX",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 74,
+      "fullNumber": "074/073",
+      "rarity": "Rainbow Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "charizardvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-075",
+      "name": "DrednawVMAX",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 75,
+      "fullNumber": "075/073",
+      "rarity": "Rainbow Rare",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "drednawvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-076",
+      "name": "GardevoirVMAX",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 76,
+      "fullNumber": "076/073",
+      "rarity": "Rainbow Rare",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "gardevoirvmax",
+        "vmax",
+        "vmaxcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-077",
+      "name": "Kabu",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 77,
+      "fullNumber": "077/073",
+      "rarity": "Rainbow Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "kabu"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-078",
+      "name": "Piers",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 78,
+      "fullNumber": "078/073",
+      "rarity": "Rainbow Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "piers"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-079",
+      "name": "CharizardV",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 79,
+      "fullNumber": "079/073",
+      "rarity": "Secret Rare",
+      "type": "Fire",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "charizardv",
+        "v",
+        "vcard"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "champions-path-080",
+      "name": "Suspicious Food Tin",
+      "setName": "Champion's Path",
+      "setCode": "champions-path",
+      "cardNumber": 80,
+      "fullNumber": "080/073",
+      "rarity": "Secret Rare",
+      "type": "Trainer",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "suspiciousfoodtin"
+      ],
+      "imageUrl": null
+    }
+  ]
+}
