@@ -1,0 +1,1800 @@
+{
+  "setInfo": {
+    "name": "EX Ruby & Sapphire",
+    "description": "The first set in the EX Series, introducing Generation III Pokémon from the Hoenn region. Features the debut of Pokémon-ex cards with high HP and powerful attacks, but giving up two Prize cards when knocked out. Includes popular Hoenn starters Treecko, Torchic, and Mudkip with their evolutions.",
+    "setCode": "ex-ruby-sapphire",
+    "totalCards": 109,
+    "releaseDate": "June 18, 2003",
+    "tagSales": [
+      "EX Ruby Sapphire",
+      "Ruby Sapphire",
+      "EX Series",
+      "Pokemon EX",
+      "Hoenn Pokemon",
+      "Generation 3",
+      "Blaziken",
+      "Sceptile",
+      "Swampert",
+      "Gardevoir",
+      "Aggron",
+      "Mewtwo ex",
+      "Chansey ex"
+    ]
+  },
+  "cards": [
+    {
+      "id": "ex-ruby-sapphire-1",
+      "name": "Aggron",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "1",
+      "fullNumber": "1/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aggron"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/1.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-2",
+      "name": "Beautifly",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "2",
+      "fullNumber": "2/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "beautifly"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/2.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-3",
+      "name": "Blaziken",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "3",
+      "fullNumber": "3/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "blaziken"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/3.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-4",
+      "name": "Camerupt",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "4",
+      "fullNumber": "4/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "camerupt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/4.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-5",
+      "name": "Delcatty",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "5",
+      "fullNumber": "5/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delcatty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/5.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-6",
+      "name": "Dustox",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "6",
+      "fullNumber": "6/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "dustox"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/6.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-7",
+      "name": "Gardevoir",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "7",
+      "fullNumber": "7/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "gardevoir"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/7.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-8",
+      "name": "Hariyama",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "8",
+      "fullNumber": "8/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "hariyama"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/8.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-9",
+      "name": "Manectric",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "9",
+      "fullNumber": "9/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "manectric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/9.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-10",
+      "name": "Mightyena",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "10",
+      "fullNumber": "10/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mightyena"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/10.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-11",
+      "name": "Sceptile",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "11",
+      "fullNumber": "11/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sceptile"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/11.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-12",
+      "name": "Slaking",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "12",
+      "fullNumber": "12/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "slaking"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/12.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-13",
+      "name": "Swampert",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "13",
+      "fullNumber": "13/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "swampert"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/13.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-14",
+      "name": "Wailord",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "14",
+      "fullNumber": "14/109",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wailord"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/14.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-ruby-sapphire-15",
+      "name": "Blaziken",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "15",
+      "fullNumber": "15/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "blaziken"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/15.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-16",
+      "name": "Breloom",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "16",
+      "fullNumber": "16/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "breloom"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/16.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-17",
+      "name": "Donphan",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "17",
+      "fullNumber": "17/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "donphan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/17.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-18",
+      "name": "Nosepass",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "18",
+      "fullNumber": "18/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "nosepass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/18.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-19",
+      "name": "Pelipper",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "19",
+      "fullNumber": "19/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pelipper"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/19.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-20",
+      "name": "Sceptile",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "20",
+      "fullNumber": "20/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sceptile"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/20.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-21",
+      "name": "Seaking",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "21",
+      "fullNumber": "21/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "seaking"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/21.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-22",
+      "name": "Sharpedo",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "22",
+      "fullNumber": "22/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sharpedo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/22.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-23",
+      "name": "Swampert",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "23",
+      "fullNumber": "23/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "swampert"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/23.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-24",
+      "name": "Weezing",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "24",
+      "fullNumber": "24/109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "weezing"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/24.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-ruby-sapphire-25",
+      "name": "Aron",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "25",
+      "fullNumber": "25/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aron"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/25.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-26",
+      "name": "Cascoon",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "26",
+      "fullNumber": "26/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "cascoon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/26.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-27",
+      "name": "Combusken",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "27",
+      "fullNumber": "27/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "combusken"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/27.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-28",
+      "name": "Combusken",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "28",
+      "fullNumber": "28/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "combusken"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/28.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-29",
+      "name": "Delcatty",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "29",
+      "fullNumber": "29/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delcatty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/29.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-30",
+      "name": "Electrike",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "30",
+      "fullNumber": "30/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "electrike"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/30.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-31",
+      "name": "Grovyle",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "31",
+      "fullNumber": "31/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "grovyle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/31.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-32",
+      "name": "Grovyle",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "32",
+      "fullNumber": "32/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "grovyle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/32.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-33",
+      "name": "Hariyama",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "33",
+      "fullNumber": "33/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "hariyama"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/33.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-34",
+      "name": "Kirlia",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "34",
+      "fullNumber": "34/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kirlia"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/34.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-35",
+      "name": "Kirlia",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "35",
+      "fullNumber": "35/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kirlia"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/35.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-36",
+      "name": "Lairon",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "36",
+      "fullNumber": "36/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lairon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/36.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-37",
+      "name": "Lairon",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "37",
+      "fullNumber": "37/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lairon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/37.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-38",
+      "name": "Linoone",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "38",
+      "fullNumber": "38/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "linoone"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/38.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-39",
+      "name": "Manectric",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "39",
+      "fullNumber": "39/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "manectric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/39.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-40",
+      "name": "Marshtomp",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "40",
+      "fullNumber": "40/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "marshtomp"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/40.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-41",
+      "name": "Marshtomp",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "41",
+      "fullNumber": "41/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "marshtomp"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/41.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-42",
+      "name": "Mightyena",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "42",
+      "fullNumber": "42/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mightyena"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/42.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-43",
+      "name": "Silcoon",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "43",
+      "fullNumber": "43/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "silcoon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/43.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-44",
+      "name": "Skitty",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "44",
+      "fullNumber": "44/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "skitty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/44.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-45",
+      "name": "Slakoth",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "45",
+      "fullNumber": "45/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "slakoth"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/45.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-46",
+      "name": "Swellow",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "46",
+      "fullNumber": "46/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "swellow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/46.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-47",
+      "name": "Vigoroth",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "47",
+      "fullNumber": "47/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "vigoroth"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/47.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-48",
+      "name": "Wailmer",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "48",
+      "fullNumber": "48/109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wailmer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/48.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-ruby-sapphire-49",
+      "name": "Aron",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "49",
+      "fullNumber": "49/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aron"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/49.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-50",
+      "name": "Aron",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "50",
+      "fullNumber": "50/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aron"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/50.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-51",
+      "name": "Carvanha",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "51",
+      "fullNumber": "51/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "carvanha"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/51.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-52",
+      "name": "Electrike",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "52",
+      "fullNumber": "52/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "electrike"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/52.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-53",
+      "name": "Electrike",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "53",
+      "fullNumber": "53/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "electrike"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/53.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-54",
+      "name": "Koffing",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "54",
+      "fullNumber": "54/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "koffing"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/54.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-55",
+      "name": "Goldeen",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "55",
+      "fullNumber": "55/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "goldeen"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/55.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-56",
+      "name": "Makuhita",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "56",
+      "fullNumber": "56/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "makuhita"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/56.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-57",
+      "name": "Makuhita",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "57",
+      "fullNumber": "57/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "makuhita"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/57.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-58",
+      "name": "Makuhita",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "58",
+      "fullNumber": "58/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "makuhita"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/58.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-59",
+      "name": "Mudkip",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "59",
+      "fullNumber": "59/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mudkip"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/59.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-60",
+      "name": "Mudkip",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "60",
+      "fullNumber": "60/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mudkip"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/60.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-61",
+      "name": "Numel",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "61",
+      "fullNumber": "61/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "numel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/61.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-62",
+      "name": "Phanpy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "62",
+      "fullNumber": "62/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "phanpy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/62.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-63",
+      "name": "Poochyena",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "63",
+      "fullNumber": "63/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "poochyena"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/63.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-64",
+      "name": "Poochyena",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "64",
+      "fullNumber": "64/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "poochyena"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/64.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-65",
+      "name": "Poochyena",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "65",
+      "fullNumber": "65/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "poochyena"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/65.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-66",
+      "name": "Ralts",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "66",
+      "fullNumber": "66/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ralts"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/66.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-67",
+      "name": "Ralts",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "67",
+      "fullNumber": "67/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ralts"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/67.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-68",
+      "name": "Ralts",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "68",
+      "fullNumber": "68/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ralts"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/68.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-69",
+      "name": "Shroomish",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "69",
+      "fullNumber": "69/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shroomish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/69.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-70",
+      "name": "Skitty",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "70",
+      "fullNumber": "70/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "skitty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/70.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-71",
+      "name": "Skitty",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "71",
+      "fullNumber": "71/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "skitty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/71.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-72",
+      "name": "Taillow",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "72",
+      "fullNumber": "72/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "taillow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/72.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-73",
+      "name": "Torchic",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "73",
+      "fullNumber": "73/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "torchic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/73.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-74",
+      "name": "Torchic",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "74",
+      "fullNumber": "74/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "torchic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/74.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-75",
+      "name": "Treecko",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "75",
+      "fullNumber": "75/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "treecko"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/75.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-76",
+      "name": "Treecko",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "76",
+      "fullNumber": "76/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "treecko"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/76.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-77",
+      "name": "Wingull",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "77",
+      "fullNumber": "77/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wingull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/77.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-78",
+      "name": "Wurmple",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "78",
+      "fullNumber": "78/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wurmple"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/78.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-79",
+      "name": "Zigzagoon",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "79",
+      "fullNumber": "79/109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "zigzagoon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/79.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-ruby-sapphire-80",
+      "name": "Energy Removal 2",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "80",
+      "fullNumber": "80/109",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "energy removal 2",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/80.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-81",
+      "name": "Energy Restore",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "81",
+      "fullNumber": "81/109",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "energy restore",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/81.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-82",
+      "name": "Energy Switch",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "82",
+      "fullNumber": "82/109",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "energy switch",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/82.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-83",
+      "name": "Lady Outing",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "83",
+      "fullNumber": "83/109",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lady outing"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/83.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-84",
+      "name": "Lum Berry",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "84",
+      "fullNumber": "84/109",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lum berry",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/84.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-85",
+      "name": "Oran Berry",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "85",
+      "fullNumber": "85/109",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "oran berry",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/85.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-86",
+      "name": "Poké Ball",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "86",
+      "fullNumber": "86/109",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "poké ball",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/86.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-87",
+      "name": "Pokémon Reversal",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "87",
+      "fullNumber": "87/109",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokémon reversal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/87.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-88",
+      "name": "PokéNav",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "88",
+      "fullNumber": "88/109",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokénav"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/88.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-89",
+      "name": "Professor Birch",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "89",
+      "fullNumber": "89/109",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "professor birch"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/89.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-90",
+      "name": "Energy Search",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "90",
+      "fullNumber": "90/109",
+      "rarity": "Common",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "energy search",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/90.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-91",
+      "name": "Potion",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "91",
+      "fullNumber": "91/109",
+      "rarity": "Common",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "potion",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/91.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-92",
+      "name": "Switch",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "92",
+      "fullNumber": "92/109",
+      "rarity": "Common",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "switch",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/92.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-93",
+      "name": "Darkness Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "93",
+      "fullNumber": "93/109",
+      "rarity": "Rare",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "darkness energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/93.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-94",
+      "name": "Metal Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "94",
+      "fullNumber": "94/109",
+      "rarity": "Rare",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "metal energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/94.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-95",
+      "name": "Rainbow Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "95",
+      "fullNumber": "95/109",
+      "rarity": "Rare",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "rainbow energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/95.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-96",
+      "name": "Chansey ex",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "96",
+      "fullNumber": "96/109",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "chansey ex",
+        "chansey",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/96.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-ruby-sapphire-97",
+      "name": "Electabuzz ex",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "97",
+      "fullNumber": "97/109",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "electabuzz ex",
+        "electabuzz",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/97.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-ruby-sapphire-98",
+      "name": "Hitmonchan ex",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "98",
+      "fullNumber": "98/109",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "hitmonchan ex",
+        "hitmonchan",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/98.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-ruby-sapphire-99",
+      "name": "Lapras ex",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "99",
+      "fullNumber": "99/109",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lapras ex",
+        "lapras",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/99.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-ruby-sapphire-100",
+      "name": "Magmar ex",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "100",
+      "fullNumber": "100/109",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magmar ex",
+        "magmar",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/100.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-ruby-sapphire-101",
+      "name": "Mewtwo ex",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "101",
+      "fullNumber": "101/109",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mewtwo ex",
+        "mewtwo",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/101.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-ruby-sapphire-102",
+      "name": "Scyther ex",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "102",
+      "fullNumber": "102/109",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "scyther ex",
+        "scyther",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/102.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-ruby-sapphire-103",
+      "name": "Sneasel ex",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "103",
+      "fullNumber": "103/109",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sneasel ex",
+        "sneasel",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/103.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-ruby-sapphire-104",
+      "name": "Grass Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "104",
+      "fullNumber": "104/109",
+      "rarity": "Common",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "grass energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/104.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-105",
+      "name": "Fighting Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "105",
+      "fullNumber": "105/109",
+      "rarity": "Common",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "fighting energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/105.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-106",
+      "name": "Water Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "106",
+      "fullNumber": "106/109",
+      "rarity": "Common",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "water energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/106.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-107",
+      "name": "Psychic Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "107",
+      "fullNumber": "107/109",
+      "rarity": "Common",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "psychic energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/107.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-108",
+      "name": "Fire Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "108",
+      "fullNumber": "108/109",
+      "rarity": "Common",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "fire energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/108.jpg"
+    },
+    {
+      "id": "ex-ruby-sapphire-109",
+      "name": "Lightning Energy",
+      "setName": "EX Ruby & Sapphire",
+      "setCode": "ex-ruby-sapphire",
+      "cardNumber": "109",
+      "fullNumber": "109/109",
+      "rarity": "Common",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lightning energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exrubyandsapphire/109.jpg"
+    }
+  ]
+}

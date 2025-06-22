@@ -1,0 +1,1693 @@
+{
+  "setInfo": {
+    "name": "EX Dragon",
+    "description": "The third set in the EX Series, featuring powerful Dragon-type Pokémon and introducing the legendary Eon duo Latias and Latios. Notable for including the mighty Rayquaza ex and secret rare Charizard evolution line cards numbered beyond the base set. Features many Dragon-type Pokémon and their evolution lines.",
+    "setCode": "ex-dragon",
+    "totalCards": 100,
+    "releaseDate": "November 24, 2003",
+    "tagSales": [
+      "EX Dragon",
+      "Dragon",
+      "EX Series",
+      "Pokemon EX",
+      "Dragon Pokemon",
+      "Latias",
+      "Latios",
+      "Rayquaza ex",
+      "Charizard Secret",
+      "Salamence",
+      "Flygon",
+      "Dragonite ex",
+      "Ampharos ex",
+      "Secret Rare Charizard"
+    ]
+  },
+  "cards": [
+    {
+      "id": "ex-dragon-1",
+      "name": "Absol",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "1",
+      "fullNumber": "1/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "absol"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/1.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-2",
+      "name": "Altaria",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "2",
+      "fullNumber": "2/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "altaria",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/2.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-3",
+      "name": "Crawdaunt",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "3",
+      "fullNumber": "3/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "crawdaunt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/3.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-4",
+      "name": "Flygon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "4",
+      "fullNumber": "4/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "flygon",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/4.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-5",
+      "name": "Golem",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "5",
+      "fullNumber": "5/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "golem"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/5.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-6",
+      "name": "Grumpig",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "6",
+      "fullNumber": "6/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "grumpig"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/6.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-7",
+      "name": "Minun",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "7",
+      "fullNumber": "7/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "minun"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/7.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-8",
+      "name": "Plusle",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "8",
+      "fullNumber": "8/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "plusle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/8.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-9",
+      "name": "Roselia",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "9",
+      "fullNumber": "9/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "roselia"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/9.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-10",
+      "name": "Salamence",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "10",
+      "fullNumber": "10/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "salamence",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/10.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-11",
+      "name": "Shedinja",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "11",
+      "fullNumber": "11/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shedinja"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/11.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-12",
+      "name": "Torkoal",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "12",
+      "fullNumber": "12/97",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "torkoal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/12.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-dragon-13",
+      "name": "Crawdaunt",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "13",
+      "fullNumber": "13/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "crawdaunt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/13.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-14",
+      "name": "Dragonair",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "14",
+      "fullNumber": "14/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "dragonair",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/14.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-15",
+      "name": "Flygon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "15",
+      "fullNumber": "15/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "flygon",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/15.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-16",
+      "name": "Girafarig",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "16",
+      "fullNumber": "16/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "girafarig"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/16.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-17",
+      "name": "Magneton",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "17",
+      "fullNumber": "17/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magneton"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/17.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-18",
+      "name": "Ninjask",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "18",
+      "fullNumber": "18/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ninjask"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/18.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-19",
+      "name": "Salamence",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "19",
+      "fullNumber": "19/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "salamence",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/19.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-20",
+      "name": "Shelgon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "20",
+      "fullNumber": "20/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shelgon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/20.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-21",
+      "name": "Skarmory",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "21",
+      "fullNumber": "21/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "skarmory"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/21.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-22",
+      "name": "Vibrava",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "22",
+      "fullNumber": "22/97",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "vibrava",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/22.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-23",
+      "name": "Bagon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "23",
+      "fullNumber": "23/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "bagon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/23.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-24",
+      "name": "Camerupt",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "24",
+      "fullNumber": "24/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "camerupt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/24.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-25",
+      "name": "Combusken",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "25",
+      "fullNumber": "25/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "combusken"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/25.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-26",
+      "name": "Dratini",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "26",
+      "fullNumber": "26/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "dratini"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/26.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-27",
+      "name": "Flaaffy",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "27",
+      "fullNumber": "27/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "flaaffy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/27.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-28",
+      "name": "Forretress",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "28",
+      "fullNumber": "28/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "forretress"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/28.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-29",
+      "name": "Graveler",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "29",
+      "fullNumber": "29/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "graveler"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/29.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-30",
+      "name": "Graveler",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "30",
+      "fullNumber": "30/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "graveler"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/30.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-31",
+      "name": "Grovyle",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "31",
+      "fullNumber": "31/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "grovyle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/31.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-32",
+      "name": "Gyarados",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "32",
+      "fullNumber": "32/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "gyarados"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/32.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-33",
+      "name": "Horsea",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "33",
+      "fullNumber": "33/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "horsea"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/33.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-34",
+      "name": "Houndoom",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "34",
+      "fullNumber": "34/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "houndoom"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/34.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-35",
+      "name": "Magneton",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "35",
+      "fullNumber": "35/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magneton"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/35.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-36",
+      "name": "Marshtomp",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "36",
+      "fullNumber": "36/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "marshtomp"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/36.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-37",
+      "name": "Meditite",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "37",
+      "fullNumber": "37/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "meditite"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/37.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-38",
+      "name": "Ninjask",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "38",
+      "fullNumber": "38/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ninjask"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/38.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-39",
+      "name": "Seadra",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "39",
+      "fullNumber": "39/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "seadra"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/39.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-40",
+      "name": "Seadra",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "40",
+      "fullNumber": "40/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "seadra"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/40.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-41",
+      "name": "Shelgon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "41",
+      "fullNumber": "41/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shelgon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/41.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-42",
+      "name": "Shelgon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "42",
+      "fullNumber": "42/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shelgon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/42.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-43",
+      "name": "Shuppet",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "43",
+      "fullNumber": "43/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shuppet"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/43.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-44",
+      "name": "Snorunt",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "44",
+      "fullNumber": "44/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "snorunt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/44.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-45",
+      "name": "Swellow",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "45",
+      "fullNumber": "45/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "swellow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/45.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-46",
+      "name": "Vibrava",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "46",
+      "fullNumber": "46/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "vibrava",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/46.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-47",
+      "name": "Vibrava",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "47",
+      "fullNumber": "47/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "vibrava",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/47.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-48",
+      "name": "Whiscash",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "48",
+      "fullNumber": "48/97",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "whiscash"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/48.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-dragon-49",
+      "name": "Bagon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "49",
+      "fullNumber": "49/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "bagon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/49.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-50",
+      "name": "Bagon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "50",
+      "fullNumber": "50/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "bagon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/50.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-51",
+      "name": "Barboach",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "51",
+      "fullNumber": "51/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "barboach"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/51.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-52",
+      "name": "Corphish",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "52",
+      "fullNumber": "52/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "corphish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/52.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-53",
+      "name": "Corphish",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "53",
+      "fullNumber": "53/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "corphish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/53.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-54",
+      "name": "Corphish",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "54",
+      "fullNumber": "54/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "corphish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/54.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-55",
+      "name": "Geodude",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "55",
+      "fullNumber": "55/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "geodude"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/55.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-56",
+      "name": "Geodude",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "56",
+      "fullNumber": "56/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "geodude"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/56.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-57",
+      "name": "Grimer",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "57",
+      "fullNumber": "57/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "grimer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/57.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-58",
+      "name": "Horsea",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "58",
+      "fullNumber": "58/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "horsea"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/58.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-59",
+      "name": "Houndour",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "59",
+      "fullNumber": "59/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "houndour"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/59.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-60",
+      "name": "Magikarp",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "60",
+      "fullNumber": "60/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magikarp"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/60.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-61",
+      "name": "Magnemite",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "61",
+      "fullNumber": "61/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magnemite"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/61.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-62",
+      "name": "Magnemite",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "62",
+      "fullNumber": "62/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magnemite"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/62.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-63",
+      "name": "Magnemite",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "63",
+      "fullNumber": "63/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magnemite"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/63.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-64",
+      "name": "Mareep",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "64",
+      "fullNumber": "64/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mareep"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/64.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-65",
+      "name": "Mudkip",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "65",
+      "fullNumber": "65/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mudkip"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/65.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-66",
+      "name": "Nincada",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "66",
+      "fullNumber": "66/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "nincada"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/66.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-67",
+      "name": "Nincada",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "67",
+      "fullNumber": "67/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "nincada"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/67.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-68",
+      "name": "Nincada",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "68",
+      "fullNumber": "68/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "nincada"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/68.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-69",
+      "name": "Numel",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "69",
+      "fullNumber": "69/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "numel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/69.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-70",
+      "name": "Numel",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "70",
+      "fullNumber": "70/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "numel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/70.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-71",
+      "name": "Pineco",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "71",
+      "fullNumber": "71/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pineco"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/71.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-72",
+      "name": "Slugma",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "72",
+      "fullNumber": "72/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "slugma"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/72.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-73",
+      "name": "Spoink",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "73",
+      "fullNumber": "73/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "spoink"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/73.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-74",
+      "name": "Spoink",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "74",
+      "fullNumber": "74/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "spoink"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/74.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-75",
+      "name": "Swablu",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "75",
+      "fullNumber": "75/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "swablu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/75.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-76",
+      "name": "Taillow",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "76",
+      "fullNumber": "76/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "taillow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/76.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-77",
+      "name": "Torchic",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "77",
+      "fullNumber": "77/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "torchic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/77.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-78",
+      "name": "Trapinch",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "78",
+      "fullNumber": "78/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "trapinch"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/78.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-79",
+      "name": "Trapinch",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "79",
+      "fullNumber": "79/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "trapinch"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/79.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-80",
+      "name": "Treecko",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "80",
+      "fullNumber": "80/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "treecko"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/80.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-81",
+      "name": "Wurmple",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "81",
+      "fullNumber": "81/97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wurmple"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/81.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-dragon-82",
+      "name": "Balloon Berry",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "82",
+      "fullNumber": "82/97",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "balloon berry",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/82.jpg"
+    },
+    {
+      "id": "ex-dragon-83",
+      "name": "Buffer Piece",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "83",
+      "fullNumber": "83/97",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "buffer piece",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/83.jpg"
+    },
+    {
+      "id": "ex-dragon-84",
+      "name": "Energy Recycle System",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "84",
+      "fullNumber": "84/97",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "energy recycle system",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/84.jpg"
+    },
+    {
+      "id": "ex-dragon-85",
+      "name": "High Pressure System",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "85",
+      "fullNumber": "85/97",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "high pressure system",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/85.jpg"
+    },
+    {
+      "id": "ex-dragon-86",
+      "name": "Low Pressure System",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "86",
+      "fullNumber": "86/97",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "low pressure system",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/86.jpg"
+    },
+    {
+      "id": "ex-dragon-87",
+      "name": "Mr. Briney's Compassion",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "87",
+      "fullNumber": "87/97",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mr. briney's compassion",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/87.jpg"
+    },
+    {
+      "id": "ex-dragon-88",
+      "name": "TV Reporter",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "88",
+      "fullNumber": "88/97",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tv reporter",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/88.jpg"
+    },
+    {
+      "id": "ex-dragon-89",
+      "name": "Ampharos ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "89",
+      "fullNumber": "89/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ampharos ex",
+        "ampharos",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/89.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-90",
+      "name": "Dragonite ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "90",
+      "fullNumber": "90/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "dragonite ex",
+        "dragonite",
+        "ex",
+        "dragon",
+        "dragon type"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/90.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-91",
+      "name": "Golem ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "91",
+      "fullNumber": "91/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "golem ex",
+        "golem",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/91.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-92",
+      "name": "Kingdra ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "92",
+      "fullNumber": "92/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kingdra ex",
+        "kingdra",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/92.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-93",
+      "name": "Latias ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "93",
+      "fullNumber": "93/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "latias ex",
+        "latias",
+        "ex",
+        "legendary",
+        "dragon",
+        "eon duo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/93.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-94",
+      "name": "Latios ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "94",
+      "fullNumber": "94/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "latios ex",
+        "latios",
+        "ex",
+        "legendary",
+        "dragon",
+        "eon duo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/94.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-95",
+      "name": "Magcargo ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "95",
+      "fullNumber": "95/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magcargo ex",
+        "magcargo",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/95.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-96",
+      "name": "Muk ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "96",
+      "fullNumber": "96/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "muk ex",
+        "muk",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/96.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-97",
+      "name": "Rayquaza ex",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "97",
+      "fullNumber": "97/97",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "rayquaza ex",
+        "rayquaza",
+        "ex",
+        "legendary",
+        "dragon",
+        "eon duo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/97.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-dragon-98",
+      "name": "Charmander",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "98",
+      "fullNumber": "98/97",
+      "rarity": "Rare Secret",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "charmander",
+        "charizard line",
+        "starter",
+        "kanto starter",
+        "secret rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/98.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-99",
+      "name": "Charmeleon",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "99",
+      "fullNumber": "99/97",
+      "rarity": "Rare Secret",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "charmeleon",
+        "charizard line",
+        "starter",
+        "kanto starter",
+        "secret rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/99.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-dragon-100",
+      "name": "Charizard",
+      "setName": "EX Dragon",
+      "setCode": "ex-dragon",
+      "cardNumber": "100",
+      "fullNumber": "100/97",
+      "rarity": "Rare Secret",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "charizard",
+        "charizard line",
+        "starter",
+        "kanto starter",
+        "secret rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdragon/100.jpg",
+      "hp": "70"
+    }
+  ]
+}

@@ -1,0 +1,1661 @@
+{
+  "setInfo": {
+    "name": "EX Sandstorm",
+    "description": "The second set in the EX Series, featuring desert and fossil-themed Pokémon. Introduces the famous Rare Candy trainer card and includes powerful fossil Pokémon like Armaldo and Cradily. Features Eeveelutions and the debut of several Generation III Pokémon-ex cards including Aggron ex and Gardevoir ex.",
+    "setCode": "ex-sandstorm",
+    "totalCards": 100,
+    "releaseDate": "September 18, 2003",
+    "tagSales": [
+      "EX Sandstorm",
+      "Sandstorm",
+      "EX Series",
+      "Pokemon EX",
+      "Fossil Pokemon",
+      "Rare Candy",
+      "Eeveelutions",
+      "Armaldo",
+      "Cradily",
+      "Gardevoir ex",
+      "Aggron ex",
+      "Typhlosion ex",
+      "Aerodactyl ex"
+    ]
+  },
+  "cards": [
+    {
+      "id": "ex-sandstorm-1",
+      "name": "Armaldo",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "1",
+      "fullNumber": "1/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "armaldo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/1.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-2",
+      "name": "Cacturne",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "2",
+      "fullNumber": "2/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "cacturne"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/2.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-3",
+      "name": "Cradily",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "3",
+      "fullNumber": "3/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "cradily"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/3.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-4",
+      "name": "Dusclops",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "4",
+      "fullNumber": "4/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "dusclops"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/4.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-5",
+      "name": "Flareon",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "5",
+      "fullNumber": "5/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "flareon",
+        "eeveelution",
+        "eevee evolution"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/5.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-6",
+      "name": "Jolteon",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "6",
+      "fullNumber": "6/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "jolteon",
+        "eeveelution",
+        "eevee evolution"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/6.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-7",
+      "name": "Ludicolo",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "7",
+      "fullNumber": "7/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ludicolo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/7.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-8",
+      "name": "Lunatone",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "8",
+      "fullNumber": "8/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lunatone"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/8.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-9",
+      "name": "Mawile",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "9",
+      "fullNumber": "9/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mawile"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/9.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-10",
+      "name": "Sableye",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "10",
+      "fullNumber": "10/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sableye"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/10.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-11",
+      "name": "Seviper",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "11",
+      "fullNumber": "11/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "seviper"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/11.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-12",
+      "name": "Shiftry",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "12",
+      "fullNumber": "12/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shiftry"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/12.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-13",
+      "name": "Solrock",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "13",
+      "fullNumber": "13/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "solrock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/13.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-14",
+      "name": "Zangoose",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "14",
+      "fullNumber": "14/100",
+      "rarity": "Rare Holo",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "zangoose"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/14.jpg",
+      "hp": "90"
+    },
+    {
+      "id": "ex-sandstorm-15",
+      "name": "Arcanine",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "15",
+      "fullNumber": "15/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "arcanine"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/15.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-16",
+      "name": "Espeon",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "16",
+      "fullNumber": "16/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "espeon",
+        "eeveelution",
+        "eevee evolution"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/16.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-17",
+      "name": "Golduck",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "17",
+      "fullNumber": "17/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "golduck"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/17.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-18",
+      "name": "Kecleon",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "18",
+      "fullNumber": "18/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kecleon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/18.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-19",
+      "name": "Omastar",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "19",
+      "fullNumber": "19/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "omastar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/19.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-20",
+      "name": "Pichu",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "20",
+      "fullNumber": "20/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pichu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/20.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-21",
+      "name": "Sandslash",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "21",
+      "fullNumber": "21/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sandslash"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/21.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-22",
+      "name": "Shiftry",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "22",
+      "fullNumber": "22/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shiftry"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/22.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-23",
+      "name": "Steelix",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "23",
+      "fullNumber": "23/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "steelix"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/23.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-24",
+      "name": "Umbreon",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "24",
+      "fullNumber": "24/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "umbreon",
+        "eeveelution",
+        "eevee evolution"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/24.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-25",
+      "name": "Vaporeon",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "25",
+      "fullNumber": "25/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "vaporeon",
+        "eeveelution",
+        "eevee evolution"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/25.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-26",
+      "name": "Wobbuffet",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "26",
+      "fullNumber": "26/100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wobbuffet"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/26.jpg",
+      "hp": "70"
+    },
+    {
+      "id": "ex-sandstorm-27",
+      "name": "Anorith",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "27",
+      "fullNumber": "27/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "anorith"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/27.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-28",
+      "name": "Anorith",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "28",
+      "fullNumber": "28/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "anorith"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/28.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-29",
+      "name": "Arbok",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "29",
+      "fullNumber": "29/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "arbok"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/29.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-30",
+      "name": "Azumarill",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "30",
+      "fullNumber": "30/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "azumarill"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/30.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-31",
+      "name": "Azurill",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "31",
+      "fullNumber": "31/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "azurill"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/31.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-32",
+      "name": "Baltoy",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "32",
+      "fullNumber": "32/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "baltoy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/32.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-33",
+      "name": "Breloom",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "33",
+      "fullNumber": "33/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "breloom"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/33.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-34",
+      "name": "Delcatty",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "34",
+      "fullNumber": "34/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delcatty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/34.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-35",
+      "name": "Electabuzz",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "35",
+      "fullNumber": "35/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "electabuzz"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/35.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-36",
+      "name": "Elekid",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "36",
+      "fullNumber": "36/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "elekid"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/36.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-37",
+      "name": "Fearow",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "37",
+      "fullNumber": "37/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "fearow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/37.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-38",
+      "name": "Illumise",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "38",
+      "fullNumber": "38/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "illumise"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/38.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-39",
+      "name": "Kabuto",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "39",
+      "fullNumber": "39/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kabuto"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/39.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-40",
+      "name": "Kirlia",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "40",
+      "fullNumber": "40/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kirlia"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/40.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-41",
+      "name": "Lairon",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "41",
+      "fullNumber": "41/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lairon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/41.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-42",
+      "name": "Lileep",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "42",
+      "fullNumber": "42/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lileep"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/42.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-43",
+      "name": "Lileep",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "43",
+      "fullNumber": "43/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lileep"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/43.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-44",
+      "name": "Linoone",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "44",
+      "fullNumber": "44/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "linoone"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/44.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-45",
+      "name": "Lombre",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "45",
+      "fullNumber": "45/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lombre"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/45.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-46",
+      "name": "Lombre",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "46",
+      "fullNumber": "46/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lombre"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/46.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-47",
+      "name": "Murkrow",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "47",
+      "fullNumber": "47/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "murkrow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/47.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-48",
+      "name": "Nuzleaf",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "48",
+      "fullNumber": "48/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "nuzleaf"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/48.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-49",
+      "name": "Nuzleaf",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "49",
+      "fullNumber": "49/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "nuzleaf"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/49.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-50",
+      "name": "Pelipper",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "50",
+      "fullNumber": "50/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pelipper"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/50.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-51",
+      "name": "Quilava",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "51",
+      "fullNumber": "51/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "quilava"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/51.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-52",
+      "name": "Vigoroth",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "52",
+      "fullNumber": "52/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "vigoroth"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/52.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-53",
+      "name": "Volbeat",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "53",
+      "fullNumber": "53/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "volbeat"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/53.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-54",
+      "name": "Wynaut",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "54",
+      "fullNumber": "54/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wynaut"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/54.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-55",
+      "name": "Xatu",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "55",
+      "fullNumber": "55/100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "xatu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/55.jpg",
+      "hp": "60"
+    },
+    {
+      "id": "ex-sandstorm-56",
+      "name": "Aron",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "56",
+      "fullNumber": "56/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aron"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/56.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-57",
+      "name": "Cacnea",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "57",
+      "fullNumber": "57/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "cacnea"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/57.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-58",
+      "name": "Cacnea",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "58",
+      "fullNumber": "58/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "cacnea"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/58.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-59",
+      "name": "Cyndaquil",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "59",
+      "fullNumber": "59/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "cyndaquil"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/59.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-60",
+      "name": "Dunsparce",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "60",
+      "fullNumber": "60/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "dunsparce"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/60.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-61",
+      "name": "Duskull",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "61",
+      "fullNumber": "61/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "duskull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/61.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-62",
+      "name": "Duskull",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "62",
+      "fullNumber": "62/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "duskull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/62.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-63",
+      "name": "Eevee",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "63",
+      "fullNumber": "63/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "eevee"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/63.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-64",
+      "name": "Ekans",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "64",
+      "fullNumber": "64/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ekans"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/64.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-65",
+      "name": "Growlithe",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "65",
+      "fullNumber": "65/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "growlithe"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/65.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-66",
+      "name": "Lotad",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "66",
+      "fullNumber": "66/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lotad"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/66.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-67",
+      "name": "Lotad",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "67",
+      "fullNumber": "67/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lotad"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/67.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-68",
+      "name": "Marill",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "68",
+      "fullNumber": "68/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "marill"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/68.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-69",
+      "name": "Natu",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "69",
+      "fullNumber": "69/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "natu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/69.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-70",
+      "name": "Omanyte",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "70",
+      "fullNumber": "70/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "omanyte"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/70.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-71",
+      "name": "Onix",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "71",
+      "fullNumber": "71/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "onix"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/71.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-72",
+      "name": "Pikachu",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "72",
+      "fullNumber": "72/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pikachu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/72.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-73",
+      "name": "Psyduck",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "73",
+      "fullNumber": "73/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "psyduck"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/73.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-74",
+      "name": "Ralts",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "74",
+      "fullNumber": "74/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ralts"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/74.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-75",
+      "name": "Sandshrew",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "75",
+      "fullNumber": "75/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sandshrew"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/75.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-76",
+      "name": "Seedot",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "76",
+      "fullNumber": "76/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "seedot"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/76.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-77",
+      "name": "Seedot",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "77",
+      "fullNumber": "77/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "seedot"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/77.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-78",
+      "name": "Shroomish",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "78",
+      "fullNumber": "78/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shroomish"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/78.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-79",
+      "name": "Skitty",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "79",
+      "fullNumber": "79/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "skitty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/79.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-80",
+      "name": "Slakoth",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "80",
+      "fullNumber": "80/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "slakoth"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/80.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-81",
+      "name": "Spearow",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "81",
+      "fullNumber": "81/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "spearow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/81.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-82",
+      "name": "Trapinch",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "82",
+      "fullNumber": "82/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "trapinch"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/82.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-83",
+      "name": "Wailmer",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "83",
+      "fullNumber": "83/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wailmer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/83.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-84",
+      "name": "Wingull",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "84",
+      "fullNumber": "84/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wingull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/84.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-85",
+      "name": "Zigzagoon",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "85",
+      "fullNumber": "85/100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "zigzagoon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/85.jpg",
+      "hp": "50"
+    },
+    {
+      "id": "ex-sandstorm-86",
+      "name": "Double Full Heal",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "86",
+      "fullNumber": "86/100",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "double full heal",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/86.jpg"
+    },
+    {
+      "id": "ex-sandstorm-87",
+      "name": "Lanette's Net Search",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "87",
+      "fullNumber": "87/100",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lanette's net search",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/87.jpg"
+    },
+    {
+      "id": "ex-sandstorm-88",
+      "name": "Rare Candy",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "88",
+      "fullNumber": "88/100",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "rare candy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/88.jpg"
+    },
+    {
+      "id": "ex-sandstorm-89",
+      "name": "Wally's Training",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "89",
+      "fullNumber": "89/100",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wally's training",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/89.jpg"
+    },
+    {
+      "id": "ex-sandstorm-90",
+      "name": "Claw Fossil",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "90",
+      "fullNumber": "90/100",
+      "rarity": "Common",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "claw fossil",
+        "fossil",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/90.jpg"
+    },
+    {
+      "id": "ex-sandstorm-91",
+      "name": "Mysterious Fossil",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "91",
+      "fullNumber": "91/100",
+      "rarity": "Common",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mysterious fossil",
+        "fossil",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/91.jpg"
+    },
+    {
+      "id": "ex-sandstorm-92",
+      "name": "Root Fossil",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "92",
+      "fullNumber": "92/100",
+      "rarity": "Common",
+      "type": "Trainer",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "root fossil",
+        "fossil",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/92.jpg"
+    },
+    {
+      "id": "ex-sandstorm-93",
+      "name": "Multi Energy",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "93",
+      "fullNumber": "93/100",
+      "rarity": "Rare",
+      "type": "Energy",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "multi energy",
+        "trainer",
+        "item"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/93.jpg"
+    },
+    {
+      "id": "ex-sandstorm-94",
+      "name": "Aerodactyl ex",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "94",
+      "fullNumber": "94/100",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aerodactyl ex",
+        "aerodactyl",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/94.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-sandstorm-95",
+      "name": "Aggron ex",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "95",
+      "fullNumber": "95/100",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aggron ex",
+        "aggron",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/95.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-sandstorm-96",
+      "name": "Gardevoir ex",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "96",
+      "fullNumber": "96/100",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "gardevoir ex",
+        "gardevoir",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/96.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-sandstorm-97",
+      "name": "Kabutops ex",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "97",
+      "fullNumber": "97/100",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kabutops ex",
+        "kabutops",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/97.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-sandstorm-98",
+      "name": "Raichu ex",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "98",
+      "fullNumber": "98/100",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "raichu ex",
+        "raichu",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/98.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-sandstorm-99",
+      "name": "Typhlosion ex",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "99",
+      "fullNumber": "99/100",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "typhlosion ex",
+        "typhlosion",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/99.jpg",
+      "hp": "150"
+    },
+    {
+      "id": "ex-sandstorm-100",
+      "name": "Wailord ex",
+      "setName": "EX Sandstorm",
+      "setCode": "ex-sandstorm",
+      "cardNumber": "100",
+      "fullNumber": "100/100",
+      "rarity": "Rare Holo ex",
+      "type": "Pokemon",
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wailord ex",
+        "wailord",
+        "ex"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exsandstorm/100.jpg",
+      "hp": "150"
+    }
+  ]
+}
