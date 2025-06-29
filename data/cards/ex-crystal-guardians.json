@@ -1,9 +1,13 @@
 {
-  "setName": "EX Crystal Guardians",
-  "description": "Introduces Crystal-themed Trainer cards and features both regular and Delta Species Pokémon. Notable for Alakazam Star and Celebi Star cards.",
-  "releaseDate": "2006-08-30",
-  "totalCards": "100",
-  "tagSales": true,
+  "setInfo": {
+    "name": "EX Crystal Guardians",
+    "description": "Introduces Crystal-themed Trainer cards and features both regular and Delta Species Pok\u00c3\u00a9mon. Notable for Alakazam Star and Celebi Star cards.",
+    "lastUpdated": "2025/06/29",
+    "setCode": "CG",
+    "totalCards": 100,
+    "releaseDate": "2006/08/30",
+    "tagSales": 320
+  },
   "cards": [
     {
       "id": "cg-1",
@@ -28,7 +32,7 @@
     },
     {
       "id": "cg-2",
-      "name": "Blastoise δ",
+      "name": "Blastoise \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "2",
@@ -73,7 +77,7 @@
     },
     {
       "id": "cg-4",
-      "name": "Charizard δ",
+      "name": "Charizard \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "4",
@@ -118,7 +122,7 @@
     },
     {
       "id": "cg-6",
-      "name": "Ludicolo δ",
+      "name": "Ludicolo \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "6",
@@ -310,7 +314,7 @@
     },
     {
       "id": "cg-15",
-      "name": "Cacturne δ",
+      "name": "Cacturne \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "15",
@@ -376,7 +380,7 @@
     },
     {
       "id": "cg-18",
-      "name": "Fearow δ",
+      "name": "Fearow \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "18",
@@ -399,7 +403,7 @@
     },
     {
       "id": "cg-19",
-      "name": "Grovyle δ",
+      "name": "Grovyle \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "19",
@@ -465,7 +469,7 @@
     },
     {
       "id": "cg-22",
-      "name": "Kingler δ",
+      "name": "Kingler \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "22",
@@ -552,7 +556,7 @@
     },
     {
       "id": "cg-26",
-      "name": "Pelipper δ",
+      "name": "Pelipper \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "26",
@@ -638,7 +642,7 @@
     },
     {
       "id": "cg-30",
-      "name": "Charmeleon δ",
+      "name": "Charmeleon \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "30",
@@ -1037,7 +1041,7 @@
     },
     {
       "id": "cg-49",
-      "name": "Charmander δ",
+      "name": "Charmander \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "49",
@@ -1437,7 +1441,7 @@
     },
     {
       "id": "cg-68",
-      "name": "Treecko δ",
+      "name": "Treecko \u00ce\u00b4",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "68",
@@ -2088,7 +2092,7 @@
     },
     {
       "id": "cg-99",
-      "name": "Alakazam ☆",
+      "name": "Alakazam \u00e2\u02dc\u2020",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "99",
@@ -2111,7 +2115,7 @@
     },
     {
       "id": "cg-100",
-      "name": "Celebi ☆",
+      "name": "Celebi \u00e2\u02dc\u2020",
       "setName": "EX Crystal Guardians",
       "setCode": "CG",
       "cardNumber": "100",

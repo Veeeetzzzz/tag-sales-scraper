@@ -1,9 +1,13 @@
 {
-  "setName": "EX Power Keepers",
-  "description": "The final set of the EX Series, featuring Pokémon-ex and the Eeveelution Star cards. Known for its Elite Four themed stadiums and final appearances of classic EX mechanics.",
-  "releaseDate": "2007-02-14",
-  "totalCards": "108",
-  "tagSales": true,
+  "setInfo": {
+    "name": "EX Power Keepers",
+    "description": "The final set of the EX Series, featuring Pok\u00c3\u00a9mon-ex and the Eeveelution Star cards. Known for its Elite Four themed stadiums and final appearances of classic EX mechanics.",
+    "lastUpdated": "2025/06/29",
+    "setCode": "PK",
+    "totalCards": 108,
+    "releaseDate": "2007/02/14",
+    "tagSales": 450
+  },
   "cards": [
     {
       "id": "pk-1",
@@ -2085,7 +2089,7 @@
     },
     {
       "id": "pk-100",
-      "name": "Flareon ☆",
+      "name": "Flareon \u00e2\u02dc\u2020",
       "setName": "EX Power Keepers",
       "setCode": "PK",
       "cardNumber": "100",
@@ -2108,7 +2112,7 @@
     },
     {
       "id": "pk-101",
-      "name": "Jolteon ☆",
+      "name": "Jolteon \u00e2\u02dc\u2020",
       "setName": "EX Power Keepers",
       "setCode": "PK",
       "cardNumber": "101",
@@ -2131,7 +2135,7 @@
     },
     {
       "id": "pk-102",
-      "name": "Vaporeon ☆",
+      "name": "Vaporeon \u00e2\u02dc\u2020",
       "setName": "EX Power Keepers",
       "setCode": "PK",
       "cardNumber": "102",

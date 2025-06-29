@@ -1,9 +1,13 @@
 {
-  "setName": "EX Legend Maker",
-  "description": "Features the legendary Regi trio as Star cards and introduces unique training mechanics. Notable for the secret rare Pikachu \u03b4 and various fossil Pokemon.",
-  "releaseDate": "2006-02-13",
-  "totalCards": "92",
-  "tagSales": true,
+  "setInfo": {
+    "name": "EX Legend Maker",
+    "description": "Features the legendary Regi trio as Star cards and introduces unique training mechanics. Notable for the secret rare Pikachu \u03b4 and various fossil Pokemon.",
+    "lastUpdated": "2025/06/29",
+    "setCode": "LM",
+    "totalCards": 92,
+    "releaseDate": "2006/02/13",
+    "tagSales": 260
+  },
   "cards": [
     {
       "id": "lm-1",

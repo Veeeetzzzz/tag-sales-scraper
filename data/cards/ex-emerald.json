@@ -1,9 +1,13 @@
 {
-  "setName": "EX Emerald",
-  "description": "Features Hoenn region Pok\u00e9mon with special energy cards and legendary creatures. Notable for the rare holographic basic energy cards and secret rare Farfetch'd.",
-  "releaseDate": "2005-05-09",
-  "totalCards": "106",
-  "tagSales": true,
+  "setInfo": {
+    "name": "EX Emerald",
+    "description": "Features Hoenn region Pok\u00e9mon with special energy cards and legendary creatures. Notable for the rare holographic basic energy cards and secret rare Farfetch'd.",
+    "lastUpdated": "2025/06/29",
+    "setCode": "EM",
+    "totalCards": 106,
+    "releaseDate": "2005/05/09",
+    "tagSales": 480
+  },
   "cards": [
     {
       "id": "em-1",

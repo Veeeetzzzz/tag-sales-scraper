@@ -1,9 +1,13 @@
 {
-  "setName": "EX Delta Species",
-  "description": "The original Delta Species set introducing Pok\u00e9mon with altered types. Features unique dual-type Delta Species cards and the mysterious Holon region Pok\u00e9mon.",
-  "releaseDate": "2005-10-31",
-  "totalCards": "113",
-  "tagSales": true,
+  "setInfo": {
+    "name": "EX Delta Species",
+    "description": "The original Delta Species set introducing Pok\u00e9mon with altered types. Features unique dual-type Delta Species cards and the mysterious Holon region Pok\u00e9mon.",
+    "lastUpdated": "2025/06/29",
+    "setCode": "DS",
+    "totalCards": 113,
+    "releaseDate": "2005/10/31",
+    "tagSales": 350
+  },
   "cards": [
     {
       "id": "ds-1",

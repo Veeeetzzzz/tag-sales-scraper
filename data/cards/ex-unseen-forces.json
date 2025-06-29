@@ -1,9 +1,13 @@
 {
-  "setName": "EX Unseen Forces",
-  "description": "Features the Johto region with legendary beast Star cards and the complete Unown alphabet. Notable for secret rare Celebi ex and Rocket's Persian ex.",
-  "releaseDate": "2005-08-22",
-  "totalCards": "115",
-  "tagSales": true,
+  "setInfo": {
+    "name": "EX Unseen Forces",
+    "description": "Features the Johto region with legendary beast Star cards and the complete Unown alphabet. Notable for secret rare Celebi ex and Rocket's Persian ex.",
+    "lastUpdated": "2025/06/29",
+    "setCode": "UF",
+    "totalCards": 115,
+    "releaseDate": "2005/08/22",
+    "tagSales": 420
+  },
   "cards": [
     {
       "id": "uf-1",

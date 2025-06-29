@@ -1,13 +1,17 @@
 {
-  "setName": "EX Dragon Frontiers",
-  "description": "Features Delta Species Pokémon with Metal typing and includes the legendary Charizard Star and Mew Star cards. Focuses on Dragon-type and Metal-type Delta Species.",
-  "releaseDate": "2006-11-08",
-  "totalCards": "101",
-  "tagSales": true,
+  "setInfo": {
+    "name": "EX Dragon Frontiers",
+    "description": "Features Delta Species Pok\u00c3\u00a9mon with Metal typing and includes the legendary Charizard Star and Mew Star cards. Focuses on Dragon-type and Metal-type Delta Species.",
+    "lastUpdated": "2025/06/29",
+    "setCode": "DF",
+    "totalCards": 101,
+    "releaseDate": "2006/11/08",
+    "tagSales": 380
+  },
   "cards": [
     {
       "id": "df-1",
-      "name": "Ampharos δ",
+      "name": "Ampharos \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "1",
@@ -30,7 +34,7 @@
     },
     {
       "id": "df-2",
-      "name": "Feraligatr δ",
+      "name": "Feraligatr \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "2",
@@ -53,7 +57,7 @@
     },
     {
       "id": "df-3",
-      "name": "Heracross δ",
+      "name": "Heracross \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "3",
@@ -76,7 +80,7 @@
     },
     {
       "id": "df-4",
-      "name": "Meganium δ",
+      "name": "Meganium \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "4",
@@ -99,7 +103,7 @@
     },
     {
       "id": "df-5",
-      "name": "Milotic δ",
+      "name": "Milotic \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "5",
@@ -122,7 +126,7 @@
     },
     {
       "id": "df-6",
-      "name": "Nidoking δ",
+      "name": "Nidoking \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "6",
@@ -146,7 +150,7 @@
     },
     {
       "id": "df-7",
-      "name": "Nidoqueen δ",
+      "name": "Nidoqueen \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "7",
@@ -170,7 +174,7 @@
     },
     {
       "id": "df-8",
-      "name": "Ninetales δ",
+      "name": "Ninetales \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "8",
@@ -193,7 +197,7 @@
     },
     {
       "id": "df-9",
-      "name": "Pinsir δ",
+      "name": "Pinsir \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "9",
@@ -216,7 +220,7 @@
     },
     {
       "id": "df-10",
-      "name": "Snorlax δ",
+      "name": "Snorlax \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "10",
@@ -239,7 +243,7 @@
     },
     {
       "id": "df-11",
-      "name": "Togetic δ",
+      "name": "Togetic \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "11",
@@ -262,7 +266,7 @@
     },
     {
       "id": "df-12",
-      "name": "Typhlosion δ",
+      "name": "Typhlosion \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "12",
@@ -286,7 +290,7 @@
     },
     {
       "id": "df-13",
-      "name": "Arbok δ",
+      "name": "Arbok \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "13",
@@ -309,7 +313,7 @@
     },
     {
       "id": "df-14",
-      "name": "Cloyster δ",
+      "name": "Cloyster \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "14",
@@ -332,7 +336,7 @@
     },
     {
       "id": "df-15",
-      "name": "Dewgong δ",
+      "name": "Dewgong \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "15",
@@ -355,7 +359,7 @@
     },
     {
       "id": "df-16",
-      "name": "Gligar δ",
+      "name": "Gligar \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "16",
@@ -378,7 +382,7 @@
     },
     {
       "id": "df-17",
-      "name": "Jynx δ",
+      "name": "Jynx \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "17",
@@ -401,7 +405,7 @@
     },
     {
       "id": "df-18",
-      "name": "Ledian δ",
+      "name": "Ledian \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "18",
@@ -424,7 +428,7 @@
     },
     {
       "id": "df-19",
-      "name": "Lickitung δ",
+      "name": "Lickitung \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "19",
@@ -447,7 +451,7 @@
     },
     {
       "id": "df-20",
-      "name": "Mantine δ",
+      "name": "Mantine \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "20",
@@ -470,7 +474,7 @@
     },
     {
       "id": "df-21",
-      "name": "Quagsire δ",
+      "name": "Quagsire \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "21",
@@ -493,7 +497,7 @@
     },
     {
       "id": "df-22",
-      "name": "Seadra δ",
+      "name": "Seadra \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "22",
@@ -516,7 +520,7 @@
     },
     {
       "id": "df-23",
-      "name": "Tropius δ",
+      "name": "Tropius \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "23",
@@ -539,7 +543,7 @@
     },
     {
       "id": "df-24",
-      "name": "Vibrava δ",
+      "name": "Vibrava \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "24",
@@ -562,7 +566,7 @@
     },
     {
       "id": "df-25",
-      "name": "Xatu δ",
+      "name": "Xatu \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "25",
@@ -585,7 +589,7 @@
     },
     {
       "id": "df-26",
-      "name": "Bayleef δ",
+      "name": "Bayleef \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "26",
@@ -608,7 +612,7 @@
     },
     {
       "id": "df-27",
-      "name": "Croconaw δ",
+      "name": "Croconaw \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "27",
@@ -631,7 +635,7 @@
     },
     {
       "id": "df-28",
-      "name": "Dragonair δ",
+      "name": "Dragonair \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "28",
@@ -654,7 +658,7 @@
     },
     {
       "id": "df-29",
-      "name": "Electabuzz δ",
+      "name": "Electabuzz \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "29",
@@ -677,7 +681,7 @@
     },
     {
       "id": "df-30",
-      "name": "Flaaffy δ",
+      "name": "Flaaffy \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "30",
@@ -700,7 +704,7 @@
     },
     {
       "id": "df-31",
-      "name": "Horsea δ",
+      "name": "Horsea \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "31",
@@ -744,7 +748,7 @@
     },
     {
       "id": "df-33",
-      "name": "Kirlia δ",
+      "name": "Kirlia \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "33",
@@ -767,7 +771,7 @@
     },
     {
       "id": "df-34",
-      "name": "Nidorina δ",
+      "name": "Nidorina \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "34",
@@ -790,7 +794,7 @@
     },
     {
       "id": "df-35",
-      "name": "Nidorino δ",
+      "name": "Nidorino \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "35",
@@ -813,7 +817,7 @@
     },
     {
       "id": "df-36",
-      "name": "Quilava δ",
+      "name": "Quilava \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "36",
@@ -836,7 +840,7 @@
     },
     {
       "id": "df-37",
-      "name": "Seadra δ",
+      "name": "Seadra \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "37",
@@ -859,7 +863,7 @@
     },
     {
       "id": "df-38",
-      "name": "Shelgon δ",
+      "name": "Shelgon \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "38",
@@ -882,7 +886,7 @@
     },
     {
       "id": "df-39",
-      "name": "Smeargle δ",
+      "name": "Smeargle \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "39",
@@ -905,7 +909,7 @@
     },
     {
       "id": "df-40",
-      "name": "Swellow δ",
+      "name": "Swellow \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "40",
@@ -928,7 +932,7 @@
     },
     {
       "id": "df-41",
-      "name": "Togepi δ",
+      "name": "Togepi \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "41",
@@ -951,7 +955,7 @@
     },
     {
       "id": "df-42",
-      "name": "Vibrava δ",
+      "name": "Vibrava \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "42",
@@ -974,7 +978,7 @@
     },
     {
       "id": "df-43",
-      "name": "Bagon δ",
+      "name": "Bagon \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "43",
@@ -997,7 +1001,7 @@
     },
     {
       "id": "df-44",
-      "name": "Chikorita δ",
+      "name": "Chikorita \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "44",
@@ -1020,7 +1024,7 @@
     },
     {
       "id": "df-45",
-      "name": "Cyndaquil δ",
+      "name": "Cyndaquil \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "45",
@@ -1043,7 +1047,7 @@
     },
     {
       "id": "df-46",
-      "name": "Dratini δ",
+      "name": "Dratini \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "46",
@@ -1066,7 +1070,7 @@
     },
     {
       "id": "df-47",
-      "name": "Ekans δ",
+      "name": "Ekans \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "47",
@@ -1089,7 +1093,7 @@
     },
     {
       "id": "df-48",
-      "name": "Elekid δ",
+      "name": "Elekid \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "48",
@@ -1112,7 +1116,7 @@
     },
     {
       "id": "df-49",
-      "name": "Feebas δ",
+      "name": "Feebas \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "49",
@@ -1135,7 +1139,7 @@
     },
     {
       "id": "df-50",
-      "name": "Horsea δ",
+      "name": "Horsea \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "50",
@@ -1179,7 +1183,7 @@
     },
     {
       "id": "df-52",
-      "name": "Larvitar δ",
+      "name": "Larvitar \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "52",
@@ -1202,7 +1206,7 @@
     },
     {
       "id": "df-53",
-      "name": "Ledyba δ",
+      "name": "Ledyba \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "53",
@@ -1225,7 +1229,7 @@
     },
     {
       "id": "df-54",
-      "name": "Mareep δ",
+      "name": "Mareep \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "54",
@@ -1248,7 +1252,7 @@
     },
     {
       "id": "df-55",
-      "name": "Natu δ",
+      "name": "Natu \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "55",
@@ -1271,7 +1275,7 @@
     },
     {
       "id": "df-56",
-      "name": "Nidoran F δ",
+      "name": "Nidoran F \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "56",
@@ -1294,7 +1298,7 @@
     },
     {
       "id": "df-57",
-      "name": "Nidoran M δ",
+      "name": "Nidoran M \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "57",
@@ -1338,7 +1342,7 @@
     },
     {
       "id": "df-59",
-      "name": "Pupitar δ",
+      "name": "Pupitar \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "59",
@@ -1382,7 +1386,7 @@
     },
     {
       "id": "df-61",
-      "name": "Ralts δ",
+      "name": "Ralts \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "61",
@@ -1405,7 +1409,7 @@
     },
     {
       "id": "df-62",
-      "name": "Seel δ",
+      "name": "Seel \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "62",
@@ -1428,7 +1432,7 @@
     },
     {
       "id": "df-63",
-      "name": "Shellder δ",
+      "name": "Shellder \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "63",
@@ -1451,7 +1455,7 @@
     },
     {
       "id": "df-64",
-      "name": "Smoochum δ",
+      "name": "Smoochum \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "64",
@@ -1474,7 +1478,7 @@
     },
     {
       "id": "df-65",
-      "name": "Swablu δ",
+      "name": "Swablu \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "65",
@@ -1497,7 +1501,7 @@
     },
     {
       "id": "df-66",
-      "name": "Taillow δ",
+      "name": "Taillow \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "66",
@@ -1520,7 +1524,7 @@
     },
     {
       "id": "df-67",
-      "name": "Totodile δ",
+      "name": "Totodile \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "67",
@@ -1543,7 +1547,7 @@
     },
     {
       "id": "df-68",
-      "name": "Trapinch δ",
+      "name": "Trapinch \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "68",
@@ -1566,7 +1570,7 @@
     },
     {
       "id": "df-69",
-      "name": "Trapinch δ",
+      "name": "Trapinch \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "69",
@@ -1589,7 +1593,7 @@
     },
     {
       "id": "df-70",
-      "name": "Vulpix δ",
+      "name": "Vulpix \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "70",
@@ -1612,7 +1616,7 @@
     },
     {
       "id": "df-71",
-      "name": "Wooper δ",
+      "name": "Wooper \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "71",
@@ -1971,7 +1975,7 @@
     },
     {
       "id": "df-88",
-      "name": "δ Rainbow Energy",
+      "name": "\u00ce\u00b4 Rainbow Energy",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "88",
@@ -2015,7 +2019,7 @@
     },
     {
       "id": "df-90",
-      "name": "Altaria ex δ",
+      "name": "Altaria ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "90",
@@ -2038,7 +2042,7 @@
     },
     {
       "id": "df-91",
-      "name": "Dragonite ex δ",
+      "name": "Dragonite ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "91",
@@ -2061,7 +2065,7 @@
     },
     {
       "id": "df-92",
-      "name": "Flygon ex δ",
+      "name": "Flygon ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "92",
@@ -2084,7 +2088,7 @@
     },
     {
       "id": "df-93",
-      "name": "Gardevoir ex δ",
+      "name": "Gardevoir ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "93",
@@ -2107,7 +2111,7 @@
     },
     {
       "id": "df-94",
-      "name": "Kingdra ex δ",
+      "name": "Kingdra ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "94",
@@ -2130,7 +2134,7 @@
     },
     {
       "id": "df-95",
-      "name": "Latias ex δ",
+      "name": "Latias ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "95",
@@ -2153,7 +2157,7 @@
     },
     {
       "id": "df-96",
-      "name": "Latios ex δ",
+      "name": "Latios ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "96",
@@ -2176,7 +2180,7 @@
     },
     {
       "id": "df-97",
-      "name": "Rayquaza ex δ",
+      "name": "Rayquaza ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "97",
@@ -2199,7 +2203,7 @@
     },
     {
       "id": "df-98",
-      "name": "Salamence ex δ",
+      "name": "Salamence ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "98",
@@ -2222,7 +2226,7 @@
     },
     {
       "id": "df-99",
-      "name": "Tyranitar ex δ",
+      "name": "Tyranitar ex \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "99",
@@ -2245,7 +2249,7 @@
     },
     {
       "id": "df-100",
-      "name": "Charizard ☆ δ",
+      "name": "Charizard \u00e2\u02dc\u2020 \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "100",
@@ -2270,7 +2274,7 @@
     },
     {
       "id": "df-101",
-      "name": "Mew ☆ δ",
+      "name": "Mew \u00e2\u02dc\u2020 \u00ce\u00b4",
       "setName": "EX Dragon Frontiers",
       "setCode": "DF",
       "cardNumber": "101",

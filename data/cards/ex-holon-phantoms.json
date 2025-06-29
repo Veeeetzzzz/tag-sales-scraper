@@ -1,13 +1,17 @@
 {
-  "setName": "EX Holon Phantoms",
-  "description": "Set in the mysterious Holon region featuring Delta Species Pokémon and multiple Deoxys forms. Includes Gyarados Star, Mewtwo Star, and Pikachu Star, plus a secret Mew card.",
-  "releaseDate": "2006-05-03",
-  "totalCards": "110",
-  "tagSales": true,
+  "setInfo": {
+    "name": "EX Holon Phantoms",
+    "description": "Set in the mysterious Holon region featuring Delta Species Pok\u00c3\u00a9mon and multiple Deoxys forms. Includes Gyarados Star, Mewtwo Star, and Pikachu Star, plus a secret Mew card.",
+    "lastUpdated": "2025/06/29",
+    "setCode": "HP",
+    "totalCards": 110,
+    "releaseDate": "2006/05/03",
+    "tagSales": 290
+  },
   "cards": [
     {
       "id": "hp-1",
-      "name": "Armaldo δ",
+      "name": "Armaldo \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "1",
@@ -31,7 +35,7 @@
     },
     {
       "id": "hp-2",
-      "name": "Cradily δ",
+      "name": "Cradily \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "2",
@@ -55,7 +59,7 @@
     },
     {
       "id": "hp-3",
-      "name": "Deoxys δ (Attack Forme)",
+      "name": "Deoxys \u00ce\u00b4 (Attack Forme)",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "3",
@@ -80,7 +84,7 @@
     },
     {
       "id": "hp-4",
-      "name": "Deoxys δ (Defense Forme)",
+      "name": "Deoxys \u00ce\u00b4 (Defense Forme)",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "4",
@@ -105,7 +109,7 @@
     },
     {
       "id": "hp-5",
-      "name": "Deoxys δ (Normal Forme)",
+      "name": "Deoxys \u00ce\u00b4 (Normal Forme)",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "5",
@@ -130,7 +134,7 @@
     },
     {
       "id": "hp-6",
-      "name": "Deoxys δ (Speed Forme)",
+      "name": "Deoxys \u00ce\u00b4 (Speed Forme)",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "6",
@@ -155,7 +159,7 @@
     },
     {
       "id": "hp-7",
-      "name": "Flygon δ",
+      "name": "Flygon \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "7",
@@ -178,7 +182,7 @@
     },
     {
       "id": "hp-8",
-      "name": "Gyarados δ",
+      "name": "Gyarados \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "8",
@@ -202,7 +206,7 @@
     },
     {
       "id": "hp-9",
-      "name": "Kabutops δ",
+      "name": "Kabutops \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "9",
@@ -226,7 +230,7 @@
     },
     {
       "id": "hp-10",
-      "name": "Kingdra δ",
+      "name": "Kingdra \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "10",
@@ -250,7 +254,7 @@
     },
     {
       "id": "hp-11",
-      "name": "Latias δ",
+      "name": "Latias \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "11",
@@ -273,7 +277,7 @@
     },
     {
       "id": "hp-12",
-      "name": "Latios δ",
+      "name": "Latios \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "12",
@@ -296,7 +300,7 @@
     },
     {
       "id": "hp-13",
-      "name": "Omastar δ",
+      "name": "Omastar \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "13",
@@ -320,7 +324,7 @@
     },
     {
       "id": "hp-14",
-      "name": "Pidgeot δ",
+      "name": "Pidgeot \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "14",
@@ -343,7 +347,7 @@
     },
     {
       "id": "hp-15",
-      "name": "Raichu δ",
+      "name": "Raichu \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "15",
@@ -367,7 +371,7 @@
     },
     {
       "id": "hp-16",
-      "name": "Rayquaza δ",
+      "name": "Rayquaza \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "16",
@@ -390,7 +394,7 @@
     },
     {
       "id": "hp-17",
-      "name": "Vileplume δ",
+      "name": "Vileplume \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "17",
@@ -435,7 +439,7 @@
     },
     {
       "id": "hp-19",
-      "name": "Bellossom δ",
+      "name": "Bellossom \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "19",
@@ -479,7 +483,7 @@
     },
     {
       "id": "hp-21",
-      "name": "Latias δ",
+      "name": "Latias \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "21",
@@ -502,7 +506,7 @@
     },
     {
       "id": "hp-22",
-      "name": "Latios δ",
+      "name": "Latios \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "22",
@@ -546,7 +550,7 @@
     },
     {
       "id": "hp-24",
-      "name": "Mewtwo δ",
+      "name": "Mewtwo \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "24",
@@ -591,7 +595,7 @@
     },
     {
       "id": "hp-26",
-      "name": "Rayquaza δ",
+      "name": "Rayquaza \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "26",
@@ -782,7 +786,7 @@
     },
     {
       "id": "hp-35",
-      "name": "Aerodactyl δ",
+      "name": "Aerodactyl \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "35",
@@ -826,7 +830,7 @@
     },
     {
       "id": "hp-37",
-      "name": "Chimecho δ",
+      "name": "Chimecho \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "37",
@@ -912,7 +916,7 @@
     },
     {
       "id": "hp-41",
-      "name": "Exeggutor δ",
+      "name": "Exeggutor \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "41",
@@ -935,7 +939,7 @@
     },
     {
       "id": "hp-42",
-      "name": "Gloom δ",
+      "name": "Gloom \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "42",
@@ -958,7 +962,7 @@
     },
     {
       "id": "hp-43",
-      "name": "Golduck δ",
+      "name": "Golduck \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "43",
@@ -1067,7 +1071,7 @@
     },
     {
       "id": "hp-48",
-      "name": "Persian δ",
+      "name": "Persian \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "48",
@@ -1090,7 +1094,7 @@
     },
     {
       "id": "hp-49",
-      "name": "Pidgeotto δ",
+      "name": "Pidgeotto \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "49",
@@ -1113,7 +1117,7 @@
     },
     {
       "id": "hp-50",
-      "name": "Primeape δ",
+      "name": "Primeape \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "50",
@@ -1157,7 +1161,7 @@
     },
     {
       "id": "hp-52",
-      "name": "Seadra δ",
+      "name": "Seadra \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "52",
@@ -1180,7 +1184,7 @@
     },
     {
       "id": "hp-53",
-      "name": "Sharpedo δ",
+      "name": "Sharpedo \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "53",
@@ -1203,7 +1207,7 @@
     },
     {
       "id": "hp-54",
-      "name": "Vibrava δ",
+      "name": "Vibrava \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "54",
@@ -1268,7 +1272,7 @@
     },
     {
       "id": "hp-57",
-      "name": "Anorith δ",
+      "name": "Anorith \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "57",
@@ -1354,7 +1358,7 @@
     },
     {
       "id": "hp-61",
-      "name": "Carvanha δ",
+      "name": "Carvanha \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "61",
@@ -1440,7 +1444,7 @@
     },
     {
       "id": "hp-65",
-      "name": "Exeggcute δ",
+      "name": "Exeggcute \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "65",
@@ -1463,7 +1467,7 @@
     },
     {
       "id": "hp-66",
-      "name": "Horsea δ",
+      "name": "Horsea \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "66",
@@ -1486,7 +1490,7 @@
     },
     {
       "id": "hp-67",
-      "name": "Kabuto δ",
+      "name": "Kabuto \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "67",
@@ -1509,7 +1513,7 @@
     },
     {
       "id": "hp-68",
-      "name": "Lileep δ",
+      "name": "Lileep \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "68",
@@ -1532,7 +1536,7 @@
     },
     {
       "id": "hp-69",
-      "name": "Magikarp δ",
+      "name": "Magikarp \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "69",
@@ -1555,7 +1559,7 @@
     },
     {
       "id": "hp-70",
-      "name": "Mankey δ",
+      "name": "Mankey \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "70",
@@ -1578,7 +1582,7 @@
     },
     {
       "id": "hp-71",
-      "name": "Meowth δ",
+      "name": "Meowth \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "71",
@@ -1622,7 +1626,7 @@
     },
     {
       "id": "hp-73",
-      "name": "Oddish δ",
+      "name": "Oddish \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "73",
@@ -1645,7 +1649,7 @@
     },
     {
       "id": "hp-74",
-      "name": "Omanyte δ",
+      "name": "Omanyte \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "74",
@@ -1689,7 +1693,7 @@
     },
     {
       "id": "hp-76",
-      "name": "Pichu δ",
+      "name": "Pichu \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "76",
@@ -1712,7 +1716,7 @@
     },
     {
       "id": "hp-77",
-      "name": "Pidgey δ",
+      "name": "Pidgey \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "77",
@@ -1756,7 +1760,7 @@
     },
     {
       "id": "hp-79",
-      "name": "Pikachu δ",
+      "name": "Pikachu \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "79",
@@ -1800,7 +1804,7 @@
     },
     {
       "id": "hp-81",
-      "name": "Psyduck δ",
+      "name": "Psyduck \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "81",
@@ -1865,7 +1869,7 @@
     },
     {
       "id": "hp-84",
-      "name": "Trapinch δ",
+      "name": "Trapinch \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "84",
@@ -2163,7 +2167,7 @@
     },
     {
       "id": "hp-98",
-      "name": "δ Rainbow Energy",
+      "name": "\u00ce\u00b4 Rainbow Energy",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "98",
@@ -2249,7 +2253,7 @@
     },
     {
       "id": "hp-102",
-      "name": "Gyarados ☆ δ",
+      "name": "Gyarados \u00e2\u02dc\u2020 \u00ce\u00b4",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "102",
@@ -2275,7 +2279,7 @@
     },
     {
       "id": "hp-103",
-      "name": "Mewtwo ☆",
+      "name": "Mewtwo \u00e2\u02dc\u2020",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "103",
@@ -2298,7 +2302,7 @@
     },
     {
       "id": "hp-104",
-      "name": "Pikachu ☆",
+      "name": "Pikachu \u00e2\u02dc\u2020",
       "setName": "EX Holon Phantoms",
       "setCode": "HP",
       "cardNumber": "104",
