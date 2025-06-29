@@ -1,0 +1,2136 @@
+{
+  "setName": "EX Crystal Guardians",
+  "description": "Introduces Crystal-themed Trainer cards and features both regular and Delta Species Pokémon. Notable for Alakazam Star and Celebi Star cards.",
+  "releaseDate": "2006-08-30",
+  "totalCards": "100",
+  "tagSales": true,
+  "cards": [
+    {
+      "id": "cg-1",
+      "name": "Banette",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "1",
+      "fullNumber": "1/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "banette"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/1.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-2",
+      "name": "Blastoise δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "2",
+      "fullNumber": "2/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "blastoise",
+        "species",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/2.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-3",
+      "name": "Camerupt",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "3",
+      "fullNumber": "3/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "camerupt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/3.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-4",
+      "name": "Charizard δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "4",
+      "fullNumber": "4/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "species",
+        "pokemon",
+        "charizard"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/4.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-5",
+      "name": "Dugtrio",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "5",
+      "fullNumber": "5/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "dugtrio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/5.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-6",
+      "name": "Ludicolo δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "6",
+      "fullNumber": "6/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "species",
+        "pokemon",
+        "ludicolo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/6.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-7",
+      "name": "Luvdisc",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "7",
+      "fullNumber": "7/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "luvdisc"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/7.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-8",
+      "name": "Manectric",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "8",
+      "fullNumber": "8/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "manectric",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/8.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-9",
+      "name": "Mawile",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "9",
+      "fullNumber": "9/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mawile",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/9.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-10",
+      "name": "Sableye",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "10",
+      "fullNumber": "10/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "sableye"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/10.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-11",
+      "name": "Swalot",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "11",
+      "fullNumber": "11/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "swalot"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/11.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-12",
+      "name": "Tauros",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "12",
+      "fullNumber": "12/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tauros",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/12.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-13",
+      "name": "Wigglytuff",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "13",
+      "fullNumber": "13/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "wigglytuff"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/13.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-14",
+      "name": "Blastoise",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "14",
+      "fullNumber": "14/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "blastoise"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/14.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-15",
+      "name": "Cacturne δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "15",
+      "fullNumber": "15/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "cacturne",
+        "delta",
+        "card",
+        "tcg",
+        "species",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/15.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-16",
+      "name": "Combusken",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "16",
+      "fullNumber": "16/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "combusken",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/16.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-17",
+      "name": "Dusclops",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "17",
+      "fullNumber": "17/100",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "dusclops"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/17.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-18",
+      "name": "Fearow δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "18",
+      "fullNumber": "18/100",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "species",
+        "pokemon",
+        "fearow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/18.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-19",
+      "name": "Grovyle δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "19",
+      "fullNumber": "19/100",
+      "rarity": "Rare",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "grovyle",
+        "species",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/19.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-20",
+      "name": "Grumpig",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "20",
+      "fullNumber": "20/100",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "grumpig"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/20.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-21",
+      "name": "Igglybuff",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "21",
+      "fullNumber": "21/100",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "igglybuff"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/21.jpg",
+      "hp": 30
+    },
+    {
+      "id": "cg-22",
+      "name": "Kingler δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "22",
+      "fullNumber": "22/100",
+      "rarity": "Rare",
+      "type": [
+        "Water",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "kingler",
+        "species",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/22.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-23",
+      "name": "Loudred",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "23",
+      "fullNumber": "23/100",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "loudred"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/23.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-24",
+      "name": "Marshtomp",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "24",
+      "fullNumber": "24/100",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "marshtomp",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/24.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-25",
+      "name": "Medicham",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "25",
+      "fullNumber": "25/100",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "medicham",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/25.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-26",
+      "name": "Pelipper δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "26",
+      "fullNumber": "26/100",
+      "rarity": "Rare",
+      "type": [
+        "Water",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "species",
+        "pokemon",
+        "pelipper"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/26.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-27",
+      "name": "Swampert",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "27",
+      "fullNumber": "27/100",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "swampert"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/27.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-28",
+      "name": "Venusaur",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "28",
+      "fullNumber": "28/100",
+      "rarity": "Rare",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "venusaur"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/28.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-29",
+      "name": "Charmeleon",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "29",
+      "fullNumber": "29/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "charmeleon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/29.jpg"
+    },
+    {
+      "id": "cg-30",
+      "name": "Charmeleon δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "30",
+      "fullNumber": "30/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "species",
+        "pokemon",
+        "charmeleon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/30.jpg"
+    },
+    {
+      "id": "cg-31",
+      "name": "Combusken",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "31",
+      "fullNumber": "31/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "combusken",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/31.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-32",
+      "name": "Grovyle",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "32",
+      "fullNumber": "32/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "grovyle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/32.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-33",
+      "name": "Gulpin",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "33",
+      "fullNumber": "33/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "gulpin",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/33.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-34",
+      "name": "Ivysaur",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "34",
+      "fullNumber": "34/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "ivysaur"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/34.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-35",
+      "name": "Ivysaur",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "35",
+      "fullNumber": "35/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "ivysaur"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/35.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-36",
+      "name": "Lairon",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "36",
+      "fullNumber": "36/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "lairon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/36.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-37",
+      "name": "Lombre",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "37",
+      "fullNumber": "37/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lombre",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/37.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-38",
+      "name": "Marshtomp",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "38",
+      "fullNumber": "38/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "marshtomp",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/38.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-39",
+      "name": "Nuzleaf",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "39",
+      "fullNumber": "39/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "nuzleaf"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/39.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-40",
+      "name": "Shuppet",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "40",
+      "fullNumber": "40/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "shuppet",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/40.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-41",
+      "name": "Skitty",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "41",
+      "fullNumber": "41/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "skitty"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/41.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-42",
+      "name": "Wartortle",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "42",
+      "fullNumber": "42/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "wartortle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/42.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-43",
+      "name": "Wartortle",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "43",
+      "fullNumber": "43/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "wartortle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/43.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-44",
+      "name": "Aron",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "44",
+      "fullNumber": "44/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "aron",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/44.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-45",
+      "name": "Bulbasaur",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "45",
+      "fullNumber": "45/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "bulbasaur",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/45.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-46",
+      "name": "Bulbasaur",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "46",
+      "fullNumber": "46/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "bulbasaur",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/46.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-47",
+      "name": "Cacnea",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "47",
+      "fullNumber": "47/100",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "cacnea",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/47.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-48",
+      "name": "Charmander",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "48",
+      "fullNumber": "48/100",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "charmander"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/48.jpg"
+    },
+    {
+      "id": "cg-49",
+      "name": "Charmander δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "49",
+      "fullNumber": "49/100",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "charmander",
+        "species",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/49.jpg"
+    },
+    {
+      "id": "cg-50",
+      "name": "Diglett",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "50",
+      "fullNumber": "50/100",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "diglett",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/50.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-51",
+      "name": "Duskull",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "51",
+      "fullNumber": "51/100",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "duskull",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/51.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-52",
+      "name": "Electrike",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "52",
+      "fullNumber": "52/100",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "electrike"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/52.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-53",
+      "name": "Jigglypuff",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "53",
+      "fullNumber": "53/100",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "jigglypuff",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/53.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-54",
+      "name": "Krabby",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "54",
+      "fullNumber": "54/100",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "krabby",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/54.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-55",
+      "name": "Lotad",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "55",
+      "fullNumber": "55/100",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "lotad"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/55.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-56",
+      "name": "Meditite",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "56",
+      "fullNumber": "56/100",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "meditite"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/56.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-57",
+      "name": "Mudkip",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "57",
+      "fullNumber": "57/100",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "mudkip",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/57.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-58",
+      "name": "Mudkip",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "58",
+      "fullNumber": "58/100",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "mudkip",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/58.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-59",
+      "name": "Numel",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "59",
+      "fullNumber": "59/100",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "numel",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/59.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-60",
+      "name": "Seedot",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "60",
+      "fullNumber": "60/100",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "seedot"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/60.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-61",
+      "name": "Spearow",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "61",
+      "fullNumber": "61/100",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "spearow",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/61.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-62",
+      "name": "Spoink",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "62",
+      "fullNumber": "62/100",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "spoink",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/62.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-63",
+      "name": "Squirtle",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "63",
+      "fullNumber": "63/100",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "squirtle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/63.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-64",
+      "name": "Squirtle",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "64",
+      "fullNumber": "64/100",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "squirtle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/64.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-65",
+      "name": "Torchic",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "65",
+      "fullNumber": "65/100",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "torchic",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/65.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-66",
+      "name": "Torchic",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "66",
+      "fullNumber": "66/100",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "torchic",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/66.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-67",
+      "name": "Treecko",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "67",
+      "fullNumber": "67/100",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "treecko",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/67.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-68",
+      "name": "Treecko δ",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "68",
+      "fullNumber": "68/100",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "delta",
+        "card",
+        "tcg",
+        "species",
+        "treecko",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/68.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-69",
+      "name": "Whismur",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "69",
+      "fullNumber": "69/100",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "whismur"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/69.jpg",
+      "hp": 50
+    },
+    {
+      "id": "cg-70",
+      "name": "Wingull",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "70",
+      "fullNumber": "70/100",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "wingull"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/70.jpg",
+      "hp": 60
+    },
+    {
+      "id": "cg-71",
+      "name": "Bill's Maintenance",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "71",
+      "fullNumber": "71/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "pokemon",
+        "bills",
+        "maintenance"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/71.jpg"
+    },
+    {
+      "id": "cg-72",
+      "name": "Castaway",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "72",
+      "fullNumber": "72/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "castaway"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/72.jpg"
+    },
+    {
+      "id": "cg-73",
+      "name": "Celio's Network",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "73",
+      "fullNumber": "73/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "celios",
+        "network",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/73.jpg"
+    },
+    {
+      "id": "cg-74",
+      "name": "Cessation Crystal",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "74",
+      "fullNumber": "74/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "crystal",
+        "tcg",
+        "pokemon",
+        "cessation"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/74.jpg"
+    },
+    {
+      "id": "cg-75",
+      "name": "Crystal Beach",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "75",
+      "fullNumber": "75/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "beach",
+        "card",
+        "crystal",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/75.jpg"
+    },
+    {
+      "id": "cg-76",
+      "name": "Crystal Shard",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "76",
+      "fullNumber": "76/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "shard",
+        "crystal",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/76.jpg"
+    },
+    {
+      "id": "cg-77",
+      "name": "Double Full Heal",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "77",
+      "fullNumber": "77/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "full",
+        "double",
+        "card",
+        "tcg",
+        "pokemon",
+        "heal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/77.jpg"
+    },
+    {
+      "id": "cg-78",
+      "name": "Dual Ball",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "78",
+      "fullNumber": "78/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ball",
+        "tcg",
+        "pokemon",
+        "dual"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/78.jpg"
+    },
+    {
+      "id": "cg-79",
+      "name": "Holon Circle",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "79",
+      "fullNumber": "79/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "tcg",
+        "pokemon",
+        "circle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/79.jpg"
+    },
+    {
+      "id": "cg-80",
+      "name": "Memory Berry",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "80",
+      "fullNumber": "80/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "berry",
+        "card",
+        "tcg",
+        "pokemon",
+        "memory"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/80.jpg"
+    },
+    {
+      "id": "cg-81",
+      "name": "Mysterious Shard",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "81",
+      "fullNumber": "81/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "shard",
+        "mysterious",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/81.jpg"
+    },
+    {
+      "id": "cg-82",
+      "name": "Poke Ball",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "82",
+      "fullNumber": "82/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ball",
+        "tcg",
+        "poke",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/82.jpg"
+    },
+    {
+      "id": "cg-83",
+      "name": "PokeNav",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "83",
+      "fullNumber": "83/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "pokenav"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/83.jpg"
+    },
+    {
+      "id": "cg-84",
+      "name": "Warp Point",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "84",
+      "fullNumber": "84/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "pokemon",
+        "warp",
+        "point"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/84.jpg"
+    },
+    {
+      "id": "cg-85",
+      "name": "Windstorm",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "85",
+      "fullNumber": "85/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "windstorm",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/85.jpg"
+    },
+    {
+      "id": "cg-86",
+      "name": "Energy Search",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "86",
+      "fullNumber": "86/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "pokemon",
+        "search",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/86.jpg"
+    },
+    {
+      "id": "cg-87",
+      "name": "Potion",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "87",
+      "fullNumber": "87/100",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "potion",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/87.jpg"
+    },
+    {
+      "id": "cg-88",
+      "name": "Double Rainbow Energy",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "88",
+      "fullNumber": "88/100",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "double",
+        "card",
+        "tcg",
+        "pokemon",
+        "energy",
+        "rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/88.jpg"
+    },
+    {
+      "id": "cg-89",
+      "name": "Aggron ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "89",
+      "fullNumber": "89/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aggron",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/89.jpg",
+      "hp": 150
+    },
+    {
+      "id": "cg-90",
+      "name": "Blaziken ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "90",
+      "fullNumber": "90/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "blaziken"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/90.jpg",
+      "hp": 150
+    },
+    {
+      "id": "cg-91",
+      "name": "Delcatty ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "91",
+      "fullNumber": "91/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "delcatty",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/91.jpg",
+      "hp": 150
+    },
+    {
+      "id": "cg-92",
+      "name": "Exploud ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "92",
+      "fullNumber": "92/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "exploud",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/92.jpg",
+      "hp": 150
+    },
+    {
+      "id": "cg-93",
+      "name": "Groudon ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "93",
+      "fullNumber": "93/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "groudon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/93.jpg",
+      "hp": 100
+    },
+    {
+      "id": "cg-94",
+      "name": "Jirachi ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "94",
+      "fullNumber": "94/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "jirachi",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/94.jpg",
+      "hp": 100
+    },
+    {
+      "id": "cg-95",
+      "name": "Kyogre ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "95",
+      "fullNumber": "95/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kyogre",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/95.jpg",
+      "hp": 100
+    },
+    {
+      "id": "cg-96",
+      "name": "Sceptile ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "96",
+      "fullNumber": "96/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "sceptile",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/96.jpg",
+      "hp": 150
+    },
+    {
+      "id": "cg-97",
+      "name": "Shiftry ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "97",
+      "fullNumber": "97/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "shiftry"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/97.jpg",
+      "hp": 150
+    },
+    {
+      "id": "cg-98",
+      "name": "Swampert ex",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "98",
+      "fullNumber": "98/100",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "swampert"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/98.jpg",
+      "hp": 150
+    },
+    {
+      "id": "cg-99",
+      "name": "Alakazam ☆",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "99",
+      "fullNumber": "99/100",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "shining",
+        "alakazam",
+        "tcg",
+        "pokemon",
+        "star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/99.jpg",
+      "hp": 70
+    },
+    {
+      "id": "cg-100",
+      "name": "Celebi ☆",
+      "setName": "EX Crystal Guardians",
+      "setCode": "CG",
+      "cardNumber": "100",
+      "fullNumber": "100/100",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "celebi",
+        "card",
+        "shining",
+        "tcg",
+        "pokemon",
+        "star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/excrystalguardians/100.jpg",
+      "hp": 70
+    }
+  ]
+}

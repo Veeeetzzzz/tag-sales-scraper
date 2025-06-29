@@ -1,0 +1,2282 @@
+{
+  "setName": "EX Emerald",
+  "description": "Features Hoenn region Pok\u00e9mon with special energy cards and legendary creatures. Notable for the rare holographic basic energy cards and secret rare Farfetch'd.",
+  "releaseDate": "2005-05-09",
+  "totalCards": "106",
+  "tagSales": true,
+  "cards": [
+    {
+      "id": "em-1",
+      "name": "Blaziken",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "1",
+      "fullNumber": "1/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "blaziken",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/1.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-2",
+      "name": "Deoxys",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "2",
+      "fullNumber": "2/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "deoxys",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/2.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-3",
+      "name": "Exploud",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "3",
+      "fullNumber": "3/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "exploud",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/3.jpg",
+      "hp": 80
+    },
+    {
+      "id": "em-4",
+      "name": "Gardevoir",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "4",
+      "fullNumber": "4/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "gardevoir",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/4.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-5",
+      "name": "Groudon",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "5",
+      "fullNumber": "5/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "pokemon",
+        "tcg",
+        "card",
+        "groudon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/5.jpg",
+      "hp": 100
+    },
+    {
+      "id": "em-6",
+      "name": "Kyogre",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "6",
+      "fullNumber": "6/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "pokemon",
+        "tcg",
+        "kyogre",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/6.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-7",
+      "name": "Manectric",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "7",
+      "fullNumber": "7/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "manectric",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/7.jpg",
+      "hp": 100
+    },
+    {
+      "id": "em-8",
+      "name": "Milotic",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "8",
+      "fullNumber": "8/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "milotic",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/8.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-9",
+      "name": "Rayquaza",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "9",
+      "fullNumber": "9/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "rayquaza",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/9.jpg",
+      "hp": 110
+    },
+    {
+      "id": "em-10",
+      "name": "Sceptile",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "10",
+      "fullNumber": "10/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "sceptile",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/10.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-11",
+      "name": "Swampert",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "11",
+      "fullNumber": "11/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "swampert",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/11.jpg",
+      "hp": 100
+    },
+    {
+      "id": "em-12",
+      "name": "Chimecho",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "12",
+      "fullNumber": "12/106",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "chimecho",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/12.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-13",
+      "name": "Glalie",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "13",
+      "fullNumber": "13/106",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "glalie",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/13.jpg",
+      "hp": 50
+    },
+    {
+      "id": "em-14",
+      "name": "Groudon",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "14",
+      "fullNumber": "14/106",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "pokemon",
+        "tcg",
+        "card",
+        "groudon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/14.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-15",
+      "name": "Kyogre",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "15",
+      "fullNumber": "15/106",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "pokemon",
+        "tcg",
+        "kyogre",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/15.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-16",
+      "name": "Manectric",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "16",
+      "fullNumber": "16/106",
+      "rarity": "Rare",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "manectric",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/16.jpg",
+      "hp": 80
+    },
+    {
+      "id": "em-17",
+      "name": "Nosepass",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "17",
+      "fullNumber": "17/106",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "nosepass",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/17.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-18",
+      "name": "Relicanth",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "18",
+      "fullNumber": "18/106",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "relicanth",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/18.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-19",
+      "name": "Rhydon",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "19",
+      "fullNumber": "19/106",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "rhydon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/19.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-20",
+      "name": "Seviper",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "20",
+      "fullNumber": "20/106",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "seviper",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/20.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-21",
+      "name": "Zangoose",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "21",
+      "fullNumber": "21/106",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "zangoose",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/21.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-22",
+      "name": "Breloom",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "22",
+      "fullNumber": "22/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "breloom",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/22.jpg",
+      "hp": 100
+    },
+    {
+      "id": "em-23",
+      "name": "Camerupt",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "23",
+      "fullNumber": "23/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "camerupt",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/23.jpg",
+      "hp": 80
+    },
+    {
+      "id": "em-24",
+      "name": "Claydol",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "24",
+      "fullNumber": "24/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "claydol",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/24.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-25",
+      "name": "Combusken",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "25",
+      "fullNumber": "25/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "combusken",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/25.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-26",
+      "name": "Dodrio",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "26",
+      "fullNumber": "26/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "dodrio",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/26.jpg",
+      "hp": 80
+    },
+    {
+      "id": "em-27",
+      "name": "Electrode",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "27",
+      "fullNumber": "27/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "electrode",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/27.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-28",
+      "name": "Grovyle",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "28",
+      "fullNumber": "28/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "grovyle",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/28.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-29",
+      "name": "Grumpig",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "29",
+      "fullNumber": "29/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "grumpig",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/29.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-30",
+      "name": "Grumpig",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "30",
+      "fullNumber": "30/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "grumpig",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/30.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-31",
+      "name": "Hariyama",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "31",
+      "fullNumber": "31/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "hariyama",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/31.jpg",
+      "hp": 80
+    },
+    {
+      "id": "em-32",
+      "name": "Illumise",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "32",
+      "fullNumber": "32/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "illumise",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/32.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-33",
+      "name": "Kirlia",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "33",
+      "fullNumber": "33/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "kirlia",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/33.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-34",
+      "name": "Linoone",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "34",
+      "fullNumber": "34/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "linoone",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/34.jpg",
+      "hp": 80
+    },
+    {
+      "id": "em-35",
+      "name": "Loudred",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "35",
+      "fullNumber": "35/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "loudred",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/35.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-36",
+      "name": "Marshtomp",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "36",
+      "fullNumber": "36/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "marshtomp",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/36.jpg",
+      "hp": 80
+    },
+    {
+      "id": "em-37",
+      "name": "Minun",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "37",
+      "fullNumber": "37/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "minun",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/37.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-38",
+      "name": "Ninetales",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "38",
+      "fullNumber": "38/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "ninetales",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/38.jpg",
+      "hp": 80
+    },
+    {
+      "id": "em-39",
+      "name": "Plusle",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "39",
+      "fullNumber": "39/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "plusle",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/39.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-40",
+      "name": "Swalot",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "40",
+      "fullNumber": "40/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "swalot",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/40.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-41",
+      "name": "Swellow",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "41",
+      "fullNumber": "41/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "swellow",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/41.jpg",
+      "hp": 90
+    },
+    {
+      "id": "em-42",
+      "name": "Volbeat",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "42",
+      "fullNumber": "42/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "volbeat",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/42.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-43",
+      "name": "Baltoy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "43",
+      "fullNumber": "43/106",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "baltoy",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/43.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-44",
+      "name": "Cacnea",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "44",
+      "fullNumber": "44/106",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "cacnea",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/44.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-45",
+      "name": "Doduo",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "45",
+      "fullNumber": "45/106",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "doduo",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/45.jpg",
+      "hp": 50
+    },
+    {
+      "id": "em-46",
+      "name": "Duskull",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "46",
+      "fullNumber": "46/106",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "duskull",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/46.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-47",
+      "name": "Electrike",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "47",
+      "fullNumber": "47/106",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "electrike",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/47.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-48",
+      "name": "Electrike",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "48",
+      "fullNumber": "48/106",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "electrike",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/48.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-49",
+      "name": "Feebas",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "49",
+      "fullNumber": "49/106",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "feebas",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/49.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-50",
+      "name": "Feebas",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "50",
+      "fullNumber": "50/106",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "feebas",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/50.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-51",
+      "name": "Gulpin",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "51",
+      "fullNumber": "51/106",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "gulpin",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/51.jpg",
+      "hp": 50
+    },
+    {
+      "id": "em-52",
+      "name": "Larvitar",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "52",
+      "fullNumber": "52/106",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "larvitar",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/52.jpg",
+      "hp": 50
+    },
+    {
+      "id": "em-53",
+      "name": "Luvdisc",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "53",
+      "fullNumber": "53/106",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "luvdisc",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/53.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-54",
+      "name": "Makuhita",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "54",
+      "fullNumber": "54/106",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "makuhita",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/54.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-55",
+      "name": "Meditite",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "55",
+      "fullNumber": "55/106",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "meditite",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/55.jpg",
+      "hp": 50
+    },
+    {
+      "id": "em-56",
+      "name": "Mudkip",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "56",
+      "fullNumber": "56/106",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "mudkip",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/56.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-57",
+      "name": "Numel",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "57",
+      "fullNumber": "57/106",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "numel",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/57.jpg",
+      "hp": 50
+    },
+    {
+      "id": "em-58",
+      "name": "Numel",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "58",
+      "fullNumber": "58/106",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "numel",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/58.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-59",
+      "name": "Pichu",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "59",
+      "fullNumber": "59/106",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pichu",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/59.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-60",
+      "name": "Pikachu",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "60",
+      "fullNumber": "60/106",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pikachu",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/60.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-61",
+      "name": "Ralts",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "61",
+      "fullNumber": "61/106",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "ralts",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/61.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-62",
+      "name": "Rhyhorn",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "62",
+      "fullNumber": "62/106",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "rhyhorn",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/62.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-63",
+      "name": "Shroomish",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "63",
+      "fullNumber": "63/106",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "shroomish",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/63.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-64",
+      "name": "Snorunt",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "64",
+      "fullNumber": "64/106",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "snorunt",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/64.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-65",
+      "name": "Spoink",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "65",
+      "fullNumber": "65/106",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "spoink",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/65.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-66",
+      "name": "Spoink",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "66",
+      "fullNumber": "66/106",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "spoink",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/66.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-67",
+      "name": "Swablu",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "67",
+      "fullNumber": "67/106",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "swablu",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/67.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-68",
+      "name": "Taillow",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "68",
+      "fullNumber": "68/106",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "taillow",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/68.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-69",
+      "name": "Torchic",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "69",
+      "fullNumber": "69/106",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "torchic",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/69.jpg",
+      "hp": 60
+    },
+    {
+      "id": "em-70",
+      "name": "Treecko",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "70",
+      "fullNumber": "70/106",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "treecko",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/70.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-71",
+      "name": "Voltorb",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "71",
+      "fullNumber": "71/106",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "voltorb",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/71.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-72",
+      "name": "Vulpix",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "72",
+      "fullNumber": "72/106",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "vulpix",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/72.jpg",
+      "hp": 50
+    },
+    {
+      "id": "em-73",
+      "name": "Whismur",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "73",
+      "fullNumber": "73/106",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "whismur",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/73.jpg",
+      "hp": 70
+    },
+    {
+      "id": "em-74",
+      "name": "Zigzagoon",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "74",
+      "fullNumber": "74/106",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "zigzagoon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/74.jpg",
+      "hp": 40
+    },
+    {
+      "id": "em-75",
+      "name": "Battle Frontier",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "75",
+      "fullNumber": "75/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "battle",
+        "pokemon",
+        "tcg",
+        "frontier",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/75.jpg"
+    },
+    {
+      "id": "em-76",
+      "name": "Double Full Heal",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "76",
+      "fullNumber": "76/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "double",
+        "full",
+        "card",
+        "heal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/76.jpg"
+    },
+    {
+      "id": "em-77",
+      "name": "Lanette's Net Search",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "77",
+      "fullNumber": "77/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lanettes",
+        "pokemon",
+        "tcg",
+        "search",
+        "net",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/77.jpg"
+    },
+    {
+      "id": "em-78",
+      "name": "Lum Berry",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "78",
+      "fullNumber": "78/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "berry",
+        "lum",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/78.jpg"
+    },
+    {
+      "id": "em-79",
+      "name": "Mr. Stone's Project",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "79",
+      "fullNumber": "79/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mr",
+        "stones",
+        "pokemon",
+        "tcg",
+        "card",
+        "project"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/79.jpg"
+    },
+    {
+      "id": "em-80",
+      "name": "Oran Berry",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "80",
+      "fullNumber": "80/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "berry",
+        "oran",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/80.jpg"
+    },
+    {
+      "id": "em-81",
+      "name": "Pokenav",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "81",
+      "fullNumber": "81/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokenav",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/81.jpg"
+    },
+    {
+      "id": "em-82",
+      "name": "Professor Birch",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "82",
+      "fullNumber": "82/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "birch",
+        "professor"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/82.jpg"
+    },
+    {
+      "id": "em-83",
+      "name": "Rare Candy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "83",
+      "fullNumber": "83/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "candy",
+        "pokemon",
+        "tcg",
+        "rare",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/83.jpg"
+    },
+    {
+      "id": "em-84",
+      "name": "Scott",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "84",
+      "fullNumber": "84/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "scott",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/84.jpg"
+    },
+    {
+      "id": "em-85",
+      "name": "Wally's Training",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "85",
+      "fullNumber": "85/106",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wallys",
+        "pokemon",
+        "tcg",
+        "training",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/85.jpg"
+    },
+    {
+      "id": "em-86",
+      "name": "Darkness Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "86",
+      "fullNumber": "86/106",
+      "rarity": "Rare",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "energy",
+        "darkness"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/86.jpg"
+    },
+    {
+      "id": "em-87",
+      "name": "Double Rainbow Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "87",
+      "fullNumber": "87/106",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "double",
+        "rainbow",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/87.jpg"
+    },
+    {
+      "id": "em-88",
+      "name": "Metal Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "88",
+      "fullNumber": "88/106",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "metal",
+        "pokemon",
+        "tcg",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/88.jpg"
+    },
+    {
+      "id": "em-89",
+      "name": "Multi Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "89",
+      "fullNumber": "89/106",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "multi",
+        "pokemon",
+        "tcg",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/89.jpg"
+    },
+    {
+      "id": "em-90",
+      "name": "Altaria ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "90",
+      "fullNumber": "90/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "altaria",
+        "ex",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/90.jpg",
+      "hp": 110
+    },
+    {
+      "id": "em-91",
+      "name": "Cacturne ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "91",
+      "fullNumber": "91/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "cacturne",
+        "tcg",
+        "pokemon",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/91.jpg",
+      "hp": 110
+    },
+    {
+      "id": "em-92",
+      "name": "Camerupt ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "92",
+      "fullNumber": "92/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "pokemon",
+        "tcg",
+        "card",
+        "camerupt"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/92.jpg",
+      "hp": 120
+    },
+    {
+      "id": "em-93",
+      "name": "Deoxys ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "93",
+      "fullNumber": "93/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "ex",
+        "deoxys",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/93.jpg",
+      "hp": 120
+    },
+    {
+      "id": "em-94",
+      "name": "Dusclops ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "94",
+      "fullNumber": "94/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "pokemon",
+        "tcg",
+        "card",
+        "dusclops"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/94.jpg",
+      "hp": 110
+    },
+    {
+      "id": "em-95",
+      "name": "Medicham ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "95",
+      "fullNumber": "95/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "pokemon",
+        "tcg",
+        "medicham",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/95.jpg",
+      "hp": 120
+    },
+    {
+      "id": "em-96",
+      "name": "Milotic ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "96",
+      "fullNumber": "96/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "milotic",
+        "ex",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/96.jpg",
+      "hp": 100
+    },
+    {
+      "id": "em-97",
+      "name": "Raichu ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "97",
+      "fullNumber": "97/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "pokemon",
+        "tcg",
+        "raichu",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/97.jpg",
+      "hp": 100
+    },
+    {
+      "id": "em-98",
+      "name": "Regice ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "98",
+      "fullNumber": "98/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "ex",
+        "regi",
+        "pokemon",
+        "tcg",
+        "card",
+        "regice"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/98.jpg",
+      "hp": 120
+    },
+    {
+      "id": "em-99",
+      "name": "Regirock ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "99",
+      "fullNumber": "99/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "ex",
+        "regi",
+        "regirock",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/99.jpg",
+      "hp": 120
+    },
+    {
+      "id": "em-100",
+      "name": "Registeel ex",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "100",
+      "fullNumber": "100/106",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "legendary",
+        "ex",
+        "regi",
+        "registeel",
+        "pokemon",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/100.jpg",
+      "hp": 130
+    },
+    {
+      "id": "em-101",
+      "name": "Grass Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "101",
+      "fullNumber": "101/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "grass",
+        "pokemon",
+        "tcg",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/101.jpg"
+    },
+    {
+      "id": "em-102",
+      "name": "Fire Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "102",
+      "fullNumber": "102/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "fire",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/102.jpg"
+    },
+    {
+      "id": "em-103",
+      "name": "Water Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "103",
+      "fullNumber": "103/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "water",
+        "pokemon",
+        "tcg",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/103.jpg"
+    },
+    {
+      "id": "em-104",
+      "name": "Lightning Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "104",
+      "fullNumber": "104/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "lightning",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/104.jpg"
+    },
+    {
+      "id": "em-105",
+      "name": "Psychic Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "105",
+      "fullNumber": "105/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "psychic",
+        "pokemon",
+        "tcg",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/105.jpg"
+    },
+    {
+      "id": "em-106",
+      "name": "Fighting Energy",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "106",
+      "fullNumber": "106/106",
+      "rarity": "Rare Holo",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "fighting",
+        "card",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/106.jpg"
+    },
+    {
+      "id": "em-107",
+      "name": "Farfetch'd",
+      "setName": "EX Emerald",
+      "setCode": "EM",
+      "cardNumber": "107",
+      "fullNumber": "107/106",
+      "rarity": "Secret Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "farfetchd",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exemerald/107.jpg",
+      "hp": 70
+    }
+  ]
+}

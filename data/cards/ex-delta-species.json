@@ -1,0 +1,2495 @@
+{
+  "setName": "EX Delta Species",
+  "description": "The original Delta Species set introducing Pok\u00e9mon with altered types. Features unique dual-type Delta Species cards and the mysterious Holon region Pok\u00e9mon.",
+  "releaseDate": "2005-10-31",
+  "totalCards": "113",
+  "tagSales": true,
+  "cards": [
+    {
+      "id": "ds-1",
+      "name": "Beedrill \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "1",
+      "fullNumber": "1/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "beedrill",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/1.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-2",
+      "name": "Crobat \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "2",
+      "fullNumber": "2/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "crobat",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/2.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-3",
+      "name": "Dragonite \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "3",
+      "fullNumber": "3/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "dragonite",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/3.jpg",
+      "hp": 100
+    },
+    {
+      "id": "ds-4",
+      "name": "Espeon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "4",
+      "fullNumber": "4/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "espeon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/4.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-5",
+      "name": "Flareon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "5",
+      "fullNumber": "5/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "flareon",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/5.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-6",
+      "name": "Gardevoir \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "6",
+      "fullNumber": "6/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "gardevoir",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/6.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-7",
+      "name": "Jolteon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "7",
+      "fullNumber": "7/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "jolteon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/7.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-8",
+      "name": "Latias \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "8",
+      "fullNumber": "8/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "latias",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/8.jpg",
+      "hp": 110
+    },
+    {
+      "id": "ds-9",
+      "name": "Latios \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "9",
+      "fullNumber": "9/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "pokemon",
+        "latios"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/9.jpg",
+      "hp": 90
+    },
+    {
+      "id": "ds-10",
+      "name": "Marowak \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "10",
+      "fullNumber": "10/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "marowak",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/10.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-11",
+      "name": "Metagross \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "11",
+      "fullNumber": "11/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "metagross",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/11.jpg",
+      "hp": 110
+    },
+    {
+      "id": "ds-12",
+      "name": "Mewtwo \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "12",
+      "fullNumber": "12/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "mewtwo",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/12.jpg",
+      "hp": 100
+    },
+    {
+      "id": "ds-13",
+      "name": "Rayquaza \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "13",
+      "fullNumber": "13/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "rayquaza",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/13.jpg",
+      "hp": 100
+    },
+    {
+      "id": "ds-14",
+      "name": "Salamence \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "14",
+      "fullNumber": "14/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "salamence",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/14.jpg",
+      "hp": 90
+    },
+    {
+      "id": "ds-15",
+      "name": "Starmie \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "15",
+      "fullNumber": "15/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "starmie",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/15.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-16",
+      "name": "Tyranitar \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "16",
+      "fullNumber": "16/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tyranitar",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/16.jpg",
+      "hp": 110
+    },
+    {
+      "id": "ds-17",
+      "name": "Umbreon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "17",
+      "fullNumber": "17/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "umbreon",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/17.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-18",
+      "name": "Vaporeon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "18",
+      "fullNumber": "18/113",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "vaporeon",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/18.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-19",
+      "name": "Azumarill \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "19",
+      "fullNumber": "19/113",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "azumarill",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/19.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-20",
+      "name": "Azurill",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "20",
+      "fullNumber": "20/113",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "azurill",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/20.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-21",
+      "name": "Holon's Electrode",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "21",
+      "fullNumber": "21/113",
+      "rarity": "Rare",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "tcg",
+        "electrode",
+        "holons",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/21.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-22",
+      "name": "Holon's Magneton",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "22",
+      "fullNumber": "22/113",
+      "rarity": "Rare",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "tcg",
+        "magneton",
+        "holons",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/22.jpg",
+      "hp": 80
+    },
+    {
+      "id": "ds-23",
+      "name": "Hypno",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "23",
+      "fullNumber": "23/113",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "hypno",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/23.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-24",
+      "name": "Mightyena \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "24",
+      "fullNumber": "24/113",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "mightyena",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/24.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-25",
+      "name": "Porygon2",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "25",
+      "fullNumber": "25/113",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "porygon2",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/25.jpg",
+      "hp": 80
+    },
+    {
+      "id": "ds-26",
+      "name": "Rain Castform",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "26",
+      "fullNumber": "26/113",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "rain",
+        "tcg",
+        "pokemon",
+        "castform"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/26.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-27",
+      "name": "Sandslash \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "27",
+      "fullNumber": "27/113",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "sandslash",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/27.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-28",
+      "name": "Slowking",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "28",
+      "fullNumber": "28/113",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "slowking",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/28.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-29",
+      "name": "Snow-cloud Castform",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "29",
+      "fullNumber": "29/113",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "snowcloud",
+        "tcg",
+        "pokemon",
+        "castform"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/29.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-30",
+      "name": "Starmie \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "30",
+      "fullNumber": "30/113",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "starmie",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/30.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-31",
+      "name": "Sunny Castform",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "31",
+      "fullNumber": "31/113",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sunny",
+        "card",
+        "tcg",
+        "pokemon",
+        "castform"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/31.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-32",
+      "name": "Swellow",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "32",
+      "fullNumber": "32/113",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "swellow",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/32.jpg",
+      "hp": 90
+    },
+    {
+      "id": "ds-33",
+      "name": "Weezing",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "33",
+      "fullNumber": "33/113",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "weezing",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/33.jpg",
+      "hp": 90
+    },
+    {
+      "id": "ds-34",
+      "name": "Castform",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "34",
+      "fullNumber": "34/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "castform",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/34.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-35",
+      "name": "Ditto",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "35",
+      "fullNumber": "35/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "transform",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/35.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-36",
+      "name": "Ditto (Bulbasaur)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "36",
+      "fullNumber": "36/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "bulbasaur",
+        "tcg",
+        "transform",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/36.jpg",
+      "hp": 40
+    },
+    {
+      "id": "ds-37",
+      "name": "Ditto (Charmander)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "37",
+      "fullNumber": "37/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "transform",
+        "charmander",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/37.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-38",
+      "name": "Ditto (Mr. Mime)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "38",
+      "fullNumber": "38/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "mr",
+        "tcg",
+        "transform",
+        "ditto",
+        "mime",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/38.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-39",
+      "name": "Ditto (Pikachu)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "39",
+      "fullNumber": "39/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pikachu",
+        "tcg",
+        "transform",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/39.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-40",
+      "name": "Ditto (Squirtle)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "40",
+      "fullNumber": "40/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "squirtle",
+        "tcg",
+        "transform",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/40.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-41",
+      "name": "Dragonair \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "41",
+      "fullNumber": "41/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "dragonair",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/41.jpg",
+      "hp": 80
+    },
+    {
+      "id": "ds-42",
+      "name": "Dragonair \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "42",
+      "fullNumber": "42/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "dragonair",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/42.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-43",
+      "name": "Golbat",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "43",
+      "fullNumber": "43/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "golbat",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/43.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-44",
+      "name": "Hariyama",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "44",
+      "fullNumber": "44/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "hariyama",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/44.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-45",
+      "name": "Illumise",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "45",
+      "fullNumber": "45/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "illumise",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/45.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-46",
+      "name": "Kakuna",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "46",
+      "fullNumber": "46/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "kakuna",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/46.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-47",
+      "name": "Kirlia",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "47",
+      "fullNumber": "47/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "kirlia",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/47.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-48",
+      "name": "Magneton",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "48",
+      "fullNumber": "48/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "magneton",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/48.jpg",
+      "hp": 80
+    },
+    {
+      "id": "ds-49",
+      "name": "Metang \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "49",
+      "fullNumber": "49/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "metang",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/49.jpg",
+      "hp": 80
+    },
+    {
+      "id": "ds-50",
+      "name": "Persian",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "50",
+      "fullNumber": "50/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "persian",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/50.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-51",
+      "name": "Pupitar \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "51",
+      "fullNumber": "51/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pupitar",
+        "card",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/51.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-52",
+      "name": "Rapidash",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "52",
+      "fullNumber": "52/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "rapidash",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/52.jpg",
+      "hp": 90
+    },
+    {
+      "id": "ds-53",
+      "name": "Shelgon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "53",
+      "fullNumber": "53/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "shelgon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/53.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-54",
+      "name": "Shelgon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "54",
+      "fullNumber": "54/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "shelgon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/54.jpg",
+      "hp": 80
+    },
+    {
+      "id": "ds-55",
+      "name": "Skarmory",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "55",
+      "fullNumber": "55/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "skarmory",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/55.jpg",
+      "hp": 40
+    },
+    {
+      "id": "ds-56",
+      "name": "Volbeat",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "56",
+      "fullNumber": "56/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "volbeat",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/56.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-57",
+      "name": "Bagon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "57",
+      "fullNumber": "57/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "bagon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/57.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-58",
+      "name": "Bagon \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "58",
+      "fullNumber": "58/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "bagon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/58.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-59",
+      "name": "Beldum \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "59",
+      "fullNumber": "59/113",
+      "rarity": "Common",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "delta",
+        "beldum",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/59.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-60",
+      "name": "Cubone",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "60",
+      "fullNumber": "60/113",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "cubone",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/60.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-61",
+      "name": "Ditto (Charmander)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "61",
+      "fullNumber": "61/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "transform",
+        "charmander",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/61.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-62",
+      "name": "Ditto (Geodude)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "62",
+      "fullNumber": "62/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "tcg",
+        "transform",
+        "geodude",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/62.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-63",
+      "name": "Ditto (Pikachu)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "63",
+      "fullNumber": "63/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pikachu",
+        "tcg",
+        "transform",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/63.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-64",
+      "name": "Ditto (Squirtle)",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "64",
+      "fullNumber": "64/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "squirtle",
+        "tcg",
+        "transform",
+        "ditto",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/64.jpg",
+      "hp": 40
+    },
+    {
+      "id": "ds-65",
+      "name": "Dratini \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "65",
+      "fullNumber": "65/113",
+      "rarity": "Common",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "dratini",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/65.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-66",
+      "name": "Dratini \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "66",
+      "fullNumber": "66/113",
+      "rarity": "Common",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "dratini",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/66.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-67",
+      "name": "Drowzee",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "67",
+      "fullNumber": "67/113",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "drowzee",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/67.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-68",
+      "name": "Eevee \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "68",
+      "fullNumber": "68/113",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "eevee",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/68.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-69",
+      "name": "Eevee",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "69",
+      "fullNumber": "69/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "eevee",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/69.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-70",
+      "name": "Holon's Magnemite",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "70",
+      "fullNumber": "70/113",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "magnemite",
+        "tcg",
+        "holons",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/70.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-71",
+      "name": "Holon's Voltorb",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "71",
+      "fullNumber": "71/113",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "tcg",
+        "voltorb",
+        "holons",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/71.jpg",
+      "hp": 40
+    },
+    {
+      "id": "ds-72",
+      "name": "Koffing",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "72",
+      "fullNumber": "72/113",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "koffing",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/72.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-73",
+      "name": "Larvitar \u03b4",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "73",
+      "fullNumber": "73/113",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "larvitar",
+        "tcg",
+        "delta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/73.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-74",
+      "name": "Magnemite",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "74",
+      "fullNumber": "74/113",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magnemite",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/74.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-75",
+      "name": "Makuhita",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "75",
+      "fullNumber": "75/113",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "makuhita",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/75.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-76",
+      "name": "Marill",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "76",
+      "fullNumber": "76/113",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "marill",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/76.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-77",
+      "name": "Meowth",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "77",
+      "fullNumber": "77/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "meowth",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/77.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-78",
+      "name": "Ponyta",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "78",
+      "fullNumber": "78/113",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "ponyta",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/78.jpg",
+      "hp": 40
+    },
+    {
+      "id": "ds-79",
+      "name": "Poochyena",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "79",
+      "fullNumber": "79/113",
+      "rarity": "Common",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "poochyena",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/79.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-80",
+      "name": "Porygon",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "80",
+      "fullNumber": "80/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "porygon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/80.jpg",
+      "hp": 40
+    },
+    {
+      "id": "ds-81",
+      "name": "Ralts",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "81",
+      "fullNumber": "81/113",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "ralts",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/81.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-82",
+      "name": "Sandshrew",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "82",
+      "fullNumber": "82/113",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "sandshrew",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/82.jpg",
+      "hp": 40
+    },
+    {
+      "id": "ds-83",
+      "name": "Slowpoke",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "83",
+      "fullNumber": "83/113",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "slowpoke",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/83.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-84",
+      "name": "Staryu",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "84",
+      "fullNumber": "84/113",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "staryu",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/84.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-85",
+      "name": "Staryu",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "85",
+      "fullNumber": "85/113",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "staryu",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/85.jpg",
+      "hp": 40
+    },
+    {
+      "id": "ds-86",
+      "name": "Taillow",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "86",
+      "fullNumber": "86/113",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "taillow",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/86.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-87",
+      "name": "Weedle",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "87",
+      "fullNumber": "87/113",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "weedle",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/87.jpg",
+      "hp": 50
+    },
+    {
+      "id": "ds-88",
+      "name": "Zubat",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "88",
+      "fullNumber": "88/113",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "zubat",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/88.jpg",
+      "hp": 60
+    },
+    {
+      "id": "ds-89",
+      "name": "Dual Ball",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "89",
+      "fullNumber": "89/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ball",
+        "dual",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/89.jpg"
+    },
+    {
+      "id": "ds-90",
+      "name": "Great Ball",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "90",
+      "fullNumber": "90/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ball",
+        "great",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/90.jpg"
+    },
+    {
+      "id": "ds-91",
+      "name": "Holon Farmer",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "91",
+      "fullNumber": "91/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "farmer",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/91.jpg"
+    },
+    {
+      "id": "ds-92",
+      "name": "Holon Lass",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "92",
+      "fullNumber": "92/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "tcg",
+        "lass",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/92.jpg"
+    },
+    {
+      "id": "ds-93",
+      "name": "Holon Mentor",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "93",
+      "fullNumber": "93/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "mentor",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/93.jpg"
+    },
+    {
+      "id": "ds-94",
+      "name": "Holon Research Tower",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "94",
+      "fullNumber": "94/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "research",
+        "card",
+        "holon",
+        "tcg",
+        "tower",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/94.jpg"
+    },
+    {
+      "id": "ds-95",
+      "name": "Holon Researcher",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "95",
+      "fullNumber": "95/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "researcher",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/95.jpg"
+    },
+    {
+      "id": "ds-96",
+      "name": "Holon Ruins",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "96",
+      "fullNumber": "96/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "tcg",
+        "ruins",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/96.jpg"
+    },
+    {
+      "id": "ds-97",
+      "name": "Holon Scientist",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "97",
+      "fullNumber": "97/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "scientist",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/97.jpg"
+    },
+    {
+      "id": "ds-98",
+      "name": "Holon Transceiver",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "98",
+      "fullNumber": "98/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "transceiver",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/98.jpg"
+    },
+    {
+      "id": "ds-99",
+      "name": "Master Ball",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "99",
+      "fullNumber": "99/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ball",
+        "master",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/99.jpg"
+    },
+    {
+      "id": "ds-100",
+      "name": "Super Scoop Up",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "100",
+      "fullNumber": "100/113",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "scoop",
+        "tcg",
+        "super",
+        "up",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/100.jpg"
+    },
+    {
+      "id": "ds-101",
+      "name": "Potion",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "101",
+      "fullNumber": "101/113",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "potion",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/101.jpg"
+    },
+    {
+      "id": "ds-102",
+      "name": "Switch",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "102",
+      "fullNumber": "102/113",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "switch",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/102.jpg"
+    },
+    {
+      "id": "ds-103",
+      "name": "Darkness Energy",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "103",
+      "fullNumber": "103/113",
+      "rarity": "Rare",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "darkness",
+        "energy",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/103.jpg"
+    },
+    {
+      "id": "ds-104",
+      "name": "Holon Energy FF",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "104",
+      "fullNumber": "104/113",
+      "rarity": "Rare",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "ff",
+        "energy",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/104.jpg"
+    },
+    {
+      "id": "ds-105",
+      "name": "Holon Energy GL",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "105",
+      "fullNumber": "105/113",
+      "rarity": "Rare",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "energy",
+        "gl",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/105.jpg"
+    },
+    {
+      "id": "ds-106",
+      "name": "Holon Energy WP",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "106",
+      "fullNumber": "106/113",
+      "rarity": "Rare",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "holon",
+        "energy",
+        "tcg",
+        "wp",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/106.jpg"
+    },
+    {
+      "id": "ds-107",
+      "name": "Metal Energy",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "107",
+      "fullNumber": "107/113",
+      "rarity": "Rare",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "energy",
+        "tcg",
+        "metal",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/107.jpg"
+    },
+    {
+      "id": "ds-108",
+      "name": "Flareon ex",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "108",
+      "fullNumber": "108/113",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ex",
+        "flareon",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/108.jpg",
+      "hp": 100
+    },
+    {
+      "id": "ds-109",
+      "name": "Jolteon ex",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "109",
+      "fullNumber": "109/113",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ex",
+        "tcg",
+        "jolteon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/109.jpg",
+      "hp": 110
+    },
+    {
+      "id": "ds-110",
+      "name": "Vaporeon ex",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "110",
+      "fullNumber": "110/113",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ex",
+        "tcg",
+        "vaporeon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/110.jpg",
+      "hp": 120
+    },
+    {
+      "id": "ds-111",
+      "name": "Groudon\u2606",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "111",
+      "fullNumber": "111/113",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "star",
+        "tcg",
+        "groudon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/111.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-112",
+      "name": "Kyogre\u2606",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "112",
+      "fullNumber": "112/113",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "star",
+        "kyogre",
+        "tcg",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/112.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-113",
+      "name": "Metagross\u2606",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "113",
+      "fullNumber": "113/113",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "star",
+        "tcg",
+        "metagross",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/113.jpg",
+      "hp": 70
+    },
+    {
+      "id": "ds-114",
+      "name": "Azumarill",
+      "setName": "EX Delta Species",
+      "setCode": "DS",
+      "cardNumber": "114",
+      "fullNumber": "114/113",
+      "rarity": "Secret Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "azumarill",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exdeltaspecies/114.jpg",
+      "hp": 70
+    }
+  ]
+}

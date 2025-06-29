@@ -1,0 +1,2470 @@
+{
+  "setName": "EX Holon Phantoms",
+  "description": "Set in the mysterious Holon region featuring Delta Species Pokémon and multiple Deoxys forms. Includes Gyarados Star, Mewtwo Star, and Pikachu Star, plus a secret Mew card.",
+  "releaseDate": "2006-05-03",
+  "totalCards": "110",
+  "tagSales": true,
+  "cards": [
+    {
+      "id": "hp-1",
+      "name": "Armaldo δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "1",
+      "fullNumber": "1/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "armaldo",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/1.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-2",
+      "name": "Cradily δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "2",
+      "fullNumber": "2/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "cradily",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/2.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-3",
+      "name": "Deoxys δ (Attack Forme)",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "3",
+      "fullNumber": "3/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "attack",
+        "card",
+        "delta",
+        "deoxys",
+        "pokemon",
+        "forme",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/3.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-4",
+      "name": "Deoxys δ (Defense Forme)",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "4",
+      "fullNumber": "4/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "defense",
+        "delta",
+        "deoxys",
+        "pokemon",
+        "forme",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/4.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-5",
+      "name": "Deoxys δ (Normal Forme)",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "5",
+      "fullNumber": "5/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "normal",
+        "card",
+        "delta",
+        "deoxys",
+        "pokemon",
+        "forme",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/5.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-6",
+      "name": "Deoxys δ (Speed Forme)",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "6",
+      "fullNumber": "6/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "speed",
+        "card",
+        "delta",
+        "deoxys",
+        "pokemon",
+        "forme",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/6.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-7",
+      "name": "Flygon δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "7",
+      "fullNumber": "7/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "flygon",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/7.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-8",
+      "name": "Gyarados δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "8",
+      "fullNumber": "8/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "species",
+        "delta",
+        "card",
+        "pokemon",
+        "gyarados"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/8.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-9",
+      "name": "Kabutops δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "9",
+      "fullNumber": "9/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "kabutops",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/9.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-10",
+      "name": "Kingdra δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "10",
+      "fullNumber": "10/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "kingdra",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/10.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-11",
+      "name": "Latias δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "11",
+      "fullNumber": "11/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "latias",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/11.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-12",
+      "name": "Latios δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "12",
+      "fullNumber": "12/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "latios",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/12.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-13",
+      "name": "Omastar δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "13",
+      "fullNumber": "13/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "omastar",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/13.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-14",
+      "name": "Pidgeot δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "14",
+      "fullNumber": "14/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "pidgeot",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/14.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-15",
+      "name": "Raichu δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "15",
+      "fullNumber": "15/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "raichu",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/15.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-16",
+      "name": "Rayquaza δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "16",
+      "fullNumber": "16/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "rayquaza",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/16.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-17",
+      "name": "Vileplume δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "17",
+      "fullNumber": "17/110",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "vileplume",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/17.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-18",
+      "name": "Absol",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "18",
+      "fullNumber": "18/110",
+      "rarity": "Rare",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "absol",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/18.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-19",
+      "name": "Bellossom δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "19",
+      "fullNumber": "19/110",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "bellossom",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/19.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-20",
+      "name": "Blaziken",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "20",
+      "fullNumber": "20/110",
+      "rarity": "Rare",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "blaziken",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/20.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-21",
+      "name": "Latias δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "21",
+      "fullNumber": "21/110",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "latias",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/21.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-22",
+      "name": "Latios δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "22",
+      "fullNumber": "22/110",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "latios",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/22.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-23",
+      "name": "Mawile",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "23",
+      "fullNumber": "23/110",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "mawile",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/23.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-24",
+      "name": "Mewtwo δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "24",
+      "fullNumber": "24/110",
+      "rarity": "Rare",
+      "type": [
+        "Psychic",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "mewtwo",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/24.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-25",
+      "name": "Nosepass",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "25",
+      "fullNumber": "25/110",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "nosepass",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/25.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-26",
+      "name": "Rayquaza δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "26",
+      "fullNumber": "26/110",
+      "rarity": "Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "rayquaza",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/26.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-27",
+      "name": "Regice",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "27",
+      "fullNumber": "27/110",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "regice",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/27.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-28",
+      "name": "Regirock",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "28",
+      "fullNumber": "28/110",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "regirock",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/28.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-29",
+      "name": "Registeel",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "29",
+      "fullNumber": "29/110",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "registeel",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/29.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-30",
+      "name": "Relicanth",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "30",
+      "fullNumber": "30/110",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "relicanth",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/30.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-31",
+      "name": "Sableye",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "31",
+      "fullNumber": "31/110",
+      "rarity": "Rare",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "sableye",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/31.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-32",
+      "name": "Seviper",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "32",
+      "fullNumber": "32/110",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "seviper",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/32.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-33",
+      "name": "Torkoal",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "33",
+      "fullNumber": "33/110",
+      "rarity": "Rare",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "torkoal",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/33.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-34",
+      "name": "Zangoose",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "34",
+      "fullNumber": "34/110",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "zangoose",
+        "tcg",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/34.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-35",
+      "name": "Aerodactyl δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "35",
+      "fullNumber": "35/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "aerodactyl",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/35.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-36",
+      "name": "Camerupt",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "36",
+      "fullNumber": "36/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "camerupt",
+        "tcg",
+        "pokemon",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/36.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-37",
+      "name": "Chimecho δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "37",
+      "fullNumber": "37/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "chimecho",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/37.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-38",
+      "name": "Claydol",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "38",
+      "fullNumber": "38/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "claydol",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/38.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-39",
+      "name": "Combusken",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "39",
+      "fullNumber": "39/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "combusken",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/39.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-40",
+      "name": "Donphan",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "40",
+      "fullNumber": "40/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "donphan",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/40.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-41",
+      "name": "Exeggutor δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "41",
+      "fullNumber": "41/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "exeggutor",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/41.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-42",
+      "name": "Gloom δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "42",
+      "fullNumber": "42/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "gloom",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/42.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-43",
+      "name": "Golduck δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "43",
+      "fullNumber": "43/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "species",
+        "golduck"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/43.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-44",
+      "name": "Holon's Castform",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "44",
+      "fullNumber": "44/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "holon",
+        "castform",
+        "holons",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/44.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-45",
+      "name": "Lairon",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "45",
+      "fullNumber": "45/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "lairon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/45.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-46",
+      "name": "Manectric",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "46",
+      "fullNumber": "46/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "manectric",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/46.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-47",
+      "name": "Masquerain",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "47",
+      "fullNumber": "47/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "masquerain",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/47.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-48",
+      "name": "Persian δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "48",
+      "fullNumber": "48/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "persian",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/48.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-49",
+      "name": "Pidgeotto δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "49",
+      "fullNumber": "49/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "pidgeotto",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/49.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-50",
+      "name": "Primeape δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "50",
+      "fullNumber": "50/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "primeape",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/50.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-51",
+      "name": "Raichu",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "51",
+      "fullNumber": "51/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "raichu",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/51.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-52",
+      "name": "Seadra δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "52",
+      "fullNumber": "52/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "species",
+        "seadra"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/52.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-53",
+      "name": "Sharpedo δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "53",
+      "fullNumber": "53/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "sharpedo",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/53.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-54",
+      "name": "Vibrava δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "54",
+      "fullNumber": "54/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "vibrava",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/54.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-55",
+      "name": "Whiscash",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "55",
+      "fullNumber": "55/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "whiscash",
+        "tcg",
+        "pokemon",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/55.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-56",
+      "name": "Wobbuffet",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "56",
+      "fullNumber": "56/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "wobbuffet",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/56.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-57",
+      "name": "Anorith δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "57",
+      "fullNumber": "57/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "anorith",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/57.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-58",
+      "name": "Aron",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "58",
+      "fullNumber": "58/110",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "aron",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/58.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-59",
+      "name": "Baltoy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "59",
+      "fullNumber": "59/110",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "baltoy",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/59.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-60",
+      "name": "Barboach",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "60",
+      "fullNumber": "60/110",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "barboach",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/60.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-61",
+      "name": "Carvanha δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "61",
+      "fullNumber": "61/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "carvanha",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/61.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-62",
+      "name": "Corphish",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "62",
+      "fullNumber": "62/110",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "corphish",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/62.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-63",
+      "name": "Corphish",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "63",
+      "fullNumber": "63/110",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "corphish",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/63.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-64",
+      "name": "Electrike",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "64",
+      "fullNumber": "64/110",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "electrike",
+        "tcg",
+        "pokemon",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/64.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-65",
+      "name": "Exeggcute δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "65",
+      "fullNumber": "65/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "exeggcute",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/65.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-66",
+      "name": "Horsea δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "66",
+      "fullNumber": "66/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "horsea",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/66.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-67",
+      "name": "Kabuto δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "67",
+      "fullNumber": "67/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "kabuto",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/67.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-68",
+      "name": "Lileep δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "68",
+      "fullNumber": "68/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "lileep",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/68.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-69",
+      "name": "Magikarp δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "69",
+      "fullNumber": "69/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "magikarp",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/69.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-70",
+      "name": "Mankey δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "70",
+      "fullNumber": "70/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "mankey",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/70.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-71",
+      "name": "Meowth δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "71",
+      "fullNumber": "71/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "meowth",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/71.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-72",
+      "name": "Numel",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "72",
+      "fullNumber": "72/110",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "numel",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/72.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-73",
+      "name": "Oddish δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "73",
+      "fullNumber": "73/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "oddish",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/73.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-74",
+      "name": "Omanyte δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "74",
+      "fullNumber": "74/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "omanyte",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/74.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-75",
+      "name": "Phanpy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "75",
+      "fullNumber": "75/110",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "phanpy",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/75.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-76",
+      "name": "Pichu δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "76",
+      "fullNumber": "76/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "pichu",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/76.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-77",
+      "name": "Pidgey δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "77",
+      "fullNumber": "77/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pidgey",
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/77.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-78",
+      "name": "Pikachu",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "78",
+      "fullNumber": "78/110",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "pikachu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/78.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-79",
+      "name": "Pikachu δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "79",
+      "fullNumber": "79/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "pikachu",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/79.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-80",
+      "name": "Poochyena",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "80",
+      "fullNumber": "80/110",
+      "rarity": "Common",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "poochyena"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/80.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-81",
+      "name": "Psyduck δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "81",
+      "fullNumber": "81/110",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "psyduck",
+        "delta",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/81.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-82",
+      "name": "Surskit",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "82",
+      "fullNumber": "82/110",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "card",
+        "surskit"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/82.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-83",
+      "name": "Torchic",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "83",
+      "fullNumber": "83/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "torchic",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/83.jpg",
+      "hp": 60
+    },
+    {
+      "id": "hp-84",
+      "name": "Trapinch δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "84",
+      "fullNumber": "84/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "delta",
+        "card",
+        "pokemon",
+        "trapinch",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/84.jpg",
+      "hp": 50
+    },
+    {
+      "id": "hp-85",
+      "name": "Holon Adventurer",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "85",
+      "fullNumber": "85/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "adventurer",
+        "holon",
+        "tcg",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/85.jpg"
+    },
+    {
+      "id": "hp-86",
+      "name": "Holon Fossil",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "86",
+      "fullNumber": "86/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "holon",
+        "tcg",
+        "fossil",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/86.jpg"
+    },
+    {
+      "id": "hp-87",
+      "name": "Holon Lake",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "87",
+      "fullNumber": "87/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "holon",
+        "tcg",
+        "card",
+        "pokemon",
+        "lake"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/87.jpg"
+    },
+    {
+      "id": "hp-88",
+      "name": "Mr. Stone's Project",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "88",
+      "fullNumber": "88/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "project",
+        "tcg",
+        "pokemon",
+        "card",
+        "stones"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/88.jpg"
+    },
+    {
+      "id": "hp-89",
+      "name": "Professor Cozmo's Discovery",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "89",
+      "fullNumber": "89/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "professor",
+        "cozmos",
+        "card",
+        "pokemon",
+        "discovery"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/89.jpg"
+    },
+    {
+      "id": "hp-90",
+      "name": "Rare Candy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "90",
+      "fullNumber": "90/110",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "candy",
+        "card",
+        "pokemon",
+        "rare"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/90.jpg"
+    },
+    {
+      "id": "hp-91",
+      "name": "Claw Fossil",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "91",
+      "fullNumber": "91/110",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "fossil",
+        "claw",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/91.jpg"
+    },
+    {
+      "id": "hp-92",
+      "name": "Mysterious Fossil",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "92",
+      "fullNumber": "92/110",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "mysterious",
+        "fossil",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/92.jpg"
+    },
+    {
+      "id": "hp-93",
+      "name": "Root Fossil",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "93",
+      "fullNumber": "93/110",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "fossil",
+        "root",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/93.jpg"
+    },
+    {
+      "id": "hp-94",
+      "name": "Darkness Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "94",
+      "fullNumber": "94/110",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "darkness",
+        "energy",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/94.jpg"
+    },
+    {
+      "id": "hp-95",
+      "name": "Metal Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "95",
+      "fullNumber": "95/110",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "energy",
+        "card",
+        "pokemon",
+        "metal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/95.jpg"
+    },
+    {
+      "id": "hp-96",
+      "name": "Multi Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "96",
+      "fullNumber": "96/110",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "energy",
+        "multi",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/96.jpg"
+    },
+    {
+      "id": "hp-97",
+      "name": "Dark Metal Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "97",
+      "fullNumber": "97/110",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "energy",
+        "pokemon",
+        "card",
+        "dark",
+        "metal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/97.jpg"
+    },
+    {
+      "id": "hp-98",
+      "name": "δ Rainbow Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "98",
+      "fullNumber": "98/110",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "energy",
+        "delta",
+        "rainbow",
+        "card",
+        "pokemon",
+        "species"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/98.jpg"
+    },
+    {
+      "id": "hp-99",
+      "name": "Crawdaunt ex",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "99",
+      "fullNumber": "99/110",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "crawdaunt",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/99.jpg",
+      "hp": 100
+    },
+    {
+      "id": "hp-100",
+      "name": "Mew ex",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "100",
+      "fullNumber": "100/110",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "mew",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/100.jpg",
+      "hp": 100
+    },
+    {
+      "id": "hp-101",
+      "name": "Mightyena ex",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "101",
+      "fullNumber": "101/110",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "mightyena",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/101.jpg",
+      "hp": 100
+    },
+    {
+      "id": "hp-102",
+      "name": "Gyarados ☆ δ",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "102",
+      "fullNumber": "102/110",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Lightning",
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "species",
+        "shining",
+        "delta",
+        "star",
+        "card",
+        "pokemon",
+        "gyarados"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/102.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-103",
+      "name": "Mewtwo ☆",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "103",
+      "fullNumber": "103/110",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "mewtwo",
+        "shining",
+        "star",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/103.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-104",
+      "name": "Pikachu ☆",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "104",
+      "fullNumber": "104/110",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "shining",
+        "pikachu",
+        "star",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/104.jpg",
+      "hp": 70
+    },
+    {
+      "id": "hp-105",
+      "name": "Grass Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "105",
+      "fullNumber": "105/110",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "grass",
+        "energy",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/105.jpg"
+    },
+    {
+      "id": "hp-106",
+      "name": "Fire Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "106",
+      "fullNumber": "106/110",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "energy",
+        "card",
+        "pokemon",
+        "fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/106.jpg"
+    },
+    {
+      "id": "hp-107",
+      "name": "Water Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "107",
+      "fullNumber": "107/110",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "water",
+        "energy",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/107.jpg"
+    },
+    {
+      "id": "hp-108",
+      "name": "Lightning Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "108",
+      "fullNumber": "108/110",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "energy",
+        "lightning",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/108.jpg"
+    },
+    {
+      "id": "hp-109",
+      "name": "Psychic Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "109",
+      "fullNumber": "109/110",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "psychic",
+        "tcg",
+        "energy",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/109.jpg"
+    },
+    {
+      "id": "hp-110",
+      "name": "Fighting Energy",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "110",
+      "fullNumber": "110/110",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "fighting",
+        "energy",
+        "card",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/110.jpg"
+    },
+    {
+      "id": "hp-111",
+      "name": "Mew",
+      "setName": "EX Holon Phantoms",
+      "setCode": "HP",
+      "cardNumber": "111",
+      "fullNumber": "111/110",
+      "rarity": "Secret Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "pokemon",
+        "tcg",
+        "mew",
+        "card"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exholonphantoms/111.jpg",
+      "hp": 60
+    }
+  ]
+}

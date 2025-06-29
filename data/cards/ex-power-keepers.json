@@ -1,0 +1,2282 @@
+{
+  "setName": "EX Power Keepers",
+  "description": "The final set of the EX Series, featuring Pokémon-ex and the Eeveelution Star cards. Known for its Elite Four themed stadiums and final appearances of classic EX mechanics.",
+  "releaseDate": "2007-02-14",
+  "totalCards": "108",
+  "tagSales": true,
+  "cards": [
+    {
+      "id": "pk-1",
+      "name": "Aggron",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "1",
+      "fullNumber": "1/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aggron",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/1.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-2",
+      "name": "Altaria",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "2",
+      "fullNumber": "2/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "altaria",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/2.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-3",
+      "name": "Armaldo",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "3",
+      "fullNumber": "3/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "armaldo",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/3.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-4",
+      "name": "Banette",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "4",
+      "fullNumber": "4/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "banette",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/4.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-5",
+      "name": "Blaziken",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "5",
+      "fullNumber": "5/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "blaziken",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/5.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-6",
+      "name": "Charizard",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "6",
+      "fullNumber": "6/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "charizard",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/6.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-7",
+      "name": "Cradily",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "7",
+      "fullNumber": "7/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "cradily",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/7.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-8",
+      "name": "Delcatty",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "8",
+      "fullNumber": "8/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "delcatty",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/8.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-9",
+      "name": "Gardevoir",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "9",
+      "fullNumber": "9/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "gardevoir",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/9.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-10",
+      "name": "Kabutops",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "10",
+      "fullNumber": "10/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "kabutops",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/10.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-11",
+      "name": "Machamp",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "11",
+      "fullNumber": "11/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "machamp"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/11.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-12",
+      "name": "Raichu",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "12",
+      "fullNumber": "12/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "raichu",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/12.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-13",
+      "name": "Slaking",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "13",
+      "fullNumber": "13/108",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "slaking",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/13.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-14",
+      "name": "Dusclops",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "14",
+      "fullNumber": "14/108",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "dusclops",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/14.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-15",
+      "name": "Lanturn",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "15",
+      "fullNumber": "15/108",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lanturn",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/15.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-16",
+      "name": "Magneton",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "16",
+      "fullNumber": "16/108",
+      "rarity": "Rare",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "magneton",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/16.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-17",
+      "name": "Mawile",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "17",
+      "fullNumber": "17/108",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "mawile",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/17.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-18",
+      "name": "Mightyena",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "18",
+      "fullNumber": "18/108",
+      "rarity": "Rare",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "mightyena",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/18.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-19",
+      "name": "Ninetales",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "19",
+      "fullNumber": "19/108",
+      "rarity": "Rare",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "ninetales"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/19.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-20",
+      "name": "Omastar",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "20",
+      "fullNumber": "20/108",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "omastar",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/20.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-21",
+      "name": "Pichu",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "21",
+      "fullNumber": "21/108",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "pichu",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/21.jpg",
+      "hp": 30
+    },
+    {
+      "id": "pk-22",
+      "name": "Sableye",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "22",
+      "fullNumber": "22/108",
+      "rarity": "Rare",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sableye",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/22.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-23",
+      "name": "Seviper",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "23",
+      "fullNumber": "23/108",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "seviper",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/23.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-24",
+      "name": "Wobbuffet",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "24",
+      "fullNumber": "24/108",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "wobbuffet",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/24.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-25",
+      "name": "Zangoose",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "25",
+      "fullNumber": "25/108",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "zangoose",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/25.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-26",
+      "name": "Anorith",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "26",
+      "fullNumber": "26/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "anorith",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/26.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-27",
+      "name": "Cacturne",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "27",
+      "fullNumber": "27/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "cacturne",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/27.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-28",
+      "name": "Charmeleon",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "28",
+      "fullNumber": "28/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "charmeleon",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/28.jpg"
+    },
+    {
+      "id": "pk-29",
+      "name": "Combusken",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "29",
+      "fullNumber": "29/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "combusken",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/29.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-30",
+      "name": "Glalie",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "30",
+      "fullNumber": "30/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "glalie",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/30.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-31",
+      "name": "Kirlia",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "31",
+      "fullNumber": "31/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kirlia",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/31.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-32",
+      "name": "Lairon",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "32",
+      "fullNumber": "32/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "lairon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/32.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-33",
+      "name": "Machoke",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "33",
+      "fullNumber": "33/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "machoke",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/33.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-34",
+      "name": "Medicham",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "34",
+      "fullNumber": "34/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "medicham",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/34.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-35",
+      "name": "Metang",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "35",
+      "fullNumber": "35/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "metang",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/35.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-36",
+      "name": "Nuzleaf",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "36",
+      "fullNumber": "36/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "nuzleaf",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/36.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-37",
+      "name": "Sealeo",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "37",
+      "fullNumber": "37/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sealeo",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/37.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-38",
+      "name": "Sharpedo",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "38",
+      "fullNumber": "38/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "sharpedo",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/38.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-39",
+      "name": "Shelgon",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "39",
+      "fullNumber": "39/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "shelgon",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/39.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-40",
+      "name": "Vibrava",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "40",
+      "fullNumber": "40/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "vibrava",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/40.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-41",
+      "name": "Vigoroth",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "41",
+      "fullNumber": "41/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "vigoroth",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/41.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-42",
+      "name": "Aron",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "42",
+      "fullNumber": "42/108",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "aron",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/42.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-43",
+      "name": "Bagon",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "43",
+      "fullNumber": "43/108",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "bagon",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/43.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-44",
+      "name": "Baltoy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "44",
+      "fullNumber": "44/108",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "baltoy",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/44.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-45",
+      "name": "Beldum",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "45",
+      "fullNumber": "45/108",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "beldum"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/45.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-46",
+      "name": "Cacnea",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "46",
+      "fullNumber": "46/108",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "cacnea",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/46.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-47",
+      "name": "Carvanha",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "47",
+      "fullNumber": "47/108",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "carvanha",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/47.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-48",
+      "name": "Charmander",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "48",
+      "fullNumber": "48/108",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "charmander",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/48.jpg"
+    },
+    {
+      "id": "pk-49",
+      "name": "Chinchou",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "49",
+      "fullNumber": "49/108",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "chinchou",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/49.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-50",
+      "name": "Duskull",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "50",
+      "fullNumber": "50/108",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "duskull",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/50.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-51",
+      "name": "Kabuto",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "51",
+      "fullNumber": "51/108",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "kabuto",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/51.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-52",
+      "name": "Lileep",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "52",
+      "fullNumber": "52/108",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "lileep",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/52.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-53",
+      "name": "Machop",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "53",
+      "fullNumber": "53/108",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "machop",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/53.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-54",
+      "name": "Magnemite",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "54",
+      "fullNumber": "54/108",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "magnemite"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/54.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-55",
+      "name": "Meditite",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "55",
+      "fullNumber": "55/108",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "meditite",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/55.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-56",
+      "name": "Omanyte",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "56",
+      "fullNumber": "56/108",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "omanyte",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/56.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-57",
+      "name": "Pikachu",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "57",
+      "fullNumber": "57/108",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "pikachu",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/57.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-58",
+      "name": "Poochyena",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "58",
+      "fullNumber": "58/108",
+      "rarity": "Common",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "poochyena",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/58.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-59",
+      "name": "Ralts",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "59",
+      "fullNumber": "59/108",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "ralts",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/59.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-60",
+      "name": "Seedot",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "60",
+      "fullNumber": "60/108",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "seedot",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/60.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-61",
+      "name": "Shuppet",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "61",
+      "fullNumber": "61/108",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shuppet",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/61.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-62",
+      "name": "Skitty",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "62",
+      "fullNumber": "62/108",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "skitty",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/62.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-63",
+      "name": "Slakoth",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "63",
+      "fullNumber": "63/108",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "slakoth",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/63.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-64",
+      "name": "Snorunt",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "64",
+      "fullNumber": "64/108",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "snorunt",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/64.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-65",
+      "name": "Spheal",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "65",
+      "fullNumber": "65/108",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "spheal",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/65.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-66",
+      "name": "Swablu",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "66",
+      "fullNumber": "66/108",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "swablu",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/66.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-67",
+      "name": "Torchic",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "67",
+      "fullNumber": "67/108",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "torchic",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/67.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-68",
+      "name": "Trapinch",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "68",
+      "fullNumber": "68/108",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "trapinch",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/68.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-69",
+      "name": "Vulpix",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "69",
+      "fullNumber": "69/108",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "vulpix",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/69.jpg",
+      "hp": 50
+    },
+    {
+      "id": "pk-70",
+      "name": "Wynaut",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "70",
+      "fullNumber": "70/108",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "wynaut",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/70.jpg",
+      "hp": 30
+    },
+    {
+      "id": "pk-71",
+      "name": "Battle Frontier",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "71",
+      "fullNumber": "71/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "battle",
+        "tcg",
+        "frontier"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/71.jpg",
+      "hp": 60
+    },
+    {
+      "id": "pk-72",
+      "name": "Drake's Stadium",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "72",
+      "fullNumber": "72/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "drakes",
+        "stadium",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/72.jpg"
+    },
+    {
+      "id": "pk-73",
+      "name": "Energy Recycle System",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "73",
+      "fullNumber": "73/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "energy",
+        "system",
+        "tcg",
+        "recycle"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/73.jpg"
+    },
+    {
+      "id": "pk-74",
+      "name": "Energy Removal 2",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "74",
+      "fullNumber": "74/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "energy",
+        "removal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/74.jpg"
+    },
+    {
+      "id": "pk-75",
+      "name": "Energy Switch",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "75",
+      "fullNumber": "75/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "switch",
+        "tcg",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/75.jpg"
+    },
+    {
+      "id": "pk-76",
+      "name": "Glacia's Stadium",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "76",
+      "fullNumber": "76/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "glacias",
+        "stadium",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/76.jpg"
+    },
+    {
+      "id": "pk-77",
+      "name": "Great Ball",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "77",
+      "fullNumber": "77/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "great",
+        "tcg",
+        "ball"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/77.jpg"
+    },
+    {
+      "id": "pk-78",
+      "name": "Master Ball",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "78",
+      "fullNumber": "78/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "master",
+        "ball"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/78.jpg"
+    },
+    {
+      "id": "pk-79",
+      "name": "Phoebe's Stadium",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "79",
+      "fullNumber": "79/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "phoebes",
+        "stadium",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/79.jpg"
+    },
+    {
+      "id": "pk-80",
+      "name": "Professor Birch",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "80",
+      "fullNumber": "80/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "birch",
+        "professor",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/80.jpg"
+    },
+    {
+      "id": "pk-81",
+      "name": "Scott",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "81",
+      "fullNumber": "81/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "scott",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/81.jpg"
+    },
+    {
+      "id": "pk-82",
+      "name": "Sidney's Stadium",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "82",
+      "fullNumber": "82/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "stadium",
+        "tcg",
+        "sidneys"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/82.jpg"
+    },
+    {
+      "id": "pk-83",
+      "name": "Steven's Advice",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "83",
+      "fullNumber": "83/108",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "stevens",
+        "advice"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/83.jpg"
+    },
+    {
+      "id": "pk-84",
+      "name": "Claw Fossil",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "84",
+      "fullNumber": "84/108",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "fossil",
+        "tcg",
+        "claw"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/84.jpg"
+    },
+    {
+      "id": "pk-85",
+      "name": "Mysterious Fossil",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "85",
+      "fullNumber": "85/108",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "fossil",
+        "tcg",
+        "mysterious"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/85.jpg"
+    },
+    {
+      "id": "pk-86",
+      "name": "Root Fossil",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "86",
+      "fullNumber": "86/108",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "root",
+        "card",
+        "pokemon",
+        "fossil",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/86.jpg"
+    },
+    {
+      "id": "pk-87",
+      "name": "Darkness Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "87",
+      "fullNumber": "87/108",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "darkness",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/87.jpg"
+    },
+    {
+      "id": "pk-88",
+      "name": "Metal Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "88",
+      "fullNumber": "88/108",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "metal",
+        "tcg",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/88.jpg"
+    },
+    {
+      "id": "pk-89",
+      "name": "Multi Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "89",
+      "fullNumber": "89/108",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "multi",
+        "tcg",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/89.jpg"
+    },
+    {
+      "id": "pk-90",
+      "name": "Cyclone Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "90",
+      "fullNumber": "90/108",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "cyclone",
+        "tcg",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/90.jpg"
+    },
+    {
+      "id": "pk-91",
+      "name": "Warp Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "91",
+      "fullNumber": "91/108",
+      "rarity": "Rare",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "warp",
+        "tcg",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/91.jpg"
+    },
+    {
+      "id": "pk-92",
+      "name": "Absol ex",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "92",
+      "fullNumber": "92/108",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "absol"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/92.jpg",
+      "hp": 120
+    },
+    {
+      "id": "pk-93",
+      "name": "Claydol ex",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "93",
+      "fullNumber": "93/108",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "claydol"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/93.jpg",
+      "hp": 120
+    },
+    {
+      "id": "pk-94",
+      "name": "Flygon ex",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "94",
+      "fullNumber": "94/108",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "flygon",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/94.jpg",
+      "hp": 150
+    },
+    {
+      "id": "pk-95",
+      "name": "Metagross ex",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "95",
+      "fullNumber": "95/108",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "metagross",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/95.jpg",
+      "hp": 150
+    },
+    {
+      "id": "pk-96",
+      "name": "Salamence ex",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "96",
+      "fullNumber": "96/108",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "salamence",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/96.jpg",
+      "hp": 150
+    },
+    {
+      "id": "pk-97",
+      "name": "Shiftry ex",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "97",
+      "fullNumber": "97/108",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "shiftry",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/97.jpg",
+      "hp": 120
+    },
+    {
+      "id": "pk-98",
+      "name": "Skarmory ex",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "98",
+      "fullNumber": "98/108",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "skarmory",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/98.jpg",
+      "hp": 120
+    },
+    {
+      "id": "pk-99",
+      "name": "Walrein ex",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "99",
+      "fullNumber": "99/108",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "walrein"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/99.jpg",
+      "hp": 120
+    },
+    {
+      "id": "pk-100",
+      "name": "Flareon ☆",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "100",
+      "fullNumber": "100/108",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "flareon",
+        "shining",
+        "star",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/100.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-101",
+      "name": "Jolteon ☆",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "101",
+      "fullNumber": "101/108",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "shining",
+        "star",
+        "tcg",
+        "jolteon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/101.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-102",
+      "name": "Vaporeon ☆",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "102",
+      "fullNumber": "102/108",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "vaporeon",
+        "shining",
+        "star",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/102.jpg",
+      "hp": 70
+    },
+    {
+      "id": "pk-103",
+      "name": "Grass Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "103",
+      "fullNumber": "103/108",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "energy",
+        "grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/103.jpg"
+    },
+    {
+      "id": "pk-104",
+      "name": "Fire Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "104",
+      "fullNumber": "104/108",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "fire",
+        "tcg",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/104.jpg"
+    },
+    {
+      "id": "pk-105",
+      "name": "Water Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "105",
+      "fullNumber": "105/108",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "water",
+        "tcg",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/105.jpg"
+    },
+    {
+      "id": "pk-106",
+      "name": "Lightning Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "106",
+      "fullNumber": "106/108",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "lightning",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/106.jpg"
+    },
+    {
+      "id": "pk-107",
+      "name": "Psychic Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "107",
+      "fullNumber": "107/108",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "psychic",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/107.jpg"
+    },
+    {
+      "id": "pk-108",
+      "name": "Fighting Energy",
+      "setName": "EX Power Keepers",
+      "setCode": "PK",
+      "cardNumber": "108",
+      "fullNumber": "108/108",
+      "rarity": "Common",
+      "type": [
+        "Energy"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "tcg",
+        "fighting",
+        "energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/expowerkeepers/108.jpg"
+    }
+  ]
+}

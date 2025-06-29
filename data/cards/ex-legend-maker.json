@@ -1,0 +1,1968 @@
+{
+  "setName": "EX Legend Maker",
+  "description": "Features the legendary Regi trio as Star cards and introduces unique training mechanics. Notable for the secret rare Pikachu \u03b4 and various fossil Pokemon.",
+  "releaseDate": "2006-02-13",
+  "totalCards": "92",
+  "tagSales": true,
+  "cards": [
+    {
+      "id": "lm-1",
+      "name": "Aerodactyl",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "1",
+      "fullNumber": "1/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "aerodactyl"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/1.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-2",
+      "name": "Aggron",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "2",
+      "fullNumber": "2/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "aggron",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/2.jpg",
+      "hp": 90
+    },
+    {
+      "id": "lm-3",
+      "name": "Cradily",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "3",
+      "fullNumber": "3/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "cradily",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/3.jpg",
+      "hp": 90
+    },
+    {
+      "id": "lm-4",
+      "name": "Delcatty",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "4",
+      "fullNumber": "4/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "delcatty",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/4.jpg",
+      "hp": 90
+    },
+    {
+      "id": "lm-5",
+      "name": "Gengar",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "5",
+      "fullNumber": "5/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "gengar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/5.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-6",
+      "name": "Golem",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "6",
+      "fullNumber": "6/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "golem"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/6.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-7",
+      "name": "Kabutops",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "7",
+      "fullNumber": "7/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "kabutops",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/7.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-8",
+      "name": "Lapras",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "8",
+      "fullNumber": "8/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "lapras",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/8.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-9",
+      "name": "Machamp",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "9",
+      "fullNumber": "9/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "machamp"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/9.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-10",
+      "name": "Mew",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "10",
+      "fullNumber": "10/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "mew"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/10.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-11",
+      "name": "Muk",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "11",
+      "fullNumber": "11/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "muk"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/11.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-12",
+      "name": "Shiftry",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "12",
+      "fullNumber": "12/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "shiftry",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/12.jpg",
+      "hp": 90
+    },
+    {
+      "id": "lm-13",
+      "name": "Victreebel",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "13",
+      "fullNumber": "13/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "victreebel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/13.jpg"
+    },
+    {
+      "id": "lm-14",
+      "name": "Wailord",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "14",
+      "fullNumber": "14/92",
+      "rarity": "Rare Holo",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "wailord",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/14.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-15",
+      "name": "Absol",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "15",
+      "fullNumber": "15/92",
+      "rarity": "Rare",
+      "type": [
+        "Darkness"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "absol"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/15.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-16",
+      "name": "Girafarig",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "16",
+      "fullNumber": "16/92",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "girafarig",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/16.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-17",
+      "name": "Gorebyss",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "17",
+      "fullNumber": "17/92",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "gorebyss",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/17.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-18",
+      "name": "Huntail",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "18",
+      "fullNumber": "18/92",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "huntail",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/18.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-19",
+      "name": "Lanturn",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "19",
+      "fullNumber": "19/92",
+      "rarity": "Rare",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "lanturn",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/19.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-20",
+      "name": "Lunatone",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "20",
+      "fullNumber": "20/92",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "lunatone"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/20.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-21",
+      "name": "Magmar",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "21",
+      "fullNumber": "21/92",
+      "rarity": "Rare",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "magmar"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/21.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-22",
+      "name": "Magneton",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "22",
+      "fullNumber": "22/92",
+      "rarity": "Rare",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "magneton",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/22.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-23",
+      "name": "Omastar",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "23",
+      "fullNumber": "23/92",
+      "rarity": "Rare",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "omastar",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/23.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-24",
+      "name": "Pinsir",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "24",
+      "fullNumber": "24/92",
+      "rarity": "Rare",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "pinsir"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/24.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-25",
+      "name": "Solrock",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "25",
+      "fullNumber": "25/92",
+      "rarity": "Rare",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "solrock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/25.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-26",
+      "name": "Spinda",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "26",
+      "fullNumber": "26/92",
+      "rarity": "Rare",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "spinda"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/26.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-27",
+      "name": "Torkoal",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "27",
+      "fullNumber": "27/92",
+      "rarity": "Rare",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "torkoal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/27.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-28",
+      "name": "Wobbuffet",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "28",
+      "fullNumber": "28/92",
+      "rarity": "Rare",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "wobbuffet",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/28.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-29",
+      "name": "Anorith",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "29",
+      "fullNumber": "29/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "anorith"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/29.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-30",
+      "name": "Cascoon",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "30",
+      "fullNumber": "30/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "cascoon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/30.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-31",
+      "name": "Dunsparce",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "31",
+      "fullNumber": "31/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "dunsparce",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/31.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-32",
+      "name": "Electrode",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "32",
+      "fullNumber": "32/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "electrode",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/32.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-33",
+      "name": "Furret",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "33",
+      "fullNumber": "33/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "furret",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/33.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-34",
+      "name": "Graveler",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "34",
+      "fullNumber": "34/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "graveler",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/34.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-35",
+      "name": "Haunter",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "35",
+      "fullNumber": "35/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "haunter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/35.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-36",
+      "name": "Kabuto",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "36",
+      "fullNumber": "36/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "kabuto"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/36.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-37",
+      "name": "Kecleon",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "37",
+      "fullNumber": "37/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "kecleon",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/37.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-38",
+      "name": "Lairon",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "38",
+      "fullNumber": "38/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "lairon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/38.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-39",
+      "name": "Machoke",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "39",
+      "fullNumber": "39/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "machoke",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/39.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-40",
+      "name": "Misdreavus",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "40",
+      "fullNumber": "40/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "misdreavus"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/40.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-41",
+      "name": "Nuzleaf",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "41",
+      "fullNumber": "41/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "nuzleaf",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/41.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-42",
+      "name": "Roselia",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "42",
+      "fullNumber": "42/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "roselia",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/42.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-43",
+      "name": "Sealeo",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "43",
+      "fullNumber": "43/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "sealeo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/43.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-44",
+      "name": "Tangela",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "44",
+      "fullNumber": "44/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "tangela",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/44.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-45",
+      "name": "Tentacruel",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "45",
+      "fullNumber": "45/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "tentacruel",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/45.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-46",
+      "name": "Vibrava",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "46",
+      "fullNumber": "46/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "vibrava"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/46.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-47",
+      "name": "Weepinbell",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "47",
+      "fullNumber": "47/92",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "weepinbell"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/47.jpg",
+      "hp": 80
+    },
+    {
+      "id": "lm-48",
+      "name": "Aron",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "48",
+      "fullNumber": "48/92",
+      "rarity": "Common",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "aron",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/48.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-49",
+      "name": "Bellsprout",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "49",
+      "fullNumber": "49/92",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "bellsprout"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/49.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-50",
+      "name": "Chinchou",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "50",
+      "fullNumber": "50/92",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "chinchou"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/50.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-51",
+      "name": "Clamperl",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "51",
+      "fullNumber": "51/92",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "clamperl",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/51.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-52",
+      "name": "Gastly",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "52",
+      "fullNumber": "52/92",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "gastly",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/52.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-53",
+      "name": "Geodude",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "53",
+      "fullNumber": "53/92",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "geodude"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/53.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-54",
+      "name": "Grimer",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "54",
+      "fullNumber": "54/92",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "grimer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/54.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-55",
+      "name": "Growlithe",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "55",
+      "fullNumber": "55/92",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "growlithe",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/55.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-56",
+      "name": "Lileep",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "56",
+      "fullNumber": "56/92",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "lileep",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/56.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-57",
+      "name": "Machop",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "57",
+      "fullNumber": "57/92",
+      "rarity": "Common",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "machop"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/57.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-58",
+      "name": "Magby",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "58",
+      "fullNumber": "58/92",
+      "rarity": "Common",
+      "type": [
+        "Fire"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "magby",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/58.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-59",
+      "name": "Magnemite",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "59",
+      "fullNumber": "59/92",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "magnemite",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/59.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-60",
+      "name": "Omanyte",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "60",
+      "fullNumber": "60/92",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "omanyte",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/60.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-61",
+      "name": "Seedot",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "61",
+      "fullNumber": "61/92",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "seedot"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/61.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-62",
+      "name": "Sentret",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "62",
+      "fullNumber": "62/92",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "sentret",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/62.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-63",
+      "name": "Shuppet",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "63",
+      "fullNumber": "63/92",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "shuppet",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/63.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-64",
+      "name": "Skitty",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "64",
+      "fullNumber": "64/92",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "skitty",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/64.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-65",
+      "name": "Spheal",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "65",
+      "fullNumber": "65/92",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "spheal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/65.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-66",
+      "name": "Tentacool",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "66",
+      "fullNumber": "66/92",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "tentacool"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/66.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-67",
+      "name": "Trapinch",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "67",
+      "fullNumber": "67/92",
+      "rarity": "Common",
+      "type": [
+        "Grass"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "trapinch"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/67.jpg",
+      "hp": 40
+    },
+    {
+      "id": "lm-68",
+      "name": "Voltorb",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "68",
+      "fullNumber": "68/92",
+      "rarity": "Common",
+      "type": [
+        "Lightning"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "voltorb",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/68.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-69",
+      "name": "Wailmer",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "69",
+      "fullNumber": "69/92",
+      "rarity": "Common",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "wailmer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/69.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-70",
+      "name": "Wurmple",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "70",
+      "fullNumber": "70/92",
+      "rarity": "Common",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "wurmple",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/70.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-71",
+      "name": "Wynaut",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "71",
+      "fullNumber": "71/92",
+      "rarity": "Common",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "wynaut"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/71.jpg",
+      "hp": 50
+    },
+    {
+      "id": "lm-72",
+      "name": "Cursed Stone",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "72",
+      "fullNumber": "72/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "stone",
+        "tcg",
+        "cursed"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/72.jpg"
+    },
+    {
+      "id": "lm-73",
+      "name": "Fieldworker",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "73",
+      "fullNumber": "73/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "fieldworker"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/73.jpg"
+    },
+    {
+      "id": "lm-74",
+      "name": "Full Flame",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "74",
+      "fullNumber": "74/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "flame",
+        "pokemon",
+        "full",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/74.jpg"
+    },
+    {
+      "id": "lm-75",
+      "name": "Giant Stump",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "75",
+      "fullNumber": "75/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "giant",
+        "card",
+        "pokemon",
+        "stump",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/75.jpg",
+      "hp": 60
+    },
+    {
+      "id": "lm-76",
+      "name": "Power Tree",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "76",
+      "fullNumber": "76/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tree",
+        "card",
+        "pokemon",
+        "power",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/76.jpg"
+    },
+    {
+      "id": "lm-77",
+      "name": "Strange Cave",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "77",
+      "fullNumber": "77/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "cave",
+        "strange",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/77.jpg"
+    },
+    {
+      "id": "lm-78",
+      "name": "Claw Fossil",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "78",
+      "fullNumber": "78/92",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "fossil",
+        "claw",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/78.jpg"
+    },
+    {
+      "id": "lm-79",
+      "name": "Mysterious Fossil",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "79",
+      "fullNumber": "79/92",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "fossil",
+        "tcg",
+        "mysterious"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/79.jpg"
+    },
+    {
+      "id": "lm-80",
+      "name": "Root Fossil",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "80",
+      "fullNumber": "80/92",
+      "rarity": "Common",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "fossil",
+        "root",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/80.jpg"
+    },
+    {
+      "id": "lm-81",
+      "name": "Rainbow Energy",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "81",
+      "fullNumber": "81/92",
+      "rarity": "Rare",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "energy",
+        "tcg",
+        "rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/81.jpg"
+    },
+    {
+      "id": "lm-82",
+      "name": "React Energy",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "82",
+      "fullNumber": "82/92",
+      "rarity": "Uncommon",
+      "type": [
+        "Trainer"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "card",
+        "pokemon",
+        "energy",
+        "tcg",
+        "react"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/82.jpg"
+    },
+    {
+      "id": "lm-83",
+      "name": "Arcanine ex",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "83",
+      "fullNumber": "83/92",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "card",
+        "pokemon",
+        "tcg",
+        "arcanine"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/83.jpg",
+      "hp": 120
+    },
+    {
+      "id": "lm-84",
+      "name": "Armaldo ex",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "84",
+      "fullNumber": "84/92",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "card",
+        "pokemon",
+        "tcg",
+        "armaldo"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/84.jpg",
+      "hp": 150
+    },
+    {
+      "id": "lm-85",
+      "name": "Banette ex",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "85",
+      "fullNumber": "85/92",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "card",
+        "pokemon",
+        "tcg",
+        "banette"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/85.jpg",
+      "hp": 120
+    },
+    {
+      "id": "lm-86",
+      "name": "Dustox ex",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "86",
+      "fullNumber": "86/92",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "card",
+        "pokemon",
+        "tcg",
+        "dustox"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/86.jpg",
+      "hp": 110
+    },
+    {
+      "id": "lm-87",
+      "name": "Flygon ex",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "87",
+      "fullNumber": "87/92",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "card",
+        "flygon",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/87.jpg",
+      "hp": 110
+    },
+    {
+      "id": "lm-88",
+      "name": "Mew ex",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "88",
+      "fullNumber": "88/92",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Psychic"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "mew",
+        "card",
+        "pokemon",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/88.jpg",
+      "hp": 130
+    },
+    {
+      "id": "lm-89",
+      "name": "Walrein ex",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "89",
+      "fullNumber": "89/92",
+      "rarity": "Rare Holo EX",
+      "type": [
+        "Colorless"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "ex",
+        "card",
+        "pokemon",
+        "walrein",
+        "tcg"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/89.jpg",
+      "hp": 150
+    },
+    {
+      "id": "lm-90",
+      "name": "Regice\u2606",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "90",
+      "fullNumber": "90/92",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Water"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pokemon",
+        "regice"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/90.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-91",
+      "name": "Regirock\u2606",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "91",
+      "fullNumber": "91/92",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Fighting"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "regirock",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/91.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-92",
+      "name": "Registeel\u2606",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "92",
+      "fullNumber": "92/92",
+      "rarity": "Rare Holo Star",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "registeel",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/92.jpg",
+      "hp": 70
+    },
+    {
+      "id": "lm-93",
+      "name": "Pikachu \u03b4",
+      "setName": "EX Legend Maker",
+      "setCode": "LM",
+      "cardNumber": "93",
+      "fullNumber": "93/92",
+      "rarity": "Secret Rare",
+      "type": [
+        "Metal"
+      ],
+      "artist": "Unknown",
+      "matchingKeywords": [
+        "tcg",
+        "card",
+        "pikachu",
+        "pokemon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/exlegendmaker/93.jpg",
+      "hp": 70
+    }
+  ]
+}
