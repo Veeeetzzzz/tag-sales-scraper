@@ -1,0 +1,1669 @@
+{
+  "setInfo": {
+    "name": "Burning Shadows",
+    "code": "BUS",
+    "releaseDate": "2017-08-04",
+    "totalCards": 147
+  },
+  "cards": [
+    {
+      "id": "BUS-1",
+      "name": "Caterpie",
+      "number": "1",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "caterpie"
+      ]
+    },
+    {
+      "id": "BUS-2",
+      "name": "Metapod",
+      "number": "2",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "metapod"
+      ]
+    },
+    {
+      "id": "BUS-3",
+      "name": "Butterfree",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "butterfree"
+      ]
+    },
+    {
+      "id": "BUS-4",
+      "name": "Oddish",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "oddish"
+      ]
+    },
+    {
+      "id": "BUS-5",
+      "name": "Gloom",
+      "number": "5",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "gloom"
+      ]
+    },
+    {
+      "id": "BUS-6",
+      "name": "Vileplume",
+      "number": "6",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "vileplume"
+      ]
+    },
+    {
+      "id": "BUS-7",
+      "name": "Tangela",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "tangela"
+      ]
+    },
+    {
+      "id": "BUS-8",
+      "name": "Tangrowth",
+      "number": "8",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "tangrowth"
+      ]
+    },
+    {
+      "id": "BUS-9",
+      "name": "Ledyba",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "ledyba"
+      ]
+    },
+    {
+      "id": "BUS-10",
+      "name": "Ledian",
+      "number": "10",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "ledian"
+      ]
+    },
+    {
+      "id": "BUS-11",
+      "name": "Heracross",
+      "number": "11",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "heracross"
+      ]
+    },
+    {
+      "id": "BUS-12",
+      "name": "Pansage",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "pansage"
+      ]
+    },
+    {
+      "id": "BUS-13",
+      "name": "Simisage",
+      "number": "13",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "simisage"
+      ]
+    },
+    {
+      "id": "BUS-14",
+      "name": "Dewpider",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "dewpider"
+      ]
+    },
+    {
+      "id": "BUS-15",
+      "name": "Araquanid",
+      "number": "15",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "araquanid"
+      ]
+    },
+    {
+      "id": "BUS-16",
+      "name": "Wimpod",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "wimpod"
+      ]
+    },
+    {
+      "id": "BUS-17",
+      "name": "Golisopod-GX",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "golisopod"
+      ]
+    },
+    {
+      "id": "BUS-18",
+      "name": "Charmander",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "charmander"
+      ]
+    },
+    {
+      "id": "BUS-19",
+      "name": "Charmeleon",
+      "number": "19",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "charmeleon"
+      ]
+    },
+    {
+      "id": "BUS-20",
+      "name": "Charizard-GX",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "charizard"
+      ]
+    },
+    {
+      "id": "BUS-21",
+      "name": "Ho-Oh-GX",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "ho-oh"
+      ]
+    },
+    {
+      "id": "BUS-22",
+      "name": "Pansear",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "pansear"
+      ]
+    },
+    {
+      "id": "BUS-23",
+      "name": "Simisear",
+      "number": "23",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "simisear"
+      ]
+    },
+    {
+      "id": "BUS-24",
+      "name": "Heatmor",
+      "number": "24",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "heatmor"
+      ]
+    },
+    {
+      "id": "BUS-25",
+      "name": "Salazzle-GX",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "salazzle"
+      ]
+    },
+    {
+      "id": "BUS-26",
+      "name": "Turtonator",
+      "number": "26",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "turtonator"
+      ]
+    },
+    {
+      "id": "BUS-27",
+      "name": "Alolan Vulpix",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "alolan",
+        "vulpix",
+        "alolan vulpix"
+      ]
+    },
+    {
+      "id": "BUS-28",
+      "name": "Alolan Ninetales",
+      "number": "28",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "alolan",
+        "alolan ninetales",
+        "ninetales"
+      ]
+    },
+    {
+      "id": "BUS-29",
+      "name": "Horsea",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "horsea"
+      ]
+    },
+    {
+      "id": "BUS-30",
+      "name": "Seadra",
+      "number": "30",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "seadra"
+      ]
+    },
+    {
+      "id": "BUS-31",
+      "name": "Kingdra",
+      "number": "31",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "kingdra"
+      ]
+    },
+    {
+      "id": "BUS-32",
+      "name": "Magikarp",
+      "number": "32",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "magikarp"
+      ]
+    },
+    {
+      "id": "BUS-33",
+      "name": "Gyarados",
+      "number": "33",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "gyarados"
+      ]
+    },
+    {
+      "id": "BUS-34",
+      "name": "Marill",
+      "number": "34",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "marill"
+      ]
+    },
+    {
+      "id": "BUS-35",
+      "name": "Azumarill",
+      "number": "35",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "azumarill"
+      ]
+    },
+    {
+      "id": "BUS-36",
+      "name": "Panpour",
+      "number": "36",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "panpour"
+      ]
+    },
+    {
+      "id": "BUS-37",
+      "name": "Simipour",
+      "number": "37",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "simipour"
+      ]
+    },
+    {
+      "id": "BUS-38",
+      "name": "Bruxish",
+      "number": "38",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "bruxish"
+      ]
+    },
+    {
+      "id": "BUS-39",
+      "name": "Tapu Fini-GX",
+      "number": "39",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "tapu",
+        "fini",
+        "tapu fini"
+      ]
+    },
+    {
+      "id": "BUS-40",
+      "name": "Pikachu",
+      "number": "40",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "pikachu"
+      ]
+    },
+    {
+      "id": "BUS-41",
+      "name": "Raichu",
+      "number": "41",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "raichu"
+      ]
+    },
+    {
+      "id": "BUS-42",
+      "name": "Electabuzz",
+      "number": "42",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "electabuzz"
+      ]
+    },
+    {
+      "id": "BUS-43",
+      "name": "Electivire",
+      "number": "43",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "electivire"
+      ]
+    },
+    {
+      "id": "BUS-44",
+      "name": "Tynamo",
+      "number": "44",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "tynamo"
+      ]
+    },
+    {
+      "id": "BUS-45",
+      "name": "Eelektrik",
+      "number": "45",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "eelektrik"
+      ]
+    },
+    {
+      "id": "BUS-46",
+      "name": "Eelektross",
+      "number": "46",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "eelektross"
+      ]
+    },
+    {
+      "id": "BUS-47",
+      "name": "Togedemaru",
+      "number": "47",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "togedemaru"
+      ]
+    },
+    {
+      "id": "BUS-48",
+      "name": "Slowking",
+      "number": "48",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "slowking"
+      ]
+    },
+    {
+      "id": "BUS-49",
+      "name": "Wobbuffet",
+      "number": "49",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "wobbuffet"
+      ]
+    },
+    {
+      "id": "BUS-50",
+      "name": "Seviper",
+      "number": "50",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "seviper"
+      ]
+    },
+    {
+      "id": "BUS-51",
+      "name": "Duskull",
+      "number": "51",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "duskull"
+      ]
+    },
+    {
+      "id": "BUS-52",
+      "name": "Dusclops",
+      "number": "52",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "dusclops"
+      ]
+    },
+    {
+      "id": "BUS-53",
+      "name": "Dusknoir",
+      "number": "53",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "dusknoir"
+      ]
+    },
+    {
+      "id": "BUS-54",
+      "name": "Croagunk",
+      "number": "54",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "croagunk"
+      ]
+    },
+    {
+      "id": "BUS-55",
+      "name": "Toxicroak",
+      "number": "55",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "toxicroak"
+      ]
+    },
+    {
+      "id": "BUS-56",
+      "name": "Venipede",
+      "number": "56",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "venipede"
+      ]
+    },
+    {
+      "id": "BUS-57",
+      "name": "Whirlipede",
+      "number": "57",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "whirlipede"
+      ]
+    },
+    {
+      "id": "BUS-58",
+      "name": "Scolipede",
+      "number": "58",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "scolipede"
+      ]
+    },
+    {
+      "id": "BUS-59",
+      "name": "Espurr",
+      "number": "59",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "espurr"
+      ]
+    },
+    {
+      "id": "BUS-60",
+      "name": "Meowstic",
+      "number": "60",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "meowstic"
+      ]
+    },
+    {
+      "id": "BUS-61",
+      "name": "Sandygast",
+      "number": "61",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "sandygast"
+      ]
+    },
+    {
+      "id": "BUS-62",
+      "name": "Palossand",
+      "number": "62",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "palossand"
+      ]
+    },
+    {
+      "id": "BUS-63",
+      "name": "Necrozma-GX",
+      "number": "63",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "necrozma"
+      ]
+    },
+    {
+      "id": "BUS-64",
+      "name": "Machamp-GX",
+      "number": "64",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "machamp"
+      ]
+    },
+    {
+      "id": "BUS-65",
+      "name": "Rhyhorn",
+      "number": "65",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "rhyhorn"
+      ]
+    },
+    {
+      "id": "BUS-66",
+      "name": "Rhydon",
+      "number": "66",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "rhydon"
+      ]
+    },
+    {
+      "id": "BUS-67",
+      "name": "Rhyperior",
+      "number": "67",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "rhyperior"
+      ]
+    },
+    {
+      "id": "BUS-68",
+      "name": "Lunatone",
+      "number": "68",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "lunatone"
+      ]
+    },
+    {
+      "id": "BUS-69",
+      "name": "Solrock",
+      "number": "69",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "solrock"
+      ]
+    },
+    {
+      "id": "BUS-70",
+      "name": "Riolu",
+      "number": "70",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "riolu"
+      ]
+    },
+    {
+      "id": "BUS-71",
+      "name": "Lucario",
+      "number": "71",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "lucario"
+      ]
+    },
+    {
+      "id": "BUS-72",
+      "name": "Sawk",
+      "number": "72",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "sawk"
+      ]
+    },
+    {
+      "id": "BUS-73",
+      "name": "Crabrawler",
+      "number": "73",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "crabrawler"
+      ]
+    },
+    {
+      "id": "BUS-74",
+      "name": "Crabominable",
+      "number": "74",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "crabominable"
+      ]
+    },
+    {
+      "id": "BUS-75",
+      "name": "Lycanroc",
+      "number": "75",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "lycanroc"
+      ]
+    },
+    {
+      "id": "BUS-76",
+      "name": "Lycanroc",
+      "number": "76",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "lycanroc"
+      ]
+    },
+    {
+      "id": "BUS-77",
+      "name": "Mudbray",
+      "number": "77",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "mudbray"
+      ]
+    },
+    {
+      "id": "BUS-78",
+      "name": "Mudsdale",
+      "number": "78",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "mudsdale"
+      ]
+    },
+    {
+      "id": "BUS-79",
+      "name": "Passimian",
+      "number": "79",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "passimian"
+      ]
+    },
+    {
+      "id": "BUS-80",
+      "name": "Marshadow-GX",
+      "number": "80",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "marshadow"
+      ]
+    },
+    {
+      "id": "BUS-81",
+      "name": "Alolan Rattata",
+      "number": "81",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "alolan",
+        "alolan rattata",
+        "rattata"
+      ]
+    },
+    {
+      "id": "BUS-82",
+      "name": "Alolan Raticate",
+      "number": "82",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "alolan",
+        "raticate",
+        "alolan raticate"
+      ]
+    },
+    {
+      "id": "BUS-83",
+      "name": "Alolan Grimer",
+      "number": "83",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "alolan grimer",
+        "grimer",
+        "alolan"
+      ]
+    },
+    {
+      "id": "BUS-84",
+      "name": "Alolan Muk-GX",
+      "number": "84",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "muk",
+        "alolan",
+        "muk-gx",
+        "alolan muk"
+      ]
+    },
+    {
+      "id": "BUS-85",
+      "name": "Sneasel",
+      "number": "85",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "sneasel"
+      ]
+    },
+    {
+      "id": "BUS-86",
+      "name": "Weavile",
+      "number": "86",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "weavile"
+      ]
+    },
+    {
+      "id": "BUS-87",
+      "name": "Darkrai",
+      "number": "87",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "darkrai"
+      ]
+    },
+    {
+      "id": "BUS-88",
+      "name": "Darkrai-GX",
+      "number": "88",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "darkrai"
+      ]
+    },
+    {
+      "id": "BUS-89",
+      "name": "Inkay",
+      "number": "89",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "inkay"
+      ]
+    },
+    {
+      "id": "BUS-90",
+      "name": "Malamar",
+      "number": "90",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "malamar"
+      ]
+    },
+    {
+      "id": "BUS-91",
+      "name": "Ralts",
+      "number": "91",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "ralts"
+      ]
+    },
+    {
+      "id": "BUS-92",
+      "name": "Kirlia",
+      "number": "92",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "kirlia"
+      ]
+    },
+    {
+      "id": "BUS-93",
+      "name": "Gardevoir-GX",
+      "number": "93",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "gardevoir"
+      ]
+    },
+    {
+      "id": "BUS-94",
+      "name": "Diancie",
+      "number": "94",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "diancie"
+      ]
+    },
+    {
+      "id": "BUS-95",
+      "name": "Cutiefly",
+      "number": "95",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "cutiefly"
+      ]
+    },
+    {
+      "id": "BUS-96",
+      "name": "Ribombee",
+      "number": "96",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "ribombee"
+      ]
+    },
+    {
+      "id": "BUS-97",
+      "name": "Morelull",
+      "number": "97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "morelull"
+      ]
+    },
+    {
+      "id": "BUS-98",
+      "name": "Shiinotic",
+      "number": "98",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "shiinotic"
+      ]
+    },
+    {
+      "id": "BUS-99",
+      "name": "Noivern-GX",
+      "number": "99",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "noivern"
+      ]
+    },
+    {
+      "id": "BUS-100",
+      "name": "Zygarde",
+      "number": "100",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "zygarde"
+      ]
+    },
+    {
+      "id": "BUS-101",
+      "name": "Meowth",
+      "number": "101",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "meowth"
+      ]
+    },
+    {
+      "id": "BUS-102",
+      "name": "Persian",
+      "number": "102",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "persian"
+      ]
+    },
+    {
+      "id": "BUS-103",
+      "name": "Porygon",
+      "number": "103",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "porygon"
+      ]
+    },
+    {
+      "id": "BUS-104",
+      "name": "Porygon2",
+      "number": "104",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "porygon2"
+      ]
+    },
+    {
+      "id": "BUS-105",
+      "name": "Porygon-Z",
+      "number": "105",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "porygon-z"
+      ]
+    },
+    {
+      "id": "BUS-106",
+      "name": "Hoothoot",
+      "number": "106",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "hoothoot"
+      ]
+    },
+    {
+      "id": "BUS-107",
+      "name": "Noctowl",
+      "number": "107",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "noctowl"
+      ]
+    },
+    {
+      "id": "BUS-108",
+      "name": "Bouffalant",
+      "number": "108",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "bouffalant"
+      ]
+    },
+    {
+      "id": "BUS-109",
+      "name": "Noibat",
+      "number": "109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "noibat"
+      ]
+    },
+    {
+      "id": "BUS-110",
+      "name": "Stufful",
+      "number": "110",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "stufful"
+      ]
+    },
+    {
+      "id": "BUS-111",
+      "name": "Bewear",
+      "number": "111",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "bewear"
+      ]
+    },
+    {
+      "id": "BUS-112",
+      "name": "Acerola",
+      "number": "112",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "acerola"
+      ]
+    },
+    {
+      "id": "BUS-113",
+      "name": "Bodybuilding Dumbbells",
+      "number": "113",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "bodybuilding dumbbells",
+        "dumbbells",
+        "bodybuilding"
+      ]
+    },
+    {
+      "id": "BUS-114",
+      "name": "Escape Rope",
+      "number": "114",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "rope",
+        "escape rope",
+        "escape"
+      ]
+    },
+    {
+      "id": "BUS-115",
+      "name": "Guzma",
+      "number": "115",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "guzma"
+      ]
+    },
+    {
+      "id": "BUS-116",
+      "name": "Kiawe",
+      "number": "116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "kiawe"
+      ]
+    },
+    {
+      "id": "BUS-117",
+      "name": "Lana",
+      "number": "117",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "lana"
+      ]
+    },
+    {
+      "id": "BUS-118",
+      "name": "Mount Lanakila",
+      "number": "118",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "mount",
+        "mount lanakila",
+        "lanakila"
+      ]
+    },
+    {
+      "id": "BUS-119",
+      "name": "Olivia",
+      "number": "119",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "olivia"
+      ]
+    },
+    {
+      "id": "BUS-120",
+      "name": "Plumeria",
+      "number": "120",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "plumeria"
+      ]
+    },
+    {
+      "id": "BUS-121",
+      "name": "Po Town",
+      "number": "121",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "town",
+        "po town"
+      ]
+    },
+    {
+      "id": "BUS-122",
+      "name": "Rotom Dex: Poké Finder Mode◆",
+      "number": "122",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "dex",
+        "rotom",
+        "rotom dex poké finder mode",
+        "mode",
+        "poké",
+        "finder"
+      ]
+    },
+    {
+      "id": "BUS-123",
+      "name": "Sophocles",
+      "number": "123",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "sophocles"
+      ]
+    },
+    {
+      "id": "BUS-124",
+      "name": "Super Scoop Up",
+      "number": "124",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "scoop",
+        "super",
+        "super scoop up"
+      ]
+    },
+    {
+      "id": "BUS-125",
+      "name": "Tormenting Spray",
+      "number": "125",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "tormenting spray",
+        "spray",
+        "tormenting"
+      ]
+    },
+    {
+      "id": "BUS-126",
+      "name": "Weakness Policy",
+      "number": "126",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "policy",
+        "weakness policy",
+        "weakness"
+      ]
+    },
+    {
+      "id": "BUS-127",
+      "name": "Wicke",
+      "number": "127",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "wicke"
+      ]
+    },
+    {
+      "id": "BUS-128",
+      "name": "Wishful Baton",
+      "number": "128",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "baton",
+        "wishful",
+        "wishful baton"
+      ]
+    },
+    {
+      "id": "BUS-129",
+      "name": "Golisopod-GX",
+      "number": "129",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "golisopod"
+      ]
+    },
+    {
+      "id": "BUS-130",
+      "name": "Tapu Bulu-GX",
+      "number": "130",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "tapu bulu",
+        "bulu",
+        "tapu"
+      ]
+    },
+    {
+      "id": "BUS-131",
+      "name": "Ho-Oh-GX",
+      "number": "131",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "ho-oh"
+      ]
+    },
+    {
+      "id": "BUS-132",
+      "name": "Salazzle-GX",
+      "number": "132",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "salazzle"
+      ]
+    },
+    {
+      "id": "BUS-133",
+      "name": "Tapu Fini-GX",
+      "number": "133",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "tapu",
+        "fini",
+        "tapu fini"
+      ]
+    },
+    {
+      "id": "BUS-134",
+      "name": "Necrozma-GX",
+      "number": "134",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "necrozma"
+      ]
+    },
+    {
+      "id": "BUS-135",
+      "name": "Machamp-GX",
+      "number": "135",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "machamp"
+      ]
+    },
+    {
+      "id": "BUS-136",
+      "name": "Lycanroc-GX",
+      "number": "136",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "lycanroc"
+      ]
+    },
+    {
+      "id": "BUS-137",
+      "name": "Marshadow-GX",
+      "number": "137",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "marshadow"
+      ]
+    },
+    {
+      "id": "BUS-138",
+      "name": "Alolan Muk-GX",
+      "number": "138",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "muk",
+        "alolan",
+        "muk-gx",
+        "alolan muk"
+      ]
+    },
+    {
+      "id": "BUS-139",
+      "name": "Darkrai-GX",
+      "number": "139",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "darkrai"
+      ]
+    },
+    {
+      "id": "BUS-140",
+      "name": "Gardevoir-GX",
+      "number": "140",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "gardevoir"
+      ]
+    },
+    {
+      "id": "BUS-141",
+      "name": "Noivern-GX",
+      "number": "141",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "BUS",
+      "matchingKeywords": [
+        "noivern"
+      ]
+    },
+    {
+      "id": "BUS-142",
+      "name": "Acerola",
+      "number": "142",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "acerola"
+      ]
+    },
+    {
+      "id": "BUS-143",
+      "name": "Guzma",
+      "number": "143",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "guzma"
+      ]
+    },
+    {
+      "id": "BUS-144",
+      "name": "Kiawe",
+      "number": "144",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "kiawe"
+      ]
+    },
+    {
+      "id": "BUS-145",
+      "name": "Plumeria",
+      "number": "145",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "plumeria"
+      ]
+    },
+    {
+      "id": "BUS-146",
+      "name": "Sophocles",
+      "number": "146",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "sophocles"
+      ]
+    },
+    {
+      "id": "BUS-147",
+      "name": "Wicke",
+      "number": "147",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "BUS",
+      "matchingKeywords": [
+        "wicke"
+      ]
+    }
+  ]
+}

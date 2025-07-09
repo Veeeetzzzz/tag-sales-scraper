@@ -1,0 +1,846 @@
+{
+  "setInfo": {
+    "name": "Shining Legends",
+    "code": "SLG",
+    "releaseDate": "2017-10-06",
+    "totalCards": 73
+  },
+  "cards": [
+    {
+      "id": "SLG-1",
+      "name": "Bulbasaur",
+      "number": "1",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "bulbasaur"
+      ]
+    },
+    {
+      "id": "SLG-2",
+      "name": "Ivysaur",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "ivysaur"
+      ]
+    },
+    {
+      "id": "SLG-3",
+      "name": "Venusaur",
+      "number": "3",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "venusaur"
+      ]
+    },
+    {
+      "id": "SLG-4",
+      "name": "Shroomish",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "shroomish"
+      ]
+    },
+    {
+      "id": "SLG-5",
+      "name": "Breloom",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "breloom"
+      ]
+    },
+    {
+      "id": "SLG-6",
+      "name": "Carnivine",
+      "number": "6",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "carnivine"
+      ]
+    },
+    {
+      "id": "SLG-7",
+      "name": "Shaymin",
+      "number": "7",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "shaymin"
+      ]
+    },
+    {
+      "id": "SLG-8",
+      "name": "Virizion",
+      "number": "8",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "virizion"
+      ]
+    },
+    {
+      "id": "SLG-9",
+      "name": "Shining Genesect",
+      "number": "9",
+      "rarity": "Shining Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "shining genesect",
+        "shining",
+        "genesect"
+      ]
+    },
+    {
+      "id": "SLG-10",
+      "name": "Entei-GX",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "entei"
+      ]
+    },
+    {
+      "id": "SLG-11",
+      "name": "Torkoal",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "torkoal"
+      ]
+    },
+    {
+      "id": "SLG-12",
+      "name": "Larvesta",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "larvesta"
+      ]
+    },
+    {
+      "id": "SLG-13",
+      "name": "Volcarona",
+      "number": "13",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "volcarona"
+      ]
+    },
+    {
+      "id": "SLG-14",
+      "name": "Reshiram",
+      "number": "14",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "reshiram"
+      ]
+    },
+    {
+      "id": "SLG-15",
+      "name": "Litten",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "litten"
+      ]
+    },
+    {
+      "id": "SLG-16",
+      "name": "Torracat",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "torracat"
+      ]
+    },
+    {
+      "id": "SLG-17",
+      "name": "Incineroar",
+      "number": "17",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "incineroar"
+      ]
+    },
+    {
+      "id": "SLG-18",
+      "name": "Totodile",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "totodile"
+      ]
+    },
+    {
+      "id": "SLG-19",
+      "name": "Croconaw",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "croconaw"
+      ]
+    },
+    {
+      "id": "SLG-20",
+      "name": "Feraligatr",
+      "number": "20",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "feraligatr"
+      ]
+    },
+    {
+      "id": "SLG-21",
+      "name": "Qwilfish",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "qwilfish"
+      ]
+    },
+    {
+      "id": "SLG-22",
+      "name": "Buizel",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "buizel"
+      ]
+    },
+    {
+      "id": "SLG-23",
+      "name": "Floatzel",
+      "number": "23",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "floatzel"
+      ]
+    },
+    {
+      "id": "SLG-24",
+      "name": "Palkia",
+      "number": "24",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "palkia"
+      ]
+    },
+    {
+      "id": "SLG-25",
+      "name": "Manaphy",
+      "number": "25",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "manaphy"
+      ]
+    },
+    {
+      "id": "SLG-26",
+      "name": "Keldeo",
+      "number": "26",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "keldeo"
+      ]
+    },
+    {
+      "id": "SLG-27",
+      "name": "Shining Volcanion",
+      "number": "27",
+      "rarity": "Shining Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "shining volcanion",
+        "shining",
+        "volcanion"
+      ]
+    },
+    {
+      "id": "SLG-28",
+      "name": "Pikachu",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "pikachu"
+      ]
+    },
+    {
+      "id": "SLG-29",
+      "name": "Raichu-GX",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "raichu"
+      ]
+    },
+    {
+      "id": "SLG-30",
+      "name": "Voltorb",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "voltorb"
+      ]
+    },
+    {
+      "id": "SLG-31",
+      "name": "Electrode",
+      "number": "31",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "electrode"
+      ]
+    },
+    {
+      "id": "SLG-32",
+      "name": "Raikou",
+      "number": "32",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "raikou"
+      ]
+    },
+    {
+      "id": "SLG-33",
+      "name": "Plusle",
+      "number": "33",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "plusle"
+      ]
+    },
+    {
+      "id": "SLG-34",
+      "name": "Minun",
+      "number": "34",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "minun"
+      ]
+    },
+    {
+      "id": "SLG-35",
+      "name": "Zekrom",
+      "number": "35",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "zekrom"
+      ]
+    },
+    {
+      "id": "SLG-36",
+      "name": "Ekans",
+      "number": "36",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "ekans"
+      ]
+    },
+    {
+      "id": "SLG-37",
+      "name": "Arbok",
+      "number": "37",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "arbok"
+      ]
+    },
+    {
+      "id": "SLG-38",
+      "name": "Jynx",
+      "number": "38",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "jynx"
+      ]
+    },
+    {
+      "id": "SLG-39",
+      "name": "Mewtwo-GX",
+      "number": "39",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "mewtwo"
+      ]
+    },
+    {
+      "id": "SLG-40",
+      "name": "Shining Mew",
+      "number": "40",
+      "rarity": "Shining Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "mew",
+        "shining",
+        "shining mew"
+      ]
+    },
+    {
+      "id": "SLG-41",
+      "name": "Latios",
+      "number": "41",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "latios"
+      ]
+    },
+    {
+      "id": "SLG-42",
+      "name": "Shining Jirachi",
+      "number": "42",
+      "rarity": "Shining Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "shining",
+        "jirachi",
+        "shining jirachi"
+      ]
+    },
+    {
+      "id": "SLG-43",
+      "name": "Golett",
+      "number": "43",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "golett"
+      ]
+    },
+    {
+      "id": "SLG-44",
+      "name": "Golurk",
+      "number": "44",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "golurk"
+      ]
+    },
+    {
+      "id": "SLG-45",
+      "name": "Marshadow",
+      "number": "45",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "marshadow"
+      ]
+    },
+    {
+      "id": "SLG-46",
+      "name": "Stunfisk",
+      "number": "46",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "stunfisk"
+      ]
+    },
+    {
+      "id": "SLG-47",
+      "name": "Spiritomb",
+      "number": "47",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "spiritomb"
+      ]
+    },
+    {
+      "id": "SLG-48",
+      "name": "Purrloin",
+      "number": "48",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "purrloin"
+      ]
+    },
+    {
+      "id": "SLG-49",
+      "name": "Liepard",
+      "number": "49",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "liepard"
+      ]
+    },
+    {
+      "id": "SLG-50",
+      "name": "Scraggy",
+      "number": "50",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "scraggy"
+      ]
+    },
+    {
+      "id": "SLG-51",
+      "name": "Scrafty",
+      "number": "51",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "scrafty"
+      ]
+    },
+    {
+      "id": "SLG-52",
+      "name": "Zorua",
+      "number": "52",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "zorua"
+      ]
+    },
+    {
+      "id": "SLG-53",
+      "name": "Zoroark-GX",
+      "number": "53",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "zoroark"
+      ]
+    },
+    {
+      "id": "SLG-54",
+      "name": "Yveltal",
+      "number": "54",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "yveltal"
+      ]
+    },
+    {
+      "id": "SLG-55",
+      "name": "Hoopa",
+      "number": "55",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "hoopa"
+      ]
+    },
+    {
+      "id": "SLG-56",
+      "name": "Shining Rayquaza",
+      "number": "56",
+      "rarity": "Shining Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "rayquaza",
+        "shining",
+        "shining rayquaza"
+      ]
+    },
+    {
+      "id": "SLG-57",
+      "name": "Shining Arceus",
+      "number": "57",
+      "rarity": "Shining Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "shining",
+        "shining arceus",
+        "arceus"
+      ]
+    },
+    {
+      "id": "SLG-58",
+      "name": "Damage Mover",
+      "number": "58",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "mover",
+        "damage",
+        "damage mover"
+      ]
+    },
+    {
+      "id": "SLG-59",
+      "name": "Energy Retrieval",
+      "number": "59",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "retrieval",
+        "energy retrieval",
+        "energy"
+      ]
+    },
+    {
+      "id": "SLG-60",
+      "name": "Great Ball",
+      "number": "60",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "ball",
+        "great",
+        "great ball"
+      ]
+    },
+    {
+      "id": "SLG-61",
+      "name": "Hau",
+      "number": "61",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "hau"
+      ]
+    },
+    {
+      "id": "SLG-62",
+      "name": "Lillie",
+      "number": "62",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "lillie"
+      ]
+    },
+    {
+      "id": "SLG-63",
+      "name": "Pokémon Breeder",
+      "number": "63",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "pokémon breeder",
+        "pokémon",
+        "breeder"
+      ]
+    },
+    {
+      "id": "SLG-64",
+      "name": "Pokémon Catcher",
+      "number": "64",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "pokémon",
+        "catcher",
+        "pokémon catcher"
+      ]
+    },
+    {
+      "id": "SLG-65",
+      "name": "Sophocles",
+      "number": "65",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "sophocles"
+      ]
+    },
+    {
+      "id": "SLG-66",
+      "name": "Super Scoop Up",
+      "number": "66",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "scoop",
+        "super",
+        "super scoop up"
+      ]
+    },
+    {
+      "id": "SLG-67",
+      "name": "Switch",
+      "number": "67",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "switch"
+      ]
+    },
+    {
+      "id": "SLG-68",
+      "name": "Ultra Ball",
+      "number": "68",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "ball",
+        "ultra",
+        "ultra ball"
+      ]
+    },
+    {
+      "id": "SLG-69",
+      "name": "Double Colorless Energy",
+      "number": "69",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "double",
+        "double colorless energy",
+        "colorless",
+        "energy"
+      ]
+    },
+    {
+      "id": "SLG-70",
+      "name": "Warp Energy",
+      "number": "70",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "warp",
+        "warp energy",
+        "energy"
+      ]
+    },
+    {
+      "id": "SLG-71",
+      "name": "Entei-GX",
+      "number": "71",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "entei"
+      ]
+    },
+    {
+      "id": "SLG-72",
+      "name": "Mewtwo-GX",
+      "number": "72",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SLG",
+      "matchingKeywords": [
+        "mewtwo"
+      ]
+    },
+    {
+      "id": "SLG-73",
+      "name": "Pokémon Breeder",
+      "number": "73",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SLG",
+      "matchingKeywords": [
+        "pokémon breeder",
+        "pokémon",
+        "breeder"
+      ]
+    }
+  ]
+}

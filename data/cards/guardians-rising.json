@@ -1,0 +1,1661 @@
+{
+  "setInfo": {
+    "name": "Guardians Rising",
+    "code": "GRI",
+    "releaseDate": "2017-05-05",
+    "totalCards": 145
+  },
+  "cards": [
+    {
+      "id": "GRI-1",
+      "name": "Bellsprout",
+      "number": "1",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "bellsprout"
+      ]
+    },
+    {
+      "id": "GRI-2",
+      "name": "Weepinbell",
+      "number": "2",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "weepinbell"
+      ]
+    },
+    {
+      "id": "GRI-3",
+      "name": "Victreebel",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "victreebel"
+      ]
+    },
+    {
+      "id": "GRI-4",
+      "name": "Petilil",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "petilil"
+      ]
+    },
+    {
+      "id": "GRI-5",
+      "name": "Lilligant",
+      "number": "5",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "lilligant"
+      ]
+    },
+    {
+      "id": "GRI-6",
+      "name": "Phantump",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "phantump"
+      ]
+    },
+    {
+      "id": "GRI-7",
+      "name": "Trevenant",
+      "number": "7",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "trevenant"
+      ]
+    },
+    {
+      "id": "GRI-8",
+      "name": "Wimpod",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "wimpod"
+      ]
+    },
+    {
+      "id": "GRI-9",
+      "name": "Golisopod",
+      "number": "9",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "golisopod"
+      ]
+    },
+    {
+      "id": "GRI-10",
+      "name": "Victini",
+      "number": "10",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "victini"
+      ]
+    },
+    {
+      "id": "GRI-11",
+      "name": "Litwick",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "litwick"
+      ]
+    },
+    {
+      "id": "GRI-12",
+      "name": "Lampent",
+      "number": "12",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "lampent"
+      ]
+    },
+    {
+      "id": "GRI-13",
+      "name": "Chandelure",
+      "number": "13",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "chandelure"
+      ]
+    },
+    {
+      "id": "GRI-14",
+      "name": "Oricorio",
+      "number": "14",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "oricorio"
+      ]
+    },
+    {
+      "id": "GRI-15",
+      "name": "Salandit",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "salandit"
+      ]
+    },
+    {
+      "id": "GRI-16",
+      "name": "Salazzle",
+      "number": "16",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "salazzle"
+      ]
+    },
+    {
+      "id": "GRI-17",
+      "name": "Turtonator",
+      "number": "17",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "turtonator"
+      ]
+    },
+    {
+      "id": "GRI-18",
+      "name": "Turtonator-GX",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "turtonator"
+      ]
+    },
+    {
+      "id": "GRI-19",
+      "name": "Alolan Sandshrew",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "sandshrew",
+        "alolan sandshrew",
+        "alolan"
+      ]
+    },
+    {
+      "id": "GRI-20",
+      "name": "Alolan Sandslash",
+      "number": "20",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "alolan",
+        "sandslash",
+        "alolan sandslash"
+      ]
+    },
+    {
+      "id": "GRI-21",
+      "name": "Alolan Vulpix",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "alolan",
+        "vulpix",
+        "alolan vulpix"
+      ]
+    },
+    {
+      "id": "GRI-22",
+      "name": "Alolan Ninetales-GX",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "alolan",
+        "alolan ninetales",
+        "ninetales",
+        "ninetales-gx"
+      ]
+    },
+    {
+      "id": "GRI-23",
+      "name": "Tentacool",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "tentacool"
+      ]
+    },
+    {
+      "id": "GRI-24",
+      "name": "Tentacruel",
+      "number": "24",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "tentacruel"
+      ]
+    },
+    {
+      "id": "GRI-25",
+      "name": "Politoed",
+      "number": "25",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "politoed"
+      ]
+    },
+    {
+      "id": "GRI-26",
+      "name": "Delibird",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "delibird"
+      ]
+    },
+    {
+      "id": "GRI-27",
+      "name": "Carvanha",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "carvanha"
+      ]
+    },
+    {
+      "id": "GRI-28",
+      "name": "Sharpedo",
+      "number": "28",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "sharpedo"
+      ]
+    },
+    {
+      "id": "GRI-29",
+      "name": "Wailmer",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "wailmer"
+      ]
+    },
+    {
+      "id": "GRI-30",
+      "name": "Wailord",
+      "number": "30",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "wailord"
+      ]
+    },
+    {
+      "id": "GRI-31",
+      "name": "Snorunt",
+      "number": "31",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "snorunt"
+      ]
+    },
+    {
+      "id": "GRI-32",
+      "name": "Glalie",
+      "number": "32",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "glalie"
+      ]
+    },
+    {
+      "id": "GRI-33",
+      "name": "Vanillite",
+      "number": "33",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "vanillite"
+      ]
+    },
+    {
+      "id": "GRI-34",
+      "name": "Vanillish",
+      "number": "34",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "vanillish"
+      ]
+    },
+    {
+      "id": "GRI-35",
+      "name": "Vanilluxe",
+      "number": "35",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "vanilluxe"
+      ]
+    },
+    {
+      "id": "GRI-36",
+      "name": "Alomomola",
+      "number": "36",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "alomomola"
+      ]
+    },
+    {
+      "id": "GRI-37",
+      "name": "Wishiwashi",
+      "number": "37",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "wishiwashi"
+      ]
+    },
+    {
+      "id": "GRI-38",
+      "name": "Wishiwashi-GX",
+      "number": "38",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "wishiwashi"
+      ]
+    },
+    {
+      "id": "GRI-39",
+      "name": "Mareanie",
+      "number": "39",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "mareanie"
+      ]
+    },
+    {
+      "id": "GRI-40",
+      "name": "Alolan Geodude",
+      "number": "40",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "alolan",
+        "alolan geodude",
+        "geodude"
+      ]
+    },
+    {
+      "id": "GRI-41",
+      "name": "Alolan Graveler",
+      "number": "41",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "alolan graveler",
+        "graveler",
+        "alolan"
+      ]
+    },
+    {
+      "id": "GRI-42",
+      "name": "Alolan Golem",
+      "number": "42",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "alolan golem",
+        "alolan",
+        "golem"
+      ]
+    },
+    {
+      "id": "GRI-43",
+      "name": "Helioptile",
+      "number": "43",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "helioptile"
+      ]
+    },
+    {
+      "id": "GRI-44",
+      "name": "Heliolisk",
+      "number": "44",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "heliolisk"
+      ]
+    },
+    {
+      "id": "GRI-45",
+      "name": "Vikavolt-GX",
+      "number": "45",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "vikavolt"
+      ]
+    },
+    {
+      "id": "GRI-46",
+      "name": "Oricorio",
+      "number": "46",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "oricorio"
+      ]
+    },
+    {
+      "id": "GRI-47",
+      "name": "Tapu Koko-GX",
+      "number": "47",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "tapu koko",
+        "tapu",
+        "koko"
+      ]
+    },
+    {
+      "id": "GRI-48",
+      "name": "Slowpoke",
+      "number": "48",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "slowpoke"
+      ]
+    },
+    {
+      "id": "GRI-49",
+      "name": "Slowbro",
+      "number": "49",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "slowbro"
+      ]
+    },
+    {
+      "id": "GRI-50",
+      "name": "Trubbish",
+      "number": "50",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "trubbish"
+      ]
+    },
+    {
+      "id": "GRI-51",
+      "name": "Garbodor",
+      "number": "51",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "garbodor"
+      ]
+    },
+    {
+      "id": "GRI-52",
+      "name": "Gothita",
+      "number": "52",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "gothita"
+      ]
+    },
+    {
+      "id": "GRI-53",
+      "name": "Gothorita",
+      "number": "53",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "gothorita"
+      ]
+    },
+    {
+      "id": "GRI-54",
+      "name": "Gothitelle",
+      "number": "54",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "gothitelle"
+      ]
+    },
+    {
+      "id": "GRI-55",
+      "name": "Oricorio",
+      "number": "55",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "oricorio"
+      ]
+    },
+    {
+      "id": "GRI-56",
+      "name": "Oricorio",
+      "number": "56",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "oricorio"
+      ]
+    },
+    {
+      "id": "GRI-57",
+      "name": "Toxapex-GX",
+      "number": "57",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "toxapex"
+      ]
+    },
+    {
+      "id": "GRI-58",
+      "name": "Mimikyu",
+      "number": "58",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "mimikyu"
+      ]
+    },
+    {
+      "id": "GRI-59",
+      "name": "Dhelmise",
+      "number": "59",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "dhelmise"
+      ]
+    },
+    {
+      "id": "GRI-60",
+      "name": "Tapu Lele-GX",
+      "number": "60",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "tapu",
+        "tapu lele",
+        "lele"
+      ]
+    },
+    {
+      "id": "GRI-61",
+      "name": "Lunala",
+      "number": "61",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "lunala"
+      ]
+    },
+    {
+      "id": "GRI-62",
+      "name": "Machop",
+      "number": "62",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "machop"
+      ]
+    },
+    {
+      "id": "GRI-63",
+      "name": "Machop",
+      "number": "63",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "machop"
+      ]
+    },
+    {
+      "id": "GRI-64",
+      "name": "Machoke",
+      "number": "64",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "machoke"
+      ]
+    },
+    {
+      "id": "GRI-65",
+      "name": "Machamp",
+      "number": "65",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "machamp"
+      ]
+    },
+    {
+      "id": "GRI-66",
+      "name": "Sudowoodo",
+      "number": "66",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "sudowoodo"
+      ]
+    },
+    {
+      "id": "GRI-67",
+      "name": "Gligar",
+      "number": "67",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "gligar"
+      ]
+    },
+    {
+      "id": "GRI-68",
+      "name": "Gliscor",
+      "number": "68",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "gliscor"
+      ]
+    },
+    {
+      "id": "GRI-69",
+      "name": "Nosepass",
+      "number": "69",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "nosepass"
+      ]
+    },
+    {
+      "id": "GRI-70",
+      "name": "Barboach",
+      "number": "70",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "barboach"
+      ]
+    },
+    {
+      "id": "GRI-71",
+      "name": "Whiscash",
+      "number": "71",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "whiscash"
+      ]
+    },
+    {
+      "id": "GRI-72",
+      "name": "Pancham",
+      "number": "72",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "pancham"
+      ]
+    },
+    {
+      "id": "GRI-73",
+      "name": "Rockruff",
+      "number": "73",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "rockruff"
+      ]
+    },
+    {
+      "id": "GRI-74",
+      "name": "Lycanroc-GX",
+      "number": "74",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "lycanroc"
+      ]
+    },
+    {
+      "id": "GRI-75",
+      "name": "Mudbray",
+      "number": "75",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "mudbray"
+      ]
+    },
+    {
+      "id": "GRI-76",
+      "name": "Mudsdale",
+      "number": "76",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "mudsdale"
+      ]
+    },
+    {
+      "id": "GRI-77",
+      "name": "Minior",
+      "number": "77",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "minior"
+      ]
+    },
+    {
+      "id": "GRI-78",
+      "name": "Murkrow",
+      "number": "78",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "murkrow"
+      ]
+    },
+    {
+      "id": "GRI-79",
+      "name": "Honchkrow",
+      "number": "79",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "honchkrow"
+      ]
+    },
+    {
+      "id": "GRI-80",
+      "name": "Sableye",
+      "number": "80",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "sableye"
+      ]
+    },
+    {
+      "id": "GRI-81",
+      "name": "Absol",
+      "number": "81",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "absol"
+      ]
+    },
+    {
+      "id": "GRI-82",
+      "name": "Pangoro",
+      "number": "82",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "pangoro"
+      ]
+    },
+    {
+      "id": "GRI-83",
+      "name": "Beldum",
+      "number": "83",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "beldum"
+      ]
+    },
+    {
+      "id": "GRI-84",
+      "name": "Metang",
+      "number": "84",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "metang"
+      ]
+    },
+    {
+      "id": "GRI-85",
+      "name": "Metagross-GX",
+      "number": "85",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "metagross"
+      ]
+    },
+    {
+      "id": "GRI-86",
+      "name": "Probopass",
+      "number": "86",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "probopass"
+      ]
+    },
+    {
+      "id": "GRI-87",
+      "name": "Solgaleo",
+      "number": "87",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "solgaleo"
+      ]
+    },
+    {
+      "id": "GRI-88",
+      "name": "Clefairy",
+      "number": "88",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "clefairy"
+      ]
+    },
+    {
+      "id": "GRI-89",
+      "name": "Clefable",
+      "number": "89",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "clefable"
+      ]
+    },
+    {
+      "id": "GRI-90",
+      "name": "Cottonee",
+      "number": "90",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "cottonee"
+      ]
+    },
+    {
+      "id": "GRI-91",
+      "name": "Whimsicott",
+      "number": "91",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "whimsicott"
+      ]
+    },
+    {
+      "id": "GRI-92",
+      "name": "Sylveon-GX",
+      "number": "92",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "sylveon"
+      ]
+    },
+    {
+      "id": "GRI-93",
+      "name": "Comfey",
+      "number": "93",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "comfey"
+      ]
+    },
+    {
+      "id": "GRI-94",
+      "name": "Goomy",
+      "number": "94",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "goomy"
+      ]
+    },
+    {
+      "id": "GRI-95",
+      "name": "Sliggoo",
+      "number": "95",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "sliggoo"
+      ]
+    },
+    {
+      "id": "GRI-96",
+      "name": "Goodra",
+      "number": "96",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "goodra"
+      ]
+    },
+    {
+      "id": "GRI-97",
+      "name": "Drampa",
+      "number": "97",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "drampa"
+      ]
+    },
+    {
+      "id": "GRI-98",
+      "name": "Jangmo-o",
+      "number": "98",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "jangmo-o"
+      ]
+    },
+    {
+      "id": "GRI-99",
+      "name": "Hakamo-o",
+      "number": "99",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "hakamo-o"
+      ]
+    },
+    {
+      "id": "GRI-100",
+      "name": "Kommo-o-GX",
+      "number": "100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "kommo-o"
+      ]
+    },
+    {
+      "id": "GRI-101",
+      "name": "Chansey",
+      "number": "101",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "chansey"
+      ]
+    },
+    {
+      "id": "GRI-102",
+      "name": "Blissey",
+      "number": "102",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "blissey"
+      ]
+    },
+    {
+      "id": "GRI-103",
+      "name": "Taillow",
+      "number": "103",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "taillow"
+      ]
+    },
+    {
+      "id": "GRI-104",
+      "name": "Swellow",
+      "number": "104",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "swellow"
+      ]
+    },
+    {
+      "id": "GRI-105",
+      "name": "Castform",
+      "number": "105",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "castform"
+      ]
+    },
+    {
+      "id": "GRI-106",
+      "name": "Rayquaza",
+      "number": "106",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "rayquaza"
+      ]
+    },
+    {
+      "id": "GRI-107",
+      "name": "Patrat",
+      "number": "107",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "patrat"
+      ]
+    },
+    {
+      "id": "GRI-108",
+      "name": "Watchog",
+      "number": "108",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "watchog"
+      ]
+    },
+    {
+      "id": "GRI-109",
+      "name": "Fletchling",
+      "number": "109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "fletchling"
+      ]
+    },
+    {
+      "id": "GRI-110",
+      "name": "Fletchinder",
+      "number": "110",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "fletchinder"
+      ]
+    },
+    {
+      "id": "GRI-111",
+      "name": "Talonflame",
+      "number": "111",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "talonflame"
+      ]
+    },
+    {
+      "id": "GRI-112",
+      "name": "Stufful",
+      "number": "112",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "stufful"
+      ]
+    },
+    {
+      "id": "GRI-113",
+      "name": "Bewear",
+      "number": "113",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "bewear"
+      ]
+    },
+    {
+      "id": "GRI-114",
+      "name": "Komala",
+      "number": "114",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "komala"
+      ]
+    },
+    {
+      "id": "GRI-115",
+      "name": "Drampa-GX",
+      "number": "115",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "drampa"
+      ]
+    },
+    {
+      "id": "GRI-116",
+      "name": "Aether Paradise Conservation Area",
+      "number": "116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "aether",
+        "conservation",
+        "aether paradise conservation area",
+        "paradise",
+        "area"
+      ]
+    },
+    {
+      "id": "GRI-117",
+      "name": "Altar of the Moone",
+      "number": "117",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "the",
+        "altar",
+        "altar of the moone",
+        "moone"
+      ]
+    },
+    {
+      "id": "GRI-118",
+      "name": "Altar of the Sunne",
+      "number": "118",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "the",
+        "altar of the sunne",
+        "altar",
+        "sunne"
+      ]
+    },
+    {
+      "id": "GRI-119",
+      "name": "Aqua Patch",
+      "number": "119",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "patch",
+        "aqua",
+        "aqua patch"
+      ]
+    },
+    {
+      "id": "GRI-120",
+      "name": "Brooklet Hill",
+      "number": "120",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "brooklet hill",
+        "brooklet",
+        "hill"
+      ]
+    },
+    {
+      "id": "GRI-121",
+      "name": "Choice Band",
+      "number": "121",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "band",
+        "choice band",
+        "choice"
+      ]
+    },
+    {
+      "id": "GRI-122",
+      "name": "Energy Loto",
+      "number": "122",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "loto",
+        "energy loto",
+        "energy"
+      ]
+    },
+    {
+      "id": "GRI-123",
+      "name": "Energy Recycler",
+      "number": "123",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "recycler",
+        "energy recycler",
+        "energy"
+      ]
+    },
+    {
+      "id": "GRI-124",
+      "name": "Enhanced Hammer",
+      "number": "124",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "hammer",
+        "enhanced",
+        "enhanced hammer"
+      ]
+    },
+    {
+      "id": "GRI-125",
+      "name": "Field Blower",
+      "number": "125",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "field",
+        "field blower",
+        "blower"
+      ]
+    },
+    {
+      "id": "GRI-126",
+      "name": "Hala",
+      "number": "126",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "hala"
+      ]
+    },
+    {
+      "id": "GRI-127",
+      "name": "Mallow",
+      "number": "127",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "mallow"
+      ]
+    },
+    {
+      "id": "GRI-128",
+      "name": "Max Potion",
+      "number": "128",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "potion",
+        "max",
+        "max potion"
+      ]
+    },
+    {
+      "id": "GRI-129",
+      "name": "Multi Switch",
+      "number": "129",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "multi switch",
+        "multi",
+        "switch"
+      ]
+    },
+    {
+      "id": "GRI-130",
+      "name": "Rescue Stretcher",
+      "number": "130",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "rescue stretcher",
+        "stretcher",
+        "rescue"
+      ]
+    },
+    {
+      "id": "GRI-131",
+      "name": "Turtonator-GX",
+      "number": "131",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "turtonator"
+      ]
+    },
+    {
+      "id": "GRI-132",
+      "name": "Alolan Ninetales-GX",
+      "number": "132",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "alolan",
+        "alolan ninetales",
+        "ninetales",
+        "ninetales-gx"
+      ]
+    },
+    {
+      "id": "GRI-133",
+      "name": "Wishiwashi-GX",
+      "number": "133",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "wishiwashi"
+      ]
+    },
+    {
+      "id": "GRI-134",
+      "name": "Vikavolt-GX",
+      "number": "134",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "vikavolt"
+      ]
+    },
+    {
+      "id": "GRI-135",
+      "name": "Tapu Koko-GX",
+      "number": "135",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "tapu koko",
+        "tapu",
+        "koko"
+      ]
+    },
+    {
+      "id": "GRI-136",
+      "name": "Toxapex-GX",
+      "number": "136",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "toxapex"
+      ]
+    },
+    {
+      "id": "GRI-137",
+      "name": "Tapu Lele-GX",
+      "number": "137",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "tapu",
+        "tapu lele",
+        "lele"
+      ]
+    },
+    {
+      "id": "GRI-138",
+      "name": "Lycanroc-GX",
+      "number": "138",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "lycanroc"
+      ]
+    },
+    {
+      "id": "GRI-139",
+      "name": "Metagross-GX",
+      "number": "139",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "metagross"
+      ]
+    },
+    {
+      "id": "GRI-140",
+      "name": "Sylveon-GX",
+      "number": "140",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "sylveon"
+      ]
+    },
+    {
+      "id": "GRI-141",
+      "name": "Kommo-o-GX",
+      "number": "141",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "kommo-o"
+      ]
+    },
+    {
+      "id": "GRI-142",
+      "name": "Drampa-GX",
+      "number": "142",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "GRI",
+      "matchingKeywords": [
+        "drampa"
+      ]
+    },
+    {
+      "id": "GRI-143",
+      "name": "Hala",
+      "number": "143",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "hala"
+      ]
+    },
+    {
+      "id": "GRI-144",
+      "name": "Hau",
+      "number": "144",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "hau"
+      ]
+    },
+    {
+      "id": "GRI-145",
+      "name": "Mallow",
+      "number": "145",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "GRI",
+      "matchingKeywords": [
+        "mallow"
+      ]
+    }
+  ]
+}

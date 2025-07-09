@@ -1,0 +1,2228 @@
+{
+  "setInfo": {
+    "name": "Rebel Clash",
+    "code": "RCL",
+    "releaseDate": "2020-05-01",
+    "totalCards": 192
+  },
+  "cards": [
+    {
+      "id": "RCL-001",
+      "name": "Caterpie",
+      "number": "001",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "caterpie"
+      ]
+    },
+    {
+      "id": "RCL-002",
+      "name": "Metapod",
+      "number": "002",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "metapod"
+      ]
+    },
+    {
+      "id": "RCL-003",
+      "name": "Butterfree",
+      "number": "003",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "butterfree"
+      ]
+    },
+    {
+      "id": "RCL-004",
+      "name": "Scyther",
+      "number": "004",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "scyther"
+      ]
+    },
+    {
+      "id": "RCL-005",
+      "name": "Shuckle",
+      "number": "005",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "shuckle"
+      ]
+    },
+    {
+      "id": "RCL-006",
+      "name": "Heracross",
+      "number": "006",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "heracross"
+      ]
+    },
+    {
+      "id": "RCL-007",
+      "name": "Lotad",
+      "number": "007",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "lotad"
+      ]
+    },
+    {
+      "id": "RCL-008",
+      "name": "Lombre",
+      "number": "008",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "lombre"
+      ]
+    },
+    {
+      "id": "RCL-009",
+      "name": "Ludicolo",
+      "number": "009",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "ludicolo"
+      ]
+    },
+    {
+      "id": "RCL-010",
+      "name": "Surskit",
+      "number": "010",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "surskit"
+      ]
+    },
+    {
+      "id": "RCL-011",
+      "name": "Masquerain",
+      "number": "011",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "masquerain"
+      ]
+    },
+    {
+      "id": "RCL-012",
+      "name": "Snover",
+      "number": "012",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "snover"
+      ]
+    },
+    {
+      "id": "RCL-013",
+      "name": "Abomasnow",
+      "number": "013",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "abomasnow"
+      ]
+    },
+    {
+      "id": "RCL-014",
+      "name": "Phantump",
+      "number": "014",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "phantump"
+      ]
+    },
+    {
+      "id": "RCL-015",
+      "name": "Trevenant",
+      "number": "015",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "trevenant"
+      ]
+    },
+    {
+      "id": "RCL-016",
+      "name": "Grubbin",
+      "number": "016",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "grubbin"
+      ]
+    },
+    {
+      "id": "RCL-017",
+      "name": "Rillaboom V",
+      "number": "017",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "rillaboom v",
+        "rillaboom"
+      ]
+    },
+    {
+      "id": "RCL-018",
+      "name": "Rillaboom VMAX",
+      "number": "018",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "rillaboom vmax",
+        "rillaboom",
+        "vmax"
+      ]
+    },
+    {
+      "id": "RCL-019",
+      "name": "Eldegoss V",
+      "number": "019",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "eldegoss v",
+        "eldegoss"
+      ]
+    },
+    {
+      "id": "RCL-020",
+      "name": "Applin",
+      "number": "020",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "applin"
+      ]
+    },
+    {
+      "id": "RCL-021",
+      "name": "Applin",
+      "number": "021",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "applin"
+      ]
+    },
+    {
+      "id": "RCL-022",
+      "name": "Flapple",
+      "number": "022",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "flapple"
+      ]
+    },
+    {
+      "id": "RCL-023",
+      "name": "Appletun",
+      "number": "023",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "appletun"
+      ]
+    },
+    {
+      "id": "RCL-024",
+      "name": "Vulpix",
+      "number": "024",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "vulpix"
+      ]
+    },
+    {
+      "id": "RCL-025",
+      "name": "Ninetales",
+      "number": "025",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "ninetales"
+      ]
+    },
+    {
+      "id": "RCL-026",
+      "name": "Ninetales V",
+      "number": "026",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "ninetales v",
+        "ninetales"
+      ]
+    },
+    {
+      "id": "RCL-027",
+      "name": "Growlithe",
+      "number": "027",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "growlithe"
+      ]
+    },
+    {
+      "id": "RCL-028",
+      "name": "Arcanine",
+      "number": "028",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "arcanine"
+      ]
+    },
+    {
+      "id": "RCL-029",
+      "name": "Magmar",
+      "number": "029",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "magmar"
+      ]
+    },
+    {
+      "id": "RCL-030",
+      "name": "Magmortar",
+      "number": "030",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "magmortar"
+      ]
+    },
+    {
+      "id": "RCL-031",
+      "name": "Litwick",
+      "number": "031",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "litwick"
+      ]
+    },
+    {
+      "id": "RCL-032",
+      "name": "Lampent",
+      "number": "032",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "lampent"
+      ]
+    },
+    {
+      "id": "RCL-033",
+      "name": "Chandelure",
+      "number": "033",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "chandelure"
+      ]
+    },
+    {
+      "id": "RCL-034",
+      "name": "Heatmor",
+      "number": "034",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "heatmor"
+      ]
+    },
+    {
+      "id": "RCL-035",
+      "name": "Cinderace V",
+      "number": "035",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "cinderace",
+        "cinderace v"
+      ]
+    },
+    {
+      "id": "RCL-036",
+      "name": "Cinderace VMAX",
+      "number": "036",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "cinderace vmax",
+        "cinderace",
+        "vmax"
+      ]
+    },
+    {
+      "id": "RCL-037",
+      "name": "Galarian Mr. Mime",
+      "number": "037",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "mime",
+        "mr.",
+        "galarian mr. mime",
+        "mr. mime"
+      ]
+    },
+    {
+      "id": "RCL-038",
+      "name": "Galarian Mr. Rime",
+      "number": "038",
+      "rarity": "Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "mr. rime",
+        "galarian mr. rime",
+        "rime",
+        "mr."
+      ]
+    },
+    {
+      "id": "RCL-039",
+      "name": "Magikarp",
+      "number": "039",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "magikarp"
+      ]
+    },
+    {
+      "id": "RCL-040",
+      "name": "Gyarados",
+      "number": "040",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "gyarados"
+      ]
+    },
+    {
+      "id": "RCL-041",
+      "name": "Wingull",
+      "number": "041",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "wingull"
+      ]
+    },
+    {
+      "id": "RCL-042",
+      "name": "Pelipper",
+      "number": "042",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "pelipper"
+      ]
+    },
+    {
+      "id": "RCL-043",
+      "name": "Milotic V",
+      "number": "043",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "milotic",
+        "milotic v"
+      ]
+    },
+    {
+      "id": "RCL-044",
+      "name": "Tympole",
+      "number": "044",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "tympole"
+      ]
+    },
+    {
+      "id": "RCL-045",
+      "name": "Palpitoad",
+      "number": "045",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "palpitoad"
+      ]
+    },
+    {
+      "id": "RCL-046",
+      "name": "Seismitoad",
+      "number": "046",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "seismitoad"
+      ]
+    },
+    {
+      "id": "RCL-047",
+      "name": "Galarian Darumaka",
+      "number": "047",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "galarian darumaka",
+        "darumaka"
+      ]
+    },
+    {
+      "id": "RCL-048",
+      "name": "Galarian Darmanitan",
+      "number": "048",
+      "rarity": "Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "darmanitan",
+        "galarian darmanitan"
+      ]
+    },
+    {
+      "id": "RCL-049",
+      "name": "Inteleon V",
+      "number": "049",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "inteleon",
+        "inteleon v"
+      ]
+    },
+    {
+      "id": "RCL-050",
+      "name": "Inteleon VMAX",
+      "number": "050",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "inteleon",
+        "vmax",
+        "inteleon vmax"
+      ]
+    },
+    {
+      "id": "RCL-051",
+      "name": "Cramorant",
+      "number": "051",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "cramorant"
+      ]
+    },
+    {
+      "id": "RCL-052",
+      "name": "Arrokuda",
+      "number": "052",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "arrokuda"
+      ]
+    },
+    {
+      "id": "RCL-053",
+      "name": "Barraskewda",
+      "number": "053",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "barraskewda"
+      ]
+    },
+    {
+      "id": "RCL-054",
+      "name": "Eiscue",
+      "number": "054",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "eiscue"
+      ]
+    },
+    {
+      "id": "RCL-055",
+      "name": "Eiscue V",
+      "number": "055",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "eiscue",
+        "eiscue v"
+      ]
+    },
+    {
+      "id": "RCL-056",
+      "name": "Voltorb",
+      "number": "056",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "voltorb"
+      ]
+    },
+    {
+      "id": "RCL-057",
+      "name": "Electrode",
+      "number": "057",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "electrode"
+      ]
+    },
+    {
+      "id": "RCL-058",
+      "name": "Electabuzz",
+      "number": "058",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "electabuzz"
+      ]
+    },
+    {
+      "id": "RCL-059",
+      "name": "Electivire",
+      "number": "059",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "electivire"
+      ]
+    },
+    {
+      "id": "RCL-060",
+      "name": "Shinx",
+      "number": "060",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "shinx"
+      ]
+    },
+    {
+      "id": "RCL-061",
+      "name": "Luxio",
+      "number": "061",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "luxio"
+      ]
+    },
+    {
+      "id": "RCL-062",
+      "name": "Luxray",
+      "number": "062",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "luxray"
+      ]
+    },
+    {
+      "id": "RCL-063",
+      "name": "Helioptile",
+      "number": "063",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "helioptile"
+      ]
+    },
+    {
+      "id": "RCL-064",
+      "name": "Heliolisk",
+      "number": "064",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "heliolisk"
+      ]
+    },
+    {
+      "id": "RCL-065",
+      "name": "Charjabug",
+      "number": "065",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "charjabug"
+      ]
+    },
+    {
+      "id": "RCL-066",
+      "name": "Vikavolt",
+      "number": "066",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "vikavolt"
+      ]
+    },
+    {
+      "id": "RCL-067",
+      "name": "Boltund V",
+      "number": "067",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "boltund v",
+        "boltund"
+      ]
+    },
+    {
+      "id": "RCL-068",
+      "name": "Toxel",
+      "number": "068",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "toxel"
+      ]
+    },
+    {
+      "id": "RCL-069",
+      "name": "Toxtricity",
+      "number": "069",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "toxtricity"
+      ]
+    },
+    {
+      "id": "RCL-070",
+      "name": "Toxtricity V",
+      "number": "070",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "toxtricity",
+        "toxtricity v"
+      ]
+    },
+    {
+      "id": "RCL-071",
+      "name": "Toxtricity VMAX",
+      "number": "071",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "toxtricity",
+        "vmax",
+        "toxtricity vmax"
+      ]
+    },
+    {
+      "id": "RCL-072",
+      "name": "Pincurchin V",
+      "number": "072",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "pincurchin v",
+        "pincurchin"
+      ]
+    },
+    {
+      "id": "RCL-073",
+      "name": "Morpeko",
+      "number": "073",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "morpeko"
+      ]
+    },
+    {
+      "id": "RCL-074",
+      "name": "Clefairy",
+      "number": "074",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "clefairy"
+      ]
+    },
+    {
+      "id": "RCL-075",
+      "name": "Clefable",
+      "number": "075",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "clefable"
+      ]
+    },
+    {
+      "id": "RCL-076",
+      "name": "Natu",
+      "number": "076",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "natu"
+      ]
+    },
+    {
+      "id": "RCL-077",
+      "name": "Xatu",
+      "number": "077",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "xatu"
+      ]
+    },
+    {
+      "id": "RCL-078",
+      "name": "Galarian Corsola",
+      "number": "078",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian corsola",
+        "galarian",
+        "corsola"
+      ]
+    },
+    {
+      "id": "RCL-079",
+      "name": "Galarian Cursola",
+      "number": "079",
+      "rarity": "Holo Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "cursola",
+        "galarian cursola"
+      ]
+    },
+    {
+      "id": "RCL-080",
+      "name": "Sigilyph",
+      "number": "080",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "sigilyph"
+      ]
+    },
+    {
+      "id": "RCL-081",
+      "name": "Sandygast",
+      "number": "081",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "sandygast"
+      ]
+    },
+    {
+      "id": "RCL-082",
+      "name": "Palossand",
+      "number": "082",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "palossand"
+      ]
+    },
+    {
+      "id": "RCL-083",
+      "name": "Hatenna",
+      "number": "083",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "hatenna"
+      ]
+    },
+    {
+      "id": "RCL-084",
+      "name": "Hattrem",
+      "number": "084",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "hattrem"
+      ]
+    },
+    {
+      "id": "RCL-085",
+      "name": "Hatterene",
+      "number": "085",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "hatterene"
+      ]
+    },
+    {
+      "id": "RCL-086",
+      "name": "Milcery",
+      "number": "086",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "milcery"
+      ]
+    },
+    {
+      "id": "RCL-087",
+      "name": "Alcremie",
+      "number": "087",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "alcremie"
+      ]
+    },
+    {
+      "id": "RCL-088",
+      "name": "Indeedee",
+      "number": "088",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "indeedee"
+      ]
+    },
+    {
+      "id": "RCL-089",
+      "name": "Dreepy",
+      "number": "089",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "dreepy"
+      ]
+    },
+    {
+      "id": "RCL-090",
+      "name": "Drakloak",
+      "number": "090",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "drakloak"
+      ]
+    },
+    {
+      "id": "RCL-091",
+      "name": "Dragapult",
+      "number": "091",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "dragapult"
+      ]
+    },
+    {
+      "id": "RCL-092",
+      "name": "Dragapult V",
+      "number": "092",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "dragapult",
+        "dragapult v"
+      ]
+    },
+    {
+      "id": "RCL-093",
+      "name": "Dragapult VMAX",
+      "number": "093",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "dragapult",
+        "vmax",
+        "dragapult vmax"
+      ]
+    },
+    {
+      "id": "RCL-094",
+      "name": "Galarian Farfetch’d",
+      "number": "094",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "galarian farfetch’d",
+        "farfetch’d"
+      ]
+    },
+    {
+      "id": "RCL-095",
+      "name": "Galarian Sirfetch’d",
+      "number": "095",
+      "rarity": "Holo Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "galarian sirfetch’d",
+        "sirfetch’d"
+      ]
+    },
+    {
+      "id": "RCL-096",
+      "name": "Nosepass",
+      "number": "096",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "nosepass"
+      ]
+    },
+    {
+      "id": "RCL-097",
+      "name": "Meditite",
+      "number": "097",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "meditite"
+      ]
+    },
+    {
+      "id": "RCL-098",
+      "name": "Medicham",
+      "number": "098",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "medicham"
+      ]
+    },
+    {
+      "id": "RCL-099",
+      "name": "Barboach",
+      "number": "099",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "barboach"
+      ]
+    },
+    {
+      "id": "RCL-100",
+      "name": "Whiscash",
+      "number": "100",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "whiscash"
+      ]
+    },
+    {
+      "id": "RCL-101",
+      "name": "Galarian Yamask",
+      "number": "101",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "galarian yamask",
+        "yamask"
+      ]
+    },
+    {
+      "id": "RCL-102",
+      "name": "Galarian Runerigus",
+      "number": "102",
+      "rarity": "Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "runerigus",
+        "galarian runerigus"
+      ]
+    },
+    {
+      "id": "RCL-103",
+      "name": "Binacle",
+      "number": "103",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "binacle"
+      ]
+    },
+    {
+      "id": "RCL-104",
+      "name": "Barbaracle",
+      "number": "104",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "barbaracle"
+      ]
+    },
+    {
+      "id": "RCL-105",
+      "name": "Rolycoly",
+      "number": "105",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "rolycoly"
+      ]
+    },
+    {
+      "id": "RCL-106",
+      "name": "Carkol",
+      "number": "106",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "carkol"
+      ]
+    },
+    {
+      "id": "RCL-107",
+      "name": "Coalossal",
+      "number": "107",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "coalossal"
+      ]
+    },
+    {
+      "id": "RCL-108",
+      "name": "Sandaconda V",
+      "number": "108",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "sandaconda",
+        "sandaconda v"
+      ]
+    },
+    {
+      "id": "RCL-109",
+      "name": "Falinks",
+      "number": "109",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "falinks"
+      ]
+    },
+    {
+      "id": "RCL-110",
+      "name": "Falinks V",
+      "number": "110",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "falinks v",
+        "falinks"
+      ]
+    },
+    {
+      "id": "RCL-111",
+      "name": "Stonjourner",
+      "number": "111",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "stonjourner"
+      ]
+    },
+    {
+      "id": "RCL-112",
+      "name": "Koffing",
+      "number": "112",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "koffing"
+      ]
+    },
+    {
+      "id": "RCL-113",
+      "name": "Galarian Weezing",
+      "number": "113",
+      "rarity": "Holo Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian weezing",
+        "weezing",
+        "galarian"
+      ]
+    },
+    {
+      "id": "RCL-114",
+      "name": "Stunky",
+      "number": "114",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "stunky"
+      ]
+    },
+    {
+      "id": "RCL-115",
+      "name": "Skuntank",
+      "number": "115",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "skuntank"
+      ]
+    },
+    {
+      "id": "RCL-116",
+      "name": "Spiritomb",
+      "number": "116",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "spiritomb"
+      ]
+    },
+    {
+      "id": "RCL-117",
+      "name": "Trubbish",
+      "number": "117",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "trubbish"
+      ]
+    },
+    {
+      "id": "RCL-118",
+      "name": "Garbodor",
+      "number": "118",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "garbodor"
+      ]
+    },
+    {
+      "id": "RCL-119",
+      "name": "Vullaby",
+      "number": "119",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "vullaby"
+      ]
+    },
+    {
+      "id": "RCL-120",
+      "name": "Mandibuzz",
+      "number": "120",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "mandibuzz"
+      ]
+    },
+    {
+      "id": "RCL-121",
+      "name": "Malamar V",
+      "number": "121",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "malamar",
+        "malamar v"
+      ]
+    },
+    {
+      "id": "RCL-122",
+      "name": "Malamar VMAX",
+      "number": "122",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "malamar vmax",
+        "malamar",
+        "vmax"
+      ]
+    },
+    {
+      "id": "RCL-123",
+      "name": "Impidimp",
+      "number": "123",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "impidimp"
+      ]
+    },
+    {
+      "id": "RCL-124",
+      "name": "Morgrem",
+      "number": "124",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "morgrem"
+      ]
+    },
+    {
+      "id": "RCL-125",
+      "name": "Grimmsnarl",
+      "number": "125",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "grimmsnarl"
+      ]
+    },
+    {
+      "id": "RCL-126",
+      "name": "Galarian Meowth",
+      "number": "126",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "meowth",
+        "galarian meowth"
+      ]
+    },
+    {
+      "id": "RCL-127",
+      "name": "Galarian Perrserker",
+      "number": "127",
+      "rarity": "Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "galarian",
+        "perrserker",
+        "galarian perrserker"
+      ]
+    },
+    {
+      "id": "RCL-128",
+      "name": "Scizor",
+      "number": "128",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "scizor"
+      ]
+    },
+    {
+      "id": "RCL-129",
+      "name": "Bronzor",
+      "number": "129",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "bronzor"
+      ]
+    },
+    {
+      "id": "RCL-130",
+      "name": "Bronzong",
+      "number": "130",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "bronzong"
+      ]
+    },
+    {
+      "id": "RCL-131",
+      "name": "Probopass",
+      "number": "131",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "probopass"
+      ]
+    },
+    {
+      "id": "RCL-132",
+      "name": "Durant",
+      "number": "132",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "durant"
+      ]
+    },
+    {
+      "id": "RCL-133",
+      "name": "Honedge",
+      "number": "133",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "honedge"
+      ]
+    },
+    {
+      "id": "RCL-134",
+      "name": "Doublade",
+      "number": "134",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "doublade"
+      ]
+    },
+    {
+      "id": "RCL-135",
+      "name": "Aegislash",
+      "number": "135",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "aegislash"
+      ]
+    },
+    {
+      "id": "RCL-136",
+      "name": "Copperajah V",
+      "number": "136",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "copperajah",
+        "copperajah v"
+      ]
+    },
+    {
+      "id": "RCL-137",
+      "name": "Copperajah VMAX",
+      "number": "137",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "copperajah",
+        "copperajah vmax",
+        "vmax"
+      ]
+    },
+    {
+      "id": "RCL-138",
+      "name": "Duraludon",
+      "number": "138",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "duraludon"
+      ]
+    },
+    {
+      "id": "RCL-139",
+      "name": "Zacian",
+      "number": "139",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "zacian"
+      ]
+    },
+    {
+      "id": "RCL-140",
+      "name": "Zamazenta",
+      "number": "140",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "zamazenta"
+      ]
+    },
+    {
+      "id": "RCL-141",
+      "name": "Snorlax",
+      "number": "141",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "snorlax"
+      ]
+    },
+    {
+      "id": "RCL-142",
+      "name": "Chatot",
+      "number": "142",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "chatot"
+      ]
+    },
+    {
+      "id": "RCL-143",
+      "name": "Pidove",
+      "number": "143",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "pidove"
+      ]
+    },
+    {
+      "id": "RCL-144",
+      "name": "Tranquill",
+      "number": "144",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "tranquill"
+      ]
+    },
+    {
+      "id": "RCL-145",
+      "name": "Unfezant",
+      "number": "145",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "unfezant"
+      ]
+    },
+    {
+      "id": "RCL-146",
+      "name": "Bunnelby",
+      "number": "146",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "bunnelby"
+      ]
+    },
+    {
+      "id": "RCL-147",
+      "name": "Diggersby",
+      "number": "147",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "diggersby"
+      ]
+    },
+    {
+      "id": "RCL-148",
+      "name": "Hawlucha",
+      "number": "148",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "hawlucha"
+      ]
+    },
+    {
+      "id": "RCL-149",
+      "name": "Stufful",
+      "number": "149",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "stufful"
+      ]
+    },
+    {
+      "id": "RCL-150",
+      "name": "Bewear",
+      "number": "150",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "bewear"
+      ]
+    },
+    {
+      "id": "RCL-151",
+      "name": "Skwovet",
+      "number": "151",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "skwovet"
+      ]
+    },
+    {
+      "id": "RCL-152",
+      "name": "Greedent",
+      "number": "152",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "greedent"
+      ]
+    },
+    {
+      "id": "RCL-153",
+      "name": "Dubwool V",
+      "number": "153",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "dubwool",
+        "dubwool v"
+      ]
+    },
+    {
+      "id": "RCL-154",
+      "name": "Boss’s Orders",
+      "number": "154",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "orders",
+        "boss’s",
+        "boss’s orders"
+      ]
+    },
+    {
+      "id": "RCL-155",
+      "name": "Burning Scarf",
+      "number": "155",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "scarf",
+        "burning scarf",
+        "burning"
+      ]
+    },
+    {
+      "id": "RCL-156",
+      "name": "Capacious Bucket",
+      "number": "156",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "capacious",
+        "bucket",
+        "capacious bucket"
+      ]
+    },
+    {
+      "id": "RCL-157",
+      "name": "Cursed Shovel",
+      "number": "157",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "cursed shovel",
+        "shovel",
+        "cursed"
+      ]
+    },
+    {
+      "id": "RCL-158",
+      "name": "Dan",
+      "number": "158",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "dan"
+      ]
+    },
+    {
+      "id": "RCL-159",
+      "name": "Full Heal",
+      "number": "159",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "heal",
+        "full",
+        "full heal"
+      ]
+    },
+    {
+      "id": "RCL-160",
+      "name": "Galar Mine",
+      "number": "160",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "mine",
+        "galar mine",
+        "galar"
+      ]
+    },
+    {
+      "id": "RCL-161",
+      "name": "Milo",
+      "number": "161",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "milo"
+      ]
+    },
+    {
+      "id": "RCL-162",
+      "name": "Nugget",
+      "number": "162",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "nugget"
+      ]
+    },
+    {
+      "id": "RCL-163",
+      "name": "Oleana",
+      "number": "163",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "oleana"
+      ]
+    },
+    {
+      "id": "RCL-164",
+      "name": "Poké Ball",
+      "number": "164",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "ball",
+        "poké",
+        "poké ball"
+      ]
+    },
+    {
+      "id": "RCL-165",
+      "name": "Scoop Up Net",
+      "number": "165",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "net",
+        "scoop up net",
+        "scoop"
+      ]
+    },
+    {
+      "id": "RCL-166",
+      "name": "Skyla",
+      "number": "166",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "skyla"
+      ]
+    },
+    {
+      "id": "RCL-167",
+      "name": "Sonia",
+      "number": "167",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "sonia"
+      ]
+    },
+    {
+      "id": "RCL-168",
+      "name": "Tool Scrapper",
+      "number": "168",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "scrapper",
+        "tool",
+        "tool scrapper"
+      ]
+    },
+    {
+      "id": "RCL-169",
+      "name": "Training Court",
+      "number": "169",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "court",
+        "training court",
+        "training"
+      ]
+    },
+    {
+      "id": "RCL-170",
+      "name": "Turffield Stadium",
+      "number": "170",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "stadium",
+        "turffield stadium",
+        "turffield"
+      ]
+    },
+    {
+      "id": "RCL-171",
+      "name": "Capture Energy",
+      "number": "171",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "capture energy",
+        "capture",
+        "energy"
+      ]
+    },
+    {
+      "id": "RCL-172",
+      "name": "Horror Energy",
+      "number": "172",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "horror energy",
+        "horror",
+        "energy"
+      ]
+    },
+    {
+      "id": "RCL-173",
+      "name": "Speed Energy",
+      "number": "173",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "speed energy",
+        "speed",
+        "energy"
+      ]
+    },
+    {
+      "id": "RCL-174",
+      "name": "Twin Energy",
+      "number": "174",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "twin",
+        "twin energy",
+        "energy"
+      ]
+    },
+    {
+      "id": "RCL-175",
+      "name": "Rillaboom V",
+      "number": "175",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "rillaboom v",
+        "rillaboom"
+      ]
+    },
+    {
+      "id": "RCL-176",
+      "name": "Eldegoss V",
+      "number": "176",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "eldegoss v",
+        "eldegoss"
+      ]
+    },
+    {
+      "id": "RCL-177",
+      "name": "Ninetales V",
+      "number": "177",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "ninetales v",
+        "ninetales"
+      ]
+    },
+    {
+      "id": "RCL-178",
+      "name": "Cinderace V",
+      "number": "178",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "cinderace",
+        "cinderace v"
+      ]
+    },
+    {
+      "id": "RCL-179",
+      "name": "Milotic V",
+      "number": "179",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "milotic",
+        "milotic v"
+      ]
+    },
+    {
+      "id": "RCL-180",
+      "name": "Inteleon V",
+      "number": "180",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "inteleon",
+        "inteleon v"
+      ]
+    },
+    {
+      "id": "RCL-181",
+      "name": "Boltund V",
+      "number": "181",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "boltund v",
+        "boltund"
+      ]
+    },
+    {
+      "id": "RCL-182",
+      "name": "Toxtricity V",
+      "number": "182",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "toxtricity",
+        "toxtricity v"
+      ]
+    },
+    {
+      "id": "RCL-183",
+      "name": "Dragapult V",
+      "number": "183",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "dragapult",
+        "dragapult v"
+      ]
+    },
+    {
+      "id": "RCL-184",
+      "name": "Sandaconda V",
+      "number": "184",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "sandaconda",
+        "sandaconda v"
+      ]
+    },
+    {
+      "id": "RCL-185",
+      "name": "Falinks V",
+      "number": "185",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "falinks v",
+        "falinks"
+      ]
+    },
+    {
+      "id": "RCL-186",
+      "name": "Malamar V",
+      "number": "186",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "malamar",
+        "malamar v"
+      ]
+    },
+    {
+      "id": "RCL-187",
+      "name": "Copperajah V",
+      "number": "187",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "copperajah",
+        "copperajah v"
+      ]
+    },
+    {
+      "id": "RCL-188",
+      "name": "Dubwool V",
+      "number": "188",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "dubwool",
+        "dubwool v"
+      ]
+    },
+    {
+      "id": "RCL-189",
+      "name": "Boss’s Orders",
+      "number": "189",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "RCL",
+      "matchingKeywords": [
+        "orders",
+        "boss’s",
+        "boss’s orders"
+      ]
+    },
+    {
+      "id": "RCL-190",
+      "name": "Milo",
+      "number": "190",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "milo"
+      ]
+    },
+    {
+      "id": "RCL-191",
+      "name": "Oleana",
+      "number": "191",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "oleana"
+      ]
+    },
+    {
+      "id": "RCL-192",
+      "name": "Sonia",
+      "number": "192",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "RCL",
+      "matchingKeywords": [
+        "sonia"
+      ]
+    }
+  ]
+}

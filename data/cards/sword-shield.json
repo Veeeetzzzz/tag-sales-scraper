@@ -1,0 +1,2345 @@
+{
+  "setInfo": {
+    "name": "Sword & Shield",
+    "code": "SSH",
+    "releaseDate": "2020-02-07",
+    "totalCards": 202
+  },
+  "cards": [
+    {
+      "id": "SSH-001",
+      "name": "Celebi V",
+      "number": "001",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "celebi",
+        "celebi v"
+      ]
+    },
+    {
+      "id": "SSH-002",
+      "name": "Roselia",
+      "number": "002",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "roselia"
+      ]
+    },
+    {
+      "id": "SSH-003",
+      "name": "Roselia",
+      "number": "003",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "roselia"
+      ]
+    },
+    {
+      "id": "SSH-004",
+      "name": "Roserade",
+      "number": "004",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "roserade"
+      ]
+    },
+    {
+      "id": "SSH-005",
+      "name": "Cottonee",
+      "number": "005",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cottonee"
+      ]
+    },
+    {
+      "id": "SSH-006",
+      "name": "Whimsicott",
+      "number": "006",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "whimsicott"
+      ]
+    },
+    {
+      "id": "SSH-007",
+      "name": "Maractus",
+      "number": "007",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "maractus"
+      ]
+    },
+    {
+      "id": "SSH-008",
+      "name": "Durant",
+      "number": "008",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "durant"
+      ]
+    },
+    {
+      "id": "SSH-009",
+      "name": "Dhelmise V",
+      "number": "009",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "dhelmise v",
+        "dhelmise"
+      ]
+    },
+    {
+      "id": "SSH-010",
+      "name": "Grookey",
+      "number": "010",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "grookey"
+      ]
+    },
+    {
+      "id": "SSH-011",
+      "name": "Grookey",
+      "number": "011",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "grookey"
+      ]
+    },
+    {
+      "id": "SSH-012",
+      "name": "Thwackey",
+      "number": "012",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "thwackey"
+      ]
+    },
+    {
+      "id": "SSH-013",
+      "name": "Thwackey",
+      "number": "013",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "thwackey"
+      ]
+    },
+    {
+      "id": "SSH-014",
+      "name": "Rillaboom",
+      "number": "014",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "rillaboom"
+      ]
+    },
+    {
+      "id": "SSH-015",
+      "name": "Rillaboom",
+      "number": "015",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "rillaboom"
+      ]
+    },
+    {
+      "id": "SSH-016",
+      "name": "Blipbug",
+      "number": "016",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "blipbug"
+      ]
+    },
+    {
+      "id": "SSH-017",
+      "name": "Blipbug",
+      "number": "017",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "blipbug"
+      ]
+    },
+    {
+      "id": "SSH-018",
+      "name": "Dottler",
+      "number": "018",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "dottler"
+      ]
+    },
+    {
+      "id": "SSH-019",
+      "name": "Orbeetle",
+      "number": "019",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "orbeetle"
+      ]
+    },
+    {
+      "id": "SSH-020",
+      "name": "Gossifleur",
+      "number": "020",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "gossifleur"
+      ]
+    },
+    {
+      "id": "SSH-021",
+      "name": "Eldegoss",
+      "number": "021",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "eldegoss"
+      ]
+    },
+    {
+      "id": "SSH-022",
+      "name": "Vulpix",
+      "number": "022",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "vulpix"
+      ]
+    },
+    {
+      "id": "SSH-023",
+      "name": "Ninetales",
+      "number": "023",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "ninetales"
+      ]
+    },
+    {
+      "id": "SSH-024",
+      "name": "Torkoal V",
+      "number": "024",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "torkoal",
+        "torkoal v"
+      ]
+    },
+    {
+      "id": "SSH-025",
+      "name": "Victini V",
+      "number": "025",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "victini",
+        "victini v"
+      ]
+    },
+    {
+      "id": "SSH-026",
+      "name": "Heatmor",
+      "number": "026",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "heatmor"
+      ]
+    },
+    {
+      "id": "SSH-027",
+      "name": "Salandit",
+      "number": "027",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "salandit"
+      ]
+    },
+    {
+      "id": "SSH-028",
+      "name": "Salazzle",
+      "number": "028",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "salazzle"
+      ]
+    },
+    {
+      "id": "SSH-029",
+      "name": "Turtonator",
+      "number": "029",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "turtonator"
+      ]
+    },
+    {
+      "id": "SSH-030",
+      "name": "Scorbunny",
+      "number": "030",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "scorbunny"
+      ]
+    },
+    {
+      "id": "SSH-031",
+      "name": "Scorbunny",
+      "number": "031",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "scorbunny"
+      ]
+    },
+    {
+      "id": "SSH-032",
+      "name": "Raboot",
+      "number": "032",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "raboot"
+      ]
+    },
+    {
+      "id": "SSH-033",
+      "name": "Raboot",
+      "number": "033",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "raboot"
+      ]
+    },
+    {
+      "id": "SSH-034",
+      "name": "Cinderace",
+      "number": "034",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cinderace"
+      ]
+    },
+    {
+      "id": "SSH-035",
+      "name": "Cinderace",
+      "number": "035",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cinderace"
+      ]
+    },
+    {
+      "id": "SSH-036",
+      "name": "Cinderace",
+      "number": "036",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cinderace"
+      ]
+    },
+    {
+      "id": "SSH-037",
+      "name": "Sizzlipede",
+      "number": "037",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sizzlipede"
+      ]
+    },
+    {
+      "id": "SSH-038",
+      "name": "Sizzlipede",
+      "number": "038",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sizzlipede"
+      ]
+    },
+    {
+      "id": "SSH-039",
+      "name": "Centiskorch",
+      "number": "039",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "centiskorch"
+      ]
+    },
+    {
+      "id": "SSH-040",
+      "name": "Shellder",
+      "number": "040",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "shellder"
+      ]
+    },
+    {
+      "id": "SSH-041",
+      "name": "Cloyster",
+      "number": "041",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cloyster"
+      ]
+    },
+    {
+      "id": "SSH-042",
+      "name": "Krabby",
+      "number": "042",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "krabby"
+      ]
+    },
+    {
+      "id": "SSH-043",
+      "name": "Krabby",
+      "number": "043",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "krabby"
+      ]
+    },
+    {
+      "id": "SSH-044",
+      "name": "Kingler",
+      "number": "044",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "kingler"
+      ]
+    },
+    {
+      "id": "SSH-045",
+      "name": "Goldeen",
+      "number": "045",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "goldeen"
+      ]
+    },
+    {
+      "id": "SSH-046",
+      "name": "Goldeen",
+      "number": "046",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "goldeen"
+      ]
+    },
+    {
+      "id": "SSH-047",
+      "name": "Seaking",
+      "number": "047",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "seaking"
+      ]
+    },
+    {
+      "id": "SSH-048",
+      "name": "Lapras",
+      "number": "048",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "lapras"
+      ]
+    },
+    {
+      "id": "SSH-049",
+      "name": "Lapras V",
+      "number": "049",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "lapras",
+        "lapras v"
+      ]
+    },
+    {
+      "id": "SSH-050",
+      "name": "Lapras VMAX",
+      "number": "050",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "lapras vmax",
+        "lapras",
+        "vmax"
+      ]
+    },
+    {
+      "id": "SSH-051",
+      "name": "Qwilfish",
+      "number": "051",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "qwilfish"
+      ]
+    },
+    {
+      "id": "SSH-052",
+      "name": "Mantine",
+      "number": "052",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "mantine"
+      ]
+    },
+    {
+      "id": "SSH-053",
+      "name": "Keldeo V",
+      "number": "053",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "keldeo v",
+        "keldeo"
+      ]
+    },
+    {
+      "id": "SSH-054",
+      "name": "Sobble",
+      "number": "054",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sobble"
+      ]
+    },
+    {
+      "id": "SSH-055",
+      "name": "Sobble",
+      "number": "055",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sobble"
+      ]
+    },
+    {
+      "id": "SSH-056",
+      "name": "Drizzile",
+      "number": "056",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "drizzile"
+      ]
+    },
+    {
+      "id": "SSH-057",
+      "name": "Drizzile",
+      "number": "057",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "drizzile"
+      ]
+    },
+    {
+      "id": "SSH-058",
+      "name": "Inteleon",
+      "number": "058",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "inteleon"
+      ]
+    },
+    {
+      "id": "SSH-059",
+      "name": "Inteleon",
+      "number": "059",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "inteleon"
+      ]
+    },
+    {
+      "id": "SSH-060",
+      "name": "Chewtle",
+      "number": "060",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "chewtle"
+      ]
+    },
+    {
+      "id": "SSH-061",
+      "name": "Drednaw",
+      "number": "061",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "drednaw"
+      ]
+    },
+    {
+      "id": "SSH-062",
+      "name": "Cramorant",
+      "number": "062",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cramorant"
+      ]
+    },
+    {
+      "id": "SSH-063",
+      "name": "Snom",
+      "number": "063",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "snom"
+      ]
+    },
+    {
+      "id": "SSH-064",
+      "name": "Frosmoth",
+      "number": "064",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "frosmoth"
+      ]
+    },
+    {
+      "id": "SSH-065",
+      "name": "Pikachu",
+      "number": "065",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "pikachu"
+      ]
+    },
+    {
+      "id": "SSH-066",
+      "name": "Raichu",
+      "number": "066",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "raichu"
+      ]
+    },
+    {
+      "id": "SSH-067",
+      "name": "Chinchou",
+      "number": "067",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "chinchou"
+      ]
+    },
+    {
+      "id": "SSH-068",
+      "name": "Chinchou",
+      "number": "068",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "chinchou"
+      ]
+    },
+    {
+      "id": "SSH-069",
+      "name": "Lanturn",
+      "number": "069",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "lanturn"
+      ]
+    },
+    {
+      "id": "SSH-070",
+      "name": "Joltik",
+      "number": "070",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "joltik"
+      ]
+    },
+    {
+      "id": "SSH-071",
+      "name": "Galvantula",
+      "number": "071",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "galvantula"
+      ]
+    },
+    {
+      "id": "SSH-072",
+      "name": "Tapu Koko V",
+      "number": "072",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "tapu",
+        "tapu koko v",
+        "koko"
+      ]
+    },
+    {
+      "id": "SSH-073",
+      "name": "Yamper",
+      "number": "073",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "yamper"
+      ]
+    },
+    {
+      "id": "SSH-074",
+      "name": "Yamper",
+      "number": "074",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "yamper"
+      ]
+    },
+    {
+      "id": "SSH-075",
+      "name": "Boltund",
+      "number": "075",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "boltund"
+      ]
+    },
+    {
+      "id": "SSH-076",
+      "name": "Boltund",
+      "number": "076",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "boltund"
+      ]
+    },
+    {
+      "id": "SSH-077",
+      "name": "Pincurchin",
+      "number": "077",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "pincurchin"
+      ]
+    },
+    {
+      "id": "SSH-078",
+      "name": "Morpeko",
+      "number": "078",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "morpeko"
+      ]
+    },
+    {
+      "id": "SSH-079",
+      "name": "Morpeko V",
+      "number": "079",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "morpeko",
+        "morpeko v"
+      ]
+    },
+    {
+      "id": "SSH-080",
+      "name": "Morpeko VMAX",
+      "number": "080",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "morpeko",
+        "vmax",
+        "morpeko vmax"
+      ]
+    },
+    {
+      "id": "SSH-081",
+      "name": "Galarian Ponyta",
+      "number": "081",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "ponyta",
+        "galarian",
+        "galarian ponyta"
+      ]
+    },
+    {
+      "id": "SSH-082",
+      "name": "Galarian Rapidash",
+      "number": "082",
+      "rarity": "Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "galarian",
+        "rapidash",
+        "galarian rapidash"
+      ]
+    },
+    {
+      "id": "SSH-083",
+      "name": "Gastly",
+      "number": "083",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "gastly"
+      ]
+    },
+    {
+      "id": "SSH-084",
+      "name": "Haunter",
+      "number": "084",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "haunter"
+      ]
+    },
+    {
+      "id": "SSH-085",
+      "name": "Gengar",
+      "number": "085",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "gengar"
+      ]
+    },
+    {
+      "id": "SSH-086",
+      "name": "Wobbuffet V",
+      "number": "086",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "wobbuffet",
+        "wobbuffet v"
+      ]
+    },
+    {
+      "id": "SSH-087",
+      "name": "Munna",
+      "number": "087",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "munna"
+      ]
+    },
+    {
+      "id": "SSH-088",
+      "name": "Musharna",
+      "number": "088",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "musharna"
+      ]
+    },
+    {
+      "id": "SSH-089",
+      "name": "Sinistea",
+      "number": "089",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sinistea"
+      ]
+    },
+    {
+      "id": "SSH-090",
+      "name": "Polteageist",
+      "number": "090",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "polteageist"
+      ]
+    },
+    {
+      "id": "SSH-091",
+      "name": "Indeedee V",
+      "number": "091",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "indeedee",
+        "indeedee v"
+      ]
+    },
+    {
+      "id": "SSH-092",
+      "name": "Diglett",
+      "number": "092",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "diglett"
+      ]
+    },
+    {
+      "id": "SSH-093",
+      "name": "Dugtrio",
+      "number": "093",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "dugtrio"
+      ]
+    },
+    {
+      "id": "SSH-094",
+      "name": "Hitmonlee",
+      "number": "094",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "hitmonlee"
+      ]
+    },
+    {
+      "id": "SSH-095",
+      "name": "Hitmonchan",
+      "number": "095",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "hitmonchan"
+      ]
+    },
+    {
+      "id": "SSH-096",
+      "name": "Rhyhorn",
+      "number": "096",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "rhyhorn"
+      ]
+    },
+    {
+      "id": "SSH-097",
+      "name": "Rhyhorn",
+      "number": "097",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "rhyhorn"
+      ]
+    },
+    {
+      "id": "SSH-098",
+      "name": "Rhydon",
+      "number": "098",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "rhydon"
+      ]
+    },
+    {
+      "id": "SSH-099",
+      "name": "Rhyperior",
+      "number": "099",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "rhyperior"
+      ]
+    },
+    {
+      "id": "SSH-100",
+      "name": "Sudowoodo",
+      "number": "100",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sudowoodo"
+      ]
+    },
+    {
+      "id": "SSH-101",
+      "name": "Baltoy",
+      "number": "101",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "baltoy"
+      ]
+    },
+    {
+      "id": "SSH-102",
+      "name": "Baltoy",
+      "number": "102",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "baltoy"
+      ]
+    },
+    {
+      "id": "SSH-103",
+      "name": "Claydol",
+      "number": "103",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "claydol"
+      ]
+    },
+    {
+      "id": "SSH-104",
+      "name": "Regirock V",
+      "number": "104",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "regirock v",
+        "regirock"
+      ]
+    },
+    {
+      "id": "SSH-105",
+      "name": "Mudbray",
+      "number": "105",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "mudbray"
+      ]
+    },
+    {
+      "id": "SSH-106",
+      "name": "Mudsdale",
+      "number": "106",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "mudsdale"
+      ]
+    },
+    {
+      "id": "SSH-107",
+      "name": "Silicobra",
+      "number": "107",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "silicobra"
+      ]
+    },
+    {
+      "id": "SSH-108",
+      "name": "Silicobra",
+      "number": "108",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "silicobra"
+      ]
+    },
+    {
+      "id": "SSH-109",
+      "name": "Sandaconda",
+      "number": "109",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sandaconda"
+      ]
+    },
+    {
+      "id": "SSH-110",
+      "name": "Sandaconda",
+      "number": "110",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sandaconda"
+      ]
+    },
+    {
+      "id": "SSH-111",
+      "name": "Clobbopus",
+      "number": "111",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "clobbopus"
+      ]
+    },
+    {
+      "id": "SSH-112",
+      "name": "Clobbopus",
+      "number": "112",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "clobbopus"
+      ]
+    },
+    {
+      "id": "SSH-113",
+      "name": "Grapploct",
+      "number": "113",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "grapploct"
+      ]
+    },
+    {
+      "id": "SSH-114",
+      "name": "Stonjourner",
+      "number": "114",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "stonjourner"
+      ]
+    },
+    {
+      "id": "SSH-115",
+      "name": "Stonjourner V",
+      "number": "115",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "stonjourner v",
+        "stonjourner"
+      ]
+    },
+    {
+      "id": "SSH-116",
+      "name": "Stonjourner VMAX",
+      "number": "116",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "stonjourner vmax",
+        "stonjourner",
+        "vmax"
+      ]
+    },
+    {
+      "id": "SSH-117",
+      "name": "Galarian Zigzagoon",
+      "number": "117",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "zigzagoon",
+        "galarian",
+        "galarian zigzagoon"
+      ]
+    },
+    {
+      "id": "SSH-118",
+      "name": "Galarian Linoone",
+      "number": "118",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "galarian",
+        "linoone",
+        "galarian linoone"
+      ]
+    },
+    {
+      "id": "SSH-119",
+      "name": "Galarian Obstagoon",
+      "number": "119",
+      "rarity": "Holo Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "obstagoon",
+        "galarian",
+        "galarian obstagoon"
+      ]
+    },
+    {
+      "id": "SSH-120",
+      "name": "Sableye V",
+      "number": "120",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sableye",
+        "sableye v"
+      ]
+    },
+    {
+      "id": "SSH-121",
+      "name": "Skorupi",
+      "number": "121",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "skorupi"
+      ]
+    },
+    {
+      "id": "SSH-122",
+      "name": "Drapion",
+      "number": "122",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "drapion"
+      ]
+    },
+    {
+      "id": "SSH-123",
+      "name": "Croagunk",
+      "number": "123",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "croagunk"
+      ]
+    },
+    {
+      "id": "SSH-124",
+      "name": "Toxicroak",
+      "number": "124",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "toxicroak"
+      ]
+    },
+    {
+      "id": "SSH-125",
+      "name": "Nickit",
+      "number": "125",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "nickit"
+      ]
+    },
+    {
+      "id": "SSH-126",
+      "name": "Thievul",
+      "number": "126",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "thievul"
+      ]
+    },
+    {
+      "id": "SSH-127",
+      "name": "Galarian Meowth",
+      "number": "127",
+      "rarity": "Common",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "galarian",
+        "meowth",
+        "galarian meowth"
+      ]
+    },
+    {
+      "id": "SSH-128",
+      "name": "Galarian Perrserker",
+      "number": "128",
+      "rarity": "Holo Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "galarian",
+        "perrserker",
+        "galarian perrserker"
+      ]
+    },
+    {
+      "id": "SSH-129",
+      "name": "Mawile",
+      "number": "129",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "mawile"
+      ]
+    },
+    {
+      "id": "SSH-130",
+      "name": "Ferroseed",
+      "number": "130",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "ferroseed"
+      ]
+    },
+    {
+      "id": "SSH-131",
+      "name": "Ferrothorn",
+      "number": "131",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "ferrothorn"
+      ]
+    },
+    {
+      "id": "SSH-132",
+      "name": "Galarian Stunfisk",
+      "number": "132",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "galarian stunfisk",
+        "galarian",
+        "stunfisk"
+      ]
+    },
+    {
+      "id": "SSH-133",
+      "name": "Pawniard",
+      "number": "133",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "pawniard"
+      ]
+    },
+    {
+      "id": "SSH-134",
+      "name": "Bisharp",
+      "number": "134",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "bisharp"
+      ]
+    },
+    {
+      "id": "SSH-135",
+      "name": "Corviknight",
+      "number": "135",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "corviknight"
+      ]
+    },
+    {
+      "id": "SSH-136",
+      "name": "Cufant",
+      "number": "136",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cufant"
+      ]
+    },
+    {
+      "id": "SSH-137",
+      "name": "Copperajah",
+      "number": "137",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "copperajah"
+      ]
+    },
+    {
+      "id": "SSH-138",
+      "name": "Zacian V",
+      "number": "138",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "zacian v",
+        "zacian"
+      ]
+    },
+    {
+      "id": "SSH-139",
+      "name": "Zamazenta V",
+      "number": "139",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "zamazenta v",
+        "zamazenta"
+      ]
+    },
+    {
+      "id": "SSH-140",
+      "name": "Snorlax",
+      "number": "140",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "snorlax"
+      ]
+    },
+    {
+      "id": "SSH-141",
+      "name": "Snorlax V",
+      "number": "141",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "snorlax",
+        "snorlax v"
+      ]
+    },
+    {
+      "id": "SSH-142",
+      "name": "Snorlax VMAX",
+      "number": "142",
+      "rarity": "Holo Rare VMAX",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "snorlax",
+        "snorlax vmax",
+        "vmax"
+      ]
+    },
+    {
+      "id": "SSH-143",
+      "name": "Hoothoot",
+      "number": "143",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "hoothoot"
+      ]
+    },
+    {
+      "id": "SSH-144",
+      "name": "Noctowl",
+      "number": "144",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "noctowl"
+      ]
+    },
+    {
+      "id": "SSH-145",
+      "name": "Minccino",
+      "number": "145",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "minccino"
+      ]
+    },
+    {
+      "id": "SSH-146",
+      "name": "Minccino",
+      "number": "146",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "minccino"
+      ]
+    },
+    {
+      "id": "SSH-147",
+      "name": "Cinccino",
+      "number": "147",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cinccino"
+      ]
+    },
+    {
+      "id": "SSH-148",
+      "name": "Oranguru",
+      "number": "148",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "oranguru"
+      ]
+    },
+    {
+      "id": "SSH-149",
+      "name": "Drampa",
+      "number": "149",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "drampa"
+      ]
+    },
+    {
+      "id": "SSH-150",
+      "name": "Rookidee",
+      "number": "150",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "rookidee"
+      ]
+    },
+    {
+      "id": "SSH-151",
+      "name": "Corvisquire",
+      "number": "151",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "corvisquire"
+      ]
+    },
+    {
+      "id": "SSH-152",
+      "name": "Wooloo",
+      "number": "152",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "wooloo"
+      ]
+    },
+    {
+      "id": "SSH-153",
+      "name": "Wooloo",
+      "number": "153",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "wooloo"
+      ]
+    },
+    {
+      "id": "SSH-154",
+      "name": "Dubwool",
+      "number": "154",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "dubwool"
+      ]
+    },
+    {
+      "id": "SSH-155",
+      "name": "Cramorant V",
+      "number": "155",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cramorant v",
+        "cramorant"
+      ]
+    },
+    {
+      "id": "SSH-156",
+      "name": "Air Balloon",
+      "number": "156",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "air",
+        "air balloon",
+        "balloon"
+      ]
+    },
+    {
+      "id": "SSH-157",
+      "name": "Bede",
+      "number": "157",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "bede"
+      ]
+    },
+    {
+      "id": "SSH-158",
+      "name": "Big Charm",
+      "number": "158",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "charm",
+        "big",
+        "big charm"
+      ]
+    },
+    {
+      "id": "SSH-159",
+      "name": "Crushing Hammer",
+      "number": "159",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "hammer",
+        "crushing hammer",
+        "crushing"
+      ]
+    },
+    {
+      "id": "SSH-160",
+      "name": "Energy Retrieval",
+      "number": "160",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "retrieval",
+        "energy retrieval",
+        "energy"
+      ]
+    },
+    {
+      "id": "SSH-161",
+      "name": "Energy Search",
+      "number": "161",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "search",
+        "energy search",
+        "energy"
+      ]
+    },
+    {
+      "id": "SSH-162",
+      "name": "Energy Switch",
+      "number": "162",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "switch",
+        "energy switch",
+        "energy"
+      ]
+    },
+    {
+      "id": "SSH-163",
+      "name": "Evolution Incense",
+      "number": "163",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "incense",
+        "evolution",
+        "evolution incense"
+      ]
+    },
+    {
+      "id": "SSH-164",
+      "name": "Great Ball",
+      "number": "164",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "ball",
+        "great",
+        "great ball"
+      ]
+    },
+    {
+      "id": "SSH-165",
+      "name": "Hop",
+      "number": "165",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "hop"
+      ]
+    },
+    {
+      "id": "SSH-166",
+      "name": "Hyper Potion",
+      "number": "166",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "potion",
+        "hyper",
+        "hyper potion"
+      ]
+    },
+    {
+      "id": "SSH-167",
+      "name": "Lucky Egg",
+      "number": "167",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "egg",
+        "lucky",
+        "lucky egg"
+      ]
+    },
+    {
+      "id": "SSH-168",
+      "name": "Lum Berry",
+      "number": "168",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "lum",
+        "berry",
+        "lum berry"
+      ]
+    },
+    {
+      "id": "SSH-169",
+      "name": "Marnie",
+      "number": "169",
+      "rarity": "Holo Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "marnie"
+      ]
+    },
+    {
+      "id": "SSH-170",
+      "name": "Metal Saucer",
+      "number": "170",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "metal saucer",
+        "saucer",
+        "metal"
+      ]
+    },
+    {
+      "id": "SSH-171",
+      "name": "Ordinary Rod",
+      "number": "171",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "ordinary",
+        "ordinary rod",
+        "rod"
+      ]
+    },
+    {
+      "id": "SSH-172",
+      "name": "Pal Pad",
+      "number": "172",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "pal",
+        "pad",
+        "pal pad"
+      ]
+    },
+    {
+      "id": "SSH-173",
+      "name": "Poké Kid",
+      "number": "173",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "kid",
+        "poké kid",
+        "poké"
+      ]
+    },
+    {
+      "id": "SSH-174",
+      "name": "Pokégear 3.0",
+      "number": "174",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "3.0",
+        "pokégear 3.0",
+        "pokégear"
+      ]
+    },
+    {
+      "id": "SSH-175",
+      "name": "Pokémon Catcher",
+      "number": "175",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "pokémon",
+        "catcher",
+        "pokémon catcher"
+      ]
+    },
+    {
+      "id": "SSH-176",
+      "name": "Pokémon Center Lady",
+      "number": "176",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "lady",
+        "pokémon",
+        "pokémon center lady",
+        "center"
+      ]
+    },
+    {
+      "id": "SSH-177",
+      "name": "Potion",
+      "number": "177",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "potion"
+      ]
+    },
+    {
+      "id": "SSH-178",
+      "name": "Professor’s Research",
+      "number": "178",
+      "rarity": "Holo Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "professor’s research",
+        "professor’s",
+        "research"
+      ]
+    },
+    {
+      "id": "SSH-179",
+      "name": "Quick Ball",
+      "number": "179",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "ball",
+        "quick ball",
+        "quick"
+      ]
+    },
+    {
+      "id": "SSH-180",
+      "name": "Rare Candy",
+      "number": "180",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "rare",
+        "candy",
+        "rare candy"
+      ]
+    },
+    {
+      "id": "SSH-181",
+      "name": "Rotom Bike",
+      "number": "181",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "bike",
+        "rotom",
+        "rotom bike"
+      ]
+    },
+    {
+      "id": "SSH-182",
+      "name": "Sitrus Berry",
+      "number": "182",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "berry",
+        "sitrus berry",
+        "sitrus"
+      ]
+    },
+    {
+      "id": "SSH-183",
+      "name": "Switch",
+      "number": "183",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "switch"
+      ]
+    },
+    {
+      "id": "SSH-184",
+      "name": "Team Yell Grunt",
+      "number": "184",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "team yell grunt",
+        "team",
+        "yell",
+        "grunt"
+      ]
+    },
+    {
+      "id": "SSH-185",
+      "name": "Vitality Band",
+      "number": "185",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "band",
+        "vitality",
+        "vitality band"
+      ]
+    },
+    {
+      "id": "SSH-186",
+      "name": "Aurora Energy",
+      "number": "186",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "aurora energy",
+        "aurora",
+        "energy"
+      ]
+    },
+    {
+      "id": "SSH-187",
+      "name": "Dhelmise V",
+      "number": "187",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "dhelmise v",
+        "dhelmise"
+      ]
+    },
+    {
+      "id": "SSH-188",
+      "name": "Torkoal V",
+      "number": "188",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "torkoal",
+        "torkoal v"
+      ]
+    },
+    {
+      "id": "SSH-189",
+      "name": "Lapras V",
+      "number": "189",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "lapras",
+        "lapras v"
+      ]
+    },
+    {
+      "id": "SSH-190",
+      "name": "Morpeko V",
+      "number": "190",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "morpeko",
+        "morpeko v"
+      ]
+    },
+    {
+      "id": "SSH-191",
+      "name": "Wobbuffet V",
+      "number": "191",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "wobbuffet",
+        "wobbuffet v"
+      ]
+    },
+    {
+      "id": "SSH-192",
+      "name": "Indeedee V",
+      "number": "192",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "indeedee",
+        "indeedee v"
+      ]
+    },
+    {
+      "id": "SSH-193",
+      "name": "Stonjourner V",
+      "number": "193",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "stonjourner v",
+        "stonjourner"
+      ]
+    },
+    {
+      "id": "SSH-194",
+      "name": "Sableye V",
+      "number": "194",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "sableye",
+        "sableye v"
+      ]
+    },
+    {
+      "id": "SSH-195",
+      "name": "Zacian V",
+      "number": "195",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "zacian v",
+        "zacian"
+      ]
+    },
+    {
+      "id": "SSH-196",
+      "name": "Zamazenta V",
+      "number": "196",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "zamazenta v",
+        "zamazenta"
+      ]
+    },
+    {
+      "id": "SSH-197",
+      "name": "Snorlax V",
+      "number": "197",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "snorlax",
+        "snorlax v"
+      ]
+    },
+    {
+      "id": "SSH-198",
+      "name": "Cramorant V",
+      "number": "198",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SSH",
+      "matchingKeywords": [
+        "cramorant v",
+        "cramorant"
+      ]
+    },
+    {
+      "id": "SSH-199",
+      "name": "Bede",
+      "number": "199",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "bede"
+      ]
+    },
+    {
+      "id": "SSH-200",
+      "name": "Marnie",
+      "number": "200",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "marnie"
+      ]
+    },
+    {
+      "id": "SSH-201",
+      "name": "Professor’s Research",
+      "number": "201",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "professor’s research",
+        "professor’s",
+        "research"
+      ]
+    },
+    {
+      "id": "SSH-202",
+      "name": "Team Yell Grunt",
+      "number": "202",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SSH",
+      "matchingKeywords": [
+        "team yell grunt",
+        "team",
+        "yell",
+        "grunt"
+      ]
+    }
+  ]
+}

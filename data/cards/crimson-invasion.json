@@ -1,0 +1,1270 @@
+{
+  "setInfo": {
+    "name": "Crimson Invasion",
+    "code": "CRI",
+    "releaseDate": "2017-11-03",
+    "totalCards": 111
+  },
+  "cards": [
+    {
+      "id": "CRI-1",
+      "name": "Weedle",
+      "number": "1",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "weedle"
+      ]
+    },
+    {
+      "id": "CRI-2",
+      "name": "Kakuna",
+      "number": "2",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "kakuna"
+      ]
+    },
+    {
+      "id": "CRI-3",
+      "name": "Beedrill",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "beedrill"
+      ]
+    },
+    {
+      "id": "CRI-4",
+      "name": "Exeggcute",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "exeggcute"
+      ]
+    },
+    {
+      "id": "CRI-5",
+      "name": "Cacnea",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "cacnea"
+      ]
+    },
+    {
+      "id": "CRI-6",
+      "name": "Cacturne",
+      "number": "6",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "cacturne"
+      ]
+    },
+    {
+      "id": "CRI-7",
+      "name": "Karrablast",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "karrablast"
+      ]
+    },
+    {
+      "id": "CRI-8",
+      "name": "Shelmet",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "shelmet"
+      ]
+    },
+    {
+      "id": "CRI-9",
+      "name": "Accelgor",
+      "number": "9",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "accelgor"
+      ]
+    },
+    {
+      "id": "CRI-10",
+      "name": "Skiddo",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "skiddo"
+      ]
+    },
+    {
+      "id": "CRI-11",
+      "name": "Gogoat",
+      "number": "11",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gogoat"
+      ]
+    },
+    {
+      "id": "CRI-12",
+      "name": "Alolan Marowak",
+      "number": "12",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "alolan marowak",
+        "alolan",
+        "marowak"
+      ]
+    },
+    {
+      "id": "CRI-13",
+      "name": "Numel",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "numel"
+      ]
+    },
+    {
+      "id": "CRI-14",
+      "name": "Camerupt",
+      "number": "14",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "camerupt"
+      ]
+    },
+    {
+      "id": "CRI-15",
+      "name": "Staryu",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "staryu"
+      ]
+    },
+    {
+      "id": "CRI-16",
+      "name": "Starmie",
+      "number": "16",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "starmie"
+      ]
+    },
+    {
+      "id": "CRI-17",
+      "name": "Magikarp",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "magikarp"
+      ]
+    },
+    {
+      "id": "CRI-18",
+      "name": "Gyarados-GX",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gyarados"
+      ]
+    },
+    {
+      "id": "CRI-19",
+      "name": "Swinub",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "swinub"
+      ]
+    },
+    {
+      "id": "CRI-20",
+      "name": "Piloswine",
+      "number": "20",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "piloswine"
+      ]
+    },
+    {
+      "id": "CRI-21",
+      "name": "Mamoswine",
+      "number": "21",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "mamoswine"
+      ]
+    },
+    {
+      "id": "CRI-22",
+      "name": "Remoraid",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "remoraid"
+      ]
+    },
+    {
+      "id": "CRI-23",
+      "name": "Octillery",
+      "number": "23",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "octillery"
+      ]
+    },
+    {
+      "id": "CRI-24",
+      "name": "Corphish",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "corphish"
+      ]
+    },
+    {
+      "id": "CRI-25",
+      "name": "Crawdaunt",
+      "number": "25",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "crawdaunt"
+      ]
+    },
+    {
+      "id": "CRI-26",
+      "name": "Feebas",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "feebas"
+      ]
+    },
+    {
+      "id": "CRI-27",
+      "name": "Milotic",
+      "number": "27",
+      "rarity": "Holo Rare",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "milotic"
+      ]
+    },
+    {
+      "id": "CRI-28",
+      "name": "Regice",
+      "number": "28",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "regice"
+      ]
+    },
+    {
+      "id": "CRI-29",
+      "name": "Shellos",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "shellos"
+      ]
+    },
+    {
+      "id": "CRI-30",
+      "name": "Pikachu",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "pikachu"
+      ]
+    },
+    {
+      "id": "CRI-31",
+      "name": "Alolan Raichu",
+      "number": "31",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "raichu",
+        "alolan",
+        "alolan raichu"
+      ]
+    },
+    {
+      "id": "CRI-32",
+      "name": "Alolan Geodude",
+      "number": "32",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "alolan",
+        "alolan geodude",
+        "geodude"
+      ]
+    },
+    {
+      "id": "CRI-33",
+      "name": "Alolan Graveler",
+      "number": "33",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "alolan graveler",
+        "graveler",
+        "alolan"
+      ]
+    },
+    {
+      "id": "CRI-34",
+      "name": "Alolan Golem-GX",
+      "number": "34",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "alolan golem",
+        "golem-gx",
+        "alolan",
+        "golem"
+      ]
+    },
+    {
+      "id": "CRI-35",
+      "name": "Emolga",
+      "number": "35",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "emolga"
+      ]
+    },
+    {
+      "id": "CRI-36",
+      "name": "Gastly",
+      "number": "36",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gastly"
+      ]
+    },
+    {
+      "id": "CRI-37",
+      "name": "Haunter",
+      "number": "37",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "haunter"
+      ]
+    },
+    {
+      "id": "CRI-38",
+      "name": "Gengar",
+      "number": "38",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gengar"
+      ]
+    },
+    {
+      "id": "CRI-39",
+      "name": "Misdreavus",
+      "number": "39",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "misdreavus"
+      ]
+    },
+    {
+      "id": "CRI-40",
+      "name": "Mismagius",
+      "number": "40",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "mismagius"
+      ]
+    },
+    {
+      "id": "CRI-41",
+      "name": "Spoink",
+      "number": "41",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "spoink"
+      ]
+    },
+    {
+      "id": "CRI-42",
+      "name": "Grumpig",
+      "number": "42",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "grumpig"
+      ]
+    },
+    {
+      "id": "CRI-43",
+      "name": "Chimecho",
+      "number": "43",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "chimecho"
+      ]
+    },
+    {
+      "id": "CRI-44",
+      "name": "Pumpkaboo",
+      "number": "44",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "pumpkaboo"
+      ]
+    },
+    {
+      "id": "CRI-45",
+      "name": "Gourgeist",
+      "number": "45",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gourgeist"
+      ]
+    },
+    {
+      "id": "CRI-46",
+      "name": "Salandit",
+      "number": "46",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "salandit"
+      ]
+    },
+    {
+      "id": "CRI-47",
+      "name": "Salazzle",
+      "number": "47",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "salazzle"
+      ]
+    },
+    {
+      "id": "CRI-48",
+      "name": "Oranguru",
+      "number": "48",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "oranguru"
+      ]
+    },
+    {
+      "id": "CRI-49",
+      "name": "Nihilego-GX",
+      "number": "49",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "nihilego"
+      ]
+    },
+    {
+      "id": "CRI-50",
+      "name": "Mankey",
+      "number": "50",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "mankey"
+      ]
+    },
+    {
+      "id": "CRI-51",
+      "name": "Primeape",
+      "number": "51",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "primeape"
+      ]
+    },
+    {
+      "id": "CRI-52",
+      "name": "Cubone",
+      "number": "52",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "cubone"
+      ]
+    },
+    {
+      "id": "CRI-53",
+      "name": "Regirock",
+      "number": "53",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "regirock"
+      ]
+    },
+    {
+      "id": "CRI-54",
+      "name": "Gastrodon",
+      "number": "54",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gastrodon"
+      ]
+    },
+    {
+      "id": "CRI-55",
+      "name": "Stufful",
+      "number": "55",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "stufful"
+      ]
+    },
+    {
+      "id": "CRI-56",
+      "name": "Bewear",
+      "number": "56",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "bewear"
+      ]
+    },
+    {
+      "id": "CRI-57",
+      "name": "Buzzwole-GX",
+      "number": "57",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "buzzwole"
+      ]
+    },
+    {
+      "id": "CRI-58",
+      "name": "Houndour",
+      "number": "58",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "houndour"
+      ]
+    },
+    {
+      "id": "CRI-59",
+      "name": "Houndoom",
+      "number": "59",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "houndoom"
+      ]
+    },
+    {
+      "id": "CRI-60",
+      "name": "Deino",
+      "number": "60",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "deino"
+      ]
+    },
+    {
+      "id": "CRI-61",
+      "name": "Zweilous",
+      "number": "61",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "zweilous"
+      ]
+    },
+    {
+      "id": "CRI-62",
+      "name": "Hydreigon",
+      "number": "62",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "hydreigon"
+      ]
+    },
+    {
+      "id": "CRI-63",
+      "name": "Guzzlord-GX",
+      "number": "63",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "guzzlord"
+      ]
+    },
+    {
+      "id": "CRI-64",
+      "name": "Mawile",
+      "number": "64",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "mawile"
+      ]
+    },
+    {
+      "id": "CRI-65",
+      "name": "Aron",
+      "number": "65",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "aron"
+      ]
+    },
+    {
+      "id": "CRI-66",
+      "name": "Lairon",
+      "number": "66",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "lairon"
+      ]
+    },
+    {
+      "id": "CRI-67",
+      "name": "Aggron",
+      "number": "67",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "aggron"
+      ]
+    },
+    {
+      "id": "CRI-68",
+      "name": "Registeel",
+      "number": "68",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "registeel"
+      ]
+    },
+    {
+      "id": "CRI-69",
+      "name": "Escavalier",
+      "number": "69",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "escavalier"
+      ]
+    },
+    {
+      "id": "CRI-70",
+      "name": "Kartana-GX",
+      "number": "70",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "kartana"
+      ]
+    },
+    {
+      "id": "CRI-71",
+      "name": "Jigglypuff",
+      "number": "71",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "jigglypuff"
+      ]
+    },
+    {
+      "id": "CRI-72",
+      "name": "Wigglytuff",
+      "number": "72",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "wigglytuff"
+      ]
+    },
+    {
+      "id": "CRI-73",
+      "name": "Xerneas",
+      "number": "73",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "xerneas"
+      ]
+    },
+    {
+      "id": "CRI-74",
+      "name": "Alolan Exeggutor-GX",
+      "number": "74",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "exeggutor-gx",
+        "alolan",
+        "exeggutor",
+        "alolan exeggutor"
+      ]
+    },
+    {
+      "id": "CRI-75",
+      "name": "Jangmo-o",
+      "number": "75",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "jangmo-o"
+      ]
+    },
+    {
+      "id": "CRI-76",
+      "name": "Hakamo-o",
+      "number": "76",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "hakamo-o"
+      ]
+    },
+    {
+      "id": "CRI-77",
+      "name": "Kommo-o",
+      "number": "77",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "kommo-o"
+      ]
+    },
+    {
+      "id": "CRI-78",
+      "name": "Miltank",
+      "number": "78",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "miltank"
+      ]
+    },
+    {
+      "id": "CRI-79",
+      "name": "Swablu",
+      "number": "79",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "swablu"
+      ]
+    },
+    {
+      "id": "CRI-80",
+      "name": "Altaria",
+      "number": "80",
+      "rarity": "Rare",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "altaria"
+      ]
+    },
+    {
+      "id": "CRI-81",
+      "name": "Starly",
+      "number": "81",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "starly"
+      ]
+    },
+    {
+      "id": "CRI-82",
+      "name": "Staravia",
+      "number": "82",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "staravia"
+      ]
+    },
+    {
+      "id": "CRI-83",
+      "name": "Staraptor",
+      "number": "83",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "staraptor"
+      ]
+    },
+    {
+      "id": "CRI-84",
+      "name": "Regigigas",
+      "number": "84",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "regigigas"
+      ]
+    },
+    {
+      "id": "CRI-85",
+      "name": "Minccino",
+      "number": "85",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "minccino"
+      ]
+    },
+    {
+      "id": "CRI-86",
+      "name": "Cinccino",
+      "number": "86",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "cinccino"
+      ]
+    },
+    {
+      "id": "CRI-87",
+      "name": "Bunnelby",
+      "number": "87",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "bunnelby"
+      ]
+    },
+    {
+      "id": "CRI-88",
+      "name": "Diggersby",
+      "number": "88",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "diggersby"
+      ]
+    },
+    {
+      "id": "CRI-89",
+      "name": "Type: Null",
+      "number": "89",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "type null",
+        "null",
+        "type"
+      ]
+    },
+    {
+      "id": "CRI-90",
+      "name": "Silvally-GX",
+      "number": "90",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "silvally"
+      ]
+    },
+    {
+      "id": "CRI-91",
+      "name": "Counter Catcher",
+      "number": "91",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "catcher",
+        "counter catcher",
+        "counter"
+      ]
+    },
+    {
+      "id": "CRI-92",
+      "name": "Dashing Pouch",
+      "number": "92",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "pouch",
+        "dashing",
+        "dashing pouch"
+      ]
+    },
+    {
+      "id": "CRI-93",
+      "name": "Devoured Field",
+      "number": "93",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "devoured",
+        "field",
+        "devoured field"
+      ]
+    },
+    {
+      "id": "CRI-94",
+      "name": "Fighting Memory",
+      "number": "94",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "memory",
+        "fighting",
+        "fighting memory"
+      ]
+    },
+    {
+      "id": "CRI-95",
+      "name": "Gladion",
+      "number": "95",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gladion"
+      ]
+    },
+    {
+      "id": "CRI-96",
+      "name": "Lusamine",
+      "number": "96",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "lusamine"
+      ]
+    },
+    {
+      "id": "CRI-97",
+      "name": "Peeking Red Card",
+      "number": "97",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "card",
+        "peeking red card",
+        "red",
+        "peeking"
+      ]
+    },
+    {
+      "id": "CRI-98",
+      "name": "Psychic Memory",
+      "number": "98",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "psychic",
+        "memory",
+        "psychic memory"
+      ]
+    },
+    {
+      "id": "CRI-99",
+      "name": "Sea of Nothingness",
+      "number": "99",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "sea",
+        "nothingness",
+        "sea of nothingness"
+      ]
+    },
+    {
+      "id": "CRI-100",
+      "name": "Counter Energy",
+      "number": "100",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "counter energy",
+        "counter",
+        "energy"
+      ]
+    },
+    {
+      "id": "CRI-101",
+      "name": "Gyarados-GX",
+      "number": "101",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gyarados"
+      ]
+    },
+    {
+      "id": "CRI-102",
+      "name": "Alolan Golem-GX",
+      "number": "102",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "alolan golem",
+        "golem-gx",
+        "alolan",
+        "golem"
+      ]
+    },
+    {
+      "id": "CRI-103",
+      "name": "Nihilego-GX",
+      "number": "103",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "nihilego"
+      ]
+    },
+    {
+      "id": "CRI-104",
+      "name": "Buzzwole-GX",
+      "number": "104",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "buzzwole"
+      ]
+    },
+    {
+      "id": "CRI-105",
+      "name": "Guzzlord-GX",
+      "number": "105",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "guzzlord"
+      ]
+    },
+    {
+      "id": "CRI-106",
+      "name": "Kartana-GX",
+      "number": "106",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "kartana"
+      ]
+    },
+    {
+      "id": "CRI-107",
+      "name": "Alolan Exeggutor-GX",
+      "number": "107",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "exeggutor-gx",
+        "alolan",
+        "exeggutor",
+        "alolan exeggutor"
+      ]
+    },
+    {
+      "id": "CRI-108",
+      "name": "Silvally-GX",
+      "number": "108",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "CRI",
+      "matchingKeywords": [
+        "silvally"
+      ]
+    },
+    {
+      "id": "CRI-109",
+      "name": "Gladion",
+      "number": "109",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "gladion"
+      ]
+    },
+    {
+      "id": "CRI-110",
+      "name": "Lusamine",
+      "number": "110",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "lusamine"
+      ]
+    },
+    {
+      "id": "CRI-111",
+      "name": "Olivia",
+      "number": "111",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "CRI",
+      "matchingKeywords": [
+        "olivia"
+      ]
+    }
+  ]
+}

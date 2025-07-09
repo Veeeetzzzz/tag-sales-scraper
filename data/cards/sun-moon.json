@@ -1,0 +1,1708 @@
+{
+  "setInfo": {
+    "name": "Sun & Moon",
+    "code": "SUM",
+    "releaseDate": "2017-02-03",
+    "totalCards": 149
+  },
+  "cards": [
+    {
+      "id": "SUM-1",
+      "name": "Caterpie",
+      "number": "1",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "caterpie"
+      ]
+    },
+    {
+      "id": "SUM-2",
+      "name": "Metapod",
+      "number": "2",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "metapod"
+      ]
+    },
+    {
+      "id": "SUM-3",
+      "name": "Butterfree",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "butterfree"
+      ]
+    },
+    {
+      "id": "SUM-4",
+      "name": "Paras",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "paras"
+      ]
+    },
+    {
+      "id": "SUM-5",
+      "name": "Parasect",
+      "number": "5",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "parasect"
+      ]
+    },
+    {
+      "id": "SUM-6",
+      "name": "Pinsir",
+      "number": "6",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "pinsir"
+      ]
+    },
+    {
+      "id": "SUM-7",
+      "name": "Surskit",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "surskit"
+      ]
+    },
+    {
+      "id": "SUM-8",
+      "name": "Masquerain",
+      "number": "8",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "masquerain"
+      ]
+    },
+    {
+      "id": "SUM-9",
+      "name": "Rowlet",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "rowlet"
+      ]
+    },
+    {
+      "id": "SUM-10",
+      "name": "Dartrix",
+      "number": "10",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "dartrix"
+      ]
+    },
+    {
+      "id": "SUM-11",
+      "name": "Decidueye",
+      "number": "11",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "decidueye"
+      ]
+    },
+    {
+      "id": "SUM-12",
+      "name": "Decidueye-GX",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "decidueye"
+      ]
+    },
+    {
+      "id": "SUM-13",
+      "name": "Grubbin",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "grubbin"
+      ]
+    },
+    {
+      "id": "SUM-14",
+      "name": "Fomantis",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "fomantis"
+      ]
+    },
+    {
+      "id": "SUM-15",
+      "name": "Lurantis-GX",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lurantis"
+      ]
+    },
+    {
+      "id": "SUM-16",
+      "name": "Morelull",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "morelull"
+      ]
+    },
+    {
+      "id": "SUM-17",
+      "name": "Shiinotic",
+      "number": "17",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "shiinotic"
+      ]
+    },
+    {
+      "id": "SUM-18",
+      "name": "Bounsweet",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "bounsweet"
+      ]
+    },
+    {
+      "id": "SUM-19",
+      "name": "Steenee",
+      "number": "19",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "steenee"
+      ]
+    },
+    {
+      "id": "SUM-20",
+      "name": "Tsareena",
+      "number": "20",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "tsareena"
+      ]
+    },
+    {
+      "id": "SUM-21",
+      "name": "Growlithe",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "growlithe"
+      ]
+    },
+    {
+      "id": "SUM-22",
+      "name": "Arcanine",
+      "number": "22",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "arcanine"
+      ]
+    },
+    {
+      "id": "SUM-23",
+      "name": "Torkoal",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "torkoal"
+      ]
+    },
+    {
+      "id": "SUM-24",
+      "name": "Litten",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "litten"
+      ]
+    },
+    {
+      "id": "SUM-25",
+      "name": "Torracat",
+      "number": "25",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "torracat"
+      ]
+    },
+    {
+      "id": "SUM-26",
+      "name": "Incineroar",
+      "number": "26",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "incineroar"
+      ]
+    },
+    {
+      "id": "SUM-27",
+      "name": "Incineroar-GX",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "incineroar"
+      ]
+    },
+    {
+      "id": "SUM-28",
+      "name": "Psyduck",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "psyduck"
+      ]
+    },
+    {
+      "id": "SUM-29",
+      "name": "Golduck",
+      "number": "29",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "golduck"
+      ]
+    },
+    {
+      "id": "SUM-30",
+      "name": "Poliwag",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "poliwag"
+      ]
+    },
+    {
+      "id": "SUM-31",
+      "name": "Poliwhirl",
+      "number": "31",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "poliwhirl"
+      ]
+    },
+    {
+      "id": "SUM-32",
+      "name": "Poliwrath",
+      "number": "32",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "poliwrath"
+      ]
+    },
+    {
+      "id": "SUM-33",
+      "name": "Shellder",
+      "number": "33",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "shellder"
+      ]
+    },
+    {
+      "id": "SUM-34",
+      "name": "Cloyster",
+      "number": "34",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "cloyster"
+      ]
+    },
+    {
+      "id": "SUM-35",
+      "name": "Lapras-GX",
+      "number": "35",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lapras"
+      ]
+    },
+    {
+      "id": "SUM-36",
+      "name": "Corsola",
+      "number": "36",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "corsola"
+      ]
+    },
+    {
+      "id": "SUM-37",
+      "name": "Wingull",
+      "number": "37",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "wingull"
+      ]
+    },
+    {
+      "id": "SUM-38",
+      "name": "Pelipper",
+      "number": "38",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "pelipper"
+      ]
+    },
+    {
+      "id": "SUM-39",
+      "name": "Popplio",
+      "number": "39",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "popplio"
+      ]
+    },
+    {
+      "id": "SUM-40",
+      "name": "Brionne",
+      "number": "40",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "brionne"
+      ]
+    },
+    {
+      "id": "SUM-41",
+      "name": "Primarina",
+      "number": "41",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "primarina"
+      ]
+    },
+    {
+      "id": "SUM-42",
+      "name": "Primarina-GX",
+      "number": "42",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "primarina"
+      ]
+    },
+    {
+      "id": "SUM-43",
+      "name": "Crabominable",
+      "number": "43",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "crabominable"
+      ]
+    },
+    {
+      "id": "SUM-44",
+      "name": "Wishiwashi",
+      "number": "44",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "wishiwashi"
+      ]
+    },
+    {
+      "id": "SUM-45",
+      "name": "Dewpider",
+      "number": "45",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "dewpider"
+      ]
+    },
+    {
+      "id": "SUM-46",
+      "name": "Araquanid",
+      "number": "46",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "araquanid"
+      ]
+    },
+    {
+      "id": "SUM-47",
+      "name": "Pyukumuku",
+      "number": "47",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "pyukumuku"
+      ]
+    },
+    {
+      "id": "SUM-48",
+      "name": "Bruxish",
+      "number": "48",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "bruxish"
+      ]
+    },
+    {
+      "id": "SUM-49",
+      "name": "Chinchou",
+      "number": "49",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "chinchou"
+      ]
+    },
+    {
+      "id": "SUM-50",
+      "name": "Lanturn",
+      "number": "50",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lanturn"
+      ]
+    },
+    {
+      "id": "SUM-51",
+      "name": "Charjabug",
+      "number": "51",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "charjabug"
+      ]
+    },
+    {
+      "id": "SUM-52",
+      "name": "Vikavolt",
+      "number": "52",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "vikavolt"
+      ]
+    },
+    {
+      "id": "SUM-53",
+      "name": "Togedemaru",
+      "number": "53",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "togedemaru"
+      ]
+    },
+    {
+      "id": "SUM-54",
+      "name": "Zubat",
+      "number": "54",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "zubat"
+      ]
+    },
+    {
+      "id": "SUM-55",
+      "name": "Golbat",
+      "number": "55",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "golbat"
+      ]
+    },
+    {
+      "id": "SUM-56",
+      "name": "Crobat",
+      "number": "56",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "crobat"
+      ]
+    },
+    {
+      "id": "SUM-57",
+      "name": "Alolan Grimer",
+      "number": "57",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "alolan grimer",
+        "grimer",
+        "alolan"
+      ]
+    },
+    {
+      "id": "SUM-58",
+      "name": "Alolan Muk",
+      "number": "58",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "muk",
+        "alolan",
+        "alolan muk"
+      ]
+    },
+    {
+      "id": "SUM-59",
+      "name": "Drowzee",
+      "number": "59",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "drowzee"
+      ]
+    },
+    {
+      "id": "SUM-60",
+      "name": "Hypno",
+      "number": "60",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "hypno"
+      ]
+    },
+    {
+      "id": "SUM-61",
+      "name": "Espeon-GX",
+      "number": "61",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "espeon"
+      ]
+    },
+    {
+      "id": "SUM-62",
+      "name": "Mareanie",
+      "number": "62",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "mareanie"
+      ]
+    },
+    {
+      "id": "SUM-63",
+      "name": "Toxapex",
+      "number": "63",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "toxapex"
+      ]
+    },
+    {
+      "id": "SUM-64",
+      "name": "Cosmog",
+      "number": "64",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "cosmog"
+      ]
+    },
+    {
+      "id": "SUM-65",
+      "name": "Cosmoem",
+      "number": "65",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "cosmoem"
+      ]
+    },
+    {
+      "id": "SUM-66",
+      "name": "Lunala-GX",
+      "number": "66",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lunala"
+      ]
+    },
+    {
+      "id": "SUM-67",
+      "name": "Makuhita",
+      "number": "67",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "makuhita"
+      ]
+    },
+    {
+      "id": "SUM-68",
+      "name": "Hariyama",
+      "number": "68",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "hariyama"
+      ]
+    },
+    {
+      "id": "SUM-69",
+      "name": "Roggenrola",
+      "number": "69",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "roggenrola"
+      ]
+    },
+    {
+      "id": "SUM-70",
+      "name": "Boldore",
+      "number": "70",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "boldore"
+      ]
+    },
+    {
+      "id": "SUM-71",
+      "name": "Gigalith",
+      "number": "71",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "gigalith"
+      ]
+    },
+    {
+      "id": "SUM-72",
+      "name": "Crabrawler",
+      "number": "72",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "crabrawler"
+      ]
+    },
+    {
+      "id": "SUM-73",
+      "name": "Passimian",
+      "number": "73",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "passimian"
+      ]
+    },
+    {
+      "id": "SUM-74",
+      "name": "Sandygast",
+      "number": "74",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "sandygast"
+      ]
+    },
+    {
+      "id": "SUM-75",
+      "name": "Palossand",
+      "number": "75",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "palossand"
+      ]
+    },
+    {
+      "id": "SUM-76",
+      "name": "Alolan Rattata",
+      "number": "76",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "alolan",
+        "alolan rattata",
+        "rattata"
+      ]
+    },
+    {
+      "id": "SUM-77",
+      "name": "Alolan Raticate",
+      "number": "77",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "alolan",
+        "raticate",
+        "alolan raticate"
+      ]
+    },
+    {
+      "id": "SUM-78",
+      "name": "Alolan Meowth",
+      "number": "78",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "alolan",
+        "alolan meowth",
+        "meowth"
+      ]
+    },
+    {
+      "id": "SUM-79",
+      "name": "Alolan Persian",
+      "number": "79",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "alolan persian",
+        "alolan",
+        "persian"
+      ]
+    },
+    {
+      "id": "SUM-80",
+      "name": "Umbreon-GX",
+      "number": "80",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "umbreon"
+      ]
+    },
+    {
+      "id": "SUM-81",
+      "name": "Carvanha",
+      "number": "81",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "carvanha"
+      ]
+    },
+    {
+      "id": "SUM-82",
+      "name": "Sharpedo",
+      "number": "82",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "sharpedo"
+      ]
+    },
+    {
+      "id": "SUM-83",
+      "name": "Sandile",
+      "number": "83",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "sandile"
+      ]
+    },
+    {
+      "id": "SUM-84",
+      "name": "Krokorok",
+      "number": "84",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "krokorok"
+      ]
+    },
+    {
+      "id": "SUM-85",
+      "name": "Krookodile",
+      "number": "85",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "krookodile"
+      ]
+    },
+    {
+      "id": "SUM-86",
+      "name": "Alolan Diglett",
+      "number": "86",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "diglett",
+        "alolan",
+        "alolan diglett"
+      ]
+    },
+    {
+      "id": "SUM-87",
+      "name": "Alolan Dugtrio",
+      "number": "87",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "alolan",
+        "dugtrio",
+        "alolan dugtrio"
+      ]
+    },
+    {
+      "id": "SUM-88",
+      "name": "Skarmory",
+      "number": "88",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "skarmory"
+      ]
+    },
+    {
+      "id": "SUM-89",
+      "name": "Solgaleo-GX",
+      "number": "89",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "solgaleo"
+      ]
+    },
+    {
+      "id": "SUM-90",
+      "name": "Snubbull",
+      "number": "90",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "snubbull"
+      ]
+    },
+    {
+      "id": "SUM-91",
+      "name": "Granbull",
+      "number": "91",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "granbull"
+      ]
+    },
+    {
+      "id": "SUM-92",
+      "name": "Cutiefly",
+      "number": "92",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "cutiefly"
+      ]
+    },
+    {
+      "id": "SUM-93",
+      "name": "Ribombee",
+      "number": "93",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "ribombee"
+      ]
+    },
+    {
+      "id": "SUM-94",
+      "name": "Dratini",
+      "number": "94",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "dratini"
+      ]
+    },
+    {
+      "id": "SUM-95",
+      "name": "Dragonair",
+      "number": "95",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "dragonair"
+      ]
+    },
+    {
+      "id": "SUM-96",
+      "name": "Dragonite",
+      "number": "96",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "dragonite"
+      ]
+    },
+    {
+      "id": "SUM-97",
+      "name": "Spearow",
+      "number": "97",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "spearow"
+      ]
+    },
+    {
+      "id": "SUM-98",
+      "name": "Fearow",
+      "number": "98",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "fearow"
+      ]
+    },
+    {
+      "id": "SUM-99",
+      "name": "Kangaskhan",
+      "number": "99",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "kangaskhan"
+      ]
+    },
+    {
+      "id": "SUM-100",
+      "name": "Tauros-GX",
+      "number": "100",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "tauros"
+      ]
+    },
+    {
+      "id": "SUM-101",
+      "name": "Eevee",
+      "number": "101",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "eevee"
+      ]
+    },
+    {
+      "id": "SUM-102",
+      "name": "Spinda",
+      "number": "102",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "spinda"
+      ]
+    },
+    {
+      "id": "SUM-103",
+      "name": "Lillipup",
+      "number": "103",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lillipup"
+      ]
+    },
+    {
+      "id": "SUM-104",
+      "name": "Herdier",
+      "number": "104",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "herdier"
+      ]
+    },
+    {
+      "id": "SUM-105",
+      "name": "Stoutland",
+      "number": "105",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "stoutland"
+      ]
+    },
+    {
+      "id": "SUM-106",
+      "name": "Pikipek",
+      "number": "106",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "pikipek"
+      ]
+    },
+    {
+      "id": "SUM-107",
+      "name": "Trumbeak",
+      "number": "107",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "trumbeak"
+      ]
+    },
+    {
+      "id": "SUM-108",
+      "name": "Toucannon",
+      "number": "108",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "toucannon"
+      ]
+    },
+    {
+      "id": "SUM-109",
+      "name": "Yungoos",
+      "number": "109",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "yungoos"
+      ]
+    },
+    {
+      "id": "SUM-110",
+      "name": "Gumshoos-GX",
+      "number": "110",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "gumshoos"
+      ]
+    },
+    {
+      "id": "SUM-111",
+      "name": "Stufful",
+      "number": "111",
+      "rarity": "Common",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "stufful"
+      ]
+    },
+    {
+      "id": "SUM-112",
+      "name": "Bewear",
+      "number": "112",
+      "rarity": "Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "bewear"
+      ]
+    },
+    {
+      "id": "SUM-113",
+      "name": "Oranguru",
+      "number": "113",
+      "rarity": "Holo Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "oranguru"
+      ]
+    },
+    {
+      "id": "SUM-114",
+      "name": "Big Malasada",
+      "number": "114",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "big malasada",
+        "big",
+        "malasada"
+      ]
+    },
+    {
+      "id": "SUM-115",
+      "name": "Crushing Hammer",
+      "number": "115",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "hammer",
+        "crushing hammer",
+        "crushing"
+      ]
+    },
+    {
+      "id": "SUM-116",
+      "name": "Energy Retrieval",
+      "number": "116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "retrieval",
+        "energy retrieval",
+        "energy"
+      ]
+    },
+    {
+      "id": "SUM-117",
+      "name": "Energy Switch",
+      "number": "117",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "switch",
+        "energy switch",
+        "energy"
+      ]
+    },
+    {
+      "id": "SUM-118",
+      "name": "Exp. Share",
+      "number": "118",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "exp.",
+        "share",
+        "exp. share"
+      ]
+    },
+    {
+      "id": "SUM-119",
+      "name": "Great Ball",
+      "number": "119",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "ball",
+        "great",
+        "great ball"
+      ]
+    },
+    {
+      "id": "SUM-120",
+      "name": "Hau",
+      "number": "120",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "hau"
+      ]
+    },
+    {
+      "id": "SUM-121",
+      "name": "Ilima",
+      "number": "121",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "ilima"
+      ]
+    },
+    {
+      "id": "SUM-122",
+      "name": "Lillie",
+      "number": "122",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lillie"
+      ]
+    },
+    {
+      "id": "SUM-123",
+      "name": "Nest Ball",
+      "number": "123",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "ball",
+        "nest ball",
+        "nest"
+      ]
+    },
+    {
+      "id": "SUM-124",
+      "name": "Poison Barb",
+      "number": "124",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "poison",
+        "poison barb",
+        "barb"
+      ]
+    },
+    {
+      "id": "SUM-125",
+      "name": "Poké Ball",
+      "number": "125",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "ball",
+        "poké",
+        "poké ball"
+      ]
+    },
+    {
+      "id": "SUM-126",
+      "name": "Pokémon Catcher",
+      "number": "126",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "pokémon",
+        "catcher",
+        "pokémon catcher"
+      ]
+    },
+    {
+      "id": "SUM-127",
+      "name": "Potion",
+      "number": "127",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "potion"
+      ]
+    },
+    {
+      "id": "SUM-128",
+      "name": "Professor Kukui",
+      "number": "128",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "kukui",
+        "professor",
+        "professor kukui"
+      ]
+    },
+    {
+      "id": "SUM-129",
+      "name": "Rare Candy",
+      "number": "129",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "rare",
+        "candy",
+        "rare candy"
+      ]
+    },
+    {
+      "id": "SUM-130",
+      "name": "Repel",
+      "number": "130",
+      "rarity": "Uncommon",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "repel"
+      ]
+    },
+    {
+      "id": "SUM-131",
+      "name": "Rotom Dex",
+      "number": "131",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "dex",
+        "rotom",
+        "rotom dex"
+      ]
+    },
+    {
+      "id": "SUM-132",
+      "name": "Switch",
+      "number": "132",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "switch"
+      ]
+    },
+    {
+      "id": "SUM-133",
+      "name": "Team Skull Grunt",
+      "number": "133",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "team skull grunt",
+        "team",
+        "skull",
+        "grunt"
+      ]
+    },
+    {
+      "id": "SUM-134",
+      "name": "Timer Ball",
+      "number": "134",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "ball",
+        "timer",
+        "timer ball"
+      ]
+    },
+    {
+      "id": "SUM-135",
+      "name": "Ultra Ball",
+      "number": "135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "ball",
+        "ultra",
+        "ultra ball"
+      ]
+    },
+    {
+      "id": "SUM-136",
+      "name": "Double Colorless Energy",
+      "number": "136",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "double",
+        "double colorless energy",
+        "colorless",
+        "energy"
+      ]
+    },
+    {
+      "id": "SUM-137",
+      "name": "Rainbow Energy",
+      "number": "137",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "rainbow energy",
+        "rainbow",
+        "energy"
+      ]
+    },
+    {
+      "id": "SUM-138",
+      "name": "Lurantis-GX",
+      "number": "138",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lurantis"
+      ]
+    },
+    {
+      "id": "SUM-139",
+      "name": "Lapras-GX",
+      "number": "139",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lapras"
+      ]
+    },
+    {
+      "id": "SUM-140",
+      "name": "Espeon-GX",
+      "number": "140",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "espeon"
+      ]
+    },
+    {
+      "id": "SUM-141",
+      "name": "Lunala-GX",
+      "number": "141",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lunala"
+      ]
+    },
+    {
+      "id": "SUM-142",
+      "name": "Umbreon-GX",
+      "number": "142",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "umbreon"
+      ]
+    },
+    {
+      "id": "SUM-143",
+      "name": "Solgaleo-GX",
+      "number": "143",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "solgaleo"
+      ]
+    },
+    {
+      "id": "SUM-144",
+      "name": "Tauros-GX",
+      "number": "144",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "tauros"
+      ]
+    },
+    {
+      "id": "SUM-145",
+      "name": "Gumshoos-GX",
+      "number": "145",
+      "rarity": "Ultra Rare",
+      "type": "Pokemon",
+      "set": "SUM",
+      "matchingKeywords": [
+        "gumshoos"
+      ]
+    },
+    {
+      "id": "SUM-146",
+      "name": "Ilima",
+      "number": "146",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "ilima"
+      ]
+    },
+    {
+      "id": "SUM-147",
+      "name": "Lillie",
+      "number": "147",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "lillie"
+      ]
+    },
+    {
+      "id": "SUM-148",
+      "name": "Professor Kukui",
+      "number": "148",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "kukui",
+        "professor",
+        "professor kukui"
+      ]
+    },
+    {
+      "id": "SUM-149",
+      "name": "Team Skull Grunt",
+      "number": "149",
+      "rarity": "Ultra Rare",
+      "type": "Trainer",
+      "set": "SUM",
+      "matchingKeywords": [
+        "team skull grunt",
+        "team",
+        "skull",
+        "grunt"
+      ]
+    }
+  ]
+}
