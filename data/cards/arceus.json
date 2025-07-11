@@ -1,0 +1,1709 @@
+{
+  "setInfo": {
+    "name": "Arceus",
+    "series": "Platinum",
+    "releaseDate": "2009-11-04",
+    "totalCards": 99,
+    "symbol": "AR",
+    "logo": "arceus-logo.png"
+  },
+  "cards": [
+    {
+      "id": "arceus-1",
+      "name": "Charizard",
+      "number": "1/99",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "kanto",
+        "starter pokemon",
+        "charizard",
+        "holo",
+        "dragon-like",
+        "fire",
+        "holographic",
+        "starter",
+        "starter evolution"
+      ]
+    },
+    {
+      "id": "arceus-2",
+      "name": "Froslass",
+      "number": "2/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "water",
+        "froslass",
+        "holographic",
+        "holo"
+      ]
+    },
+    {
+      "id": "arceus-3",
+      "name": "Heatran",
+      "number": "3/99",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "holo",
+        "sinnoh",
+        "fire",
+        "legendary",
+        "holographic",
+        "heatran",
+        "lava dome"
+      ]
+    },
+    {
+      "id": "arceus-4",
+      "name": "Kabutops",
+      "number": "4/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "fighting",
+        "kabutops",
+        "holographic",
+        "ancient",
+        "prehistoric",
+        "fossil"
+      ]
+    },
+    {
+      "id": "arceus-5",
+      "name": "Luxray",
+      "number": "5/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "lightning",
+        "luxray",
+        "holo",
+        "holographic"
+      ]
+    },
+    {
+      "id": "arceus-6",
+      "name": "Mothim",
+      "number": "6/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "holo",
+        "grass",
+        "holographic",
+        "mothim"
+      ]
+    },
+    {
+      "id": "arceus-7",
+      "name": "Probopass",
+      "number": "7/99",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "probopass",
+        "metal",
+        "holographic",
+        "holo"
+      ]
+    },
+    {
+      "id": "arceus-8",
+      "name": "Salamence",
+      "number": "8/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "colorless",
+        "holographic",
+        "holo",
+        "salamence"
+      ]
+    },
+    {
+      "id": "arceus-9",
+      "name": "Swalot",
+      "number": "9/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "holo",
+        "swalot",
+        "psychic",
+        "holographic"
+      ]
+    },
+    {
+      "id": "arceus-10",
+      "name": "Tangrowth",
+      "number": "10/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "tangrowth",
+        "grass",
+        "holographic"
+      ]
+    },
+    {
+      "id": "arceus-11",
+      "name": "Toxicroak",
+      "number": "11/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "toxicroak",
+        "fighting",
+        "holographic",
+        "holo"
+      ]
+    },
+    {
+      "id": "arceus-12",
+      "name": "Zapdos",
+      "number": "12/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "sp",
+        "zapdos pokémon g",
+        "kanto",
+        "zapdos",
+        "holo",
+        "galactic",
+        "pokemon g",
+        "electric",
+        "team galactic",
+        "thunder",
+        "g",
+        "lightning",
+        "holographic",
+        "legendary"
+      ]
+    },
+    {
+      "id": "arceus-13",
+      "name": "Aerodactyl",
+      "number": "13/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "fighting",
+        "aerodactyl",
+        "ancient",
+        "prehistoric",
+        "fossil"
+      ]
+    },
+    {
+      "id": "arceus-14",
+      "name": "Bronzong",
+      "number": "14/99",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "metal",
+        "bronzong"
+      ]
+    },
+    {
+      "id": "arceus-15",
+      "name": "Cherrim",
+      "number": "15/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "cherrim",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-16",
+      "name": "Gengar",
+      "number": "16/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "psychic",
+        "gengar"
+      ]
+    },
+    {
+      "id": "arceus-17",
+      "name": "Gengar",
+      "number": "17/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "psychic",
+        "gengar"
+      ]
+    },
+    {
+      "id": "arceus-18",
+      "name": "Glalie",
+      "number": "18/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "water",
+        "glalie"
+      ]
+    },
+    {
+      "id": "arceus-19",
+      "name": "Golem",
+      "number": "19/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "fighting",
+        "golem"
+      ]
+    },
+    {
+      "id": "arceus-20",
+      "name": "Hariyama",
+      "number": "20/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "hariyama",
+        "fighting"
+      ]
+    },
+    {
+      "id": "arceus-21",
+      "name": "Lopunny",
+      "number": "21/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "lopunny",
+        "colorless"
+      ]
+    },
+    {
+      "id": "arceus-22",
+      "name": "Manectric",
+      "number": "22/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "manectric",
+        "lightning"
+      ]
+    },
+    {
+      "id": "arceus-23",
+      "name": "Omastar",
+      "number": "23/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "omastar",
+        "water",
+        "ancient",
+        "prehistoric",
+        "fossil"
+      ]
+    },
+    {
+      "id": "arceus-24",
+      "name": "Pelipper",
+      "number": "24/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "pelipper",
+        "water"
+      ]
+    },
+    {
+      "id": "arceus-25",
+      "name": "Pichu",
+      "number": "25/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 30,
+      "keywords": [
+        "pichu",
+        "lightning"
+      ]
+    },
+    {
+      "id": "arceus-26",
+      "name": "Porygon-Z",
+      "number": "26/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "sp",
+        "colorless",
+        "porygon-z pokémon g",
+        "z",
+        "galactic",
+        "pokemon g",
+        "team galactic",
+        "g",
+        "porygon"
+      ]
+    },
+    {
+      "id": "arceus-27",
+      "name": "Raichu",
+      "number": "27/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "raichu",
+        "lightning"
+      ]
+    },
+    {
+      "id": "arceus-28",
+      "name": "Rapidash",
+      "number": "28/99",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "rapidash",
+        "fire"
+      ]
+    },
+    {
+      "id": "arceus-29",
+      "name": "Raticate",
+      "number": "29/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "raticate"
+      ]
+    },
+    {
+      "id": "arceus-30",
+      "name": "Sceptile",
+      "number": "30/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "starter pokemon",
+        "starter",
+        "sceptile",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-31",
+      "name": "Sceptile",
+      "number": "31/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "starter pokemon",
+        "starter",
+        "sceptile",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-32",
+      "name": "Spiritomb",
+      "number": "32/99",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "spiritomb",
+        "darkness"
+      ]
+    },
+    {
+      "id": "arceus-33",
+      "name": "Bronzong",
+      "number": "33/99",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "metal",
+        "bronzong"
+      ]
+    },
+    {
+      "id": "arceus-34",
+      "name": "Bronzor",
+      "number": "34/99",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "metal",
+        "bronzor"
+      ]
+    },
+    {
+      "id": "arceus-35",
+      "name": "Charmeleon",
+      "number": "35/99",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "starter pokemon",
+        "starter",
+        "charmeleon",
+        "fire"
+      ]
+    },
+    {
+      "id": "arceus-36",
+      "name": "Gastly",
+      "number": "36/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "gastly",
+        "psychic"
+      ]
+    },
+    {
+      "id": "arceus-37",
+      "name": "Graveler",
+      "number": "37/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "fighting",
+        "graveler"
+      ]
+    },
+    {
+      "id": "arceus-38",
+      "name": "Grovyle",
+      "number": "38/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "starter pokemon",
+        "starter",
+        "grovyle",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-39",
+      "name": "Grovyle",
+      "number": "39/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "starter pokemon",
+        "starter",
+        "grovyle",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-40",
+      "name": "Gulpin",
+      "number": "40/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "gulpin",
+        "psychic"
+      ]
+    },
+    {
+      "id": "arceus-41",
+      "name": "Haunter",
+      "number": "41/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "haunter",
+        "psychic"
+      ]
+    },
+    {
+      "id": "arceus-42",
+      "name": "Haunter",
+      "number": "42/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "haunter",
+        "psychic"
+      ]
+    },
+    {
+      "id": "arceus-43",
+      "name": "Luxio",
+      "number": "43/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "luxio",
+        "lightning"
+      ]
+    },
+    {
+      "id": "arceus-44",
+      "name": "Manectric",
+      "number": "44/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "manectric",
+        "lightning"
+      ]
+    },
+    {
+      "id": "arceus-45",
+      "name": "Pelipper",
+      "number": "45/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "pelipper",
+        "water"
+      ]
+    },
+    {
+      "id": "arceus-46",
+      "name": "Ponyta",
+      "number": "46/99",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "fire",
+        "ponyta"
+      ]
+    },
+    {
+      "id": "arceus-47",
+      "name": "Rapidash",
+      "number": "47/99",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "rapidash",
+        "fire"
+      ]
+    },
+    {
+      "id": "arceus-48",
+      "name": "Shelgon",
+      "number": "48/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "colorless",
+        "shelgon"
+      ]
+    },
+    {
+      "id": "arceus-49",
+      "name": "Wormadam Plant Cloak",
+      "number": "49/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Plant Cloak"
+      ],
+      "keywords": [
+        "wormadam plant cloak",
+        "grass",
+        "cloak",
+        "plant cloak",
+        "wormadam",
+        "grass form",
+        "plant"
+      ]
+    },
+    {
+      "id": "arceus-50",
+      "name": "Wormadam Sandy Cloak",
+      "number": "50/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Sandy Cloak"
+      ],
+      "keywords": [
+        "wormadam sandy cloak",
+        "ground form",
+        "fighting",
+        "cloak",
+        "sandy",
+        "sandy cloak",
+        "wormadam"
+      ]
+    },
+    {
+      "id": "arceus-51",
+      "name": "Wormadam Trash Cloak",
+      "number": "51/99",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Trash Cloak"
+      ],
+      "keywords": [
+        "steel form",
+        "metal",
+        "cloak",
+        "trash",
+        "wormadam trash cloak",
+        "trash cloak",
+        "wormadam"
+      ]
+    },
+    {
+      "id": "arceus-52",
+      "name": "Bagon",
+      "number": "52/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "bagon"
+      ]
+    },
+    {
+      "id": "arceus-53",
+      "name": "Beedrill",
+      "number": "53/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "sp",
+        "grass",
+        "beedrill pokémon g",
+        "pokemon g",
+        "galactic",
+        "team galactic",
+        "g",
+        "beedrill"
+      ]
+    },
+    {
+      "id": "arceus-54",
+      "name": "Bronzor",
+      "number": "54/99",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "metal",
+        "bronzor"
+      ]
+    },
+    {
+      "id": "arceus-55",
+      "name": "Buneary",
+      "number": "55/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "buneary"
+      ]
+    },
+    {
+      "id": "arceus-56",
+      "name": "Burmy Plant Cloak",
+      "number": "56/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Plant Cloak"
+      ],
+      "keywords": [
+        "grass",
+        "burmy plant cloak",
+        "cloak",
+        "plant cloak",
+        "burmy",
+        "grass form",
+        "plant"
+      ]
+    },
+    {
+      "id": "arceus-57",
+      "name": "Burmy Sandy Cloak",
+      "number": "57/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Sandy Cloak"
+      ],
+      "keywords": [
+        "burmy sandy cloak",
+        "grass",
+        "ground form",
+        "cloak",
+        "sandy",
+        "burmy",
+        "sandy cloak"
+      ]
+    },
+    {
+      "id": "arceus-58",
+      "name": "Burmy Trash Cloak",
+      "number": "58/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Trash Cloak"
+      ],
+      "keywords": [
+        "grass",
+        "steel form",
+        "cloak",
+        "trash",
+        "burmy",
+        "trash cloak",
+        "burmy trash cloak"
+      ]
+    },
+    {
+      "id": "arceus-59",
+      "name": "Charmander",
+      "number": "59/99",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fire",
+        "starter",
+        "starter pokemon",
+        "charmander"
+      ]
+    },
+    {
+      "id": "arceus-60",
+      "name": "Cherubi",
+      "number": "60/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "cherubi",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-61",
+      "name": "Croagunk",
+      "number": "61/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "croagunk",
+        "fighting"
+      ]
+    },
+    {
+      "id": "arceus-62",
+      "name": "Electrike",
+      "number": "62/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "electrike",
+        "lightning"
+      ]
+    },
+    {
+      "id": "arceus-63",
+      "name": "Electrike",
+      "number": "63/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "electrike",
+        "lightning"
+      ]
+    },
+    {
+      "id": "arceus-64",
+      "name": "Gastly",
+      "number": "64/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "gastly",
+        "psychic"
+      ]
+    },
+    {
+      "id": "arceus-65",
+      "name": "Geodude",
+      "number": "65/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "geodude",
+        "fighting"
+      ]
+    },
+    {
+      "id": "arceus-66",
+      "name": "Gulpin",
+      "number": "66/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "gulpin",
+        "psychic"
+      ]
+    },
+    {
+      "id": "arceus-67",
+      "name": "Kabuto",
+      "number": "67/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "fighting",
+        "kabuto",
+        "ancient",
+        "prehistoric",
+        "fossil"
+      ]
+    },
+    {
+      "id": "arceus-68",
+      "name": "Makuhita",
+      "number": "68/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "makuhita",
+        "fighting"
+      ]
+    },
+    {
+      "id": "arceus-69",
+      "name": "Nosepass",
+      "number": "69/99",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fighting",
+        "nosepass"
+      ]
+    },
+    {
+      "id": "arceus-70",
+      "name": "Omanyte",
+      "number": "70/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "water",
+        "omanyte",
+        "ancient",
+        "prehistoric",
+        "fossil"
+      ]
+    },
+    {
+      "id": "arceus-71",
+      "name": "Pikachu",
+      "number": "71/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "pikachu",
+        "lightning"
+      ]
+    },
+    {
+      "id": "arceus-72",
+      "name": "Ponyta",
+      "number": "72/99",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fire",
+        "ponyta"
+      ]
+    },
+    {
+      "id": "arceus-73",
+      "name": "Rattata",
+      "number": "73/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "rattata",
+        "colorless"
+      ]
+    },
+    {
+      "id": "arceus-74",
+      "name": "Shinx",
+      "number": "74/99",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "lightning",
+        "shinx"
+      ]
+    },
+    {
+      "id": "arceus-75",
+      "name": "Snorunt",
+      "number": "75/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "snorunt"
+      ]
+    },
+    {
+      "id": "arceus-76",
+      "name": "Tangela",
+      "number": "76/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "tangela",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-77",
+      "name": "Tangela",
+      "number": "77/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "tangela",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-78",
+      "name": "Treecko",
+      "number": "78/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter pokemon",
+        "starter",
+        "treecko",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-79",
+      "name": "Treecko",
+      "number": "79/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter pokemon",
+        "starter",
+        "treecko",
+        "grass"
+      ]
+    },
+    {
+      "id": "arceus-80",
+      "name": "Wingull",
+      "number": "80/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "wingull",
+        "water"
+      ]
+    },
+    {
+      "id": "arceus-81",
+      "name": "Wingull",
+      "number": "81/99",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "wingull",
+        "water"
+      ]
+    },
+    {
+      "id": "arceus-82",
+      "name": "Beginning Door",
+      "number": "82/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "beginning door",
+        "beginning",
+        "door"
+      ]
+    },
+    {
+      "id": "arceus-83",
+      "name": "Bench Shield",
+      "number": "83/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "shield",
+        "bench",
+        "bench shield"
+      ]
+    },
+    {
+      "id": "arceus-84",
+      "name": "Buffer Piece",
+      "number": "84/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "buffer",
+        "buffer piece",
+        "piece"
+      ]
+    },
+    {
+      "id": "arceus-85",
+      "name": "Department Store Girl",
+      "number": "85/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "store",
+        "girl",
+        "department",
+        "department store girl",
+        "department store",
+        "shopping"
+      ]
+    },
+    {
+      "id": "arceus-86",
+      "name": "Energy Restore",
+      "number": "86/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "energy restore",
+        "restore",
+        "energy"
+      ]
+    },
+    {
+      "id": "arceus-87",
+      "name": "Expert Belt",
+      "number": "87/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "belt",
+        "expert belt",
+        "expert"
+      ]
+    },
+    {
+      "id": "arceus-88",
+      "name": "Lucky Egg",
+      "number": "88/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "lucky egg",
+        "lucky",
+        "egg"
+      ]
+    },
+    {
+      "id": "arceus-89",
+      "name": "Old Amber",
+      "number": "89/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "amber",
+        "old",
+        "old amber",
+        "revival",
+        "ancient",
+        "fossil"
+      ]
+    },
+    {
+      "id": "arceus-90",
+      "name": "Professor Oak's Visit",
+      "number": "90/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "kanto",
+        "professor",
+        "professor oak",
+        "visit",
+        "professor oak's visit",
+        "s",
+        "oak",
+        "research"
+      ]
+    },
+    {
+      "id": "arceus-91",
+      "name": "Ultimate Zone",
+      "number": "91/99",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "ultimate zone",
+        "zone",
+        "ultimate"
+      ]
+    },
+    {
+      "id": "arceus-92",
+      "name": "Dome Fossil",
+      "number": "92/99",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Trainer",
+      "keywords": [
+        "dome fossil",
+        "dome",
+        "revival",
+        "ancient",
+        "fossil"
+      ]
+    },
+    {
+      "id": "arceus-93",
+      "name": "Helix Fossil",
+      "number": "93/99",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Trainer",
+      "keywords": [
+        "helix fossil",
+        "revival",
+        "helix",
+        "ancient",
+        "fossil"
+      ]
+    },
+    {
+      "id": "arceus-94",
+      "name": "Arceus LV.X",
+      "number": "94/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "creator",
+        "x",
+        "colorless",
+        "original one",
+        "lvx",
+        "arceus lv.x",
+        "holo",
+        "arceus",
+        "sinnoh",
+        "lv",
+        "holographic",
+        "legendary",
+        "alpha pokemon",
+        "level x",
+        "mythical"
+      ]
+    },
+    {
+      "id": "arceus-95",
+      "name": "Arceus LV.X",
+      "number": "95/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "creator",
+        "x",
+        "colorless",
+        "original one",
+        "lvx",
+        "arceus lv.x",
+        "holo",
+        "arceus",
+        "sinnoh",
+        "lv",
+        "holographic",
+        "legendary",
+        "alpha pokemon",
+        "level x",
+        "mythical"
+      ]
+    },
+    {
+      "id": "arceus-96",
+      "name": "Arceus LV.X",
+      "number": "96/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "creator",
+        "x",
+        "colorless",
+        "original one",
+        "lvx",
+        "arceus lv.x",
+        "holo",
+        "arceus",
+        "sinnoh",
+        "lv",
+        "holographic",
+        "legendary",
+        "alpha pokemon",
+        "level x",
+        "mythical"
+      ]
+    },
+    {
+      "id": "arceus-97",
+      "name": "Gengar LV.X",
+      "number": "97/99",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "x",
+        "lvx",
+        "psychic",
+        "holo",
+        "lv",
+        "holographic",
+        "gengar lv.x",
+        "level x",
+        "gengar"
+      ]
+    },
+    {
+      "id": "arceus-98",
+      "name": "Salamence LV.X",
+      "number": "98/99",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "colorless",
+        "x",
+        "lvx",
+        "holo",
+        "salamence",
+        "lv",
+        "holographic",
+        "salamence lv.x",
+        "level x"
+      ]
+    },
+    {
+      "id": "arceus-99",
+      "name": "Tangrowth LV.X",
+      "number": "99/99",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "x",
+        "tangrowth",
+        "lvx",
+        "grass",
+        "holo",
+        "lv",
+        "tangrowth lv.x",
+        "holographic",
+        "level x"
+      ]
+    }
+  ]
+}

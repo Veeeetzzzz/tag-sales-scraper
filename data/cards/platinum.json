@@ -1,0 +1,2189 @@
+{
+  "setInfo": {
+    "name": "Platinum",
+    "series": "Platinum",
+    "releaseDate": "2009-02-11",
+    "totalCards": 130,
+    "symbol": "PL",
+    "logo": "platinum-logo.png"
+  },
+  "cards": [
+    {
+      "id": "platinum-1",
+      "name": "Ampharos",
+      "number": "1/127",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "ampharos",
+        "holographic",
+        "lightning",
+        "holo"
+      ]
+    },
+    {
+      "id": "platinum-2",
+      "name": "Blastoise",
+      "number": "2/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "water",
+        "holographic",
+        "blastoise",
+        "holo"
+      ]
+    },
+    {
+      "id": "platinum-3",
+      "name": "Blaziken",
+      "number": "3/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "blaziken",
+        "holographic",
+        "fire",
+        "holo"
+      ]
+    },
+    {
+      "id": "platinum-4",
+      "name": "Delcatty",
+      "number": "4/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "holographic",
+        "holo",
+        "delcatty"
+      ]
+    },
+    {
+      "id": "platinum-5",
+      "name": "Dialga",
+      "number": "5/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "legendary",
+        "holo",
+        "sinnoh",
+        "temporal",
+        "metal",
+        "holographic",
+        "dialga"
+      ]
+    },
+    {
+      "id": "platinum-6",
+      "name": "Dialga",
+      "number": "6/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "legendary",
+        "holo",
+        "sinnoh",
+        "temporal",
+        "metal",
+        "holographic",
+        "dialga"
+      ]
+    },
+    {
+      "id": "platinum-7",
+      "name": "Dialga",
+      "number": "7/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "legendary",
+        "pokemon g",
+        "holo",
+        "team galactic",
+        "sinnoh",
+        "g",
+        "temporal",
+        "metal",
+        "galactic",
+        "holographic",
+        "dialga",
+        "dialga pokémon g"
+      ]
+    },
+    {
+      "id": "platinum-8",
+      "name": "Gardevoir",
+      "number": "8/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holographic",
+        "psychic",
+        "holo",
+        "gardevoir"
+      ]
+    },
+    {
+      "id": "platinum-9",
+      "name": "Giratina",
+      "number": "9/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "legendary",
+        "psychic",
+        "holo",
+        "sinnoh",
+        "giratina",
+        "holographic",
+        "distortion"
+      ]
+    },
+    {
+      "id": "platinum-10",
+      "name": "Giratina",
+      "number": "10/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "legendary",
+        "psychic",
+        "holo",
+        "sinnoh",
+        "giratina",
+        "holographic",
+        "distortion"
+      ]
+    },
+    {
+      "id": "platinum-11",
+      "name": "Manectric",
+      "number": "11/127",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "holographic",
+        "manectric",
+        "lightning",
+        "holo"
+      ]
+    },
+    {
+      "id": "platinum-12",
+      "name": "Palkia",
+      "number": "12/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "legendary",
+        "holo",
+        "team galactic",
+        "water",
+        "sinnoh",
+        "g",
+        "galactic",
+        "palkia pokémon g",
+        "spatial",
+        "holographic",
+        "pokemon g",
+        "palkia"
+      ]
+    },
+    {
+      "id": "platinum-13",
+      "name": "Rampardos",
+      "number": "13/127",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "holographic",
+        "fighting",
+        "holo",
+        "rampardos"
+      ]
+    },
+    {
+      "id": "platinum-14",
+      "name": "Shaymin",
+      "number": "14/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "legendary",
+        "holo",
+        "shaymin",
+        "gratitude",
+        "grass",
+        "holographic",
+        "mythical"
+      ]
+    },
+    {
+      "id": "platinum-15",
+      "name": "Shaymin",
+      "number": "15/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "legendary",
+        "holo",
+        "shaymin",
+        "gratitude",
+        "grass",
+        "holographic",
+        "mythical"
+      ]
+    },
+    {
+      "id": "platinum-16",
+      "name": "Slaking",
+      "number": "16/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "holographic",
+        "slaking",
+        "holo"
+      ]
+    },
+    {
+      "id": "platinum-17",
+      "name": "Weavile",
+      "number": "17/127",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "weavile pokémon g",
+        "holo",
+        "darkness",
+        "team galactic",
+        "g",
+        "galactic",
+        "holographic",
+        "pokemon g",
+        "weavile"
+      ]
+    },
+    {
+      "id": "platinum-18",
+      "name": "Altaria",
+      "number": "18/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "altaria"
+      ]
+    },
+    {
+      "id": "platinum-19",
+      "name": "Banette",
+      "number": "19/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "psychic",
+        "banette"
+      ]
+    },
+    {
+      "id": "platinum-20",
+      "name": "Bastiodon",
+      "number": "20/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "bastiodon",
+        "metal"
+      ]
+    },
+    {
+      "id": "platinum-21",
+      "name": "Beautifly",
+      "number": "21/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "beautifly",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-22",
+      "name": "Blissey",
+      "number": "22/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "blissey"
+      ]
+    },
+    {
+      "id": "platinum-23",
+      "name": "Dialga",
+      "number": "23/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "legendary",
+        "sinnoh",
+        "temporal",
+        "metal",
+        "dialga"
+      ]
+    },
+    {
+      "id": "platinum-24",
+      "name": "Dugtrio",
+      "number": "24/127",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "dugtrio",
+        "fighting"
+      ]
+    },
+    {
+      "id": "platinum-25",
+      "name": "Dustox",
+      "number": "25/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "dustox",
+        "psychic"
+      ]
+    },
+    {
+      "id": "platinum-26",
+      "name": "Empoleon",
+      "number": "26/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "water",
+        "empoleon"
+      ]
+    },
+    {
+      "id": "platinum-27",
+      "name": "Giratina",
+      "number": "27/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "legendary",
+        "psychic",
+        "sinnoh",
+        "giratina",
+        "distortion"
+      ]
+    },
+    {
+      "id": "platinum-28",
+      "name": "Giratina",
+      "number": "28/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "legendary",
+        "psychic",
+        "sinnoh",
+        "giratina",
+        "distortion"
+      ]
+    },
+    {
+      "id": "platinum-29",
+      "name": "Golduck",
+      "number": "29/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "golduck",
+        "water"
+      ]
+    },
+    {
+      "id": "platinum-30",
+      "name": "Gyarados",
+      "number": "30/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "team galactic",
+        "water",
+        "gyarados",
+        "g",
+        "gyarados pokémon g",
+        "galactic",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "platinum-31",
+      "name": "Infernape",
+      "number": "31/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "fire",
+        "infernape"
+      ]
+    },
+    {
+      "id": "platinum-32",
+      "name": "Kricketune",
+      "number": "32/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "grass",
+        "kricketune"
+      ]
+    },
+    {
+      "id": "platinum-33",
+      "name": "Lickilicky",
+      "number": "33/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "lickilicky"
+      ]
+    },
+    {
+      "id": "platinum-34",
+      "name": "Ludicolo",
+      "number": "34/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "grass",
+        "ludicolo"
+      ]
+    },
+    {
+      "id": "platinum-35",
+      "name": "Luvdisc",
+      "number": "35/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "water",
+        "luvdisc"
+      ]
+    },
+    {
+      "id": "platinum-36",
+      "name": "Ninetales",
+      "number": "36/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "ninetales",
+        "fire"
+      ]
+    },
+    {
+      "id": "platinum-37",
+      "name": "Palkia",
+      "number": "37/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "legendary",
+        "water",
+        "sinnoh",
+        "spatial",
+        "palkia"
+      ]
+    },
+    {
+      "id": "platinum-38",
+      "name": "Shaymin",
+      "number": "38/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "legendary",
+        "shaymin",
+        "gratitude",
+        "grass",
+        "mythical"
+      ]
+    },
+    {
+      "id": "platinum-39",
+      "name": "Torterra",
+      "number": "39/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "torterra",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-40",
+      "name": "Toxicroak",
+      "number": "40/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "psychic",
+        "team galactic",
+        "toxicroak",
+        "g",
+        "galactic",
+        "toxicroak pokémon g",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "platinum-41",
+      "name": "Bronzong",
+      "number": "41/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "team galactic",
+        "bronzong pokémon g",
+        "g",
+        "metal",
+        "galactic",
+        "bronzong",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "platinum-42",
+      "name": "Cacturne",
+      "number": "42/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "grass",
+        "cacturne"
+      ]
+    },
+    {
+      "id": "platinum-43",
+      "name": "Carnivine",
+      "number": "43/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "grass",
+        "carnivine"
+      ]
+    },
+    {
+      "id": "platinum-44",
+      "name": "Cascoon",
+      "number": "44/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "cascoon",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-45",
+      "name": "Combusken",
+      "number": "45/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "fire",
+        "combusken"
+      ]
+    },
+    {
+      "id": "platinum-46",
+      "name": "Cranidos",
+      "number": "46/127",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "fighting",
+        "cranidos"
+      ]
+    },
+    {
+      "id": "platinum-47",
+      "name": "Crobat",
+      "number": "47/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "psychic",
+        "team galactic",
+        "g",
+        "crobat pokémon g",
+        "galactic",
+        "crobat",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "platinum-48",
+      "name": "Flaaffy",
+      "number": "48/127",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "flaaffy",
+        "lightning"
+      ]
+    },
+    {
+      "id": "platinum-49",
+      "name": "Grotle",
+      "number": "49/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "grotle",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-50",
+      "name": "Houndoom",
+      "number": "50/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "team galactic",
+        "fire",
+        "houndoom pokémon g",
+        "g",
+        "galactic",
+        "houndoom",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "platinum-51",
+      "name": "Kirlia",
+      "number": "51/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "psychic",
+        "kirlia"
+      ]
+    },
+    {
+      "id": "platinum-52",
+      "name": "Lombre",
+      "number": "52/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "grass",
+        "lombre"
+      ]
+    },
+    {
+      "id": "platinum-53",
+      "name": "Lucario",
+      "number": "53/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "metal",
+        "lucario"
+      ]
+    },
+    {
+      "id": "platinum-54",
+      "name": "Mightyena",
+      "number": "54/127",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "mightyena",
+        "darkness"
+      ]
+    },
+    {
+      "id": "platinum-55",
+      "name": "Mismagius",
+      "number": "55/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "mismagius",
+        "psychic"
+      ]
+    },
+    {
+      "id": "platinum-56",
+      "name": "Monferno",
+      "number": "56/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "monferno",
+        "fire"
+      ]
+    },
+    {
+      "id": "platinum-57",
+      "name": "Muk",
+      "number": "57/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "muk",
+        "psychic"
+      ]
+    },
+    {
+      "id": "platinum-58",
+      "name": "Octillery",
+      "number": "58/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "water",
+        "octillery"
+      ]
+    },
+    {
+      "id": "platinum-59",
+      "name": "Prinplup",
+      "number": "59/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "water",
+        "prinplup"
+      ]
+    },
+    {
+      "id": "platinum-60",
+      "name": "Probopass",
+      "number": "60/127",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "probopass",
+        "fighting"
+      ]
+    },
+    {
+      "id": "platinum-61",
+      "name": "Seviper",
+      "number": "61/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "seviper",
+        "psychic"
+      ]
+    },
+    {
+      "id": "platinum-62",
+      "name": "Shieldon",
+      "number": "62/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "metal",
+        "shieldon"
+      ]
+    },
+    {
+      "id": "platinum-63",
+      "name": "Silcoon",
+      "number": "63/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "grass",
+        "silcoon"
+      ]
+    },
+    {
+      "id": "platinum-64",
+      "name": "Vigoroth",
+      "number": "64/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "colorless",
+        "vigoroth"
+      ]
+    },
+    {
+      "id": "platinum-65",
+      "name": "Wartortle",
+      "number": "65/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "water",
+        "wartortle"
+      ]
+    },
+    {
+      "id": "platinum-66",
+      "name": "Zangoose",
+      "number": "66/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "colorless",
+        "zangoose"
+      ]
+    },
+    {
+      "id": "platinum-67",
+      "name": "Cacnea",
+      "number": "67/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "cacnea",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-68",
+      "name": "Carnivine",
+      "number": "68/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "carnivine"
+      ]
+    },
+    {
+      "id": "platinum-69",
+      "name": "Chansey",
+      "number": "69/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "chansey"
+      ]
+    },
+    {
+      "id": "platinum-70",
+      "name": "Chimchar",
+      "number": "70/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "chimchar",
+        "fire"
+      ]
+    },
+    {
+      "id": "platinum-71",
+      "name": "Combee",
+      "number": "71/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "combee",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-72",
+      "name": "Diglett",
+      "number": "72/127",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "diglett",
+        "fighting"
+      ]
+    },
+    {
+      "id": "platinum-73",
+      "name": "Dunsparce",
+      "number": "73/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "dunsparce"
+      ]
+    },
+    {
+      "id": "platinum-74",
+      "name": "Electrike",
+      "number": "74/127",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "electrike",
+        "lightning"
+      ]
+    },
+    {
+      "id": "platinum-75",
+      "name": "Grimer",
+      "number": "75/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grimer",
+        "psychic"
+      ]
+    },
+    {
+      "id": "platinum-76",
+      "name": "Happiny",
+      "number": "76/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "happiny"
+      ]
+    },
+    {
+      "id": "platinum-77",
+      "name": "Honchkrow",
+      "number": "77/127",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "honchkrow pokémon g",
+        "team galactic",
+        "g",
+        "honchkrow",
+        "galactic",
+        "pokemon g",
+        "darkness"
+      ]
+    },
+    {
+      "id": "platinum-78",
+      "name": "Kricketot",
+      "number": "78/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "kricketot"
+      ]
+    },
+    {
+      "id": "platinum-79",
+      "name": "Lapras",
+      "number": "79/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "lapras"
+      ]
+    },
+    {
+      "id": "platinum-80",
+      "name": "Lickitung",
+      "number": "80/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "lickitung"
+      ]
+    },
+    {
+      "id": "platinum-81",
+      "name": "Lotad",
+      "number": "81/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "lotad",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-82",
+      "name": "Mareep",
+      "number": "82/127",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "mareep",
+        "lightning"
+      ]
+    },
+    {
+      "id": "platinum-83",
+      "name": "Misdreavus",
+      "number": "83/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "misdreavus"
+      ]
+    },
+    {
+      "id": "platinum-84",
+      "name": "Nosepass",
+      "number": "84/127",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fighting",
+        "nosepass"
+      ]
+    },
+    {
+      "id": "platinum-85",
+      "name": "Piplup",
+      "number": "85/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "piplup",
+        "water"
+      ]
+    },
+    {
+      "id": "platinum-86",
+      "name": "Poochyena",
+      "number": "86/127",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "poochyena",
+        "darkness"
+      ]
+    },
+    {
+      "id": "platinum-87",
+      "name": "Psyduck",
+      "number": "87/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "psyduck"
+      ]
+    },
+    {
+      "id": "platinum-88",
+      "name": "Purugly",
+      "number": "88/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "team galactic",
+        "colorless",
+        "g",
+        "purugly",
+        "galactic",
+        "purugly pokémon g",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "platinum-89",
+      "name": "Ralts",
+      "number": "89/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "ralts",
+        "psychic"
+      ]
+    },
+    {
+      "id": "platinum-90",
+      "name": "Remoraid",
+      "number": "90/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "remoraid"
+      ]
+    },
+    {
+      "id": "platinum-91",
+      "name": "Riolu",
+      "number": "91/127",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "riolu",
+        "fighting"
+      ]
+    },
+    {
+      "id": "platinum-92",
+      "name": "Shuppet",
+      "number": "92/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "shuppet"
+      ]
+    },
+    {
+      "id": "platinum-93",
+      "name": "Skitty",
+      "number": "93/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "skitty"
+      ]
+    },
+    {
+      "id": "platinum-94",
+      "name": "Skuntank",
+      "number": "94/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "psychic",
+        "skuntank",
+        "team galactic",
+        "g",
+        "skuntank pokémon g",
+        "galactic",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "platinum-95",
+      "name": "Slakoth",
+      "number": "95/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "slakoth",
+        "colorless"
+      ]
+    },
+    {
+      "id": "platinum-96",
+      "name": "Squirtle",
+      "number": "96/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "squirtle"
+      ]
+    },
+    {
+      "id": "platinum-97",
+      "name": "Swablu",
+      "number": "97/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "swablu"
+      ]
+    },
+    {
+      "id": "platinum-98",
+      "name": "Tauros",
+      "number": "98/127",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "tauros"
+      ]
+    },
+    {
+      "id": "platinum-99",
+      "name": "Torchic",
+      "number": "99/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fire",
+        "torchic"
+      ]
+    },
+    {
+      "id": "platinum-100",
+      "name": "Torkoal",
+      "number": "100/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "torkoal",
+        "fire"
+      ]
+    },
+    {
+      "id": "platinum-101",
+      "name": "Turtwig",
+      "number": "101/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "turtwig",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-102",
+      "name": "Vulpix",
+      "number": "102/127",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fire",
+        "vulpix"
+      ]
+    },
+    {
+      "id": "platinum-103",
+      "name": "Wurmple",
+      "number": "103/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "wurmple",
+        "grass"
+      ]
+    },
+    {
+      "id": "platinum-104",
+      "name": "Broken Time-Space",
+      "number": "104/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "broken time-space",
+        "broken",
+        "space",
+        "time"
+      ]
+    },
+    {
+      "id": "platinum-105",
+      "name": "Cyrus's Conspiracy",
+      "number": "105/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "cyrus",
+        "cyrus's conspiracy",
+        "s",
+        "conspiracy"
+      ]
+    },
+    {
+      "id": "platinum-106",
+      "name": "Galactic HQ",
+      "number": "106/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "galactic",
+        "hq",
+        "galactic hq"
+      ]
+    },
+    {
+      "id": "platinum-107",
+      "name": "Level Max",
+      "number": "107/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "level max",
+        "max",
+        "level"
+      ]
+    },
+    {
+      "id": "platinum-108",
+      "name": "Life Herb",
+      "number": "108/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "herb",
+        "life herb",
+        "life"
+      ]
+    },
+    {
+      "id": "platinum-109",
+      "name": "Looker's Investigation",
+      "number": "109/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "investigation",
+        "looker",
+        "s",
+        "looker's investigation"
+      ]
+    },
+    {
+      "id": "platinum-110",
+      "name": "Memory Berry",
+      "number": "110/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "berry",
+        "memory",
+        "memory berry"
+      ]
+    },
+    {
+      "id": "platinum-111",
+      "name": "Miasma Valley",
+      "number": "111/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "miasma",
+        "valley",
+        "miasma valley"
+      ]
+    },
+    {
+      "id": "platinum-112",
+      "name": "PlusPower",
+      "number": "112/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "pluspower"
+      ]
+    },
+    {
+      "id": "platinum-113",
+      "name": "Poké Ball",
+      "number": "113/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "poké ball",
+        "ball"
+      ]
+    },
+    {
+      "id": "platinum-114",
+      "name": "Pokédex HANDY910is",
+      "number": "114/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "pokédex handy910is"
+      ]
+    },
+    {
+      "id": "platinum-115",
+      "name": "Pokémon Rescue",
+      "number": "115/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "rescue",
+        "pokémon rescue"
+      ]
+    },
+    {
+      "id": "platinum-116",
+      "name": "Team Galactic's Invention G-101 Energy Gain",
+      "number": "116/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "team galactic's invention g-101 energy gain",
+        "gain",
+        "invention",
+        "g",
+        "s",
+        "galactic",
+        "energy",
+        "team"
+      ]
+    },
+    {
+      "id": "platinum-117",
+      "name": "Team Galactic's Invention G-103 Power Spray",
+      "number": "117/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "team galactic's invention g-103 power spray",
+        "spray",
+        "power",
+        "invention",
+        "g",
+        "s",
+        "galactic",
+        "team"
+      ]
+    },
+    {
+      "id": "platinum-118",
+      "name": "Team Galactic's Invention G-105 Poké Turn",
+      "number": "118/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "invention",
+        "turn",
+        "team galactic's invention g-105 poké turn",
+        "g",
+        "s",
+        "galactic",
+        "team"
+      ]
+    },
+    {
+      "id": "platinum-119",
+      "name": "Armor Fossil",
+      "number": "119/127",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Trainer",
+      "keywords": [
+        "armor fossil",
+        "armor",
+        "fossil"
+      ]
+    },
+    {
+      "id": "platinum-120",
+      "name": "Skull Fossil",
+      "number": "120/127",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Trainer",
+      "keywords": [
+        "fossil",
+        "skull",
+        "skull fossil"
+      ]
+    },
+    {
+      "id": "platinum-121",
+      "name": "Rainbow Energy",
+      "number": "121/127",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "rainbow",
+        "energy",
+        "rainbow energy"
+      ]
+    },
+    {
+      "id": "platinum-122",
+      "name": "Dialga LV.X",
+      "number": "122/127",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon G",
+        "LV.X"
+      ],
+      "keywords": [
+        "legendary",
+        "holo",
+        "team galactic",
+        "lvx",
+        "sinnoh",
+        "g",
+        "dialga pokémon g lv.x",
+        "temporal",
+        "metal",
+        "galactic",
+        "lv",
+        "level x",
+        "holographic",
+        "dialga",
+        "pokemon g",
+        "x"
+      ]
+    },
+    {
+      "id": "platinum-123",
+      "name": "Drapion LV.X",
+      "number": "123/127",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "holographic",
+        "holo",
+        "lvx",
+        "lv",
+        "drapion",
+        "drapion lv.x",
+        "level x",
+        "darkness",
+        "x"
+      ]
+    },
+    {
+      "id": "platinum-124",
+      "name": "Giratina LV.X",
+      "number": "124/127",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "giratina lv.x",
+        "legendary",
+        "psychic",
+        "holo",
+        "lvx",
+        "sinnoh",
+        "giratina",
+        "lv",
+        "holographic",
+        "level x",
+        "distortion",
+        "x"
+      ]
+    },
+    {
+      "id": "platinum-125",
+      "name": "Palkia LV.X",
+      "number": "125/127",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon G",
+        "LV.X"
+      ],
+      "keywords": [
+        "legendary",
+        "holo",
+        "team galactic",
+        "lvx",
+        "water",
+        "sinnoh",
+        "g",
+        "palkia pokémon g lv.x",
+        "galactic",
+        "lv",
+        "spatial",
+        "holographic",
+        "level x",
+        "pokemon g",
+        "palkia",
+        "x"
+      ]
+    },
+    {
+      "id": "platinum-126",
+      "name": "Shaymin LV.X",
+      "number": "126/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "shaymin lv.x",
+        "legendary",
+        "holo",
+        "shaymin",
+        "lvx",
+        "lv",
+        "gratitude",
+        "grass",
+        "holographic",
+        "level x",
+        "mythical",
+        "x"
+      ]
+    },
+    {
+      "id": "platinum-127",
+      "name": "Shaymin LV.X",
+      "number": "127/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "shaymin lv.x",
+        "legendary",
+        "holo",
+        "shaymin",
+        "lvx",
+        "lv",
+        "gratitude",
+        "grass",
+        "holographic",
+        "level x",
+        "mythical",
+        "x"
+      ]
+    },
+    {
+      "id": "platinum-128",
+      "name": "Electabuzz",
+      "number": "128/127",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "secret rare",
+        "secret",
+        "electabuzz",
+        "lightning"
+      ]
+    },
+    {
+      "id": "platinum-129",
+      "name": "Hitmonchan",
+      "number": "129/127",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "secret",
+        "secret rare",
+        "fighting",
+        "hitmonchan"
+      ]
+    },
+    {
+      "id": "platinum-130",
+      "name": "Scyther",
+      "number": "130/127",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "scyther",
+        "secret",
+        "secret rare",
+        "grass"
+      ]
+    }
+  ]
+}

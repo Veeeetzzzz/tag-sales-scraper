@@ -1,0 +1,1661 @@
+{
+  "setInfo": {
+    "name": "Unleashed",
+    "series": "HeartGold & SoulSilver",
+    "releaseDate": "2010-05-12",
+    "totalCards": 96,
+    "symbol": "UL",
+    "logo": "unleashed-logo.png"
+  },
+  "cards": [
+    {
+      "id": "unleashed-1",
+      "name": "Jirachi",
+      "number": "1/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "holographic",
+        "psychic",
+        "hoenn",
+        "holo",
+        "wish",
+        "mythical",
+        "legendary",
+        "jirachi"
+      ]
+    },
+    {
+      "id": "unleashed-2",
+      "name": "Magmortar",
+      "number": "2/95",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "fire",
+        "magmortar"
+      ]
+    },
+    {
+      "id": "unleashed-3",
+      "name": "Manaphy",
+      "number": "3/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "manaphy",
+        "prince of the sea",
+        "holographic",
+        "sinnoh",
+        "holo",
+        "mythical",
+        "legendary",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-4",
+      "name": "Metagross",
+      "number": "4/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "metagross",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-5",
+      "name": "Mismagius",
+      "number": "5/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "mismagius",
+        "holo",
+        "holographic",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-6",
+      "name": "Octillery",
+      "number": "6/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holographic",
+        "holo",
+        "water",
+        "octillery"
+      ]
+    },
+    {
+      "id": "unleashed-7",
+      "name": "Politoed",
+      "number": "7/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "politoed",
+        "holographic",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-8",
+      "name": "Shaymin",
+      "number": "8/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "holographic",
+        "sinnoh",
+        "shaymin",
+        "grass",
+        "gratitude",
+        "holo",
+        "mythical",
+        "legendary"
+      ]
+    },
+    {
+      "id": "unleashed-9",
+      "name": "Sudowoodo",
+      "number": "9/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "holo",
+        "sudowoodo",
+        "holographic",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-10",
+      "name": "Torterra",
+      "number": "10/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "starter pokemon",
+        "holographic",
+        "torterra",
+        "grass",
+        "holo",
+        "starter"
+      ]
+    },
+    {
+      "id": "unleashed-11",
+      "name": "Xatu",
+      "number": "11/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "xatu",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-12",
+      "name": "Beedrill",
+      "number": "12/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "grass",
+        "beedrill"
+      ]
+    },
+    {
+      "id": "unleashed-13",
+      "name": "Blastoise",
+      "number": "13/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "starter",
+        "water",
+        "blastoise",
+        "starter pokemon"
+      ]
+    },
+    {
+      "id": "unleashed-14",
+      "name": "Crobat",
+      "number": "14/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "psychic",
+        "crobat"
+      ]
+    },
+    {
+      "id": "unleashed-15",
+      "name": "Fearow",
+      "number": "15/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "fearow",
+        "colorless"
+      ]
+    },
+    {
+      "id": "unleashed-16",
+      "name": "Floatzel",
+      "number": "16/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "floatzel",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-17",
+      "name": "Kingdra",
+      "number": "17/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "kingdra",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-18",
+      "name": "Lanturn",
+      "number": "18/95",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "lightning",
+        "lanturn"
+      ]
+    },
+    {
+      "id": "unleashed-19",
+      "name": "Lucario",
+      "number": "19/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "lucario",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-20",
+      "name": "Ninetales",
+      "number": "20/95",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "ninetales",
+        "fire"
+      ]
+    },
+    {
+      "id": "unleashed-21",
+      "name": "Poliwrath",
+      "number": "21/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "water",
+        "poliwrath"
+      ]
+    },
+    {
+      "id": "unleashed-22",
+      "name": "Primeape",
+      "number": "22/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "primeape",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-23",
+      "name": "Roserade",
+      "number": "23/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "grass",
+        "roserade"
+      ]
+    },
+    {
+      "id": "unleashed-24",
+      "name": "Steelix",
+      "number": "24/95",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "metal",
+        "steelix"
+      ]
+    },
+    {
+      "id": "unleashed-25",
+      "name": "Torkoal",
+      "number": "25/95",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "torkoal",
+        "fire"
+      ]
+    },
+    {
+      "id": "unleashed-26",
+      "name": "Tyranitar",
+      "number": "26/95",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "tyranitar",
+        "darkness"
+      ]
+    },
+    {
+      "id": "unleashed-27",
+      "name": "Ursaring",
+      "number": "27/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "colorless",
+        "ursaring"
+      ]
+    },
+    {
+      "id": "unleashed-28",
+      "name": "Cherrim",
+      "number": "28/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "cherrim",
+        "grass"
+      ]
+    },
+    {
+      "id": "unleashed-29",
+      "name": "Dunsparce",
+      "number": "29/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "colorless",
+        "dunsparce"
+      ]
+    },
+    {
+      "id": "unleashed-30",
+      "name": "Golbat",
+      "number": "30/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "golbat",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-31",
+      "name": "Grotle",
+      "number": "31/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "grass",
+        "starter pokemon",
+        "grotle",
+        "starter"
+      ]
+    },
+    {
+      "id": "unleashed-32",
+      "name": "Kakuna",
+      "number": "32/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "grass",
+        "kakuna"
+      ]
+    },
+    {
+      "id": "unleashed-33",
+      "name": "Metang",
+      "number": "33/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "metang",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-34",
+      "name": "Minun",
+      "number": "34/95",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "minun",
+        "lightning"
+      ]
+    },
+    {
+      "id": "unleashed-35",
+      "name": "Numel",
+      "number": "35/95",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "numel",
+        "fire"
+      ]
+    },
+    {
+      "id": "unleashed-36",
+      "name": "Plusle",
+      "number": "36/95",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "plusle",
+        "lightning"
+      ]
+    },
+    {
+      "id": "unleashed-37",
+      "name": "Poliwhirl",
+      "number": "37/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "poliwhirl",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-38",
+      "name": "Pupitar",
+      "number": "38/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "pupitar",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-39",
+      "name": "Pupitar",
+      "number": "39/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "pupitar",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-40",
+      "name": "Seadra",
+      "number": "40/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "seadra",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-41",
+      "name": "Tauros",
+      "number": "41/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "tauros",
+        "colorless"
+      ]
+    },
+    {
+      "id": "unleashed-42",
+      "name": "Wartortle",
+      "number": "42/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "starter pokemon",
+        "water",
+        "wartortle",
+        "starter"
+      ]
+    },
+    {
+      "id": "unleashed-43",
+      "name": "Aipom",
+      "number": "43/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "aipom"
+      ]
+    },
+    {
+      "id": "unleashed-44",
+      "name": "Beldum",
+      "number": "44/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "beldum",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-45",
+      "name": "Buizel",
+      "number": "45/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "buizel",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-46",
+      "name": "Carnivine",
+      "number": "46/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "carnivine"
+      ]
+    },
+    {
+      "id": "unleashed-47",
+      "name": "Cherubi",
+      "number": "47/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "cherubi"
+      ]
+    },
+    {
+      "id": "unleashed-48",
+      "name": "Chinchou",
+      "number": "48/95",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "lightning",
+        "chinchou"
+      ]
+    },
+    {
+      "id": "unleashed-49",
+      "name": "Horsea",
+      "number": "49/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "horsea"
+      ]
+    },
+    {
+      "id": "unleashed-50",
+      "name": "Larvitar",
+      "number": "50/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "larvitar",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-51",
+      "name": "Larvitar",
+      "number": "51/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "larvitar",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-52",
+      "name": "Magmar",
+      "number": "52/95",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "magmar",
+        "fire"
+      ]
+    },
+    {
+      "id": "unleashed-53",
+      "name": "Mankey",
+      "number": "53/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fighting",
+        "mankey"
+      ]
+    },
+    {
+      "id": "unleashed-54",
+      "name": "Misdreavus",
+      "number": "54/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "misdreavus",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-55",
+      "name": "Natu",
+      "number": "55/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "natu",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-56",
+      "name": "Onix",
+      "number": "56/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "onix",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-57",
+      "name": "Onix",
+      "number": "57/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "onix",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-58",
+      "name": "Poliwag",
+      "number": "58/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "poliwag",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-59",
+      "name": "Remoraid",
+      "number": "59/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "remoraid"
+      ]
+    },
+    {
+      "id": "unleashed-60",
+      "name": "Riolu",
+      "number": "60/95",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "riolu",
+        "fighting"
+      ]
+    },
+    {
+      "id": "unleashed-61",
+      "name": "Roselia",
+      "number": "61/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "roselia",
+        "grass"
+      ]
+    },
+    {
+      "id": "unleashed-62",
+      "name": "Spearow",
+      "number": "62/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "spearow"
+      ]
+    },
+    {
+      "id": "unleashed-63",
+      "name": "Squirtle",
+      "number": "63/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "squirtle",
+        "water",
+        "starter",
+        "starter pokemon"
+      ]
+    },
+    {
+      "id": "unleashed-64",
+      "name": "Stantler",
+      "number": "64/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "stantler"
+      ]
+    },
+    {
+      "id": "unleashed-65",
+      "name": "Teddiursa",
+      "number": "65/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "teddiursa"
+      ]
+    },
+    {
+      "id": "unleashed-66",
+      "name": "Tropius",
+      "number": "66/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "tropius"
+      ]
+    },
+    {
+      "id": "unleashed-67",
+      "name": "Turtwig",
+      "number": "67/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "starter pokemon",
+        "turtwig",
+        "starter"
+      ]
+    },
+    {
+      "id": "unleashed-68",
+      "name": "Vulpix",
+      "number": "68/95",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "vulpix",
+        "fire"
+      ]
+    },
+    {
+      "id": "unleashed-69",
+      "name": "Weedle",
+      "number": "69/95",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "weedle"
+      ]
+    },
+    {
+      "id": "unleashed-70",
+      "name": "Zubat",
+      "number": "70/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "zubat",
+        "psychic"
+      ]
+    },
+    {
+      "id": "unleashed-71",
+      "name": "Cheerleader's Cheer",
+      "number": "71/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "cheer",
+        "support",
+        "cheerleader's cheer",
+        "s",
+        "cheerleader"
+      ]
+    },
+    {
+      "id": "unleashed-72",
+      "name": "Dual Ball",
+      "number": "72/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "dual",
+        "ball",
+        "dual ball"
+      ]
+    },
+    {
+      "id": "unleashed-73",
+      "name": "Emcee's Chatter",
+      "number": "73/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "emcee",
+        "chatter",
+        "emcee's chatter",
+        "s",
+        "announcer"
+      ]
+    },
+    {
+      "id": "unleashed-74",
+      "name": "Energy Returner",
+      "number": "74/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "energy returner",
+        "returner",
+        "energy"
+      ]
+    },
+    {
+      "id": "unleashed-75",
+      "name": "Engineer's Adjustments",
+      "number": "75/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "s",
+        "engineer's adjustments",
+        "engineer",
+        "technical",
+        "adjustments"
+      ]
+    },
+    {
+      "id": "unleashed-76",
+      "name": "Good Rod",
+      "number": "76/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "good rod",
+        "good",
+        "rod"
+      ]
+    },
+    {
+      "id": "unleashed-77",
+      "name": "Interviewer's Questions",
+      "number": "77/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "interviewer",
+        "s",
+        "interviewer's questions",
+        "questions",
+        "media"
+      ]
+    },
+    {
+      "id": "unleashed-78",
+      "name": "Judge",
+      "number": "78/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "referee",
+        "official",
+        "judge"
+      ]
+    },
+    {
+      "id": "unleashed-79",
+      "name": "Life Herb",
+      "number": "79/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "herb",
+        "life",
+        "life herb"
+      ]
+    },
+    {
+      "id": "unleashed-80",
+      "name": "PlusPower",
+      "number": "80/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "pluspower"
+      ]
+    },
+    {
+      "id": "unleashed-81",
+      "name": "Pokémon Circulator",
+      "number": "81/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "pokémon circulator",
+        "circulator"
+      ]
+    },
+    {
+      "id": "unleashed-82",
+      "name": "Rare Candy",
+      "number": "82/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "rare",
+        "rare candy",
+        "classic",
+        "evolution",
+        "candy"
+      ]
+    },
+    {
+      "id": "unleashed-83",
+      "name": "Super Scoop Up",
+      "number": "83/95",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "up",
+        "return",
+        "super",
+        "super scoop up",
+        "classic",
+        "scoop up",
+        "scoop"
+      ]
+    },
+    {
+      "id": "unleashed-84",
+      "name": "Crobat",
+      "number": "84/95",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "super rare",
+        "holographic",
+        "psychic",
+        "holo",
+        "prime",
+        "crobat"
+      ]
+    },
+    {
+      "id": "unleashed-85",
+      "name": "Kingdra",
+      "number": "85/95",
+      "types": [
+        "Water"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "super rare",
+        "holographic",
+        "kingdra",
+        "holo",
+        "prime",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-86",
+      "name": "Lanturn",
+      "number": "86/95",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "super rare",
+        "holographic",
+        "holo",
+        "lightning",
+        "prime",
+        "lanturn"
+      ]
+    },
+    {
+      "id": "unleashed-87",
+      "name": "Steelix",
+      "number": "87/95",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "metal",
+        "holographic",
+        "super rare",
+        "steelix",
+        "holo",
+        "prime"
+      ]
+    },
+    {
+      "id": "unleashed-88",
+      "name": "Tyranitar",
+      "number": "88/95",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "super rare",
+        "holographic",
+        "tyranitar",
+        "holo",
+        "prime",
+        "darkness"
+      ]
+    },
+    {
+      "id": "unleashed-89",
+      "name": "Ursaring",
+      "number": "89/95",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "colorless",
+        "holographic",
+        "super rare",
+        "holo",
+        "prime",
+        "ursaring"
+      ]
+    },
+    {
+      "id": "unleashed-90",
+      "name": "Entei & Raikou LEGEND",
+      "number": "90/95",
+      "types": [
+        "Fire",
+        "Lightning"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND",
+        "Dual"
+      ],
+      "keywords": [
+        "legend",
+        "holographic",
+        "dual card",
+        "raikou",
+        "johto",
+        "lightning",
+        "entei & raikou legend",
+        "thunder",
+        "legendary",
+        "fire beast",
+        "lightning beast",
+        "fire",
+        "legend card",
+        "legendary beasts",
+        "beast",
+        "entei",
+        "combined legendary",
+        "volcano",
+        "holo"
+      ]
+    },
+    {
+      "id": "unleashed-91",
+      "name": "Entei & Raikou LEGEND",
+      "number": "91/95",
+      "types": [
+        "Fire",
+        "Lightning"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND",
+        "Dual"
+      ],
+      "keywords": [
+        "legend",
+        "holographic",
+        "dual card",
+        "raikou",
+        "johto",
+        "lightning",
+        "entei & raikou legend",
+        "thunder",
+        "legendary",
+        "fire beast",
+        "lightning beast",
+        "fire",
+        "legend card",
+        "legendary beasts",
+        "beast",
+        "entei",
+        "combined legendary",
+        "volcano",
+        "holo"
+      ]
+    },
+    {
+      "id": "unleashed-92",
+      "name": "Raikou & Suicune LEGEND",
+      "number": "92/95",
+      "types": [
+        "Lightning",
+        "Water"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND",
+        "Dual"
+      ],
+      "keywords": [
+        "legend",
+        "holographic",
+        "dual card",
+        "raikou",
+        "johto",
+        "lightning",
+        "thunder",
+        "legendary",
+        "suicune",
+        "lightning beast",
+        "water beast",
+        "aurora",
+        "legend card",
+        "legendary beasts",
+        "raikou & suicune legend",
+        "beast",
+        "combined legendary",
+        "holo",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-93",
+      "name": "Raikou & Suicune LEGEND",
+      "number": "93/95",
+      "types": [
+        "Lightning",
+        "Water"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND",
+        "Dual"
+      ],
+      "keywords": [
+        "legend",
+        "holographic",
+        "dual card",
+        "raikou",
+        "johto",
+        "lightning",
+        "thunder",
+        "legendary",
+        "suicune",
+        "lightning beast",
+        "water beast",
+        "aurora",
+        "legend card",
+        "legendary beasts",
+        "raikou & suicune legend",
+        "beast",
+        "combined legendary",
+        "holo",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-94",
+      "name": "Suicune & Entei LEGEND",
+      "number": "94/95",
+      "types": [
+        "Water",
+        "Fire"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND",
+        "Dual"
+      ],
+      "keywords": [
+        "legend",
+        "holographic",
+        "dual card",
+        "suicune & entei legend",
+        "johto",
+        "legendary",
+        "fire beast",
+        "suicune",
+        "fire",
+        "water beast",
+        "aurora",
+        "legend card",
+        "legendary beasts",
+        "beast",
+        "entei",
+        "combined legendary",
+        "volcano",
+        "holo",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-95",
+      "name": "Suicune & Entei LEGEND",
+      "number": "95/95",
+      "types": [
+        "Water",
+        "Fire"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND",
+        "Dual"
+      ],
+      "keywords": [
+        "legend",
+        "holographic",
+        "dual card",
+        "suicune & entei legend",
+        "johto",
+        "legendary",
+        "fire beast",
+        "suicune",
+        "fire",
+        "water beast",
+        "aurora",
+        "legend card",
+        "legendary beasts",
+        "beast",
+        "entei",
+        "combined legendary",
+        "volcano",
+        "holo",
+        "water"
+      ]
+    },
+    {
+      "id": "unleashed-two",
+      "name": "Alph Lithograph",
+      "number": "TWO",
+      "types": [],
+      "rarity": "Rare Secret",
+      "cardType": "Trainer",
+      "keywords": [
+        "secret",
+        "alph lithograph",
+        "lithograph",
+        "ruins of alph",
+        "secret rare",
+        "johto",
+        "alph",
+        "unown",
+        "mystery"
+      ]
+    }
+  ]
+}

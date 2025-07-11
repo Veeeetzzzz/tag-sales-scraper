@@ -1,0 +1,2236 @@
+{
+  "setInfo": {
+    "name": "Rising Rivals",
+    "series": "Platinum",
+    "releaseDate": "2009-05-16",
+    "totalCards": 114,
+    "symbol": "RR",
+    "logo": "rising-rivals-logo.png"
+  },
+  "cards": [
+    {
+      "id": "rising-rivals-1",
+      "name": "Arcanine",
+      "number": "1/111",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "arcanine",
+        "holo",
+        "holographic",
+        "fire"
+      ]
+    },
+    {
+      "id": "rising-rivals-2",
+      "name": "Bastiodon",
+      "number": "2/111",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "bastiodon pokémon gl",
+        "metal",
+        "sp",
+        "gym leader",
+        "gl",
+        "holographic",
+        "bastiodon",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-3",
+      "name": "Darkrai",
+      "number": "3/111",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "legendary",
+        "team galactic",
+        "sinnoh",
+        "darkrai",
+        "sp",
+        "mythical",
+        "g",
+        "holographic",
+        "galactic",
+        "nightmare",
+        "darkrai pokémon g",
+        "holo",
+        "darkness",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "rising-rivals-4",
+      "name": "Floatzel",
+      "number": "4/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "sp",
+        "gym leader",
+        "water",
+        "gl",
+        "floatzel pokémon gl",
+        "holographic",
+        "floatzel",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-5",
+      "name": "Flygon",
+      "number": "5/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "flygon",
+        "colorless"
+      ]
+    },
+    {
+      "id": "rising-rivals-6",
+      "name": "Froslass",
+      "number": "6/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "froslass",
+        "pokemon gl",
+        "sp",
+        "gym leader",
+        "water",
+        "gl",
+        "holographic",
+        "froslass pokémon gl",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-7",
+      "name": "Jirachi",
+      "number": "7/111",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "legendary",
+        "hoenn",
+        "wish",
+        "metal",
+        "mythical",
+        "holographic",
+        "jirachi",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-8",
+      "name": "Lucario",
+      "number": "8/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "fighting",
+        "lucario",
+        "sp",
+        "gym leader",
+        "gl",
+        "holographic",
+        "lucario pokémon gl",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-9",
+      "name": "Luxray",
+      "number": "9/111",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "luxray pokémon gl",
+        "luxray",
+        "sp",
+        "gym leader",
+        "gl",
+        "holographic",
+        "lightning",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-10",
+      "name": "Mismagius",
+      "number": "10/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "psychic",
+        "mismagius",
+        "sp",
+        "mismagius pokémon gl",
+        "gym leader",
+        "gl",
+        "holographic",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-11",
+      "name": "Rampardos",
+      "number": "11/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "fighting",
+        "rampardos",
+        "sp",
+        "gym leader",
+        "gl",
+        "holographic",
+        "holo",
+        "rampardos pokémon gl"
+      ]
+    },
+    {
+      "id": "rising-rivals-12",
+      "name": "Roserade",
+      "number": "12/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "roserade",
+        "roserade pokémon gl",
+        "sp",
+        "gym leader",
+        "gl",
+        "holographic",
+        "holo",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-13",
+      "name": "Shiftry",
+      "number": "13/111",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "shiftry",
+        "holo",
+        "holographic",
+        "darkness"
+      ]
+    },
+    {
+      "id": "rising-rivals-14",
+      "name": "Aggron",
+      "number": "14/111",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "aggron",
+        "metal"
+      ]
+    },
+    {
+      "id": "rising-rivals-15",
+      "name": "Beedrill",
+      "number": "15/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "beedrill",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-16",
+      "name": "Bronzong",
+      "number": "16/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "psychic",
+        "pokemon 4",
+        "elite four",
+        "sp",
+        "bronzong pokémon 4",
+        "bronzong"
+      ]
+    },
+    {
+      "id": "rising-rivals-17",
+      "name": "Drapion",
+      "number": "17/111",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "pokemon 4",
+        "elite four",
+        "drapion",
+        "sp",
+        "drapion pokémon 4",
+        "darkness"
+      ]
+    },
+    {
+      "id": "rising-rivals-18",
+      "name": "Espeon",
+      "number": "18/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "psychic",
+        "pokemon 4",
+        "elite four",
+        "espeon",
+        "sp",
+        "espeon pokémon 4"
+      ]
+    },
+    {
+      "id": "rising-rivals-19",
+      "name": "Flareon",
+      "number": "19/111",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "flareon",
+        "fire"
+      ]
+    },
+    {
+      "id": "rising-rivals-20",
+      "name": "Gallade",
+      "number": "20/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "psychic",
+        "pokemon 4",
+        "gallade pokémon 4",
+        "elite four",
+        "sp",
+        "gallade"
+      ]
+    },
+    {
+      "id": "rising-rivals-21",
+      "name": "Gastrodon East Sea",
+      "number": "21/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "East Sea"
+      ],
+      "keywords": [
+        "east",
+        "pink",
+        "water",
+        "east sea",
+        "gastrodon east sea",
+        "sea",
+        "gastrodon",
+        "form"
+      ]
+    },
+    {
+      "id": "rising-rivals-22",
+      "name": "Gastrodon West Sea",
+      "number": "22/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "West Sea"
+      ],
+      "keywords": [
+        "fighting",
+        "gastrodon west sea",
+        "west sea",
+        "west",
+        "sea",
+        "gastrodon",
+        "form",
+        "brown"
+      ]
+    },
+    {
+      "id": "rising-rivals-23",
+      "name": "Golem",
+      "number": "23/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "fighting",
+        "pokemon 4",
+        "golem pokémon 4",
+        "elite four",
+        "sp",
+        "golem"
+      ]
+    },
+    {
+      "id": "rising-rivals-24",
+      "name": "Heracross",
+      "number": "24/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "pokemon 4",
+        "elite four",
+        "sp",
+        "heracross pokémon 4",
+        "heracross",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-25",
+      "name": "Hippowdon",
+      "number": "25/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "hippowdon",
+        "fighting"
+      ]
+    },
+    {
+      "id": "rising-rivals-26",
+      "name": "Jolteon",
+      "number": "26/111",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "lightning",
+        "jolteon"
+      ]
+    },
+    {
+      "id": "rising-rivals-27",
+      "name": "Mamoswine",
+      "number": "27/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "mamoswine",
+        "mamoswine pokémon gl",
+        "sp",
+        "gym leader",
+        "water",
+        "gl",
+        "pokemon gl"
+      ]
+    },
+    {
+      "id": "rising-rivals-28",
+      "name": "Mr. Mime",
+      "number": "28/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "mr",
+        "psychic",
+        "pokemon 4",
+        "elite four",
+        "mr. mime pokémon 4",
+        "sp",
+        "mime"
+      ]
+    },
+    {
+      "id": "rising-rivals-29",
+      "name": "Nidoking",
+      "number": "29/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "nidoking",
+        "fighting"
+      ]
+    },
+    {
+      "id": "rising-rivals-30",
+      "name": "Nidoqueen",
+      "number": "30/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "psychic",
+        "nidoqueen"
+      ]
+    },
+    {
+      "id": "rising-rivals-31",
+      "name": "Raichu",
+      "number": "31/111",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "raichu pokémon gl",
+        "raichu",
+        "sp",
+        "gym leader",
+        "gl",
+        "lightning",
+        "pokemon gl"
+      ]
+    },
+    {
+      "id": "rising-rivals-32",
+      "name": "Rhyperior",
+      "number": "32/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "fighting",
+        "pokemon 4",
+        "elite four",
+        "sp",
+        "rhyperior pokémon 4",
+        "rhyperior"
+      ]
+    },
+    {
+      "id": "rising-rivals-33",
+      "name": "Snorlax",
+      "number": "33/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "snorlax",
+        "colorless"
+      ]
+    },
+    {
+      "id": "rising-rivals-34",
+      "name": "Vaporeon",
+      "number": "34/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "water",
+        "vaporeon"
+      ]
+    },
+    {
+      "id": "rising-rivals-35",
+      "name": "Vespiquen",
+      "number": "35/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "vespiquen pokémon 4",
+        "pokemon 4",
+        "elite four",
+        "sp",
+        "vespiquen",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-36",
+      "name": "Walrein",
+      "number": "36/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "water",
+        "walrein"
+      ]
+    },
+    {
+      "id": "rising-rivals-37",
+      "name": "Yanmega",
+      "number": "37/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "pokemon 4",
+        "elite four",
+        "yanmega pokémon 4",
+        "sp",
+        "yanmega",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-38",
+      "name": "Alakazam",
+      "number": "38/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "psychic",
+        "pokemon 4",
+        "elite four",
+        "alakazam pokémon 4",
+        "sp",
+        "alakazam"
+      ]
+    },
+    {
+      "id": "rising-rivals-39",
+      "name": "Electrode",
+      "number": "39/111",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "team galactic",
+        "sp",
+        "g",
+        "galactic",
+        "electrode",
+        "lightning",
+        "electrode pokémon g",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "rising-rivals-40",
+      "name": "Gengar",
+      "number": "40/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "gengar",
+        "psychic",
+        "gengar pokémon gl",
+        "sp",
+        "gym leader",
+        "gl",
+        "pokemon gl"
+      ]
+    },
+    {
+      "id": "rising-rivals-41",
+      "name": "Glaceon",
+      "number": "41/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "water",
+        "glaceon"
+      ]
+    },
+    {
+      "id": "rising-rivals-42",
+      "name": "Hippowdon",
+      "number": "42/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "fighting",
+        "pokemon 4",
+        "elite four",
+        "sp",
+        "hippowdon",
+        "hippowdon pokémon 4"
+      ]
+    },
+    {
+      "id": "rising-rivals-43",
+      "name": "Infernape",
+      "number": "43/111",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "infernape pokémon 4",
+        "pokemon 4",
+        "infernape",
+        "elite four",
+        "fire",
+        "sp"
+      ]
+    },
+    {
+      "id": "rising-rivals-44",
+      "name": "Lairon",
+      "number": "44/111",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "lairon",
+        "metal"
+      ]
+    },
+    {
+      "id": "rising-rivals-45",
+      "name": "Leafeon",
+      "number": "45/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "leafeon",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-46",
+      "name": "Machamp",
+      "number": "46/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "fighting",
+        "machamp pokémon gl",
+        "sp",
+        "machamp",
+        "gym leader",
+        "gl",
+        "pokemon gl"
+      ]
+    },
+    {
+      "id": "rising-rivals-47",
+      "name": "Rapidash",
+      "number": "47/111",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "pokemon 4",
+        "rapidash",
+        "elite four",
+        "fire",
+        "sp",
+        "rapidash pokémon 4"
+      ]
+    },
+    {
+      "id": "rising-rivals-48",
+      "name": "Scizor",
+      "number": "48/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "scizor pokémon 4",
+        "pokemon 4",
+        "scizor",
+        "elite four",
+        "sp",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-49",
+      "name": "Sharpedo",
+      "number": "49/111",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "sharpedo",
+        "darkness"
+      ]
+    },
+    {
+      "id": "rising-rivals-50",
+      "name": "Starmie",
+      "number": "50/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "water",
+        "starmie"
+      ]
+    },
+    {
+      "id": "rising-rivals-51",
+      "name": "Steelix",
+      "number": "51/111",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "metal",
+        "sp",
+        "gym leader",
+        "gl",
+        "steelix",
+        "pokemon gl",
+        "steelix pokémon gl"
+      ]
+    },
+    {
+      "id": "rising-rivals-52",
+      "name": "Tropius",
+      "number": "52/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "tropius",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-53",
+      "name": "Vibrava",
+      "number": "53/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "vibrava",
+        "colorless"
+      ]
+    },
+    {
+      "id": "rising-rivals-54",
+      "name": "Whiscash",
+      "number": "54/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "whiscash pokémon 4",
+        "fighting",
+        "pokemon 4",
+        "whiscash",
+        "elite four",
+        "sp"
+      ]
+    },
+    {
+      "id": "rising-rivals-55",
+      "name": "Aerodactyl",
+      "number": "55/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "fighting",
+        "aerodactyl pokémon gl",
+        "sp",
+        "gym leader",
+        "gl",
+        "pokemon gl",
+        "aerodactyl"
+      ]
+    },
+    {
+      "id": "rising-rivals-56",
+      "name": "Ambipom",
+      "number": "56/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "team galactic",
+        "ambipom",
+        "sp",
+        "g",
+        "galactic",
+        "colorless",
+        "ambipom pokémon g",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "rising-rivals-57",
+      "name": "Aron",
+      "number": "57/111",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "metal",
+        "aron"
+      ]
+    },
+    {
+      "id": "rising-rivals-58",
+      "name": "Carvanha",
+      "number": "58/111",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "darkness",
+        "carvanha"
+      ]
+    },
+    {
+      "id": "rising-rivals-59",
+      "name": "Eevee",
+      "number": "59/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "eevee",
+        "colorless"
+      ]
+    },
+    {
+      "id": "rising-rivals-60",
+      "name": "Flareon",
+      "number": "60/111",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "pokemon 4",
+        "flareon",
+        "elite four",
+        "fire",
+        "sp",
+        "flareon pokémon 4"
+      ]
+    },
+    {
+      "id": "rising-rivals-61",
+      "name": "Forretress",
+      "number": "61/111",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "forretress",
+        "forretress pokémon g",
+        "team galactic",
+        "metal",
+        "sp",
+        "g",
+        "galactic",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "rising-rivals-62",
+      "name": "Gliscor",
+      "number": "62/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "gliscor pokémon 4",
+        "fighting",
+        "pokemon 4",
+        "elite four",
+        "sp",
+        "gliscor"
+      ]
+    },
+    {
+      "id": "rising-rivals-63",
+      "name": "Growlithe",
+      "number": "63/111",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "growlithe",
+        "fire"
+      ]
+    },
+    {
+      "id": "rising-rivals-64",
+      "name": "Hippopotas",
+      "number": "64/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "hippopotas",
+        "fighting"
+      ]
+    },
+    {
+      "id": "rising-rivals-65",
+      "name": "Houndoom",
+      "number": "65/111",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon 4"
+      ],
+      "keywords": [
+        "pokemon 4",
+        "houndoom",
+        "houndoom pokémon 4",
+        "elite four",
+        "sp",
+        "darkness"
+      ]
+    },
+    {
+      "id": "rising-rivals-66",
+      "name": "Kakuna",
+      "number": "66/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "kakuna",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-67",
+      "name": "Kecleon",
+      "number": "67/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "kecleon",
+        "colorless"
+      ]
+    },
+    {
+      "id": "rising-rivals-68",
+      "name": "Koffing",
+      "number": "68/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "koffing"
+      ]
+    },
+    {
+      "id": "rising-rivals-69",
+      "name": "Munchlax",
+      "number": "69/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "munchlax",
+        "colorless"
+      ]
+    },
+    {
+      "id": "rising-rivals-70",
+      "name": "Munchlax",
+      "number": "70/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "munchlax",
+        "colorless"
+      ]
+    },
+    {
+      "id": "rising-rivals-71",
+      "name": "Nidoran♀",
+      "number": "71/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "nidoran♀",
+        "nidoran"
+      ]
+    },
+    {
+      "id": "rising-rivals-72",
+      "name": "Nidoran♂",
+      "number": "72/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "nidoran♂",
+        "nidoran"
+      ]
+    },
+    {
+      "id": "rising-rivals-73",
+      "name": "Nidorina",
+      "number": "73/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "nidorina",
+        "psychic"
+      ]
+    },
+    {
+      "id": "rising-rivals-74",
+      "name": "Nidorino",
+      "number": "74/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "nidorino"
+      ]
+    },
+    {
+      "id": "rising-rivals-75",
+      "name": "Nuzleaf",
+      "number": "75/111",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "nuzleaf",
+        "darkness"
+      ]
+    },
+    {
+      "id": "rising-rivals-76",
+      "name": "Quagsire",
+      "number": "76/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "quagsire pokémon gl",
+        "sp",
+        "gym leader",
+        "water",
+        "gl",
+        "pokemon gl",
+        "quagsire"
+      ]
+    },
+    {
+      "id": "rising-rivals-77",
+      "name": "Sealeo",
+      "number": "77/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "sealeo"
+      ]
+    },
+    {
+      "id": "rising-rivals-78",
+      "name": "Seedot",
+      "number": "78/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "seedot",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-79",
+      "name": "Shellos East Sea",
+      "number": "79/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "East Sea"
+      ],
+      "keywords": [
+        "east",
+        "pink",
+        "shellos",
+        "water",
+        "east sea",
+        "sea",
+        "form",
+        "shellos east sea"
+      ]
+    },
+    {
+      "id": "rising-rivals-80",
+      "name": "Shellos West Sea",
+      "number": "80/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "West Sea"
+      ],
+      "keywords": [
+        "shellos",
+        "shellos west sea",
+        "water",
+        "west sea",
+        "west",
+        "sea",
+        "form",
+        "brown"
+      ]
+    },
+    {
+      "id": "rising-rivals-81",
+      "name": "Snorlax",
+      "number": "81/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "snorlax",
+        "colorless"
+      ]
+    },
+    {
+      "id": "rising-rivals-82",
+      "name": "Spheal",
+      "number": "82/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "spheal"
+      ]
+    },
+    {
+      "id": "rising-rivals-83",
+      "name": "Staryu",
+      "number": "83/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "staryu",
+        "water"
+      ]
+    },
+    {
+      "id": "rising-rivals-84",
+      "name": "Trapinch",
+      "number": "84/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "trapinch",
+        "fighting"
+      ]
+    },
+    {
+      "id": "rising-rivals-85",
+      "name": "Turtwig",
+      "number": "85/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "variants": [
+        "Pokémon GL"
+      ],
+      "keywords": [
+        "sp",
+        "gym leader",
+        "gl",
+        "turtwig",
+        "turtwig pokémon gl",
+        "pokemon gl",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-86",
+      "name": "Weedle",
+      "number": "86/111",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "weedle",
+        "grass"
+      ]
+    },
+    {
+      "id": "rising-rivals-87",
+      "name": "Weezing",
+      "number": "87/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "weezing",
+        "psychic"
+      ]
+    },
+    {
+      "id": "rising-rivals-88",
+      "name": "Aaron's Collection",
+      "number": "88/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "aaron",
+        "s",
+        "elite four",
+        "collection",
+        "bug type",
+        "aaron's collection"
+      ]
+    },
+    {
+      "id": "rising-rivals-89",
+      "name": "Bebe's Search",
+      "number": "89/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "bebe's search",
+        "s",
+        "search",
+        "bebe"
+      ]
+    },
+    {
+      "id": "rising-rivals-90",
+      "name": "Bertha's Warmth",
+      "number": "90/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "s",
+        "ground type",
+        "bertha's warmth",
+        "elite four",
+        "bertha",
+        "warmth"
+      ]
+    },
+    {
+      "id": "rising-rivals-91",
+      "name": "Flint's Willpower",
+      "number": "91/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "s",
+        "fire type",
+        "flint",
+        "elite four",
+        "willpower",
+        "flint's willpower"
+      ]
+    },
+    {
+      "id": "rising-rivals-92",
+      "name": "Lucian's Assignment",
+      "number": "92/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "s",
+        "psychic type",
+        "assignment",
+        "elite four",
+        "lucian's assignment",
+        "lucian"
+      ]
+    },
+    {
+      "id": "rising-rivals-93",
+      "name": "Pokémon Contest Hall",
+      "number": "93/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "contest",
+        "pokémon contest hall",
+        "hall"
+      ]
+    },
+    {
+      "id": "rising-rivals-94",
+      "name": "Sunyshore City Gym",
+      "number": "94/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "gym",
+        "city",
+        "sunyshore",
+        "sunyshore city gym"
+      ]
+    },
+    {
+      "id": "rising-rivals-95",
+      "name": "Team Galactic's Invention G-107 Technical Machine",
+      "number": "95/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "s",
+        "machine",
+        "team galactic",
+        "invention",
+        "sp",
+        "technical",
+        "g",
+        "team",
+        "galactic",
+        "team galactic's invention g-107 technical machine pokémon g",
+        "pokemon g"
+      ]
+    },
+    {
+      "id": "rising-rivals-96",
+      "name": "Team Galactic's Invention G-109 SP Radar",
+      "number": "96/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "s",
+        "team galactic's invention g-109 sp radar",
+        "radar",
+        "invention",
+        "sp",
+        "g",
+        "team",
+        "galactic"
+      ]
+    },
+    {
+      "id": "rising-rivals-97",
+      "name": "Underground Expedition",
+      "number": "97/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "underground",
+        "expedition",
+        "underground expedition"
+      ]
+    },
+    {
+      "id": "rising-rivals-98",
+      "name": "Volkner's Philosophy",
+      "number": "98/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "s",
+        "electric type",
+        "volkner",
+        "philosophy",
+        "gym leader",
+        "volkner's philosophy"
+      ]
+    },
+    {
+      "id": "rising-rivals-99",
+      "name": "Darkness Energy",
+      "number": "99/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "darkness energy",
+        "darkness",
+        "energy"
+      ]
+    },
+    {
+      "id": "rising-rivals-100",
+      "name": "Metal Energy",
+      "number": "100/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "metal",
+        "metal energy",
+        "energy"
+      ]
+    },
+    {
+      "id": "rising-rivals-101",
+      "name": "SP Energy",
+      "number": "101/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "energy",
+        "sp energy",
+        "sp"
+      ]
+    },
+    {
+      "id": "rising-rivals-102",
+      "name": "Upper Energy",
+      "number": "102/111",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "energy",
+        "upper",
+        "upper energy"
+      ]
+    },
+    {
+      "id": "rising-rivals-103",
+      "name": "Alakazam",
+      "number": "103/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon 4",
+        "LV.X"
+      ],
+      "keywords": [
+        "psychic",
+        "pokemon 4",
+        "lvx",
+        "alakazam pokémon 4 lv.x",
+        "elite four",
+        "sp",
+        "level x",
+        "alakazam",
+        "holographic",
+        "x",
+        "lv",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-104",
+      "name": "Floatzel",
+      "number": "104/111",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon GL",
+        "LV.X"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "lvx",
+        "sp",
+        "gym leader",
+        "water",
+        "gl",
+        "holographic",
+        "level x",
+        "x",
+        "lv",
+        "floatzel pokémon gl lv.x",
+        "holo",
+        "floatzel"
+      ]
+    },
+    {
+      "id": "rising-rivals-105",
+      "name": "Flygon LV.X",
+      "number": "105/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "lv",
+        "lvx",
+        "flygon",
+        "level x",
+        "holographic",
+        "x",
+        "colorless",
+        "holo",
+        "flygon lv.x"
+      ]
+    },
+    {
+      "id": "rising-rivals-106",
+      "name": "Gallade",
+      "number": "106/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon 4",
+        "LV.X"
+      ],
+      "keywords": [
+        "psychic",
+        "pokemon 4",
+        "lvx",
+        "elite four",
+        "sp",
+        "level x",
+        "gallade pokémon 4 lv.x",
+        "holographic",
+        "x",
+        "lv",
+        "holo",
+        "gallade"
+      ]
+    },
+    {
+      "id": "rising-rivals-107",
+      "name": "Hippowdon LV.X",
+      "number": "107/111",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "fighting",
+        "lvx",
+        "holo",
+        "level x",
+        "holographic",
+        "hippowdon",
+        "x",
+        "lv",
+        "hippowdon lv.x"
+      ]
+    },
+    {
+      "id": "rising-rivals-108",
+      "name": "Infernape",
+      "number": "108/111",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon 4",
+        "LV.X"
+      ],
+      "keywords": [
+        "pokemon 4",
+        "infernape",
+        "lvx",
+        "elite four",
+        "fire",
+        "sp",
+        "level x",
+        "holographic",
+        "x",
+        "lv",
+        "infernape pokémon 4 lv.x",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-109",
+      "name": "Luxray",
+      "number": "109/111",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon GL",
+        "LV.X"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "luxray pokémon gl lv.x",
+        "lvx",
+        "luxray",
+        "sp",
+        "gym leader",
+        "level x",
+        "gl",
+        "holographic",
+        "x",
+        "lv",
+        "lightning",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-110",
+      "name": "Mismagius",
+      "number": "110/111",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon GL",
+        "LV.X"
+      ],
+      "keywords": [
+        "pokemon gl",
+        "psychic",
+        "mismagius",
+        "lvx",
+        "sp",
+        "gym leader",
+        "level x",
+        "gl",
+        "holographic",
+        "x",
+        "lv",
+        "mismagius pokémon gl lv.x",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-111",
+      "name": "Snorlax LV.X",
+      "number": "111/111",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "LV.X"
+      ],
+      "keywords": [
+        "snorlax",
+        "lv",
+        "snorlax lv.x",
+        "lvx",
+        "level x",
+        "holographic",
+        "x",
+        "colorless",
+        "holo"
+      ]
+    },
+    {
+      "id": "rising-rivals-112",
+      "name": "Pikachu",
+      "number": "112/111",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "pikachu",
+        "secret rare",
+        "electric mouse",
+        "secret",
+        "lightning",
+        "mascot"
+      ]
+    },
+    {
+      "id": "rising-rivals-113",
+      "name": "Flying Pikachu",
+      "number": "113/111",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Flying"
+      ],
+      "keywords": [
+        "pikachu",
+        "flying pikachu",
+        "secret rare",
+        "electric mouse",
+        "flying",
+        "balloon",
+        "secret",
+        "lightning",
+        "mascot"
+      ]
+    },
+    {
+      "id": "rising-rivals-114",
+      "name": "Surfing Pikachu",
+      "number": "114/111",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Surfing"
+      ],
+      "keywords": [
+        "surfing",
+        "pikachu",
+        "secret rare",
+        "electric mouse",
+        "surfing pikachu",
+        "secret",
+        "lightning",
+        "mascot",
+        "surf"
+      ]
+    }
+  ]
+}

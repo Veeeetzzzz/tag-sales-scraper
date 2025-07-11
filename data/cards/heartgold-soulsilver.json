@@ -1,0 +1,2116 @@
+{
+  "setInfo": {
+    "name": "HeartGold & SoulSilver",
+    "series": "HeartGold & SoulSilver",
+    "releaseDate": "2010-02-10",
+    "totalCards": 124,
+    "symbol": "HGSS",
+    "logo": "heartgold-soulsilver-logo.png"
+  },
+  "cards": [
+    {
+      "id": "heartgold-soulsilver-1",
+      "name": "Arcanine",
+      "number": "1/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "arcanine",
+        "holographic",
+        "holo",
+        "fire"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-2",
+      "name": "Azumarill",
+      "number": "2/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "water",
+        "holo",
+        "johto",
+        "holographic",
+        "azumarill",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-3",
+      "name": "Clefable",
+      "number": "3/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "clefable",
+        "colorless",
+        "holo",
+        "holographic"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-4",
+      "name": "Gyarados",
+      "number": "4/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "gyarados",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-5",
+      "name": "Hitmontop",
+      "number": "5/123",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "hitmontop",
+        "fighting",
+        "holo",
+        "johto",
+        "holographic",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-6",
+      "name": "Jumpluff",
+      "number": "6/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "jumpluff",
+        "holo",
+        "johto",
+        "holographic",
+        "grass",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-7",
+      "name": "Ninetales",
+      "number": "7/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "fire",
+        "ninetales"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-8",
+      "name": "Noctowl",
+      "number": "8/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "noctowl",
+        "holo",
+        "johto",
+        "holographic",
+        "johto region",
+        "colorless"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-9",
+      "name": "Quagsire",
+      "number": "9/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "water",
+        "quagsire",
+        "holo",
+        "johto",
+        "holographic",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-10",
+      "name": "Raichu",
+      "number": "10/123",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "raichu",
+        "holographic",
+        "lightning",
+        "holo"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-11",
+      "name": "Shuckle",
+      "number": "11/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "holo",
+        "johto",
+        "holographic",
+        "grass",
+        "johto region",
+        "shuckle"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-12",
+      "name": "Slowking",
+      "number": "12/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "slowking",
+        "holographic",
+        "psychic",
+        "johto",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-13",
+      "name": "Wobbuffet",
+      "number": "13/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "holo",
+        "wobbuffet",
+        "psychic",
+        "johto",
+        "holographic",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-14",
+      "name": "Ampharos",
+      "number": "14/123",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "johto",
+        "ampharos",
+        "lightning",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-15",
+      "name": "Ariados",
+      "number": "15/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "johto",
+        "grass",
+        "ariados",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-16",
+      "name": "Butterfree",
+      "number": "16/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "grass",
+        "butterfree"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-17",
+      "name": "Cleffa",
+      "number": "17/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 30,
+      "keywords": [
+        "colorless",
+        "cleffa",
+        "baby",
+        "baby pokemon"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-18",
+      "name": "Exeggutor",
+      "number": "18/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "psychic",
+        "exeggutor"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-19",
+      "name": "Farfetch'd",
+      "number": "19/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "farfetch'd",
+        "colorless",
+        "d",
+        "farfetch"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-20",
+      "name": "Feraligatr",
+      "number": "20/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "water",
+        "feraligatr",
+        "starter pokemon",
+        "johto",
+        "johto region",
+        "johto starter",
+        "starter"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-21",
+      "name": "Furret",
+      "number": "21/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "furret",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-22",
+      "name": "Granbull",
+      "number": "22/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "colorless",
+        "granbull",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-23",
+      "name": "Hypno",
+      "number": "23/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "psychic",
+        "hypno"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-24",
+      "name": "Lapras",
+      "number": "24/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "lapras",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-25",
+      "name": "Ledian",
+      "number": "25/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "johto",
+        "grass",
+        "johto region",
+        "ledian"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-26",
+      "name": "Meganium",
+      "number": "26/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "starter pokemon",
+        "johto region",
+        "johto",
+        "grass",
+        "meganium",
+        "johto starter",
+        "starter"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-27",
+      "name": "Persian",
+      "number": "27/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "colorless",
+        "persian"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-28",
+      "name": "Pichu",
+      "number": "28/123",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 30,
+      "keywords": [
+        "pichu",
+        "lightning",
+        "baby",
+        "baby pokemon"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-29",
+      "name": "Sandslash",
+      "number": "29/123",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "fighting",
+        "sandslash"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-30",
+      "name": "Smoochum",
+      "number": "30/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 30,
+      "keywords": [
+        "baby pokemon",
+        "smoochum",
+        "baby",
+        "psychic",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-31",
+      "name": "Sunflora",
+      "number": "31/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "johto",
+        "grass",
+        "johto region",
+        "sunflora"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-32",
+      "name": "Typhlosion",
+      "number": "32/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "typhlosion",
+        "starter pokemon",
+        "johto",
+        "johto region",
+        "johto starter",
+        "starter",
+        "fire"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-33",
+      "name": "Tyrogue",
+      "number": "33/123",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 30,
+      "keywords": [
+        "baby pokemon",
+        "fighting",
+        "baby",
+        "johto",
+        "johto region",
+        "tyrogue"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-34",
+      "name": "Weezing",
+      "number": "34/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "psychic",
+        "weezing"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-35",
+      "name": "Bayleef",
+      "number": "35/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "starter pokemon",
+        "johto",
+        "johto region",
+        "grass",
+        "johto starter",
+        "starter",
+        "bayleef"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-36",
+      "name": "Blissey",
+      "number": "36/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "colorless",
+        "blissey",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-37",
+      "name": "Corsola",
+      "number": "37/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "johto",
+        "water",
+        "johto region",
+        "corsola"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-38",
+      "name": "Croconaw",
+      "number": "38/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "water",
+        "starter pokemon",
+        "croconaw",
+        "johto",
+        "johto region",
+        "johto starter",
+        "starter"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-39",
+      "name": "Delibird",
+      "number": "39/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "johto",
+        "delibird",
+        "johto region",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-40",
+      "name": "Donphan",
+      "number": "40/123",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "johto",
+        "fighting",
+        "johto region",
+        "donphan"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-41",
+      "name": "Dunsparce",
+      "number": "41/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "colorless",
+        "dunsparce",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-42",
+      "name": "Flaaffy",
+      "number": "42/123",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "johto",
+        "flaaffy",
+        "lightning",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-43",
+      "name": "Heracross",
+      "number": "43/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "johto",
+        "heracross",
+        "grass",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-44",
+      "name": "Igglybuff",
+      "number": "44/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 30,
+      "keywords": [
+        "baby pokemon",
+        "baby",
+        "johto region",
+        "johto",
+        "colorless",
+        "igglybuff"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-45",
+      "name": "Mantine",
+      "number": "45/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "johto",
+        "mantine",
+        "water",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-46",
+      "name": "Metapod",
+      "number": "46/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "grass",
+        "metapod"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-47",
+      "name": "Miltank",
+      "number": "47/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "colorless",
+        "johto",
+        "johto region",
+        "miltank"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-48",
+      "name": "Parasect",
+      "number": "48/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "parasect",
+        "grass"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-49",
+      "name": "Quilava",
+      "number": "49/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "starter pokemon",
+        "johto",
+        "johto region",
+        "johto starter",
+        "quilava",
+        "starter",
+        "fire"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-50",
+      "name": "Qwilfish",
+      "number": "50/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "johto",
+        "qwilfish",
+        "water",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-51",
+      "name": "Skiploom",
+      "number": "51/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "johto",
+        "grass",
+        "skiploom",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-52",
+      "name": "Slowbro",
+      "number": "52/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "slowbro",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-53",
+      "name": "Starmie",
+      "number": "53/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "starmie",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-54",
+      "name": "Unown",
+      "number": "54/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "psychic",
+        "johto region",
+        "unown",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-55",
+      "name": "Unown",
+      "number": "55/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "psychic",
+        "johto region",
+        "unown",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-56",
+      "name": "Wigglytuff",
+      "number": "56/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "wigglytuff",
+        "colorless"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-57",
+      "name": "Caterpie",
+      "number": "57/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "caterpie"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-58",
+      "name": "Chansey",
+      "number": "58/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "chansey"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-59",
+      "name": "Chikorita",
+      "number": "59/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter pokemon",
+        "johto region",
+        "johto",
+        "grass",
+        "chikorita",
+        "johto starter",
+        "starter"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-60",
+      "name": "Clefairy",
+      "number": "60/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "clefairy",
+        "colorless"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-61",
+      "name": "Cyndaquil",
+      "number": "61/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter pokemon",
+        "cyndaquil",
+        "johto",
+        "johto region",
+        "johto starter",
+        "starter",
+        "fire"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-62",
+      "name": "Drowzee",
+      "number": "62/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "drowzee"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-63",
+      "name": "Exeggcute",
+      "number": "63/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "exeggcute"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-64",
+      "name": "Girafarig",
+      "number": "64/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "girafarig",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-65",
+      "name": "Growlithe",
+      "number": "65/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fire",
+        "growlithe"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-66",
+      "name": "Hoothoot",
+      "number": "66/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "johto",
+        "johto region",
+        "hoothoot"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-67",
+      "name": "Hoppip",
+      "number": "67/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "johto",
+        "grass",
+        "hoppip",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-68",
+      "name": "Jigglypuff",
+      "number": "68/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "jigglypuff"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-69",
+      "name": "Jynx",
+      "number": "69/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "jynx"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-70",
+      "name": "Koffing",
+      "number": "70/123",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "koffing"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-71",
+      "name": "Ledyba",
+      "number": "71/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "johto",
+        "grass",
+        "johto region",
+        "ledyba"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-72",
+      "name": "Magikarp",
+      "number": "72/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "magikarp",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-73",
+      "name": "Mareep",
+      "number": "73/123",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "johto",
+        "mareep",
+        "lightning",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-74",
+      "name": "Marill",
+      "number": "74/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "marill",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-75",
+      "name": "Meowth",
+      "number": "75/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "meowth"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-76",
+      "name": "Paras",
+      "number": "76/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "paras"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-77",
+      "name": "Phanpy",
+      "number": "77/123",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "phanpy",
+        "fighting",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-78",
+      "name": "Pikachu",
+      "number": "78/123",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "lightning",
+        "pikachu"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-79",
+      "name": "Sandshrew",
+      "number": "79/123",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fighting",
+        "sandshrew"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-80",
+      "name": "Sentret",
+      "number": "80/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "sentret",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-81",
+      "name": "Slowpoke",
+      "number": "81/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "slowpoke",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-82",
+      "name": "Snubbull",
+      "number": "82/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "snubbull",
+        "johto region",
+        "johto"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-83",
+      "name": "Spinarak",
+      "number": "83/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "johto",
+        "grass",
+        "spinarak",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-84",
+      "name": "Staryu",
+      "number": "84/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "staryu",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-85",
+      "name": "Sunkern",
+      "number": "85/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "johto",
+        "grass",
+        "sunkern",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-86",
+      "name": "Totodile",
+      "number": "86/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "totodile",
+        "water",
+        "starter pokemon",
+        "johto",
+        "johto region",
+        "johto starter",
+        "starter"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-87",
+      "name": "Vulpix",
+      "number": "87/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fire",
+        "vulpix"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-88",
+      "name": "Wooper",
+      "number": "88/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "johto",
+        "wooper",
+        "water",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-89",
+      "name": "Bill",
+      "number": "89/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "bill"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-90",
+      "name": "Copycat",
+      "number": "90/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "copycat"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-91",
+      "name": "Energy Switch",
+      "number": "91/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "energy",
+        "switch",
+        "energy switch"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-92",
+      "name": "Fisherman",
+      "number": "92/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "fisherman"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-93",
+      "name": "Full Heal",
+      "number": "93/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "full",
+        "heal",
+        "full heal"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-94",
+      "name": "Moomoo Milk",
+      "number": "94/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "moomoo",
+        "milk",
+        "miltank",
+        "moomoo milk",
+        "healing"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-95",
+      "name": "Poké Ball",
+      "number": "95/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "poké ball",
+        "ball"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-96",
+      "name": "Pokégear 3.0",
+      "number": "96/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "johto",
+        "pokegear",
+        "pokégear 3.0",
+        "technology"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-97",
+      "name": "Pokémon Collector",
+      "number": "97/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "pokémon collector",
+        "collector"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-98",
+      "name": "Pokémon Communication",
+      "number": "98/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "pokémon communication",
+        "communication"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-99",
+      "name": "Pokémon Reversal",
+      "number": "99/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "pokémon reversal",
+        "reversal"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-100",
+      "name": "Professor Elm's Training Method",
+      "number": "100/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "johto professor",
+        "method",
+        "professor elm's training method",
+        "training",
+        "professor elm",
+        "professor",
+        "elm",
+        "research",
+        "s"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-101",
+      "name": "Professor Oak's New Theory",
+      "number": "101/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "theory",
+        "kanto professor",
+        "oak",
+        "professor oak",
+        "professor",
+        "new",
+        "research",
+        "professor oak's new theory",
+        "s"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-102",
+      "name": "Switch",
+      "number": "102/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "switch"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-103",
+      "name": "Double Colorless Energy",
+      "number": "103/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "colorless",
+        "energy",
+        "double colorless energy",
+        "double"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-104",
+      "name": "Rainbow Energy",
+      "number": "104/123",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Energy",
+      "keywords": [
+        "rainbow",
+        "rainbow energy",
+        "energy"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-105",
+      "name": "Ampharos",
+      "number": "105/123",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "lightning",
+        "holo",
+        "prime",
+        "super rare",
+        "johto",
+        "ampharos",
+        "holographic",
+        "johto region"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-106",
+      "name": "Blissey",
+      "number": "106/123",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "holo",
+        "prime",
+        "super rare",
+        "johto",
+        "holographic",
+        "johto region",
+        "colorless",
+        "blissey"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-107",
+      "name": "Donphan",
+      "number": "107/123",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "holo",
+        "fighting",
+        "prime",
+        "super rare",
+        "johto",
+        "holographic",
+        "johto region",
+        "donphan"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-108",
+      "name": "Feraligatr",
+      "number": "108/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "water",
+        "feraligatr",
+        "starter pokemon",
+        "holo",
+        "prime",
+        "super rare",
+        "johto",
+        "holographic",
+        "johto region",
+        "johto starter",
+        "starter"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-109",
+      "name": "Meganium",
+      "number": "109/123",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "starter pokemon",
+        "holo",
+        "prime",
+        "super rare",
+        "johto",
+        "holographic",
+        "grass",
+        "meganium",
+        "johto region",
+        "johto starter",
+        "starter"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-110",
+      "name": "Typhlosion",
+      "number": "110/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "SuperRare Holo",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Prime"
+      ],
+      "keywords": [
+        "typhlosion",
+        "starter pokemon",
+        "holo",
+        "prime",
+        "super rare",
+        "johto",
+        "holographic",
+        "johto region",
+        "johto starter",
+        "starter",
+        "fire"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-111",
+      "name": "Ho-Oh LEGEND",
+      "number": "111/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND"
+      ],
+      "keywords": [
+        "ho",
+        "oh",
+        "holo",
+        "rainbow",
+        "phoenix",
+        "legendary",
+        "johto",
+        "holographic",
+        "johto region",
+        "tower duo",
+        "ho-oh legend",
+        "legend",
+        "fire"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-112",
+      "name": "Ho-Oh LEGEND",
+      "number": "112/123",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND"
+      ],
+      "keywords": [
+        "ho",
+        "oh",
+        "holo",
+        "rainbow",
+        "phoenix",
+        "legendary",
+        "johto",
+        "holographic",
+        "johto region",
+        "tower duo",
+        "ho-oh legend",
+        "legend",
+        "fire"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-113",
+      "name": "Lugia LEGEND",
+      "number": "113/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND"
+      ],
+      "keywords": [
+        "silver",
+        "water",
+        "lugia",
+        "holo",
+        "legendary",
+        "johto",
+        "holographic",
+        "johto region",
+        "psychic",
+        "tower duo",
+        "legend",
+        "lugia legend"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-114",
+      "name": "Lugia LEGEND",
+      "number": "114/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo LEGEND",
+      "cardType": "Pokemon",
+      "hp": 140,
+      "variants": [
+        "LEGEND"
+      ],
+      "keywords": [
+        "silver",
+        "water",
+        "lugia",
+        "holo",
+        "legendary",
+        "johto",
+        "holographic",
+        "johto region",
+        "psychic",
+        "tower duo",
+        "legend",
+        "lugia legend"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-115",
+      "name": "Grass Energy",
+      "number": "115/123",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Energy",
+      "keywords": [
+        "grass energy",
+        "energy",
+        "grass"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-116",
+      "name": "Fire Energy",
+      "number": "116/123",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Energy",
+      "keywords": [
+        "energy",
+        "fire",
+        "fire energy"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-117",
+      "name": "Water Energy",
+      "number": "117/123",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Energy",
+      "keywords": [
+        "energy",
+        "water",
+        "water energy"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-118",
+      "name": "Lightning Energy",
+      "number": "118/123",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Energy",
+      "keywords": [
+        "lightning energy",
+        "energy",
+        "lightning"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-119",
+      "name": "Psychic Energy",
+      "number": "119/123",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Energy",
+      "keywords": [
+        "psychic",
+        "energy",
+        "psychic energy"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-120",
+      "name": "Fighting Energy",
+      "number": "120/123",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Energy",
+      "keywords": [
+        "fighting",
+        "fighting energy",
+        "energy"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-121",
+      "name": "Darkness Energy",
+      "number": "121/123",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Energy",
+      "keywords": [
+        "energy",
+        "darkness energy",
+        "darkness"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-122",
+      "name": "Metal Energy",
+      "number": "122/123",
+      "types": [],
+      "rarity": "Common",
+      "cardType": "Energy",
+      "keywords": [
+        "metal",
+        "energy",
+        "metal energy"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-123",
+      "name": "Gyarados",
+      "number": "123/123",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "gyarados",
+        "water"
+      ]
+    },
+    {
+      "id": "heartgold-soulsilver-one",
+      "name": "Alph Lithograph",
+      "number": "ONE",
+      "types": [],
+      "rarity": "Rare Secret",
+      "cardType": "Trainer",
+      "keywords": [
+        "mystery",
+        "alph lithograph",
+        "johto",
+        "secret rare",
+        "secret",
+        "unown",
+        "alph",
+        "ruins of alph",
+        "lithograph"
+      ]
+    }
+  ]
+}

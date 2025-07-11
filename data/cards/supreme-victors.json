@@ -1,0 +1,2707 @@
+{
+  "setInfo": {
+    "name": "Supreme Victors",
+    "series": "Platinum",
+    "releaseDate": "2009-08-19",
+    "totalCards": 150,
+    "symbol": "SV",
+    "logo": "supreme-victors-logo.png"
+  },
+  "cards": [
+    {
+      "id": "supreme-victors-1",
+      "name": "Absol",
+      "number": "1/147",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "holo",
+        "absol",
+        "g",
+        "team galactic",
+        "darkness",
+        "galactic",
+        "holographic",
+        "sp",
+        "absol pokémon g"
+      ]
+    },
+    {
+      "id": "supreme-victors-2",
+      "name": "Blaziken",
+      "number": "2/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "holo",
+        "fb",
+        "frontier brain",
+        "battle frontier",
+        "blaziken",
+        "holographic",
+        "blaziken pokémon fb",
+        "fire",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-3",
+      "name": "Drifblim",
+      "number": "3/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "holo",
+        "fb",
+        "sp",
+        "frontier brain",
+        "battle frontier",
+        "holographic",
+        "psychic",
+        "pokemon fb",
+        "drifblim",
+        "drifblim pokémon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-4",
+      "name": "Electivire",
+      "number": "4/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "holo",
+        "fb",
+        "lightning",
+        "frontier brain",
+        "battle frontier",
+        "holographic",
+        "electivire",
+        "electivire pokémon fb",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-5",
+      "name": "Garchomp",
+      "number": "5/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "colorless",
+        "holographic",
+        "garchomp"
+      ]
+    },
+    {
+      "id": "supreme-victors-6",
+      "name": "Magmortar",
+      "number": "6/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "magmortar",
+        "fire"
+      ]
+    },
+    {
+      "id": "supreme-victors-7",
+      "name": "Metagross",
+      "number": "7/147",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "metal",
+        "metagross",
+        "holographic",
+        "holo"
+      ]
+    },
+    {
+      "id": "supreme-victors-8",
+      "name": "Rayquaza",
+      "number": "8/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "rayquaza",
+        "holo",
+        "colorless",
+        "champion",
+        "sky high",
+        "dragon",
+        "hoenn",
+        "holographic",
+        "cynthia",
+        "pokemon c",
+        "legendary",
+        "rayquaza pokémon c",
+        "sp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-9",
+      "name": "Regigigas",
+      "number": "9/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "holo",
+        "colossal",
+        "colorless",
+        "fb",
+        "sinnoh",
+        "frontier brain",
+        "battle frontier",
+        "holographic",
+        "legendary",
+        "slow start",
+        "regigigas pokémon fb",
+        "regigigas",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-10",
+      "name": "Rhyperior",
+      "number": "10/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "fighting",
+        "holo",
+        "holographic",
+        "rhyperior"
+      ]
+    },
+    {
+      "id": "supreme-victors-11",
+      "name": "Staraptor",
+      "number": "11/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "holo",
+        "colorless",
+        "staraptor pokémon fb",
+        "fb",
+        "frontier brain",
+        "battle frontier",
+        "holographic",
+        "staraptor",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-12",
+      "name": "Swampert",
+      "number": "12/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "holo",
+        "holographic",
+        "water",
+        "swampert"
+      ]
+    },
+    {
+      "id": "supreme-victors-13",
+      "name": "Venusaur",
+      "number": "13/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "venusaur",
+        "holo",
+        "holographic",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-14",
+      "name": "Yanmega",
+      "number": "14/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "cardType": "Pokemon",
+      "hp": 110,
+      "keywords": [
+        "yanmega",
+        "holo",
+        "holographic",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-15",
+      "name": "Arcanine",
+      "number": "15/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "arcanine pokémon g",
+        "g",
+        "team galactic",
+        "galactic",
+        "arcanine",
+        "fire",
+        "sp"
+      ]
+    },
+    {
+      "id": "supreme-victors-16",
+      "name": "Articuno",
+      "number": "16/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "ice",
+        "water",
+        "articuno",
+        "legendary",
+        "freeze dry",
+        "kanto"
+      ]
+    },
+    {
+      "id": "supreme-victors-17",
+      "name": "Butterfree",
+      "number": "17/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "fb",
+        "grass",
+        "sp",
+        "frontier brain",
+        "battle frontier",
+        "butterfree pokémon fb",
+        "butterfree",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-18",
+      "name": "Camerupt",
+      "number": "18/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "camerupt",
+        "fire"
+      ]
+    },
+    {
+      "id": "supreme-victors-19",
+      "name": "Camerupt",
+      "number": "19/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "g",
+        "camerupt",
+        "team galactic",
+        "galactic",
+        "camerupt pokémon g",
+        "fire",
+        "sp"
+      ]
+    },
+    {
+      "id": "supreme-victors-20",
+      "name": "Charizard",
+      "number": "20/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "g",
+        "team galactic",
+        "galactic",
+        "charizard pokémon g",
+        "charizard",
+        "fire",
+        "sp"
+      ]
+    },
+    {
+      "id": "supreme-victors-21",
+      "name": "Chimecho",
+      "number": "21/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "chimecho",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-22",
+      "name": "Claydol",
+      "number": "22/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "claydol",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-23",
+      "name": "Crawdaunt",
+      "number": "23/147",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "crawdaunt",
+        "g",
+        "team galactic",
+        "darkness",
+        "galactic",
+        "crawdaunt pokémon g",
+        "sp"
+      ]
+    },
+    {
+      "id": "supreme-victors-24",
+      "name": "Dewgong",
+      "number": "24/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "water",
+        "dewgong"
+      ]
+    },
+    {
+      "id": "supreme-victors-25",
+      "name": "Dodrio",
+      "number": "25/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "dodrio",
+        "colorless"
+      ]
+    },
+    {
+      "id": "supreme-victors-26",
+      "name": "Dusknoir",
+      "number": "26/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "fb",
+        "sp",
+        "frontier brain",
+        "battle frontier",
+        "psychic",
+        "dusknoir",
+        "dusknoir pokémon fb",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-27",
+      "name": "Empoleon",
+      "number": "27/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "empoleon",
+        "fb",
+        "frontier brain",
+        "battle frontier",
+        "water",
+        "empoleon pokémon fb",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-28",
+      "name": "Exploud",
+      "number": "28/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "exploud"
+      ]
+    },
+    {
+      "id": "supreme-victors-29",
+      "name": "Honchkrow",
+      "number": "29/147",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "darkness",
+        "honchkrow"
+      ]
+    },
+    {
+      "id": "supreme-victors-30",
+      "name": "Lickilicky",
+      "number": "30/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "colorless",
+        "champion",
+        "sp",
+        "lickilicky",
+        "cynthia",
+        "pokemon c",
+        "lickilicky pokémon c",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-31",
+      "name": "Lucario",
+      "number": "31/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "champion",
+        "fighting",
+        "cynthia",
+        "pokemon c",
+        "lucario",
+        "lucario pokémon c",
+        "sp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-32",
+      "name": "Lunatone",
+      "number": "32/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "lunatone",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-33",
+      "name": "Mawile",
+      "number": "33/147",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "metal",
+        "mawile"
+      ]
+    },
+    {
+      "id": "supreme-victors-34",
+      "name": "Medicham",
+      "number": "34/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "medicham",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-35",
+      "name": "Milotic",
+      "number": "35/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "milotic",
+        "champion",
+        "water",
+        "cynthia",
+        "pokemon c",
+        "milotic pokémon c",
+        "sp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-36",
+      "name": "Moltres",
+      "number": "36/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "moltres",
+        "legendary",
+        "fire",
+        "flame",
+        "kanto"
+      ]
+    },
+    {
+      "id": "supreme-victors-37",
+      "name": "Mr. Mime",
+      "number": "37/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "mr",
+        "mime",
+        "mr. mime",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-38",
+      "name": "Parasect",
+      "number": "38/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "parasect",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-39",
+      "name": "Primeape",
+      "number": "39/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "fighting",
+        "primeape"
+      ]
+    },
+    {
+      "id": "supreme-victors-40",
+      "name": "Roserade",
+      "number": "40/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "champion",
+        "roserade pokémon c",
+        "roserade",
+        "cynthia",
+        "psychic",
+        "pokemon c",
+        "sp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-41",
+      "name": "Sableye",
+      "number": "41/147",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "sp",
+        "g",
+        "team galactic",
+        "darkness",
+        "galactic",
+        "sableye pokémon g",
+        "sableye"
+      ]
+    },
+    {
+      "id": "supreme-victors-42",
+      "name": "Sandslash",
+      "number": "42/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "fighting",
+        "sandslash"
+      ]
+    },
+    {
+      "id": "supreme-victors-43",
+      "name": "Seaking",
+      "number": "43/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "water",
+        "seaking"
+      ]
+    },
+    {
+      "id": "supreme-victors-44",
+      "name": "Shedinja",
+      "number": "44/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "shedinja",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-45",
+      "name": "Solrock",
+      "number": "45/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "solrock",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-46",
+      "name": "Spinda",
+      "number": "46/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 70,
+      "keywords": [
+        "colorless",
+        "spinda"
+      ]
+    },
+    {
+      "id": "supreme-victors-47",
+      "name": "Wailord",
+      "number": "47/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "water",
+        "wailord"
+      ]
+    },
+    {
+      "id": "supreme-victors-48",
+      "name": "Zapdos",
+      "number": "48/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "lightning",
+        "thunder",
+        "legendary",
+        "zapdos",
+        "kanto",
+        "electric"
+      ]
+    },
+    {
+      "id": "supreme-victors-49",
+      "name": "Altaria",
+      "number": "49/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "colorless",
+        "champion",
+        "altaria pokémon c",
+        "altaria",
+        "cynthia",
+        "pokemon c",
+        "sp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-50",
+      "name": "Arcanine",
+      "number": "50/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "keywords": [
+        "fire",
+        "arcanine"
+      ]
+    },
+    {
+      "id": "supreme-victors-51",
+      "name": "Bibarel",
+      "number": "51/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "bibarel",
+        "colorless"
+      ]
+    },
+    {
+      "id": "supreme-victors-52",
+      "name": "Breloom",
+      "number": "52/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "fighting",
+        "breloom"
+      ]
+    },
+    {
+      "id": "supreme-victors-53",
+      "name": "Carnivine",
+      "number": "53/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "carnivine",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-54",
+      "name": "Chatot",
+      "number": "54/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "colorless",
+        "g",
+        "team galactic",
+        "chatot pokémon g",
+        "galactic",
+        "chatot",
+        "sp"
+      ]
+    },
+    {
+      "id": "supreme-victors-55",
+      "name": "Cherrim",
+      "number": "55/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "grass",
+        "cherrim"
+      ]
+    },
+    {
+      "id": "supreme-victors-56",
+      "name": "Dragonite",
+      "number": "56/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "colorless",
+        "fb",
+        "dragonite pokémon fb",
+        "dragonite",
+        "frontier brain",
+        "battle frontier",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-57",
+      "name": "Drifblim",
+      "number": "57/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "drifblim",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-58",
+      "name": "Floatzel",
+      "number": "58/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "floatzel",
+        "water"
+      ]
+    },
+    {
+      "id": "supreme-victors-59",
+      "name": "Gabite",
+      "number": "59/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "colorless",
+        "gabite"
+      ]
+    },
+    {
+      "id": "supreme-victors-60",
+      "name": "Garchomp",
+      "number": "60/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 100,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "colorless",
+        "champion",
+        "garchomp pokémon c",
+        "cynthia",
+        "pokemon c",
+        "sp",
+        "garchomp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-61",
+      "name": "Hippopotas",
+      "number": "61/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "hippopotas",
+        "fighting"
+      ]
+    },
+    {
+      "id": "supreme-victors-62",
+      "name": "Ivysaur",
+      "number": "62/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "ivysaur",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-63",
+      "name": "Lopunny",
+      "number": "63/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "colorless",
+        "lopunny"
+      ]
+    },
+    {
+      "id": "supreme-victors-64",
+      "name": "Loudred",
+      "number": "64/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "colorless",
+        "loudred"
+      ]
+    },
+    {
+      "id": "supreme-victors-65",
+      "name": "Magmar",
+      "number": "65/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "magmar",
+        "fire"
+      ]
+    },
+    {
+      "id": "supreme-victors-66",
+      "name": "Manectric",
+      "number": "66/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "lightning",
+        "g",
+        "team galactic",
+        "galactic",
+        "manectric pokémon g",
+        "manectric",
+        "sp"
+      ]
+    },
+    {
+      "id": "supreme-victors-67",
+      "name": "Marshtomp",
+      "number": "67/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "water",
+        "marshtomp"
+      ]
+    },
+    {
+      "id": "supreme-victors-68",
+      "name": "Masquerain",
+      "number": "68/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "grass",
+        "masquerain"
+      ]
+    },
+    {
+      "id": "supreme-victors-69",
+      "name": "Metang",
+      "number": "69/147",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "metang",
+        "metal"
+      ]
+    },
+    {
+      "id": "supreme-victors-70",
+      "name": "Milotic",
+      "number": "70/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "milotic",
+        "water"
+      ]
+    },
+    {
+      "id": "supreme-victors-71",
+      "name": "Minun",
+      "number": "71/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "minun",
+        "lightning"
+      ]
+    },
+    {
+      "id": "supreme-victors-72",
+      "name": "Murkrow",
+      "number": "72/147",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "murkrow",
+        "darkness"
+      ]
+    },
+    {
+      "id": "supreme-victors-73",
+      "name": "Ninjask",
+      "number": "73/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "grass",
+        "ninjask"
+      ]
+    },
+    {
+      "id": "supreme-victors-74",
+      "name": "Numel",
+      "number": "74/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "numel",
+        "fire"
+      ]
+    },
+    {
+      "id": "supreme-victors-75",
+      "name": "Pinsir",
+      "number": "75/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "grass",
+        "pinsir"
+      ]
+    },
+    {
+      "id": "supreme-victors-76",
+      "name": "Plusle",
+      "number": "76/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "plusle",
+        "lightning"
+      ]
+    },
+    {
+      "id": "supreme-victors-77",
+      "name": "Raichu",
+      "number": "77/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "raichu",
+        "lightning"
+      ]
+    },
+    {
+      "id": "supreme-victors-78",
+      "name": "Raticate",
+      "number": "78/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon G"
+      ],
+      "keywords": [
+        "pokemon g",
+        "colorless",
+        "raticate pokémon g",
+        "g",
+        "team galactic",
+        "galactic",
+        "raticate",
+        "sp"
+      ]
+    },
+    {
+      "id": "supreme-victors-79",
+      "name": "Relicanth",
+      "number": "79/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "fighting",
+        "relicanth"
+      ]
+    },
+    {
+      "id": "supreme-victors-80",
+      "name": "Rhydon",
+      "number": "80/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "fighting",
+        "rhydon"
+      ]
+    },
+    {
+      "id": "supreme-victors-81",
+      "name": "Roserade",
+      "number": "81/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "roserade",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-82",
+      "name": "Rotom",
+      "number": "82/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "rotom",
+        "lightning"
+      ]
+    },
+    {
+      "id": "supreme-victors-83",
+      "name": "Skarmory",
+      "number": "83/147",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon FB"
+      ],
+      "keywords": [
+        "skarmory",
+        "metal",
+        "fb",
+        "frontier brain",
+        "battle frontier",
+        "sp",
+        "skarmory pokémon fb",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-84",
+      "name": "Spiritomb",
+      "number": "84/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "champion",
+        "spiritomb",
+        "cynthia",
+        "psychic",
+        "pokemon c",
+        "spiritomb pokémon c",
+        "sp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-85",
+      "name": "Staravia",
+      "number": "85/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "keywords": [
+        "staravia",
+        "colorless"
+      ]
+    },
+    {
+      "id": "supreme-victors-86",
+      "name": "Togekiss",
+      "number": "86/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 60,
+      "variants": [
+        "Pokémon C"
+      ],
+      "keywords": [
+        "colorless",
+        "champion",
+        "togekiss pokémon c",
+        "cynthia",
+        "pokemon c",
+        "togekiss",
+        "sp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-87",
+      "name": "Wailmer",
+      "number": "87/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "wailmer",
+        "water"
+      ]
+    },
+    {
+      "id": "supreme-victors-88",
+      "name": "Yanma",
+      "number": "88/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "cardType": "Pokemon",
+      "hp": 80,
+      "keywords": [
+        "grass",
+        "yanma"
+      ]
+    },
+    {
+      "id": "supreme-victors-89",
+      "name": "Baltoy",
+      "number": "89/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "baltoy",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-90",
+      "name": "Beldum",
+      "number": "90/147",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "metal",
+        "beldum"
+      ]
+    },
+    {
+      "id": "supreme-victors-91",
+      "name": "Bidoof",
+      "number": "91/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "bidoof"
+      ]
+    },
+    {
+      "id": "supreme-victors-92",
+      "name": "Buizel",
+      "number": "92/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "buizel",
+        "water"
+      ]
+    },
+    {
+      "id": "supreme-victors-93",
+      "name": "Bulbasaur",
+      "number": "93/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter",
+        "grass",
+        "bulbasaur",
+        "starter pokemon"
+      ]
+    },
+    {
+      "id": "supreme-victors-94",
+      "name": "Buneary",
+      "number": "94/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "buneary"
+      ]
+    },
+    {
+      "id": "supreme-victors-95",
+      "name": "Chatot",
+      "number": "95/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "chatot"
+      ]
+    },
+    {
+      "id": "supreme-victors-96",
+      "name": "Cherubi",
+      "number": "96/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "cherubi",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-97",
+      "name": "Chimchar",
+      "number": "97/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter",
+        "starter pokemon",
+        "chimchar",
+        "fire"
+      ]
+    },
+    {
+      "id": "supreme-victors-98",
+      "name": "Chingling",
+      "number": "98/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "chingling",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-99",
+      "name": "Combee",
+      "number": "99/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "combee"
+      ]
+    },
+    {
+      "id": "supreme-victors-100",
+      "name": "Corphish",
+      "number": "100/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "water",
+        "corphish"
+      ]
+    },
+    {
+      "id": "supreme-victors-101",
+      "name": "Croagunk",
+      "number": "101/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "croagunk",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-102",
+      "name": "Doduo",
+      "number": "102/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "doduo"
+      ]
+    },
+    {
+      "id": "supreme-victors-103",
+      "name": "Drifloon",
+      "number": "103/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "drifloon",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-104",
+      "name": "Feebas",
+      "number": "104/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "feebas",
+        "water"
+      ]
+    },
+    {
+      "id": "supreme-victors-105",
+      "name": "Geodude",
+      "number": "105/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "geodude",
+        "fighting"
+      ]
+    },
+    {
+      "id": "supreme-victors-106",
+      "name": "Gible",
+      "number": "106/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "gible"
+      ]
+    },
+    {
+      "id": "supreme-victors-107",
+      "name": "Goldeen",
+      "number": "107/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "goldeen",
+        "water"
+      ]
+    },
+    {
+      "id": "supreme-victors-108",
+      "name": "Growlithe",
+      "number": "108/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fire",
+        "growlithe"
+      ]
+    },
+    {
+      "id": "supreme-victors-109",
+      "name": "Kricketot",
+      "number": "109/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "kricketot"
+      ]
+    },
+    {
+      "id": "supreme-victors-110",
+      "name": "Magikarp",
+      "number": "110/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "magikarp",
+        "water"
+      ]
+    },
+    {
+      "id": "supreme-victors-111",
+      "name": "Magnemite",
+      "number": "111/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "lightning",
+        "magnemite"
+      ]
+    },
+    {
+      "id": "supreme-victors-112",
+      "name": "Mankey",
+      "number": "112/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fighting",
+        "mankey"
+      ]
+    },
+    {
+      "id": "supreme-victors-113",
+      "name": "Meditite",
+      "number": "113/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "psychic",
+        "meditite"
+      ]
+    },
+    {
+      "id": "supreme-victors-114",
+      "name": "Meowth",
+      "number": "114/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "meowth"
+      ]
+    },
+    {
+      "id": "supreme-victors-115",
+      "name": "Mime Jr.",
+      "number": "115/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "mime",
+        "mime jr.",
+        "jr",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-116",
+      "name": "Mudkip",
+      "number": "116/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter",
+        "mudkip",
+        "water",
+        "starter pokemon"
+      ]
+    },
+    {
+      "id": "supreme-victors-117",
+      "name": "Nincada",
+      "number": "117/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "nincada",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-118",
+      "name": "Pachirisu",
+      "number": "118/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "pachirisu",
+        "lightning"
+      ]
+    },
+    {
+      "id": "supreme-victors-119",
+      "name": "Paras",
+      "number": "119/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "paras",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-120",
+      "name": "Pikachu",
+      "number": "120/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "pikachu",
+        "lightning"
+      ]
+    },
+    {
+      "id": "supreme-victors-121",
+      "name": "Piplup",
+      "number": "121/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter",
+        "piplup",
+        "water",
+        "starter pokemon"
+      ]
+    },
+    {
+      "id": "supreme-victors-122",
+      "name": "Rhyhorn",
+      "number": "122/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fighting",
+        "rhyhorn"
+      ]
+    },
+    {
+      "id": "supreme-victors-123",
+      "name": "Roselia",
+      "number": "123/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "roselia",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-124",
+      "name": "Sandshrew",
+      "number": "124/147",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "fighting",
+        "sandshrew"
+      ]
+    },
+    {
+      "id": "supreme-victors-125",
+      "name": "Seel",
+      "number": "125/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "seel",
+        "water"
+      ]
+    },
+    {
+      "id": "supreme-victors-126",
+      "name": "Shinx",
+      "number": "126/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "shinx",
+        "lightning"
+      ]
+    },
+    {
+      "id": "supreme-victors-127",
+      "name": "Shroomish",
+      "number": "127/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "shroomish",
+        "grass"
+      ]
+    },
+    {
+      "id": "supreme-victors-128",
+      "name": "Skorupi",
+      "number": "128/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "skorupi",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-129",
+      "name": "Starly",
+      "number": "129/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "starly"
+      ]
+    },
+    {
+      "id": "supreme-victors-130",
+      "name": "Surskit",
+      "number": "130/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "grass",
+        "surskit"
+      ]
+    },
+    {
+      "id": "supreme-victors-131",
+      "name": "Turtwig",
+      "number": "131/147",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "starter",
+        "grass",
+        "turtwig",
+        "starter pokemon"
+      ]
+    },
+    {
+      "id": "supreme-victors-132",
+      "name": "Whismur",
+      "number": "132/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "colorless",
+        "whismur"
+      ]
+    },
+    {
+      "id": "supreme-victors-133",
+      "name": "Zubat",
+      "number": "133/147",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "cardType": "Pokemon",
+      "hp": 50,
+      "keywords": [
+        "zubat",
+        "psychic"
+      ]
+    },
+    {
+      "id": "supreme-victors-134",
+      "name": "Battle Tower",
+      "number": "134/147",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "battle",
+        "palmer",
+        "tower",
+        "battle frontier",
+        "battle tower"
+      ]
+    },
+    {
+      "id": "supreme-victors-135",
+      "name": "Champion's Room",
+      "number": "135/147",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "champion",
+        "room",
+        "elite four",
+        "s",
+        "cynthia",
+        "champion's room"
+      ]
+    },
+    {
+      "id": "supreme-victors-136",
+      "name": "Cynthia's Guidance",
+      "number": "136/147",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "champion",
+        "sinnoh",
+        "s",
+        "guidance",
+        "cynthia",
+        "cynthia's guidance",
+        "garchomp"
+      ]
+    },
+    {
+      "id": "supreme-victors-137",
+      "name": "Cyrus's Initiative",
+      "number": "137/147",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "cyrus's initiative",
+        "cyrus",
+        "s",
+        "initiative"
+      ]
+    },
+    {
+      "id": "supreme-victors-138",
+      "name": "Night Teleporter",
+      "number": "138/147",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "night",
+        "teleporter",
+        "night teleporter"
+      ]
+    },
+    {
+      "id": "supreme-victors-139",
+      "name": "Palmer's Contribution",
+      "number": "139/147",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "palmer",
+        "frontier brain",
+        "s",
+        "palmer's contribution",
+        "battle tower",
+        "contribution"
+      ]
+    },
+    {
+      "id": "supreme-victors-140",
+      "name": "VS Seeker",
+      "number": "140/147",
+      "types": [],
+      "rarity": "Uncommon",
+      "cardType": "Trainer",
+      "keywords": [
+        "seeker",
+        "vs",
+        "vs seeker"
+      ]
+    },
+    {
+      "id": "supreme-victors-141",
+      "name": "Absol",
+      "number": "141/147",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon G",
+        "LV.X"
+      ],
+      "keywords": [
+        "pokemon g",
+        "holo",
+        "absol",
+        "x",
+        "g",
+        "team galactic",
+        "lvx",
+        "darkness",
+        "galactic",
+        "holographic",
+        "level x",
+        "lv",
+        "sp",
+        "absol pokémon g lv.x"
+      ]
+    },
+    {
+      "id": "supreme-victors-142",
+      "name": "Blaziken",
+      "number": "142/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon FB",
+        "LV.X"
+      ],
+      "keywords": [
+        "holo",
+        "fb",
+        "x",
+        "frontier brain",
+        "lvx",
+        "battle frontier",
+        "blaziken",
+        "holographic",
+        "blaziken pokémon fb lv.x",
+        "level x",
+        "fire",
+        "lv",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-143",
+      "name": "Charizard",
+      "number": "143/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon G",
+        "LV.X"
+      ],
+      "keywords": [
+        "pokemon g",
+        "holo",
+        "x",
+        "g",
+        "team galactic",
+        "lvx",
+        "galactic",
+        "holographic",
+        "charizard",
+        "level x",
+        "fire",
+        "lv",
+        "sp",
+        "charizard pokémon g lv.x"
+      ]
+    },
+    {
+      "id": "supreme-victors-144",
+      "name": "Electivire",
+      "number": "144/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon FB",
+        "LV.X"
+      ],
+      "keywords": [
+        "holo",
+        "fb",
+        "x",
+        "lightning",
+        "frontier brain",
+        "lvx",
+        "battle frontier",
+        "holographic",
+        "electivire",
+        "electivire pokémon fb lv.x",
+        "level x",
+        "lv",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-145",
+      "name": "Garchomp",
+      "number": "145/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon C",
+        "LV.X"
+      ],
+      "keywords": [
+        "holo",
+        "colorless",
+        "champion",
+        "x",
+        "lvx",
+        "holographic",
+        "cynthia",
+        "pokemon c",
+        "level x",
+        "garchomp pokémon c lv.x",
+        "lv",
+        "sp",
+        "garchomp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-146",
+      "name": "Rayquaza",
+      "number": "146/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon C",
+        "LV.X"
+      ],
+      "keywords": [
+        "rayquaza",
+        "holo",
+        "colorless",
+        "champion",
+        "x",
+        "rayquaza pokémon c lv.x",
+        "lvx",
+        "hoenn",
+        "sky high",
+        "holographic",
+        "cynthia",
+        "dragon",
+        "pokemon c",
+        "legendary",
+        "level x",
+        "lv",
+        "sp",
+        "c"
+      ]
+    },
+    {
+      "id": "supreme-victors-147",
+      "name": "Staraptor",
+      "number": "147/147",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "cardType": "Pokemon",
+      "hp": 130,
+      "variants": [
+        "Pokémon FB",
+        "LV.X"
+      ],
+      "keywords": [
+        "holo",
+        "colorless",
+        "fb",
+        "x",
+        "frontier brain",
+        "lvx",
+        "staraptor pokémon fb lv.x",
+        "battle frontier",
+        "holographic",
+        "staraptor",
+        "level x",
+        "lv",
+        "sp",
+        "pokemon fb"
+      ]
+    },
+    {
+      "id": "supreme-victors-148",
+      "name": "Articuno",
+      "number": "148/147",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "ice",
+        "water",
+        "articuno",
+        "legendary",
+        "secret",
+        "secret rare",
+        "freeze dry",
+        "kanto"
+      ]
+    },
+    {
+      "id": "supreme-victors-149",
+      "name": "Moltres",
+      "number": "149/147",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "moltres",
+        "legendary",
+        "fire",
+        "flame",
+        "secret",
+        "secret rare",
+        "kanto"
+      ]
+    },
+    {
+      "id": "supreme-victors-150",
+      "name": "Zapdos",
+      "number": "150/147",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "cardType": "Pokemon",
+      "hp": 90,
+      "keywords": [
+        "lightning",
+        "thunder",
+        "legendary",
+        "zapdos",
+        "secret",
+        "secret rare",
+        "kanto",
+        "electric"
+      ]
+    }
+  ]
+}
