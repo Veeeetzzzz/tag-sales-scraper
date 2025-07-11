@@ -1,0 +1,1887 @@
+{
+  "setInfo": {
+    "name": "Triumphant",
+    "series": "HeartGold & SoulSilver",
+    "releaseDate": "2010-11-03",
+    "totalCards": 103,
+    "cardNumberRange": "1-102 + Secret Rare",
+    "description": "The fourth and final set in the HeartGold & SoulSilver series, featuring Prime cards including Celebi and Mew, plus LEGEND cards Darkrai & Cresselia and Palkia & Dialga.",
+    "symbolUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/hgss4_logo_triumphant.png"
+  },
+  "cards": [
+    {
+      "name": "Aggron",
+      "cardNumber": "1/102",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "metal",
+        "HeartGold SoulSilver",
+        "armor pokemon",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "steel type",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Altaria",
+      "cardNumber": "2/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Celebi",
+      "cardNumber": "3/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "psychic type",
+        "HeartGold SoulSilver",
+        "rare",
+        "grass type",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "time travel",
+        "triumphant",
+        "holographic",
+        "mythical"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Drapion",
+      "cardNumber": "4/102",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "darkness",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Mamoswine",
+      "cardNumber": "5/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water",
+        "holographic"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Nidoking",
+      "cardNumber": "6/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Porygon-Z",
+      "cardNumber": "7/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Rapidash",
+      "cardNumber": "8/102",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "holographic",
+        "fire"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Solrock",
+      "cardNumber": "9/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Spiritomb",
+      "cardNumber": "10/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Venomoth",
+      "cardNumber": "11/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Victreebel",
+      "cardNumber": "12/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Ambipom",
+      "cardNumber": "13/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Banette",
+      "cardNumber": "14/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Bronzong",
+      "cardNumber": "15/102",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "metal",
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Carnivine",
+      "cardNumber": "16/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Ditto",
+      "cardNumber": "17/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Dragonite",
+      "cardNumber": "18/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "dragon type",
+        "rare",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "pseudo-legendary"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Dugtrio",
+      "cardNumber": "19/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Electivire",
+      "cardNumber": "20/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "lightning"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Elekid",
+      "cardNumber": "21/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "electric type",
+        "pokémon",
+        "HGSS",
+        "baby pokemon",
+        "triumphant",
+        "lightning"
+      ],
+      "hp": 30
+    },
+    {
+      "name": "Golduck",
+      "cardNumber": "22/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Grumpig",
+      "cardNumber": "23/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Kricketune",
+      "cardNumber": "24/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Lunatone",
+      "cardNumber": "25/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Machamp",
+      "cardNumber": "26/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "four arms",
+        "triumphant",
+        "fighting type",
+        "superpower"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Magmortar",
+      "cardNumber": "27/102",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "fire"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Nidoqueen",
+      "cardNumber": "28/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Pidgeot",
+      "cardNumber": "29/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Sharpedo",
+      "cardNumber": "30/102",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "rare",
+        "darkness",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Wailord",
+      "cardNumber": "31/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "float whale pokemon",
+        "HeartGold SoulSilver",
+        "rare",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water",
+        "water type"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Dragonair",
+      "cardNumber": "32/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Electabuzz",
+      "cardNumber": "33/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "lightning"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Electrode",
+      "cardNumber": "34/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "ball pokemon",
+        "HeartGold SoulSilver",
+        "explosion",
+        "electric type",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "lightning"
+      ],
+      "hp": 90
+    },
+    {
+      "name": "Haunter",
+      "cardNumber": "35/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Kangaskhan",
+      "cardNumber": "36/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Lairon",
+      "cardNumber": "37/102",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "metal",
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Lickilicky",
+      "cardNumber": "38/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Luvdisc",
+      "cardNumber": "39/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Machoke",
+      "cardNumber": "40/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Magby",
+      "cardNumber": "41/102",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "fire"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Magmar",
+      "cardNumber": "42/102",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "fire"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Magneton",
+      "cardNumber": "43/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "lightning"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Marowak",
+      "cardNumber": "44/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Nidorina",
+      "cardNumber": "45/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Nidorino",
+      "cardNumber": "46/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Pidgeotto",
+      "cardNumber": "47/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Piloswine",
+      "cardNumber": "48/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Porygon2",
+      "cardNumber": "49/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Tentacruel",
+      "cardNumber": "50/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Unown",
+      "cardNumber": "51/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Wailmer",
+      "cardNumber": "52/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Weepinbell",
+      "cardNumber": "53/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Yanmega",
+      "cardNumber": "54/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "grass type",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "dragonfly",
+        "triumphant",
+        "bug type"
+      ],
+      "hp": 90
+    },
+    {
+      "name": "Aipom",
+      "cardNumber": "55/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Aron",
+      "cardNumber": "56/102",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "metal",
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Bellsprout",
+      "cardNumber": "57/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Bronzor",
+      "cardNumber": "58/102",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "metal",
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Carvanha",
+      "cardNumber": "59/102",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "darkness",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Cubone",
+      "cardNumber": "60/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 60
+    },
+    {
+      "name": "Diglett",
+      "cardNumber": "61/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Dratini",
+      "cardNumber": "62/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Gastly",
+      "cardNumber": "63/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Illumise",
+      "cardNumber": "64/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Kricketot",
+      "cardNumber": "65/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Lickitung",
+      "cardNumber": "66/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Machop",
+      "cardNumber": "67/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "fighting",
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Magnemite",
+      "cardNumber": "68/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "lightning"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Nidoran♀",
+      "cardNumber": "69/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Nidoran♂",
+      "cardNumber": "70/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Pidgey",
+      "cardNumber": "71/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Ponyta",
+      "cardNumber": "72/102",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "fire"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Porygon",
+      "cardNumber": "73/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Psyduck",
+      "cardNumber": "74/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Shuppet",
+      "cardNumber": "75/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Skorupi",
+      "cardNumber": "76/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 60
+    },
+    {
+      "name": "Spoink",
+      "cardNumber": "77/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "psychic",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Swablu",
+      "cardNumber": "78/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless",
+        "pokémon",
+        "HGSS",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Swinub",
+      "cardNumber": "79/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Tentacool",
+      "cardNumber": "80/102",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "water"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Venonat",
+      "cardNumber": "81/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Volbeat",
+      "cardNumber": "82/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Voltorb",
+      "cardNumber": "83/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "triumphant",
+        "lightning"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Yanma",
+      "cardNumber": "84/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "triumphant"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Black Belt",
+      "cardNumber": "85/102",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HGSS",
+        "HeartGold SoulSilver",
+        "trainer",
+        "triumphant"
+      ]
+    },
+    {
+      "name": "Indigo Plateau",
+      "cardNumber": "86/102",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HGSS",
+        "HeartGold SoulSilver",
+        "trainer",
+        "triumphant"
+      ]
+    },
+    {
+      "name": "Junk Arm",
+      "cardNumber": "87/102",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HGSS",
+        "HeartGold SoulSilver",
+        "trainer",
+        "triumphant"
+      ]
+    },
+    {
+      "name": "Seeker",
+      "cardNumber": "88/102",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HGSS",
+        "HeartGold SoulSilver",
+        "trainer",
+        "triumphant"
+      ]
+    },
+    {
+      "name": "Twins",
+      "cardNumber": "89/102",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HGSS",
+        "HeartGold SoulSilver",
+        "trainer",
+        "triumphant"
+      ]
+    },
+    {
+      "name": "Rescue Energy",
+      "cardNumber": "90/102",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Energy",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "colorless e",
+        "HGSS",
+        "triumphant",
+        "energy"
+      ]
+    },
+    {
+      "name": "Absol",
+      "cardNumber": "91/102",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "Prime",
+        "rare",
+        "prime",
+        "disaster pokemon",
+        "darkness",
+        "HGSS",
+        "triumphant",
+        "dark type",
+        "holographic",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Celebi",
+      "cardNumber": "92/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "psychic type",
+        "HeartGold SoulSilver",
+        "Prime",
+        "rare",
+        "prime",
+        "grass type",
+        "HGSS",
+        "grass",
+        "time travel",
+        "triumphant",
+        "holographic",
+        "mythical",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Electrode",
+      "cardNumber": "93/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "ball pokemon",
+        "HeartGold SoulSilver",
+        "Prime",
+        "explosion",
+        "rare",
+        "prime",
+        "electric type",
+        "HGSS",
+        "triumphant",
+        "holographic",
+        "lightning",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Gengar",
+      "cardNumber": "94/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "psychic type",
+        "HeartGold SoulSilver",
+        "Prime",
+        "shadow pokemon",
+        "rare",
+        "prime",
+        "psychic",
+        "ghost type",
+        "HGSS",
+        "triumphant",
+        "holographic",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Machamp",
+      "cardNumber": "95/102",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "fighting",
+        "Prime",
+        "HeartGold SoulSilver",
+        "rare",
+        "prime",
+        "HGSS",
+        "four arms",
+        "triumphant",
+        "fighting type",
+        "holographic",
+        "superpower",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Magnezone",
+      "cardNumber": "96/102",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "Prime",
+        "rare",
+        "prime",
+        "electric type",
+        "magnetic field",
+        "steel type",
+        "HGSS",
+        "triumphant",
+        "holographic",
+        "lightning",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Mew",
+      "cardNumber": "97/102",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "psychic type",
+        "HeartGold SoulSilver",
+        "Prime",
+        "rare",
+        "prime",
+        "psychic",
+        "HGSS",
+        "triumphant",
+        "holographic",
+        "original mew",
+        "mythical",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Yanmega",
+      "cardNumber": "98/102",
+      "types": [
+        "Grass"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "bug type",
+        "HeartGold SoulSilver",
+        "Prime",
+        "rare",
+        "prime",
+        "grass type",
+        "HGSS",
+        "grass",
+        "dragonfly",
+        "triumphant",
+        "holographic",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Darkrai & Cresselia LEGEND",
+      "cardNumber": "99/102",
+      "types": [
+        "Darkness",
+        "Psychic"
+      ],
+      "category": "LEGEND",
+      "rarity": "Rare Holo LEGEND",
+      "keywords": [
+        "legend",
+        "HeartGold SoulSilver",
+        "lunar",
+        "rare",
+        "LEGEND",
+        "dual card",
+        "nightmare",
+        "HGSS",
+        "darknesspsychic",
+        "triumphant",
+        "holographic",
+        "legendary"
+      ]
+    },
+    {
+      "name": "Darkrai & Cresselia LEGEND",
+      "cardNumber": "100/102",
+      "types": [
+        "Darkness",
+        "Psychic"
+      ],
+      "category": "LEGEND",
+      "rarity": "Rare Holo LEGEND",
+      "keywords": [
+        "legend",
+        "HeartGold SoulSilver",
+        "lunar",
+        "rare",
+        "LEGEND",
+        "dual card",
+        "nightmare",
+        "HGSS",
+        "darknesspsychic",
+        "triumphant",
+        "holographic",
+        "legendary"
+      ]
+    },
+    {
+      "name": "Palkia & Dialga LEGEND",
+      "cardNumber": "101/102",
+      "types": [
+        "Water",
+        "Metal"
+      ],
+      "category": "LEGEND",
+      "rarity": "Rare Holo LEGEND",
+      "keywords": [
+        "legend",
+        "HeartGold SoulSilver",
+        "rare",
+        "space",
+        "LEGEND",
+        "dual card",
+        "time",
+        "HGSS",
+        "Sinnoh legendary",
+        "triumphant",
+        "holographic",
+        "legendary",
+        "watermetal"
+      ]
+    },
+    {
+      "name": "Palkia & Dialga LEGEND",
+      "cardNumber": "102/102",
+      "types": [
+        "Water",
+        "Metal"
+      ],
+      "category": "LEGEND",
+      "rarity": "Rare Holo LEGEND",
+      "keywords": [
+        "legend",
+        "HeartGold SoulSilver",
+        "rare",
+        "space",
+        "LEGEND",
+        "dual card",
+        "time",
+        "HGSS",
+        "Sinnoh legendary",
+        "triumphant",
+        "holographic",
+        "legendary",
+        "watermetal"
+      ]
+    },
+    {
+      "name": "Alph Lithograph",
+      "cardNumber": "FOUR",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Rare Secret",
+      "keywords": [
+        "secret rare",
+        "HeartGold SoulSilver",
+        "trainer",
+        "rare",
+        "ancient text",
+        "HGSS",
+        "unown",
+        "triumphant",
+        "ruins of alph",
+        "fourth lithograph"
+      ]
+    }
+  ]
+}

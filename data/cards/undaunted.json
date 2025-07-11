@@ -1,0 +1,1633 @@
+{
+  "setInfo": {
+    "name": "Undaunted",
+    "series": "HeartGold & SoulSilver",
+    "releaseDate": "2010-08-18",
+    "totalCards": 91,
+    "cardNumberRange": "1-90 + Secret Rare",
+    "description": "The third set in the HeartGold & SoulSilver series, featuring Prime cards and LEGEND cards including Kyogre & Groudon LEGEND and Rayquaza & Deoxys LEGEND.",
+    "symbolUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/hgss3_logo_undaunted.png"
+  },
+  "cards": [
+    {
+      "name": "Bellossom",
+      "cardNumber": "1/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Espeon",
+      "cardNumber": "2/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "Eeveelution",
+        "rare",
+        "HGSS",
+        "psychic type",
+        "HeartGold SoulSilver",
+        "psychic",
+        "Eevee evolution",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Forretress",
+      "cardNumber": "3/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "metal",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Gliscor",
+      "cardNumber": "4/90",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "fighting",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Houndoom",
+      "cardNumber": "5/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "Houndour evolution",
+        "dark type",
+        "darkness",
+        "fire type",
+        "HeartGold SoulSilver",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Magcargo",
+      "cardNumber": "6/90",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "fire",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Scizor",
+      "cardNumber": "7/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "Scyther evolution",
+        "pokémon",
+        "metal type",
+        "rare",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "metal",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Smeargle",
+      "cardNumber": "8/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Togekiss",
+      "cardNumber": "9/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Umbreon",
+      "cardNumber": "10/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "Eeveelution",
+        "rare",
+        "HGSS",
+        "dark type",
+        "darkness",
+        "HeartGold SoulSilver",
+        "Eevee evolution",
+        "holographic"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Dodrio",
+      "cardNumber": "11/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "HeartGold SoulSilver",
+        "colorless"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Drifblim",
+      "cardNumber": "12/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "HeartGold SoulSilver",
+        "psychic"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Forretress",
+      "cardNumber": "13/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "HeartGold SoulSilver",
+        "metal"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Hariyama",
+      "cardNumber": "14/90",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "fighting"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Honchkrow",
+      "cardNumber": "15/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Honchkrow",
+      "cardNumber": "16/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Leafeon",
+      "cardNumber": "17/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Metagross",
+      "cardNumber": "18/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "HeartGold SoulSilver",
+        "metal"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Mismagius",
+      "cardNumber": "19/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "HeartGold SoulSilver",
+        "psychic"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Rotom",
+      "cardNumber": "20/90",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "rare",
+        "HGSS",
+        "lightning",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Skarmory",
+      "cardNumber": "21/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "HeartGold SoulSilver",
+        "metal"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Tropius",
+      "cardNumber": "22/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Vespiquen",
+      "cardNumber": "23/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Vileplume",
+      "cardNumber": "24/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Weavile",
+      "cardNumber": "25/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "rare",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Flareon",
+      "cardNumber": "26/90",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "fire",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Gloom",
+      "cardNumber": "27/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Jolteon",
+      "cardNumber": "28/90",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "lightning",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Lairon",
+      "cardNumber": "29/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "metal"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Metang",
+      "cardNumber": "30/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "metal"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Muk",
+      "cardNumber": "31/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "psychic"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Pinsir",
+      "cardNumber": "32/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 90
+    },
+    {
+      "name": "Raichu",
+      "cardNumber": "33/90",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "lightning",
+        "Pikachu evolution",
+        "electric type",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 90
+    },
+    {
+      "name": "Raticate",
+      "cardNumber": "34/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Sableye",
+      "cardNumber": "35/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Scyther",
+      "cardNumber": "36/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Skuntank",
+      "cardNumber": "37/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Slowbro",
+      "cardNumber": "38/90",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "water",
+        "HGSS",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Togetic",
+      "cardNumber": "39/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Unown",
+      "cardNumber": "40/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "psychic"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Vaporeon",
+      "cardNumber": "41/90",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "water",
+        "HGSS",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Aron",
+      "cardNumber": "42/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "metal"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Beldum",
+      "cardNumber": "43/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "metal"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Combee",
+      "cardNumber": "44/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Doduo",
+      "cardNumber": "45/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Drifloon",
+      "cardNumber": "46/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "psychic"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Eevee",
+      "cardNumber": "47/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless"
+      ],
+      "hp": 60
+    },
+    {
+      "name": "Eevee",
+      "cardNumber": "48/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless"
+      ],
+      "hp": 60
+    },
+    {
+      "name": "Gligar",
+      "cardNumber": "49/90",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "fighting",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Grimer",
+      "cardNumber": "50/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "psychic"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Hitmonchan",
+      "cardNumber": "51/90",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "fighting",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 70
+    },
+    {
+      "name": "Hitmonlee",
+      "cardNumber": "52/90",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "fighting",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 70
+    },
+    {
+      "name": "Houndour",
+      "cardNumber": "53/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Houndour",
+      "cardNumber": "54/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Makuhita",
+      "cardNumber": "55/90",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "fighting",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Mawile",
+      "cardNumber": "56/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "metal"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Misdreavus",
+      "cardNumber": "57/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "psychic"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Murkrow",
+      "cardNumber": "58/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Murkrow",
+      "cardNumber": "59/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Oddish",
+      "cardNumber": "60/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Pikachu",
+      "cardNumber": "61/90",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "lightning",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 60
+    },
+    {
+      "name": "Pineco",
+      "cardNumber": "62/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Pineco",
+      "cardNumber": "63/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Rattata",
+      "cardNumber": "64/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Scyther",
+      "cardNumber": "65/90",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "grass",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Slowpoke",
+      "cardNumber": "66/90",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "water",
+        "HGSS",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Slugma",
+      "cardNumber": "67/90",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "fire",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Sneasel",
+      "cardNumber": "68/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Stunky",
+      "cardNumber": "69/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "darkness",
+        "HeartGold SoulSilver"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Togepi",
+      "cardNumber": "70/90",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "undaunted",
+        "pokémon",
+        "HGSS",
+        "HeartGold SoulSilver",
+        "colorless"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Burned Tower",
+      "cardNumber": "71/90",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "trainer",
+        "undaunted",
+        "HGSS"
+      ]
+    },
+    {
+      "name": "Defender",
+      "cardNumber": "72/90",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "trainer",
+        "undaunted",
+        "HGSS"
+      ]
+    },
+    {
+      "name": "Energy Exchanger",
+      "cardNumber": "73/90",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "trainer",
+        "undaunted",
+        "HGSS"
+      ]
+    },
+    {
+      "name": "Flower Shop Lady",
+      "cardNumber": "74/90",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "trainer",
+        "undaunted",
+        "HGSS"
+      ]
+    },
+    {
+      "name": "Legend Box",
+      "cardNumber": "75/90",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "trainer",
+        "undaunted",
+        "HGSS"
+      ]
+    },
+    {
+      "name": "Ruins of Alph",
+      "cardNumber": "76/90",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "trainer",
+        "undaunted",
+        "HGSS"
+      ]
+    },
+    {
+      "name": "Sage's Training",
+      "cardNumber": "77/90",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "trainer",
+        "undaunted",
+        "HGSS"
+      ]
+    },
+    {
+      "name": "Team Rocket's Trickery",
+      "cardNumber": "78/90",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "HeartGold SoulSilver",
+        "trainer",
+        "undaunted",
+        "HGSS"
+      ]
+    },
+    {
+      "name": "Darkness Energy",
+      "cardNumber": "79/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Energy",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "energy",
+        "HGSS",
+        "darkness e",
+        "HeartGold SoulSilver"
+      ]
+    },
+    {
+      "name": "Metal Energy",
+      "cardNumber": "80/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Energy",
+      "rarity": "Uncommon",
+      "keywords": [
+        "undaunted",
+        "energy",
+        "HGSS",
+        "metal e",
+        "HeartGold SoulSilver"
+      ]
+    },
+    {
+      "name": "Espeon",
+      "cardNumber": "81/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "undaunted",
+        "Eevee evolution",
+        "Prime",
+        "Eeveelution",
+        "rare",
+        "HGSS",
+        "psychic type",
+        "prime",
+        "HeartGold SoulSilver",
+        "psychic",
+        "holographic",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Houndoom",
+      "cardNumber": "82/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "undaunted",
+        "Prime",
+        "rare",
+        "HGSS",
+        "Houndour evolution",
+        "dark type",
+        "prime",
+        "darkness",
+        "fire type",
+        "HeartGold SoulSilver",
+        "holographic",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Raichu",
+      "cardNumber": "83/90",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "undaunted",
+        "Prime",
+        "rare",
+        "HGSS",
+        "lightning",
+        "prime",
+        "Pikachu evolution",
+        "electric type",
+        "HeartGold SoulSilver",
+        "holographic",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Scizor",
+      "cardNumber": "84/90",
+      "types": [
+        "Metal"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "undaunted",
+        "holographic",
+        "Scyther evolution",
+        "Prime",
+        "metal type",
+        "rare",
+        "HGSS",
+        "prime",
+        "HeartGold SoulSilver",
+        "metal",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Slowking",
+      "cardNumber": "85/90",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "undaunted",
+        "Slowpoke evolution",
+        "Prime",
+        "rare",
+        "HGSS",
+        "psychic type",
+        "prime",
+        "water type",
+        "HeartGold SoulSilver",
+        "psychic",
+        "holographic",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Umbreon",
+      "cardNumber": "86/90",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Prime",
+      "rarity": "SuperRare Holo",
+      "keywords": [
+        "undaunted",
+        "Eevee evolution",
+        "Prime",
+        "Eeveelution",
+        "rare",
+        "HGSS",
+        "dark type",
+        "prime",
+        "darkness",
+        "HeartGold SoulSilver",
+        "holographic",
+        "super rare"
+      ]
+    },
+    {
+      "name": "Kyogre & Groudon LEGEND",
+      "cardNumber": "87/90",
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "category": "LEGEND",
+      "rarity": "Rare Holo LEGEND",
+      "keywords": [
+        "LEGEND",
+        "undaunted",
+        "legend",
+        "waterfighting",
+        "dual card",
+        "legendary",
+        "rare",
+        "HGSS",
+        "Hoenn legendary",
+        "HeartGold SoulSilver",
+        "holographic"
+      ]
+    },
+    {
+      "name": "Kyogre & Groudon LEGEND",
+      "cardNumber": "88/90",
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "category": "LEGEND",
+      "rarity": "Rare Holo LEGEND",
+      "keywords": [
+        "LEGEND",
+        "undaunted",
+        "legend",
+        "waterfighting",
+        "dual card",
+        "legendary",
+        "rare",
+        "HGSS",
+        "Hoenn legendary",
+        "HeartGold SoulSilver",
+        "holographic"
+      ]
+    },
+    {
+      "name": "Rayquaza & Deoxys LEGEND",
+      "cardNumber": "89/90",
+      "types": [
+        "Colorless",
+        "Psychic"
+      ],
+      "category": "LEGEND",
+      "rarity": "Rare Holo LEGEND",
+      "keywords": [
+        "LEGEND",
+        "undaunted",
+        "legend",
+        "dual card",
+        "legendary",
+        "rare",
+        "HGSS",
+        "dragon type",
+        "colorlesspsychic",
+        "HeartGold SoulSilver",
+        "holographic"
+      ]
+    },
+    {
+      "name": "Rayquaza & Deoxys LEGEND",
+      "cardNumber": "90/90",
+      "types": [
+        "Colorless",
+        "Psychic"
+      ],
+      "category": "LEGEND",
+      "rarity": "Rare Holo LEGEND",
+      "keywords": [
+        "LEGEND",
+        "undaunted",
+        "legend",
+        "dual card",
+        "legendary",
+        "rare",
+        "HGSS",
+        "dragon type",
+        "colorlesspsychic",
+        "HeartGold SoulSilver",
+        "holographic"
+      ]
+    },
+    {
+      "name": "Alph Lithograph",
+      "cardNumber": "THREE",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Rare Secret",
+      "keywords": [
+        "secret rare",
+        "undaunted",
+        "ruins of alph",
+        "ancient text",
+        "HGSS",
+        "rare",
+        "trainer",
+        "unown",
+        "HeartGold SoulSilver"
+      ]
+    }
+  ]
+}

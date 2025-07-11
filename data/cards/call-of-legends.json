@@ -1,0 +1,1736 @@
+{
+  "setInfo": {
+    "name": "Call of Legends",
+    "series": "Special Set",
+    "releaseDate": "2011-02-09",
+    "totalCards": 95,
+    "cardNumberRange": "1-95",
+    "description": "A special collection set featuring reprints of popular Pokémon cards, including legendary Pokémon, Johto starters, Eeveelutions, and baby Pokémon. Introduces Lost Zone mechanics.",
+    "symbolUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/col_logo_call_of_legends.png"
+  },
+  "cards": [
+    {
+      "name": "Clefable",
+      "cardNumber": "1/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Deoxys",
+      "cardNumber": "2/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "forme change",
+        "space virus",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "DNA pokemon",
+        "call of legends",
+        "psychic",
+        "special set",
+        "mythical"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Dialga",
+      "cardNumber": "3/95",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "Sinnoh legendary",
+        "reprint set",
+        "rare",
+        "temporal pokemon",
+        "pokémon",
+        "call of legends",
+        "legendary",
+        "time control",
+        "metal",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Espeon",
+      "cardNumber": "4/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "psychic type",
+        "holographic",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "sun pokemon",
+        "psychic",
+        "Eeveelution",
+        "Eevee evolution",
+        "special set"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Forretress",
+      "cardNumber": "5/95",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "metal",
+        "special set"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Groudon",
+      "cardNumber": "6/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "Hoenn legendary",
+        "pokémon",
+        "continent pokemon",
+        "call of legends",
+        "ground type",
+        "legendary",
+        "fighting",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Gyarados",
+      "cardNumber": "7/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "atrocious pokemon",
+        "reprint set",
+        "rare",
+        "Magikarp evolution",
+        "pokémon",
+        "water",
+        "call of legends",
+        "water type",
+        "flying type",
+        "special set"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Hitmontop",
+      "cardNumber": "8/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "fighting",
+        "special set"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Ho-Oh",
+      "cardNumber": "9/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "rainbow pokemon",
+        "special set",
+        "reprint set",
+        "rare",
+        "fire type",
+        "Johto legendary",
+        "pokémon",
+        "call of legends",
+        "legendary",
+        "fire"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Houndoom",
+      "cardNumber": "10/95",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "darkness",
+        "special set"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Jirachi",
+      "cardNumber": "11/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "thousand years",
+        "steel type",
+        "wish pokemon",
+        "special set",
+        "mythical"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Kyogre",
+      "cardNumber": "12/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "sea basin pokemon",
+        "Hoenn legendary",
+        "pokémon",
+        "water",
+        "call of legends",
+        "water type",
+        "legendary",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Leafeon",
+      "cardNumber": "13/95",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "grass type",
+        "grass",
+        "pokémon",
+        "call of legends",
+        "verdant pokemon",
+        "Eeveelution",
+        "Eevee evolution",
+        "special set"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Lucario",
+      "cardNumber": "14/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "aura pokemon",
+        "steel type",
+        "fighting type",
+        "fighting",
+        "special set",
+        "Sinnoh"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Lugia",
+      "cardNumber": "15/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "psychic type",
+        "holographic",
+        "reprint set",
+        "rare",
+        "Johto legendary",
+        "pokémon",
+        "water",
+        "call of legends",
+        "diving pokemon",
+        "legendary",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Magmortar",
+      "cardNumber": "16/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "special set",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "fire"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Ninetales",
+      "cardNumber": "17/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "special set",
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "fire"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Pachirisu",
+      "cardNumber": "18/95",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "lightning",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Palkia",
+      "cardNumber": "19/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "Sinnoh legendary",
+        "reprint set",
+        "rare",
+        "spatial pokemon",
+        "space control",
+        "pokémon",
+        "water",
+        "call of legends",
+        "legendary",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Rayquaza",
+      "cardNumber": "20/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "sky high pokemon",
+        "holographic",
+        "reprint set",
+        "rare",
+        "colorless",
+        "Hoenn legendary",
+        "dragon type",
+        "pokémon",
+        "call of legends",
+        "legendary",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Smeargle",
+      "cardNumber": "21/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "reprint set",
+        "rare",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Umbreon",
+      "cardNumber": "22/95",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare Holo",
+      "keywords": [
+        "holographic",
+        "moonlight pokemon",
+        "reprint set",
+        "rare",
+        "dark type",
+        "pokémon",
+        "call of legends",
+        "darkness",
+        "Eevee evolution",
+        "special set",
+        "Eeveelution"
+      ],
+      "hp": 110
+    },
+    {
+      "name": "Ampharos",
+      "cardNumber": "23/95",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "lightning",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Cleffa",
+      "cardNumber": "24/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "baby pokemon",
+        "star shape pokemon",
+        "reprint set",
+        "rare",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set",
+        "fairy type"
+      ],
+      "hp": 30
+    },
+    {
+      "name": "Feraligatr",
+      "cardNumber": "25/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "big jaw pokemon",
+        "pokémon",
+        "water",
+        "call of legends",
+        "water type",
+        "Totodile evolution",
+        "Johto starter",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Granbull",
+      "cardNumber": "26/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Meganium",
+      "cardNumber": "27/95",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "Chikorita evolution",
+        "grass type",
+        "grass",
+        "pokémon",
+        "call of legends",
+        "Johto starter",
+        "herb pokemon",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Mismagius",
+      "cardNumber": "28/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Mr. Mime",
+      "cardNumber": "29/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Pidgeot",
+      "cardNumber": "30/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Skarmory",
+      "cardNumber": "31/95",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "metal",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Slowking",
+      "cardNumber": "32/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Snorlax",
+      "cardNumber": "33/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "colorless",
+        "massive size",
+        "pokémon",
+        "call of legends",
+        "normal type",
+        "sleeping pokemon",
+        "special set"
+      ],
+      "hp": 130
+    },
+    {
+      "name": "Tangrowth",
+      "cardNumber": "34/95",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "grass",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 120
+    },
+    {
+      "name": "Typhlosion",
+      "cardNumber": "35/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "fire",
+        "Cyndaquil evolution",
+        "reprint set",
+        "rare",
+        "fire type",
+        "volcano pokemon",
+        "pokémon",
+        "call of legends",
+        "Johto starter",
+        "special set"
+      ],
+      "hp": 140
+    },
+    {
+      "name": "Tyrogue",
+      "cardNumber": "36/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "baby pokemon",
+        "reprint set",
+        "rare",
+        "scuffle pokemon",
+        "pokémon",
+        "call of legends",
+        "fighting type",
+        "fighting",
+        "special set"
+      ],
+      "hp": 30
+    },
+    {
+      "name": "Ursaring",
+      "cardNumber": "37/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Weezing",
+      "cardNumber": "38/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Zangoose",
+      "cardNumber": "39/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Rare",
+      "keywords": [
+        "reprint set",
+        "rare",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 100
+    },
+    {
+      "name": "Bayleef",
+      "cardNumber": "40/95",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "grass",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Croconaw",
+      "cardNumber": "41/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "water",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Donphan",
+      "cardNumber": "42/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "fighting",
+        "special set"
+      ],
+      "hp": 90
+    },
+    {
+      "name": "Flaaffy",
+      "cardNumber": "43/95",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "lightning",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Flareon",
+      "cardNumber": "44/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "fire",
+        "flame pokemon",
+        "reprint set",
+        "fire type",
+        "pokémon",
+        "call of legends",
+        "Eeveelution",
+        "Eevee evolution",
+        "special set"
+      ],
+      "hp": 90
+    },
+    {
+      "name": "Jolteon",
+      "cardNumber": "45/95",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "lightning pokemon",
+        "reprint set",
+        "lightning",
+        "pokémon",
+        "electric type",
+        "call of legends",
+        "Eeveelution",
+        "Eevee evolution",
+        "special set"
+      ],
+      "hp": 90
+    },
+    {
+      "name": "Magby",
+      "cardNumber": "46/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "fire",
+        "baby pokemon",
+        "live coal pokemon",
+        "reprint set",
+        "fire type",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 30
+    },
+    {
+      "name": "Mime Jr.",
+      "cardNumber": "47/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "psychic type",
+        "baby pokemon",
+        "reprint set",
+        "mime pokemon",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "special set"
+      ],
+      "hp": 30
+    },
+    {
+      "name": "Pidgeotto",
+      "cardNumber": "48/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Quilava",
+      "cardNumber": "49/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "fire",
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Riolu",
+      "cardNumber": "50/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "fighting",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Seviper",
+      "cardNumber": "51/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "special set"
+      ],
+      "hp": 80
+    },
+    {
+      "name": "Vaporeon",
+      "cardNumber": "52/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Uncommon",
+      "keywords": [
+        "bubble jet pokemon",
+        "reprint set",
+        "pokémon",
+        "water",
+        "call of legends",
+        "water type",
+        "Eeveelution",
+        "Eevee evolution",
+        "special set"
+      ],
+      "hp": 90
+    },
+    {
+      "name": "Chikorita",
+      "cardNumber": "53/95",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "grass",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Clefairy",
+      "cardNumber": "54/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Cyndaquil",
+      "cardNumber": "55/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "fire",
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Eevee",
+      "cardNumber": "56/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 60
+    },
+    {
+      "name": "Hitmonchan",
+      "cardNumber": "57/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "fighting",
+        "special set"
+      ],
+      "hp": 60
+    },
+    {
+      "name": "Hitmonlee",
+      "cardNumber": "58/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "fighting",
+        "special set"
+      ],
+      "hp": 60
+    },
+    {
+      "name": "Houndour",
+      "cardNumber": "59/95",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "darkness",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Koffing",
+      "cardNumber": "60/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Magikarp",
+      "cardNumber": "61/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "water",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 30
+    },
+    {
+      "name": "Magmar",
+      "cardNumber": "62/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "fire",
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Mareep",
+      "cardNumber": "63/95",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "lightning",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Mawile",
+      "cardNumber": "64/95",
+      "types": [
+        "Metal"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "metal",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Misdreavus",
+      "cardNumber": "65/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "psychic",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Phanpy",
+      "cardNumber": "66/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "fighting",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Pidgey",
+      "cardNumber": "67/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Pineco",
+      "cardNumber": "68/95",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "grass",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Relicanth",
+      "cardNumber": "69/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "water",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Slowpoke",
+      "cardNumber": "70/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "water",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Snubbull",
+      "cardNumber": "71/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Tangela",
+      "cardNumber": "72/95",
+      "types": [
+        "Grass"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "grass",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Teddiursa",
+      "cardNumber": "73/95",
+      "types": [
+        "Colorless"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "colorless",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Totodile",
+      "cardNumber": "74/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "reprint set",
+        "pokémon",
+        "water",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Vulpix",
+      "cardNumber": "75/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Pokémon",
+      "rarity": "Common",
+      "keywords": [
+        "fire",
+        "reprint set",
+        "pokémon",
+        "call of legends",
+        "special set"
+      ],
+      "hp": 50
+    },
+    {
+      "name": "Cheerleader's Cheer",
+      "cardNumber": "76/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Copycat",
+      "cardNumber": "77/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Dual Ball",
+      "cardNumber": "78/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Interviewer's Questions",
+      "cardNumber": "79/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Lost Remover",
+      "cardNumber": "80/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Lost World",
+      "cardNumber": "81/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "call of legends",
+        "alternate win condition",
+        "trainer",
+        "special set",
+        "lost zone"
+      ]
+    },
+    {
+      "name": "Professor Elm's Training Method",
+      "cardNumber": "82/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Professor Oak's New Theory",
+      "cardNumber": "83/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Research Record",
+      "cardNumber": "84/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Sage's Training",
+      "cardNumber": "85/95",
+      "types": [],
+      "category": "Trainer",
+      "rarity": "Uncommon",
+      "keywords": [
+        "reprint set",
+        "trainer",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Darkness Energy",
+      "cardNumber": "86/95",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Energy",
+      "rarity": "Uncommon",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "darkness e",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Metal Energy",
+      "cardNumber": "87/95",
+      "types": [
+        "Metal"
+      ],
+      "category": "Energy",
+      "rarity": "Uncommon",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "metal e",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Grass Energy",
+      "cardNumber": "88/95",
+      "types": [
+        "Grass"
+      ],
+      "category": "Energy",
+      "rarity": "Common",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "call of legends",
+        "grass e",
+        "special set"
+      ]
+    },
+    {
+      "name": "Fire Energy",
+      "cardNumber": "89/95",
+      "types": [
+        "Fire"
+      ],
+      "category": "Energy",
+      "rarity": "Common",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "call of legends",
+        "fire e",
+        "special set"
+      ]
+    },
+    {
+      "name": "Water Energy",
+      "cardNumber": "90/95",
+      "types": [
+        "Water"
+      ],
+      "category": "Energy",
+      "rarity": "Common",
+      "keywords": [
+        "energy",
+        "water e",
+        "reprint set",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Lightning Energy",
+      "cardNumber": "91/95",
+      "types": [
+        "Lightning"
+      ],
+      "category": "Energy",
+      "rarity": "Common",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "call of legends",
+        "special set",
+        "lightning e"
+      ]
+    },
+    {
+      "name": "Psychic Energy",
+      "cardNumber": "92/95",
+      "types": [
+        "Psychic"
+      ],
+      "category": "Energy",
+      "rarity": "Common",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "call of legends",
+        "special set",
+        "psychic e"
+      ]
+    },
+    {
+      "name": "Fighting Energy",
+      "cardNumber": "93/95",
+      "types": [
+        "Fighting"
+      ],
+      "category": "Energy",
+      "rarity": "Common",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "fighting e",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Darkness Energy",
+      "cardNumber": "94/95",
+      "types": [
+        "Darkness"
+      ],
+      "category": "Energy",
+      "rarity": "Common",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "darkness e",
+        "call of legends",
+        "special set"
+      ]
+    },
+    {
+      "name": "Metal Energy",
+      "cardNumber": "95/95",
+      "types": [
+        "Metal"
+      ],
+      "category": "Energy",
+      "rarity": "Common",
+      "keywords": [
+        "energy",
+        "reprint set",
+        "metal e",
+        "call of legends",
+        "special set"
+      ]
+    }
+  ]
+}
