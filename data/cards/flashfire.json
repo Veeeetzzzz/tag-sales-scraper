@@ -1,0 +1,1749 @@
+{
+  "set_info": {
+    "name": "Flashfire",
+    "release_date": "May 7, 2014",
+    "total_cards": 109
+  },
+  "cards": [
+    {
+      "number": "1/106",
+      "name": "Caterpie",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "bug",
+        "kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/1.jpg"
+    },
+    {
+      "number": "2/106",
+      "name": "Metapod",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "bug",
+        "kanto",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/2.jpg"
+    },
+    {
+      "number": "3/106",
+      "name": "Butterfree",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "bug",
+        "kanto",
+        "evolution",
+        "stage2",
+        "flying"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/3.jpg"
+    },
+    {
+      "number": "4/106",
+      "name": "Pineco",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "bug",
+        "johto"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/4.jpg"
+    },
+    {
+      "number": "5/106",
+      "name": "Seedot",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "hoenn",
+        "acorn"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/5.jpg"
+    },
+    {
+      "number": "6/106",
+      "name": "Nuzleaf",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "dark",
+        "hoenn",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/6.jpg"
+    },
+    {
+      "number": "7/106",
+      "name": "Shiftry",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "dark",
+        "hoenn",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/7.jpg"
+    },
+    {
+      "number": "8/106",
+      "name": "Roselia",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "poison",
+        "hoenn",
+        "flower"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/8.jpg"
+    },
+    {
+      "number": "9/106",
+      "name": "Roserade",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "poison",
+        "sinnoh",
+        "flower",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/9.jpg"
+    },
+    {
+      "number": "10/106",
+      "name": "Maractus",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "unova",
+        "cactus"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/10.jpg"
+    },
+    {
+      "number": "11/106",
+      "name": "CharizardEX",
+      "type": "Fire",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "dragon",
+        "flying",
+        "kanto",
+        "starter",
+        "ex",
+        "pokemon-ex",
+        "powerful"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/11.jpg"
+    },
+    {
+      "number": "12/106",
+      "name": "CharizardEX",
+      "type": "Fire",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "dragon",
+        "flying",
+        "kanto",
+        "starter",
+        "ex",
+        "pokemon-ex",
+        "powerful"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/12.jpg"
+    },
+    {
+      "number": "13/106",
+      "name": "MegaCharizardEX",
+      "type": "Fire",
+      "rarity": "Rare Holo ex",
+      "hp": 220,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "dragon",
+        "flying",
+        "kanto",
+        "starter",
+        "mega",
+        "mega-evolution",
+        "ex",
+        "pokemon-ex",
+        "powerful"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/13.jpg"
+    },
+    {
+      "number": "14/106",
+      "name": "Ponyta",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "kanto",
+        "horse"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/14.jpg"
+    },
+    {
+      "number": "15/106",
+      "name": "Rapidash",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "kanto",
+        "horse",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/15.jpg"
+    },
+    {
+      "number": "16/106",
+      "name": "Torkoal",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "hoenn",
+        "tortoise"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/16.jpg"
+    },
+    {
+      "number": "17/106",
+      "name": "Fletchinder",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "flying",
+        "kalos",
+        "bird",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/17.jpg"
+    },
+    {
+      "number": "18/106",
+      "name": "Litleo",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "normal",
+        "kalos",
+        "lion"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/18.jpg"
+    },
+    {
+      "number": "19/106",
+      "name": "Litleo",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "normal",
+        "kalos",
+        "lion"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/19.jpg"
+    },
+    {
+      "number": "20/106",
+      "name": "Pyroar",
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "hp": 100,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "normal",
+        "kalos",
+        "lion",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/20.jpg"
+    },
+    {
+      "number": "21/106",
+      "name": "Qwilfish",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 80,
+      "keywords": [
+        "pokemon",
+        "water",
+        "poison",
+        "johto",
+        "balloon"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/21.jpg"
+    },
+    {
+      "number": "22/106",
+      "name": "Feebas",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 30,
+      "keywords": [
+        "pokemon",
+        "water",
+        "hoenn",
+        "fish"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/22.jpg"
+    },
+    {
+      "number": "23/106",
+      "name": "Milotic",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 100,
+      "keywords": [
+        "pokemon",
+        "water",
+        "hoenn",
+        "tender",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/23.jpg"
+    },
+    {
+      "number": "24/106",
+      "name": "Spheal",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [
+        "pokemon",
+        "water",
+        "ice",
+        "hoenn",
+        "ball"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/24.jpg"
+    },
+    {
+      "number": "25/106",
+      "name": "Sealeo",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "water",
+        "ice",
+        "hoenn",
+        "ball",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/25.jpg"
+    },
+    {
+      "number": "26/106",
+      "name": "Walrein",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [
+        "pokemon",
+        "water",
+        "ice",
+        "hoenn",
+        "ice-break",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/26.jpg"
+    },
+    {
+      "number": "27/106",
+      "name": "Luvdisc",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "water",
+        "hoenn",
+        "rendezvous"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/27.jpg"
+    },
+    {
+      "number": "28/106",
+      "name": "Buizel",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "water",
+        "sinnoh",
+        "sea-weasel"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/28.jpg"
+    },
+    {
+      "number": "29/106",
+      "name": "Floatzel",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [
+        "pokemon",
+        "water",
+        "sinnoh",
+        "sea-weasel",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/29.jpg"
+    },
+    {
+      "number": "30/106",
+      "name": "Bergmite",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [
+        "pokemon",
+        "water",
+        "ice",
+        "kalos",
+        "iceberg"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/30.jpg"
+    },
+    {
+      "number": "31/106",
+      "name": "Avalugg",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "keywords": [
+        "pokemon",
+        "water",
+        "ice",
+        "kalos",
+        "iceberg",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/31.jpg"
+    },
+    {
+      "number": "32/106",
+      "name": "Shinx",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "lightning",
+        "electric",
+        "sinnoh",
+        "flash"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/32.jpg"
+    },
+    {
+      "number": "33/106",
+      "name": "Luxio",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "pokemon",
+        "lightning",
+        "electric",
+        "sinnoh",
+        "spark",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/33.jpg"
+    },
+    {
+      "number": "34/106",
+      "name": "Luxray",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [
+        "pokemon",
+        "lightning",
+        "electric",
+        "sinnoh",
+        "gleam-eyes",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/34.jpg"
+    },
+    {
+      "number": "35/106",
+      "name": "MagnezoneEX",
+      "type": "Lightning",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "pokemon",
+        "lightning",
+        "electric",
+        "steel",
+        "sinnoh",
+        "ex",
+        "pokemon-ex",
+        "powerful"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/35.jpg"
+    },
+    {
+      "number": "36/106",
+      "name": "Helioptile",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "lightning",
+        "electric",
+        "normal",
+        "kalos",
+        "generator"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/36.jpg"
+    },
+    {
+      "number": "37/106",
+      "name": "Heliolisk",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "lightning",
+        "electric",
+        "normal",
+        "kalos",
+        "generator",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/37.jpg"
+    },
+    {
+      "number": "38/106",
+      "name": "Duskull",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "pokemon",
+        "psychic",
+        "ghost",
+        "hoenn",
+        "requiem"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/38.jpg"
+    },
+    {
+      "number": "39/106",
+      "name": "Dusclops",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "pokemon",
+        "psychic",
+        "ghost",
+        "hoenn",
+        "beckon",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/39.jpg"
+    },
+    {
+      "number": "40/106",
+      "name": "Dusknoir",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "pokemon",
+        "psychic",
+        "ghost",
+        "sinnoh",
+        "gripper",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/40.jpg"
+    },
+    {
+      "number": "41/106",
+      "name": "ToxicroakEX",
+      "type": "Psychic",
+      "rarity": "Rare Holo ex",
+      "hp": 170,
+      "keywords": [
+        "pokemon",
+        "psychic",
+        "poison",
+        "fighting",
+        "sinnoh",
+        "ex",
+        "pokemon-ex",
+        "powerful"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/41.jpg"
+    },
+    {
+      "number": "42/106",
+      "name": "Espurr",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "psychic",
+        "kalos",
+        "restraint"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/42.jpg"
+    },
+    {
+      "number": "43/106",
+      "name": "Meowstic",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "psychic",
+        "kalos",
+        "constraint",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/43.jpg"
+    },
+    {
+      "number": "44/106",
+      "name": "Skrelp",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "psychic",
+        "poison",
+        "water",
+        "kalos",
+        "mock-kelp"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/44.jpg"
+    },
+    {
+      "number": "45/106",
+      "name": "Geodude",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fighting",
+        "ground",
+        "rock",
+        "kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/45.jpg"
+    },
+    {
+      "number": "46/106",
+      "name": "Graveler",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "fighting",
+        "ground",
+        "rock",
+        "kanto",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/46.jpg"
+    },
+    {
+      "number": "47/106",
+      "name": "Golem",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [
+        "pokemon",
+        "fighting",
+        "ground",
+        "rock",
+        "kanto",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/47.jpg"
+    },
+    {
+      "number": "48/106",
+      "name": "Binacle",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [
+        "pokemon",
+        "fighting",
+        "rock",
+        "water",
+        "kalos",
+        "two-handed"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/48.jpg"
+    },
+    {
+      "number": "49/106",
+      "name": "Barbaracle",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [
+        "pokemon",
+        "fighting",
+        "rock",
+        "water",
+        "kalos",
+        "collective",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/49.jpg"
+    },
+    {
+      "number": "50/106",
+      "name": "Sneasel",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "ice",
+        "johto",
+        "sharp-claw"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/50.jpg"
+    },
+    {
+      "number": "51/106",
+      "name": "Sneasel",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "ice",
+        "johto",
+        "sharp-claw"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/51.jpg"
+    },
+    {
+      "number": "52/106",
+      "name": "Weavile",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "ice",
+        "sinnoh",
+        "sharp-claw",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/52.jpg"
+    },
+    {
+      "number": "53/106",
+      "name": "Stunky",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "poison",
+        "sinnoh",
+        "skunk"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/53.jpg"
+    },
+    {
+      "number": "54/106",
+      "name": "Stunky",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "poison",
+        "sinnoh",
+        "skunk"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/54.jpg"
+    },
+    {
+      "number": "55/106",
+      "name": "Skuntank",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "poison",
+        "sinnoh",
+        "skunk",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/55.jpg"
+    },
+    {
+      "number": "56/106",
+      "name": "Sandile",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "ground",
+        "unova",
+        "desert-croc"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/56.jpg"
+    },
+    {
+      "number": "57/106",
+      "name": "Krokorok",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "ground",
+        "unova",
+        "desert-croc",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/57.jpg"
+    },
+    {
+      "number": "58/106",
+      "name": "Scraggy",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "fighting",
+        "unova",
+        "shedding"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/58.jpg"
+    },
+    {
+      "number": "59/106",
+      "name": "Scrafty",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "fighting",
+        "unova",
+        "hoodlum",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/59.jpg"
+    },
+    {
+      "number": "60/106",
+      "name": "Forretress",
+      "type": "Metal",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "metal",
+        "steel",
+        "bug",
+        "johto",
+        "bagworm",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/60.jpg"
+    },
+    {
+      "number": "61/106",
+      "name": "Durant",
+      "type": "Metal",
+      "rarity": "Rare",
+      "hp": 70,
+      "keywords": [
+        "pokemon",
+        "metal",
+        "steel",
+        "bug",
+        "unova",
+        "iron-ant"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/61.jpg"
+    },
+    {
+      "number": "62/106",
+      "name": "Flabébé",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "kalos",
+        "single-bloom"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/62.jpg"
+    },
+    {
+      "number": "63/106",
+      "name": "Flabébé",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "kalos",
+        "single-bloom"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/63.jpg"
+    },
+    {
+      "number": "64/106",
+      "name": "Floette",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "hp": 70,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "kalos",
+        "single-bloom",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/64.jpg"
+    },
+    {
+      "number": "65/106",
+      "name": "Floette",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "kalos",
+        "single-bloom",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/65.jpg"
+    },
+    {
+      "number": "66/106",
+      "name": "Florges",
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "hp": 110,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "kalos",
+        "garden",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/66.jpg"
+    },
+    {
+      "number": "67/106",
+      "name": "Spritzee",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "kalos",
+        "perfume"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/67.jpg"
+    },
+    {
+      "number": "68/106",
+      "name": "Carbink",
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "rock",
+        "kalos",
+        "jewel"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/68.jpg"
+    },
+    {
+      "number": "69/106",
+      "name": "MegaCharizardEX",
+      "type": "Dragon",
+      "rarity": "Rare Holo ex",
+      "hp": 230,
+      "keywords": [
+        "pokemon",
+        "dragon",
+        "fire",
+        "flying",
+        "kanto",
+        "starter",
+        "mega",
+        "mega-evolution",
+        "ex",
+        "pokemon-ex",
+        "powerful"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/69.jpg"
+    },
+    {
+      "number": "70/106",
+      "name": "Druddigon",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 100,
+      "keywords": [
+        "pokemon",
+        "dragon",
+        "unova",
+        "cave"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/70.jpg"
+    },
+    {
+      "number": "71/106",
+      "name": "Dragalge",
+      "type": "Dragon",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [
+        "pokemon",
+        "dragon",
+        "poison",
+        "water",
+        "kalos",
+        "mock-kelp",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/71.jpg"
+    },
+    {
+      "number": "72/106",
+      "name": "Goomy",
+      "type": "Dragon",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "dragon",
+        "kalos",
+        "soft-tissue"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/72.jpg"
+    },
+    {
+      "number": "73/106",
+      "name": "Sliggoo",
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "dragon",
+        "kalos",
+        "soft-tissue",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/73.jpg"
+    },
+    {
+      "number": "74/106",
+      "name": "Goodra",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "pokemon",
+        "dragon",
+        "kalos",
+        "dragon",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/74.jpg"
+    },
+    {
+      "number": "75/106",
+      "name": "Pidgey",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "flying",
+        "kanto",
+        "tiny-bird"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/75.jpg"
+    },
+    {
+      "number": "76/106",
+      "name": "Pidgeotto",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "flying",
+        "kanto",
+        "bird",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/76.jpg"
+    },
+    {
+      "number": "77/106",
+      "name": "Pidgeot",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "flying",
+        "kanto",
+        "bird",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/77.jpg"
+    },
+    {
+      "number": "78/106",
+      "name": "KangaskhanEX",
+      "type": "Colorless",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "kanto",
+        "parent",
+        "ex",
+        "pokemon-ex",
+        "powerful"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/78.jpg"
+    },
+    {
+      "number": "79/106",
+      "name": "MegaKangaskhanEX",
+      "type": "Colorless",
+      "rarity": "Rare Holo ex",
+      "hp": 230,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "kanto",
+        "parent",
+        "mega",
+        "mega-evolution",
+        "ex",
+        "pokemon-ex",
+        "powerful"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/79.jpg"
+    },
+    {
+      "number": "80/106",
+      "name": "Snorlax",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "kanto",
+        "sleeping"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/80.jpg"
+    },
+    {
+      "number": "81/106",
+      "name": "Sentret",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "johto",
+        "scout"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/81.jpg"
+    },
+    {
+      "number": "82/106",
+      "name": "Furret",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "johto",
+        "long-body",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/82.jpg"
+    },
+    {
+      "number": "83/106",
+      "name": "Miltank",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "johto",
+        "milk-cow"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/83.jpg"
+    },
+    {
+      "number": "84/106",
+      "name": "Buneary",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "sinnoh",
+        "rabbit"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/84.jpg"
+    },
+    {
+      "number": "85/106",
+      "name": "Lopunny",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "sinnoh",
+        "rabbit",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/85.jpg"
+    },
+    {
+      "number": "86/106",
+      "name": "Fletchling",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "flying",
+        "kalos",
+        "tiny-robin"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/86.jpg"
+    },
+    {
+      "number": "87/106",
+      "name": "Furfrou",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "kalos",
+        "poodle"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/87.jpg"
+    },
+    {
+      "number": "88/106",
+      "name": "Blacksmith",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "supporter",
+        "fire",
+        "energy",
+        "attach"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/88.jpg"
+    },
+    {
+      "number": "89/106",
+      "name": "Fiery Torch",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "item",
+        "fire",
+        "pokemon",
+        "discard"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/89.jpg"
+    },
+    {
+      "number": "90/106",
+      "name": "Lysandre",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "supporter",
+        "kalos",
+        "switch",
+        "pokemon"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/90.jpg"
+    },
+    {
+      "number": "91/106",
+      "name": "Magnetic Storm",
+      "type": "Trainer",
+      "subtype": "Stadium",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "stadium",
+        "lightning",
+        "metal",
+        "energy"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/91.jpg"
+    },
+    {
+      "number": "92/106",
+      "name": "Pal Pad",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "item",
+        "supporter",
+        "shuffle"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/92.jpg"
+    },
+    {
+      "number": "93/106",
+      "name": "Pokémon Center Lady",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "supporter",
+        "heal",
+        "pokemon"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/93.jpg"
+    },
+    {
+      "number": "94/106",
+      "name": "Pokémon Fan Club",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "supporter",
+        "search",
+        "pokemon"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/94.jpg"
+    },
+    {
+      "number": "95/106",
+      "name": "Protection Cube",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "item",
+        "tool",
+        "protection"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/95.jpg"
+    },
+    {
+      "number": "96/106",
+      "name": "Sacred Ash",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "item",
+        "pokemon",
+        "shuffle"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/96.jpg"
+    },
+    {
+      "number": "97/106",
+      "name": "Startling Megaphone",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "item",
+        "tool",
+        "discard"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/97.jpg"
+    },
+    {
+      "number": "98/106",
+      "name": "Trick Shovel",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "item",
+        "deck",
+        "top"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/98.jpg"
+    },
+    {
+      "number": "99/106",
+      "name": "Ultra Ball",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "item",
+        "search",
+        "pokemon"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/99.jpg"
+    },
+    {
+      "number": "100/106",
+      "name": "CharizardEX",
+      "type": "Fire",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "dragon",
+        "flying",
+        "kanto",
+        "starter",
+        "ex",
+        "pokemon-ex",
+        "powerful",
+        "ultra"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/100.jpg"
+    },
+    {
+      "number": "101/106",
+      "name": "MagnezoneEX",
+      "type": "Lightning",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "pokemon",
+        "lightning",
+        "electric",
+        "steel",
+        "sinnoh",
+        "ex",
+        "pokemon-ex",
+        "powerful",
+        "ultra"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/101.jpg"
+    },
+    {
+      "number": "102/106",
+      "name": "ToxicroakEX",
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "hp": 170,
+      "keywords": [
+        "pokemon",
+        "psychic",
+        "poison",
+        "fighting",
+        "sinnoh",
+        "ex",
+        "pokemon-ex",
+        "powerful",
+        "ultra"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/102.jpg"
+    },
+    {
+      "number": "103/106",
+      "name": "KangaskhanEX",
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "kanto",
+        "parent",
+        "ex",
+        "pokemon-ex",
+        "powerful",
+        "ultra"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/103.jpg"
+    },
+    {
+      "number": "104/106",
+      "name": "Lysandre",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "rarity": "Rare Ultra",
+      "keywords": [
+        "trainer",
+        "supporter",
+        "kalos",
+        "switch",
+        "pokemon",
+        "ultra"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/104.jpg"
+    },
+    {
+      "number": "105/106",
+      "name": "Pokémon Center Lady",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "rarity": "Rare Ultra",
+      "keywords": [
+        "trainer",
+        "supporter",
+        "heal",
+        "pokemon",
+        "ultra"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/105.jpg"
+    },
+    {
+      "number": "106/106",
+      "name": "Pokémon Fan Club",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "rarity": "Rare Ultra",
+      "keywords": [
+        "trainer",
+        "supporter",
+        "search",
+        "pokemon",
+        "ultra"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/106.jpg"
+    },
+    {
+      "number": "107/106",
+      "name": "MegaCharizardEX",
+      "type": "Fire",
+      "rarity": "Rare Secret",
+      "hp": 220,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "dragon",
+        "flying",
+        "kanto",
+        "starter",
+        "mega",
+        "mega-evolution",
+        "ex",
+        "pokemon-ex",
+        "powerful",
+        "secret"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/107.jpg"
+    },
+    {
+      "number": "108/106",
+      "name": "MegaCharizardEX",
+      "type": "Dragon",
+      "rarity": "Rare Secret",
+      "hp": 230,
+      "keywords": [
+        "pokemon",
+        "dragon",
+        "fire",
+        "flying",
+        "kanto",
+        "starter",
+        "mega",
+        "mega-evolution",
+        "ex",
+        "pokemon-ex",
+        "powerful",
+        "secret"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/108.jpg"
+    },
+    {
+      "number": "109/106",
+      "name": "MegaKangaskhanEX",
+      "type": "Colorless",
+      "rarity": "Rare Secret",
+      "hp": 230,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "normal",
+        "kanto",
+        "parent",
+        "mega",
+        "mega-evolution",
+        "ex",
+        "pokemon-ex",
+        "powerful",
+        "secret"
+      ],
+      "image_url": "https://www.serebii.net/card/flashfire/109.jpg"
+    }
+  ]
+}

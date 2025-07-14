@@ -1,0 +1,1274 @@
+{
+  "set": {
+    "id": "dragon-majesty",
+    "name": "Dragon Majesty",
+    "series": "Sun & Moon",
+    "releaseDate": "2018-09-07",
+    "totalCards": 78,
+    "mainSetCards": 70,
+    "symbolUrl": "https://www.serebii.net/card/symbols/dragonmajesty.png",
+    "logoUrl": "https://www.serebii.net/card/dragonmajesty/logo.png"
+  },
+  "cards": [
+    {
+      "id": "dragon-majesty-1",
+      "name": "Charmander",
+      "number": 1,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/1.jpg"
+    },
+    {
+      "id": "dragon-majesty-2",
+      "name": "Charmeleon",
+      "number": 2,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/2.jpg"
+    },
+    {
+      "id": "dragon-majesty-3",
+      "name": "Charizard",
+      "number": 3,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 130,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/3.jpg"
+    },
+    {
+      "id": "dragon-majesty-4",
+      "name": "Torchic",
+      "number": 4,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Starter",
+        "Hoenn",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/4.jpg"
+    },
+    {
+      "id": "dragon-majesty-5",
+      "name": "Combusken",
+      "number": 5,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Hoenn",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/5.jpg"
+    },
+    {
+      "id": "dragon-majesty-6",
+      "name": "Blaziken",
+      "number": 6,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 130,
+      "keywords": [
+        "Starter",
+        "Hoenn",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/6.jpg"
+    },
+    {
+      "id": "dragon-majesty-7",
+      "name": "Victini Prism Star",
+      "number": 7,
+      "type": "Fire",
+      "rarity": "Rare Prism",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Prism Star",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/7.jpg"
+    },
+    {
+      "id": "dragon-majesty-8",
+      "name": "Darumaka",
+      "number": 8,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/8.jpg"
+    },
+    {
+      "id": "dragon-majesty-9",
+      "name": "Darmanitan",
+      "number": 9,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/9.jpg"
+    },
+    {
+      "id": "dragon-majesty-10",
+      "name": "Heatmor",
+      "number": 10,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/10.jpg"
+    },
+    {
+      "id": "dragon-majesty-11",
+      "name": "Reshiram-GX",
+      "number": 11,
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/11.jpg"
+    },
+    {
+      "id": "dragon-majesty-12",
+      "name": "Litten",
+      "number": 12,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/12.jpg"
+    },
+    {
+      "id": "dragon-majesty-13",
+      "name": "Salandit",
+      "number": 13,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/13.jpg"
+    },
+    {
+      "id": "dragon-majesty-14",
+      "name": "Salazzle",
+      "number": 14,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/14.jpg"
+    },
+    {
+      "id": "dragon-majesty-15",
+      "name": "Horsea",
+      "number": 15,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/15.jpg"
+    },
+    {
+      "id": "dragon-majesty-16",
+      "name": "Horsea",
+      "number": 16,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/16.jpg"
+    },
+    {
+      "id": "dragon-majesty-17",
+      "name": "Seadra",
+      "number": 17,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/17.jpg"
+    },
+    {
+      "id": "dragon-majesty-18",
+      "name": "Kingdra-GX",
+      "number": 18,
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/18.jpg"
+    },
+    {
+      "id": "dragon-majesty-19",
+      "name": "Magikarp",
+      "number": 19,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/19.jpg"
+    },
+    {
+      "id": "dragon-majesty-20",
+      "name": "Gyarados",
+      "number": 20,
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/20.jpg"
+    },
+    {
+      "id": "dragon-majesty-21",
+      "name": "Lapras",
+      "number": 21,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/21.jpg"
+    },
+    {
+      "id": "dragon-majesty-22",
+      "name": "Totodile",
+      "number": 22,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/22.jpg"
+    },
+    {
+      "id": "dragon-majesty-23",
+      "name": "Croconaw",
+      "number": 23,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/23.jpg"
+    },
+    {
+      "id": "dragon-majesty-24",
+      "name": "Feraligatr",
+      "number": 24,
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/24.jpg"
+    },
+    {
+      "id": "dragon-majesty-25",
+      "name": "Wooper",
+      "number": 25,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/25.jpg"
+    },
+    {
+      "id": "dragon-majesty-26",
+      "name": "Quagsire",
+      "number": 26,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/26.jpg"
+    },
+    {
+      "id": "dragon-majesty-27",
+      "name": "Corsola",
+      "number": 27,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/27.jpg"
+    },
+    {
+      "id": "dragon-majesty-28",
+      "name": "Feebas",
+      "number": 28,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/28.jpg"
+    },
+    {
+      "id": "dragon-majesty-29",
+      "name": "Milotic",
+      "number": 29,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/29.jpg"
+    },
+    {
+      "id": "dragon-majesty-30",
+      "name": "Phione",
+      "number": 30,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/30.jpg"
+    },
+    {
+      "id": "dragon-majesty-31",
+      "name": "Wishiwashi",
+      "number": 31,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/31.jpg"
+    },
+    {
+      "id": "dragon-majesty-32",
+      "name": "Trapinch",
+      "number": 32,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Hoenn",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/32.jpg"
+    },
+    {
+      "id": "dragon-majesty-33",
+      "name": "Hydreigon",
+      "number": 33,
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/33.jpg"
+    },
+    {
+      "id": "dragon-majesty-34",
+      "name": "Dratini",
+      "number": 34,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [
+        "Dragon",
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/34.jpg"
+    },
+    {
+      "id": "dragon-majesty-35",
+      "name": "Dratini",
+      "number": 35,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [
+        "Dragon",
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/35.jpg"
+    },
+    {
+      "id": "dragon-majesty-36",
+      "name": "Dragonair",
+      "number": 36,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Dragon",
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/36.jpg"
+    },
+    {
+      "id": "dragon-majesty-37",
+      "name": "Dragonite-GX",
+      "number": 37,
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 250,
+      "keywords": [
+        "GX",
+        "Dragon",
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/37.jpg"
+    },
+    {
+      "id": "dragon-majesty-38",
+      "name": "Vibrava",
+      "number": 38,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 70,
+      "keywords": [
+        "Dragon",
+        "Hoenn",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/38.jpg"
+    },
+    {
+      "id": "dragon-majesty-39",
+      "name": "Flygon",
+      "number": 39,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 120,
+      "keywords": [
+        "Dragon",
+        "Hoenn",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/39.jpg"
+    },
+    {
+      "id": "dragon-majesty-40",
+      "name": "Altaria",
+      "number": 40,
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/40.jpg"
+    },
+    {
+      "id": "dragon-majesty-41",
+      "name": "Altaria-GX",
+      "number": 41,
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/41.jpg"
+    },
+    {
+      "id": "dragon-majesty-42",
+      "name": "Bagon",
+      "number": 42,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Dragon",
+        "Hoenn",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/42.jpg"
+    },
+    {
+      "id": "dragon-majesty-43",
+      "name": "Shelgon",
+      "number": 43,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Dragon",
+        "Hoenn",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/43.jpg"
+    },
+    {
+      "id": "dragon-majesty-44",
+      "name": "Salamence-GX",
+      "number": 44,
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Dragon",
+        "Hoenn",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/44.jpg"
+    },
+    {
+      "id": "dragon-majesty-45",
+      "name": "Druddigon",
+      "number": 45,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/45.jpg"
+    },
+    {
+      "id": "dragon-majesty-46",
+      "name": "Zekrom",
+      "number": 46,
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/46.jpg"
+    },
+    {
+      "id": "dragon-majesty-47",
+      "name": "Kyurem",
+      "number": 47,
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/47.jpg"
+    },
+    {
+      "id": "dragon-majesty-48",
+      "name": "White Kyurem-GX",
+      "number": 48,
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/48.jpg"
+    },
+    {
+      "id": "dragon-majesty-49",
+      "name": "Zygarde",
+      "number": 49,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [
+        "Legendary",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/49.jpg"
+    },
+    {
+      "id": "dragon-majesty-50",
+      "name": "Turtonator",
+      "number": 50,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 110,
+      "keywords": [
+        "Dragon",
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/50.jpg"
+    },
+    {
+      "id": "dragon-majesty-51",
+      "name": "Drampa",
+      "number": 51,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Dragon",
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/51.jpg"
+    },
+    {
+      "id": "dragon-majesty-52",
+      "name": "Jangmo-o",
+      "number": 52,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Dragon",
+        "Alolan",
+        "Alola",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/52.jpg"
+    },
+    {
+      "id": "dragon-majesty-53",
+      "name": "Hakamo-o",
+      "number": 53,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Dragon",
+        "Alolan",
+        "Alola",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/53.jpg"
+    },
+    {
+      "id": "dragon-majesty-54",
+      "name": "Kommo-o",
+      "number": 54,
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Dragon",
+        "Alolan",
+        "Alola",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/54.jpg"
+    },
+    {
+      "id": "dragon-majesty-55",
+      "name": "Kangaskhan",
+      "number": 55,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/55.jpg"
+    },
+    {
+      "id": "dragon-majesty-56",
+      "name": "Swablu",
+      "number": 56,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/56.jpg"
+    },
+    {
+      "id": "dragon-majesty-57",
+      "name": "Swablu",
+      "number": 57,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/57.jpg"
+    },
+    {
+      "id": "dragon-majesty-58",
+      "name": "Blaine's Last Stand",
+      "number": 58,
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/58.jpg"
+    },
+    {
+      "id": "dragon-majesty-59",
+      "name": "Dragon Talon",
+      "number": 59,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/59.jpg"
+    },
+    {
+      "id": "dragon-majesty-60",
+      "name": "Fiery Flint",
+      "number": 60,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/60.jpg"
+    },
+    {
+      "id": "dragon-majesty-61",
+      "name": "Lance Prism Star",
+      "number": 61,
+      "type": "Trainer",
+      "rarity": "Rare Prism",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/61.jpg"
+    },
+    {
+      "id": "dragon-majesty-62",
+      "name": "Switch Raft",
+      "number": 62,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/62.jpg"
+    },
+    {
+      "id": "dragon-majesty-63",
+      "name": "Wela Volcano Park",
+      "number": 63,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/63.jpg"
+    },
+    {
+      "id": "dragon-majesty-64",
+      "name": "Zinnia",
+      "number": 64,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/64.jpg"
+    },
+    {
+      "id": "dragon-majesty-65",
+      "name": "Reshiram-GX",
+      "number": 65,
+      "type": "Fire",
+      "rarity": "Rare Ultra",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/65.jpg"
+    },
+    {
+      "id": "dragon-majesty-66",
+      "name": "Kingdra-GX",
+      "number": 66,
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/66.jpg"
+    },
+    {
+      "id": "dragon-majesty-67",
+      "name": "Dragonite-GX",
+      "number": 67,
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 250,
+      "keywords": [
+        "GX",
+        "Dragon",
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/67.jpg"
+    },
+    {
+      "id": "dragon-majesty-68",
+      "name": "Altaria-GX",
+      "number": 68,
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/68.jpg"
+    },
+    {
+      "id": "dragon-majesty-69",
+      "name": "Blaine's Last Stand",
+      "number": 69,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/69.jpg"
+    },
+    {
+      "id": "dragon-majesty-70",
+      "name": "Zinnia",
+      "number": 70,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/70.jpg"
+    },
+    {
+      "id": "dragon-majesty-71",
+      "name": "Reshiram-GX",
+      "number": 71,
+      "type": "Fire",
+      "rarity": "Rare Rainbow",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/71.jpg"
+    },
+    {
+      "id": "dragon-majesty-72",
+      "name": "Altaria-GX",
+      "number": 72,
+      "type": "Dragon",
+      "rarity": "Rare Rainbow",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/72.jpg"
+    },
+    {
+      "id": "dragon-majesty-73",
+      "name": "Salamence-GX",
+      "number": 73,
+      "type": "Dragon",
+      "rarity": "Rare Rainbow",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Dragon",
+        "Hoenn",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/73.jpg"
+    },
+    {
+      "id": "dragon-majesty-74",
+      "name": "White Kyurem-GX",
+      "number": 74,
+      "type": "Dragon",
+      "rarity": "Rare Rainbow",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/74.jpg"
+    },
+    {
+      "id": "dragon-majesty-75",
+      "name": "Dragon Talon",
+      "number": 75,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/75.jpg"
+    },
+    {
+      "id": "dragon-majesty-76",
+      "name": "Fiery Flint",
+      "number": 76,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/76.jpg"
+    },
+    {
+      "id": "dragon-majesty-77",
+      "name": "Switch Raft",
+      "number": 77,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/77.jpg"
+    },
+    {
+      "id": "dragon-majesty-78",
+      "name": "Ultra Necrozma-GX",
+      "number": 78,
+      "type": "Dragon",
+      "rarity": "Rare Secret",
+      "set": "dragon-majesty",
+      "setName": "Dragon Majesty",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/dragonmajesty/78.jpg"
+    }
+  ]
+}

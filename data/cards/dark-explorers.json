@@ -1,0 +1,2946 @@
+{
+  "set_info": {
+    "name": "Dark Explorers",
+    "series": "Black & White",
+    "set_code": "BW5",
+    "release_date": "2012-05-09",
+    "total_cards": 108
+  },
+  "cards": [
+    {
+      "id": "dark-explorers-1",
+      "name": "Bulbasaur",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "1/108",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "bulbasaur",
+        "grass",
+        "pokemon",
+        "grass",
+        "poison",
+        "seed"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/1.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-2",
+      "name": "Ivysaur",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "2/108",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "ivysaur",
+        "grass",
+        "pokemon",
+        "grass",
+        "poison",
+        "seed"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/2.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/2.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-3",
+      "name": "Venusaur",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "3/108",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "venusaur",
+        "grass",
+        "pokemon",
+        "grass",
+        "poison",
+        "seed"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/3.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/3.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-4",
+      "name": "Scyther",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "4/108",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "scyther",
+        "grass",
+        "pokemon",
+        "bug",
+        "flying",
+        "mantis"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/4.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/4.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-5",
+      "name": "Carnivine",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "5/108",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "carnivine",
+        "grass",
+        "pokemon",
+        "grass",
+        "bug",
+        "catcher"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/5.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/5.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-6",
+      "name": "Leafeon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "6/108",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "leafeon",
+        "grass",
+        "pokemon",
+        "grass",
+        "verdant",
+        "fresh"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/6.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-7",
+      "name": "Dwebble",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "7/108",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "dwebble",
+        "grass",
+        "pokemon",
+        "bug",
+        "rock",
+        "hermit"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/7.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/7.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-8",
+      "name": "Crustle",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "8/108",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "crustle",
+        "grass",
+        "pokemon",
+        "bug",
+        "rock",
+        "stone"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/8.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/8.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-9",
+      "name": "Karrablast",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "9/108",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "karrablast",
+        "grass",
+        "pokemon",
+        "bug",
+        "clamping",
+        "beetle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/9.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/9.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-10",
+      "name": "Shelmet",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "10/108",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "shelmet",
+        "grass",
+        "pokemon",
+        "bug",
+        "snail",
+        "shell"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/10.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/10.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-11",
+      "name": "Accelgor",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "11/108",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "accelgor",
+        "grass",
+        "pokemon",
+        "bug",
+        "shell",
+        "ninja"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/11.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/11.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-12",
+      "name": "Flareon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "12/108",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "flareon",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "body"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/12.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/12.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-13",
+      "name": "Entei-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "13/108",
+      "rarity": "Rare Holo ex",
+      "type": "Fire",
+      "matching_keywords": [
+        "entei",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "pokemon",
+        "legendary",
+        "fire",
+        "volcano",
+        "lava"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/13.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/13.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dark-explorers-14",
+      "name": "Torchic",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "14/108",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "torchic",
+        "fire",
+        "pokemon",
+        "fire",
+        "flying",
+        "chick"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/14.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/14.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-15",
+      "name": "Torchic",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "15/108",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "torchic",
+        "fire",
+        "pokemon",
+        "fire",
+        "flying",
+        "chick"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/15.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/15.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-16",
+      "name": "Combusken",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "16/108",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "combusken",
+        "fire",
+        "pokemon",
+        "fire",
+        "fighting",
+        "young"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/16.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/16.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-17",
+      "name": "Blaziken",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "17/108",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "blaziken",
+        "fire",
+        "pokemon",
+        "fire",
+        "fighting",
+        "blaze"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/17.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/17.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-18",
+      "name": "Torkoal",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "18/108",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "torkoal",
+        "fire",
+        "pokemon",
+        "fire",
+        "coal",
+        "white"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/18.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/18.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-19",
+      "name": "Heatmor",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "19/108",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "heatmor",
+        "fire",
+        "pokemon",
+        "fire",
+        "anteater",
+        "flame"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/19.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/19.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-20",
+      "name": "Larvesta",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "20/108",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "larvesta",
+        "fire",
+        "pokemon",
+        "bug",
+        "fire",
+        "torch"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/20.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/20.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-21",
+      "name": "Larvesta",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "21/108",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "larvesta",
+        "fire",
+        "pokemon",
+        "bug",
+        "fire",
+        "torch"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/21.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/21.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-22",
+      "name": "Volcarona",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "22/108",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "volcarona",
+        "fire",
+        "pokemon",
+        "bug",
+        "fire",
+        "sun"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/22.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/22.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-23",
+      "name": "Slowpoke",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "23/108",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "slowpoke",
+        "water",
+        "pokemon",
+        "water",
+        "psychic",
+        "dopey"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/23.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/23.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-24",
+      "name": "Slowbro",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "24/108",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "slowbro",
+        "water",
+        "pokemon",
+        "water",
+        "psychic",
+        "hermit"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/24.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/24.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-25",
+      "name": "Vaporeon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "25/108",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "vaporeon",
+        "water",
+        "pokemon",
+        "water",
+        "bubble",
+        "jet"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/25.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/25.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-26",
+      "name": "Kyogre-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "26/108",
+      "rarity": "Rare Holo ex",
+      "type": "Water",
+      "matching_keywords": [
+        "kyogre",
+        "ex",
+        "pokemon-ex",
+        "water",
+        "pokemon",
+        "legendary",
+        "water",
+        "sea",
+        "basin"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/26.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/26.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dark-explorers-27",
+      "name": "Piplup",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "27/108",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "piplup",
+        "water",
+        "pokemon",
+        "water",
+        "penguin",
+        "proud"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/27.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/27.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-28",
+      "name": "Prinplup",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "28/108",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "prinplup",
+        "water",
+        "pokemon",
+        "water",
+        "penguin",
+        "proud"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/28.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/28.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-29",
+      "name": "Empoleon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "29/108",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "empoleon",
+        "water",
+        "pokemon",
+        "water",
+        "steel",
+        "emperor"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/29.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/29.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-30",
+      "name": "Glaceon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "30/108",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "glaceon",
+        "water",
+        "pokemon",
+        "ice",
+        "fresh",
+        "snow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/30.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/30.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-31",
+      "name": "Tympole",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "31/108",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "tympole",
+        "water",
+        "pokemon",
+        "water",
+        "tadpole",
+        "vibration"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/31.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/31.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-32",
+      "name": "Palpitoad",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "32/108",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "palpitoad",
+        "water",
+        "pokemon",
+        "water",
+        "ground",
+        "vibration"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/32.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/32.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-33",
+      "name": "Vanillite",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "33/108",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "vanillite",
+        "water",
+        "pokemon",
+        "ice",
+        "fresh",
+        "snow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/33.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/33.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-34",
+      "name": "Vanillish",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "34/108",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "vanillish",
+        "water",
+        "pokemon",
+        "ice",
+        "icy",
+        "snow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/34.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/34.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-35",
+      "name": "Ducklett",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "35/108",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "ducklett",
+        "water",
+        "pokemon",
+        "water",
+        "flying",
+        "water"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/35.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/35.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-36",
+      "name": "Swanna",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "36/108",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "swanna",
+        "water",
+        "pokemon",
+        "water",
+        "flying",
+        "white"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/36.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/36.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-37",
+      "name": "Jolteon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "37/108",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "jolteon",
+        "lightning",
+        "pokemon",
+        "electric",
+        "lightning",
+        "rod"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/37.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/37.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-38",
+      "name": "Raikou-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "38/108",
+      "rarity": "Rare Holo ex",
+      "type": "Lightning",
+      "matching_keywords": [
+        "raikou",
+        "ex",
+        "pokemon-ex",
+        "lightning",
+        "pokemon",
+        "legendary",
+        "electric",
+        "thunder",
+        "lightning"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/38.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/38.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dark-explorers-39",
+      "name": "Plusle",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "39/108",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "plusle",
+        "lightning",
+        "pokemon",
+        "electric",
+        "cheering",
+        "plus"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/39.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/39.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-40",
+      "name": "Minun",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "40/108",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "minun",
+        "lightning",
+        "pokemon",
+        "electric",
+        "cheering",
+        "minus"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/40.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/40.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-41",
+      "name": "Joltik",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "41/108",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "joltik",
+        "lightning",
+        "pokemon",
+        "bug",
+        "electric",
+        "attaching"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/41.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/41.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-42",
+      "name": "Joltik",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "42/108",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "joltik",
+        "lightning",
+        "pokemon",
+        "bug",
+        "electric",
+        "attaching"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/42.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/42.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-43",
+      "name": "Galvantula",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "43/108",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "matching_keywords": [
+        "galvantula",
+        "lightning",
+        "pokemon",
+        "bug",
+        "electric",
+        "spider"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/43.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/43.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-44",
+      "name": "Tynamo",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "44/108",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "tynamo",
+        "lightning",
+        "pokemon",
+        "electric",
+        "elfish",
+        "eel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/44.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/44.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-45",
+      "name": "Tynamo",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "45/108",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "tynamo",
+        "lightning",
+        "pokemon",
+        "electric",
+        "elfish",
+        "eel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/45.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/45.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-46",
+      "name": "Eelektrik",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "46/108",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "eelektrik",
+        "lightning",
+        "pokemon",
+        "electric",
+        "elfish",
+        "eel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/46.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/46.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-47",
+      "name": "Eelektross",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "47/108",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "eelektross",
+        "lightning",
+        "pokemon",
+        "electric",
+        "elfish",
+        "eel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/47.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/47.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-48",
+      "name": "Espeon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "48/108",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "espeon",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "sun",
+        "loyalty"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/48.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/48.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-49",
+      "name": "Slowking",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "49/108",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "slowking",
+        "psychic",
+        "pokemon",
+        "water",
+        "psychic",
+        "royal"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/49.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/49.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-50",
+      "name": "Woobat",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "50/108",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "woobat",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "flying",
+        "bat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/50.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/50.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-51",
+      "name": "Yamask",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "51/108",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "yamask",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "spirit",
+        "mask"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/51.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/51.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-52",
+      "name": "Cofagrigus",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "52/108",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "cofagrigus",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "coffin",
+        "sarcophagus"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/52.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/52.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-53",
+      "name": "Aerodactyl",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "53/108",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "aerodactyl",
+        "fighting",
+        "pokemon",
+        "rock",
+        "flying",
+        "fossil"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/53.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/53.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "dark-explorers-54",
+      "name": "Groudon-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "54/108",
+      "rarity": "Rare Holo ex",
+      "type": "Fighting",
+      "matching_keywords": [
+        "groudon",
+        "ex",
+        "pokemon-ex",
+        "fighting",
+        "pokemon",
+        "legendary",
+        "ground",
+        "continent",
+        "expand"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/54.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/54.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dark-explorers-55",
+      "name": "Drilbur",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "55/108",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "drilbur",
+        "fighting",
+        "pokemon",
+        "ground",
+        "mole",
+        "subterrene"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/55.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-56",
+      "name": "Excadrill",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "56/108",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "excadrill",
+        "fighting",
+        "pokemon",
+        "ground",
+        "steel",
+        "subterrene"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/56.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/56.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-57",
+      "name": "Excadrill",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "57/108",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "excadrill",
+        "fighting",
+        "pokemon",
+        "ground",
+        "steel",
+        "subterrene"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/57.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/57.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-58",
+      "name": "Timburr",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "58/108",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "timburr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "muscular",
+        "construction"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/58.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/58.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-59",
+      "name": "Gurdurr",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "59/108",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "gurdurr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "muscular",
+        "construction"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/59.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/59.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-60",
+      "name": "Umbreon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "60/108",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "umbreon",
+        "darkness",
+        "pokemon",
+        "dark",
+        "moonlight",
+        "rings"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/60.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/60.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-61",
+      "name": "Umbreon",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "61/108",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "umbreon",
+        "darkness",
+        "pokemon",
+        "dark",
+        "moonlight",
+        "rings"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/61.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/61.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-62",
+      "name": "Sableye",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "62/108",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "sableye",
+        "darkness",
+        "pokemon",
+        "dark",
+        "ghost",
+        "darkness"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/62.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/62.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-63",
+      "name": "Darkrai-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "63/108",
+      "rarity": "Rare Holo ex",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkrai",
+        "ex",
+        "pokemon-ex",
+        "darkness",
+        "pokemon",
+        "legendary",
+        "dark",
+        "pitch",
+        "black"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/63.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/63.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dark-explorers-64",
+      "name": "Sandile",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "64/108",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "sandile",
+        "darkness",
+        "pokemon",
+        "ground",
+        "dark",
+        "desert"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/64.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/64.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-65",
+      "name": "Krokorok",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "65/108",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "krokorok",
+        "darkness",
+        "pokemon",
+        "ground",
+        "dark",
+        "desert"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/65.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/65.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-66",
+      "name": "Krookodile",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "66/108",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "krookodile",
+        "darkness",
+        "pokemon",
+        "ground",
+        "dark",
+        "intimidation"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/66.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/66.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-67",
+      "name": "Scraggy",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "67/108",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "scraggy",
+        "darkness",
+        "pokemon",
+        "dark",
+        "fighting",
+        "shedding"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/67.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/67.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-68",
+      "name": "Scrafty",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "68/108",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "scrafty",
+        "darkness",
+        "pokemon",
+        "dark",
+        "fighting",
+        "hoodlum"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/68.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/68.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-69",
+      "name": "Zorua",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "69/108",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "zorua",
+        "darkness",
+        "pokemon",
+        "dark",
+        "tricky",
+        "fox"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/69.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/69.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-70",
+      "name": "Zorua",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "70/108",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "zorua",
+        "darkness",
+        "pokemon",
+        "dark",
+        "tricky",
+        "fox"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/70.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/70.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-71",
+      "name": "Zoroark",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "71/108",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "zoroark",
+        "darkness",
+        "pokemon",
+        "dark",
+        "illusion",
+        "fox"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/71.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/71.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-72",
+      "name": "Bisharp",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "72/108",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "bisharp",
+        "darkness",
+        "pokemon",
+        "dark",
+        "steel",
+        "sword"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/72.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/72.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-73",
+      "name": "Vullaby",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "73/108",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "vullaby",
+        "darkness",
+        "pokemon",
+        "dark",
+        "flying",
+        "diapered"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/73.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/73.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-74",
+      "name": "Escavalier",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "74/108",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "escavalier",
+        "metal",
+        "pokemon",
+        "bug",
+        "steel",
+        "cavalry"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/74.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/74.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-75",
+      "name": "Klink",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "75/108",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "klink",
+        "metal",
+        "pokemon",
+        "steel",
+        "gear",
+        "rotating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/75.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/75.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-76",
+      "name": "Klang",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "76/108",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "klang",
+        "metal",
+        "pokemon",
+        "steel",
+        "gear",
+        "rotating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/76.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/76.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-77",
+      "name": "Klinklang",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "77/108",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "matching_keywords": [
+        "klinklang",
+        "metal",
+        "pokemon",
+        "steel",
+        "gear",
+        "rotating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/77.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/77.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-78",
+      "name": "Pawniard",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "78/108",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "pawniard",
+        "metal",
+        "pokemon",
+        "dark",
+        "steel",
+        "blade"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/78.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/78.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-79",
+      "name": "Bisharp",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "79/108",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "bisharp",
+        "metal",
+        "pokemon",
+        "dark",
+        "steel",
+        "sword"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/79.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/79.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-80",
+      "name": "Chansey",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "80/108",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "chansey",
+        "colorless",
+        "pokemon",
+        "normal",
+        "egg",
+        "lucky"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/80.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/80.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-81",
+      "name": "Chansey",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "81/108",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "chansey",
+        "colorless",
+        "pokemon",
+        "normal",
+        "egg",
+        "lucky"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/81.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/81.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-82",
+      "name": "Blissey",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "82/108",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "blissey",
+        "colorless",
+        "pokemon",
+        "normal",
+        "happiness",
+        "bliss"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/82.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/82.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-83",
+      "name": "Eevee",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "83/108",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "eevee",
+        "colorless",
+        "pokemon",
+        "normal",
+        "evolution",
+        "dna"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/83.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/83.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-84",
+      "name": "Eevee",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "84/108",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "eevee",
+        "colorless",
+        "pokemon",
+        "normal",
+        "evolution",
+        "dna"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/84.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/84.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-85",
+      "name": "Chatot",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "85/108",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "chatot",
+        "colorless",
+        "pokemon",
+        "normal",
+        "flying",
+        "music"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/85.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/85.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-86",
+      "name": "Lillipup",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "86/108",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "lillipup",
+        "colorless",
+        "pokemon",
+        "normal",
+        "puppy",
+        "loyal"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/86.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/86.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dark-explorers-87",
+      "name": "Herdier",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "87/108",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "herdier",
+        "colorless",
+        "pokemon",
+        "normal",
+        "loyal",
+        "dog"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/87.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/87.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dark-explorers-88",
+      "name": "Stoutland",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "88/108",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "stoutland",
+        "colorless",
+        "pokemon",
+        "normal",
+        "big",
+        "hearted"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/88.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/88.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-89",
+      "name": "Haxorus",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "89/108",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "haxorus",
+        "colorless",
+        "pokemon",
+        "dragon",
+        "axe",
+        "jaw"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/89.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/89.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dark-explorers-90",
+      "name": "Tornadus-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "90/108",
+      "rarity": "Rare Holo ex",
+      "type": "Colorless",
+      "matching_keywords": [
+        "tornadus",
+        "ex",
+        "pokemon-ex",
+        "colorless",
+        "pokemon",
+        "legendary",
+        "flying",
+        "cyclone",
+        "genie"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/90.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/90.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dark-explorers-91",
+      "name": "Cheren",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "91/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "cheren",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "friend",
+        "research"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/91.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/91.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "dark-explorers-92",
+      "name": "Dark Claw",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "92/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "dark claw",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "dark",
+        "tool"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/92.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/92.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dark-explorers-93",
+      "name": "Dark Patch",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "93/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "dark patch",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "dark",
+        "energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/93.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/93.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dark-explorers-94",
+      "name": "Enhanced Hammer",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "94/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "enhanced hammer",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "discard",
+        "special"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/94.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/94.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dark-explorers-95",
+      "name": "Hooligans Jim & Cas",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "95/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "hooligans jim & cas",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "team",
+        "rocket"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/95.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/95.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "dark-explorers-96",
+      "name": "N",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "96/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "n",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "team",
+        "plasma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/96.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/96.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "dark-explorers-97",
+      "name": "Old Amber Aerodactyl",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "97/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "old amber aerodactyl",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "fossil",
+        "aerodactyl"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/97.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/97.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dark-explorers-98",
+      "name": "Professor Juniper",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "98/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "professor juniper",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "professor",
+        "draw"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/98.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/98.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "dark-explorers-99",
+      "name": "Random Receiver",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "99/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "random receiver",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "supporter",
+        "random"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/99.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/99.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dark-explorers-100",
+      "name": "Rare Candy",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "100/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "rare candy",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "evolution",
+        "skip"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/100.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/100.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dark-explorers-101",
+      "name": "Twist Mountain",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "101/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "twist mountain",
+        "trainer",
+        "support",
+        "item",
+        "stadium",
+        "flip",
+        "coin"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/101.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/101.jpg"
+      },
+      "subtype": "Stadium"
+    },
+    {
+      "id": "dark-explorers-102",
+      "name": "Ultra Ball",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "102/108",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "ultra ball",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "pokeball",
+        "discard"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/102.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/102.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dark-explorers-103",
+      "name": "Entei-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "103/108",
+      "rarity": "Rare Ultra",
+      "type": "Fire",
+      "matching_keywords": [
+        "entei",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "pokemon",
+        "legendary",
+        "fire",
+        "volcano",
+        "lava"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/103.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/103.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dark-explorers-104",
+      "name": "Kyogre-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "104/108",
+      "rarity": "Rare Ultra",
+      "type": "Water",
+      "matching_keywords": [
+        "kyogre",
+        "ex",
+        "pokemon-ex",
+        "water",
+        "pokemon",
+        "legendary",
+        "water",
+        "sea",
+        "basin"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/104.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/104.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dark-explorers-105",
+      "name": "Raikou-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "105/108",
+      "rarity": "Rare Ultra",
+      "type": "Lightning",
+      "matching_keywords": [
+        "raikou",
+        "ex",
+        "pokemon-ex",
+        "lightning",
+        "pokemon",
+        "legendary",
+        "electric",
+        "thunder",
+        "lightning"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/105.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/105.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dark-explorers-106",
+      "name": "Groudon-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "106/108",
+      "rarity": "Rare Ultra",
+      "type": "Fighting",
+      "matching_keywords": [
+        "groudon",
+        "ex",
+        "pokemon-ex",
+        "fighting",
+        "pokemon",
+        "legendary",
+        "ground",
+        "continent",
+        "expand"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/106.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/106.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dark-explorers-107",
+      "name": "Darkrai-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "107/108",
+      "rarity": "Rare Ultra",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkrai",
+        "ex",
+        "pokemon-ex",
+        "darkness",
+        "pokemon",
+        "legendary",
+        "dark",
+        "pitch",
+        "black"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/107.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/107.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dark-explorers-108",
+      "name": "Tornadus-EX",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "108/108",
+      "rarity": "Rare Ultra",
+      "type": "Colorless",
+      "matching_keywords": [
+        "tornadus",
+        "ex",
+        "pokemon-ex",
+        "colorless",
+        "pokemon",
+        "legendary",
+        "flying",
+        "cyclone",
+        "genie"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/108.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/108.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dark-explorers-109",
+      "name": "Gardevoir",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "109/108",
+      "rarity": "Rare Secret",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gardevoir",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "fairy",
+        "embrace"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/109.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/109.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "dark-explorers-110",
+      "name": "Archeops",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "110/108",
+      "rarity": "Rare Secret",
+      "type": "Fighting",
+      "matching_keywords": [
+        "archeops",
+        "fighting",
+        "pokemon",
+        "rock",
+        "flying",
+        "first"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/110.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/110.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "dark-explorers-111",
+      "name": "Pokémon Catcher",
+      "set": {
+        "name": "Dark Explorers",
+        "series": "Black & White",
+        "set_code": "BW5",
+        "release_date": "2012-05-09"
+      },
+      "number": "111/108",
+      "rarity": "Rare Secret",
+      "type": "Trainer",
+      "matching_keywords": [
+        "pokémon catcher",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "switch",
+        "force"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/darkexplorers/111.jpg",
+        "large": "https://www.serebii.net/card/darkexplorers/111.jpg"
+      },
+      "subtype": "Item"
+    }
+  ]
+}

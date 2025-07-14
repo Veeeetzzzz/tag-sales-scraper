@@ -1,0 +1,1097 @@
+{
+  "set_info": {
+    "name": "Generations",
+    "series": "XY",
+    "release_date": "2016-02-22",
+    "total_cards": 83,
+    "symbol": "GEN",
+    "logo": "https://www.serebii.net/card/generations/logo.png"
+  },
+  "cards": [
+    {
+      "id": "generations-1",
+      "name": "VenusaurEX",
+      "number": "1",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/1.jpg",
+      "hp": 180,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-2",
+      "name": "MegaVenusaurEX",
+      "number": "2",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/2.jpg",
+      "hp": 230,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "generations-3",
+      "name": "Caterpie",
+      "number": "3",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/3.jpg",
+      "hp": 50
+    },
+    {
+      "id": "generations-4",
+      "name": "Metapod",
+      "number": "4",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/4.jpg",
+      "hp": 70
+    },
+    {
+      "id": "generations-5",
+      "name": "Butterfree",
+      "number": "5",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/5.jpg",
+      "hp": 100
+    },
+    {
+      "id": "generations-6",
+      "name": "Paras",
+      "number": "6",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/6.jpg",
+      "hp": 60
+    },
+    {
+      "id": "generations-7",
+      "name": "Parasect",
+      "number": "7",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/7.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-8",
+      "name": "Tangela",
+      "number": "8",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/8.jpg",
+      "hp": 80
+    },
+    {
+      "id": "generations-9",
+      "name": "Pinsir",
+      "number": "9",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/9.jpg",
+      "hp": 80
+    },
+    {
+      "id": "generations-10",
+      "name": "LeafeonEX",
+      "number": "10",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/10.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-11",
+      "name": "CharizardEX",
+      "number": "11",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/11.jpg",
+      "hp": 180,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-12",
+      "name": "MegaCharizardEX",
+      "number": "12",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/12.jpg",
+      "hp": 220,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "generations-13",
+      "name": "NinetalesEX",
+      "number": "13",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/13.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-14",
+      "name": "Ponyta",
+      "number": "14",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/14.jpg",
+      "hp": 60
+    },
+    {
+      "id": "generations-15",
+      "name": "Rapidash",
+      "number": "15",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/15.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-16",
+      "name": "Magmar",
+      "number": "16",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/16.jpg",
+      "hp": 80
+    },
+    {
+      "id": "generations-17",
+      "name": "BlastoiseEX",
+      "number": "17",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/17.jpg",
+      "hp": 180,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-18",
+      "name": "MegaBlastoiseEX",
+      "number": "18",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/18.jpg",
+      "hp": 220,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "generations-19",
+      "name": "Shellder",
+      "number": "19",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/19.jpg",
+      "hp": 50
+    },
+    {
+      "id": "generations-20",
+      "name": "Cloyster",
+      "number": "20",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/20.jpg",
+      "hp": 100
+    },
+    {
+      "id": "generations-21",
+      "name": "Krabby",
+      "number": "21",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/21.jpg",
+      "hp": 60
+    },
+    {
+      "id": "generations-22",
+      "name": "Magikarp",
+      "number": "22",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/22.jpg",
+      "hp": 30
+    },
+    {
+      "id": "generations-23",
+      "name": "Gyarados",
+      "number": "23",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/23.jpg",
+      "hp": 130
+    },
+    {
+      "id": "generations-24",
+      "name": "VaporeonEX",
+      "number": "24",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/24.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-25",
+      "name": "Articuno",
+      "number": "25",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/25.jpg",
+      "hp": 100
+    },
+    {
+      "id": "generations-26",
+      "name": "Pikachu",
+      "number": "26",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/26.jpg",
+      "hp": 60
+    },
+    {
+      "id": "generations-27",
+      "name": "Raichu",
+      "number": "27",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/27.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-28",
+      "name": "JolteonEX",
+      "number": "28",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/28.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-29",
+      "name": "Zapdos",
+      "number": "29",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/29.jpg",
+      "hp": 100
+    },
+    {
+      "id": "generations-30",
+      "name": "Zubat",
+      "number": "30",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/30.jpg",
+      "hp": 50
+    },
+    {
+      "id": "generations-31",
+      "name": "Golbat",
+      "number": "31",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/31.jpg",
+      "hp": 80
+    },
+    {
+      "id": "generations-32",
+      "name": "Slowpoke",
+      "number": "32",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/32.jpg",
+      "hp": 60
+    },
+    {
+      "id": "generations-33",
+      "name": "Gastly",
+      "number": "33",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/33.jpg",
+      "hp": 50
+    },
+    {
+      "id": "generations-34",
+      "name": "Haunter",
+      "number": "34",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/34.jpg",
+      "hp": 70
+    },
+    {
+      "id": "generations-35",
+      "name": "Gengar",
+      "number": "35",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/35.jpg",
+      "hp": 110
+    },
+    {
+      "id": "generations-36",
+      "name": "Jynx",
+      "number": "36",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/36.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-37",
+      "name": "MeowsticEX",
+      "number": "37",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/37.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-38",
+      "name": "Diglett",
+      "number": "38",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/38.jpg",
+      "hp": 50
+    },
+    {
+      "id": "generations-39",
+      "name": "Dugtrio",
+      "number": "39",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/39.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-40",
+      "name": "Machop",
+      "number": "40",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/40.jpg",
+      "hp": 70
+    },
+    {
+      "id": "generations-41",
+      "name": "Machoke",
+      "number": "41",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/41.jpg",
+      "hp": 100
+    },
+    {
+      "id": "generations-42",
+      "name": "Machamp",
+      "number": "42",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/42.jpg",
+      "hp": 140
+    },
+    {
+      "id": "generations-43",
+      "name": "Geodude",
+      "number": "43",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/43.jpg",
+      "hp": 70
+    },
+    {
+      "id": "generations-44",
+      "name": "Graveler",
+      "number": "44",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/44.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-45",
+      "name": "Golem",
+      "number": "45",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/45.jpg",
+      "hp": 140
+    },
+    {
+      "id": "generations-46",
+      "name": "GolemEX",
+      "number": "46",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/46.jpg",
+      "hp": 190,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "generations-47",
+      "name": "Hitmonlee",
+      "number": "47",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/47.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-48",
+      "name": "Hitmonchan",
+      "number": "48",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/48.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-49",
+      "name": "Rhyhorn",
+      "number": "49",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/49.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-50",
+      "name": "Clefairy",
+      "number": "50",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/50.jpg",
+      "hp": 60
+    },
+    {
+      "id": "generations-51",
+      "name": "Clefable",
+      "number": "51",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/51.jpg",
+      "hp": 100
+    },
+    {
+      "id": "generations-52",
+      "name": "Mr. Mime",
+      "number": "52",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/52.jpg",
+      "hp": 80
+    },
+    {
+      "id": "generations-53",
+      "name": "Meowth",
+      "number": "53",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/53.jpg",
+      "hp": 60
+    },
+    {
+      "id": "generations-54",
+      "name": "Persian",
+      "number": "54",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/54.jpg",
+      "hp": 80
+    },
+    {
+      "id": "generations-55",
+      "name": "Doduo",
+      "number": "55",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/55.jpg",
+      "hp": 60
+    },
+    {
+      "id": "generations-56",
+      "name": "Dodrio",
+      "number": "56",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/56.jpg",
+      "hp": 90
+    },
+    {
+      "id": "generations-57",
+      "name": "Tauros",
+      "number": "57",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/57.jpg",
+      "hp": 100
+    },
+    {
+      "id": "generations-58",
+      "name": "Snorlax",
+      "number": "58",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/58.jpg",
+      "hp": 120
+    },
+    {
+      "id": "generations-59",
+      "name": "Clemont",
+      "number": "59",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/59.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "generations-60",
+      "name": "Crushing Hammer",
+      "number": "60",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/60.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "generations-61",
+      "name": "Energy Switch",
+      "number": "61",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/61.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "generations-62",
+      "name": "Evosoda",
+      "number": "62",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/62.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "generations-63",
+      "name": "Imakuni?",
+      "number": "63",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/63.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "generations-64",
+      "name": "Maintenance",
+      "number": "64",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/64.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "generations-65",
+      "name": "Max Revive",
+      "number": "65",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/65.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "generations-66",
+      "name": "Olympia",
+      "number": "66",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/66.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "generations-67",
+      "name": "Pok\u00e9 Ball",
+      "number": "67",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/67.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "generations-68",
+      "name": "Pok\u00e9mon Center Lady",
+      "number": "68",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/68.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "generations-69",
+      "name": "Pok\u00e9mon Fan Club",
+      "number": "69",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/69.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "generations-70",
+      "name": "Revitalizer",
+      "number": "70",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/70.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "generations-71",
+      "name": "Red Card",
+      "number": "71",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/71.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "generations-72",
+      "name": "Shauna",
+      "number": "72",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/72.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "generations-73",
+      "name": "Team Flare Grunt",
+      "number": "73",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/73.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "generations-74",
+      "name": "Double Colorless Energy",
+      "number": "74",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/74.jpg",
+      "keywords": [
+        "special-energy"
+      ]
+    },
+    {
+      "id": "generations-75",
+      "name": "Grass Energy",
+      "number": "75",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/75.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    },
+    {
+      "id": "generations-76",
+      "name": "Fire Energy",
+      "number": "76",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/76.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    },
+    {
+      "id": "generations-77",
+      "name": "Water Energy",
+      "number": "77",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/77.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    },
+    {
+      "id": "generations-78",
+      "name": "Lightning Energy",
+      "number": "78",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/78.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    },
+    {
+      "id": "generations-79",
+      "name": "Psychic Energy",
+      "number": "79",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/79.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    },
+    {
+      "id": "generations-80",
+      "name": "Fighting Energy",
+      "number": "80",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/80.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    },
+    {
+      "id": "generations-81",
+      "name": "Darkness Energy",
+      "number": "81",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/81.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    },
+    {
+      "id": "generations-82",
+      "name": "Metal Energy",
+      "number": "82",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/82.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    },
+    {
+      "id": "generations-83",
+      "name": "Fairy Energy",
+      "number": "83",
+      "set": "Generations",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/generations/83.jpg",
+      "keywords": [
+        "basic-energy"
+      ]
+    }
+  ]
+}

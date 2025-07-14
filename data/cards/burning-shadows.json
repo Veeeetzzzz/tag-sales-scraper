@@ -1,1669 +1,2485 @@
 {
-  "setInfo": {
+  "set": {
     "name": "Burning Shadows",
-    "code": "BUS",
-    "releaseDate": "2017-08-04",
-    "totalCards": 147
+    "series": "Sun & Moon",
+    "printedTotal": 147,
+    "total": 169,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "BUS",
+    "releaseDate": "2017/08/04",
+    "updatedAt": "2024/01/01 00:00:00",
+    "images": {
+      "symbol": "https://www.serebii.net/card/burningshadows/symbol.png",
+      "logo": "https://www.serebii.net/card/burningshadows/logo.png"
+    }
   },
   "cards": [
     {
-      "id": "BUS-1",
+      "id": "bsh1",
       "name": "Caterpie",
       "number": "1",
+      "type": "Grass",
+      "hp": 40,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "caterpie"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/1.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/1.jpg"
+      }
     },
     {
-      "id": "BUS-2",
+      "id": "bsh2",
       "name": "Metapod",
       "number": "2",
+      "type": "Grass",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "metapod"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/2.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/2.jpg"
+      }
     },
     {
-      "id": "BUS-3",
+      "id": "bsh3",
       "name": "Butterfree",
       "number": "3",
+      "type": "Grass",
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "butterfree"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/3.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/3.jpg"
+      }
     },
     {
-      "id": "BUS-4",
+      "id": "bsh4",
       "name": "Oddish",
       "number": "4",
+      "type": "Grass",
+      "hp": 40,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "oddish"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/4.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/4.jpg"
+      }
     },
     {
-      "id": "BUS-5",
+      "id": "bsh5",
       "name": "Gloom",
       "number": "5",
+      "type": "Grass",
+      "hp": 70,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "gloom"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/5.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/5.jpg"
+      }
     },
     {
-      "id": "BUS-6",
+      "id": "bsh6",
       "name": "Vileplume",
       "number": "6",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "vileplume"
-      ]
+      "type": "Grass",
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/6.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/6.jpg"
+      }
     },
     {
-      "id": "BUS-7",
+      "id": "bsh7",
       "name": "Tangela",
       "number": "7",
+      "type": "Grass",
+      "hp": 80,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "tangela"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/7.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/7.jpg"
+      }
     },
     {
-      "id": "BUS-8",
+      "id": "bsh8",
       "name": "Tangrowth",
       "number": "8",
+      "type": "Grass",
+      "hp": 110,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "tangrowth"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/8.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/8.jpg"
+      }
     },
     {
-      "id": "BUS-9",
+      "id": "bsh9",
       "name": "Ledyba",
       "number": "9",
+      "type": "Grass",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "ledyba"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/9.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/9.jpg"
+      }
     },
     {
-      "id": "BUS-10",
+      "id": "bsh10",
       "name": "Ledian",
       "number": "10",
+      "type": "Grass",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "ledian"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/10.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/10.jpg"
+      }
     },
     {
-      "id": "BUS-11",
+      "id": "bsh11",
       "name": "Heracross",
       "number": "11",
+      "type": "Grass",
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "heracross"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/11.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/11.jpg"
+      }
     },
     {
-      "id": "BUS-12",
+      "id": "bsh12",
       "name": "Pansage",
       "number": "12",
+      "type": "Grass",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "pansage"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/12.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/12.jpg"
+      }
     },
     {
-      "id": "BUS-13",
+      "id": "bsh13",
       "name": "Simisage",
       "number": "13",
+      "type": "Grass",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "simisage"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/13.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/13.jpg"
+      }
     },
     {
-      "id": "BUS-14",
+      "id": "bsh14",
       "name": "Dewpider",
       "number": "14",
+      "type": "Grass",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "dewpider"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/14.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/14.jpg"
+      }
     },
     {
-      "id": "BUS-15",
+      "id": "bsh15",
       "name": "Araquanid",
       "number": "15",
+      "type": "Grass",
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "araquanid"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/15.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/15.jpg"
+      }
     },
     {
-      "id": "BUS-16",
+      "id": "bsh16",
       "name": "Wimpod",
       "number": "16",
+      "type": "Grass",
+      "hp": 30,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "wimpod"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/16.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/16.jpg"
+      }
     },
     {
-      "id": "BUS-17",
+      "id": "bsh17",
       "name": "Golisopod-GX",
       "number": "17",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "golisopod"
-      ]
+      "type": "Grass",
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/17.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/17.jpg"
+      }
     },
     {
-      "id": "BUS-18",
+      "id": "bsh18",
       "name": "Charmander",
       "number": "18",
+      "type": "Fire",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "charmander"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/18.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/18.jpg"
+      }
     },
     {
-      "id": "BUS-19",
+      "id": "bsh19",
       "name": "Charmeleon",
       "number": "19",
+      "type": "Fire",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "charmeleon"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/19.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/19.jpg"
+      }
     },
     {
-      "id": "BUS-20",
+      "id": "bsh20",
       "name": "Charizard-GX",
       "number": "20",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "charizard"
-      ]
+      "type": "Fire",
+      "hp": 250,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/20.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/20.jpg"
+      }
     },
     {
-      "id": "BUS-21",
+      "id": "bsh21",
       "name": "Ho-Oh-GX",
       "number": "21",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "ho-oh"
-      ]
+      "type": "Fire",
+      "hp": 190,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/21.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/21.jpg"
+      }
     },
     {
-      "id": "BUS-22",
+      "id": "bsh22",
       "name": "Pansear",
       "number": "22",
+      "type": "Fire",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "pansear"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/22.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/22.jpg"
+      }
     },
     {
-      "id": "BUS-23",
+      "id": "bsh23",
       "name": "Simisear",
       "number": "23",
+      "type": "Fire",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "simisear"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/23.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/23.jpg"
+      }
     },
     {
-      "id": "BUS-24",
+      "id": "bsh24",
       "name": "Heatmor",
       "number": "24",
+      "type": "Fire",
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "heatmor"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/24.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/24.jpg"
+      }
     },
     {
-      "id": "BUS-25",
+      "id": "bsh25",
       "name": "Salazzle-GX",
       "number": "25",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "salazzle"
-      ]
+      "type": "Fire",
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/25.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/25.jpg"
+      }
     },
     {
-      "id": "BUS-26",
+      "id": "bsh26",
       "name": "Turtonator",
       "number": "26",
+      "type": "Fire",
+      "hp": 110,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "turtonator"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/26.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/26.jpg"
+      }
     },
     {
-      "id": "BUS-27",
+      "id": "bsh27",
       "name": "Alolan Vulpix",
       "number": "27",
+      "type": "Water",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "alolan",
-        "vulpix",
-        "alolan vulpix"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/27.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/27.jpg"
+      }
     },
     {
-      "id": "BUS-28",
+      "id": "bsh28",
       "name": "Alolan Ninetales",
       "number": "28",
+      "type": "Water",
+      "hp": 110,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "alolan",
-        "alolan ninetales",
-        "ninetales"
-      ]
+      "artist": "Yuka Morii",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/28.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/28.jpg"
+      }
     },
     {
-      "id": "BUS-29",
+      "id": "bsh29",
       "name": "Horsea",
       "number": "29",
+      "type": "Water",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "horsea"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/29.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/29.jpg"
+      }
     },
     {
-      "id": "BUS-30",
+      "id": "bsh30",
       "name": "Seadra",
       "number": "30",
+      "type": "Water",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "seadra"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/30.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/30.jpg"
+      }
     },
     {
-      "id": "BUS-31",
+      "id": "bsh31",
       "name": "Kingdra",
       "number": "31",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "kingdra"
-      ]
+      "type": "Water",
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/31.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/31.jpg"
+      }
     },
     {
-      "id": "BUS-32",
+      "id": "bsh32",
       "name": "Magikarp",
       "number": "32",
+      "type": "Water",
+      "hp": 30,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "magikarp"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/32.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/32.jpg"
+      }
     },
     {
-      "id": "BUS-33",
+      "id": "bsh33",
       "name": "Gyarados",
       "number": "33",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "gyarados"
-      ]
+      "type": "Water",
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/33.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/33.jpg"
+      }
     },
     {
-      "id": "BUS-34",
+      "id": "bsh34",
       "name": "Marill",
       "number": "34",
+      "type": "Water",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "marill"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/34.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/34.jpg"
+      }
     },
     {
-      "id": "BUS-35",
+      "id": "bsh35",
       "name": "Azumarill",
       "number": "35",
+      "type": "Water",
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "azumarill"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/35.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/35.jpg"
+      }
     },
     {
-      "id": "BUS-36",
+      "id": "bsh36",
       "name": "Panpour",
       "number": "36",
+      "type": "Water",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "panpour"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/36.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/36.jpg"
+      }
     },
     {
-      "id": "BUS-37",
+      "id": "bsh37",
       "name": "Simipour",
       "number": "37",
+      "type": "Water",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "simipour"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/37.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/37.jpg"
+      }
     },
     {
-      "id": "BUS-38",
+      "id": "bsh38",
       "name": "Bruxish",
       "number": "38",
+      "type": "Water",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "bruxish"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/38.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/38.jpg"
+      }
     },
     {
-      "id": "BUS-39",
+      "id": "bsh39",
       "name": "Tapu Fini-GX",
       "number": "39",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "tapu",
-        "fini",
-        "tapu fini"
-      ]
+      "type": "Water",
+      "hp": 170,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/39.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/39.jpg"
+      }
     },
     {
-      "id": "BUS-40",
+      "id": "bsh40",
       "name": "Pikachu",
       "number": "40",
+      "type": "Lightning",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "pikachu"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/40.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/40.jpg"
+      }
     },
     {
-      "id": "BUS-41",
+      "id": "bsh41",
       "name": "Raichu",
       "number": "41",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "raichu"
-      ]
+      "type": "Lightning",
+      "hp": 90,
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/41.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/41.jpg"
+      }
     },
     {
-      "id": "BUS-42",
+      "id": "bsh42",
       "name": "Electabuzz",
       "number": "42",
+      "type": "Lightning",
+      "hp": 70,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "electabuzz"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/42.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/42.jpg"
+      }
     },
     {
-      "id": "BUS-43",
+      "id": "bsh43",
       "name": "Electivire",
       "number": "43",
+      "type": "Lightning",
+      "hp": 110,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "electivire"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/43.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/43.jpg"
+      }
     },
     {
-      "id": "BUS-44",
+      "id": "bsh44",
       "name": "Tynamo",
       "number": "44",
+      "type": "Lightning",
+      "hp": 40,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "tynamo"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/44.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/44.jpg"
+      }
     },
     {
-      "id": "BUS-45",
+      "id": "bsh45",
       "name": "Eelektrik",
       "number": "45",
+      "type": "Lightning",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "eelektrik"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/45.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/45.jpg"
+      }
     },
     {
-      "id": "BUS-46",
+      "id": "bsh46",
       "name": "Eelektross",
       "number": "46",
+      "type": "Lightning",
+      "hp": 140,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "eelektross"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/46.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/46.jpg"
+      }
     },
     {
-      "id": "BUS-47",
+      "id": "bsh47",
       "name": "Togedemaru",
       "number": "47",
+      "type": "Lightning",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "togedemaru"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/47.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/47.jpg"
+      }
     },
     {
-      "id": "BUS-48",
+      "id": "bsh48",
       "name": "Slowking",
       "number": "48",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "slowking"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/48.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/48.jpg"
+      }
     },
     {
-      "id": "BUS-49",
+      "id": "bsh49",
       "name": "Wobbuffet",
       "number": "49",
+      "type": "Psychic",
+      "hp": 110,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "wobbuffet"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/49.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/49.jpg"
+      }
     },
     {
-      "id": "BUS-50",
+      "id": "bsh50",
       "name": "Seviper",
       "number": "50",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "seviper"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/50.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/50.jpg"
+      }
     },
     {
-      "id": "BUS-51",
+      "id": "bsh51",
       "name": "Duskull",
       "number": "51",
+      "type": "Psychic",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "duskull"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/51.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/51.jpg"
+      }
     },
     {
-      "id": "BUS-52",
+      "id": "bsh52",
       "name": "Dusclops",
       "number": "52",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "dusclops"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/52.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/52.jpg"
+      }
     },
     {
-      "id": "BUS-53",
+      "id": "bsh53",
       "name": "Dusknoir",
       "number": "53",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "dusknoir"
-      ]
+      "type": "Psychic",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/53.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/53.jpg"
+      }
     },
     {
-      "id": "BUS-54",
+      "id": "bsh54",
       "name": "Croagunk",
       "number": "54",
+      "type": "Psychic",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "croagunk"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/54.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/54.jpg"
+      }
     },
     {
-      "id": "BUS-55",
+      "id": "bsh55",
       "name": "Toxicroak",
       "number": "55",
+      "type": "Psychic",
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "toxicroak"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/55.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/55.jpg"
+      }
     },
     {
-      "id": "BUS-56",
+      "id": "bsh56",
       "name": "Venipede",
       "number": "56",
+      "type": "Psychic",
+      "hp": 40,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "venipede"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/56.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/56.jpg"
+      }
     },
     {
-      "id": "BUS-57",
+      "id": "bsh57",
       "name": "Whirlipede",
       "number": "57",
+      "type": "Psychic",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "whirlipede"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/57.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/57.jpg"
+      }
     },
     {
-      "id": "BUS-58",
+      "id": "bsh58",
       "name": "Scolipede",
       "number": "58",
+      "type": "Psychic",
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "scolipede"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/58.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/58.jpg"
+      }
     },
     {
-      "id": "BUS-59",
+      "id": "bsh59",
       "name": "Espurr",
       "number": "59",
+      "type": "Psychic",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "espurr"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/59.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/59.jpg"
+      }
     },
     {
-      "id": "BUS-60",
+      "id": "bsh60",
       "name": "Meowstic",
       "number": "60",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "meowstic"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/60.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/60.jpg"
+      }
     },
     {
-      "id": "BUS-61",
+      "id": "bsh61",
       "name": "Sandygast",
       "number": "61",
+      "type": "Psychic",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "sandygast"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/61.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/61.jpg"
+      }
     },
     {
-      "id": "BUS-62",
+      "id": "bsh62",
       "name": "Palossand",
       "number": "62",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "palossand"
-      ]
+      "type": "Psychic",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/62.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/62.jpg"
+      }
     },
     {
-      "id": "BUS-63",
+      "id": "bsh63",
       "name": "Necrozma-GX",
       "number": "63",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "necrozma"
-      ]
+      "type": "Psychic",
+      "hp": 180,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/63.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/63.jpg"
+      }
     },
     {
-      "id": "BUS-64",
+      "id": "bsh64",
       "name": "Machamp-GX",
       "number": "64",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "machamp"
-      ]
+      "type": "Fighting",
+      "hp": 240,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/64.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/64.jpg"
+      }
     },
     {
-      "id": "BUS-65",
+      "id": "bsh65",
       "name": "Rhyhorn",
       "number": "65",
+      "type": "Fighting",
+      "hp": 80,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "rhyhorn"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/65.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/65.jpg"
+      }
     },
     {
-      "id": "BUS-66",
+      "id": "bsh66",
       "name": "Rhydon",
       "number": "66",
+      "type": "Fighting",
+      "hp": 110,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "rhydon"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/66.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/66.jpg"
+      }
     },
     {
-      "id": "BUS-67",
+      "id": "bsh67",
       "name": "Rhyperior",
       "number": "67",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "rhyperior"
-      ]
+      "type": "Fighting",
+      "hp": 160,
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/67.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/67.jpg"
+      }
     },
     {
-      "id": "BUS-68",
+      "id": "bsh68",
       "name": "Lunatone",
       "number": "68",
+      "type": "Fighting",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "lunatone"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/68.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/68.jpg"
+      }
     },
     {
-      "id": "BUS-69",
+      "id": "bsh69",
       "name": "Solrock",
       "number": "69",
+      "type": "Fighting",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "solrock"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/69.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/69.jpg"
+      }
     },
     {
-      "id": "BUS-70",
+      "id": "bsh70",
       "name": "Riolu",
       "number": "70",
+      "type": "Fighting",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "riolu"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/70.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/70.jpg"
+      }
     },
     {
-      "id": "BUS-71",
+      "id": "bsh71",
       "name": "Lucario",
       "number": "71",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "lucario"
-      ]
+      "type": "Fighting",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/71.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/71.jpg"
+      }
     },
     {
-      "id": "BUS-72",
+      "id": "bsh72",
       "name": "Sawk",
       "number": "72",
+      "type": "Fighting",
+      "hp": 100,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "sawk"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/72.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/72.jpg"
+      }
     },
     {
-      "id": "BUS-73",
+      "id": "bsh73",
       "name": "Crabrawler",
       "number": "73",
+      "type": "Fighting",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "crabrawler"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/73.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/73.jpg"
+      }
     },
     {
-      "id": "BUS-74",
+      "id": "bsh74",
       "name": "Crabominable",
       "number": "74",
+      "type": "Fighting",
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "crabominable"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/74.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/74.jpg"
+      }
     },
     {
-      "id": "BUS-75",
+      "id": "bsh75",
       "name": "Lycanroc",
       "number": "75",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "lycanroc"
-      ]
+      "type": "Fighting",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/75.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/75.jpg"
+      }
     },
     {
-      "id": "BUS-76",
+      "id": "bsh76",
       "name": "Lycanroc",
       "number": "76",
+      "type": "Fighting",
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "lycanroc"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/76.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/76.jpg"
+      }
     },
     {
-      "id": "BUS-77",
+      "id": "bsh77",
       "name": "Mudbray",
       "number": "77",
+      "type": "Fighting",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "mudbray"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/77.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/77.jpg"
+      }
     },
     {
-      "id": "BUS-78",
+      "id": "bsh78",
       "name": "Mudsdale",
       "number": "78",
+      "type": "Fighting",
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "mudsdale"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/78.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/78.jpg"
+      }
     },
     {
-      "id": "BUS-79",
+      "id": "bsh79",
       "name": "Passimian",
       "number": "79",
+      "type": "Fighting",
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "passimian"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/79.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/79.jpg"
+      }
     },
     {
-      "id": "BUS-80",
+      "id": "bsh80",
       "name": "Marshadow-GX",
       "number": "80",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "marshadow"
-      ]
+      "type": "Fighting",
+      "hp": 150,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/80.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/80.jpg"
+      }
     },
     {
-      "id": "BUS-81",
+      "id": "bsh81",
       "name": "Alolan Rattata",
       "number": "81",
+      "type": "Darkness",
+      "hp": 30,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "alolan",
-        "alolan rattata",
-        "rattata"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/81.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/81.jpg"
+      }
     },
     {
-      "id": "BUS-82",
+      "id": "bsh82",
       "name": "Alolan Raticate",
       "number": "82",
+      "type": "Darkness",
+      "hp": 80,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "alolan",
-        "raticate",
-        "alolan raticate"
-      ]
+      "artist": "Yuka Morii",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/82.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/82.jpg"
+      }
     },
     {
-      "id": "BUS-83",
+      "id": "bsh83",
       "name": "Alolan Grimer",
       "number": "83",
+      "type": "Darkness",
+      "hp": 80,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "alolan grimer",
-        "grimer",
-        "alolan"
-      ]
+      "artist": "Tomokazu Komiya",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/83.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/83.jpg"
+      }
     },
     {
-      "id": "BUS-84",
+      "id": "bsh84",
       "name": "Alolan Muk-GX",
       "number": "84",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "muk",
-        "alolan",
-        "muk-gx",
-        "alolan muk"
-      ]
+      "type": "Darkness",
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/84.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/84.jpg"
+      }
     },
     {
-      "id": "BUS-85",
+      "id": "bsh85",
       "name": "Sneasel",
       "number": "85",
+      "type": "Darkness",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "sneasel"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/85.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/85.jpg"
+      }
     },
     {
-      "id": "BUS-86",
+      "id": "bsh86",
       "name": "Weavile",
       "number": "86",
+      "type": "Darkness",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "weavile"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/86.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/86.jpg"
+      }
     },
     {
-      "id": "BUS-87",
+      "id": "bsh87",
       "name": "Darkrai",
       "number": "87",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "darkrai"
-      ]
+      "type": "Darkness",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/87.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/87.jpg"
+      }
     },
     {
-      "id": "BUS-88",
+      "id": "bsh88",
       "name": "Darkrai-GX",
       "number": "88",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "darkrai"
-      ]
+      "type": "Darkness",
+      "hp": 180,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/88.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/88.jpg"
+      }
     },
     {
-      "id": "BUS-89",
+      "id": "bsh89",
       "name": "Inkay",
       "number": "89",
+      "type": "Darkness",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "inkay"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/89.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/89.jpg"
+      }
     },
     {
-      "id": "BUS-90",
+      "id": "bsh90",
       "name": "Malamar",
       "number": "90",
+      "type": "Darkness",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "malamar"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/90.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/90.jpg"
+      }
     },
     {
-      "id": "BUS-91",
+      "id": "bsh91",
       "name": "Ralts",
       "number": "91",
+      "type": "Fairy",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "ralts"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/91.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/91.jpg"
+      }
     },
     {
-      "id": "BUS-92",
+      "id": "bsh92",
       "name": "Kirlia",
       "number": "92",
+      "type": "Fairy",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "kirlia"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/92.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/92.jpg"
+      }
     },
     {
-      "id": "BUS-93",
+      "id": "bsh93",
       "name": "Gardevoir-GX",
       "number": "93",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "gardevoir"
-      ]
+      "type": "Fairy",
+      "hp": 230,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/93.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/93.jpg"
+      }
     },
     {
-      "id": "BUS-94",
+      "id": "bsh94",
       "name": "Diancie",
       "number": "94",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "diancie"
-      ]
+      "type": "Fairy",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/94.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/94.jpg"
+      }
     },
     {
-      "id": "BUS-95",
+      "id": "bsh95",
       "name": "Cutiefly",
       "number": "95",
+      "type": "Fairy",
+      "hp": 30,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "cutiefly"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/95.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/95.jpg"
+      }
     },
     {
-      "id": "BUS-96",
+      "id": "bsh96",
       "name": "Ribombee",
       "number": "96",
+      "type": "Fairy",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "ribombee"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/96.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/96.jpg"
+      }
     },
     {
-      "id": "BUS-97",
+      "id": "bsh97",
       "name": "Morelull",
       "number": "97",
+      "type": "Fairy",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "morelull"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/97.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/97.jpg"
+      }
     },
     {
-      "id": "BUS-98",
+      "id": "bsh98",
       "name": "Shiinotic",
       "number": "98",
+      "type": "Fairy",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "shiinotic"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/98.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/98.jpg"
+      }
     },
     {
-      "id": "BUS-99",
+      "id": "bsh99",
       "name": "Noivern-GX",
       "number": "99",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "noivern"
-      ]
+      "type": "Dragon",
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/99.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/99.jpg"
+      }
     },
     {
-      "id": "BUS-100",
+      "id": "bsh100",
       "name": "Zygarde",
       "number": "100",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "zygarde"
-      ]
+      "type": "Dragon",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/100.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/100.jpg"
+      }
     },
     {
-      "id": "BUS-101",
+      "id": "bsh101",
       "name": "Meowth",
       "number": "101",
+      "type": "Colorless",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "meowth"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/101.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/101.jpg"
+      }
     },
     {
-      "id": "BUS-102",
+      "id": "bsh102",
       "name": "Persian",
       "number": "102",
+      "type": "Colorless",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "persian"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/102.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/102.jpg"
+      }
     },
     {
-      "id": "BUS-103",
+      "id": "bsh103",
       "name": "Porygon",
       "number": "103",
+      "type": "Colorless",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "porygon"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/103.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/103.jpg"
+      }
     },
     {
-      "id": "BUS-104",
+      "id": "bsh104",
       "name": "Porygon2",
       "number": "104",
+      "type": "Colorless",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "porygon2"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/104.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/104.jpg"
+      }
     },
     {
-      "id": "BUS-105",
+      "id": "bsh105",
       "name": "Porygon-Z",
       "number": "105",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "porygon-z"
-      ]
+      "type": "Colorless",
+      "hp": 120,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/105.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/105.jpg"
+      }
     },
     {
-      "id": "BUS-106",
+      "id": "bsh106",
       "name": "Hoothoot",
       "number": "106",
+      "type": "Colorless",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "hoothoot"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/106.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/106.jpg"
+      }
     },
     {
-      "id": "BUS-107",
+      "id": "bsh107",
       "name": "Noctowl",
       "number": "107",
+      "type": "Colorless",
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "noctowl"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/107.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/107.jpg"
+      }
     },
     {
-      "id": "BUS-108",
+      "id": "bsh108",
       "name": "Bouffalant",
       "number": "108",
+      "type": "Colorless",
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "bouffalant"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/108.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/108.jpg"
+      }
     },
     {
-      "id": "BUS-109",
+      "id": "bsh109",
       "name": "Noibat",
       "number": "109",
+      "type": "Colorless",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "noibat"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/109.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/109.jpg"
+      }
     },
     {
-      "id": "BUS-110",
+      "id": "bsh110",
       "name": "Stufful",
       "number": "110",
+      "type": "Colorless",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "stufful"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/110.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/110.jpg"
+      }
     },
     {
-      "id": "BUS-111",
+      "id": "bsh111",
       "name": "Bewear",
       "number": "111",
+      "type": "Colorless",
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "bewear"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/111.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/111.jpg"
+      }
     },
     {
-      "id": "BUS-112",
+      "id": "bsh112",
       "name": "Acerola",
       "number": "112",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "acerola"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/112.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/112.jpg"
+      }
     },
     {
-      "id": "BUS-113",
+      "id": "bsh113",
       "name": "Bodybuilding Dumbbells",
       "number": "113",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "bodybuilding dumbbells",
-        "dumbbells",
-        "bodybuilding"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/113.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/113.jpg"
+      }
     },
     {
-      "id": "BUS-114",
+      "id": "bsh114",
       "name": "Escape Rope",
       "number": "114",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "rope",
-        "escape rope",
-        "escape"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/114.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/114.jpg"
+      }
     },
     {
-      "id": "BUS-115",
+      "id": "bsh115",
       "name": "Guzma",
       "number": "115",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "guzma"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/115.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/115.jpg"
+      }
     },
     {
-      "id": "BUS-116",
+      "id": "bsh116",
       "name": "Kiawe",
       "number": "116",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "kiawe"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/116.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/116.jpg"
+      }
     },
     {
-      "id": "BUS-117",
+      "id": "bsh117",
       "name": "Lana",
       "number": "117",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "lana"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/117.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/117.jpg"
+      }
     },
     {
-      "id": "BUS-118",
+      "id": "bsh118",
       "name": "Mount Lanakila",
       "number": "118",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "mount",
-        "mount lanakila",
-        "lanakila"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Stadium"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/118.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/118.jpg"
+      }
     },
     {
-      "id": "BUS-119",
+      "id": "bsh119",
       "name": "Olivia",
       "number": "119",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "olivia"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/119.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/119.jpg"
+      }
     },
     {
-      "id": "BUS-120",
+      "id": "bsh120",
       "name": "Plumeria",
       "number": "120",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "plumeria"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/120.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/120.jpg"
+      }
     },
     {
-      "id": "BUS-121",
+      "id": "bsh121",
       "name": "Po Town",
       "number": "121",
+      "type": "Trainer",
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "town",
-        "po town"
-      ]
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Stadium"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/121.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/121.jpg"
+      }
     },
     {
-      "id": "BUS-122",
-      "name": "Rotom Dex: Poké Finder Mode◆",
+      "id": "bsh122",
+      "name": "Rotom Dex Poké Finder Mode",
       "number": "122",
-      "rarity": "Common",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "dex",
-        "rotom",
-        "rotom dex poké finder mode",
-        "mode",
-        "poké",
-        "finder"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/122.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/122.jpg"
+      }
     },
     {
-      "id": "BUS-123",
+      "id": "bsh123",
       "name": "Sophocles",
       "number": "123",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "sophocles"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/123.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/123.jpg"
+      }
     },
     {
-      "id": "BUS-124",
+      "id": "bsh124",
       "name": "Super Scoop Up",
       "number": "124",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "scoop",
-        "super",
-        "super scoop up"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/124.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/124.jpg"
+      }
     },
     {
-      "id": "BUS-125",
+      "id": "bsh125",
       "name": "Tormenting Spray",
       "number": "125",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "tormenting spray",
-        "spray",
-        "tormenting"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/125.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/125.jpg"
+      }
     },
     {
-      "id": "BUS-126",
+      "id": "bsh126",
       "name": "Weakness Policy",
       "number": "126",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "policy",
-        "weakness policy",
-        "weakness"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/126.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/126.jpg"
+      }
     },
     {
-      "id": "BUS-127",
+      "id": "bsh127",
       "name": "Wicke",
       "number": "127",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "wicke"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/127.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/127.jpg"
+      }
     },
     {
-      "id": "BUS-128",
+      "id": "bsh128",
       "name": "Wishful Baton",
       "number": "128",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "baton",
-        "wishful",
-        "wishful baton"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/128.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/128.jpg"
+      }
     },
     {
-      "id": "BUS-129",
+      "id": "bsh129",
       "name": "Golisopod-GX",
       "number": "129",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "golisopod"
-      ]
+      "type": "Grass",
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/129.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/129.jpg"
+      }
     },
     {
-      "id": "BUS-130",
+      "id": "bsh130",
       "name": "Tapu Bulu-GX",
       "number": "130",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "tapu bulu",
-        "bulu",
-        "tapu"
-      ]
+      "type": "Grass",
+      "hp": 180,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/130.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/130.jpg"
+      }
     },
     {
-      "id": "BUS-131",
+      "id": "bsh131",
       "name": "Ho-Oh-GX",
       "number": "131",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "ho-oh"
-      ]
+      "type": "Fire",
+      "hp": 190,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/131.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/131.jpg"
+      }
     },
     {
-      "id": "BUS-132",
+      "id": "bsh132",
       "name": "Salazzle-GX",
       "number": "132",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "salazzle"
-      ]
+      "type": "Fire",
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/132.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/132.jpg"
+      }
     },
     {
-      "id": "BUS-133",
+      "id": "bsh133",
       "name": "Tapu Fini-GX",
       "number": "133",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "tapu",
-        "fini",
-        "tapu fini"
-      ]
+      "type": "Water",
+      "hp": 170,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/133.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/133.jpg"
+      }
     },
     {
-      "id": "BUS-134",
+      "id": "bsh134",
       "name": "Necrozma-GX",
       "number": "134",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "necrozma"
-      ]
+      "type": "Psychic",
+      "hp": 180,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/134.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/134.jpg"
+      }
     },
     {
-      "id": "BUS-135",
+      "id": "bsh135",
       "name": "Machamp-GX",
       "number": "135",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "machamp"
-      ]
+      "type": "Fighting",
+      "hp": 240,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/135.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/135.jpg"
+      }
     },
     {
-      "id": "BUS-136",
+      "id": "bsh136",
       "name": "Lycanroc-GX",
       "number": "136",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "lycanroc"
-      ]
+      "type": "Fighting",
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/136.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/136.jpg"
+      }
     },
     {
-      "id": "BUS-137",
+      "id": "bsh137",
       "name": "Marshadow-GX",
       "number": "137",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "marshadow"
-      ]
+      "type": "Fighting",
+      "hp": 150,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/137.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/137.jpg"
+      }
     },
     {
-      "id": "BUS-138",
+      "id": "bsh138",
       "name": "Alolan Muk-GX",
       "number": "138",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "muk",
-        "alolan",
-        "muk-gx",
-        "alolan muk"
-      ]
+      "type": "Darkness",
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/138.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/138.jpg"
+      }
     },
     {
-      "id": "BUS-139",
+      "id": "bsh139",
       "name": "Darkrai-GX",
       "number": "139",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "darkrai"
-      ]
+      "type": "Darkness",
+      "hp": 180,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/139.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/139.jpg"
+      }
     },
     {
-      "id": "BUS-140",
+      "id": "bsh140",
       "name": "Gardevoir-GX",
       "number": "140",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "gardevoir"
-      ]
+      "type": "Fairy",
+      "hp": 230,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/140.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/140.jpg"
+      }
     },
     {
-      "id": "BUS-141",
+      "id": "bsh141",
       "name": "Noivern-GX",
       "number": "141",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "BUS",
-      "matchingKeywords": [
-        "noivern"
-      ]
+      "type": "Dragon",
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/141.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/141.jpg"
+      }
     },
     {
-      "id": "BUS-142",
+      "id": "bsh142",
       "name": "Acerola",
       "number": "142",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "acerola"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/142.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/142.jpg"
+      }
     },
     {
-      "id": "BUS-143",
+      "id": "bsh143",
       "name": "Guzma",
       "number": "143",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "guzma"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/143.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/143.jpg"
+      }
     },
     {
-      "id": "BUS-144",
+      "id": "bsh144",
       "name": "Kiawe",
       "number": "144",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "kiawe"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/144.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/144.jpg"
+      }
     },
     {
-      "id": "BUS-145",
+      "id": "bsh145",
       "name": "Plumeria",
       "number": "145",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "plumeria"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/145.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/145.jpg"
+      }
     },
     {
-      "id": "BUS-146",
+      "id": "bsh146",
       "name": "Sophocles",
       "number": "146",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "sophocles"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/146.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/146.jpg"
+      }
     },
     {
-      "id": "BUS-147",
+      "id": "bsh147",
       "name": "Wicke",
       "number": "147",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "BUS",
-      "matchingKeywords": [
-        "wicke"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/147.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/147.jpg"
+      }
+    },
+    {
+      "id": "bsh148",
+      "name": "Golisopod-GX",
+      "number": "148",
+      "type": "Grass",
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/148.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/148.jpg"
+      }
+    },
+    {
+      "id": "bsh149",
+      "name": "Tapu Bulu-GX",
+      "number": "149",
+      "type": "Grass",
+      "hp": 180,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/149.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/149.jpg"
+      }
+    },
+    {
+      "id": "bsh150",
+      "name": "Charizard-GX",
+      "number": "150",
+      "type": "Fire",
+      "hp": 250,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/150.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/150.jpg"
+      }
+    },
+    {
+      "id": "bsh151",
+      "name": "Salazzle-GX",
+      "number": "151",
+      "type": "Fire",
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/151.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/151.jpg"
+      }
+    },
+    {
+      "id": "bsh152",
+      "name": "Tapu Fini-GX",
+      "number": "152",
+      "type": "Water",
+      "hp": 170,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/152.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/152.jpg"
+      }
+    },
+    {
+      "id": "bsh153",
+      "name": "Necrozma-GX",
+      "number": "153",
+      "type": "Psychic",
+      "hp": 180,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/153.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/153.jpg"
+      }
+    },
+    {
+      "id": "bsh154",
+      "name": "Machamp-GX",
+      "number": "154",
+      "type": "Fighting",
+      "hp": 240,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/154.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/154.jpg"
+      }
+    },
+    {
+      "id": "bsh155",
+      "name": "Lycanroc-GX",
+      "number": "155",
+      "type": "Fighting",
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/155.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/155.jpg"
+      }
+    },
+    {
+      "id": "bsh156",
+      "name": "Marshadow-GX",
+      "number": "156",
+      "type": "Fighting",
+      "hp": 150,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/156.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/156.jpg"
+      }
+    },
+    {
+      "id": "bsh157",
+      "name": "Alolan Muk-GX",
+      "number": "157",
+      "type": "Darkness",
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/157.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/157.jpg"
+      }
+    },
+    {
+      "id": "bsh158",
+      "name": "Darkrai-GX",
+      "number": "158",
+      "type": "Darkness",
+      "hp": 180,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/158.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/158.jpg"
+      }
+    },
+    {
+      "id": "bsh159",
+      "name": "Gardevoir-GX",
+      "number": "159",
+      "type": "Fairy",
+      "hp": 230,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/159.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/159.jpg"
+      }
+    },
+    {
+      "id": "bsh160",
+      "name": "Noivern-GX",
+      "number": "160",
+      "type": "Dragon",
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/160.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/160.jpg"
+      }
+    },
+    {
+      "id": "bsh161",
+      "name": "Bodybuilding Dumbbells",
+      "number": "161",
+      "type": "Trainer",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/161.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/161.jpg"
+      }
+    },
+    {
+      "id": "bsh162",
+      "name": "Choice Band",
+      "number": "162",
+      "type": "Trainer",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/162.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/162.jpg"
+      }
+    },
+    {
+      "id": "bsh163",
+      "name": "Escape Rope",
+      "number": "163",
+      "type": "Trainer",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/163.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/163.jpg"
+      }
+    },
+    {
+      "id": "bsh164",
+      "name": "Multi Switch",
+      "number": "164",
+      "type": "Trainer",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/164.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/164.jpg"
+      }
+    },
+    {
+      "id": "bsh165",
+      "name": "Rescue Stretcher",
+      "number": "165",
+      "type": "Trainer",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/165.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/165.jpg"
+      }
+    },
+    {
+      "id": "bsh166",
+      "name": "Super Scoop Up",
+      "number": "166",
+      "type": "Trainer",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/166.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/166.jpg"
+      }
+    },
+    {
+      "id": "bsh167",
+      "name": "Fire Energy",
+      "number": "167",
+      "type": "Fire",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Basic Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/167.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/167.jpg"
+      }
+    },
+    {
+      "id": "bsh168",
+      "name": "Darkness Energy",
+      "number": "168",
+      "type": "Darkness",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Basic Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/168.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/168.jpg"
+      }
+    },
+    {
+      "id": "bsh169",
+      "name": "Fairy Energy",
+      "number": "169",
+      "type": "Fairy",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Basic Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/burningshadows/169.jpg",
+        "large": "https://www.serebii.net/card/burningshadows/169.jpg"
+      }
     }
   ]
 }

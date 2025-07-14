@@ -1,0 +1,2570 @@
+{
+  "set_info": {
+    "name": "Plasma Freeze",
+    "code": "PLF",
+    "release_date": "2013-05-08",
+    "total_cards": 122,
+    "set_number": "BW10",
+    "series": "Black & White"
+  },
+  "cards": [
+    {
+      "id": 1,
+      "name": "Weedle",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "1/116",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "poison",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/1.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 2,
+      "name": "Kakuna",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "2/116",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "poison",
+        "evolution",
+        "cocoon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/2.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/2.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 3,
+      "name": "Beedrill",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "3/116",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "poison",
+        "evolution",
+        "bee",
+        "drill"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/3.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/3.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 4,
+      "name": "Exeggcute",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "4/116",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "egg",
+        "psychic",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/4.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/4.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 5,
+      "name": "Exeggutor",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "5/116",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "egg",
+        "psychic",
+        "evolution",
+        "coconut"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/5.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/5.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 6,
+      "name": "Treecko",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "6/116",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "gecko",
+        "hoenn",
+        "starter",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/6.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 7,
+      "name": "Grovyle",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "7/116",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "gecko",
+        "hoenn",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/7.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/7.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 8,
+      "name": "Sceptile",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "8/116",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "gecko",
+        "hoenn",
+        "starter",
+        "evolution",
+        "forest"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/8.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/8.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 9,
+      "name": "Cacnea",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "9/116",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "cactus",
+        "desert",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/9.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/9.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 10,
+      "name": "Cacturne",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "10/116",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "cactus",
+        "desert",
+        "evolution",
+        "scarecrow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/10.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/10.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 11,
+      "name": "Leafeon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "11/116",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "eevee",
+        "evolution",
+        "leaf",
+        "verdant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/11.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/11.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 12,
+      "name": "Flareon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "12/116",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "eevee",
+        "evolution",
+        "flame"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/12.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/12.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 13,
+      "name": "Heatran-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "13/116",
+      "rarity": "Rare Holo ex",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "steel",
+        "volcano"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/13.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/13.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 14,
+      "name": "Litwick",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "14/116",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "candle",
+        "ghost",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/14.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/14.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 15,
+      "name": "Lampent",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "15/116",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "candle",
+        "ghost",
+        "evolution",
+        "lamp"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/15.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/15.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 16,
+      "name": "Chandelure",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "16/116",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "candle",
+        "ghost",
+        "evolution",
+        "chandelier"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/16.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/16.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 17,
+      "name": "Reshiram",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "17/116",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "dragon",
+        "legendary",
+        "vast",
+        "white",
+        "truth"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/17.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/17.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 18,
+      "name": "Horsea",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "18/116",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "seahorse",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/18.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/18.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 19,
+      "name": "Seadra",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "19/116",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "seahorse",
+        "evolution",
+        "dragon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/19.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/19.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 20,
+      "name": "Vaporeon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "20/116",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "eevee",
+        "evolution",
+        "bubble",
+        "jet"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/20.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/20.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 21,
+      "name": "Wooper",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "21/116",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ground",
+        "fish",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/21.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/21.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 22,
+      "name": "Quagsire",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "22/116",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ground",
+        "fish",
+        "evolution",
+        "quagmire"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/22.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/22.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 23,
+      "name": "Glaceon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "23/116",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "eevee",
+        "evolution",
+        "ice",
+        "fresh",
+        "snow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/23.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/23.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 24,
+      "name": "Tympole",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "24/116",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "tadpole",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/24.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/24.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 25,
+      "name": "Palpitoad",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "25/116",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "tadpole",
+        "evolution",
+        "vibration"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/25.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/25.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 26,
+      "name": "Seismitoad",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "26/116",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "tadpole",
+        "evolution",
+        "vibration",
+        "earthquake"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/26.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/26.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 27,
+      "name": "Vanillite",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "27/116",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "cream",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/27.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/27.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 28,
+      "name": "Vanillish",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "28/116",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "cream",
+        "evolution",
+        "icy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/28.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/28.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 29,
+      "name": "Vanilluxe",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "29/116",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "cream",
+        "evolution",
+        "snowstorm"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/29.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/29.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 30,
+      "name": "Cryogonal",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "30/116",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "crystallizing",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/30.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/30.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 31,
+      "name": "Kyurem",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "31/116",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "dragon",
+        "legendary",
+        "boundary",
+        "ice",
+        "glacier"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/31.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/31.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 32,
+      "name": "Voltorb",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "32/116",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "electric",
+        "ball",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/32.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/32.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 33,
+      "name": "Electrode",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "33/116",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "electric",
+        "ball",
+        "evolution",
+        "explosion"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/33.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/33.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 34,
+      "name": "Jolteon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "34/116",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "eevee",
+        "evolution",
+        "lightning",
+        "rod"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/34.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/34.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 35,
+      "name": "Chinchou",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "35/116",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "water",
+        "angler",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/35.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/35.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 36,
+      "name": "Lanturn",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "36/116",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "water",
+        "angler",
+        "evolution",
+        "light"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/36.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/36.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 37,
+      "name": "Pachirisu",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "37/116",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "electric",
+        "squirrel",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/37.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/37.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 38,
+      "name": "Thundurus-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "38/116",
+      "rarity": "Rare Holo ex",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "bolt",
+        "strike"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/38.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/38.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 39,
+      "name": "Zekrom",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "39/116",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "dragon",
+        "legendary",
+        "deep",
+        "black",
+        "ideals"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/39.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/39.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 40,
+      "name": "Nidoran♀",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "40/116",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "pin",
+        "basic",
+        "female"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/40.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/40.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 41,
+      "name": "Nidorina",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "41/116",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "pin",
+        "evolution",
+        "female"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/41.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/41.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 42,
+      "name": "Nidoqueen",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "42/116",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "pin",
+        "evolution",
+        "drill",
+        "female"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/42.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/42.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 43,
+      "name": "Nidoran♂",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "43/116",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "pin",
+        "basic",
+        "male"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/43.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/43.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 44,
+      "name": "Nidorino",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "44/116",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "pin",
+        "evolution",
+        "male"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/44.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/44.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 45,
+      "name": "Grimer",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "45/116",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "sludge",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/45.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/45.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 46,
+      "name": "Muk",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "46/116",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "sludge",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/46.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/46.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 47,
+      "name": "Mr. Mime",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "47/116",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "barrier",
+        "mime",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/47.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/47.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 48,
+      "name": "Espeon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "48/116",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "eevee",
+        "evolution",
+        "sun"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/48.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/48.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 49,
+      "name": "Sableye",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "49/116",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "dark",
+        "darkness",
+        "gem",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/49.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/49.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 50,
+      "name": "Beldum",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "50/116",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "steel",
+        "iron",
+        "ball",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/50.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/50.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 51,
+      "name": "Metang",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "51/116",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "steel",
+        "iron",
+        "claw",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/51.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/51.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 52,
+      "name": "Metagross",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "52/116",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "steel",
+        "iron",
+        "leg",
+        "evolution",
+        "supercomputer"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/52.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/52.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 53,
+      "name": "Deoxys-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "53/116",
+      "rarity": "Rare Holo ex",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "dna",
+        "meteor"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/53.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/53.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 54,
+      "name": "Yamask",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "54/116",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "spirit",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/54.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/54.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 55,
+      "name": "Yamask",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "55/116",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "spirit",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/55.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 56,
+      "name": "Cofagrigus",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "56/116",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "spirit",
+        "evolution",
+        "coffin"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/56.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/56.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 57,
+      "name": "Cofagrigus",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "57/116",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "spirit",
+        "evolution",
+        "coffin"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/57.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/57.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 58,
+      "name": "Nidoking",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "58/116",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "poison",
+        "pin",
+        "evolution",
+        "drill",
+        "male"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/58.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/58.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 59,
+      "name": "Mankey",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "59/116",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "pig",
+        "monkey",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/59.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/59.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 60,
+      "name": "Primeape",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "60/116",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "pig",
+        "monkey",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/60.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/60.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 61,
+      "name": "Onix",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "61/116",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "rock",
+        "snake",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/61.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/61.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 62,
+      "name": "Makuhita",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "62/116",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "guts",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/62.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/62.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 63,
+      "name": "Hariyama",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "63/116",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "guts",
+        "evolution",
+        "arm",
+        "thrust"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/63.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/63.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 64,
+      "name": "Umbreon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "64/116",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "eevee",
+        "evolution",
+        "moonlight"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/64.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/64.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 65,
+      "name": "Sneasel",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "65/116",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "ice",
+        "sharp",
+        "claw",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/65.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/65.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 66,
+      "name": "Weavile",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "66/116",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "ice",
+        "sharp",
+        "claw",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/66.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/66.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 67,
+      "name": "Absol",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "67/116",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "disaster",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/67.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/67.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 68,
+      "name": "Sandile",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "68/116",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "ground",
+        "desert",
+        "croc",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/68.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/68.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 69,
+      "name": "Krokorok",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "69/116",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "ground",
+        "desert",
+        "croc",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/69.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/69.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 70,
+      "name": "Krookodile",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "70/116",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "ground",
+        "desert",
+        "croc",
+        "evolution",
+        "intimidation"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/70.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/70.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 71,
+      "name": "Pawniard",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "71/116",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "steel",
+        "sharp",
+        "blade",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/71.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/71.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 72,
+      "name": "Pawniard",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "72/116",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "steel",
+        "sharp",
+        "blade",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/72.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/72.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 73,
+      "name": "Bisharp",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "73/116",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "steel",
+        "sharp",
+        "blade",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/73.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/73.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 74,
+      "name": "Bisharp",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "74/116",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "steel",
+        "sharp",
+        "blade",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/74.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/74.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 75,
+      "name": "Deino",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "75/116",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "dragon",
+        "irate",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/75.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/75.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 76,
+      "name": "Deino",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "76/116",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "dragon",
+        "irate",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/76.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/76.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 77,
+      "name": "Zweilous",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "77/116",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "dragon",
+        "hostile",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/77.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/77.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 78,
+      "name": "Hydreigon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "78/116",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "dragon",
+        "brutal",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/78.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/78.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 79,
+      "name": "Steelix",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "79/116",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "steel",
+        "iron",
+        "snake",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/79.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/79.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 80,
+      "name": "Mawile",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "80/116",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "steel",
+        "deceiver",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/80.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/80.jpg"
+      },
+      "hp": 70
+    },
+    {
+      "id": 81,
+      "name": "Dratini",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "81/116",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "basic",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/81.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/81.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 82,
+      "name": "Dragonair",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "82/116",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/82.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/82.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 83,
+      "name": "Dragonite",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "83/116",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/83.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/83.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 84,
+      "name": "Kingdra",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "84/116",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "evolution",
+        "legendary",
+        "powerful",
+        "water"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/84.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/84.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 85,
+      "name": "Latias-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "85/116",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "powerful",
+        "eon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/85.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/85.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 86,
+      "name": "Latios-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "86/116",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "powerful",
+        "eon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/86.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/86.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 87,
+      "name": "Rattata",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "87/116",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "mouse",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/87.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/87.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 88,
+      "name": "Raticate",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "88/116",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "mouse",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/88.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/88.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 89,
+      "name": "Eevee",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "89/116",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "evolution",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/89.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/89.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 90,
+      "name": "Eevee",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "90/116",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "evolution",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/90.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/90.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 91,
+      "name": "Hoothoot",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "91/116",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "owl",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/91.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/91.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 92,
+      "name": "Noctowl",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "92/116",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "owl",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/92.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/92.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 93,
+      "name": "Miltank",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "93/116",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "milk",
+        "cow",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/93.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/93.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 94,
+      "name": "Kecleon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "94/116",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "color",
+        "swap",
+        "chameleon",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/94.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/94.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 95,
+      "name": "Starly",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "95/116",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "starling",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/95.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/95.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 96,
+      "name": "Staravia",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "96/116",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "starling",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/96.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/96.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 97,
+      "name": "Staraptor",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "97/116",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "predator",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/97.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/97.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 98,
+      "name": "Tornadus-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "98/116",
+      "rarity": "Rare Holo ex",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "cyclone"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/98.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/98.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 99,
+      "name": "Float Stone",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "99/116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "tool",
+        "float",
+        "retreat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/99.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/99.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 100,
+      "name": "Frozen City",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "100/116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "stadium",
+        "frozen",
+        "city",
+        "ice"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/100.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/100.jpg"
+      },
+      "subtype": "Stadium"
+    },
+    {
+      "id": 101,
+      "name": "Ghetsis",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "101/116",
+      "rarity": "Rare Holo",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "team",
+        "plasma",
+        "ghetsis"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/101.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/101.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 102,
+      "name": "Shadow Triad",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "102/116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "team",
+        "plasma",
+        "shadow",
+        "triad"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/102.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/102.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 103,
+      "name": "Superior Energy Retrieval",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "103/116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "energy",
+        "retrieval",
+        "superior"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/103.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/103.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 104,
+      "name": "Team Plasma Badge",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "104/116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "team",
+        "plasma",
+        "badge",
+        "tool"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/104.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/104.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 105,
+      "name": "Team Plasma Ball",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "105/116",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "team",
+        "plasma",
+        "ball",
+        "search"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/105.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/105.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 106,
+      "name": "Plasma Energy",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "106/116",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "matching_keywords": [
+        "energy",
+        "special",
+        "plasma",
+        "team",
+        "colorless"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/106.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/106.jpg"
+      },
+      "subtype": "Special Energy"
+    },
+    {
+      "id": 107,
+      "name": "Life Dew",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "107/116",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec",
+        "life",
+        "dew",
+        "tool"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/107.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/107.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 108,
+      "name": "Rock Guard",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "108/116",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec",
+        "rock",
+        "guard",
+        "tool"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/108.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/108.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 109,
+      "name": "Heatran-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "109/116",
+      "rarity": "Rare Ultra",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "steel",
+        "volcano",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/109.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/109.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 110,
+      "name": "Thundurus-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "110/116",
+      "rarity": "Rare Ultra",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "bolt",
+        "strike",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/110.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/110.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 111,
+      "name": "Deoxys-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "111/116",
+      "rarity": "Rare Ultra",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "dna",
+        "meteor",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/111.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/111.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 112,
+      "name": "Latias-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "112/116",
+      "rarity": "Rare Ultra",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "powerful",
+        "eon",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/112.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/112.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 113,
+      "name": "Latios-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "113/116",
+      "rarity": "Rare Ultra",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "powerful",
+        "eon",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/113.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/113.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 114,
+      "name": "Tornadus-EX",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "114/116",
+      "rarity": "Rare Ultra",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "cyclone",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/114.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/114.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 115,
+      "name": "Ghetsis",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "115/116",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "team",
+        "plasma",
+        "ghetsis",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/115.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/115.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 116,
+      "name": "Professor Juniper",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "116/116",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "professor",
+        "juniper",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/116.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/116.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 117,
+      "name": "Empoleon",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "117/116",
+      "rarity": "Rare Secret",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "steel",
+        "emperor",
+        "evolution",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/117.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/117.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": 118,
+      "name": "Sigilyph",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "118/116",
+      "rarity": "Rare Secret",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "avianoid",
+        "basic",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/118.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/118.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": 119,
+      "name": "Garbodor",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "119/116",
+      "rarity": "Rare Secret",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "trash",
+        "heap",
+        "evolution",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/119.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/119.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": 120,
+      "name": "Garchomp",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "120/116",
+      "rarity": "Rare Secret",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ground",
+        "mach",
+        "evolution",
+        "secret",
+        "rare",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/120.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/120.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": 121,
+      "name": "Max Potion",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "121/116",
+      "rarity": "Rare Secret",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "max",
+        "potion",
+        "heal",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/121.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/121.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 122,
+      "name": "Ultra Ball",
+      "set": "Plasma Freeze",
+      "set_code": "PLF",
+      "number": "122/116",
+      "rarity": "Rare Secret",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "ultra",
+        "ball",
+        "search",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmafreeze/122.jpg",
+        "large": "https://www.serebii.net/card/plasmafreeze/122.jpg"
+      },
+      "subtype": "Item"
+    }
+  ]
+}

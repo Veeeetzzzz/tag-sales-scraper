@@ -1,0 +1,1509 @@
+{
+  "set_info": {
+    "name": "Steam Siege",
+    "series": "XY",
+    "release_date": "2016-08-03",
+    "total_cards": 116,
+    "symbol": "STS",
+    "logo": "https://www.serebii.net/card/steamsiege/logo.png"
+  },
+  "cards": [
+    {
+      "id": "steam-siege-1",
+      "name": "Tangela",
+      "number": "1",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/1.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-2",
+      "name": "Tangrowth",
+      "number": "2",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/2.jpg",
+      "hp": 120
+    },
+    {
+      "id": "steam-siege-3",
+      "name": "Hoppip",
+      "number": "3",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/3.jpg",
+      "hp": 40
+    },
+    {
+      "id": "steam-siege-4",
+      "name": "Skiploom",
+      "number": "4",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/4.jpg",
+      "hp": 70
+    },
+    {
+      "id": "steam-siege-5",
+      "name": "Jumpluff",
+      "number": "5",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/5.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-6",
+      "name": "Yanma",
+      "number": "6",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/6.jpg",
+      "hp": 70
+    },
+    {
+      "id": "steam-siege-7",
+      "name": "Yanmega",
+      "number": "7",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/7.jpg",
+      "hp": 110
+    },
+    {
+      "id": "steam-siege-8",
+      "name": "YanmegaBREAK",
+      "number": "8",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/8.jpg",
+      "hp": 140,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "steam-siege-9",
+      "name": "Seedot",
+      "number": "9",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/9.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-10",
+      "name": "Nuzleaf",
+      "number": "10",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/10.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-11",
+      "name": "Shiftry",
+      "number": "11",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/11.jpg",
+      "hp": 130,
+      "dual_type": "Darkness"
+    },
+    {
+      "id": "steam-siege-12",
+      "name": "Foongus",
+      "number": "12",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/12.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-13",
+      "name": "Amoonguss",
+      "number": "13",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/13.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-14",
+      "name": "Larvesta",
+      "number": "14",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/14.jpg",
+      "hp": 70
+    },
+    {
+      "id": "steam-siege-15",
+      "name": "Volcarona",
+      "number": "15",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/15.jpg",
+      "hp": 120,
+      "dual_type": "Fire"
+    },
+    {
+      "id": "steam-siege-16",
+      "name": "Ponyta",
+      "number": "16",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/16.jpg",
+      "hp": 70
+    },
+    {
+      "id": "steam-siege-17",
+      "name": "Rapidash",
+      "number": "17",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/17.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-18",
+      "name": "Chimchar",
+      "number": "18",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/18.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-19",
+      "name": "Monferno",
+      "number": "19",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/19.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-20",
+      "name": "Infernape",
+      "number": "20",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/20.jpg",
+      "hp": 140
+    },
+    {
+      "id": "steam-siege-21",
+      "name": "TalonflameBREAK",
+      "number": "21",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/21.jpg",
+      "hp": 170,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "steam-siege-22",
+      "name": "Litleo",
+      "number": "22",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/22.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-23",
+      "name": "Pyroar",
+      "number": "23",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/23.jpg",
+      "hp": 110
+    },
+    {
+      "id": "steam-siege-24",
+      "name": "PyroarBREAK",
+      "number": "24",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/24.jpg",
+      "hp": 140,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "steam-siege-25",
+      "name": "Volcanion",
+      "number": "25",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/25.jpg",
+      "hp": 130
+    },
+    {
+      "id": "steam-siege-26",
+      "name": "VolcanionEX",
+      "number": "26",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/26.jpg",
+      "hp": 180,
+      "dual_type": "Water",
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-27",
+      "name": "Mantine",
+      "number": "27",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/27.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-28",
+      "name": "Shellos",
+      "number": "28",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/28.jpg",
+      "hp": 70
+    },
+    {
+      "id": "steam-siege-29",
+      "name": "Gastrodon",
+      "number": "29",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/29.jpg",
+      "hp": 110
+    },
+    {
+      "id": "steam-siege-30",
+      "name": "Oshawott",
+      "number": "30",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/30.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-31",
+      "name": "Dewott",
+      "number": "31",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/31.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-32",
+      "name": "Samurott",
+      "number": "32",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/32.jpg",
+      "hp": 140
+    },
+    {
+      "id": "steam-siege-33",
+      "name": "Clauncher",
+      "number": "33",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/33.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-34",
+      "name": "Clawitzer",
+      "number": "34",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/34.jpg",
+      "hp": 110
+    },
+    {
+      "id": "steam-siege-35",
+      "name": "ClawitzerBREAK",
+      "number": "35",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/35.jpg",
+      "hp": 140,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "steam-siege-36",
+      "name": "Bergmite",
+      "number": "36",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/36.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-37",
+      "name": "Avalugg",
+      "number": "37",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/37.jpg",
+      "hp": 140
+    },
+    {
+      "id": "steam-siege-38",
+      "name": "Mareep",
+      "number": "38",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/38.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-39",
+      "name": "Flaaffy",
+      "number": "39",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/39.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-40",
+      "name": "Ampharos",
+      "number": "40",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/40.jpg",
+      "hp": 140
+    },
+    {
+      "id": "steam-siege-41",
+      "name": "Joltik",
+      "number": "41",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/41.jpg",
+      "hp": 30
+    },
+    {
+      "id": "steam-siege-42",
+      "name": "Galvantula",
+      "number": "42",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/42.jpg",
+      "hp": 90,
+      "dual_type": "Grass"
+    },
+    {
+      "id": "steam-siege-43",
+      "name": "Nidoran\u2642",
+      "number": "43",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/43.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-44",
+      "name": "Nidorino",
+      "number": "44",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/44.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-45",
+      "name": "Nidoking",
+      "number": "45",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/45.jpg",
+      "hp": 140
+    },
+    {
+      "id": "steam-siege-46",
+      "name": "Drifloon",
+      "number": "46",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/46.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-47",
+      "name": "Drifblim",
+      "number": "47",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/47.jpg",
+      "hp": 100
+    },
+    {
+      "id": "steam-siege-48",
+      "name": "Litwick",
+      "number": "48",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/48.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-49",
+      "name": "Lampent",
+      "number": "49",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/49.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-50",
+      "name": "Chandelure",
+      "number": "50",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/50.jpg",
+      "hp": 120
+    },
+    {
+      "id": "steam-siege-51",
+      "name": "Hoopa",
+      "number": "51",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/51.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-52",
+      "name": "Mankey",
+      "number": "52",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/52.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-53",
+      "name": "Primeape",
+      "number": "53",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/53.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-54",
+      "name": "Nosepass",
+      "number": "54",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/54.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-55",
+      "name": "Probopass",
+      "number": "55",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/55.jpg",
+      "hp": 120
+    },
+    {
+      "id": "steam-siege-56",
+      "name": "Anorith",
+      "number": "56",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/56.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-57",
+      "name": "Armaldo",
+      "number": "57",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/57.jpg",
+      "hp": 130
+    },
+    {
+      "id": "steam-siege-58",
+      "name": "Croagunk",
+      "number": "58",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/58.jpg",
+      "hp": 70
+    },
+    {
+      "id": "steam-siege-59",
+      "name": "Toxicroak",
+      "number": "59",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/59.jpg",
+      "hp": 110
+    },
+    {
+      "id": "steam-siege-60",
+      "name": "Sneasel",
+      "number": "60",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/60.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-61",
+      "name": "Weavile",
+      "number": "61",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/61.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-62",
+      "name": "Spiritomb",
+      "number": "62",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/62.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-63",
+      "name": "Pawniard",
+      "number": "63",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/63.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-64",
+      "name": "Bisharp",
+      "number": "64",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/64.jpg",
+      "hp": 100,
+      "dual_type": "Metal"
+    },
+    {
+      "id": "steam-siege-65",
+      "name": "Yveltal",
+      "number": "65",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/65.jpg",
+      "hp": 130
+    },
+    {
+      "id": "steam-siege-66",
+      "name": "YveltalBREAK",
+      "number": "66",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/66.jpg",
+      "hp": 160,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "steam-siege-67",
+      "name": "SteelixEX",
+      "number": "67",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/67.jpg",
+      "hp": 200,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-68",
+      "name": "MegaSteelixEX",
+      "number": "68",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/68.jpg",
+      "hp": 240,
+      "dual_type": "Fighting",
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "steam-siege-69",
+      "name": "Shieldon",
+      "number": "69",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/69.jpg",
+      "hp": 100
+    },
+    {
+      "id": "steam-siege-70",
+      "name": "Bastiodon",
+      "number": "70",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/70.jpg",
+      "hp": 140
+    },
+    {
+      "id": "steam-siege-71",
+      "name": "Klink",
+      "number": "71",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/71.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-72",
+      "name": "Klang",
+      "number": "72",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/72.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-73",
+      "name": "Klinklang",
+      "number": "73",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/73.jpg",
+      "hp": 140
+    },
+    {
+      "id": "steam-siege-74",
+      "name": "Cobalion",
+      "number": "74",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/74.jpg",
+      "hp": 120
+    },
+    {
+      "id": "steam-siege-75",
+      "name": "MagearnaEX",
+      "number": "75",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/75.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-76",
+      "name": "Marill",
+      "number": "76",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/76.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-77",
+      "name": "Azumarill",
+      "number": "77",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/77.jpg",
+      "hp": 100,
+      "dual_type": "Water"
+    },
+    {
+      "id": "steam-siege-78",
+      "name": "GardevoirEX",
+      "number": "78",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/78.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-79",
+      "name": "MegaGardevoirEX",
+      "number": "79",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/79.jpg",
+      "hp": 210,
+      "dual_type": "Psychic",
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "steam-siege-80",
+      "name": "Klefki",
+      "number": "80",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/80.jpg",
+      "hp": 70
+    },
+    {
+      "id": "steam-siege-81",
+      "name": "Xerneas",
+      "number": "81",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/81.jpg",
+      "hp": 130
+    },
+    {
+      "id": "steam-siege-82",
+      "name": "XerneasBREAK",
+      "number": "82",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/82.jpg",
+      "hp": 160,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "steam-siege-83",
+      "name": "Druddigon",
+      "number": "83",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/83.jpg",
+      "hp": 100
+    },
+    {
+      "id": "steam-siege-84",
+      "name": "Deino",
+      "number": "84",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/84.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-85",
+      "name": "Zweilous",
+      "number": "85",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/85.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-86",
+      "name": "Hydreigon",
+      "number": "86",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/86.jpg",
+      "hp": 150
+    },
+    {
+      "id": "steam-siege-87",
+      "name": "HydreigonBREAK",
+      "number": "87",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/87.jpg",
+      "hp": 180,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "steam-siege-88",
+      "name": "Meowth",
+      "number": "88",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/88.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-89",
+      "name": "Persian",
+      "number": "89",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/89.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-90",
+      "name": "Aipom",
+      "number": "90",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/90.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-91",
+      "name": "Ambipom",
+      "number": "91",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/91.jpg",
+      "hp": 80
+    },
+    {
+      "id": "steam-siege-92",
+      "name": "Rufflet",
+      "number": "92",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/92.jpg",
+      "hp": 60
+    },
+    {
+      "id": "steam-siege-93",
+      "name": "Braviary",
+      "number": "93",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/93.jpg",
+      "hp": 100
+    },
+    {
+      "id": "steam-siege-94",
+      "name": "Fletchling",
+      "number": "94",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/94.jpg",
+      "hp": 50
+    },
+    {
+      "id": "steam-siege-95",
+      "name": "Fletchinder",
+      "number": "95",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/95.jpg",
+      "hp": 70
+    },
+    {
+      "id": "steam-siege-96",
+      "name": "Talonflame",
+      "number": "96",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/96.jpg",
+      "hp": 130
+    },
+    {
+      "id": "steam-siege-97",
+      "name": "Hawlucha",
+      "number": "97",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/97.jpg",
+      "hp": 90
+    },
+    {
+      "id": "steam-siege-98",
+      "name": "Armor Fossil Shieldon",
+      "number": "98",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/98.jpg",
+      "keywords": [
+        "item",
+        "fossil"
+      ]
+    },
+    {
+      "id": "steam-siege-99",
+      "name": "Captivating Pok\u00e9 Puff",
+      "number": "99",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/99.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "steam-siege-100",
+      "name": "Claw Fossil Anorith",
+      "number": "100",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/100.jpg",
+      "keywords": [
+        "item",
+        "fossil"
+      ]
+    },
+    {
+      "id": "steam-siege-101",
+      "name": "Gardevoir Spirit Link",
+      "number": "101",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/101.jpg",
+      "keywords": [
+        "item",
+        "spirit-link"
+      ]
+    },
+    {
+      "id": "steam-siege-102",
+      "name": "Greedy Dice",
+      "number": "102",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/102.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "steam-siege-103",
+      "name": "Ninja Boy",
+      "number": "103",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/103.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "steam-siege-104",
+      "name": "Pok\u00e9mon Ranger",
+      "number": "104",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/104.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "steam-siege-105",
+      "name": "Special Charge",
+      "number": "105",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/105.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "steam-siege-106",
+      "name": "Steelix Spirit Link",
+      "number": "106",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/106.jpg",
+      "keywords": [
+        "item",
+        "spirit-link"
+      ]
+    },
+    {
+      "id": "steam-siege-107",
+      "name": "VolcanionEX",
+      "number": "107",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/107.jpg",
+      "hp": 180,
+      "dual_type": "Water",
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-108",
+      "name": "SteelixEX",
+      "number": "108",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/108.jpg",
+      "hp": 200,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-109",
+      "name": "MegaSteelixEX",
+      "number": "109",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/109.jpg",
+      "hp": 240,
+      "dual_type": "Fighting",
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "steam-siege-110",
+      "name": "MagearnaEX",
+      "number": "110",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/110.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-111",
+      "name": "GardevoirEX",
+      "number": "111",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/111.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-112",
+      "name": "MegaGardevoirEX",
+      "number": "112",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/112.jpg",
+      "hp": 210,
+      "dual_type": "Psychic",
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "steam-siege-113",
+      "name": "Pok\u00e9mon Ranger",
+      "number": "113",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/113.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "steam-siege-114",
+      "name": "Professor Sycamore",
+      "number": "114",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/114.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "steam-siege-115",
+      "name": "VolcanionEX",
+      "number": "115",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/115.jpg",
+      "hp": 180,
+      "dual_type": "Water",
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "steam-siege-116",
+      "name": "GardevoirEX",
+      "number": "116",
+      "set": "Steam Siege",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/steamsiege/116.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    }
+  ]
+}

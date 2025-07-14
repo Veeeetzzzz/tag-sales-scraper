@@ -1,1270 +1,1814 @@
 {
-  "setInfo": {
+  "set": {
     "name": "Crimson Invasion",
-    "code": "CRI",
-    "releaseDate": "2017-11-03",
-    "totalCards": 111
+    "series": "Sun & Moon",
+    "printedTotal": 111,
+    "total": 124,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "CRI",
+    "releaseDate": "2017/11/03",
+    "updatedAt": "2024/01/01 00:00:00",
+    "images": {
+      "symbol": "https://www.serebii.net/card/crimsoninvasion/symbol.png",
+      "logo": "https://www.serebii.net/card/crimsoninvasion/logo.png"
+    }
   },
   "cards": [
     {
-      "id": "CRI-1",
+      "id": "cri1",
       "name": "Weedle",
       "number": "1",
+      "type": "Grass",
+      "hp": 40,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "weedle"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/1.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/1.jpg"
+      }
     },
     {
-      "id": "CRI-2",
+      "id": "cri2",
       "name": "Kakuna",
       "number": "2",
+      "type": "Grass",
+      "hp": 70,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "kakuna"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/2.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/2.jpg"
+      }
     },
     {
-      "id": "CRI-3",
+      "id": "cri3",
       "name": "Beedrill",
       "number": "3",
+      "type": "Grass",
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "beedrill"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/3.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/3.jpg"
+      }
     },
     {
-      "id": "CRI-4",
+      "id": "cri4",
       "name": "Exeggcute",
       "number": "4",
+      "type": "Grass",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "exeggcute"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/4.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/4.jpg"
+      }
     },
     {
-      "id": "CRI-5",
+      "id": "cri5",
       "name": "Cacnea",
       "number": "5",
+      "type": "Grass",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "cacnea"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/5.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/5.jpg"
+      }
     },
     {
-      "id": "CRI-6",
+      "id": "cri6",
       "name": "Cacturne",
       "number": "6",
+      "type": "Grass",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "cacturne"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/6.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/6.jpg"
+      }
     },
     {
-      "id": "CRI-7",
+      "id": "cri7",
       "name": "Karrablast",
       "number": "7",
+      "type": "Grass",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "karrablast"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/7.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/7.jpg"
+      }
     },
     {
-      "id": "CRI-8",
+      "id": "cri8",
       "name": "Shelmet",
       "number": "8",
+      "type": "Grass",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "shelmet"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/8.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/8.jpg"
+      }
     },
     {
-      "id": "CRI-9",
+      "id": "cri9",
       "name": "Accelgor",
       "number": "9",
+      "type": "Grass",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "accelgor"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/9.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/9.jpg"
+      }
     },
     {
-      "id": "CRI-10",
+      "id": "cri10",
       "name": "Skiddo",
       "number": "10",
+      "type": "Grass",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "skiddo"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/10.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/10.jpg"
+      }
     },
     {
-      "id": "CRI-11",
+      "id": "cri11",
       "name": "Gogoat",
       "number": "11",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gogoat"
-      ]
+      "type": "Grass",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/11.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/11.jpg"
+      }
     },
     {
-      "id": "CRI-12",
+      "id": "cri12",
       "name": "Alolan Marowak",
       "number": "12",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "alolan marowak",
-        "alolan",
-        "marowak"
-      ]
+      "type": "Fire",
+      "hp": 100,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/12.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/12.jpg"
+      }
     },
     {
-      "id": "CRI-13",
+      "id": "cri13",
       "name": "Numel",
       "number": "13",
+      "type": "Fire",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "numel"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/13.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/13.jpg"
+      }
     },
     {
-      "id": "CRI-14",
+      "id": "cri14",
       "name": "Camerupt",
       "number": "14",
+      "type": "Fire",
+      "hp": 110,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "camerupt"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/14.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/14.jpg"
+      }
     },
     {
-      "id": "CRI-15",
+      "id": "cri15",
       "name": "Staryu",
       "number": "15",
+      "type": "Water",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "staryu"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/15.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/15.jpg"
+      }
     },
     {
-      "id": "CRI-16",
+      "id": "cri16",
       "name": "Starmie",
       "number": "16",
+      "type": "Water",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "starmie"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/16.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/16.jpg"
+      }
     },
     {
-      "id": "CRI-17",
+      "id": "cri17",
       "name": "Magikarp",
       "number": "17",
+      "type": "Water",
+      "hp": 30,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "magikarp"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/17.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/17.jpg"
+      }
     },
     {
-      "id": "CRI-18",
+      "id": "cri18",
       "name": "Gyarados-GX",
       "number": "18",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gyarados"
-      ]
+      "type": "Water",
+      "hp": 240,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/18.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/18.jpg"
+      }
     },
     {
-      "id": "CRI-19",
+      "id": "cri19",
       "name": "Swinub",
       "number": "19",
+      "type": "Water",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "swinub"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/19.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/19.jpg"
+      }
     },
     {
-      "id": "CRI-20",
+      "id": "cri20",
       "name": "Piloswine",
       "number": "20",
+      "type": "Water",
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "piloswine"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/20.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/20.jpg"
+      }
     },
     {
-      "id": "CRI-21",
+      "id": "cri21",
       "name": "Mamoswine",
       "number": "21",
+      "type": "Water",
+      "hp": 140,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "mamoswine"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/21.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/21.jpg"
+      }
     },
     {
-      "id": "CRI-22",
+      "id": "cri22",
       "name": "Remoraid",
       "number": "22",
+      "type": "Water",
+      "hp": 40,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "remoraid"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/22.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/22.jpg"
+      }
     },
     {
-      "id": "CRI-23",
+      "id": "cri23",
       "name": "Octillery",
       "number": "23",
+      "type": "Water",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "octillery"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/23.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/23.jpg"
+      }
     },
     {
-      "id": "CRI-24",
+      "id": "cri24",
       "name": "Corphish",
       "number": "24",
+      "type": "Water",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "corphish"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/24.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/24.jpg"
+      }
     },
     {
-      "id": "CRI-25",
+      "id": "cri25",
       "name": "Crawdaunt",
       "number": "25",
+      "type": "Water",
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "crawdaunt"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/25.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/25.jpg"
+      }
     },
     {
-      "id": "CRI-26",
+      "id": "cri26",
       "name": "Feebas",
       "number": "26",
+      "type": "Water",
+      "hp": 30,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "feebas"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/26.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/26.jpg"
+      }
     },
     {
-      "id": "CRI-27",
+      "id": "cri27",
       "name": "Milotic",
       "number": "27",
-      "rarity": "Holo Rare",
-      "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "milotic"
-      ]
+      "type": "Water",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/27.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/27.jpg"
+      }
     },
     {
-      "id": "CRI-28",
+      "id": "cri28",
       "name": "Regice",
       "number": "28",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "regice"
-      ]
+      "type": "Water",
+      "hp": 120,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/28.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/28.jpg"
+      }
     },
     {
-      "id": "CRI-29",
+      "id": "cri29",
       "name": "Shellos",
       "number": "29",
+      "type": "Water",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "shellos"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/29.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/29.jpg"
+      }
     },
     {
-      "id": "CRI-30",
+      "id": "cri30",
       "name": "Pikachu",
       "number": "30",
+      "type": "Lightning",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "pikachu"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/30.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/30.jpg"
+      }
     },
     {
-      "id": "CRI-31",
+      "id": "cri31",
       "name": "Alolan Raichu",
       "number": "31",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "raichu",
-        "alolan",
-        "alolan raichu"
-      ]
+      "type": "Lightning",
+      "hp": 90,
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/31.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/31.jpg"
+      }
     },
     {
-      "id": "CRI-32",
+      "id": "cri32",
       "name": "Alolan Geodude",
       "number": "32",
+      "type": "Lightning",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "alolan",
-        "alolan geodude",
-        "geodude"
-      ]
+      "artist": "Kouki Saitou",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/32.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/32.jpg"
+      }
     },
     {
-      "id": "CRI-33",
+      "id": "cri33",
       "name": "Alolan Graveler",
       "number": "33",
+      "type": "Lightning",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "alolan graveler",
-        "graveler",
-        "alolan"
-      ]
+      "artist": "Kagemaru Himeno",
+      "keywords": [
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/33.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/33.jpg"
+      }
     },
     {
-      "id": "CRI-34",
+      "id": "cri34",
       "name": "Alolan Golem-GX",
       "number": "34",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "alolan golem",
-        "golem-gx",
-        "alolan",
-        "golem"
-      ]
+      "type": "Lightning",
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/34.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/34.jpg"
+      }
     },
     {
-      "id": "CRI-35",
+      "id": "cri35",
       "name": "Emolga",
       "number": "35",
+      "type": "Lightning",
+      "hp": 70,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "emolga"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/35.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/35.jpg"
+      }
     },
     {
-      "id": "CRI-36",
+      "id": "cri36",
       "name": "Gastly",
       "number": "36",
+      "type": "Psychic",
+      "hp": 40,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gastly"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/36.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/36.jpg"
+      }
     },
     {
-      "id": "CRI-37",
+      "id": "cri37",
       "name": "Haunter",
       "number": "37",
+      "type": "Psychic",
+      "hp": 70,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "haunter"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/37.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/37.jpg"
+      }
     },
     {
-      "id": "CRI-38",
+      "id": "cri38",
       "name": "Gengar",
       "number": "38",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gengar"
-      ]
+      "type": "Psychic",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/38.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/38.jpg"
+      }
     },
     {
-      "id": "CRI-39",
+      "id": "cri39",
       "name": "Misdreavus",
       "number": "39",
+      "type": "Psychic",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "misdreavus"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/39.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/39.jpg"
+      }
     },
     {
-      "id": "CRI-40",
+      "id": "cri40",
       "name": "Mismagius",
       "number": "40",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "mismagius"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/40.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/40.jpg"
+      }
     },
     {
-      "id": "CRI-41",
+      "id": "cri41",
       "name": "Spoink",
       "number": "41",
+      "type": "Psychic",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "spoink"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/41.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/41.jpg"
+      }
     },
     {
-      "id": "CRI-42",
+      "id": "cri42",
       "name": "Grumpig",
       "number": "42",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "grumpig"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/42.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/42.jpg"
+      }
     },
     {
-      "id": "CRI-43",
+      "id": "cri43",
       "name": "Chimecho",
       "number": "43",
+      "type": "Psychic",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "chimecho"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/43.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/43.jpg"
+      }
     },
     {
-      "id": "CRI-44",
+      "id": "cri44",
       "name": "Pumpkaboo",
       "number": "44",
+      "type": "Psychic",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "pumpkaboo"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/44.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/44.jpg"
+      }
     },
     {
-      "id": "CRI-45",
+      "id": "cri45",
       "name": "Gourgeist",
       "number": "45",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gourgeist"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/45.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/45.jpg"
+      }
     },
     {
-      "id": "CRI-46",
+      "id": "cri46",
       "name": "Salandit",
       "number": "46",
+      "type": "Psychic",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "salandit"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/46.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/46.jpg"
+      }
     },
     {
-      "id": "CRI-47",
+      "id": "cri47",
       "name": "Salazzle",
       "number": "47",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "salazzle"
-      ]
+      "type": "Psychic",
+      "hp": 90,
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/47.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/47.jpg"
+      }
     },
     {
-      "id": "CRI-48",
+      "id": "cri48",
       "name": "Oranguru",
       "number": "48",
+      "type": "Psychic",
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "oranguru"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/48.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/48.jpg"
+      }
     },
     {
-      "id": "CRI-49",
+      "id": "cri49",
       "name": "Nihilego-GX",
       "number": "49",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "nihilego"
-      ]
+      "type": "Psychic",
+      "hp": 180,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/49.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/49.jpg"
+      }
     },
     {
-      "id": "CRI-50",
+      "id": "cri50",
       "name": "Mankey",
       "number": "50",
+      "type": "Fighting",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "mankey"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/50.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/50.jpg"
+      }
     },
     {
-      "id": "CRI-51",
+      "id": "cri51",
       "name": "Primeape",
       "number": "51",
+      "type": "Fighting",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "primeape"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/51.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/51.jpg"
+      }
     },
     {
-      "id": "CRI-52",
+      "id": "cri52",
       "name": "Cubone",
       "number": "52",
+      "type": "Fighting",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "cubone"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/52.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/52.jpg"
+      }
     },
     {
-      "id": "CRI-53",
+      "id": "cri53",
       "name": "Regirock",
       "number": "53",
+      "type": "Fighting",
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "regirock"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/53.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/53.jpg"
+      }
     },
     {
-      "id": "CRI-54",
+      "id": "cri54",
       "name": "Gastrodon",
       "number": "54",
+      "type": "Fighting",
+      "hp": 110,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gastrodon"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/54.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/54.jpg"
+      }
     },
     {
-      "id": "CRI-55",
+      "id": "cri55",
       "name": "Stufful",
       "number": "55",
+      "type": "Fighting",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "stufful"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/55.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/55.jpg"
+      }
     },
     {
-      "id": "CRI-56",
+      "id": "cri56",
       "name": "Bewear",
       "number": "56",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "bewear"
-      ]
+      "type": "Fighting",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/56.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/56.jpg"
+      }
     },
     {
-      "id": "CRI-57",
+      "id": "cri57",
       "name": "Buzzwole-GX",
       "number": "57",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "buzzwole"
-      ]
+      "type": "Fighting",
+      "hp": 190,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/57.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/57.jpg"
+      }
     },
     {
-      "id": "CRI-58",
+      "id": "cri58",
       "name": "Houndour",
       "number": "58",
+      "type": "Darkness",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "houndour"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/58.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/58.jpg"
+      }
     },
     {
-      "id": "CRI-59",
+      "id": "cri59",
       "name": "Houndoom",
       "number": "59",
+      "type": "Darkness",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "houndoom"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/59.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/59.jpg"
+      }
     },
     {
-      "id": "CRI-60",
+      "id": "cri60",
       "name": "Deino",
       "number": "60",
+      "type": "Darkness",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "deino"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/60.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/60.jpg"
+      }
     },
     {
-      "id": "CRI-61",
+      "id": "cri61",
       "name": "Zweilous",
       "number": "61",
+      "type": "Darkness",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "zweilous"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/61.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/61.jpg"
+      }
     },
     {
-      "id": "CRI-62",
+      "id": "cri62",
       "name": "Hydreigon",
       "number": "62",
+      "type": "Darkness",
+      "hp": 150,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "hydreigon"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/62.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/62.jpg"
+      }
     },
     {
-      "id": "CRI-63",
+      "id": "cri63",
       "name": "Guzzlord-GX",
       "number": "63",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "guzzlord"
-      ]
+      "type": "Darkness",
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/63.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/63.jpg"
+      }
     },
     {
-      "id": "CRI-64",
+      "id": "cri64",
       "name": "Mawile",
       "number": "64",
+      "type": "Metal",
+      "hp": 70,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "mawile"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/64.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/64.jpg"
+      }
     },
     {
-      "id": "CRI-65",
+      "id": "cri65",
       "name": "Aron",
       "number": "65",
+      "type": "Metal",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "aron"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/65.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/65.jpg"
+      }
     },
     {
-      "id": "CRI-66",
+      "id": "cri66",
       "name": "Lairon",
       "number": "66",
+      "type": "Metal",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "lairon"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/66.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/66.jpg"
+      }
     },
     {
-      "id": "CRI-67",
+      "id": "cri67",
       "name": "Aggron",
       "number": "67",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "aggron"
-      ]
+      "type": "Metal",
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/67.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/67.jpg"
+      }
     },
     {
-      "id": "CRI-68",
+      "id": "cri68",
       "name": "Registeel",
       "number": "68",
+      "type": "Metal",
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "registeel"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/68.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/68.jpg"
+      }
     },
     {
-      "id": "CRI-69",
+      "id": "cri69",
       "name": "Escavalier",
       "number": "69",
+      "type": "Metal",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "escavalier"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/69.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/69.jpg"
+      }
     },
     {
-      "id": "CRI-70",
+      "id": "cri70",
       "name": "Kartana-GX",
       "number": "70",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "kartana"
-      ]
+      "type": "Metal",
+      "hp": 170,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/70.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/70.jpg"
+      }
     },
     {
-      "id": "CRI-71",
+      "id": "cri71",
       "name": "Jigglypuff",
       "number": "71",
+      "type": "Fairy",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "jigglypuff"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/71.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/71.jpg"
+      }
     },
     {
-      "id": "CRI-72",
+      "id": "cri72",
       "name": "Wigglytuff",
       "number": "72",
+      "type": "Fairy",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "wigglytuff"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/72.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/72.jpg"
+      }
     },
     {
-      "id": "CRI-73",
+      "id": "cri73",
       "name": "Xerneas",
       "number": "73",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "xerneas"
-      ]
+      "type": "Fairy",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/73.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/73.jpg"
+      }
     },
     {
-      "id": "CRI-74",
+      "id": "cri74",
       "name": "Alolan Exeggutor-GX",
       "number": "74",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "exeggutor-gx",
-        "alolan",
-        "exeggutor",
-        "alolan exeggutor"
-      ]
+      "type": "Dragon",
+      "hp": 240,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/74.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/74.jpg"
+      }
     },
     {
-      "id": "CRI-75",
+      "id": "cri75",
       "name": "Jangmo-o",
       "number": "75",
+      "type": "Dragon",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "jangmo-o"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/75.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/75.jpg"
+      }
     },
     {
-      "id": "CRI-76",
+      "id": "cri76",
       "name": "Hakamo-o",
       "number": "76",
+      "type": "Dragon",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "hakamo-o"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/76.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/76.jpg"
+      }
     },
     {
-      "id": "CRI-77",
+      "id": "cri77",
       "name": "Kommo-o",
       "number": "77",
+      "type": "Dragon",
+      "hp": 150,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "kommo-o"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/77.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/77.jpg"
+      }
     },
     {
-      "id": "CRI-78",
+      "id": "cri78",
       "name": "Miltank",
       "number": "78",
+      "type": "Colorless",
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "miltank"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/78.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/78.jpg"
+      }
     },
     {
-      "id": "CRI-79",
+      "id": "cri79",
       "name": "Swablu",
       "number": "79",
+      "type": "Colorless",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "swablu"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/79.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/79.jpg"
+      }
     },
     {
-      "id": "CRI-80",
+      "id": "cri80",
       "name": "Altaria",
       "number": "80",
+      "type": "Colorless",
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "altaria"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/80.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/80.jpg"
+      }
     },
     {
-      "id": "CRI-81",
+      "id": "cri81",
       "name": "Starly",
       "number": "81",
+      "type": "Colorless",
+      "hp": 40,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "starly"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/81.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/81.jpg"
+      }
     },
     {
-      "id": "CRI-82",
+      "id": "cri82",
       "name": "Staravia",
       "number": "82",
+      "type": "Colorless",
+      "hp": 70,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "staravia"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/82.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/82.jpg"
+      }
     },
     {
-      "id": "CRI-83",
+      "id": "cri83",
       "name": "Staraptor",
       "number": "83",
+      "type": "Colorless",
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "staraptor"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/83.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/83.jpg"
+      }
     },
     {
-      "id": "CRI-84",
+      "id": "cri84",
       "name": "Regigigas",
       "number": "84",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "regigigas"
-      ]
+      "type": "Colorless",
+      "hp": 180,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/84.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/84.jpg"
+      }
     },
     {
-      "id": "CRI-85",
+      "id": "cri85",
       "name": "Minccino",
       "number": "85",
+      "type": "Colorless",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "minccino"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/85.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/85.jpg"
+      }
     },
     {
-      "id": "CRI-86",
+      "id": "cri86",
       "name": "Cinccino",
       "number": "86",
+      "type": "Colorless",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "cinccino"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/86.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/86.jpg"
+      }
     },
     {
-      "id": "CRI-87",
+      "id": "cri87",
       "name": "Bunnelby",
       "number": "87",
+      "type": "Colorless",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "bunnelby"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/87.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/87.jpg"
+      }
     },
     {
-      "id": "CRI-88",
+      "id": "cri88",
       "name": "Diggersby",
       "number": "88",
+      "type": "Colorless",
+      "hp": 110,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "diggersby"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/88.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/88.jpg"
+      }
     },
     {
-      "id": "CRI-89",
+      "id": "cri89",
       "name": "Type: Null",
       "number": "89",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "type null",
-        "null",
-        "type"
-      ]
+      "type": "Colorless",
+      "hp": 100,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/89.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/89.jpg"
+      }
     },
     {
-      "id": "CRI-90",
+      "id": "cri90",
       "name": "Silvally-GX",
       "number": "90",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "silvally"
-      ]
+      "type": "Colorless",
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/90.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/90.jpg"
+      }
     },
     {
-      "id": "CRI-91",
+      "id": "cri91",
       "name": "Counter Catcher",
       "number": "91",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "catcher",
-        "counter catcher",
-        "counter"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/91.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/91.jpg"
+      }
     },
     {
-      "id": "CRI-92",
+      "id": "cri92",
       "name": "Dashing Pouch",
       "number": "92",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "pouch",
-        "dashing",
-        "dashing pouch"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/92.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/92.jpg"
+      }
     },
     {
-      "id": "CRI-93",
+      "id": "cri93",
       "name": "Devoured Field",
       "number": "93",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "devoured",
-        "field",
-        "devoured field"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Stadium"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/93.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/93.jpg"
+      }
     },
     {
-      "id": "CRI-94",
+      "id": "cri94",
       "name": "Fighting Memory",
       "number": "94",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "memory",
-        "fighting",
-        "fighting memory"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/94.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/94.jpg"
+      }
     },
     {
-      "id": "CRI-95",
+      "id": "cri95",
       "name": "Gladion",
       "number": "95",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gladion"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/95.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/95.jpg"
+      }
     },
     {
-      "id": "CRI-96",
+      "id": "cri96",
       "name": "Lusamine",
       "number": "96",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "lusamine"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/96.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/96.jpg"
+      }
     },
     {
-      "id": "CRI-97",
+      "id": "cri97",
       "name": "Peeking Red Card",
       "number": "97",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "card",
-        "peeking red card",
-        "red",
-        "peeking"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/97.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/97.jpg"
+      }
     },
     {
-      "id": "CRI-98",
+      "id": "cri98",
       "name": "Psychic Memory",
       "number": "98",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "psychic",
-        "memory",
-        "psychic memory"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/98.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/98.jpg"
+      }
     },
     {
-      "id": "CRI-99",
+      "id": "cri99",
       "name": "Sea of Nothingness",
       "number": "99",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "sea",
-        "nothingness",
-        "sea of nothingness"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Stadium"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/99.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/99.jpg"
+      }
     },
     {
-      "id": "CRI-100",
+      "id": "cri100",
       "name": "Counter Energy",
       "number": "100",
+      "type": "Colorless",
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "counter energy",
-        "counter",
-        "energy"
-      ]
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Special Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/100.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/100.jpg"
+      }
     },
     {
-      "id": "CRI-101",
+      "id": "cri101",
       "name": "Gyarados-GX",
       "number": "101",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gyarados"
-      ]
+      "type": "Water",
+      "hp": 240,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/101.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/101.jpg"
+      }
     },
     {
-      "id": "CRI-102",
+      "id": "cri102",
       "name": "Alolan Golem-GX",
       "number": "102",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "alolan golem",
-        "golem-gx",
-        "alolan",
-        "golem"
-      ]
+      "type": "Lightning",
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/102.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/102.jpg"
+      }
     },
     {
-      "id": "CRI-103",
+      "id": "cri103",
       "name": "Nihilego-GX",
       "number": "103",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "nihilego"
-      ]
+      "type": "Psychic",
+      "hp": 180,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/103.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/103.jpg"
+      }
     },
     {
-      "id": "CRI-104",
+      "id": "cri104",
       "name": "Buzzwole-GX",
       "number": "104",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "buzzwole"
-      ]
+      "type": "Fighting",
+      "hp": 190,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/104.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/104.jpg"
+      }
     },
     {
-      "id": "CRI-105",
+      "id": "cri105",
       "name": "Guzzlord-GX",
       "number": "105",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "guzzlord"
-      ]
+      "type": "Darkness",
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/105.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/105.jpg"
+      }
     },
     {
-      "id": "CRI-106",
+      "id": "cri106",
       "name": "Kartana-GX",
       "number": "106",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "kartana"
-      ]
+      "type": "Metal",
+      "hp": 170,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/106.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/106.jpg"
+      }
     },
     {
-      "id": "CRI-107",
+      "id": "cri107",
       "name": "Alolan Exeggutor-GX",
       "number": "107",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "exeggutor-gx",
-        "alolan",
-        "exeggutor",
-        "alolan exeggutor"
-      ]
+      "type": "Dragon",
+      "hp": 240,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/107.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/107.jpg"
+      }
     },
     {
-      "id": "CRI-108",
+      "id": "cri108",
       "name": "Silvally-GX",
       "number": "108",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "CRI",
-      "matchingKeywords": [
-        "silvally"
-      ]
+      "type": "Colorless",
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/108.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/108.jpg"
+      }
     },
     {
-      "id": "CRI-109",
+      "id": "cri109",
       "name": "Gladion",
       "number": "109",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "gladion"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/109.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/109.jpg"
+      }
     },
     {
-      "id": "CRI-110",
+      "id": "cri110",
       "name": "Lusamine",
       "number": "110",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "lusamine"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/110.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/110.jpg"
+      }
     },
     {
-      "id": "CRI-111",
+      "id": "cri111",
       "name": "Olivia",
       "number": "111",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "CRI",
-      "matchingKeywords": [
-        "olivia"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/111.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/111.jpg"
+      }
+    },
+    {
+      "id": "cri112",
+      "name": "Gyarados-GX",
+      "number": "112",
+      "type": "Water",
+      "hp": 240,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/112.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/112.jpg"
+      }
+    },
+    {
+      "id": "cri113",
+      "name": "Alolan Golem-GX",
+      "number": "113",
+      "type": "Lightning",
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/113.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/113.jpg"
+      }
+    },
+    {
+      "id": "cri114",
+      "name": "Nihilego-GX",
+      "number": "114",
+      "type": "Psychic",
+      "hp": 180,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/114.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/114.jpg"
+      }
+    },
+    {
+      "id": "cri115",
+      "name": "Buzzwole-GX",
+      "number": "115",
+      "type": "Fighting",
+      "hp": 190,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/115.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/115.jpg"
+      }
+    },
+    {
+      "id": "cri116",
+      "name": "Guzzlord-GX",
+      "number": "116",
+      "type": "Darkness",
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/116.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/116.jpg"
+      }
+    },
+    {
+      "id": "cri117",
+      "name": "Kartana-GX",
+      "number": "117",
+      "type": "Metal",
+      "hp": 170,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Ultra Beast"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/117.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/117.jpg"
+      }
+    },
+    {
+      "id": "cri118",
+      "name": "Alolan Exeggutor-GX",
+      "number": "118",
+      "type": "Dragon",
+      "hp": 240,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box",
+        "Alolan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/118.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/118.jpg"
+      }
+    },
+    {
+      "id": "cri119",
+      "name": "Silvally-GX",
+      "number": "119",
+      "type": "Colorless",
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/119.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/119.jpg"
+      }
+    },
+    {
+      "id": "cri120",
+      "name": "Counter Catcher",
+      "number": "120",
+      "type": "Trainer",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/120.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/120.jpg"
+      }
+    },
+    {
+      "id": "cri121",
+      "name": "Wishful Baton",
+      "number": "121",
+      "type": "Trainer",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/121.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/121.jpg"
+      }
+    },
+    {
+      "id": "cri122",
+      "name": "Counter Energy",
+      "number": "122",
+      "type": "Colorless",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Special Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/122.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/122.jpg"
+      }
+    },
+    {
+      "id": "cri123",
+      "name": "Warp Energy",
+      "number": "123",
+      "type": "Colorless",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Special Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/123.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/123.jpg"
+      }
+    },
+    {
+      "id": "cri124",
+      "name": "Water Energy",
+      "number": "124",
+      "type": "Water",
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Basic Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/crimsoninvasion/124.jpg",
+        "large": "https://www.serebii.net/card/crimsoninvasion/124.jpg"
+      }
     }
   ]
 }

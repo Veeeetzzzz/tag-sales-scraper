@@ -1,0 +1,2224 @@
+{
+  "set_info": {
+    "name": "Primal Clash",
+    "series": "XY",
+    "release_date": "2015-02-04",
+    "total_cards": 164,
+    "symbol": "PRC",
+    "logo": "https://www.serebii.net/card/primalclash/logo.png"
+  },
+  "cards": [
+    {
+      "id": "primalclash-1",
+      "name": "Weedle",
+      "number": "1",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/1.jpg"
+    },
+    {
+      "id": "primalclash-2",
+      "name": "Kakuna",
+      "number": "2",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/2.jpg"
+    },
+    {
+      "id": "primalclash-3",
+      "name": "Beedrill",
+      "number": "3",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/3.jpg"
+    },
+    {
+      "id": "primalclash-4",
+      "name": "Tangela",
+      "number": "4",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/4.jpg"
+    },
+    {
+      "id": "primalclash-5",
+      "name": "Tangrowth",
+      "number": "5",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/5.jpg"
+    },
+    {
+      "id": "primalclash-6",
+      "name": "Treecko",
+      "number": "6",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/6.jpg"
+    },
+    {
+      "id": "primalclash-7",
+      "name": "Grovyle",
+      "number": "7",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/7.jpg"
+    },
+    {
+      "id": "primalclash-8",
+      "name": "Sceptile",
+      "number": "8",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/8.jpg"
+    },
+    {
+      "id": "primalclash-9",
+      "name": "Sceptile",
+      "number": "9",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/9.jpg"
+    },
+    {
+      "id": "primalclash-10",
+      "name": "Lotad",
+      "number": "10",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/10.jpg"
+    },
+    {
+      "id": "primalclash-11",
+      "name": "Lombre",
+      "number": "11",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/11.jpg"
+    },
+    {
+      "id": "primalclash-12",
+      "name": "Ludicolo",
+      "number": "12",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/12.jpg"
+    },
+    {
+      "id": "primalclash-13",
+      "name": "Surskit",
+      "number": "13",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/13.jpg"
+    },
+    {
+      "id": "primalclash-14",
+      "name": "Masquerain",
+      "number": "14",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/14.jpg"
+    },
+    {
+      "id": "primalclash-15",
+      "name": "Shroomish",
+      "number": "15",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/15.jpg"
+    },
+    {
+      "id": "primalclash-16",
+      "name": "Breloom",
+      "number": "16",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/16.jpg"
+    },
+    {
+      "id": "primalclash-17",
+      "name": "Volbeat",
+      "number": "17",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/17.jpg"
+    },
+    {
+      "id": "primalclash-18",
+      "name": "Illumise",
+      "number": "18",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/18.jpg"
+    },
+    {
+      "id": "primalclash-19",
+      "name": "TrevenantEX",
+      "number": "19",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/19.jpg"
+    },
+    {
+      "id": "primalclash-20",
+      "name": "Vulpix",
+      "number": "20",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/20.jpg"
+    },
+    {
+      "id": "primalclash-21",
+      "name": "Ninetales",
+      "number": "21",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/21.jpg"
+    },
+    {
+      "id": "primalclash-22",
+      "name": "Slugma",
+      "number": "22",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/22.jpg"
+    },
+    {
+      "id": "primalclash-23",
+      "name": "Magcargo",
+      "number": "23",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/23.jpg"
+    },
+    {
+      "id": "primalclash-24",
+      "name": "Magcargo",
+      "number": "24",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/24.jpg"
+    },
+    {
+      "id": "primalclash-25",
+      "name": "Torchic",
+      "number": "25",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/25.jpg"
+    },
+    {
+      "id": "primalclash-26",
+      "name": "Torchic",
+      "number": "26",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/26.jpg"
+    },
+    {
+      "id": "primalclash-27",
+      "name": "Combusken",
+      "number": "27",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/27.jpg"
+    },
+    {
+      "id": "primalclash-28",
+      "name": "Blaziken",
+      "number": "28",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/28.jpg"
+    },
+    {
+      "id": "primalclash-29",
+      "name": "CameruptEX",
+      "number": "29",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Holo ex",
+      "hp": 190,
+      "keywords": [
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/29.jpg"
+    },
+    {
+      "id": "primalclash-30",
+      "name": "Horsea",
+      "number": "30",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/30.jpg"
+    },
+    {
+      "id": "primalclash-31",
+      "name": "Seadra",
+      "number": "31",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/31.jpg"
+    },
+    {
+      "id": "primalclash-32",
+      "name": "Staryu",
+      "number": "32",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/32.jpg"
+    },
+    {
+      "id": "primalclash-33",
+      "name": "Mudkip",
+      "number": "33",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/33.jpg"
+    },
+    {
+      "id": "primalclash-34",
+      "name": "Marshtomp",
+      "number": "34",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/34.jpg"
+    },
+    {
+      "id": "primalclash-35",
+      "name": "Swampert",
+      "number": "35",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/35.jpg"
+    },
+    {
+      "id": "primalclash-36",
+      "name": "Swampert",
+      "number": "36",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/36.jpg"
+    },
+    {
+      "id": "primalclash-37",
+      "name": "Ludicolo",
+      "number": "37",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/37.jpg"
+    },
+    {
+      "id": "primalclash-38",
+      "name": "WailordEX",
+      "number": "38",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "hp": 250,
+      "keywords": [
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/38.jpg"
+    },
+    {
+      "id": "primalclash-39",
+      "name": "Barboach",
+      "number": "39",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/39.jpg"
+    },
+    {
+      "id": "primalclash-40",
+      "name": "Whiscash",
+      "number": "40",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/40.jpg"
+    },
+    {
+      "id": "primalclash-41",
+      "name": "Whiscash",
+      "number": "41",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/41.jpg"
+    },
+    {
+      "id": "primalclash-42",
+      "name": "Corphish",
+      "number": "42",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/42.jpg"
+    },
+    {
+      "id": "primalclash-43",
+      "name": "Feebas",
+      "number": "43",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 30,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/43.jpg"
+    },
+    {
+      "id": "primalclash-44",
+      "name": "Milotic",
+      "number": "44",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/44.jpg"
+    },
+    {
+      "id": "primalclash-45",
+      "name": "Spheal",
+      "number": "45",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/45.jpg"
+    },
+    {
+      "id": "primalclash-46",
+      "name": "Spheal",
+      "number": "46",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/46.jpg"
+    },
+    {
+      "id": "primalclash-47",
+      "name": "Sealeo",
+      "number": "47",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/47.jpg"
+    },
+    {
+      "id": "primalclash-48",
+      "name": "Walrein",
+      "number": "48",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/48.jpg"
+    },
+    {
+      "id": "primalclash-49",
+      "name": "Clamperl",
+      "number": "49",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/49.jpg"
+    },
+    {
+      "id": "primalclash-50",
+      "name": "Huntail",
+      "number": "50",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/50.jpg"
+    },
+    {
+      "id": "primalclash-51",
+      "name": "Gorebyss",
+      "number": "51",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/51.jpg"
+    },
+    {
+      "id": "primalclash-52",
+      "name": "Gorebyss",
+      "number": "52",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/52.jpg"
+    },
+    {
+      "id": "primalclash-53",
+      "name": "Kyogre",
+      "number": "53",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/53.jpg"
+    },
+    {
+      "id": "primalclash-54",
+      "name": "KyogreEX",
+      "number": "54",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/54.jpg"
+    },
+    {
+      "id": "primalclash-55",
+      "name": "Primal KyogreEX",
+      "number": "55",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "hp": 240,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "primal",
+        "primal-evolution"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/55.jpg"
+    },
+    {
+      "id": "primalclash-56",
+      "name": "Manaphy",
+      "number": "56",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/56.jpg"
+    },
+    {
+      "id": "primalclash-57",
+      "name": "Chinchou",
+      "number": "57",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/57.jpg"
+    },
+    {
+      "id": "primalclash-58",
+      "name": "Lanturn",
+      "number": "58",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/58.jpg"
+    },
+    {
+      "id": "primalclash-59",
+      "name": "Electrike",
+      "number": "59",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/59.jpg"
+    },
+    {
+      "id": "primalclash-60",
+      "name": "Electrike",
+      "number": "60",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/60.jpg"
+    },
+    {
+      "id": "primalclash-61",
+      "name": "Manectric",
+      "number": "61",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/61.jpg"
+    },
+    {
+      "id": "primalclash-62",
+      "name": "Tynamo",
+      "number": "62",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 40,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/62.jpg"
+    },
+    {
+      "id": "primalclash-63",
+      "name": "Eelektrik",
+      "number": "63",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/63.jpg"
+    },
+    {
+      "id": "primalclash-64",
+      "name": "Eelektrik",
+      "number": "64",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/64.jpg"
+    },
+    {
+      "id": "primalclash-65",
+      "name": "Eelektross",
+      "number": "65",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/65.jpg"
+    },
+    {
+      "id": "primalclash-66",
+      "name": "Nidoran♀",
+      "number": "66",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/66.jpg"
+    },
+    {
+      "id": "primalclash-67",
+      "name": "Nidorina",
+      "number": "67",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/67.jpg"
+    },
+    {
+      "id": "primalclash-68",
+      "name": "Nidoqueen",
+      "number": "68",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/68.jpg"
+    },
+    {
+      "id": "primalclash-69",
+      "name": "Nidoqueen",
+      "number": "69",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/69.jpg"
+    },
+    {
+      "id": "primalclash-70",
+      "name": "Tentacool",
+      "number": "70",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/70.jpg"
+    },
+    {
+      "id": "primalclash-71",
+      "name": "Tentacool",
+      "number": "71",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/71.jpg"
+    },
+    {
+      "id": "primalclash-72",
+      "name": "Tentacruel",
+      "number": "72",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/72.jpg"
+    },
+    {
+      "id": "primalclash-73",
+      "name": "Starmie",
+      "number": "73",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/73.jpg"
+    },
+    {
+      "id": "primalclash-74",
+      "name": "Rhyhorn",
+      "number": "74",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 80,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/74.jpg"
+    },
+    {
+      "id": "primalclash-75",
+      "name": "Rhydon",
+      "number": "75",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/75.jpg"
+    },
+    {
+      "id": "primalclash-76",
+      "name": "Rhyperior",
+      "number": "76",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 150,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/76.jpg"
+    },
+    {
+      "id": "primalclash-77",
+      "name": "Rhyperior",
+      "number": "77",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 150,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/77.jpg"
+    },
+    {
+      "id": "primalclash-78",
+      "name": "Nosepass",
+      "number": "78",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 80,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/78.jpg"
+    },
+    {
+      "id": "primalclash-79",
+      "name": "Meditite",
+      "number": "79",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/79.jpg"
+    },
+    {
+      "id": "primalclash-80",
+      "name": "Medicham",
+      "number": "80",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/80.jpg"
+    },
+    {
+      "id": "primalclash-81",
+      "name": "Medicham",
+      "number": "81",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/81.jpg"
+    },
+    {
+      "id": "primalclash-82",
+      "name": "Trapinch",
+      "number": "82",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/82.jpg"
+    },
+    {
+      "id": "primalclash-83",
+      "name": "Solrock",
+      "number": "83",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 80,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/83.jpg"
+    },
+    {
+      "id": "primalclash-84",
+      "name": "Groudon",
+      "number": "84",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/84.jpg"
+    },
+    {
+      "id": "primalclash-85",
+      "name": "GroudonEX",
+      "number": "85",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo ex",
+      "hp": 190,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/85.jpg"
+    },
+    {
+      "id": "primalclash-86",
+      "name": "Primal GroudonEX",
+      "number": "86",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo ex",
+      "hp": 240,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex",
+        "primal",
+        "primal-evolution"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/86.jpg"
+    },
+    {
+      "id": "primalclash-87",
+      "name": "Hippopotas",
+      "number": "87",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 80,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/87.jpg"
+    },
+    {
+      "id": "primalclash-88",
+      "name": "Hippowdon",
+      "number": "88",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/88.jpg"
+    },
+    {
+      "id": "primalclash-89",
+      "name": "Drilbur",
+      "number": "89",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/89.jpg"
+    },
+    {
+      "id": "primalclash-90",
+      "name": "Diggersby",
+      "number": "90",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 110,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/90.jpg"
+    },
+    {
+      "id": "primalclash-91",
+      "name": "SharpedoEX",
+      "number": "91",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Holo ex",
+      "hp": 170,
+      "keywords": [
+        "darkness",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/91.jpg"
+    },
+    {
+      "id": "primalclash-92",
+      "name": "Crawdaunt",
+      "number": "92",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "hp": 110,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/92.jpg"
+    },
+    {
+      "id": "primalclash-93",
+      "name": "AggronEX",
+      "number": "93",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/93.jpg"
+    },
+    {
+      "id": "primalclash-94",
+      "name": "MegaAggronEX",
+      "number": "94",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "hp": 240,
+      "keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/94.jpg"
+    },
+    {
+      "id": "primalclash-95",
+      "name": "Probopass",
+      "number": "95",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/95.jpg"
+    },
+    {
+      "id": "primalclash-96",
+      "name": "Excadrill",
+      "number": "96",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/96.jpg"
+    },
+    {
+      "id": "primalclash-97",
+      "name": "Excadrill",
+      "number": "97",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/97.jpg"
+    },
+    {
+      "id": "primalclash-98",
+      "name": "Honedge",
+      "number": "98",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/98.jpg"
+    },
+    {
+      "id": "primalclash-99",
+      "name": "Doublade",
+      "number": "99",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/99.jpg"
+    },
+    {
+      "id": "primalclash-100",
+      "name": "Aegislash",
+      "number": "100",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/100.jpg"
+    },
+    {
+      "id": "primalclash-101",
+      "name": "Mr. Mime",
+      "number": "101",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/101.jpg"
+    },
+    {
+      "id": "primalclash-102",
+      "name": "Marill",
+      "number": "102",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/102.jpg"
+    },
+    {
+      "id": "primalclash-103",
+      "name": "Azumarill",
+      "number": "103",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/103.jpg"
+    },
+    {
+      "id": "primalclash-104",
+      "name": "Azumarill",
+      "number": "104",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "hp": 100,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/104.jpg"
+    },
+    {
+      "id": "primalclash-105",
+      "name": "GardevoirEX",
+      "number": "105",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo ex",
+      "hp": 170,
+      "keywords": [
+        "fairy",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/105.jpg"
+    },
+    {
+      "id": "primalclash-106",
+      "name": "MegaGardevoirEX",
+      "number": "106",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo ex",
+      "hp": 210,
+      "keywords": [
+        "fairy",
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/106.jpg"
+    },
+    {
+      "id": "primalclash-107",
+      "name": "Kingdra",
+      "number": "107",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/107.jpg"
+    },
+    {
+      "id": "primalclash-108",
+      "name": "Kingdra",
+      "number": "108",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/108.jpg"
+    },
+    {
+      "id": "primalclash-109",
+      "name": "Vibrava",
+      "number": "109",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/109.jpg"
+    },
+    {
+      "id": "primalclash-110",
+      "name": "Flygon",
+      "number": "110",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/110.jpg"
+    },
+    {
+      "id": "primalclash-111",
+      "name": "Zigzagoon",
+      "number": "111",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/111.jpg"
+    },
+    {
+      "id": "primalclash-112",
+      "name": "Linoone",
+      "number": "112",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/112.jpg"
+    },
+    {
+      "id": "primalclash-113",
+      "name": "Skitty",
+      "number": "113",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/113.jpg"
+    },
+    {
+      "id": "primalclash-114",
+      "name": "Delcatty",
+      "number": "114",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/114.jpg"
+    },
+    {
+      "id": "primalclash-115",
+      "name": "Spinda",
+      "number": "115",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/115.jpg"
+    },
+    {
+      "id": "primalclash-116",
+      "name": "Bidoof",
+      "number": "116",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/116.jpg"
+    },
+    {
+      "id": "primalclash-117",
+      "name": "Bidoof",
+      "number": "117",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/117.jpg"
+    },
+    {
+      "id": "primalclash-118",
+      "name": "Bibarel",
+      "number": "118",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/118.jpg"
+    },
+    {
+      "id": "primalclash-119",
+      "name": "Bouffalant",
+      "number": "119",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/119.jpg"
+    },
+    {
+      "id": "primalclash-120",
+      "name": "Bunnelby",
+      "number": "120",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/120.jpg"
+    },
+    {
+      "id": "primalclash-121",
+      "name": "Bunnelby",
+      "number": "121",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/primalclash/121.jpg"
+    },
+    {
+      "id": "primalclash-122",
+      "name": "Acro Bike",
+      "number": "122",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/122.jpg"
+    },
+    {
+      "id": "primalclash-123",
+      "name": "Aggron Spirit Link",
+      "number": "123",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/123.jpg"
+    },
+    {
+      "id": "primalclash-124",
+      "name": "Archie's Ace in the Hole",
+      "number": "124",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/124.jpg"
+    },
+    {
+      "id": "primalclash-125",
+      "name": "Dive Ball",
+      "number": "125",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/125.jpg"
+    },
+    {
+      "id": "primalclash-126",
+      "name": "Energy Retrieval",
+      "number": "126",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/126.jpg"
+    },
+    {
+      "id": "primalclash-127",
+      "name": "Escape Rope",
+      "number": "127",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/127.jpg"
+    },
+    {
+      "id": "primalclash-128",
+      "name": "Exp. Share",
+      "number": "128",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/128.jpg"
+    },
+    {
+      "id": "primalclash-129",
+      "name": "Fresh Water Set",
+      "number": "129",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/129.jpg"
+    },
+    {
+      "id": "primalclash-130",
+      "name": "Gardevoir Spirit Link",
+      "number": "130",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/130.jpg"
+    },
+    {
+      "id": "primalclash-131",
+      "name": "Groudon Spirit Link",
+      "number": "131",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/131.jpg"
+    },
+    {
+      "id": "primalclash-132",
+      "name": "Kyogre Spirit Link",
+      "number": "132",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/132.jpg"
+    },
+    {
+      "id": "primalclash-133",
+      "name": "Maxie's Hidden Ball Trick",
+      "number": "133",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/133.jpg"
+    },
+    {
+      "id": "primalclash-134",
+      "name": "Professor Birch's Observations",
+      "number": "134",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/134.jpg"
+    },
+    {
+      "id": "primalclash-135",
+      "name": "Rare Candy",
+      "number": "135",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/135.jpg"
+    },
+    {
+      "id": "primalclash-136",
+      "name": "Repeat Ball",
+      "number": "136",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/136.jpg"
+    },
+    {
+      "id": "primalclash-137",
+      "name": "Rough Seas",
+      "number": "137",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/137.jpg"
+    },
+    {
+      "id": "primalclash-138",
+      "name": "Scorched Earth",
+      "number": "138",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/138.jpg"
+    },
+    {
+      "id": "primalclash-139",
+      "name": "Shrine of Memories",
+      "number": "139",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/139.jpg"
+    },
+    {
+      "id": "primalclash-140",
+      "name": "Silent Lab",
+      "number": "140",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/140.jpg"
+    },
+    {
+      "id": "primalclash-141",
+      "name": "Teammates",
+      "number": "141",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/141.jpg"
+    },
+    {
+      "id": "primalclash-142",
+      "name": "Weakness Policy",
+      "number": "142",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/142.jpg"
+    },
+    {
+      "id": "primalclash-143",
+      "name": "Shield Energy",
+      "number": "143",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "energy"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/143.jpg"
+    },
+    {
+      "id": "primalclash-144",
+      "name": "Wonder Energy",
+      "number": "144",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "energy"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/144.jpg"
+    },
+    {
+      "id": "primalclash-145",
+      "name": "TrevenantEX",
+      "number": "145",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/145.jpg"
+    },
+    {
+      "id": "primalclash-146",
+      "name": "CameruptEX",
+      "number": "146",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Ultra",
+      "hp": 190,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/146.jpg"
+    },
+    {
+      "id": "primalclash-147",
+      "name": "WailordEX",
+      "number": "147",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "hp": 250,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/147.jpg"
+    },
+    {
+      "id": "primalclash-148",
+      "name": "KyogreEX",
+      "number": "148",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/148.jpg"
+    },
+    {
+      "id": "primalclash-149",
+      "name": "Primal KyogreEX",
+      "number": "149",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "hp": 240,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "primal",
+        "primal-evolution",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/149.jpg"
+    },
+    {
+      "id": "primalclash-150",
+      "name": "GroudonEX",
+      "number": "150",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Ultra",
+      "hp": 190,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/150.jpg"
+    },
+    {
+      "id": "primalclash-151",
+      "name": "Primal GroudonEX",
+      "number": "151",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Ultra",
+      "hp": 240,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex",
+        "primal",
+        "primal-evolution",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/151.jpg"
+    },
+    {
+      "id": "primalclash-152",
+      "name": "SharpedoEX",
+      "number": "152",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "hp": 170,
+      "keywords": [
+        "darkness",
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/152.jpg"
+    },
+    {
+      "id": "primalclash-153",
+      "name": "AggronEX",
+      "number": "153",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/153.jpg"
+    },
+    {
+      "id": "primalclash-154",
+      "name": "MegaAggronEX",
+      "number": "154",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "hp": 240,
+      "keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/154.jpg"
+    },
+    {
+      "id": "primalclash-155",
+      "name": "GardevoirEX",
+      "number": "155",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "hp": 170,
+      "keywords": [
+        "fairy",
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/155.jpg"
+    },
+    {
+      "id": "primalclash-156",
+      "name": "MegaGardevoirEX",
+      "number": "156",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "hp": 210,
+      "keywords": [
+        "fairy",
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/156.jpg"
+    },
+    {
+      "id": "primalclash-157",
+      "name": "Archie's Ace in the Hole",
+      "number": "157",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/157.jpg"
+    },
+    {
+      "id": "primalclash-158",
+      "name": "Maxie's Hidden Ball Trick",
+      "number": "158",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/158.jpg"
+    },
+    {
+      "id": "primalclash-159",
+      "name": "Professor Birch's Observations",
+      "number": "159",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/159.jpg"
+    },
+    {
+      "id": "primalclash-160",
+      "name": "Teammates",
+      "number": "160",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/160.jpg"
+    },
+    {
+      "id": "primalclash-161",
+      "name": "Dive Ball",
+      "number": "161",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/161.jpg"
+    },
+    {
+      "id": "primalclash-162",
+      "name": "Enhanced Hammer",
+      "number": "162",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/162.jpg"
+    },
+    {
+      "id": "primalclash-163",
+      "name": "Switch",
+      "number": "163",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/163.jpg"
+    },
+    {
+      "id": "primalclash-164",
+      "name": "Weakness Policy",
+      "number": "164",
+      "set": "Primal Clash",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/primalclash/164.jpg"
+    }
+  ]
+}

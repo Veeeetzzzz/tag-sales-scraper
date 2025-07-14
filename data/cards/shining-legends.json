@@ -1,846 +1,1146 @@
 {
-  "setInfo": {
+  "set": {
     "name": "Shining Legends",
-    "code": "SLG",
-    "releaseDate": "2017-10-06",
-    "totalCards": 73
+    "series": "Sun & Moon",
+    "printedTotal": 73,
+    "total": 78,
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "ptcgoCode": "SHL",
+    "releaseDate": "2017/10/06",
+    "updatedAt": "2024/01/01 00:00:00",
+    "images": {
+      "symbol": "https://www.serebii.net/card/shininglegends/symbol.png",
+      "logo": "https://www.serebii.net/card/shininglegends/logo.png"
+    }
   },
   "cards": [
     {
-      "id": "SLG-1",
+      "id": "shl1",
       "name": "Bulbasaur",
       "number": "1",
+      "type": "Grass",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "bulbasaur"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/1.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/1.jpg"
+      }
     },
     {
-      "id": "SLG-2",
+      "id": "shl2",
       "name": "Ivysaur",
       "number": "2",
+      "type": "Grass",
+      "hp": 80,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "ivysaur"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/2.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/2.jpg"
+      }
     },
     {
-      "id": "SLG-3",
+      "id": "shl3",
       "name": "Venusaur",
       "number": "3",
+      "type": "Grass",
+      "hp": 140,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "venusaur"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/3.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/3.jpg"
+      }
     },
     {
-      "id": "SLG-4",
+      "id": "shl4",
       "name": "Shroomish",
       "number": "4",
+      "type": "Grass",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "shroomish"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/4.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/4.jpg"
+      }
     },
     {
-      "id": "SLG-5",
+      "id": "shl5",
       "name": "Breloom",
       "number": "5",
+      "type": "Grass",
+      "hp": 80,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "breloom"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/5.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/5.jpg"
+      }
     },
     {
-      "id": "SLG-6",
+      "id": "shl6",
       "name": "Carnivine",
       "number": "6",
+      "type": "Grass",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "carnivine"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/6.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/6.jpg"
+      }
     },
     {
-      "id": "SLG-7",
+      "id": "shl7",
       "name": "Shaymin",
       "number": "7",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "shaymin"
-      ]
+      "type": "Grass",
+      "hp": 70,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/7.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/7.jpg"
+      }
     },
     {
-      "id": "SLG-8",
+      "id": "shl8",
       "name": "Virizion",
       "number": "8",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "virizion"
-      ]
+      "type": "Grass",
+      "hp": 100,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/8.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/8.jpg"
+      }
     },
     {
-      "id": "SLG-9",
+      "id": "shl9",
       "name": "Shining Genesect",
       "number": "9",
-      "rarity": "Shining Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "shining genesect",
-        "shining",
-        "genesect"
-      ]
+      "type": "Grass",
+      "hp": 120,
+      "rarity": "Rare Shining",
+      "artist": "Naoki Saito",
+      "keywords": [
+        "Shining",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/9.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/9.jpg"
+      }
     },
     {
-      "id": "SLG-10",
+      "id": "shl10",
       "name": "Entei-GX",
       "number": "10",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "entei"
-      ]
+      "type": "Fire",
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/10.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/10.jpg"
+      }
     },
     {
-      "id": "SLG-11",
+      "id": "shl11",
       "name": "Torkoal",
       "number": "11",
+      "type": "Fire",
+      "hp": 100,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "torkoal"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/11.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/11.jpg"
+      }
     },
     {
-      "id": "SLG-12",
+      "id": "shl12",
       "name": "Larvesta",
       "number": "12",
+      "type": "Fire",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "larvesta"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/12.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/12.jpg"
+      }
     },
     {
-      "id": "SLG-13",
+      "id": "shl13",
       "name": "Volcarona",
       "number": "13",
+      "type": "Fire",
+      "hp": 120,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "volcarona"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/13.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/13.jpg"
+      }
     },
     {
-      "id": "SLG-14",
+      "id": "shl14",
       "name": "Reshiram",
       "number": "14",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "reshiram"
-      ]
+      "type": "Fire",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/14.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/14.jpg"
+      }
     },
     {
-      "id": "SLG-15",
+      "id": "shl15",
       "name": "Litten",
       "number": "15",
+      "type": "Fire",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "litten"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/15.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/15.jpg"
+      }
     },
     {
-      "id": "SLG-16",
+      "id": "shl16",
       "name": "Torracat",
       "number": "16",
+      "type": "Fire",
+      "hp": 90,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "torracat"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/16.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/16.jpg"
+      }
     },
     {
-      "id": "SLG-17",
+      "id": "shl17",
       "name": "Incineroar",
       "number": "17",
+      "type": "Fire",
+      "hp": 150,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "incineroar"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/17.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/17.jpg"
+      }
     },
     {
-      "id": "SLG-18",
+      "id": "shl18",
       "name": "Totodile",
       "number": "18",
+      "type": "Water",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "totodile"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/18.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/18.jpg"
+      }
     },
     {
-      "id": "SLG-19",
+      "id": "shl19",
       "name": "Croconaw",
       "number": "19",
+      "type": "Water",
+      "hp": 90,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "croconaw"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/19.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/19.jpg"
+      }
     },
     {
-      "id": "SLG-20",
+      "id": "shl20",
       "name": "Feraligatr",
       "number": "20",
+      "type": "Water",
+      "hp": 160,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "feraligatr"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/20.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/20.jpg"
+      }
     },
     {
-      "id": "SLG-21",
+      "id": "shl21",
       "name": "Qwilfish",
       "number": "21",
+      "type": "Water",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "qwilfish"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/21.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/21.jpg"
+      }
     },
     {
-      "id": "SLG-22",
+      "id": "shl22",
       "name": "Buizel",
       "number": "22",
+      "type": "Water",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "buizel"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/22.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/22.jpg"
+      }
     },
     {
-      "id": "SLG-23",
+      "id": "shl23",
       "name": "Floatzel",
       "number": "23",
+      "type": "Water",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "floatzel"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/23.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/23.jpg"
+      }
     },
     {
-      "id": "SLG-24",
+      "id": "shl24",
       "name": "Palkia",
       "number": "24",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "palkia"
-      ]
+      "type": "Water",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/24.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/24.jpg"
+      }
     },
     {
-      "id": "SLG-25",
+      "id": "shl25",
       "name": "Manaphy",
       "number": "25",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "manaphy"
-      ]
+      "type": "Water",
+      "hp": 70,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/25.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/25.jpg"
+      }
     },
     {
-      "id": "SLG-26",
+      "id": "shl26",
       "name": "Keldeo",
       "number": "26",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "keldeo"
-      ]
+      "type": "Water",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/26.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/26.jpg"
+      }
     },
     {
-      "id": "SLG-27",
+      "id": "shl27",
       "name": "Shining Volcanion",
       "number": "27",
-      "rarity": "Shining Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "shining volcanion",
-        "shining",
-        "volcanion"
-      ]
+      "type": "Water",
+      "hp": 130,
+      "rarity": "Rare Shining",
+      "artist": "Naoki Saito",
+      "keywords": [
+        "Shining",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/27.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/27.jpg"
+      }
     },
     {
-      "id": "SLG-28",
+      "id": "shl28",
       "name": "Pikachu",
       "number": "28",
+      "type": "Lightning",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "pikachu"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/28.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/28.jpg"
+      }
     },
     {
-      "id": "SLG-29",
+      "id": "shl29",
       "name": "Raichu-GX",
       "number": "29",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "raichu"
-      ]
+      "type": "Lightning",
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/29.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/29.jpg"
+      }
     },
     {
-      "id": "SLG-30",
+      "id": "shl30",
       "name": "Voltorb",
       "number": "30",
+      "type": "Lightning",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "voltorb"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/30.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/30.jpg"
+      }
     },
     {
-      "id": "SLG-31",
+      "id": "shl31",
       "name": "Electrode",
       "number": "31",
+      "type": "Lightning",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "electrode"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/31.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/31.jpg"
+      }
     },
     {
-      "id": "SLG-32",
+      "id": "shl32",
       "name": "Raikou",
       "number": "32",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "raikou"
-      ]
+      "type": "Lightning",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/32.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/32.jpg"
+      }
     },
     {
-      "id": "SLG-33",
+      "id": "shl33",
       "name": "Plusle",
       "number": "33",
+      "type": "Lightning",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "plusle"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/33.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/33.jpg"
+      }
     },
     {
-      "id": "SLG-34",
+      "id": "shl34",
       "name": "Minun",
       "number": "34",
+      "type": "Lightning",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "minun"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/34.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/34.jpg"
+      }
     },
     {
-      "id": "SLG-35",
+      "id": "shl35",
       "name": "Zekrom",
       "number": "35",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "zekrom"
-      ]
+      "type": "Lightning",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/35.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/35.jpg"
+      }
     },
     {
-      "id": "SLG-36",
+      "id": "shl36",
       "name": "Ekans",
       "number": "36",
+      "type": "Psychic",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "ekans"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/36.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/36.jpg"
+      }
     },
     {
-      "id": "SLG-37",
+      "id": "shl37",
       "name": "Arbok",
       "number": "37",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "arbok"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/37.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/37.jpg"
+      }
     },
     {
-      "id": "SLG-38",
+      "id": "shl38",
       "name": "Jynx",
       "number": "38",
+      "type": "Psychic",
+      "hp": 90,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "jynx"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/38.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/38.jpg"
+      }
     },
     {
-      "id": "SLG-39",
+      "id": "shl39",
       "name": "Mewtwo-GX",
       "number": "39",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "mewtwo"
-      ]
+      "type": "Psychic",
+      "hp": 190,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/39.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/39.jpg"
+      }
     },
     {
-      "id": "SLG-40",
+      "id": "shl40",
       "name": "Shining Mew",
       "number": "40",
-      "rarity": "Shining Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "mew",
-        "shining",
-        "shining mew"
-      ]
+      "type": "Psychic",
+      "hp": 60,
+      "rarity": "Rare Shining",
+      "artist": "Naoki Saito",
+      "keywords": [
+        "Shining",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/40.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/40.jpg"
+      }
     },
     {
-      "id": "SLG-41",
+      "id": "shl41",
       "name": "Latios",
       "number": "41",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "latios"
-      ]
+      "type": "Psychic",
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/41.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/41.jpg"
+      }
     },
     {
-      "id": "SLG-42",
+      "id": "shl42",
       "name": "Shining Jirachi",
       "number": "42",
-      "rarity": "Shining Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "shining",
-        "jirachi",
-        "shining jirachi"
-      ]
+      "type": "Psychic",
+      "hp": 60,
+      "rarity": "Rare Shining",
+      "artist": "Naoki Saito",
+      "keywords": [
+        "Shining",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/42.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/42.jpg"
+      }
     },
     {
-      "id": "SLG-43",
+      "id": "shl43",
       "name": "Golett",
       "number": "43",
+      "type": "Psychic",
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "golett"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/43.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/43.jpg"
+      }
     },
     {
-      "id": "SLG-44",
+      "id": "shl44",
       "name": "Golurk",
       "number": "44",
+      "type": "Psychic",
+      "hp": 130,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "golurk"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/44.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/44.jpg"
+      }
     },
     {
-      "id": "SLG-45",
+      "id": "shl45",
       "name": "Marshadow",
       "number": "45",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "marshadow"
-      ]
+      "type": "Psychic",
+      "hp": 80,
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/45.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/45.jpg"
+      }
     },
     {
-      "id": "SLG-46",
+      "id": "shl46",
       "name": "Stunfisk",
       "number": "46",
+      "type": "Fighting",
+      "hp": 100,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "stunfisk"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/46.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/46.jpg"
+      }
     },
     {
-      "id": "SLG-47",
+      "id": "shl47",
       "name": "Spiritomb",
       "number": "47",
+      "type": "Darkness",
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "spiritomb"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/47.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/47.jpg"
+      }
     },
     {
-      "id": "SLG-48",
+      "id": "shl48",
       "name": "Purrloin",
       "number": "48",
+      "type": "Darkness",
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "purrloin"
-      ]
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/48.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/48.jpg"
+      }
     },
     {
-      "id": "SLG-49",
+      "id": "shl49",
       "name": "Liepard",
       "number": "49",
+      "type": "Darkness",
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "liepard"
-      ]
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/49.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/49.jpg"
+      }
     },
     {
-      "id": "SLG-50",
+      "id": "shl50",
       "name": "Scraggy",
       "number": "50",
+      "type": "Darkness",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "scraggy"
-      ]
+      "artist": "Mitsuhiro Arita",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/50.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/50.jpg"
+      }
     },
     {
-      "id": "SLG-51",
+      "id": "shl51",
       "name": "Scrafty",
       "number": "51",
+      "type": "Darkness",
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "scrafty"
-      ]
+      "artist": "Yuka Morii",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/51.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/51.jpg"
+      }
     },
     {
-      "id": "SLG-52",
+      "id": "shl52",
       "name": "Zorua",
       "number": "52",
+      "type": "Darkness",
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "zorua"
-      ]
+      "artist": "Tomokazu Komiya",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/52.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/52.jpg"
+      }
     },
     {
-      "id": "SLG-53",
+      "id": "shl53",
       "name": "Zoroark-GX",
       "number": "53",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "zoroark"
-      ]
+      "type": "Darkness",
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/53.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/53.jpg"
+      }
     },
     {
-      "id": "SLG-54",
+      "id": "shl54",
       "name": "Yveltal",
       "number": "54",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "yveltal"
-      ]
+      "type": "Darkness",
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/54.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/54.jpg"
+      }
     },
     {
-      "id": "SLG-55",
+      "id": "shl55",
       "name": "Hoopa",
       "number": "55",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "hoopa"
-      ]
+      "type": "Darkness",
+      "hp": 160,
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/55.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/55.jpg"
+      }
     },
     {
-      "id": "SLG-56",
+      "id": "shl56",
       "name": "Shining Rayquaza",
       "number": "56",
-      "rarity": "Shining Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "rayquaza",
-        "shining",
-        "shining rayquaza"
-      ]
+      "type": "Dragon",
+      "hp": 130,
+      "rarity": "Rare Shining",
+      "artist": "Naoki Saito",
+      "keywords": [
+        "Shining",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/56.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/56.jpg"
+      }
     },
     {
-      "id": "SLG-57",
+      "id": "shl57",
       "name": "Shining Arceus",
       "number": "57",
-      "rarity": "Shining Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "shining",
-        "shining arceus",
-        "arceus"
-      ]
+      "type": "Colorless",
+      "hp": 120,
+      "rarity": "Rare Shining",
+      "artist": "Naoki Saito",
+      "keywords": [
+        "Shining",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/57.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/57.jpg"
+      }
     },
     {
-      "id": "SLG-58",
+      "id": "shl58",
       "name": "Damage Mover",
       "number": "58",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "mover",
-        "damage",
-        "damage mover"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/58.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/58.jpg"
+      }
     },
     {
-      "id": "SLG-59",
+      "id": "shl59",
       "name": "Energy Retrieval",
       "number": "59",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "retrieval",
-        "energy retrieval",
-        "energy"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/59.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/59.jpg"
+      }
     },
     {
-      "id": "SLG-60",
+      "id": "shl60",
       "name": "Great Ball",
       "number": "60",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "ball",
-        "great",
-        "great ball"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/60.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/60.jpg"
+      }
     },
     {
-      "id": "SLG-61",
+      "id": "shl61",
       "name": "Hau",
       "number": "61",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "hau"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/61.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/61.jpg"
+      }
     },
     {
-      "id": "SLG-62",
+      "id": "shl62",
       "name": "Lillie",
       "number": "62",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "lillie"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/62.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/62.jpg"
+      }
     },
     {
-      "id": "SLG-63",
+      "id": "shl63",
       "name": "Pokémon Breeder",
       "number": "63",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "pokémon breeder",
-        "pokémon",
-        "breeder"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/63.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/63.jpg"
+      }
     },
     {
-      "id": "SLG-64",
+      "id": "shl64",
       "name": "Pokémon Catcher",
       "number": "64",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "pokémon",
-        "catcher",
-        "pokémon catcher"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/64.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/64.jpg"
+      }
     },
     {
-      "id": "SLG-65",
+      "id": "shl65",
       "name": "Sophocles",
       "number": "65",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "sophocles"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/65.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/65.jpg"
+      }
     },
     {
-      "id": "SLG-66",
+      "id": "shl66",
       "name": "Super Scoop Up",
       "number": "66",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "scoop",
-        "super",
-        "super scoop up"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/66.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/66.jpg"
+      }
     },
     {
-      "id": "SLG-67",
+      "id": "shl67",
       "name": "Switch",
       "number": "67",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "switch"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/67.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/67.jpg"
+      }
     },
     {
-      "id": "SLG-68",
+      "id": "shl68",
       "name": "Ultra Ball",
       "number": "68",
-      "rarity": "Uncommon",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "ball",
-        "ultra",
-        "ultra ball"
-      ]
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/68.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/68.jpg"
+      }
     },
     {
-      "id": "SLG-69",
+      "id": "shl69",
       "name": "Double Colorless Energy",
       "number": "69",
+      "type": "Colorless",
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "double",
-        "double colorless energy",
-        "colorless",
-        "energy"
-      ]
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Special Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/69.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/69.jpg"
+      }
     },
     {
-      "id": "SLG-70",
+      "id": "shl70",
       "name": "Warp Energy",
       "number": "70",
+      "type": "Colorless",
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "warp",
-        "warp energy",
-        "energy"
-      ]
+      "artist": "Ryo Ueda",
+      "keywords": [
+        "Special Energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/70.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/70.jpg"
+      }
     },
     {
-      "id": "SLG-71",
+      "id": "shl71",
       "name": "Entei-GX",
       "number": "71",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "entei"
-      ]
+      "type": "Fire",
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/71.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/71.jpg"
+      }
     },
     {
-      "id": "SLG-72",
+      "id": "shl72",
       "name": "Mewtwo-GX",
       "number": "72",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "SLG",
-      "matchingKeywords": [
-        "mewtwo"
-      ]
+      "type": "Psychic",
+      "hp": 190,
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/72.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/72.jpg"
+      }
     },
     {
-      "id": "SLG-73",
+      "id": "shl73",
       "name": "Pokémon Breeder",
       "number": "73",
-      "rarity": "Ultra Rare",
       "type": "Trainer",
-      "set": "SLG",
-      "matchingKeywords": [
-        "pokémon breeder",
-        "pokémon",
-        "breeder"
-      ]
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "keywords": [
+        "Supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/73.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/73.jpg"
+      }
+    },
+    {
+      "id": "shl74",
+      "name": "Entei-GX",
+      "number": "74",
+      "type": "Fire",
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/74.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/74.jpg"
+      }
+    },
+    {
+      "id": "shl75",
+      "name": "Raichu-GX",
+      "number": "75",
+      "type": "Lightning",
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/75.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/75.jpg"
+      }
+    },
+    {
+      "id": "shl76",
+      "name": "Mewtwo-GX",
+      "number": "76",
+      "type": "Psychic",
+      "hp": 190,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/76.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/76.jpg"
+      }
+    },
+    {
+      "id": "shl77",
+      "name": "Zoroark-GX",
+      "number": "77",
+      "type": "Darkness",
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/77.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/77.jpg"
+      }
+    },
+    {
+      "id": "shl78",
+      "name": "Mewtwo-GX",
+      "number": "78",
+      "type": "Psychic",
+      "hp": 190,
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "keywords": [
+        "GX",
+        "Rule Box"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/shininglegends/78.jpg",
+        "large": "https://www.serebii.net/card/shininglegends/78.jpg"
+      }
     }
   ]
 }

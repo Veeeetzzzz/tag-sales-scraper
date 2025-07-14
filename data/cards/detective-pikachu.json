@@ -1,0 +1,397 @@
+{
+  "set": {
+    "id": "detective-pikachu",
+    "name": "Detective Pikachu",
+    "series": "Sun & Moon",
+    "releaseDate": "2019-03-29",
+    "totalCards": 18,
+    "mainSetCards": 18,
+    "symbolUrl": "https://www.serebii.net/card/symbols/detectivepikachu.png",
+    "logoUrl": "https://www.serebii.net/card/detectivepikachu/logo.png"
+  },
+  "cards": [
+    {
+      "id": "detective-pikachu-1",
+      "name": "Bulbasaur",
+      "number": 1,
+      "type": "Grass",
+      "rarity": "Common Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Grass",
+        "Movie",
+        "Seed",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/1.jpg"
+    },
+    {
+      "id": "detective-pikachu-2",
+      "name": "Ludicolo",
+      "number": 2,
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "stage_1",
+      "hp": 140,
+      "keywords": [
+        "Water",
+        "Detective Pikachu",
+        "Grass",
+        "Movie",
+        "Hoenn",
+        "Holographic",
+        "Dancing"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/2.jpg"
+    },
+    {
+      "id": "detective-pikachu-3",
+      "name": "Morelull",
+      "number": 3,
+      "type": "Grass",
+      "rarity": "Common Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Detective Pikachu",
+        "Grass",
+        "Fairy",
+        "Movie",
+        "Alola",
+        "Holographic",
+        "Mushroom"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/3.jpg"
+    },
+    {
+      "id": "detective-pikachu-4",
+      "name": "Charmander",
+      "number": 4,
+      "type": "Fire",
+      "rarity": "Common Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Fire",
+        "Movie",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/4.jpg"
+    },
+    {
+      "id": "detective-pikachu-5",
+      "name": "Charizard",
+      "number": 5,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "stage_2",
+      "hp": 160,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Flying",
+        "Fire",
+        "Movie",
+        "Dragon",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/5.jpg"
+    },
+    {
+      "id": "detective-pikachu-6",
+      "name": "Arcanine",
+      "number": 6,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "stage_2",
+      "hp": 130,
+      "keywords": [
+        "Detective Pikachu",
+        "Legendary",
+        "Fire",
+        "Movie",
+        "Alola",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/6.jpg"
+    },
+    {
+      "id": "detective-pikachu-7",
+      "name": "Psyduck",
+      "number": 7,
+      "type": "Water",
+      "rarity": "Common Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Water",
+        "Detective Pikachu",
+        "Kanto",
+        "Movie",
+        "Duck",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/7.jpg"
+    },
+    {
+      "id": "detective-pikachu-8",
+      "name": "Magikarp",
+      "number": 8,
+      "type": "Water",
+      "rarity": "Common Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [
+        "Water",
+        "Detective Pikachu",
+        "Fish",
+        "Kanto",
+        "Movie",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/8.jpg"
+    },
+    {
+      "id": "detective-pikachu-9",
+      "name": "Greninja",
+      "number": 9,
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "stage_1",
+      "hp": 120,
+      "keywords": [
+        "Kalos",
+        "Water",
+        "Detective Pikachu",
+        "Movie",
+        "Holographic",
+        "Ninja"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/9.jpg"
+    },
+    {
+      "id": "detective-pikachu-10",
+      "name": "Detective Pikachu",
+      "number": 10,
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Detective",
+        "Electric",
+        "Movie",
+        "Special",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/10.jpg"
+    },
+    {
+      "id": "detective-pikachu-11",
+      "name": "Mr. Mime",
+      "number": 11,
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Barrier",
+        "Mime",
+        "Movie",
+        "Psychic",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/11.jpg"
+    },
+    {
+      "id": "detective-pikachu-12",
+      "name": "Mewtwo",
+      "number": 12,
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary",
+        "Detective Pikachu",
+        "Kanto",
+        "Movie",
+        "Psychic",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/12.jpg"
+    },
+    {
+      "id": "detective-pikachu-13",
+      "name": "Machamp",
+      "number": 13,
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "stage_1",
+      "hp": 140,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Movie",
+        "Holographic",
+        "Muscle",
+        "Fighting"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/13.jpg"
+    },
+    {
+      "id": "detective-pikachu-14",
+      "name": "Jigglypuff",
+      "number": 14,
+      "type": "Fairy",
+      "rarity": "Common Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Fairy",
+        "Movie",
+        "Balloon",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/14.jpg"
+    },
+    {
+      "id": "detective-pikachu-15",
+      "name": "Snubbull",
+      "number": 15,
+      "type": "Fairy",
+      "rarity": "Common Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Detective Pikachu",
+        "Sinnoh",
+        "Fairy",
+        "Movie",
+        "Bulldoze",
+        "Holographic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/15.jpg"
+    },
+    {
+      "id": "detective-pikachu-16",
+      "name": "Lickitung",
+      "number": 16,
+      "type": "Colorless",
+      "rarity": "Common Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Movie",
+        "Licking",
+        "Holographic",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/16.jpg"
+    },
+    {
+      "id": "detective-pikachu-17",
+      "name": "Ditto",
+      "number": 17,
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Detective Pikachu",
+        "Kanto",
+        "Copy",
+        "Movie",
+        "Transform",
+        "Holographic",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/17.jpg"
+    },
+    {
+      "id": "detective-pikachu-18",
+      "name": "Slaking",
+      "number": 18,
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "set": "detective-pikachu",
+      "setName": "Detective Pikachu",
+      "series": "Sun & Moon",
+      "stage": "stage_2",
+      "hp": 150,
+      "keywords": [
+        "Detective Pikachu",
+        "Movie",
+        "Hoenn",
+        "Lazy",
+        "Holographic",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/detectivepikachu/18.jpg"
+    }
+  ]
+}

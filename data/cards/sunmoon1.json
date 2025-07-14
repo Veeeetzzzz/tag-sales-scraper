@@ -1,0 +1,3436 @@
+{
+  "setCode": "sunmoon1",
+  "setName": "Sun & Moon",
+  "series": "Sun & Moon",
+  "releaseDate": "2017-02-03",
+  "totalCards": 163,
+  "cards": [
+    {
+      "id": "sunmoon1-1",
+      "name": "Caterpie",
+      "number": "1",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/1.jpg"
+    },
+    {
+      "id": "sunmoon1-2",
+      "name": "Metapod",
+      "number": "2",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/2.jpg"
+    },
+    {
+      "id": "sunmoon1-3",
+      "name": "Butterfree",
+      "number": "3",
+      "types": [
+        "Grass"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/3.jpg"
+    },
+    {
+      "id": "sunmoon1-4",
+      "name": "Paras",
+      "number": "4",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/4.jpg"
+    },
+    {
+      "id": "sunmoon1-5",
+      "name": "Parasect",
+      "number": "5",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/5.jpg"
+    },
+    {
+      "id": "sunmoon1-6",
+      "name": "Pinsir",
+      "number": "6",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/6.jpg"
+    },
+    {
+      "id": "sunmoon1-7",
+      "name": "Surskit",
+      "number": "7",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/7.jpg"
+    },
+    {
+      "id": "sunmoon1-8",
+      "name": "Masquerain",
+      "number": "8",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/8.jpg"
+    },
+    {
+      "id": "sunmoon1-9",
+      "name": "Rowlet",
+      "number": "9",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/9.jpg"
+    },
+    {
+      "id": "sunmoon1-10",
+      "name": "Dartrix",
+      "number": "10",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/10.jpg"
+    },
+    {
+      "id": "sunmoon1-11",
+      "name": "Decidueye",
+      "number": "11",
+      "types": [
+        "Grass"
+      ],
+      "hp": 140,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/11.jpg"
+    },
+    {
+      "id": "sunmoon1-12",
+      "name": "DecidueyeGX",
+      "number": "12",
+      "types": [
+        "Grass"
+      ],
+      "hp": 240,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/12.jpg"
+    },
+    {
+      "id": "sunmoon1-13",
+      "name": "Grubbin",
+      "number": "13",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/13.jpg"
+    },
+    {
+      "id": "sunmoon1-14",
+      "name": "Fomantis",
+      "number": "14",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/14.jpg"
+    },
+    {
+      "id": "sunmoon1-15",
+      "name": "LurantisGX",
+      "number": "15",
+      "types": [
+        "Grass"
+      ],
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/15.jpg"
+    },
+    {
+      "id": "sunmoon1-16",
+      "name": "Morelull",
+      "number": "16",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/16.jpg"
+    },
+    {
+      "id": "sunmoon1-17",
+      "name": "Shiinotic",
+      "number": "17",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/17.jpg"
+    },
+    {
+      "id": "sunmoon1-18",
+      "name": "Bounsweet",
+      "number": "18",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/18.jpg"
+    },
+    {
+      "id": "sunmoon1-19",
+      "name": "Steenee",
+      "number": "19",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/19.jpg"
+    },
+    {
+      "id": "sunmoon1-20",
+      "name": "Tsareena",
+      "number": "20",
+      "types": [
+        "Grass"
+      ],
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/20.jpg"
+    },
+    {
+      "id": "sunmoon1-21",
+      "name": "Growlithe",
+      "number": "21",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/21.jpg"
+    },
+    {
+      "id": "sunmoon1-22",
+      "name": "Arcanine",
+      "number": "22",
+      "types": [
+        "Fire"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/22.jpg"
+    },
+    {
+      "id": "sunmoon1-23",
+      "name": "Torkoal",
+      "number": "23",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/23.jpg"
+    },
+    {
+      "id": "sunmoon1-24",
+      "name": "Litten",
+      "number": "24",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/24.jpg"
+    },
+    {
+      "id": "sunmoon1-25",
+      "name": "Torracat",
+      "number": "25",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/25.jpg"
+    },
+    {
+      "id": "sunmoon1-26",
+      "name": "Incineroar",
+      "number": "26",
+      "types": [
+        "Fire"
+      ],
+      "hp": 150,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/26.jpg"
+    },
+    {
+      "id": "sunmoon1-27",
+      "name": "IncineroarGX",
+      "number": "27",
+      "types": [
+        "Fire"
+      ],
+      "hp": 250,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/27.jpg"
+    },
+    {
+      "id": "sunmoon1-28",
+      "name": "Psyduck",
+      "number": "28",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/28.jpg"
+    },
+    {
+      "id": "sunmoon1-29",
+      "name": "Golduck",
+      "number": "29",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/29.jpg"
+    },
+    {
+      "id": "sunmoon1-30",
+      "name": "Poliwag",
+      "number": "30",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/30.jpg"
+    },
+    {
+      "id": "sunmoon1-31",
+      "name": "Poliwhirl",
+      "number": "31",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/31.jpg"
+    },
+    {
+      "id": "sunmoon1-32",
+      "name": "Poliwrath",
+      "number": "32",
+      "types": [
+        "Water"
+      ],
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/32.jpg"
+    },
+    {
+      "id": "sunmoon1-33",
+      "name": "Shellder",
+      "number": "33",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/33.jpg"
+    },
+    {
+      "id": "sunmoon1-34",
+      "name": "Cloyster",
+      "number": "34",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/34.jpg"
+    },
+    {
+      "id": "sunmoon1-35",
+      "name": "LaprasGX",
+      "number": "35",
+      "types": [
+        "Water"
+      ],
+      "hp": 190,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/35.jpg"
+    },
+    {
+      "id": "sunmoon1-36",
+      "name": "Corsola",
+      "number": "36",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/36.jpg"
+    },
+    {
+      "id": "sunmoon1-37",
+      "name": "Wingull",
+      "number": "37",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/37.jpg"
+    },
+    {
+      "id": "sunmoon1-38",
+      "name": "Pelipper",
+      "number": "38",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/38.jpg"
+    },
+    {
+      "id": "sunmoon1-39",
+      "name": "Popplio",
+      "number": "39",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/39.jpg"
+    },
+    {
+      "id": "sunmoon1-40",
+      "name": "Brionne",
+      "number": "40",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/40.jpg"
+    },
+    {
+      "id": "sunmoon1-41",
+      "name": "Primarina",
+      "number": "41",
+      "types": [
+        "Water"
+      ],
+      "hp": 150,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/41.jpg"
+    },
+    {
+      "id": "sunmoon1-42",
+      "name": "PrimarinaGX",
+      "number": "42",
+      "types": [
+        "Water"
+      ],
+      "hp": 230,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/42.jpg"
+    },
+    {
+      "id": "sunmoon1-43",
+      "name": "Crabominable",
+      "number": "43",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/43.jpg"
+    },
+    {
+      "id": "sunmoon1-44",
+      "name": "Wishiwashi",
+      "number": "44",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/44.jpg"
+    },
+    {
+      "id": "sunmoon1-45",
+      "name": "Dewpider",
+      "number": "45",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/45.jpg"
+    },
+    {
+      "id": "sunmoon1-46",
+      "name": "Araquanid",
+      "number": "46",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/46.jpg"
+    },
+    {
+      "id": "sunmoon1-47",
+      "name": "Pyukumuku",
+      "number": "47",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/47.jpg"
+    },
+    {
+      "id": "sunmoon1-48",
+      "name": "Bruxish",
+      "number": "48",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/48.jpg"
+    },
+    {
+      "id": "sunmoon1-49",
+      "name": "Chinchou",
+      "number": "49",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/49.jpg"
+    },
+    {
+      "id": "sunmoon1-50",
+      "name": "Lanturn",
+      "number": "50",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 100,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/50.jpg"
+    },
+    {
+      "id": "sunmoon1-51",
+      "name": "Charjabug",
+      "number": "51",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/51.jpg"
+    },
+    {
+      "id": "sunmoon1-52",
+      "name": "Vikavolt",
+      "number": "52",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/52.jpg"
+    },
+    {
+      "id": "sunmoon1-53",
+      "name": "Togedemaru",
+      "number": "53",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/53.jpg"
+    },
+    {
+      "id": "sunmoon1-54",
+      "name": "Zubat",
+      "number": "54",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/54.jpg"
+    },
+    {
+      "id": "sunmoon1-55",
+      "name": "Golbat",
+      "number": "55",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/55.jpg"
+    },
+    {
+      "id": "sunmoon1-56",
+      "name": "Crobat",
+      "number": "56",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/56.jpg"
+    },
+    {
+      "id": "sunmoon1-57",
+      "name": "Alolan Grimer",
+      "number": "57",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/57.jpg"
+    },
+    {
+      "id": "sunmoon1-58",
+      "name": "Alolan Muk",
+      "number": "58",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/58.jpg"
+    },
+    {
+      "id": "sunmoon1-59",
+      "name": "Drowzee",
+      "number": "59",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/59.jpg"
+    },
+    {
+      "id": "sunmoon1-60",
+      "name": "Hypno",
+      "number": "60",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 100,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/60.jpg"
+    },
+    {
+      "id": "sunmoon1-61",
+      "name": "EspeonGX",
+      "number": "61",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/61.jpg"
+    },
+    {
+      "id": "sunmoon1-62",
+      "name": "Mareanie",
+      "number": "62",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/62.jpg"
+    },
+    {
+      "id": "sunmoon1-63",
+      "name": "Toxapex",
+      "number": "63",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/63.jpg"
+    },
+    {
+      "id": "sunmoon1-64",
+      "name": "Cosmog",
+      "number": "64",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/64.jpg"
+    },
+    {
+      "id": "sunmoon1-65",
+      "name": "Cosmoem",
+      "number": "65",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/65.jpg"
+    },
+    {
+      "id": "sunmoon1-66",
+      "name": "LunalaGX",
+      "number": "66",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 230,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/66.jpg"
+    },
+    {
+      "id": "sunmoon1-67",
+      "name": "Makuhita",
+      "number": "67",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/67.jpg"
+    },
+    {
+      "id": "sunmoon1-68",
+      "name": "Hariyama",
+      "number": "68",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/68.jpg"
+    },
+    {
+      "id": "sunmoon1-69",
+      "name": "Roggenrola",
+      "number": "69",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/69.jpg"
+    },
+    {
+      "id": "sunmoon1-70",
+      "name": "Boldore",
+      "number": "70",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/70.jpg"
+    },
+    {
+      "id": "sunmoon1-71",
+      "name": "Gigalith",
+      "number": "71",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/71.jpg"
+    },
+    {
+      "id": "sunmoon1-72",
+      "name": "Crabrawler",
+      "number": "72",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/72.jpg"
+    },
+    {
+      "id": "sunmoon1-73",
+      "name": "Passimian",
+      "number": "73",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/73.jpg"
+    },
+    {
+      "id": "sunmoon1-74",
+      "name": "Sandygast",
+      "number": "74",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/74.jpg"
+    },
+    {
+      "id": "sunmoon1-75",
+      "name": "Palossand",
+      "number": "75",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/75.jpg"
+    },
+    {
+      "id": "sunmoon1-76",
+      "name": "Alolan Rattata",
+      "number": "76",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 30,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/76.jpg"
+    },
+    {
+      "id": "sunmoon1-77",
+      "name": "Alolan Raticate",
+      "number": "77",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/77.jpg"
+    },
+    {
+      "id": "sunmoon1-78",
+      "name": "Alolan Meowth",
+      "number": "78",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/78.jpg"
+    },
+    {
+      "id": "sunmoon1-79",
+      "name": "Alolan Persian",
+      "number": "79",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/79.jpg"
+    },
+    {
+      "id": "sunmoon1-80",
+      "name": "UmbreonGX",
+      "number": "80",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/80.jpg"
+    },
+    {
+      "id": "sunmoon1-81",
+      "name": "Carvanha",
+      "number": "81",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/81.jpg"
+    },
+    {
+      "id": "sunmoon1-82",
+      "name": "Sharpedo",
+      "number": "82",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/82.jpg"
+    },
+    {
+      "id": "sunmoon1-83",
+      "name": "Sandile",
+      "number": "83",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/83.jpg"
+    },
+    {
+      "id": "sunmoon1-84",
+      "name": "Krokorok",
+      "number": "84",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/84.jpg"
+    },
+    {
+      "id": "sunmoon1-85",
+      "name": "Krookodile",
+      "number": "85",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/85.jpg"
+    },
+    {
+      "id": "sunmoon1-86",
+      "name": "Alolan Diglett",
+      "number": "86",
+      "types": [
+        "Metal"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/86.jpg"
+    },
+    {
+      "id": "sunmoon1-87",
+      "name": "Alolan Dugtrio",
+      "number": "87",
+      "types": [
+        "Metal"
+      ],
+      "hp": 80,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/87.jpg"
+    },
+    {
+      "id": "sunmoon1-88",
+      "name": "Skarmory",
+      "number": "88",
+      "types": [
+        "Metal"
+      ],
+      "hp": 90,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/88.jpg"
+    },
+    {
+      "id": "sunmoon1-89",
+      "name": "SolgaleoGX",
+      "number": "89",
+      "types": [
+        "Metal"
+      ],
+      "hp": 230,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/89.jpg"
+    },
+    {
+      "id": "sunmoon1-90",
+      "name": "Snubbull",
+      "number": "90",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/90.jpg"
+    },
+    {
+      "id": "sunmoon1-91",
+      "name": "Granbull",
+      "number": "91",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 110,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/91.jpg"
+    },
+    {
+      "id": "sunmoon1-92",
+      "name": "Cutiefly",
+      "number": "92",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 30,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/92.jpg"
+    },
+    {
+      "id": "sunmoon1-93",
+      "name": "Ribombee",
+      "number": "93",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/93.jpg"
+    },
+    {
+      "id": "sunmoon1-94",
+      "name": "Dratini",
+      "number": "94",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/94.jpg"
+    },
+    {
+      "id": "sunmoon1-95",
+      "name": "Dragonair",
+      "number": "95",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/95.jpg"
+    },
+    {
+      "id": "sunmoon1-96",
+      "name": "Dragonite",
+      "number": "96",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 160,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/96.jpg"
+    },
+    {
+      "id": "sunmoon1-97",
+      "name": "Spearow",
+      "number": "97",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/97.jpg"
+    },
+    {
+      "id": "sunmoon1-98",
+      "name": "Fearow",
+      "number": "98",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/98.jpg"
+    },
+    {
+      "id": "sunmoon1-99",
+      "name": "Kangaskhan",
+      "number": "99",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/99.jpg"
+    },
+    {
+      "id": "sunmoon1-100",
+      "name": "TaurosGX",
+      "number": "100",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/100.jpg"
+    },
+    {
+      "id": "sunmoon1-101",
+      "name": "Eevee",
+      "number": "101",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/101.jpg"
+    },
+    {
+      "id": "sunmoon1-102",
+      "name": "Spinda",
+      "number": "102",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/102.jpg"
+    },
+    {
+      "id": "sunmoon1-103",
+      "name": "Lillipup",
+      "number": "103",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/103.jpg"
+    },
+    {
+      "id": "sunmoon1-104",
+      "name": "Herdier",
+      "number": "104",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/104.jpg"
+    },
+    {
+      "id": "sunmoon1-105",
+      "name": "Stoutland",
+      "number": "105",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 140,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/105.jpg"
+    },
+    {
+      "id": "sunmoon1-106",
+      "name": "Pikipek",
+      "number": "106",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/106.jpg"
+    },
+    {
+      "id": "sunmoon1-107",
+      "name": "Trumbeak",
+      "number": "107",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/107.jpg"
+    },
+    {
+      "id": "sunmoon1-108",
+      "name": "Toucannon",
+      "number": "108",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/108.jpg"
+    },
+    {
+      "id": "sunmoon1-109",
+      "name": "Yungoos",
+      "number": "109",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/109.jpg"
+    },
+    {
+      "id": "sunmoon1-110",
+      "name": "GumshoosGX",
+      "number": "110",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/110.jpg"
+    },
+    {
+      "id": "sunmoon1-111",
+      "name": "Stufful",
+      "number": "111",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/111.jpg"
+    },
+    {
+      "id": "sunmoon1-112",
+      "name": "Bewear",
+      "number": "112",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/112.jpg"
+    },
+    {
+      "id": "sunmoon1-113",
+      "name": "Oranguru",
+      "number": "113",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/113.jpg"
+    },
+    {
+      "id": "sunmoon1-114",
+      "name": "Big Malasada",
+      "number": "114",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/114.jpg"
+    },
+    {
+      "id": "sunmoon1-115",
+      "name": "Crushing Hammer",
+      "number": "115",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/115.jpg"
+    },
+    {
+      "id": "sunmoon1-116",
+      "name": "Energy Retrieval",
+      "number": "116",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Energy",
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/116.jpg"
+    },
+    {
+      "id": "sunmoon1-117",
+      "name": "Energy Switch",
+      "number": "117",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Energy",
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/117.jpg"
+    },
+    {
+      "id": "sunmoon1-118",
+      "name": "Exp. Share",
+      "number": "118",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/118.jpg"
+    },
+    {
+      "id": "sunmoon1-119",
+      "name": "Great Ball",
+      "number": "119",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/119.jpg"
+    },
+    {
+      "id": "sunmoon1-120",
+      "name": "Hau",
+      "number": "120",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/120.jpg"
+    },
+    {
+      "id": "sunmoon1-121",
+      "name": "Ilima",
+      "number": "121",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/121.jpg"
+    },
+    {
+      "id": "sunmoon1-122",
+      "name": "Lillie",
+      "number": "122",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/122.jpg"
+    },
+    {
+      "id": "sunmoon1-123",
+      "name": "Nest Ball",
+      "number": "123",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/123.jpg"
+    },
+    {
+      "id": "sunmoon1-124",
+      "name": "Poison Barb",
+      "number": "124",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/124.jpg"
+    },
+    {
+      "id": "sunmoon1-125",
+      "name": "Poké Ball",
+      "number": "125",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/125.jpg"
+    },
+    {
+      "id": "sunmoon1-126",
+      "name": "Pokémon Catcher",
+      "number": "126",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/126.jpg"
+    },
+    {
+      "id": "sunmoon1-127",
+      "name": "Potion",
+      "number": "127",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/127.jpg"
+    },
+    {
+      "id": "sunmoon1-128",
+      "name": "Professor Kukui",
+      "number": "128",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/128.jpg"
+    },
+    {
+      "id": "sunmoon1-129",
+      "name": "Rare Candy",
+      "number": "129",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/129.jpg"
+    },
+    {
+      "id": "sunmoon1-130",
+      "name": "Repel",
+      "number": "130",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/130.jpg"
+    },
+    {
+      "id": "sunmoon1-131",
+      "name": "Rotom Dex",
+      "number": "131",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/131.jpg"
+    },
+    {
+      "id": "sunmoon1-132",
+      "name": "Switch",
+      "number": "132",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/132.jpg"
+    },
+    {
+      "id": "sunmoon1-133",
+      "name": "Team Skull Grunt",
+      "number": "133",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/133.jpg"
+    },
+    {
+      "id": "sunmoon1-134",
+      "name": "Timer Ball",
+      "number": "134",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/134.jpg"
+    },
+    {
+      "id": "sunmoon1-135",
+      "name": "Ultra Ball",
+      "number": "135",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/135.jpg"
+    },
+    {
+      "id": "sunmoon1-136",
+      "name": "Double Colorless Energy",
+      "number": "136",
+      "types": [
+        "Colorless"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/136.jpg"
+    },
+    {
+      "id": "sunmoon1-137",
+      "name": "Rainbow Energy",
+      "number": "137",
+      "types": [
+        "Colorless"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/137.jpg"
+    },
+    {
+      "id": "sunmoon1-138",
+      "name": "LurantisGX",
+      "number": "138",
+      "types": [
+        "Grass"
+      ],
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/138.jpg"
+    },
+    {
+      "id": "sunmoon1-139",
+      "name": "LaprasGX",
+      "number": "139",
+      "types": [
+        "Water"
+      ],
+      "hp": 190,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/139.jpg"
+    },
+    {
+      "id": "sunmoon1-140",
+      "name": "EspeonGX",
+      "number": "140",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/140.jpg"
+    },
+    {
+      "id": "sunmoon1-141",
+      "name": "LunalaGX",
+      "number": "141",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 230,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/141.jpg"
+    },
+    {
+      "id": "sunmoon1-142",
+      "name": "UmbreonGX",
+      "number": "142",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/142.jpg"
+    },
+    {
+      "id": "sunmoon1-143",
+      "name": "SolgaleoGX",
+      "number": "143",
+      "types": [
+        "Metal"
+      ],
+      "hp": 230,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/143.jpg"
+    },
+    {
+      "id": "sunmoon1-144",
+      "name": "TaurosGX",
+      "number": "144",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/144.jpg"
+    },
+    {
+      "id": "sunmoon1-145",
+      "name": "GumshoosGX",
+      "number": "145",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/145.jpg"
+    },
+    {
+      "id": "sunmoon1-146",
+      "name": "Ilima",
+      "number": "146",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/146.jpg"
+    },
+    {
+      "id": "sunmoon1-147",
+      "name": "Lillie",
+      "number": "147",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/147.jpg"
+    },
+    {
+      "id": "sunmoon1-148",
+      "name": "Professor Kukui",
+      "number": "148",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/148.jpg"
+    },
+    {
+      "id": "sunmoon1-149",
+      "name": "Team Skull Grunt",
+      "number": "149",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer",
+        "Alolan Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/149.jpg"
+    },
+    {
+      "id": "sunmoon1-150",
+      "name": "LurantisGX",
+      "number": "150",
+      "types": [
+        "Grass"
+      ],
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/150.jpg"
+    },
+    {
+      "id": "sunmoon1-151",
+      "name": "LaprasGX",
+      "number": "151",
+      "types": [
+        "Water"
+      ],
+      "hp": 190,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/151.jpg"
+    },
+    {
+      "id": "sunmoon1-152",
+      "name": "EspeonGX",
+      "number": "152",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/152.jpg"
+    },
+    {
+      "id": "sunmoon1-153",
+      "name": "LunalaGX",
+      "number": "153",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 230,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Rainbow",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/153.jpg"
+    },
+    {
+      "id": "sunmoon1-154",
+      "name": "UmbreonGX",
+      "number": "154",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/154.jpg"
+    },
+    {
+      "id": "sunmoon1-155",
+      "name": "SolgaleoGX",
+      "number": "155",
+      "types": [
+        "Metal"
+      ],
+      "hp": 230,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Rainbow",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/155.jpg"
+    },
+    {
+      "id": "sunmoon1-156",
+      "name": "TaurosGX",
+      "number": "156",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/156.jpg"
+    },
+    {
+      "id": "sunmoon1-157",
+      "name": "GumshoosGX",
+      "number": "157",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/157.jpg"
+    },
+    {
+      "id": "sunmoon1-158",
+      "name": "Nest Ball",
+      "number": "158",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/158.jpg"
+    },
+    {
+      "id": "sunmoon1-159",
+      "name": "Rotom Dex",
+      "number": "159",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/159.jpg"
+    },
+    {
+      "id": "sunmoon1-160",
+      "name": "Switch",
+      "number": "160",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/160.jpg"
+    },
+    {
+      "id": "sunmoon1-161",
+      "name": "Ultra Ball",
+      "number": "161",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/161.jpg"
+    },
+    {
+      "id": "sunmoon1-162",
+      "name": "Psychic Energy",
+      "number": "162",
+      "types": [
+        "Psychic"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/162.jpg"
+    },
+    {
+      "id": "sunmoon1-163",
+      "name": "Metal Energy",
+      "number": "163",
+      "types": [
+        "Metal"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "sunmoon1",
+        "name": "Sun & Moon",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-02-03",
+        "totalCards": 163
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/163.jpg"
+    }
+  ]
+}

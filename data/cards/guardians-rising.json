@@ -1,1661 +1,3591 @@
 {
-  "setInfo": {
-    "name": "Guardians Rising",
-    "code": "GRI",
-    "releaseDate": "2017-05-05",
-    "totalCards": 145
-  },
+  "setCode": "guardians-rising",
+  "setName": "Guardians Rising",
+  "series": "Sun & Moon",
+  "releaseDate": "2017-05-05",
+  "totalCards": 169,
   "cards": [
     {
-      "id": "GRI-1",
+      "id": "guardians-rising-1",
       "name": "Bellsprout",
       "number": "1",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "bellsprout"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/1.jpg"
     },
     {
-      "id": "GRI-2",
+      "id": "guardians-rising-2",
       "name": "Weepinbell",
       "number": "2",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "weepinbell"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/2.jpg"
     },
     {
-      "id": "GRI-3",
+      "id": "guardians-rising-3",
       "name": "Victreebel",
       "number": "3",
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "victreebel"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/3.jpg"
     },
     {
-      "id": "GRI-4",
+      "id": "guardians-rising-4",
       "name": "Petilil",
       "number": "4",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "petilil"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/4.jpg"
     },
     {
-      "id": "GRI-5",
+      "id": "guardians-rising-5",
       "name": "Lilligant",
       "number": "5",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "lilligant"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/5.jpg"
     },
     {
-      "id": "GRI-6",
+      "id": "guardians-rising-6",
       "name": "Phantump",
       "number": "6",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "phantump"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/6.jpg"
     },
     {
-      "id": "GRI-7",
+      "id": "guardians-rising-7",
       "name": "Trevenant",
       "number": "7",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "trevenant"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/7.jpg"
     },
     {
-      "id": "GRI-8",
+      "id": "guardians-rising-8",
       "name": "Wimpod",
       "number": "8",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "wimpod"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/8.jpg"
     },
     {
-      "id": "GRI-9",
+      "id": "guardians-rising-9",
       "name": "Golisopod",
       "number": "9",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "golisopod"
-      ]
+      "types": [
+        "Grass"
+      ],
+      "hp": 210,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/9.jpg"
     },
     {
-      "id": "GRI-10",
+      "id": "guardians-rising-10",
       "name": "Victini",
       "number": "10",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "victini"
-      ]
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/10.jpg"
     },
     {
-      "id": "GRI-11",
+      "id": "guardians-rising-11",
       "name": "Litwick",
       "number": "11",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "litwick"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/11.jpg"
     },
     {
-      "id": "GRI-12",
+      "id": "guardians-rising-12",
       "name": "Lampent",
       "number": "12",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "lampent"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/12.jpg"
     },
     {
-      "id": "GRI-13",
+      "id": "guardians-rising-13",
       "name": "Chandelure",
       "number": "13",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "chandelure"
-      ]
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/13.jpg"
     },
     {
-      "id": "GRI-14",
+      "id": "guardians-rising-14",
       "name": "Oricorio",
       "number": "14",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "oricorio"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Oricorio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/14.jpg"
     },
     {
-      "id": "GRI-15",
+      "id": "guardians-rising-15",
       "name": "Salandit",
       "number": "15",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "salandit"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/15.jpg"
     },
     {
-      "id": "GRI-16",
+      "id": "guardians-rising-16",
       "name": "Salazzle",
       "number": "16",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "salazzle"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/16.jpg"
     },
     {
-      "id": "GRI-17",
+      "id": "guardians-rising-17",
       "name": "Turtonator",
       "number": "17",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "turtonator"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/17.jpg"
     },
     {
-      "id": "GRI-18",
-      "name": "Turtonator-GX",
+      "id": "guardians-rising-18",
+      "name": "TurtonatorGX",
       "number": "18",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "turtonator"
-      ]
+      "types": [
+        "Fire"
+      ],
+      "hp": 190,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/18.jpg"
     },
     {
-      "id": "GRI-19",
+      "id": "guardians-rising-19",
       "name": "Alolan Sandshrew",
       "number": "19",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "sandshrew",
-        "alolan sandshrew",
-        "alolan"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/19.jpg"
     },
     {
-      "id": "GRI-20",
+      "id": "guardians-rising-20",
       "name": "Alolan Sandslash",
       "number": "20",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "alolan",
-        "sandslash",
-        "alolan sandslash"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/20.jpg"
     },
     {
-      "id": "GRI-21",
+      "id": "guardians-rising-21",
       "name": "Alolan Vulpix",
       "number": "21",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "alolan",
-        "vulpix",
-        "alolan vulpix"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/21.jpg"
     },
     {
-      "id": "GRI-22",
-      "name": "Alolan Ninetales-GX",
+      "id": "guardians-rising-22",
+      "name": "Alolan NinetalesGX",
       "number": "22",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "alolan",
-        "alolan ninetales",
-        "ninetales",
-        "ninetales-gx"
-      ]
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/22.jpg"
     },
     {
-      "id": "GRI-23",
+      "id": "guardians-rising-23",
       "name": "Tentacool",
       "number": "23",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "tentacool"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/23.jpg"
     },
     {
-      "id": "GRI-24",
+      "id": "guardians-rising-24",
       "name": "Tentacruel",
       "number": "24",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "tentacruel"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/24.jpg"
     },
     {
-      "id": "GRI-25",
+      "id": "guardians-rising-25",
       "name": "Politoed",
       "number": "25",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "politoed"
-      ]
+      "types": [
+        "Water"
+      ],
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/25.jpg"
     },
     {
-      "id": "GRI-26",
+      "id": "guardians-rising-26",
       "name": "Delibird",
       "number": "26",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "delibird"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/26.jpg"
     },
     {
-      "id": "GRI-27",
+      "id": "guardians-rising-27",
       "name": "Carvanha",
       "number": "27",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "carvanha"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/27.jpg"
     },
     {
-      "id": "GRI-28",
+      "id": "guardians-rising-28",
       "name": "Sharpedo",
       "number": "28",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "sharpedo"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/28.jpg"
     },
     {
-      "id": "GRI-29",
+      "id": "guardians-rising-29",
       "name": "Wailmer",
       "number": "29",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "wailmer"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/29.jpg"
     },
     {
-      "id": "GRI-30",
+      "id": "guardians-rising-30",
       "name": "Wailord",
       "number": "30",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "wailord"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/30.jpg"
     },
     {
-      "id": "GRI-31",
+      "id": "guardians-rising-31",
       "name": "Snorunt",
       "number": "31",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "snorunt"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/31.jpg"
     },
     {
-      "id": "GRI-32",
+      "id": "guardians-rising-32",
       "name": "Glalie",
       "number": "32",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "glalie"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/32.jpg"
     },
     {
-      "id": "GRI-33",
+      "id": "guardians-rising-33",
       "name": "Vanillite",
       "number": "33",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "vanillite"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/33.jpg"
     },
     {
-      "id": "GRI-34",
+      "id": "guardians-rising-34",
       "name": "Vanillish",
       "number": "34",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "vanillish"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/34.jpg"
     },
     {
-      "id": "GRI-35",
+      "id": "guardians-rising-35",
       "name": "Vanilluxe",
       "number": "35",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "vanilluxe"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/35.jpg"
     },
     {
-      "id": "GRI-36",
+      "id": "guardians-rising-36",
       "name": "Alomomola",
       "number": "36",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "alomomola"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/36.jpg"
     },
     {
-      "id": "GRI-37",
+      "id": "guardians-rising-37",
       "name": "Wishiwashi",
       "number": "37",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "wishiwashi"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/37.jpg"
     },
     {
-      "id": "GRI-38",
-      "name": "Wishiwashi-GX",
+      "id": "guardians-rising-38",
+      "name": "WishiwashiGX",
       "number": "38",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "wishiwashi"
-      ]
+      "types": [
+        "Water"
+      ],
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/38.jpg"
     },
     {
-      "id": "GRI-39",
+      "id": "guardians-rising-39",
       "name": "Mareanie",
       "number": "39",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "mareanie"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/39.jpg"
     },
     {
-      "id": "GRI-40",
+      "id": "guardians-rising-40",
       "name": "Alolan Geodude",
       "number": "40",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "alolan",
-        "alolan geodude",
-        "geodude"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/40.jpg"
     },
     {
-      "id": "GRI-41",
+      "id": "guardians-rising-41",
       "name": "Alolan Graveler",
       "number": "41",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "alolan graveler",
-        "graveler",
-        "alolan"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/41.jpg"
     },
     {
-      "id": "GRI-42",
+      "id": "guardians-rising-42",
       "name": "Alolan Golem",
       "number": "42",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "alolan golem",
-        "alolan",
-        "golem"
-      ]
+      "types": [
+        "Lightning"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/42.jpg"
     },
     {
-      "id": "GRI-43",
+      "id": "guardians-rising-43",
       "name": "Helioptile",
       "number": "43",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "helioptile"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/43.jpg"
     },
     {
-      "id": "GRI-44",
+      "id": "guardians-rising-44",
       "name": "Heliolisk",
       "number": "44",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "heliolisk"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/44.jpg"
     },
     {
-      "id": "GRI-45",
-      "name": "Vikavolt-GX",
+      "id": "guardians-rising-45",
+      "name": "VikavoltGX",
       "number": "45",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "vikavolt"
-      ]
+      "types": [
+        "Lightning"
+      ],
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/45.jpg"
     },
     {
-      "id": "GRI-46",
+      "id": "guardians-rising-46",
       "name": "Oricorio",
       "number": "46",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "oricorio"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Oricorio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/46.jpg"
     },
     {
-      "id": "GRI-47",
-      "name": "Tapu Koko-GX",
+      "id": "guardians-rising-47",
+      "name": "Tapu KokoGX",
       "number": "47",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "tapu koko",
-        "tapu",
-        "koko"
-      ]
+      "types": [
+        "Lightning"
+      ],
+      "hp": 170,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Tapu",
+        "Guardian",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/47.jpg"
     },
     {
-      "id": "GRI-48",
+      "id": "guardians-rising-48",
       "name": "Slowpoke",
       "number": "48",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "slowpoke"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/48.jpg"
     },
     {
-      "id": "GRI-49",
+      "id": "guardians-rising-49",
       "name": "Slowbro",
       "number": "49",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "slowbro"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/49.jpg"
     },
     {
-      "id": "GRI-50",
+      "id": "guardians-rising-50",
       "name": "Trubbish",
       "number": "50",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "trubbish"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/50.jpg"
     },
     {
-      "id": "GRI-51",
+      "id": "guardians-rising-51",
       "name": "Garbodor",
       "number": "51",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "garbodor"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/51.jpg"
     },
     {
-      "id": "GRI-52",
+      "id": "guardians-rising-52",
       "name": "Gothita",
       "number": "52",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "gothita"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/52.jpg"
     },
     {
-      "id": "GRI-53",
+      "id": "guardians-rising-53",
       "name": "Gothorita",
       "number": "53",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "gothorita"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/53.jpg"
     },
     {
-      "id": "GRI-54",
+      "id": "guardians-rising-54",
       "name": "Gothitelle",
       "number": "54",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "gothitelle"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/54.jpg"
     },
     {
-      "id": "GRI-55",
+      "id": "guardians-rising-55",
       "name": "Oricorio",
       "number": "55",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "oricorio"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Oricorio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/55.jpg"
     },
     {
-      "id": "GRI-56",
+      "id": "guardians-rising-56",
       "name": "Oricorio",
       "number": "56",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "oricorio"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Oricorio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/56.jpg"
     },
     {
-      "id": "GRI-57",
-      "name": "Toxapex-GX",
+      "id": "guardians-rising-57",
+      "name": "ToxapexGX",
       "number": "57",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "toxapex"
-      ]
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/57.jpg"
     },
     {
-      "id": "GRI-58",
+      "id": "guardians-rising-58",
       "name": "Mimikyu",
       "number": "58",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "mimikyu"
-      ]
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/58.jpg"
     },
     {
-      "id": "GRI-59",
+      "id": "guardians-rising-59",
       "name": "Dhelmise",
       "number": "59",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "dhelmise"
-      ]
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/59.jpg"
     },
     {
-      "id": "GRI-60",
-      "name": "Tapu Lele-GX",
+      "id": "guardians-rising-60",
+      "name": "Tapu LeleGX",
       "number": "60",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "tapu",
-        "tapu lele",
-        "lele"
-      ]
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Tapu",
+        "Guardian",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/60.jpg"
     },
     {
-      "id": "GRI-61",
+      "id": "guardians-rising-61",
       "name": "Lunala",
       "number": "61",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "lunala"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/61.jpg"
     },
     {
-      "id": "GRI-62",
+      "id": "guardians-rising-62",
       "name": "Machop",
       "number": "62",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "machop"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/62.jpg"
     },
     {
-      "id": "GRI-63",
+      "id": "guardians-rising-63",
       "name": "Machop",
       "number": "63",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "machop"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/63.jpg"
     },
     {
-      "id": "GRI-64",
+      "id": "guardians-rising-64",
       "name": "Machoke",
       "number": "64",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "machoke"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/64.jpg"
     },
     {
-      "id": "GRI-65",
+      "id": "guardians-rising-65",
       "name": "Machamp",
       "number": "65",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "machamp"
-      ]
+      "types": [
+        "Fighting"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/65.jpg"
     },
     {
-      "id": "GRI-66",
+      "id": "guardians-rising-66",
       "name": "Sudowoodo",
       "number": "66",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "sudowoodo"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/66.jpg"
     },
     {
-      "id": "GRI-67",
+      "id": "guardians-rising-67",
       "name": "Gligar",
       "number": "67",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "gligar"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/67.jpg"
     },
     {
-      "id": "GRI-68",
+      "id": "guardians-rising-68",
       "name": "Gliscor",
       "number": "68",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "gliscor"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/68.jpg"
     },
     {
-      "id": "GRI-69",
+      "id": "guardians-rising-69",
       "name": "Nosepass",
       "number": "69",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "nosepass"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/69.jpg"
     },
     {
-      "id": "GRI-70",
+      "id": "guardians-rising-70",
       "name": "Barboach",
       "number": "70",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "barboach"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/70.jpg"
     },
     {
-      "id": "GRI-71",
+      "id": "guardians-rising-71",
       "name": "Whiscash",
       "number": "71",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "whiscash"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/71.jpg"
     },
     {
-      "id": "GRI-72",
+      "id": "guardians-rising-72",
       "name": "Pancham",
       "number": "72",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "pancham"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/72.jpg"
     },
     {
-      "id": "GRI-73",
+      "id": "guardians-rising-73",
       "name": "Rockruff",
       "number": "73",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "rockruff"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/73.jpg"
     },
     {
-      "id": "GRI-74",
-      "name": "Lycanroc-GX",
+      "id": "guardians-rising-74",
+      "name": "LycanrocGX",
       "number": "74",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "lycanroc"
-      ]
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/74.jpg"
     },
     {
-      "id": "GRI-75",
+      "id": "guardians-rising-75",
       "name": "Mudbray",
       "number": "75",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "mudbray"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/75.jpg"
     },
     {
-      "id": "GRI-76",
+      "id": "guardians-rising-76",
       "name": "Mudsdale",
       "number": "76",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "mudsdale"
-      ]
+      "types": [
+        "Fighting"
+      ],
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/76.jpg"
     },
     {
-      "id": "GRI-77",
+      "id": "guardians-rising-77",
       "name": "Minior",
       "number": "77",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "minior"
-      ]
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/77.jpg"
     },
     {
-      "id": "GRI-78",
+      "id": "guardians-rising-78",
       "name": "Murkrow",
       "number": "78",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "murkrow"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/78.jpg"
     },
     {
-      "id": "GRI-79",
+      "id": "guardians-rising-79",
       "name": "Honchkrow",
       "number": "79",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "honchkrow"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/79.jpg"
     },
     {
-      "id": "GRI-80",
+      "id": "guardians-rising-80",
       "name": "Sableye",
       "number": "80",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 70,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "sableye"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/80.jpg"
     },
     {
-      "id": "GRI-81",
+      "id": "guardians-rising-81",
       "name": "Absol",
       "number": "81",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "absol"
-      ]
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/81.jpg"
     },
     {
-      "id": "GRI-82",
+      "id": "guardians-rising-82",
       "name": "Pangoro",
       "number": "82",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "pangoro"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/82.jpg"
     },
     {
-      "id": "GRI-83",
+      "id": "guardians-rising-83",
       "name": "Beldum",
       "number": "83",
+      "types": [
+        "Metal"
+      ],
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "beldum"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/83.jpg"
     },
     {
-      "id": "GRI-84",
+      "id": "guardians-rising-84",
       "name": "Metang",
       "number": "84",
+      "types": [
+        "Metal"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "metang"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/84.jpg"
     },
     {
-      "id": "GRI-85",
-      "name": "Metagross-GX",
+      "id": "guardians-rising-85",
+      "name": "MetagrossGX",
       "number": "85",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "metagross"
-      ]
+      "types": [
+        "Metal"
+      ],
+      "hp": 250,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/85.jpg"
     },
     {
-      "id": "GRI-86",
+      "id": "guardians-rising-86",
       "name": "Probopass",
       "number": "86",
+      "types": [
+        "Metal"
+      ],
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "probopass"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/86.jpg"
     },
     {
-      "id": "GRI-87",
+      "id": "guardians-rising-87",
       "name": "Solgaleo",
       "number": "87",
+      "types": [
+        "Metal"
+      ],
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "solgaleo"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/87.jpg"
     },
     {
-      "id": "GRI-88",
+      "id": "guardians-rising-88",
       "name": "Clefairy",
       "number": "88",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "clefairy"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/88.jpg"
     },
     {
-      "id": "GRI-89",
+      "id": "guardians-rising-89",
       "name": "Clefable",
       "number": "89",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 110,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "clefable"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/89.jpg"
     },
     {
-      "id": "GRI-90",
+      "id": "guardians-rising-90",
       "name": "Cottonee",
       "number": "90",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "cottonee"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/90.jpg"
     },
     {
-      "id": "GRI-91",
+      "id": "guardians-rising-91",
       "name": "Whimsicott",
       "number": "91",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "whimsicott"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/91.jpg"
     },
     {
-      "id": "GRI-92",
-      "name": "Sylveon-GX",
+      "id": "guardians-rising-92",
+      "name": "SylveonGX",
       "number": "92",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "sylveon"
-      ]
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/92.jpg"
     },
     {
-      "id": "GRI-93",
+      "id": "guardians-rising-93",
       "name": "Comfey",
       "number": "93",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "comfey"
-      ]
+      "types": [
+        "Fairy"
+      ],
+      "hp": 60,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/93.jpg"
     },
     {
-      "id": "GRI-94",
+      "id": "guardians-rising-94",
       "name": "Goomy",
       "number": "94",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "goomy"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/94.jpg"
     },
     {
-      "id": "GRI-95",
+      "id": "guardians-rising-95",
       "name": "Sliggoo",
       "number": "95",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "sliggoo"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/95.jpg"
     },
     {
-      "id": "GRI-96",
+      "id": "guardians-rising-96",
       "name": "Goodra",
       "number": "96",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "goodra"
-      ]
+      "types": [
+        "Dragon"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/96.jpg"
     },
     {
-      "id": "GRI-97",
+      "id": "guardians-rising-97",
       "name": "Drampa",
       "number": "97",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "drampa"
-      ]
+      "types": [
+        "Dragon"
+      ],
+      "hp": 130,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/97.jpg"
     },
     {
-      "id": "GRI-98",
+      "id": "guardians-rising-98",
       "name": "Jangmo-o",
       "number": "98",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "jangmo-o"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/98.jpg"
     },
     {
-      "id": "GRI-99",
+      "id": "guardians-rising-99",
       "name": "Hakamo-o",
       "number": "99",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 90,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "hakamo-o"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/99.jpg"
     },
     {
-      "id": "GRI-100",
-      "name": "Kommo-o-GX",
+      "id": "guardians-rising-100",
+      "name": "Kommo-oGX",
       "number": "100",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "kommo-o"
-      ]
+      "types": [
+        "Dragon"
+      ],
+      "hp": 210,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/100.jpg"
     },
     {
-      "id": "GRI-101",
+      "id": "guardians-rising-101",
       "name": "Chansey",
       "number": "101",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "chansey"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/101.jpg"
     },
     {
-      "id": "GRI-102",
+      "id": "guardians-rising-102",
       "name": "Blissey",
       "number": "102",
-      "rarity": "Holo Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "blissey"
-      ]
+      "types": [
+        "Colorless"
+      ],
+      "hp": 160,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/102.jpg"
     },
     {
-      "id": "GRI-103",
+      "id": "guardians-rising-103",
       "name": "Taillow",
       "number": "103",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "taillow"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/103.jpg"
     },
     {
-      "id": "GRI-104",
+      "id": "guardians-rising-104",
       "name": "Swellow",
       "number": "104",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 100,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "swellow"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/104.jpg"
     },
     {
-      "id": "GRI-105",
+      "id": "guardians-rising-105",
       "name": "Castform",
       "number": "105",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "castform"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/105.jpg"
     },
     {
-      "id": "GRI-106",
+      "id": "guardians-rising-106",
       "name": "Rayquaza",
       "number": "106",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "rayquaza"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/106.jpg"
     },
     {
-      "id": "GRI-107",
+      "id": "guardians-rising-107",
       "name": "Patrat",
       "number": "107",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "patrat"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/107.jpg"
     },
     {
-      "id": "GRI-108",
+      "id": "guardians-rising-108",
       "name": "Watchog",
       "number": "108",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 100,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "watchog"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/108.jpg"
     },
     {
-      "id": "GRI-109",
+      "id": "guardians-rising-109",
       "name": "Fletchling",
       "number": "109",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "fletchling"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/109.jpg"
     },
     {
-      "id": "GRI-110",
+      "id": "guardians-rising-110",
       "name": "Fletchinder",
       "number": "110",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "fletchinder"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/110.jpg"
     },
     {
-      "id": "GRI-111",
+      "id": "guardians-rising-111",
       "name": "Talonflame",
       "number": "111",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
       "rarity": "Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "talonflame"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/111.jpg"
     },
     {
-      "id": "GRI-112",
+      "id": "guardians-rising-112",
       "name": "Stufful",
       "number": "112",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
       "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "stufful"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/112.jpg"
     },
     {
-      "id": "GRI-113",
+      "id": "guardians-rising-113",
       "name": "Bewear",
       "number": "113",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "bewear"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/113.jpg"
     },
     {
-      "id": "GRI-114",
+      "id": "guardians-rising-114",
       "name": "Komala",
       "number": "114",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
       "rarity": "Uncommon",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "komala"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/114.jpg"
     },
     {
-      "id": "GRI-115",
-      "name": "Drampa-GX",
+      "id": "guardians-rising-115",
+      "name": "DrampaGX",
       "number": "115",
-      "rarity": "Common",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "drampa"
-      ]
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "rarity": "Ultra-Rare Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/115.jpg"
     },
     {
-      "id": "GRI-116",
+      "id": "guardians-rising-116",
       "name": "Aether Paradise Conservation Area",
       "number": "116",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "aether",
-        "conservation",
-        "aether paradise conservation area",
-        "paradise",
-        "area"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer",
+        "Stadium"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/116.jpg"
     },
     {
-      "id": "GRI-117",
+      "id": "guardians-rising-117",
       "name": "Altar of the Moone",
       "number": "117",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "the",
-        "altar",
-        "altar of the moone",
-        "moone"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer",
+        "Stadium"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/117.jpg"
     },
     {
-      "id": "GRI-118",
+      "id": "guardians-rising-118",
       "name": "Altar of the Sunne",
       "number": "118",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "the",
-        "altar of the sunne",
-        "altar",
-        "sunne"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer",
+        "Stadium"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/118.jpg"
     },
     {
-      "id": "GRI-119",
+      "id": "guardians-rising-119",
       "name": "Aqua Patch",
       "number": "119",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "patch",
-        "aqua",
-        "aqua patch"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/119.jpg"
     },
     {
-      "id": "GRI-120",
+      "id": "guardians-rising-120",
       "name": "Brooklet Hill",
       "number": "120",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "brooklet hill",
-        "brooklet",
-        "hill"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer",
+        "Stadium"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/120.jpg"
     },
     {
-      "id": "GRI-121",
+      "id": "guardians-rising-121",
       "name": "Choice Band",
       "number": "121",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "band",
-        "choice band",
-        "choice"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/121.jpg"
     },
     {
-      "id": "GRI-122",
+      "id": "guardians-rising-122",
       "name": "Energy Loto",
       "number": "122",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "loto",
-        "energy loto",
-        "energy"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Energy",
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/122.jpg"
     },
     {
-      "id": "GRI-123",
+      "id": "guardians-rising-123",
       "name": "Energy Recycler",
       "number": "123",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "recycler",
-        "energy recycler",
-        "energy"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Energy",
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/123.jpg"
     },
     {
-      "id": "GRI-124",
+      "id": "guardians-rising-124",
       "name": "Enhanced Hammer",
       "number": "124",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "hammer",
-        "enhanced",
-        "enhanced hammer"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/124.jpg"
     },
     {
-      "id": "GRI-125",
+      "id": "guardians-rising-125",
       "name": "Field Blower",
       "number": "125",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "field",
-        "field blower",
-        "blower"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/125.jpg"
     },
     {
-      "id": "GRI-126",
+      "id": "guardians-rising-126",
       "name": "Hala",
       "number": "126",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "hala"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/126.jpg"
     },
     {
-      "id": "GRI-127",
+      "id": "guardians-rising-127",
       "name": "Mallow",
       "number": "127",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "mallow"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/127.jpg"
     },
     {
-      "id": "GRI-128",
+      "id": "guardians-rising-128",
       "name": "Max Potion",
       "number": "128",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "potion",
-        "max",
-        "max potion"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/128.jpg"
     },
     {
-      "id": "GRI-129",
+      "id": "guardians-rising-129",
       "name": "Multi Switch",
       "number": "129",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "multi switch",
-        "multi",
-        "switch"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/129.jpg"
     },
     {
-      "id": "GRI-130",
+      "id": "guardians-rising-130",
       "name": "Rescue Stretcher",
       "number": "130",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
       "rarity": "Uncommon",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "rescue stretcher",
-        "stretcher",
-        "rescue"
-      ]
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/130.jpg"
     },
     {
-      "id": "GRI-131",
-      "name": "Turtonator-GX",
+      "id": "guardians-rising-131",
+      "name": "TurtonatorGX",
       "number": "131",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "turtonator"
-      ]
+      "types": [
+        "Fire"
+      ],
+      "hp": 190,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/131.jpg"
     },
     {
-      "id": "GRI-132",
-      "name": "Alolan Ninetales-GX",
+      "id": "guardians-rising-132",
+      "name": "Alolan NinetalesGX",
       "number": "132",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "alolan",
-        "alolan ninetales",
-        "ninetales",
-        "ninetales-gx"
-      ]
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/132.jpg"
     },
     {
-      "id": "GRI-133",
-      "name": "Wishiwashi-GX",
+      "id": "guardians-rising-133",
+      "name": "WishiwashiGX",
       "number": "133",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "wishiwashi"
-      ]
+      "types": [
+        "Water"
+      ],
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/133.jpg"
     },
     {
-      "id": "GRI-134",
-      "name": "Vikavolt-GX",
+      "id": "guardians-rising-134",
+      "name": "VikavoltGX",
       "number": "134",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "vikavolt"
-      ]
+      "types": [
+        "Lightning"
+      ],
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/134.jpg"
     },
     {
-      "id": "GRI-135",
-      "name": "Tapu Koko-GX",
+      "id": "guardians-rising-135",
+      "name": "Tapu KokoGX",
       "number": "135",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "tapu koko",
-        "tapu",
-        "koko"
-      ]
+      "types": [
+        "Lightning"
+      ],
+      "hp": 170,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Tapu",
+        "Guardian",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/135.jpg"
     },
     {
-      "id": "GRI-136",
-      "name": "Toxapex-GX",
+      "id": "guardians-rising-136",
+      "name": "ToxapexGX",
       "number": "136",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "toxapex"
-      ]
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/136.jpg"
     },
     {
-      "id": "GRI-137",
-      "name": "Tapu Lele-GX",
+      "id": "guardians-rising-137",
+      "name": "Tapu LeleGX",
       "number": "137",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "tapu",
-        "tapu lele",
-        "lele"
-      ]
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Tapu",
+        "Guardian",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/137.jpg"
     },
     {
-      "id": "GRI-138",
-      "name": "Lycanroc-GX",
+      "id": "guardians-rising-138",
+      "name": "LycanrocGX",
       "number": "138",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "lycanroc"
-      ]
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/138.jpg"
     },
     {
-      "id": "GRI-139",
-      "name": "Metagross-GX",
+      "id": "guardians-rising-139",
+      "name": "MetagrossGX",
       "number": "139",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "metagross"
-      ]
+      "types": [
+        "Metal"
+      ],
+      "hp": 250,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/139.jpg"
     },
     {
-      "id": "GRI-140",
-      "name": "Sylveon-GX",
+      "id": "guardians-rising-140",
+      "name": "SylveonGX",
       "number": "140",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "sylveon"
-      ]
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/140.jpg"
     },
     {
-      "id": "GRI-141",
-      "name": "Kommo-o-GX",
+      "id": "guardians-rising-141",
+      "name": "Kommo-oGX",
       "number": "141",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "kommo-o"
-      ]
+      "types": [
+        "Dragon"
+      ],
+      "hp": 210,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/141.jpg"
     },
     {
-      "id": "GRI-142",
-      "name": "Drampa-GX",
+      "id": "guardians-rising-142",
+      "name": "DrampaGX",
       "number": "142",
-      "rarity": "Ultra Rare",
-      "type": "Pokemon",
-      "set": "GRI",
-      "matchingKeywords": [
-        "drampa"
-      ]
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/142.jpg"
     },
     {
-      "id": "GRI-143",
+      "id": "guardians-rising-143",
       "name": "Hala",
       "number": "143",
-      "rarity": "Ultra Rare",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "hala"
-      ]
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/143.jpg"
     },
     {
-      "id": "GRI-144",
+      "id": "guardians-rising-144",
       "name": "Hau",
       "number": "144",
-      "rarity": "Ultra Rare",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "hau"
-      ]
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/144.jpg"
     },
     {
-      "id": "GRI-145",
+      "id": "guardians-rising-145",
       "name": "Mallow",
       "number": "145",
-      "rarity": "Ultra Rare",
-      "type": "Trainer",
-      "set": "GRI",
-      "matchingKeywords": [
-        "mallow"
-      ]
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/145.jpg"
+    },
+    {
+      "id": "guardians-rising-146",
+      "name": "DecidueyeGX",
+      "number": "146",
+      "types": [
+        "Grass"
+      ],
+      "hp": 240,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/146.jpg"
+    },
+    {
+      "id": "guardians-rising-147",
+      "name": "IncineroarGX",
+      "number": "147",
+      "types": [
+        "Fire"
+      ],
+      "hp": 250,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/147.jpg"
+    },
+    {
+      "id": "guardians-rising-148",
+      "name": "TurtonatorGX",
+      "number": "148",
+      "types": [
+        "Fire"
+      ],
+      "hp": 190,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/148.jpg"
+    },
+    {
+      "id": "guardians-rising-149",
+      "name": "PrimarinaGX",
+      "number": "149",
+      "types": [
+        "Water"
+      ],
+      "hp": 230,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/149.jpg"
+    },
+    {
+      "id": "guardians-rising-150",
+      "name": "Alolan NinetalesGX",
+      "number": "150",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Alolan",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/150.jpg"
+    },
+    {
+      "id": "guardians-rising-151",
+      "name": "WishiwashiGX",
+      "number": "151",
+      "types": [
+        "Water"
+      ],
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/151.jpg"
+    },
+    {
+      "id": "guardians-rising-152",
+      "name": "VikavoltGX",
+      "number": "152",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/152.jpg"
+    },
+    {
+      "id": "guardians-rising-153",
+      "name": "Tapu KokoGX",
+      "number": "153",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 170,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Tapu",
+        "Guardian",
+        "Rainbow",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/153.jpg"
+    },
+    {
+      "id": "guardians-rising-154",
+      "name": "ToxapexGX",
+      "number": "154",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/154.jpg"
+    },
+    {
+      "id": "guardians-rising-155",
+      "name": "Tapu LeleGX",
+      "number": "155",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Tapu",
+        "Guardian",
+        "Rainbow",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/155.jpg"
+    },
+    {
+      "id": "guardians-rising-156",
+      "name": "LycanrocGX",
+      "number": "156",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/156.jpg"
+    },
+    {
+      "id": "guardians-rising-157",
+      "name": "MetagrossGX",
+      "number": "157",
+      "types": [
+        "Metal"
+      ],
+      "hp": 250,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/157.jpg"
+    },
+    {
+      "id": "guardians-rising-158",
+      "name": "SylveonGX",
+      "number": "158",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/158.jpg"
+    },
+    {
+      "id": "guardians-rising-159",
+      "name": "Kommo-oGX",
+      "number": "159",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 210,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/159.jpg"
+    },
+    {
+      "id": "guardians-rising-160",
+      "name": "DrampaGX",
+      "number": "160",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "rarity": "Rare Rainbow",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "GX",
+        "Rainbow"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/160.jpg"
+    },
+    {
+      "id": "guardians-rising-161",
+      "name": "Aqua Patch",
+      "number": "161",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/161.jpg"
+    },
+    {
+      "id": "guardians-rising-162",
+      "name": "Enhanced Hammer",
+      "number": "162",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/162.jpg"
+    },
+    {
+      "id": "guardians-rising-163",
+      "name": "Field Blower",
+      "number": "163",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/163.jpg"
+    },
+    {
+      "id": "guardians-rising-164",
+      "name": "Max Potion",
+      "number": "164",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/164.jpg"
+    },
+    {
+      "id": "guardians-rising-165",
+      "name": "Rare Candy",
+      "number": "165",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Trainer"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/165.jpg"
+    },
+    {
+      "id": "guardians-rising-166",
+      "name": "Double Colorless Energy",
+      "number": "166",
+      "types": [
+        "Colorless"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/166.jpg"
+    },
+    {
+      "id": "guardians-rising-167",
+      "name": "Grass Energy",
+      "number": "167",
+      "types": [
+        "Grass"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/167.jpg"
+    },
+    {
+      "id": "guardians-rising-168",
+      "name": "Lightning Energy",
+      "number": "168",
+      "types": [
+        "Lightning"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/168.jpg"
+    },
+    {
+      "id": "guardians-rising-169",
+      "name": "Fighting Energy",
+      "number": "169",
+      "types": [
+        "Fighting"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "guardians-rising",
+        "name": "Guardians Rising",
+        "series": "Sun & Moon",
+        "releaseDate": "2017-05-05",
+        "totalCards": 169
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/guardiansrising/169.jpg"
     }
   ]
 }

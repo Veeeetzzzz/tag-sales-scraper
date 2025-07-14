@@ -1,0 +1,2364 @@
+{
+  "setCode": "evolutions",
+  "setName": "Evolutions",
+  "series": "XY",
+  "releaseDate": "2016-11-02",
+  "totalCards": 113,
+  "cards": [
+    {
+      "id": "evolutions-1",
+      "name": "VenusaurEX",
+      "number": "1",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/1.jpg"
+    },
+    {
+      "id": "evolutions-2",
+      "name": "MegaVenusaurEX",
+      "number": "2",
+      "types": [
+        "Grass"
+      ],
+      "hp": 230,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/2.jpg"
+    },
+    {
+      "id": "evolutions-3",
+      "name": "Caterpie",
+      "number": "3",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/3.jpg"
+    },
+    {
+      "id": "evolutions-4",
+      "name": "Metapod",
+      "number": "4",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/4.jpg"
+    },
+    {
+      "id": "evolutions-5",
+      "name": "Weedle",
+      "number": "5",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/5.jpg"
+    },
+    {
+      "id": "evolutions-6",
+      "name": "Kakuna",
+      "number": "6",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/6.jpg"
+    },
+    {
+      "id": "evolutions-7",
+      "name": "Beedrill",
+      "number": "7",
+      "types": [
+        "Grass"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/7.jpg"
+    },
+    {
+      "id": "evolutions-8",
+      "name": "Tangela",
+      "number": "8",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/8.jpg"
+    },
+    {
+      "id": "evolutions-9",
+      "name": "Charmander",
+      "number": "9",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/9.jpg"
+    },
+    {
+      "id": "evolutions-10",
+      "name": "Charmeleon",
+      "number": "10",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/10.jpg"
+    },
+    {
+      "id": "evolutions-11",
+      "name": "Charizard",
+      "number": "11",
+      "types": [
+        "Fire"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/11.jpg"
+    },
+    {
+      "id": "evolutions-12",
+      "name": "CharizardEX",
+      "number": "12",
+      "types": [
+        "Fire"
+      ],
+      "hp": 180,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/12.jpg"
+    },
+    {
+      "id": "evolutions-13",
+      "name": "MegaCharizardEX",
+      "number": "13",
+      "types": [
+        "Fire"
+      ],
+      "hp": 230,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/13.jpg"
+    },
+    {
+      "id": "evolutions-14",
+      "name": "Vulpix",
+      "number": "14",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/14.jpg"
+    },
+    {
+      "id": "evolutions-15",
+      "name": "Ninetales",
+      "number": "15",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/15.jpg"
+    },
+    {
+      "id": "evolutions-16",
+      "name": "NinetalesBREAK",
+      "number": "16",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "rarity": "Rare BREAK",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "BREAK"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/16.jpg"
+    },
+    {
+      "id": "evolutions-17",
+      "name": "Growlithe",
+      "number": "17",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/17.jpg"
+    },
+    {
+      "id": "evolutions-18",
+      "name": "Arcanine",
+      "number": "18",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/18.jpg"
+    },
+    {
+      "id": "evolutions-19",
+      "name": "Ponyta",
+      "number": "19",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/19.jpg"
+    },
+    {
+      "id": "evolutions-20",
+      "name": "Magmar",
+      "number": "20",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/20.jpg"
+    },
+    {
+      "id": "evolutions-21",
+      "name": "BlastoiseEX",
+      "number": "21",
+      "types": [
+        "Water"
+      ],
+      "hp": 180,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/21.jpg"
+    },
+    {
+      "id": "evolutions-22",
+      "name": "MegaBlastoiseEX",
+      "number": "22",
+      "types": [
+        "Water"
+      ],
+      "hp": 220,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/22.jpg"
+    },
+    {
+      "id": "evolutions-23",
+      "name": "Poliwag",
+      "number": "23",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/23.jpg"
+    },
+    {
+      "id": "evolutions-24",
+      "name": "Poliwhirl",
+      "number": "24",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/24.jpg"
+    },
+    {
+      "id": "evolutions-25",
+      "name": "Poliwrath",
+      "number": "25",
+      "types": [
+        "Water"
+      ],
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/25.jpg"
+    },
+    {
+      "id": "evolutions-26",
+      "name": "SlowbroEX",
+      "number": "26",
+      "types": [
+        "Water"
+      ],
+      "hp": 160,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/26.jpg"
+    },
+    {
+      "id": "evolutions-27",
+      "name": "MegaSlowbroEX",
+      "number": "27",
+      "types": [
+        "Water"
+      ],
+      "hp": 220,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/27.jpg"
+    },
+    {
+      "id": "evolutions-28",
+      "name": "Seel",
+      "number": "28",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/28.jpg"
+    },
+    {
+      "id": "evolutions-29",
+      "name": "Dewgong",
+      "number": "29",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/29.jpg"
+    },
+    {
+      "id": "evolutions-30",
+      "name": "Staryu",
+      "number": "30",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/30.jpg"
+    },
+    {
+      "id": "evolutions-31",
+      "name": "Starmie",
+      "number": "31",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/31.jpg"
+    },
+    {
+      "id": "evolutions-32",
+      "name": "StarmieBREAK",
+      "number": "32",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "rarity": "Rare BREAK",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "BREAK"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/32.jpg"
+    },
+    {
+      "id": "evolutions-33",
+      "name": "Magikarp",
+      "number": "33",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/33.jpg"
+    },
+    {
+      "id": "evolutions-34",
+      "name": "Gyarados",
+      "number": "34",
+      "types": [
+        "Water"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/34.jpg"
+    },
+    {
+      "id": "evolutions-35",
+      "name": "Pikachu",
+      "number": "35",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/35.jpg"
+    },
+    {
+      "id": "evolutions-36",
+      "name": "Raichu",
+      "number": "36",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/36.jpg"
+    },
+    {
+      "id": "evolutions-37",
+      "name": "Magnemite",
+      "number": "37",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/37.jpg"
+    },
+    {
+      "id": "evolutions-38",
+      "name": "Magneton",
+      "number": "38",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/38.jpg"
+    },
+    {
+      "id": "evolutions-39",
+      "name": "Voltorb",
+      "number": "39",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/39.jpg"
+    },
+    {
+      "id": "evolutions-40",
+      "name": "Electrode",
+      "number": "40",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/40.jpg"
+    },
+    {
+      "id": "evolutions-41",
+      "name": "Electabuzz",
+      "number": "41",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/41.jpg"
+    },
+    {
+      "id": "evolutions-42",
+      "name": "Zapdos",
+      "number": "42",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/42.jpg"
+    },
+    {
+      "id": "evolutions-43",
+      "name": "Nidoran♂",
+      "number": "43",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/43.jpg"
+    },
+    {
+      "id": "evolutions-44",
+      "name": "Nidorino",
+      "number": "44",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/44.jpg"
+    },
+    {
+      "id": "evolutions-45",
+      "name": "Nidoking",
+      "number": "45",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 140,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/45.jpg"
+    },
+    {
+      "id": "evolutions-46",
+      "name": "NidokingBREAK",
+      "number": "46",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 180,
+      "rarity": "Rare BREAK",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "BREAK"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/46.jpg"
+    },
+    {
+      "id": "evolutions-47",
+      "name": "Gastly",
+      "number": "47",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/47.jpg"
+    },
+    {
+      "id": "evolutions-48",
+      "name": "Haunter",
+      "number": "48",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/48.jpg"
+    },
+    {
+      "id": "evolutions-49",
+      "name": "Drowzee",
+      "number": "49",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/49.jpg"
+    },
+    {
+      "id": "evolutions-50",
+      "name": "Koffing",
+      "number": "50",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/50.jpg"
+    },
+    {
+      "id": "evolutions-51",
+      "name": "Mewtwo",
+      "number": "51",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/51.jpg"
+    },
+    {
+      "id": "evolutions-52",
+      "name": "MewtwoEX",
+      "number": "52",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/52.jpg"
+    },
+    {
+      "id": "evolutions-53",
+      "name": "Mew",
+      "number": "53",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/53.jpg"
+    },
+    {
+      "id": "evolutions-54",
+      "name": "Sandshrew",
+      "number": "54",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/54.jpg"
+    },
+    {
+      "id": "evolutions-55",
+      "name": "Diglett",
+      "number": "55",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/55.jpg"
+    },
+    {
+      "id": "evolutions-56",
+      "name": "Dugtrio",
+      "number": "56",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/56.jpg"
+    },
+    {
+      "id": "evolutions-57",
+      "name": "Machop",
+      "number": "57",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/57.jpg"
+    },
+    {
+      "id": "evolutions-58",
+      "name": "Machoke",
+      "number": "58",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/58.jpg"
+    },
+    {
+      "id": "evolutions-59",
+      "name": "Machamp",
+      "number": "59",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 150,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/59.jpg"
+    },
+    {
+      "id": "evolutions-60",
+      "name": "MachampBREAK",
+      "number": "60",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 190,
+      "rarity": "Rare BREAK",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "BREAK"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/60.jpg"
+    },
+    {
+      "id": "evolutions-61",
+      "name": "Onix",
+      "number": "61",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/61.jpg"
+    },
+    {
+      "id": "evolutions-62",
+      "name": "Hitmonchan",
+      "number": "62",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/62.jpg"
+    },
+    {
+      "id": "evolutions-63",
+      "name": "Clefairy",
+      "number": "63",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/63.jpg"
+    },
+    {
+      "id": "evolutions-64",
+      "name": "PidgeotEX",
+      "number": "64",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 170,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/64.jpg"
+    },
+    {
+      "id": "evolutions-65",
+      "name": "MegaPidgeotEX",
+      "number": "65",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 220,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/65.jpg"
+    },
+    {
+      "id": "evolutions-66",
+      "name": "Rattata",
+      "number": "66",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 30,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/66.jpg"
+    },
+    {
+      "id": "evolutions-67",
+      "name": "Raticate",
+      "number": "67",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/67.jpg"
+    },
+    {
+      "id": "evolutions-68",
+      "name": "Farfetch'd",
+      "number": "68",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "rarity": "Rare",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/68.jpg"
+    },
+    {
+      "id": "evolutions-69",
+      "name": "Doduo",
+      "number": "69",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/69.jpg"
+    },
+    {
+      "id": "evolutions-70",
+      "name": "Chansey",
+      "number": "70",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "rarity": "Rare Holo",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/70.jpg"
+    },
+    {
+      "id": "evolutions-71",
+      "name": "Porygon",
+      "number": "71",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/71.jpg"
+    },
+    {
+      "id": "evolutions-72",
+      "name": "DragoniteEX",
+      "number": "72",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "rarity": "Rare Holo ex",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/72.jpg"
+    },
+    {
+      "id": "evolutions-73",
+      "name": "Blastoise Spirit Link",
+      "number": "73",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Spirit Link"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/73.jpg"
+    },
+    {
+      "id": "evolutions-74",
+      "name": "Brock's Grit",
+      "number": "74",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/74.jpg"
+    },
+    {
+      "id": "evolutions-75",
+      "name": "Charizard Spirit Link",
+      "number": "75",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Spirit Link"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/75.jpg"
+    },
+    {
+      "id": "evolutions-76",
+      "name": "Devolution Spray",
+      "number": "76",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/76.jpg"
+    },
+    {
+      "id": "evolutions-77",
+      "name": "Energy Retrieval",
+      "number": "77",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/77.jpg"
+    },
+    {
+      "id": "evolutions-78",
+      "name": "Full Heal",
+      "number": "78",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/78.jpg"
+    },
+    {
+      "id": "evolutions-79",
+      "name": "Maintenance",
+      "number": "79",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/79.jpg"
+    },
+    {
+      "id": "evolutions-80",
+      "name": "Misty's Determination",
+      "number": "80",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/80.jpg"
+    },
+    {
+      "id": "evolutions-81",
+      "name": "Pidgeot Spirit Link",
+      "number": "81",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Spirit Link"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/81.jpg"
+    },
+    {
+      "id": "evolutions-82",
+      "name": "Pokédex",
+      "number": "82",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/82.jpg"
+    },
+    {
+      "id": "evolutions-83",
+      "name": "Potion",
+      "number": "83",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/83.jpg"
+    },
+    {
+      "id": "evolutions-84",
+      "name": "Professor Oak's Hint",
+      "number": "84",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/84.jpg"
+    },
+    {
+      "id": "evolutions-85",
+      "name": "Revive",
+      "number": "85",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/85.jpg"
+    },
+    {
+      "id": "evolutions-86",
+      "name": "Slowbro Spirit Link",
+      "number": "86",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Spirit Link"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/86.jpg"
+    },
+    {
+      "id": "evolutions-87",
+      "name": "Super Potion",
+      "number": "87",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/87.jpg"
+    },
+    {
+      "id": "evolutions-88",
+      "name": "Switch",
+      "number": "88",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/88.jpg"
+    },
+    {
+      "id": "evolutions-89",
+      "name": "Venusaur Spirit Link",
+      "number": "89",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Spirit Link"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/89.jpg"
+    },
+    {
+      "id": "evolutions-90",
+      "name": "Double Colorless Energy",
+      "number": "90",
+      "types": [
+        "Colorless"
+      ],
+      "hp": null,
+      "rarity": "Uncommon",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/90.jpg"
+    },
+    {
+      "id": "evolutions-91",
+      "name": "Grass Energy",
+      "number": "91",
+      "types": [
+        "Grass"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/91.jpg"
+    },
+    {
+      "id": "evolutions-92",
+      "name": "Fire Energy",
+      "number": "92",
+      "types": [
+        "Fire"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/92.jpg"
+    },
+    {
+      "id": "evolutions-93",
+      "name": "Water Energy",
+      "number": "93",
+      "types": [
+        "Water"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/93.jpg"
+    },
+    {
+      "id": "evolutions-94",
+      "name": "Lightning Energy",
+      "number": "94",
+      "types": [
+        "Lightning"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/94.jpg"
+    },
+    {
+      "id": "evolutions-95",
+      "name": "Psychic Energy",
+      "number": "95",
+      "types": [
+        "Psychic"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/95.jpg"
+    },
+    {
+      "id": "evolutions-96",
+      "name": "Fighting Energy",
+      "number": "96",
+      "types": [
+        "Fighting"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/96.jpg"
+    },
+    {
+      "id": "evolutions-97",
+      "name": "Darkness Energy",
+      "number": "97",
+      "types": [
+        "Darkness"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/97.jpg"
+    },
+    {
+      "id": "evolutions-98",
+      "name": "Metal Energy",
+      "number": "98",
+      "types": [
+        "Metal"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/98.jpg"
+    },
+    {
+      "id": "evolutions-99",
+      "name": "Fairy Energy",
+      "number": "99",
+      "types": [
+        "Fairy"
+      ],
+      "hp": null,
+      "rarity": "Common",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/99.jpg"
+    },
+    {
+      "id": "evolutions-100",
+      "name": "MegaVenusaurEX",
+      "number": "100",
+      "types": [
+        "Grass"
+      ],
+      "hp": 230,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/100.jpg"
+    },
+    {
+      "id": "evolutions-101",
+      "name": "MegaCharizardEX",
+      "number": "101",
+      "types": [
+        "Fire"
+      ],
+      "hp": 230,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/101.jpg"
+    },
+    {
+      "id": "evolutions-102",
+      "name": "MegaBlastoiseEX",
+      "number": "102",
+      "types": [
+        "Water"
+      ],
+      "hp": 220,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/102.jpg"
+    },
+    {
+      "id": "evolutions-103",
+      "name": "MewtwoEX",
+      "number": "103",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/103.jpg"
+    },
+    {
+      "id": "evolutions-104",
+      "name": "PidgeotEX",
+      "number": "104",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 170,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/104.jpg"
+    },
+    {
+      "id": "evolutions-105",
+      "name": "MegaPidgeotEX",
+      "number": "105",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 220,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX",
+        "Mega"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/105.jpg"
+    },
+    {
+      "id": "evolutions-106",
+      "name": "DragoniteEX",
+      "number": "106",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "EX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/106.jpg"
+    },
+    {
+      "id": "evolutions-107",
+      "name": "Brock's Grit",
+      "number": "107",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/107.jpg"
+    },
+    {
+      "id": "evolutions-108",
+      "name": "Misty's Determination",
+      "number": "108",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Ultra",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/108.jpg"
+    },
+    {
+      "id": "evolutions-109",
+      "name": "Exeggutor",
+      "number": "109",
+      "types": [
+        "Grass"
+      ],
+      "hp": 160,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/evolutions/109.jpg"
+    },
+    {
+      "id": "evolutions-110",
+      "name": "Flying Pikachu",
+      "number": "110",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Special Pikachu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/110.jpg"
+    },
+    {
+      "id": "evolutions-111",
+      "name": "Surfing Pikachu",
+      "number": "111",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Special Pikachu"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/111.jpg"
+    },
+    {
+      "id": "evolutions-112",
+      "name": "Imakuni?'s Doduo",
+      "number": "112",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Imakuni"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/112.jpg"
+    },
+    {
+      "id": "evolutions-113",
+      "name": "Here Comes Team Rocket!",
+      "number": "113",
+      "types": [
+        "Trainer"
+      ],
+      "hp": null,
+      "rarity": "Rare Secret",
+      "artist": "Unknown",
+      "set": {
+        "id": "evolutions",
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016-11-02",
+        "totalCards": 113
+      },
+      "keywords": [
+        "Team Rocket"
+      ],
+      "imageUrl": "https://www.serebii.net/card/evolutions/113.jpg"
+    }
+  ]
+}

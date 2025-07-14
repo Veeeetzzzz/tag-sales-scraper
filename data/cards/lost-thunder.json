@@ -1,0 +1,3772 @@
+{
+  "set": {
+    "id": "lost-thunder",
+    "name": "Lost Thunder",
+    "series": "Sun & Moon",
+    "releaseDate": "2018-11-02",
+    "totalCards": 236,
+    "mainSetCards": 214,
+    "symbolUrl": "https://www.serebii.net/card/symbols/lostthunder.png",
+    "logoUrl": "https://www.serebii.net/card/lostthunder/logo.png"
+  },
+  "cards": [
+    {
+      "id": "lost-thunder-1",
+      "name": "Tangela",
+      "number": 1,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/1.jpg"
+    },
+    {
+      "id": "lost-thunder-2",
+      "name": "Tangrowth",
+      "number": 2,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 130,
+      "keywords": [
+        "Kanto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/2.jpg"
+    },
+    {
+      "id": "lost-thunder-3",
+      "name": "Scyther",
+      "number": 3,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kanto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/3.jpg"
+    },
+    {
+      "id": "lost-thunder-4",
+      "name": "Pinsir",
+      "number": 4,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/4.jpg"
+    },
+    {
+      "id": "lost-thunder-5",
+      "name": "Chikorita",
+      "number": 5,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/5.jpg"
+    },
+    {
+      "id": "lost-thunder-6",
+      "name": "Chikorita",
+      "number": 6,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/6.jpg"
+    },
+    {
+      "id": "lost-thunder-7",
+      "name": "Bayleef",
+      "number": 7,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/7.jpg"
+    },
+    {
+      "id": "lost-thunder-8",
+      "name": "Meganium",
+      "number": 8,
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/8.jpg"
+    },
+    {
+      "id": "lost-thunder-9",
+      "name": "Spinarak",
+      "number": 9,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/9.jpg"
+    },
+    {
+      "id": "lost-thunder-10",
+      "name": "Ariados",
+      "number": 10,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/10.jpg"
+    },
+    {
+      "id": "lost-thunder-11",
+      "name": "Hoppip",
+      "number": 11,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/11.jpg"
+    },
+    {
+      "id": "lost-thunder-12",
+      "name": "Hoppip",
+      "number": 12,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/12.jpg"
+    },
+    {
+      "id": "lost-thunder-13",
+      "name": "Skiploom",
+      "number": 13,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 60,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/13.jpg"
+    },
+    {
+      "id": "lost-thunder-14",
+      "name": "Jumpluff",
+      "number": 14,
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 80,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/14.jpg"
+    },
+    {
+      "id": "lost-thunder-15",
+      "name": "Pineco",
+      "number": 15,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/15.jpg"
+    },
+    {
+      "id": "lost-thunder-16",
+      "name": "Shuckle",
+      "number": 16,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/16.jpg"
+    },
+    {
+      "id": "lost-thunder-17",
+      "name": "Shuckle-GX",
+      "number": 17,
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/17.jpg"
+    },
+    {
+      "id": "lost-thunder-18",
+      "name": "Heracross",
+      "number": 18,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/18.jpg"
+    },
+    {
+      "id": "lost-thunder-19",
+      "name": "Celebi Prism Star",
+      "number": 19,
+      "type": "Grass",
+      "rarity": "Rare Prism",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Prism Star",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/19.jpg"
+    },
+    {
+      "id": "lost-thunder-20",
+      "name": "Treecko",
+      "number": 20,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Hoenn",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/20.jpg"
+    },
+    {
+      "id": "lost-thunder-21",
+      "name": "Grovyle",
+      "number": 21,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Hoenn",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/21.jpg"
+    },
+    {
+      "id": "lost-thunder-22",
+      "name": "Sceptile-GX",
+      "number": 22,
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Starter",
+        "Hoenn",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/22.jpg"
+    },
+    {
+      "id": "lost-thunder-23",
+      "name": "Wurmple",
+      "number": 23,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Hoenn",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/23.jpg"
+    },
+    {
+      "id": "lost-thunder-24",
+      "name": "Wurmple",
+      "number": 24,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Hoenn",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/24.jpg"
+    },
+    {
+      "id": "lost-thunder-25",
+      "name": "Silcoon",
+      "number": 25,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 70,
+      "keywords": [
+        "Hoenn",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/25.jpg"
+    },
+    {
+      "id": "lost-thunder-26",
+      "name": "Beautifly",
+      "number": 26,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Hoenn",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/26.jpg"
+    },
+    {
+      "id": "lost-thunder-27",
+      "name": "Cascoon",
+      "number": 27,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 70,
+      "keywords": [
+        "Hoenn",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/27.jpg"
+    },
+    {
+      "id": "lost-thunder-28",
+      "name": "Dustox",
+      "number": 28,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Hoenn",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/28.jpg"
+    },
+    {
+      "id": "lost-thunder-29",
+      "name": "Nincada",
+      "number": 29,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [
+        "Hoenn",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/29.jpg"
+    },
+    {
+      "id": "lost-thunder-30",
+      "name": "Ninjask",
+      "number": 30,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 60,
+      "keywords": [
+        "Hoenn",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/30.jpg"
+    },
+    {
+      "id": "lost-thunder-31",
+      "name": "Combee",
+      "number": 31,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [
+        "Sinnoh",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/31.jpg"
+    },
+    {
+      "id": "lost-thunder-32",
+      "name": "Vespiquen",
+      "number": 32,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Sinnoh",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/32.jpg"
+    },
+    {
+      "id": "lost-thunder-33",
+      "name": "Shaymin",
+      "number": 33,
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/33.jpg"
+    },
+    {
+      "id": "lost-thunder-34",
+      "name": "Virizion-GX",
+      "number": 34,
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/34.jpg"
+    },
+    {
+      "id": "lost-thunder-35",
+      "name": "Skiddo",
+      "number": 35,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/35.jpg"
+    },
+    {
+      "id": "lost-thunder-36",
+      "name": "Gogoat",
+      "number": 36,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Kalos",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/36.jpg"
+    },
+    {
+      "id": "lost-thunder-37",
+      "name": "Tapu Bulu",
+      "number": 37,
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 180,
+      "keywords": [
+        "Legendary",
+        "Tapu Guardian"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/37.jpg"
+    },
+    {
+      "id": "lost-thunder-38",
+      "name": "Moltres",
+      "number": 38,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/38.jpg"
+    },
+    {
+      "id": "lost-thunder-39",
+      "name": "Cyndaquil",
+      "number": 39,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/39.jpg"
+    },
+    {
+      "id": "lost-thunder-40",
+      "name": "Cyndaquil",
+      "number": 40,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/40.jpg"
+    },
+    {
+      "id": "lost-thunder-41",
+      "name": "Quilava",
+      "number": 41,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/41.jpg"
+    },
+    {
+      "id": "lost-thunder-42",
+      "name": "Typhlosion",
+      "number": 42,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Starter",
+        "Johto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/42.jpg"
+    },
+    {
+      "id": "lost-thunder-43",
+      "name": "Slugma",
+      "number": 43,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Johto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/43.jpg"
+    },
+    {
+      "id": "lost-thunder-44",
+      "name": "Magcargo-GX",
+      "number": 44,
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/44.jpg"
+    },
+    {
+      "id": "lost-thunder-45",
+      "name": "Houndour",
+      "number": 45,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/45.jpg"
+    },
+    {
+      "id": "lost-thunder-46",
+      "name": "Houndoom",
+      "number": 46,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Johto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/46.jpg"
+    },
+    {
+      "id": "lost-thunder-47",
+      "name": "Entei",
+      "number": 47,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Legendary",
+        "Legendary Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/47.jpg"
+    },
+    {
+      "id": "lost-thunder-48",
+      "name": "Heatran",
+      "number": 48,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/48.jpg"
+    },
+    {
+      "id": "lost-thunder-49",
+      "name": "Victini",
+      "number": 49,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/49.jpg"
+    },
+    {
+      "id": "lost-thunder-50",
+      "name": "Litleo",
+      "number": 50,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/50.jpg"
+    },
+    {
+      "id": "lost-thunder-51",
+      "name": "Pyroar",
+      "number": 51,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Kalos",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/51.jpg"
+    },
+    {
+      "id": "lost-thunder-52",
+      "name": "Blacephalon-GX",
+      "number": 52,
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 180,
+      "keywords": [
+        "GX",
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/52.jpg"
+    },
+    {
+      "id": "lost-thunder-53",
+      "name": "Alolan Vulpix",
+      "number": 53,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/53.jpg"
+    },
+    {
+      "id": "lost-thunder-54",
+      "name": "Slowpoke",
+      "number": 54,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/54.jpg"
+    },
+    {
+      "id": "lost-thunder-55",
+      "name": "Slowking",
+      "number": 55,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/55.jpg"
+    },
+    {
+      "id": "lost-thunder-56",
+      "name": "Lapras",
+      "number": 56,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/56.jpg"
+    },
+    {
+      "id": "lost-thunder-57",
+      "name": "Delibird",
+      "number": 57,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/57.jpg"
+    },
+    {
+      "id": "lost-thunder-58",
+      "name": "Mantine",
+      "number": 58,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/58.jpg"
+    },
+    {
+      "id": "lost-thunder-59",
+      "name": "Suicune",
+      "number": 59,
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Legendary",
+        "Legendary Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/59.jpg"
+    },
+    {
+      "id": "lost-thunder-60",
+      "name": "Suicune-GX",
+      "number": 60,
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Legendary Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/60.jpg"
+    },
+    {
+      "id": "lost-thunder-61",
+      "name": "Cubchoo",
+      "number": 61,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/61.jpg"
+    },
+    {
+      "id": "lost-thunder-62",
+      "name": "Beartic",
+      "number": 62,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 130,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/62.jpg"
+    },
+    {
+      "id": "lost-thunder-63",
+      "name": "White Kyurem",
+      "number": 63,
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/63.jpg"
+    },
+    {
+      "id": "lost-thunder-64",
+      "name": "Popplio",
+      "number": 64,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Alola",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/64.jpg"
+    },
+    {
+      "id": "lost-thunder-65",
+      "name": "Popplio",
+      "number": 65,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Alola",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/65.jpg"
+    },
+    {
+      "id": "lost-thunder-66",
+      "name": "Brionne",
+      "number": 66,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Alola",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/66.jpg"
+    },
+    {
+      "id": "lost-thunder-67",
+      "name": "Primarina",
+      "number": 67,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Starter",
+        "Alola",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/67.jpg"
+    },
+    {
+      "id": "lost-thunder-68",
+      "name": "Mareanie",
+      "number": 68,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alola",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/68.jpg"
+    },
+    {
+      "id": "lost-thunder-69",
+      "name": "Toxapex",
+      "number": 69,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Alola",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/69.jpg"
+    },
+    {
+      "id": "lost-thunder-70",
+      "name": "Bruxish",
+      "number": 70,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Alola",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/70.jpg"
+    },
+    {
+      "id": "lost-thunder-71",
+      "name": "Electabuzz",
+      "number": 71,
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kanto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/71.jpg"
+    },
+    {
+      "id": "lost-thunder-72",
+      "name": "Electivire",
+      "number": 72,
+      "type": "Lightning",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 110,
+      "keywords": [
+        "Kanto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/72.jpg"
+    },
+    {
+      "id": "lost-thunder-73",
+      "name": "Chinchou",
+      "number": 73,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/73.jpg"
+    },
+    {
+      "id": "lost-thunder-74",
+      "name": "Lanturn",
+      "number": 74,
+      "type": "Lightning",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/74.jpg"
+    },
+    {
+      "id": "lost-thunder-75",
+      "name": "Mareep",
+      "number": 75,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/75.jpg"
+    },
+    {
+      "id": "lost-thunder-76",
+      "name": "Mareep",
+      "number": 76,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/76.jpg"
+    },
+    {
+      "id": "lost-thunder-77",
+      "name": "Flaaffy",
+      "number": 77,
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/77.jpg"
+    },
+    {
+      "id": "lost-thunder-78",
+      "name": "Ampharos",
+      "number": 78,
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 130,
+      "keywords": [
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/78.jpg"
+    },
+    {
+      "id": "lost-thunder-79",
+      "name": "Raikou",
+      "number": 79,
+      "type": "Lightning",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Legendary",
+        "Legendary Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/79.jpg"
+    },
+    {
+      "id": "lost-thunder-80",
+      "name": "Pachirisu",
+      "number": 80,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Sinnoh",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/80.jpg"
+    },
+    {
+      "id": "lost-thunder-81",
+      "name": "Blitzle",
+      "number": 81,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Unova",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/81.jpg"
+    },
+    {
+      "id": "lost-thunder-82",
+      "name": "Zebstrika",
+      "number": 82,
+      "type": "Lightning",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Unova",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/82.jpg"
+    },
+    {
+      "id": "lost-thunder-83",
+      "name": "Stunfisk",
+      "number": 83,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Unova",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/83.jpg"
+    },
+    {
+      "id": "lost-thunder-84",
+      "name": "Dedenne",
+      "number": 84,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/84.jpg"
+    },
+    {
+      "id": "lost-thunder-85",
+      "name": "Tapu Koko",
+      "number": 85,
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 180,
+      "keywords": [
+        "Legendary",
+        "Tapu Guardian"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/85.jpg"
+    },
+    {
+      "id": "lost-thunder-86",
+      "name": "Zeraora-GX",
+      "number": 86,
+      "type": "Lightning",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/86.jpg"
+    },
+    {
+      "id": "lost-thunder-87",
+      "name": "Natu",
+      "number": 87,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/87.jpg"
+    },
+    {
+      "id": "lost-thunder-88",
+      "name": "Xatu",
+      "number": 88,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/88.jpg"
+    },
+    {
+      "id": "lost-thunder-89",
+      "name": "Espeon",
+      "number": 89,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/89.jpg"
+    },
+    {
+      "id": "lost-thunder-90",
+      "name": "Unown",
+      "number": 90,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/90.jpg"
+    },
+    {
+      "id": "lost-thunder-91",
+      "name": "Unown",
+      "number": 91,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/91.jpg"
+    },
+    {
+      "id": "lost-thunder-92",
+      "name": "Unown",
+      "number": 92,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/92.jpg"
+    },
+    {
+      "id": "lost-thunder-93",
+      "name": "Wobbuffet",
+      "number": 93,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/93.jpg"
+    },
+    {
+      "id": "lost-thunder-94",
+      "name": "Girafarig",
+      "number": 94,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/94.jpg"
+    },
+    {
+      "id": "lost-thunder-95",
+      "name": "Shedinja",
+      "number": 95,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/95.jpg"
+    },
+    {
+      "id": "lost-thunder-96",
+      "name": "Sableye",
+      "number": 96,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/96.jpg"
+    },
+    {
+      "id": "lost-thunder-97",
+      "name": "Giratina",
+      "number": 97,
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/97.jpg"
+    },
+    {
+      "id": "lost-thunder-98",
+      "name": "Sigilyph-GX",
+      "number": 98,
+      "type": "Psychic",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/98.jpg"
+    },
+    {
+      "id": "lost-thunder-99",
+      "name": "Yamask",
+      "number": 99,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/99.jpg"
+    },
+    {
+      "id": "lost-thunder-100",
+      "name": "Cofagrigus",
+      "number": 100,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/100.jpg"
+    },
+    {
+      "id": "lost-thunder-101",
+      "name": "Litwick",
+      "number": 101,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/101.jpg"
+    },
+    {
+      "id": "lost-thunder-102",
+      "name": "Lampent",
+      "number": 102,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/102.jpg"
+    },
+    {
+      "id": "lost-thunder-103",
+      "name": "Chandelure",
+      "number": 103,
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 130,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/103.jpg"
+    },
+    {
+      "id": "lost-thunder-104",
+      "name": "Meloetta",
+      "number": 104,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/104.jpg"
+    },
+    {
+      "id": "lost-thunder-105",
+      "name": "Mareanie",
+      "number": 105,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alola",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/105.jpg"
+    },
+    {
+      "id": "lost-thunder-106",
+      "name": "Nihilego",
+      "number": 106,
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 170,
+      "keywords": [
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/106.jpg"
+    },
+    {
+      "id": "lost-thunder-107",
+      "name": "Poipole",
+      "number": 107,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/107.jpg"
+    },
+    {
+      "id": "lost-thunder-108",
+      "name": "Naganadel",
+      "number": 108,
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 150,
+      "keywords": [
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/108.jpg"
+    },
+    {
+      "id": "lost-thunder-109",
+      "name": "Onix",
+      "number": 109,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/109.jpg"
+    },
+    {
+      "id": "lost-thunder-110",
+      "name": "Sudowoodo",
+      "number": 110,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/110.jpg"
+    },
+    {
+      "id": "lost-thunder-111",
+      "name": "Phanpy",
+      "number": 111,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/111.jpg"
+    },
+    {
+      "id": "lost-thunder-112",
+      "name": "Donphan",
+      "number": 112,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/112.jpg"
+    },
+    {
+      "id": "lost-thunder-113",
+      "name": "Hitmontop",
+      "number": 113,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/113.jpg"
+    },
+    {
+      "id": "lost-thunder-114",
+      "name": "Larvitar",
+      "number": 114,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/114.jpg"
+    },
+    {
+      "id": "lost-thunder-115",
+      "name": "Larvitar",
+      "number": 115,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/115.jpg"
+    },
+    {
+      "id": "lost-thunder-116",
+      "name": "Pupitar",
+      "number": 116,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/116.jpg"
+    },
+    {
+      "id": "lost-thunder-117",
+      "name": "Carbink",
+      "number": 117,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/117.jpg"
+    },
+    {
+      "id": "lost-thunder-118",
+      "name": "Alolan Meowth",
+      "number": 118,
+      "type": "Darkness",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/118.jpg"
+    },
+    {
+      "id": "lost-thunder-119",
+      "name": "Alolan Persian",
+      "number": 119,
+      "type": "Darkness",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/119.jpg"
+    },
+    {
+      "id": "lost-thunder-120",
+      "name": "Umbreon",
+      "number": 120,
+      "type": "Darkness",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/120.jpg"
+    },
+    {
+      "id": "lost-thunder-121",
+      "name": "Tyranitar-GX",
+      "number": 121,
+      "type": "Darkness",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 250,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/121.jpg"
+    },
+    {
+      "id": "lost-thunder-122",
+      "name": "Alolan Diglett",
+      "number": 122,
+      "type": "Metal",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/122.jpg"
+    },
+    {
+      "id": "lost-thunder-123",
+      "name": "Alolan Dugtrio",
+      "number": 123,
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/123.jpg"
+    },
+    {
+      "id": "lost-thunder-124",
+      "name": "Forretress",
+      "number": 124,
+      "type": "Metal",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/124.jpg"
+    },
+    {
+      "id": "lost-thunder-125",
+      "name": "Steelix",
+      "number": 125,
+      "type": "Metal",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/125.jpg"
+    },
+    {
+      "id": "lost-thunder-126",
+      "name": "Scizor",
+      "number": 126,
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/126.jpg"
+    },
+    {
+      "id": "lost-thunder-127",
+      "name": "Dialga",
+      "number": 127,
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/127.jpg"
+    },
+    {
+      "id": "lost-thunder-128",
+      "name": "Durant",
+      "number": 128,
+      "type": "Metal",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/128.jpg"
+    },
+    {
+      "id": "lost-thunder-129",
+      "name": "Cobalion",
+      "number": 129,
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/129.jpg"
+    },
+    {
+      "id": "lost-thunder-130",
+      "name": "Genesect-GX",
+      "number": 130,
+      "type": "Metal",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/130.jpg"
+    },
+    {
+      "id": "lost-thunder-131",
+      "name": "Magearna",
+      "number": 131,
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/131.jpg"
+    },
+    {
+      "id": "lost-thunder-132",
+      "name": "Alolan Ninetales-GX",
+      "number": 132,
+      "type": "Fairy",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/132.jpg"
+    },
+    {
+      "id": "lost-thunder-133",
+      "name": "Jigglypuff",
+      "number": 133,
+      "type": "Fairy",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/133.jpg"
+    },
+    {
+      "id": "lost-thunder-134",
+      "name": "Wigglytuff",
+      "number": 134,
+      "type": "Fairy",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/134.jpg"
+    },
+    {
+      "id": "lost-thunder-135",
+      "name": "Marill",
+      "number": 135,
+      "type": "Fairy",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/135.jpg"
+    },
+    {
+      "id": "lost-thunder-136",
+      "name": "Azumarill",
+      "number": 136,
+      "type": "Fairy",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/136.jpg"
+    },
+    {
+      "id": "lost-thunder-137",
+      "name": "Snubbull",
+      "number": 137,
+      "type": "Fairy",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/137.jpg"
+    },
+    {
+      "id": "lost-thunder-138",
+      "name": "Granbull",
+      "number": 138,
+      "type": "Fairy",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/138.jpg"
+    },
+    {
+      "id": "lost-thunder-139",
+      "name": "Ralts",
+      "number": 139,
+      "type": "Fairy",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Hoenn",
+        "Psychic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/139.jpg"
+    },
+    {
+      "id": "lost-thunder-140",
+      "name": "Kirlia",
+      "number": 140,
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 70,
+      "keywords": [
+        "Hoenn",
+        "Psychic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/140.jpg"
+    },
+    {
+      "id": "lost-thunder-141",
+      "name": "Gardevoir",
+      "number": 141,
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 130,
+      "keywords": [
+        "Hoenn",
+        "Psychic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/141.jpg"
+    },
+    {
+      "id": "lost-thunder-142",
+      "name": "Dedenne",
+      "number": 142,
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/142.jpg"
+    },
+    {
+      "id": "lost-thunder-143",
+      "name": "Carbink",
+      "number": 143,
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/143.jpg"
+    },
+    {
+      "id": "lost-thunder-144",
+      "name": "Xerneas Prism Star",
+      "number": 144,
+      "type": "Fairy",
+      "rarity": "Rare Prism",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 160,
+      "keywords": [
+        "Prism Star",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/144.jpg"
+    },
+    {
+      "id": "lost-thunder-145",
+      "name": "Cutiefly",
+      "number": 145,
+      "type": "Fairy",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [
+        "Alola",
+        "Fairy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/145.jpg"
+    },
+    {
+      "id": "lost-thunder-146",
+      "name": "Ribombee",
+      "number": 146,
+      "type": "Fairy",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 70,
+      "keywords": [
+        "Alola",
+        "Fairy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/146.jpg"
+    },
+    {
+      "id": "lost-thunder-147",
+      "name": "Morelull",
+      "number": 147,
+      "type": "Fairy",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Alola",
+        "Fairy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/147.jpg"
+    },
+    {
+      "id": "lost-thunder-148",
+      "name": "Shiinotic",
+      "number": 148,
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Alola",
+        "Fairy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/148.jpg"
+    },
+    {
+      "id": "lost-thunder-149",
+      "name": "Mimikyu-GX",
+      "number": 149,
+      "type": "Fairy",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/149.jpg"
+    },
+    {
+      "id": "lost-thunder-150",
+      "name": "Tapu Lele",
+      "number": 150,
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 180,
+      "keywords": [
+        "Legendary",
+        "Tapu Guardian"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/150.jpg"
+    },
+    {
+      "id": "lost-thunder-151",
+      "name": "Tapu Fini",
+      "number": 151,
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 180,
+      "keywords": [
+        "Legendary",
+        "Tapu Guardian"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/151.jpg"
+    },
+    {
+      "id": "lost-thunder-152",
+      "name": "Chansey",
+      "number": 152,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/152.jpg"
+    },
+    {
+      "id": "lost-thunder-153",
+      "name": "Blissey",
+      "number": 153,
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/153.jpg"
+    },
+    {
+      "id": "lost-thunder-154",
+      "name": "Ditto Prism Star",
+      "number": 154,
+      "type": "Colorless",
+      "rarity": "Rare Prism",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/154.jpg"
+    },
+    {
+      "id": "lost-thunder-155",
+      "name": "Eevee",
+      "number": 155,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/155.jpg"
+    },
+    {
+      "id": "lost-thunder-156",
+      "name": "Stantler",
+      "number": 156,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/156.jpg"
+    },
+    {
+      "id": "lost-thunder-157",
+      "name": "Smeargle",
+      "number": 157,
+      "type": "Colorless",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/157.jpg"
+    },
+    {
+      "id": "lost-thunder-158",
+      "name": "Miltank",
+      "number": 158,
+      "type": "Colorless",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/158.jpg"
+    },
+    {
+      "id": "lost-thunder-159",
+      "name": "Lugia-GX",
+      "number": 159,
+      "type": "Colorless",
+      "rarity": "Ultra-Rare Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/159.jpg"
+    },
+    {
+      "id": "lost-thunder-160",
+      "name": "Ho-Oh",
+      "number": 160,
+      "type": "Colorless",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/160.jpg"
+    },
+    {
+      "id": "lost-thunder-161",
+      "name": "Kecleon",
+      "number": 161,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/161.jpg"
+    },
+    {
+      "id": "lost-thunder-162",
+      "name": "Kecleon",
+      "number": 162,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/162.jpg"
+    },
+    {
+      "id": "lost-thunder-163",
+      "name": "Pikipek",
+      "number": 163,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alola",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/163.jpg"
+    },
+    {
+      "id": "lost-thunder-164",
+      "name": "Pikipek",
+      "number": 164,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alola",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/164.jpg"
+    },
+    {
+      "id": "lost-thunder-165",
+      "name": "Trumbeak",
+      "number": 165,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Alola",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/165.jpg"
+    },
+    {
+      "id": "lost-thunder-166",
+      "name": "Toucannon",
+      "number": 166,
+      "type": "Colorless",
+      "rarity": "Rare",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 130,
+      "keywords": [
+        "Alola",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/166.jpg"
+    },
+    {
+      "id": "lost-thunder-167",
+      "name": "Adventure Bag",
+      "number": 167,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/167.jpg"
+    },
+    {
+      "id": "lost-thunder-168",
+      "name": "Aether Foundation Employee",
+      "number": 168,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/168.jpg"
+    },
+    {
+      "id": "lost-thunder-169",
+      "name": "Choice Helmet",
+      "number": 169,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/169.jpg"
+    },
+    {
+      "id": "lost-thunder-170",
+      "name": "Counter Gain",
+      "number": 170,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/170.jpg"
+    },
+    {
+      "id": "lost-thunder-171",
+      "name": "Custom Catcher",
+      "number": 171,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/171.jpg"
+    },
+    {
+      "id": "lost-thunder-172",
+      "name": "Electropower",
+      "number": 172,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/172.jpg"
+    },
+    {
+      "id": "lost-thunder-173",
+      "name": "Faba",
+      "number": 173,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/173.jpg"
+    },
+    {
+      "id": "lost-thunder-174",
+      "name": "Fairy Charm Grass",
+      "number": 174,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/174.jpg"
+    },
+    {
+      "id": "lost-thunder-175",
+      "name": "Fairy Charm Psychic",
+      "number": 175,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/175.jpg"
+    },
+    {
+      "id": "lost-thunder-176",
+      "name": "Fairy Charm Fighting",
+      "number": 176,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/176.jpg"
+    },
+    {
+      "id": "lost-thunder-177",
+      "name": "Fairy Charm Dragon",
+      "number": 177,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/177.jpg"
+    },
+    {
+      "id": "lost-thunder-178",
+      "name": "Heat Factory Prism Star",
+      "number": 178,
+      "type": "Trainer",
+      "rarity": "Rare Prism",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/178.jpg"
+    },
+    {
+      "id": "lost-thunder-179",
+      "name": "Kahili",
+      "number": 179,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/179.jpg"
+    },
+    {
+      "id": "lost-thunder-180",
+      "name": "Life Forest Prism Star",
+      "number": 180,
+      "type": "Trainer",
+      "rarity": "Rare Prism",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/180.jpg"
+    },
+    {
+      "id": "lost-thunder-181",
+      "name": "Lost Blender",
+      "number": 181,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/181.jpg"
+    },
+    {
+      "id": "lost-thunder-182",
+      "name": "Lusamine Prism Star",
+      "number": 182,
+      "type": "Trainer",
+      "rarity": "Rare Prism",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/182.jpg"
+    },
+    {
+      "id": "lost-thunder-183",
+      "name": "Mina",
+      "number": 183,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/183.jpg"
+    },
+    {
+      "id": "lost-thunder-184",
+      "name": "Mixed Herbs",
+      "number": 184,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/184.jpg"
+    },
+    {
+      "id": "lost-thunder-185",
+      "name": "Moomoo Milk",
+      "number": 185,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/185.jpg"
+    },
+    {
+      "id": "lost-thunder-186",
+      "name": "Morty",
+      "number": 186,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/186.jpg"
+    },
+    {
+      "id": "lost-thunder-187",
+      "name": "Net Ball",
+      "number": 187,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/187.jpg"
+    },
+    {
+      "id": "lost-thunder-188",
+      "name": "Professor Elm's Lecture",
+      "number": 188,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/188.jpg"
+    },
+    {
+      "id": "lost-thunder-189",
+      "name": "Sightseer",
+      "number": 189,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/189.jpg"
+    },
+    {
+      "id": "lost-thunder-190",
+      "name": "Spell Tag",
+      "number": 190,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/190.jpg"
+    },
+    {
+      "id": "lost-thunder-191",
+      "name": "Thunder Mountain Prism Star",
+      "number": 191,
+      "type": "Trainer",
+      "rarity": "Rare Prism",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/191.jpg"
+    },
+    {
+      "id": "lost-thunder-192",
+      "name": "Wait and See Hammer",
+      "number": 192,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/192.jpg"
+    },
+    {
+      "id": "lost-thunder-193",
+      "name": "Whitney",
+      "number": 193,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/193.jpg"
+    },
+    {
+      "id": "lost-thunder-194",
+      "name": "Memory Energy",
+      "number": 194,
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "special",
+      "hp": null,
+      "keywords": [
+        "Memory Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/194.jpg"
+    },
+    {
+      "id": "lost-thunder-195",
+      "name": "Shuckle-GX",
+      "number": 195,
+      "type": "Grass",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/195.jpg"
+    },
+    {
+      "id": "lost-thunder-196",
+      "name": "Sceptile-GX",
+      "number": 196,
+      "type": "Grass",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Starter",
+        "Hoenn",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/196.jpg"
+    },
+    {
+      "id": "lost-thunder-197",
+      "name": "Virizion-GX",
+      "number": 197,
+      "type": "Grass",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/197.jpg"
+    },
+    {
+      "id": "lost-thunder-198",
+      "name": "Magcargo-GX",
+      "number": 198,
+      "type": "Fire",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/198.jpg"
+    },
+    {
+      "id": "lost-thunder-199",
+      "name": "Blacephalon-GX",
+      "number": 199,
+      "type": "Fire",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 180,
+      "keywords": [
+        "GX",
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/199.jpg"
+    },
+    {
+      "id": "lost-thunder-200",
+      "name": "Suicune-GX",
+      "number": 200,
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Legendary Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/200.jpg"
+    },
+    {
+      "id": "lost-thunder-201",
+      "name": "Zeraora-GX",
+      "number": 201,
+      "type": "Lightning",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/201.jpg"
+    },
+    {
+      "id": "lost-thunder-202",
+      "name": "Sigilyph-GX",
+      "number": 202,
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/202.jpg"
+    },
+    {
+      "id": "lost-thunder-203",
+      "name": "Tyranitar-GX",
+      "number": 203,
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 250,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/203.jpg"
+    },
+    {
+      "id": "lost-thunder-204",
+      "name": "Genesect-GX",
+      "number": 204,
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/204.jpg"
+    },
+    {
+      "id": "lost-thunder-205",
+      "name": "Alolan Ninetales-GX",
+      "number": 205,
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/205.jpg"
+    },
+    {
+      "id": "lost-thunder-206",
+      "name": "Mimikyu-GX",
+      "number": 206,
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/206.jpg"
+    },
+    {
+      "id": "lost-thunder-207",
+      "name": "Lugia-GX",
+      "number": 207,
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/207.jpg"
+    },
+    {
+      "id": "lost-thunder-208",
+      "name": "Faba",
+      "number": 208,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/208.jpg"
+    },
+    {
+      "id": "lost-thunder-209",
+      "name": "Judge",
+      "number": 209,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/209.jpg"
+    },
+    {
+      "id": "lost-thunder-210",
+      "name": "Kahili",
+      "number": 210,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/210.jpg"
+    },
+    {
+      "id": "lost-thunder-211",
+      "name": "Mina",
+      "number": 211,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/211.jpg"
+    },
+    {
+      "id": "lost-thunder-212",
+      "name": "Morty",
+      "number": 212,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/212.jpg"
+    },
+    {
+      "id": "lost-thunder-213",
+      "name": "Professor Elm's Lecture",
+      "number": 213,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/213.jpg"
+    },
+    {
+      "id": "lost-thunder-214",
+      "name": "Whitney",
+      "number": 214,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/214.jpg"
+    },
+    {
+      "id": "lost-thunder-215",
+      "name": "Shuckle-GX",
+      "number": 215,
+      "type": "Grass",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/215.jpg"
+    },
+    {
+      "id": "lost-thunder-216",
+      "name": "Sceptile-GX",
+      "number": 216,
+      "type": "Grass",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Starter",
+        "Hoenn",
+        "Grass Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/216.jpg"
+    },
+    {
+      "id": "lost-thunder-217",
+      "name": "Virizion-GX",
+      "number": 217,
+      "type": "Grass",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/217.jpg"
+    },
+    {
+      "id": "lost-thunder-218",
+      "name": "Magcargo-GX",
+      "number": 218,
+      "type": "Fire",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/218.jpg"
+    },
+    {
+      "id": "lost-thunder-219",
+      "name": "Blacephalon-GX",
+      "number": 219,
+      "type": "Fire",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 180,
+      "keywords": [
+        "GX",
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/219.jpg"
+    },
+    {
+      "id": "lost-thunder-220",
+      "name": "Suicune-GX",
+      "number": 220,
+      "type": "Water",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Legendary Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/220.jpg"
+    },
+    {
+      "id": "lost-thunder-221",
+      "name": "Zeraora-GX",
+      "number": 221,
+      "type": "Lightning",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/221.jpg"
+    },
+    {
+      "id": "lost-thunder-222",
+      "name": "Sigilyph-GX",
+      "number": 222,
+      "type": "Psychic",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/222.jpg"
+    },
+    {
+      "id": "lost-thunder-223",
+      "name": "Tyranitar-GX",
+      "number": 223,
+      "type": "Darkness",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 250,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/223.jpg"
+    },
+    {
+      "id": "lost-thunder-224",
+      "name": "Genesect-GX",
+      "number": 224,
+      "type": "Metal",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/224.jpg"
+    },
+    {
+      "id": "lost-thunder-225",
+      "name": "Alolan Ninetales-GX",
+      "number": 225,
+      "type": "Fairy",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/225.jpg"
+    },
+    {
+      "id": "lost-thunder-226",
+      "name": "Mimikyu-GX",
+      "number": 226,
+      "type": "Fairy",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 170,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/226.jpg"
+    },
+    {
+      "id": "lost-thunder-227",
+      "name": "Lugia-GX",
+      "number": 227,
+      "type": "Colorless",
+      "rarity": "Rare Rainbow",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/227.jpg"
+    },
+    {
+      "id": "lost-thunder-228",
+      "name": "Adventure Bag",
+      "number": 228,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/228.jpg"
+    },
+    {
+      "id": "lost-thunder-229",
+      "name": "Choice Helmet",
+      "number": 229,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/229.jpg"
+    },
+    {
+      "id": "lost-thunder-230",
+      "name": "Counter Gain",
+      "number": 230,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/230.jpg"
+    },
+    {
+      "id": "lost-thunder-231",
+      "name": "Custom Catcher",
+      "number": 231,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/231.jpg"
+    },
+    {
+      "id": "lost-thunder-232",
+      "name": "Electropower",
+      "number": 232,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/232.jpg"
+    },
+    {
+      "id": "lost-thunder-233",
+      "name": "Lost Blender",
+      "number": 233,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/233.jpg"
+    },
+    {
+      "id": "lost-thunder-234",
+      "name": "Net Ball",
+      "number": 234,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/234.jpg"
+    },
+    {
+      "id": "lost-thunder-235",
+      "name": "Spell Tag",
+      "number": 235,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/235.jpg"
+    },
+    {
+      "id": "lost-thunder-236",
+      "name": "Wait and See Hammer",
+      "number": 236,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "lost-thunder",
+      "setName": "Lost Thunder",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/lostthunder/236.jpg"
+    }
+  ]
+}

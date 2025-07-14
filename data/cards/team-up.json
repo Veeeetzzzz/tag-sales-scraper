@@ -1,0 +1,3278 @@
+{
+  "set": {
+    "id": "team-up",
+    "name": "Team Up",
+    "series": "Sun & Moon",
+    "releaseDate": "2019-02-01",
+    "totalCards": 196,
+    "mainSetCards": 181,
+    "symbolUrl": "https://www.serebii.net/card/symbols/teamup.png",
+    "logoUrl": "https://www.serebii.net/card/teamup/logo.png"
+  },
+  "cards": [
+    {
+      "id": "team-up-1",
+      "name": "Celebi & Venusaur Tag Team GX",
+      "number": 1,
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 270,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/1.jpg"
+    },
+    {
+      "id": "team-up-2",
+      "name": "Weedle",
+      "number": 2,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kanto",
+        "Bug"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/2.jpg"
+    },
+    {
+      "id": "team-up-3",
+      "name": "Weedle",
+      "number": 3,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kanto",
+        "Bug"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/3.jpg"
+    },
+    {
+      "id": "team-up-4",
+      "name": "Kakuna",
+      "number": 4,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Bug"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/4.jpg"
+    },
+    {
+      "id": "team-up-5",
+      "name": "Beedrill",
+      "number": 5,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 120,
+      "keywords": [
+        "Kanto",
+        "Bug"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/5.jpg"
+    },
+    {
+      "id": "team-up-6",
+      "name": "Paras",
+      "number": 6,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Bug"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/6.jpg"
+    },
+    {
+      "id": "team-up-7",
+      "name": "Parasect",
+      "number": 7,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Bug"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/7.jpg"
+    },
+    {
+      "id": "team-up-8",
+      "name": "Exeggcute",
+      "number": 8,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kanto",
+        "Grass"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/8.jpg"
+    },
+    {
+      "id": "team-up-9",
+      "name": "Pinsir",
+      "number": 9,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Bug"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/9.jpg"
+    },
+    {
+      "id": "team-up-10",
+      "name": "Shaymin Prism Star",
+      "number": 10,
+      "type": "Grass",
+      "rarity": "Rare Prism",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Prism Star",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/10.jpg"
+    },
+    {
+      "id": "team-up-11",
+      "name": "Charmander",
+      "number": 11,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/11.jpg"
+    },
+    {
+      "id": "team-up-12",
+      "name": "Charmander",
+      "number": 12,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/12.jpg"
+    },
+    {
+      "id": "team-up-13",
+      "name": "Charmeleon",
+      "number": 13,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/13.jpg"
+    },
+    {
+      "id": "team-up-14",
+      "name": "Charizard",
+      "number": 14,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/14.jpg"
+    },
+    {
+      "id": "team-up-15",
+      "name": "Vulpix",
+      "number": 15,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kanto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/15.jpg"
+    },
+    {
+      "id": "team-up-16",
+      "name": "Ninetales",
+      "number": 16,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/16.jpg"
+    },
+    {
+      "id": "team-up-17",
+      "name": "Ponyta",
+      "number": 17,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/17.jpg"
+    },
+    {
+      "id": "team-up-18",
+      "name": "Rapidash",
+      "number": 18,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Fire"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/18.jpg"
+    },
+    {
+      "id": "team-up-19",
+      "name": "Moltres",
+      "number": 19,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Legendary",
+        "Legendary Bird"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/19.jpg"
+    },
+    {
+      "id": "team-up-20",
+      "name": "Litten",
+      "number": 20,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Alola",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/20.jpg"
+    },
+    {
+      "id": "team-up-21",
+      "name": "Torracat",
+      "number": 21,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Alola",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/21.jpg"
+    },
+    {
+      "id": "team-up-22",
+      "name": "Squirtle",
+      "number": 22,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/22.jpg"
+    },
+    {
+      "id": "team-up-23",
+      "name": "Squirtle",
+      "number": 23,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/23.jpg"
+    },
+    {
+      "id": "team-up-24",
+      "name": "Wartortle",
+      "number": 24,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/24.jpg"
+    },
+    {
+      "id": "team-up-25",
+      "name": "Blastoise",
+      "number": 25,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Starter",
+        "Kanto",
+        "Water Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/25.jpg"
+    },
+    {
+      "id": "team-up-26",
+      "name": "Psyduck",
+      "number": 26,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/26.jpg"
+    },
+    {
+      "id": "team-up-27",
+      "name": "Golduck",
+      "number": 27,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/27.jpg"
+    },
+    {
+      "id": "team-up-28",
+      "name": "Staryu",
+      "number": 28,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/28.jpg"
+    },
+    {
+      "id": "team-up-29",
+      "name": "Magikarp",
+      "number": 29,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 30,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/29.jpg"
+    },
+    {
+      "id": "team-up-30",
+      "name": "Gyarados",
+      "number": 30,
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 150,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/30.jpg"
+    },
+    {
+      "id": "team-up-31",
+      "name": "Lapras",
+      "number": 31,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/31.jpg"
+    },
+    {
+      "id": "team-up-32",
+      "name": "Articuno",
+      "number": 32,
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Legendary",
+        "Legendary Bird"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/32.jpg"
+    },
+    {
+      "id": "team-up-33",
+      "name": "Pikachu & Zekrom Tag Team GX",
+      "number": 33,
+      "type": "Lightning",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 240,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/33.jpg"
+    },
+    {
+      "id": "team-up-34",
+      "name": "Alolan Geodude",
+      "number": 34,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/34.jpg"
+    },
+    {
+      "id": "team-up-35",
+      "name": "Alolan Geodude",
+      "number": 35,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/35.jpg"
+    },
+    {
+      "id": "team-up-36",
+      "name": "Alolan Graveler",
+      "number": 36,
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/36.jpg"
+    },
+    {
+      "id": "team-up-37",
+      "name": "Alolan Golem",
+      "number": 37,
+      "type": "Lightning",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/37.jpg"
+    },
+    {
+      "id": "team-up-38",
+      "name": "Voltorb",
+      "number": 38,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/38.jpg"
+    },
+    {
+      "id": "team-up-39",
+      "name": "Electrode",
+      "number": 39,
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/39.jpg"
+    },
+    {
+      "id": "team-up-40",
+      "name": "Zapdos",
+      "number": 40,
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Legendary",
+        "Legendary Bird"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/40.jpg"
+    },
+    {
+      "id": "team-up-41",
+      "name": "Mareep",
+      "number": 41,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/41.jpg"
+    },
+    {
+      "id": "team-up-42",
+      "name": "Flaaffy",
+      "number": 42,
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/42.jpg"
+    },
+    {
+      "id": "team-up-43",
+      "name": "Ampharos-GX",
+      "number": 43,
+      "type": "Lightning",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/43.jpg"
+    },
+    {
+      "id": "team-up-44",
+      "name": "Blitzle",
+      "number": 44,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Unova",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/44.jpg"
+    },
+    {
+      "id": "team-up-45",
+      "name": "Zebstrika",
+      "number": 45,
+      "type": "Lightning",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Unova",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/45.jpg"
+    },
+    {
+      "id": "team-up-46",
+      "name": "Emolga",
+      "number": 46,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Unova",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/46.jpg"
+    },
+    {
+      "id": "team-up-47",
+      "name": "Joltik",
+      "number": 47,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Unova",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/47.jpg"
+    },
+    {
+      "id": "team-up-48",
+      "name": "Galvantula",
+      "number": 48,
+      "type": "Lightning",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Unova",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/48.jpg"
+    },
+    {
+      "id": "team-up-49",
+      "name": "Helioptile",
+      "number": 49,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/49.jpg"
+    },
+    {
+      "id": "team-up-50",
+      "name": "Heliolisk",
+      "number": 50,
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kalos",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/50.jpg"
+    },
+    {
+      "id": "team-up-51",
+      "name": "Tapu Koko Prism Star",
+      "number": 51,
+      "type": "Lightning",
+      "rarity": "Rare Prism",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 180,
+      "keywords": [
+        "Prism Star",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/51.jpg"
+    },
+    {
+      "id": "team-up-52",
+      "name": "Zeraora",
+      "number": 52,
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Alola",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/52.jpg"
+    },
+    {
+      "id": "team-up-53",
+      "name": "Gengar & Mimikyu Tag Team GX",
+      "number": 53,
+      "type": "Psychic",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 270,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/53.jpg"
+    },
+    {
+      "id": "team-up-54",
+      "name": "Nidoran♀",
+      "number": 54,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Poison"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/54.jpg"
+    },
+    {
+      "id": "team-up-55",
+      "name": "Nidorina",
+      "number": 55,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Poison"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/55.jpg"
+    },
+    {
+      "id": "team-up-56",
+      "name": "Nidoqueen",
+      "number": 56,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [
+        "Kanto",
+        "Poison"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/56.jpg"
+    },
+    {
+      "id": "team-up-57",
+      "name": "Nidoran♂",
+      "number": 57,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Poison"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/57.jpg"
+    },
+    {
+      "id": "team-up-58",
+      "name": "Nidorino",
+      "number": 58,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Poison"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/58.jpg"
+    },
+    {
+      "id": "team-up-59",
+      "name": "Nidoking",
+      "number": 59,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [
+        "Kanto",
+        "Poison"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/59.jpg"
+    },
+    {
+      "id": "team-up-60",
+      "name": "Tentacool",
+      "number": 60,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/60.jpg"
+    },
+    {
+      "id": "team-up-61",
+      "name": "Tentacruel",
+      "number": 61,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/61.jpg"
+    },
+    {
+      "id": "team-up-62",
+      "name": "Grimer",
+      "number": 62,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kanto",
+        "Poison"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/62.jpg"
+    },
+    {
+      "id": "team-up-63",
+      "name": "Muk",
+      "number": 63,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 120,
+      "keywords": [
+        "Kanto",
+        "Poison"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/63.jpg"
+    },
+    {
+      "id": "team-up-64",
+      "name": "Alolan Marowak",
+      "number": 64,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/64.jpg"
+    },
+    {
+      "id": "team-up-65",
+      "name": "Starmie",
+      "number": 65,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Water"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/65.jpg"
+    },
+    {
+      "id": "team-up-66",
+      "name": "Mr. Mime",
+      "number": 66,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kanto",
+        "Psychic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/66.jpg"
+    },
+    {
+      "id": "team-up-67",
+      "name": "Mr. Mime-GX",
+      "number": 67,
+      "type": "Psychic",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Kanto",
+        "Psychic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/67.jpg"
+    },
+    {
+      "id": "team-up-68",
+      "name": "Jynx",
+      "number": 68,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Psychic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/68.jpg"
+    },
+    {
+      "id": "team-up-69",
+      "name": "Cosmog",
+      "number": 69,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Alola",
+        "Psychic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/69.jpg"
+    },
+    {
+      "id": "team-up-70",
+      "name": "Cosmoem",
+      "number": 70,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 90,
+      "keywords": [
+        "Alola",
+        "Psychic"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/70.jpg"
+    },
+    {
+      "id": "team-up-71",
+      "name": "Mankey",
+      "number": 71,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Fighting"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/71.jpg"
+    },
+    {
+      "id": "team-up-72",
+      "name": "Primeape",
+      "number": 72,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Fighting"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/72.jpg"
+    },
+    {
+      "id": "team-up-73",
+      "name": "Hitmonlee",
+      "number": 73,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Fighting"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/73.jpg"
+    },
+    {
+      "id": "team-up-74",
+      "name": "Hitmonchan",
+      "number": 74,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Fighting"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/74.jpg"
+    },
+    {
+      "id": "team-up-75",
+      "name": "Omanyte",
+      "number": 75,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Fossil",
+        "Kanto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/75.jpg"
+    },
+    {
+      "id": "team-up-76",
+      "name": "Omastar",
+      "number": 76,
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 110,
+      "keywords": [
+        "Fossil",
+        "Kanto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/76.jpg"
+    },
+    {
+      "id": "team-up-77",
+      "name": "Kabuto",
+      "number": 77,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Fossil",
+        "Kanto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/77.jpg"
+    },
+    {
+      "id": "team-up-78",
+      "name": "Kabutops",
+      "number": 78,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 120,
+      "keywords": [
+        "Fossil",
+        "Kanto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/78.jpg"
+    },
+    {
+      "id": "team-up-79",
+      "name": "Larvitar",
+      "number": 79,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/79.jpg"
+    },
+    {
+      "id": "team-up-80",
+      "name": "Pupitar",
+      "number": 80,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/80.jpg"
+    },
+    {
+      "id": "team-up-81",
+      "name": "Pancham",
+      "number": 81,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kalos",
+        "Fighting"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/81.jpg"
+    },
+    {
+      "id": "team-up-82",
+      "name": "Lycanroc-GX",
+      "number": 82,
+      "type": "Fighting",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 200,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/82.jpg"
+    },
+    {
+      "id": "team-up-83",
+      "name": "Alolan Grimer",
+      "number": 83,
+      "type": "Darkness",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/83.jpg"
+    },
+    {
+      "id": "team-up-84",
+      "name": "Alolan Muk",
+      "number": 84,
+      "type": "Darkness",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/84.jpg"
+    },
+    {
+      "id": "team-up-85",
+      "name": "Tyranitar",
+      "number": 85,
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 160,
+      "keywords": [
+        "Johto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/85.jpg"
+    },
+    {
+      "id": "team-up-86",
+      "name": "Poochyena",
+      "number": 86,
+      "type": "Darkness",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Hoenn",
+        "Dark"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/86.jpg"
+    },
+    {
+      "id": "team-up-87",
+      "name": "Mightyena",
+      "number": 87,
+      "type": "Darkness",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Hoenn",
+        "Dark"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/87.jpg"
+    },
+    {
+      "id": "team-up-88",
+      "name": "Absol",
+      "number": 88,
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [
+        "Hoenn",
+        "Dark"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/88.jpg"
+    },
+    {
+      "id": "team-up-89",
+      "name": "Spiritomb",
+      "number": 89,
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Sinnoh",
+        "Dark"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/89.jpg"
+    },
+    {
+      "id": "team-up-90",
+      "name": "Zorua",
+      "number": 90,
+      "type": "Darkness",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Unova",
+        "Dark"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/90.jpg"
+    },
+    {
+      "id": "team-up-91",
+      "name": "Zoroark",
+      "number": 91,
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Unova",
+        "Dark"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/91.jpg"
+    },
+    {
+      "id": "team-up-92",
+      "name": "Vullaby",
+      "number": 92,
+      "type": "Darkness",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Unova",
+        "Dark"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/92.jpg"
+    },
+    {
+      "id": "team-up-93",
+      "name": "Mandibuzz",
+      "number": 93,
+      "type": "Darkness",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 110,
+      "keywords": [
+        "Unova",
+        "Dark"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/93.jpg"
+    },
+    {
+      "id": "team-up-94",
+      "name": "Pangoro",
+      "number": 94,
+      "type": "Darkness",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Kalos",
+        "Fighting"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/94.jpg"
+    },
+    {
+      "id": "team-up-95",
+      "name": "Yveltal",
+      "number": 95,
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/95.jpg"
+    },
+    {
+      "id": "team-up-96",
+      "name": "Hoopa-GX",
+      "number": 96,
+      "type": "Darkness",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 160,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/96.jpg"
+    },
+    {
+      "id": "team-up-97",
+      "name": "Incineroar-GX",
+      "number": 97,
+      "type": "Darkness",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 250,
+      "keywords": [
+        "GX",
+        "Starter",
+        "Alola",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/97.jpg"
+    },
+    {
+      "id": "team-up-98",
+      "name": "Skarmory",
+      "number": 98,
+      "type": "Metal",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/98.jpg"
+    },
+    {
+      "id": "team-up-99",
+      "name": "Jirachi",
+      "number": 99,
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/99.jpg"
+    },
+    {
+      "id": "team-up-100",
+      "name": "Bronzor",
+      "number": 100,
+      "type": "Metal",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Sinnoh",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/100.jpg"
+    },
+    {
+      "id": "team-up-101",
+      "name": "Bronzong",
+      "number": 101,
+      "type": "Metal",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Sinnoh",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/101.jpg"
+    },
+    {
+      "id": "team-up-102",
+      "name": "Ferroseed",
+      "number": 102,
+      "type": "Metal",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Unova",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/102.jpg"
+    },
+    {
+      "id": "team-up-103",
+      "name": "Ferrothorn",
+      "number": 103,
+      "type": "Metal",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Unova",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/103.jpg"
+    },
+    {
+      "id": "team-up-104",
+      "name": "Pawniard",
+      "number": 104,
+      "type": "Metal",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Unova",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/104.jpg"
+    },
+    {
+      "id": "team-up-105",
+      "name": "Bisharp",
+      "number": 105,
+      "type": "Metal",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Unova",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/105.jpg"
+    },
+    {
+      "id": "team-up-106",
+      "name": "Cobalion-GX",
+      "number": 106,
+      "type": "Metal",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/106.jpg"
+    },
+    {
+      "id": "team-up-107",
+      "name": "Honedge",
+      "number": 107,
+      "type": "Metal",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/107.jpg"
+    },
+    {
+      "id": "team-up-108",
+      "name": "Doublade",
+      "number": 108,
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kalos",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/108.jpg"
+    },
+    {
+      "id": "team-up-109",
+      "name": "Aegislash",
+      "number": 109,
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [
+        "Kalos",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/109.jpg"
+    },
+    {
+      "id": "team-up-110",
+      "name": "Klefki",
+      "number": 110,
+      "type": "Metal",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos",
+        "Steel"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/110.jpg"
+    },
+    {
+      "id": "team-up-111",
+      "name": "Alolan Ninetales",
+      "number": 111,
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/111.jpg"
+    },
+    {
+      "id": "team-up-112",
+      "name": "Mimikyu",
+      "number": 112,
+      "type": "Fairy",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Legendary",
+        "Alola",
+        "Fairy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/112.jpg"
+    },
+    {
+      "id": "team-up-113",
+      "name": "Latias & Latios Tag Team GX",
+      "number": 113,
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 260,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/113.jpg"
+    },
+    {
+      "id": "team-up-114",
+      "name": "Alolan Exeggutor",
+      "number": 114,
+      "type": "Dragon",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 160,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/114.jpg"
+    },
+    {
+      "id": "team-up-115",
+      "name": "Alolan Exeggutor",
+      "number": 115,
+      "type": "Dragon",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 160,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/115.jpg"
+    },
+    {
+      "id": "team-up-116",
+      "name": "Dratini",
+      "number": 116,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/116.jpg"
+    },
+    {
+      "id": "team-up-117",
+      "name": "Dratini",
+      "number": 117,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/117.jpg"
+    },
+    {
+      "id": "team-up-118",
+      "name": "Dragonair",
+      "number": 118,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/118.jpg"
+    },
+    {
+      "id": "team-up-119",
+      "name": "Dragonite",
+      "number": 119,
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Kanto",
+        "Dragon"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/119.jpg"
+    },
+    {
+      "id": "team-up-120",
+      "name": "Eevee & Snorlax Tag Team GX",
+      "number": 120,
+      "type": "Colorless",
+      "rarity": "Ultra-Rare Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 280,
+      "keywords": [
+        "Tag Team GX",
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/120.jpg"
+    },
+    {
+      "id": "team-up-121",
+      "name": "Pidgey",
+      "number": 121,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/121.jpg"
+    },
+    {
+      "id": "team-up-122",
+      "name": "Pidgey",
+      "number": 122,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/122.jpg"
+    },
+    {
+      "id": "team-up-123",
+      "name": "Pidgeotto",
+      "number": 123,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/123.jpg"
+    },
+    {
+      "id": "team-up-124",
+      "name": "Pidgeot",
+      "number": 124,
+      "type": "Colorless",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 120,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/124.jpg"
+    },
+    {
+      "id": "team-up-125",
+      "name": "Meowth",
+      "number": 125,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/125.jpg"
+    },
+    {
+      "id": "team-up-126",
+      "name": "Persian",
+      "number": 126,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/126.jpg"
+    },
+    {
+      "id": "team-up-127",
+      "name": "Farfetch'd",
+      "number": 127,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/127.jpg"
+    },
+    {
+      "id": "team-up-128",
+      "name": "Kangaskhan",
+      "number": 128,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/128.jpg"
+    },
+    {
+      "id": "team-up-129",
+      "name": "Tauros",
+      "number": 129,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [
+        "Kanto",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/129.jpg"
+    },
+    {
+      "id": "team-up-130",
+      "name": "Aerodactyl",
+      "number": 130,
+      "type": "Colorless",
+      "rarity": "Rare",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 110,
+      "keywords": [
+        "Fossil",
+        "Kanto",
+        "Rock"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/130.jpg"
+    },
+    {
+      "id": "team-up-131",
+      "name": "Lugia",
+      "number": 131,
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/131.jpg"
+    },
+    {
+      "id": "team-up-132",
+      "name": "Zangoose",
+      "number": 132,
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Hoenn",
+        "Normal"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/132.jpg"
+    },
+    {
+      "id": "team-up-133",
+      "name": "Bill's Analysis",
+      "number": 133,
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/133.jpg"
+    },
+    {
+      "id": "team-up-134",
+      "name": "Black Market Prism Star",
+      "number": 134,
+      "type": "Trainer",
+      "rarity": "Rare Prism",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/134.jpg"
+    },
+    {
+      "id": "team-up-135",
+      "name": "Brock's Grit",
+      "number": 135,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Gym Leader"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/135.jpg"
+    },
+    {
+      "id": "team-up-136",
+      "name": "Buff Padding",
+      "number": 136,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/136.jpg"
+    },
+    {
+      "id": "team-up-137",
+      "name": "Dana",
+      "number": 137,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/137.jpg"
+    },
+    {
+      "id": "team-up-138",
+      "name": "Dangerous Drill",
+      "number": 138,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/138.jpg"
+    },
+    {
+      "id": "team-up-139",
+      "name": "Electrocharger",
+      "number": 139,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/139.jpg"
+    },
+    {
+      "id": "team-up-140",
+      "name": "Erika's Hospitality",
+      "number": 140,
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Gym Leader"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/140.jpg"
+    },
+    {
+      "id": "team-up-141",
+      "name": "Evelyn",
+      "number": 141,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/141.jpg"
+    },
+    {
+      "id": "team-up-142",
+      "name": "Fairy Charm UB",
+      "number": 142,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/142.jpg"
+    },
+    {
+      "id": "team-up-143",
+      "name": "Grass Memory",
+      "number": 143,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [
+        "Memory"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/143.jpg"
+    },
+    {
+      "id": "team-up-144",
+      "name": "Ingo & Emmet",
+      "number": 144,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/144.jpg"
+    },
+    {
+      "id": "team-up-145",
+      "name": "Jasmine",
+      "number": 145,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Gym Leader"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/145.jpg"
+    },
+    {
+      "id": "team-up-146",
+      "name": "Judge Whistle",
+      "number": 146,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/146.jpg"
+    },
+    {
+      "id": "team-up-147",
+      "name": "Lavender Town",
+      "number": 147,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/147.jpg"
+    },
+    {
+      "id": "team-up-148",
+      "name": "Metal Goggles",
+      "number": 148,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/148.jpg"
+    },
+    {
+      "id": "team-up-149",
+      "name": "Morgan",
+      "number": 149,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/149.jpg"
+    },
+    {
+      "id": "team-up-150",
+      "name": "Nanu",
+      "number": 150,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/150.jpg"
+    },
+    {
+      "id": "team-up-151",
+      "name": "Nita",
+      "number": 151,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/151.jpg"
+    },
+    {
+      "id": "team-up-152",
+      "name": "Pokémon Communication",
+      "number": 152,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/152.jpg"
+    },
+    {
+      "id": "team-up-153",
+      "name": "Return Label",
+      "number": 153,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/153.jpg"
+    },
+    {
+      "id": "team-up-154",
+      "name": "Sabrina's Suggestion",
+      "number": 154,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Gym Leader"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/154.jpg"
+    },
+    {
+      "id": "team-up-155",
+      "name": "Unidentified Fossil",
+      "number": 155,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/155.jpg"
+    },
+    {
+      "id": "team-up-156",
+      "name": "Viridian Forest",
+      "number": 156,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/156.jpg"
+    },
+    {
+      "id": "team-up-157",
+      "name": "Water Memory",
+      "number": 157,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [
+        "Memory"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/157.jpg"
+    },
+    {
+      "id": "team-up-158",
+      "name": "Wondrous Labyrinth Prism Star",
+      "number": 158,
+      "type": "Trainer",
+      "rarity": "Rare Prism",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/158.jpg"
+    },
+    {
+      "id": "team-up-159",
+      "name": "Celebi & Venusaur Tag Team GX",
+      "number": 159,
+      "type": "Grass",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 270,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/159.jpg"
+    },
+    {
+      "id": "team-up-160",
+      "name": "Magikarp & Wailord Tag Team GX",
+      "number": 160,
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 300,
+      "keywords": [
+        "Tag Team GX",
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/160.jpg"
+    },
+    {
+      "id": "team-up-161",
+      "name": "Magikarp & Wailord Tag Team GX",
+      "number": 161,
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 300,
+      "keywords": [
+        "Tag Team GX",
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/161.jpg"
+    },
+    {
+      "id": "team-up-162",
+      "name": "Pikachu & Zekrom Tag Team GX",
+      "number": 162,
+      "type": "Lightning",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 240,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/162.jpg"
+    },
+    {
+      "id": "team-up-163",
+      "name": "Ampharos-GX",
+      "number": 163,
+      "type": "Lightning",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/163.jpg"
+    },
+    {
+      "id": "team-up-164",
+      "name": "Gengar & Mimikyu Tag Team GX",
+      "number": 164,
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 270,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/164.jpg"
+    },
+    {
+      "id": "team-up-165",
+      "name": "Gengar & Mimikyu Tag Team GX",
+      "number": 165,
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 270,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/165.jpg"
+    },
+    {
+      "id": "team-up-166",
+      "name": "Hoopa-GX",
+      "number": 166,
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 160,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/166.jpg"
+    },
+    {
+      "id": "team-up-167",
+      "name": "Incineroar-GX",
+      "number": 167,
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 250,
+      "keywords": [
+        "GX",
+        "Starter",
+        "Alola",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/167.jpg"
+    },
+    {
+      "id": "team-up-168",
+      "name": "Cobalion-GX",
+      "number": 168,
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/168.jpg"
+    },
+    {
+      "id": "team-up-169",
+      "name": "Latias & Latios Tag Team GX",
+      "number": 169,
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 260,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/169.jpg"
+    },
+    {
+      "id": "team-up-170",
+      "name": "Latias & Latios Tag Team GX",
+      "number": 170,
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 260,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/170.jpg"
+    },
+    {
+      "id": "team-up-171",
+      "name": "Eevee & Snorlax Tag Team GX",
+      "number": 171,
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 280,
+      "keywords": [
+        "Tag Team GX",
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/171.jpg"
+    },
+    {
+      "id": "team-up-172",
+      "name": "Brock's Grit",
+      "number": 172,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Gym Leader"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/172.jpg"
+    },
+    {
+      "id": "team-up-173",
+      "name": "Dana",
+      "number": 173,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/173.jpg"
+    },
+    {
+      "id": "team-up-174",
+      "name": "Erika's Hospitality",
+      "number": 174,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Gym Leader"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/174.jpg"
+    },
+    {
+      "id": "team-up-175",
+      "name": "Evelyn",
+      "number": 175,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/175.jpg"
+    },
+    {
+      "id": "team-up-176",
+      "name": "Ingo & Emmet",
+      "number": 176,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/176.jpg"
+    },
+    {
+      "id": "team-up-177",
+      "name": "Jasmine",
+      "number": 177,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Gym Leader"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/177.jpg"
+    },
+    {
+      "id": "team-up-178",
+      "name": "Morgan",
+      "number": 178,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/178.jpg"
+    },
+    {
+      "id": "team-up-179",
+      "name": "Nanu",
+      "number": 179,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/179.jpg"
+    },
+    {
+      "id": "team-up-180",
+      "name": "Nita",
+      "number": 180,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/180.jpg"
+    },
+    {
+      "id": "team-up-181",
+      "name": "Sabrina's Suggestion",
+      "number": 181,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Gym Leader"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/181.jpg"
+    },
+    {
+      "id": "team-up-182",
+      "name": "Celebi & Venusaur Tag Team GX",
+      "number": 182,
+      "type": "Grass",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 270,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/182.jpg"
+    },
+    {
+      "id": "team-up-183",
+      "name": "Magikarp & Wailord Tag Team GX",
+      "number": 183,
+      "type": "Water",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 300,
+      "keywords": [
+        "Tag Team GX",
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/183.jpg"
+    },
+    {
+      "id": "team-up-184",
+      "name": "Pikachu & Zekrom Tag Team GX",
+      "number": 184,
+      "type": "Lightning",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 240,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/184.jpg"
+    },
+    {
+      "id": "team-up-185",
+      "name": "Ampharos-GX",
+      "number": 185,
+      "type": "Lightning",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Johto",
+        "Electric"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/185.jpg"
+    },
+    {
+      "id": "team-up-186",
+      "name": "Gengar & Mimikyu Tag Team GX",
+      "number": 186,
+      "type": "Psychic",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 270,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/186.jpg"
+    },
+    {
+      "id": "team-up-187",
+      "name": "Hoopa-GX",
+      "number": 187,
+      "type": "Darkness",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 160,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Mythical"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/187.jpg"
+    },
+    {
+      "id": "team-up-188",
+      "name": "Incineroar-GX",
+      "number": 188,
+      "type": "Darkness",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 250,
+      "keywords": [
+        "GX",
+        "Starter",
+        "Alola",
+        "Fire Starter"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/188.jpg"
+    },
+    {
+      "id": "team-up-189",
+      "name": "Cobalion-GX",
+      "number": 189,
+      "type": "Metal",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "gx",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/189.jpg"
+    },
+    {
+      "id": "team-up-190",
+      "name": "Latias & Latios Tag Team GX",
+      "number": 190,
+      "type": "Dragon",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 260,
+      "keywords": [
+        "Tag Team GX",
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/190.jpg"
+    },
+    {
+      "id": "team-up-191",
+      "name": "Eevee & Snorlax Tag Team GX",
+      "number": 191,
+      "type": "Colorless",
+      "rarity": "Rare Rainbow",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "tag_team_gx",
+      "hp": 280,
+      "keywords": [
+        "Tag Team GX",
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/teamup/191.jpg"
+    },
+    {
+      "id": "team-up-192",
+      "name": "Dangerous Drill",
+      "number": 192,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/192.jpg"
+    },
+    {
+      "id": "team-up-193",
+      "name": "Electrocharger",
+      "number": 193,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/193.jpg"
+    },
+    {
+      "id": "team-up-194",
+      "name": "Judge Whistle",
+      "number": 194,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/194.jpg"
+    },
+    {
+      "id": "team-up-195",
+      "name": "Metal Goggles",
+      "number": 195,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/195.jpg"
+    },
+    {
+      "id": "team-up-196",
+      "name": "Pokémon Communication",
+      "number": 196,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "team-up",
+      "setName": "Team Up",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/teamup/196.jpg"
+    }
+  ]
+}

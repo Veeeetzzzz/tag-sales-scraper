@@ -1,0 +1,2187 @@
+{
+  "set_info": {
+    "name": "Plasma Blast",
+    "code": "PLB",
+    "release_date": "2013-08-14",
+    "total_cards": 105,
+    "set_number": "BW11",
+    "series": "Black & White"
+  },
+  "cards": [
+    {
+      "id": 1,
+      "name": "Surskit",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "1/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "pond",
+        "skater",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/1.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 2,
+      "name": "Masquerain",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "2/101",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "eyeball",
+        "evolution",
+        "flying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/2.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/2.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 3,
+      "name": "Lileep",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "3/101",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "sea",
+        "lily",
+        "basic",
+        "fossil"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/3.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/3.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 4,
+      "name": "Cradily",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "4/101",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "barnacle",
+        "evolution",
+        "fossil"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/4.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/4.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 5,
+      "name": "Tropius",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "5/101",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "fruit",
+        "basic",
+        "flying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/5.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/5.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 6,
+      "name": "Karrablast",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "6/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "caving",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/6.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 7,
+      "name": "Shelmet",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "7/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "snail",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/7.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/7.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 8,
+      "name": "Accelgor",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "8/101",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "shell",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/8.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/8.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 9,
+      "name": "Virizion-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "9/101",
+      "rarity": "Rare Holo ex",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "grassland"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/9.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/9.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 10,
+      "name": "Genesect",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "10/101",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "steel",
+        "paleozoic",
+        "basic",
+        "legendary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/10.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/10.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 11,
+      "name": "Genesect-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "11/101",
+      "rarity": "Rare Holo ex",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "ex",
+        "pokemon-ex",
+        "steel",
+        "paleozoic",
+        "legendary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/11.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/11.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 12,
+      "name": "Larvesta",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "12/101",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "bug",
+        "torch",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/12.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/12.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 13,
+      "name": "Volcarona",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "13/101",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "bug",
+        "sun",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/13.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/13.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 14,
+      "name": "Squirtle",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "14/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "turtle",
+        "kanto",
+        "starter",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/14.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/14.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 15,
+      "name": "Wartortle",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "15/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "turtle",
+        "kanto",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/15.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/15.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 16,
+      "name": "Blastoise",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "16/101",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "turtle",
+        "kanto",
+        "starter",
+        "evolution",
+        "shellfish"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/16.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/16.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 17,
+      "name": "Lapras",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "17/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "transport",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/17.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/17.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 18,
+      "name": "Remoraid",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "18/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "jet",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/18.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/18.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 19,
+      "name": "Octillery",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "19/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "jet",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/19.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/19.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 20,
+      "name": "Suicune",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "20/101",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "legendary",
+        "aurora",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/20.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/20.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 21,
+      "name": "Snorunt",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "21/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "snow",
+        "hat",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/21.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/21.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 22,
+      "name": "Glalie",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "22/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "face",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/22.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/22.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 23,
+      "name": "Froslass",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "23/101",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "snow",
+        "land",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/23.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/23.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 24,
+      "name": "Relicanth",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "24/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "longevity",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/24.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/24.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 25,
+      "name": "Snover",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "25/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "frost",
+        "tree",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/25.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/25.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 26,
+      "name": "Abomasnow",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "26/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "frost",
+        "tree",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/26.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/26.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 27,
+      "name": "Tirtouga",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "27/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "prototurtle",
+        "basic",
+        "fossil"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/27.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/27.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 28,
+      "name": "Carracosta",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "28/101",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "prototurtle",
+        "evolution",
+        "fossil"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/28.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/28.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 29,
+      "name": "Ducklett",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "29/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "water",
+        "bird",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/29.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/29.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 30,
+      "name": "Kyurem-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "30/101",
+      "rarity": "Rare Holo ex",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "boundary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/30.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/30.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 31,
+      "name": "Tynamo",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "31/101",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "eleFish",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/31.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/31.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 32,
+      "name": "Eelektrik",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "32/101",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "eleFish",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/32.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/32.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 33,
+      "name": "Eelektross",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "33/101",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "eleFish",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/33.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/33.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 34,
+      "name": "Drifloon",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "34/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "balloon",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/34.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/34.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 35,
+      "name": "Drifblim",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "35/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "blimp",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/35.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/35.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 36,
+      "name": "Uxie",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "36/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "legendary",
+        "knowledge",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/36.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/36.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 37,
+      "name": "Mesprit",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "37/101",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "legendary",
+        "emotion",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/37.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/37.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 38,
+      "name": "Azelf",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "38/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "legendary",
+        "willpower",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/38.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/38.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 39,
+      "name": "Munna",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "39/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "dream",
+        "eater",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/39.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/39.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 40,
+      "name": "Musharna",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "40/101",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "drowsing",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/40.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/40.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 41,
+      "name": "Sigilyph",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "41/101",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "avianoid",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/41.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/41.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 42,
+      "name": "Solosis",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "42/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "cell",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/42.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/42.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 43,
+      "name": "Duosion",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "43/101",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "mitosis",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/43.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/43.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 44,
+      "name": "Reuniclus",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "44/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "multiplying",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/44.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/44.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 45,
+      "name": "Golett",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "45/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ground",
+        "automaton",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/45.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/45.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 46,
+      "name": "Golurk",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "46/101",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ground",
+        "automaton",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/46.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/46.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 47,
+      "name": "Machop",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "47/101",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "superpower",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/47.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/47.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 48,
+      "name": "Machoke",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "48/101",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "superpower",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/48.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/48.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 49,
+      "name": "Machamp",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "49/101",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "superpower",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/49.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/49.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 50,
+      "name": "Machamp",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "50/101",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "superpower",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/50.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/50.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 51,
+      "name": "Throh",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "51/101",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "judo",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/51.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/51.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 52,
+      "name": "Sawk",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "52/101",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "karate",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/52.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/52.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 53,
+      "name": "Archen",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "53/101",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "first",
+        "bird",
+        "basic",
+        "fossil"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/53.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/53.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 54,
+      "name": "Archeops",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "54/101",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "first",
+        "bird",
+        "evolution",
+        "fossil"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/54.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/54.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 55,
+      "name": "Houndour",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "55/101",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "fire",
+        "dark",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/55.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 56,
+      "name": "Houndoom",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "56/101",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "fire",
+        "dark",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/56.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/56.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 57,
+      "name": "Aron",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "57/101",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "steel",
+        "iron",
+        "armor",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/57.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/57.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 58,
+      "name": "Lairon",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "58/101",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "steel",
+        "iron",
+        "armor",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/58.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/58.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 59,
+      "name": "Aggron",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "59/101",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "steel",
+        "iron",
+        "armor",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/59.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/59.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 60,
+      "name": "Jirachi-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "60/101",
+      "rarity": "Rare Holo ex",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "legendary",
+        "wish"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/60.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/60.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 61,
+      "name": "Escavalier",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "61/101",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "bug",
+        "cavalry",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/61.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/61.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 62,
+      "name": "Bagon",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "62/101",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "rock",
+        "head",
+        "basic",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/62.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/62.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 63,
+      "name": "Shelgon",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "63/101",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "endurance",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/63.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/63.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 64,
+      "name": "Salamence",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "64/101",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/64.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/64.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 65,
+      "name": "Dialga-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "65/101",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "steel",
+        "legendary",
+        "powerful",
+        "temporal"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/65.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/65.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 66,
+      "name": "Palkia-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "66/101",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "water",
+        "legendary",
+        "powerful",
+        "spatial"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/66.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/66.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 67,
+      "name": "Axew",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "67/101",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "tusk",
+        "basic",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/67.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/67.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 68,
+      "name": "Fraxure",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "68/101",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "axe",
+        "jaw",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/68.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/68.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 69,
+      "name": "Haxorus",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "69/101",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "axe",
+        "jaw",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/69.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/69.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 70,
+      "name": "Druddigon",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "70/101",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "cave",
+        "basic",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/70.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/70.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 71,
+      "name": "Kangaskhan",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "71/101",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "parent",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/71.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/71.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 72,
+      "name": "Porygon",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "72/101",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "virtual",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/72.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/72.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 73,
+      "name": "Porygon2",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "73/101",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "virtual",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/73.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/73.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 74,
+      "name": "Porygon-Z",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "74/101",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "virtual",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/74.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/74.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 75,
+      "name": "Teddiursa",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "75/101",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "little",
+        "bear",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/75.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/75.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 76,
+      "name": "Ursaring",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "76/101",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "hibernator",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/76.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/76.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 77,
+      "name": "Chatot",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "77/101",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "music",
+        "note",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/77.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/77.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 78,
+      "name": "Caitlin",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "78/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "caitlin",
+        "elite",
+        "four"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/78.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/78.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 79,
+      "name": "Cover Fossil",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "79/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "fossil",
+        "cover",
+        "tirtouga"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/79.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/79.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 80,
+      "name": "Energy Retrieval",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "80/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "energy",
+        "retrieval"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/80.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/80.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 81,
+      "name": "Iris",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "81/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "iris",
+        "champion"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/81.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/81.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 82,
+      "name": "Plume Fossil",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "82/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "fossil",
+        "plume",
+        "archen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/82.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/82.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 83,
+      "name": "Pokémon Catcher",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "83/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "pokemon",
+        "catcher",
+        "switch"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/83.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/83.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 84,
+      "name": "Professor Juniper",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "84/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "professor",
+        "juniper"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/84.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/84.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 85,
+      "name": "Rare Candy",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "85/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "rare",
+        "candy",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/85.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/85.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 86,
+      "name": "Reversal Trigger",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "86/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "reversal",
+        "trigger",
+        "tool"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/86.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/86.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 87,
+      "name": "Root Fossil Lileep",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "87/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "fossil",
+        "root",
+        "lileep"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/87.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/87.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 88,
+      "name": "Silver Bangle",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "88/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "silver",
+        "bangle",
+        "tool"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/88.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/88.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 89,
+      "name": "Silver Mirror",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "89/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "silver",
+        "mirror",
+        "tool"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/89.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/89.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 90,
+      "name": "Ultra Ball",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "90/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "ultra",
+        "ball",
+        "search"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/90.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/90.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 91,
+      "name": "Plasma Energy",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "91/101",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "matching_keywords": [
+        "energy",
+        "special",
+        "plasma",
+        "team",
+        "colorless"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/91.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/91.jpg"
+      },
+      "subtype": "Special Energy"
+    },
+    {
+      "id": 92,
+      "name": "G Booster",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "92/101",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec",
+        "g",
+        "booster",
+        "tool",
+        "genesect"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/92.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/92.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 93,
+      "name": "G Scope",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "93/101",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec",
+        "g",
+        "scope",
+        "tool",
+        "genesect"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/93.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/93.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 94,
+      "name": "Master Ball",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "94/101",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec",
+        "master",
+        "ball",
+        "search"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/94.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/94.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 95,
+      "name": "Scoop Up Cyclone",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "95/101",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec",
+        "scoop",
+        "up",
+        "cyclone"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/95.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/95.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 96,
+      "name": "Virizion-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "96/101",
+      "rarity": "Rare Ultra",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "grassland",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/96.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/96.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 97,
+      "name": "Genesect-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "97/101",
+      "rarity": "Rare Ultra",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "ex",
+        "pokemon-ex",
+        "steel",
+        "paleozoic",
+        "legendary",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/97.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/97.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 98,
+      "name": "Jirachi-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "98/101",
+      "rarity": "Rare Ultra",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "legendary",
+        "wish",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/98.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/98.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 99,
+      "name": "Dialga-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "99/101",
+      "rarity": "Rare Ultra",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "steel",
+        "legendary",
+        "powerful",
+        "temporal",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/99.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/99.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 100,
+      "name": "Palkia-EX",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "100/101",
+      "rarity": "Rare Ultra",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "water",
+        "legendary",
+        "powerful",
+        "spatial",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/100.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/100.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 101,
+      "name": "Iris",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "101/101",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "iris",
+        "champion",
+        "ultra",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/101.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/101.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 102,
+      "name": "Exeggcute",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "102/101",
+      "rarity": "Rare Secret",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "egg",
+        "psychic",
+        "basic",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/102.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/102.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": 103,
+      "name": "Virizion",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "103/101",
+      "rarity": "Rare Secret",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "legendary",
+        "grassland",
+        "basic",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/103.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/103.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": 104,
+      "name": "Dusknoir",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "104/101",
+      "rarity": "Rare Secret",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "gripper",
+        "evolution",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/104.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/104.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": 105,
+      "name": "Rare Candy",
+      "set": "Plasma Blast",
+      "set_code": "PLB",
+      "number": "105/101",
+      "rarity": "Rare Secret",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "rare",
+        "candy",
+        "evolution",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmablast/105.jpg",
+        "large": "https://www.serebii.net/card/plasmablast/105.jpg"
+      },
+      "subtype": "Item"
+    }
+  ]
+}

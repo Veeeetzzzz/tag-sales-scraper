@@ -1,0 +1,2573 @@
+{
+  "set_info": {
+    "name": "Emerging Powers",
+    "series": "Black & White",
+    "set_code": "BW2",
+    "release_date": "2011-08-31",
+    "total_cards": 98
+  },
+  "cards": [
+    {
+      "id": "emerging-powers-1",
+      "name": "Pansage",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "1/98",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "pansage",
+        "grass",
+        "pokemon",
+        "monkey",
+        "grass",
+        "pan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/1.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-2",
+      "name": "Simisage",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "2/98",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "simisage",
+        "grass",
+        "pokemon",
+        "monkey",
+        "grass",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/2.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/2.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-3",
+      "name": "Sewaddle",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "3/98",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "sewaddle",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "larva"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/3.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/3.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-4",
+      "name": "Sewaddle",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "4/98",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "sewaddle",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "larva"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/4.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/4.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-5",
+      "name": "Swadloon",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "5/98",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "swadloon",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "cocoon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/5.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/5.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-6",
+      "name": "Swadloon",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "6/98",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "swadloon",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "cocoon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/6.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-7",
+      "name": "Leavanny",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "7/98",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "leavanny",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "nurturing"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/7.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/7.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "emerging-powers-8",
+      "name": "Leavanny",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "8/98",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "leavanny",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "nurturing"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/8.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/8.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "emerging-powers-9",
+      "name": "Cottonee",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "9/98",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "cottonee",
+        "grass",
+        "pokemon",
+        "cotton",
+        "grass",
+        "wind"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/9.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/9.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-10",
+      "name": "Cottonee",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "10/98",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "cottonee",
+        "grass",
+        "pokemon",
+        "cotton",
+        "grass",
+        "wind"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/10.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/10.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-11",
+      "name": "Whimsicott",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "11/98",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "whimsicott",
+        "grass",
+        "pokemon",
+        "cotton",
+        "grass",
+        "wind"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/11.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/11.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-12",
+      "name": "Whimsicott",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "12/98",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "whimsicott",
+        "grass",
+        "pokemon",
+        "cotton",
+        "grass",
+        "wind"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/12.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/12.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-13",
+      "name": "Petilil",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "13/98",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "petilil",
+        "grass",
+        "pokemon",
+        "grass",
+        "flower",
+        "bulb"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/13.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/13.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-14",
+      "name": "Lilligant",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "14/98",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "lilligant",
+        "grass",
+        "pokemon",
+        "grass",
+        "flower",
+        "flowering"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/14.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/14.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-15",
+      "name": "Deerling",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "15/98",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "deerling",
+        "grass",
+        "pokemon",
+        "deer",
+        "grass",
+        "season"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/15.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/15.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-16",
+      "name": "Sawsbuck",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "16/98",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "sawsbuck",
+        "grass",
+        "pokemon",
+        "deer",
+        "grass",
+        "season"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/16.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/16.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-17",
+      "name": "Virizion",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "17/98",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "virizion",
+        "grass",
+        "pokemon",
+        "legendary",
+        "grass",
+        "fighting",
+        "sword"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/17.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/17.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-18",
+      "name": "Pansear",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "18/98",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "pansear",
+        "fire",
+        "pokemon",
+        "monkey",
+        "fire",
+        "pan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/18.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/18.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-19",
+      "name": "Simisear",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "19/98",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "simisear",
+        "fire",
+        "pokemon",
+        "monkey",
+        "fire",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/19.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/19.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-20",
+      "name": "Darumaka",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "20/98",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "darumaka",
+        "fire",
+        "pokemon",
+        "fire",
+        "zen",
+        "daruma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/20.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/20.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-21",
+      "name": "Darmanitan",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "21/98",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "darmanitan",
+        "fire",
+        "pokemon",
+        "fire",
+        "zen",
+        "daruma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/21.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/21.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-22",
+      "name": "Panpour",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "22/98",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "panpour",
+        "water",
+        "pokemon",
+        "monkey",
+        "water",
+        "pan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/22.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/22.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-23",
+      "name": "Simipour",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "23/98",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "simipour",
+        "water",
+        "pokemon",
+        "monkey",
+        "water",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/23.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/23.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-24",
+      "name": "Basculin",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "24/98",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "basculin",
+        "water",
+        "pokemon",
+        "fish",
+        "water",
+        "violent"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/24.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/24.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-25",
+      "name": "Basculin",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "25/98",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "basculin",
+        "water",
+        "pokemon",
+        "fish",
+        "water",
+        "violent"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/25.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/25.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-26",
+      "name": "Ducklett",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "26/98",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "ducklett",
+        "water",
+        "pokemon",
+        "duck",
+        "water",
+        "swan"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/26.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/26.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-27",
+      "name": "Swanna",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "27/98",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "swanna",
+        "water",
+        "pokemon",
+        "swan",
+        "water",
+        "flying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/27.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/27.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-28",
+      "name": "Cubchoo",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "28/98",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "cubchoo",
+        "water",
+        "pokemon",
+        "bear",
+        "ice",
+        "cub"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/28.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/28.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-29",
+      "name": "Cubchoo",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "29/98",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "cubchoo",
+        "water",
+        "pokemon",
+        "bear",
+        "ice",
+        "cub"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/29.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/29.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-30",
+      "name": "Beartic",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "30/98",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "beartic",
+        "water",
+        "pokemon",
+        "bear",
+        "ice",
+        "polar"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/30.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/30.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-31",
+      "name": "Beartic",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "31/98",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "beartic",
+        "water",
+        "pokemon",
+        "bear",
+        "ice",
+        "polar"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/31.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/31.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-32",
+      "name": "Emolga",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "32/98",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "emolga",
+        "lightning",
+        "pokemon",
+        "squirrel",
+        "flying",
+        "electric"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/32.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/32.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-33",
+      "name": "Joltik",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "33/98",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "joltik",
+        "lightning",
+        "pokemon",
+        "spider",
+        "electric",
+        "bug"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/33.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/33.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-34",
+      "name": "Galvantula",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "34/98",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "galvantula",
+        "lightning",
+        "pokemon",
+        "spider",
+        "electric",
+        "bug"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/34.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/34.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-35",
+      "name": "Thundurus",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "35/98",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "thundurus",
+        "lightning",
+        "pokemon",
+        "legendary",
+        "electric",
+        "flying",
+        "genie"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/35.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/35.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-36",
+      "name": "Woobat",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "36/98",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "woobat",
+        "psychic",
+        "pokemon",
+        "bat",
+        "psychic",
+        "flying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/36.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/36.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-37",
+      "name": "Swoobat",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "37/98",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "swoobat",
+        "psychic",
+        "pokemon",
+        "bat",
+        "psychic",
+        "flying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/37.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/37.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-38",
+      "name": "Venipede",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "38/98",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "venipede",
+        "psychic",
+        "pokemon",
+        "bug",
+        "poison",
+        "centipede"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/38.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/38.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-39",
+      "name": "Whirlipede",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "39/98",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "whirlipede",
+        "psychic",
+        "pokemon",
+        "bug",
+        "poison",
+        "centipede"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/39.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/39.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-40",
+      "name": "Scolipede",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "40/98",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "scolipede",
+        "psychic",
+        "pokemon",
+        "bug",
+        "poison",
+        "centipede"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/40.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/40.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "emerging-powers-41",
+      "name": "Sigilyph",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "41/98",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "sigilyph",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "flying",
+        "ancient"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/41.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/41.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-42",
+      "name": "Sigilyph",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "42/98",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "sigilyph",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "flying",
+        "ancient"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/42.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/42.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-43",
+      "name": "Gothita",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "43/98",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothita",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "goth",
+        "fixation"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/43.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/43.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-44",
+      "name": "Gothita",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "44/98",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothita",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "goth",
+        "fixation"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/44.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/44.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-45",
+      "name": "Gothorita",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "45/98",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothorita",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "goth",
+        "manipulate"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/45.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/45.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-46",
+      "name": "Gothorita",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "46/98",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothorita",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "goth",
+        "manipulate"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/46.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/46.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-47",
+      "name": "Gothitelle",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "47/98",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothitelle",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "goth",
+        "astral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/47.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/47.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-48",
+      "name": "Gothitelle",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "48/98",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothitelle",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "goth",
+        "astral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/48.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/48.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-49",
+      "name": "Roggenrola",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "49/98",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "roggenrola",
+        "fighting",
+        "pokemon",
+        "rock",
+        "fighting",
+        "ore"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/49.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/49.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-50",
+      "name": "Roggenrola",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "50/98",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "roggenrola",
+        "fighting",
+        "pokemon",
+        "rock",
+        "fighting",
+        "ore"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/50.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/50.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-51",
+      "name": "Boldore",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "51/98",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "boldore",
+        "fighting",
+        "pokemon",
+        "rock",
+        "fighting",
+        "ore"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/51.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/51.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-52",
+      "name": "Boldore",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "52/98",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "boldore",
+        "fighting",
+        "pokemon",
+        "rock",
+        "fighting",
+        "ore"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/52.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/52.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-53",
+      "name": "Gigalith",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "53/98",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "gigalith",
+        "fighting",
+        "pokemon",
+        "rock",
+        "fighting",
+        "compressed"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/53.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/53.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "emerging-powers-54",
+      "name": "Drilbur",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "54/98",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "drilbur",
+        "fighting",
+        "pokemon",
+        "ground",
+        "fighting",
+        "mole"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/54.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/54.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-55",
+      "name": "Drilbur",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "55/98",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "drilbur",
+        "fighting",
+        "pokemon",
+        "ground",
+        "fighting",
+        "mole"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/55.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-56",
+      "name": "Excadrill",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "56/98",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "excadrill",
+        "fighting",
+        "pokemon",
+        "ground",
+        "steel",
+        "subterrene"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/56.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/56.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-57",
+      "name": "Excadrill",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "57/98",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "excadrill",
+        "fighting",
+        "pokemon",
+        "ground",
+        "steel",
+        "subterrene"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/57.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/57.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-58",
+      "name": "Throh",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "58/98",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "throh",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "judo",
+        "martial"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/58.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/58.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-59",
+      "name": "Sawk",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "59/98",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "sawk",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "karate",
+        "martial"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/59.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/59.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-60",
+      "name": "Sandile",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "60/98",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "sandile",
+        "fighting",
+        "pokemon",
+        "ground",
+        "dark",
+        "desert"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/60.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/60.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-61",
+      "name": "Krokorok",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "61/98",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "krokorok",
+        "fighting",
+        "pokemon",
+        "ground",
+        "dark",
+        "desert"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/61.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/61.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-62",
+      "name": "Krookodile",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "62/98",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "krookodile",
+        "fighting",
+        "pokemon",
+        "ground",
+        "dark",
+        "intimidation"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/62.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/62.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "emerging-powers-63",
+      "name": "Terrakion",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "63/98",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "terrakion",
+        "fighting",
+        "pokemon",
+        "legendary",
+        "rock",
+        "fighting",
+        "cavern"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/63.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/63.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-64",
+      "name": "Purrloin",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "64/98",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "purrloin",
+        "darkness",
+        "pokemon",
+        "dark",
+        "cat",
+        "devious"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/64.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/64.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-65",
+      "name": "Liepard",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "65/98",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "liepard",
+        "darkness",
+        "pokemon",
+        "dark",
+        "cat",
+        "cruel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/65.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/65.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-66",
+      "name": "Zorua",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "66/98",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "zorua",
+        "darkness",
+        "pokemon",
+        "dark",
+        "fox",
+        "tricky"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/66.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/66.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-67",
+      "name": "Zoroark",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "67/98",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "zoroark",
+        "darkness",
+        "pokemon",
+        "dark",
+        "fox",
+        "illusion"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/67.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/67.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-68",
+      "name": "Vullaby",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "68/98",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "vullaby",
+        "darkness",
+        "pokemon",
+        "dark",
+        "flying",
+        "vulture"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/68.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/68.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-69",
+      "name": "Mandibuzz",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "69/98",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "mandibuzz",
+        "darkness",
+        "pokemon",
+        "dark",
+        "flying",
+        "bone"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/69.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/69.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-70",
+      "name": "Ferroseed",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "70/98",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "ferroseed",
+        "metal",
+        "pokemon",
+        "grass",
+        "steel",
+        "thorn"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/70.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/70.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-71",
+      "name": "Ferroseed",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "71/98",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "ferroseed",
+        "metal",
+        "pokemon",
+        "grass",
+        "steel",
+        "thorn"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/71.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/71.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-72",
+      "name": "Ferrothorn",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "72/98",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "ferrothorn",
+        "metal",
+        "pokemon",
+        "grass",
+        "steel",
+        "thorn"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/72.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/72.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-73",
+      "name": "Ferrothorn",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "73/98",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "ferrothorn",
+        "metal",
+        "pokemon",
+        "grass",
+        "steel",
+        "thorn"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/73.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/73.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-74",
+      "name": "Klink",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "74/98",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "klink",
+        "metal",
+        "pokemon",
+        "steel",
+        "gear",
+        "rotating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/74.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/74.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-75",
+      "name": "Klang",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "75/98",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "klang",
+        "metal",
+        "pokemon",
+        "steel",
+        "gear",
+        "rotating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/75.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/75.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-76",
+      "name": "Klinklang",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "76/98",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "klinklang",
+        "metal",
+        "pokemon",
+        "steel",
+        "gear",
+        "rotating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/76.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/76.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "emerging-powers-77",
+      "name": "Cobalion",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "77/98",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "matching_keywords": [
+        "cobalion",
+        "metal",
+        "pokemon",
+        "legendary",
+        "steel",
+        "fighting",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/77.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/77.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-78",
+      "name": "Patrat",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "78/98",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "patrat",
+        "colorless",
+        "pokemon",
+        "normal",
+        "scout",
+        "lookout"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/78.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/78.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-79",
+      "name": "Watchog",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "79/98",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "watchog",
+        "colorless",
+        "pokemon",
+        "normal",
+        "lookout",
+        "illuminate"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/79.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/79.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-80",
+      "name": "Pidove",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "80/98",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "pidove",
+        "colorless",
+        "pokemon",
+        "normal",
+        "flying",
+        "tiny"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/80.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/80.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-81",
+      "name": "Tranquill",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "81/98",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "tranquill",
+        "colorless",
+        "pokemon",
+        "normal",
+        "flying",
+        "wild"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/81.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/81.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-82",
+      "name": "Unfezant",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "82/98",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "unfezant",
+        "colorless",
+        "pokemon",
+        "normal",
+        "flying",
+        "proud"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/82.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/82.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "emerging-powers-83",
+      "name": "Audino",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "83/98",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "audino",
+        "colorless",
+        "pokemon",
+        "normal",
+        "hearing",
+        "compassion"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/83.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/83.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-84",
+      "name": "Minccino",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "84/98",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "minccino",
+        "colorless",
+        "pokemon",
+        "normal",
+        "chinchilla",
+        "neat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/84.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/84.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-85",
+      "name": "Cinccino",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "85/98",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "cinccino",
+        "colorless",
+        "pokemon",
+        "normal",
+        "chinchilla",
+        "scarf"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/85.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/85.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "emerging-powers-86",
+      "name": "Rufflet",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "86/98",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "rufflet",
+        "colorless",
+        "pokemon",
+        "normal",
+        "flying",
+        "eaglet"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/86.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/86.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-87",
+      "name": "Rufflet",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "87/98",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "rufflet",
+        "colorless",
+        "pokemon",
+        "normal",
+        "flying",
+        "eaglet"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/87.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/87.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "emerging-powers-88",
+      "name": "Braviary",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "88/98",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "braviary",
+        "colorless",
+        "pokemon",
+        "normal",
+        "flying",
+        "valiant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/88.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/88.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-89",
+      "name": "Tornadus",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "89/98",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "tornadus",
+        "colorless",
+        "pokemon",
+        "legendary",
+        "flying",
+        "cyclone",
+        "genie"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/89.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/89.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "emerging-powers-90",
+      "name": "Bianca",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "90/98",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "bianca",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "friend",
+        "research"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/90.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/90.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "emerging-powers-91",
+      "name": "Cheren",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "91/98",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "cheren",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "friend",
+        "research"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/91.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/91.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "emerging-powers-92",
+      "name": "Crushing Hammer",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "92/98",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "crushing hammer",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "discard",
+        "energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/92.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/92.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "emerging-powers-93",
+      "name": "Great Ball",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "93/98",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "great ball",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "pokeball",
+        "catch"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/93.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/93.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "emerging-powers-94",
+      "name": "Max Potion",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "94/98",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "max potion",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "healing",
+        "restore"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/94.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/94.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "emerging-powers-95",
+      "name": "Pokémon Catcher",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "95/98",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "pokémon catcher",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "switch",
+        "force"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/95.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/95.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "emerging-powers-96",
+      "name": "Recycle",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "96/98",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "recycle",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "retrieve",
+        "trainer"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/96.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/96.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "emerging-powers-97",
+      "name": "Thundurus",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "97/98",
+      "rarity": "Rare Ultra",
+      "type": "Lightning",
+      "matching_keywords": [
+        "thundurus",
+        "lightning",
+        "pokemon",
+        "legendary",
+        "electric",
+        "flying",
+        "genie"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/97.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/97.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "emerging-powers-98",
+      "name": "Tornadus",
+      "set": {
+        "name": "Emerging Powers",
+        "series": "Black & White",
+        "set_code": "BW2",
+        "release_date": "2011-08-31"
+      },
+      "number": "98/98",
+      "rarity": "Rare Ultra",
+      "type": "Colorless",
+      "matching_keywords": [
+        "tornadus",
+        "colorless",
+        "pokemon",
+        "legendary",
+        "flying",
+        "cyclone",
+        "genie"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/emergingpowers/98.jpg",
+        "large": "https://www.serebii.net/card/emergingpowers/98.jpg"
+      },
+      "hp": 130
+    }
+  ]
+}

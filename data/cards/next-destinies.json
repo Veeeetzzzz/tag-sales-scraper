@@ -1,0 +1,2736 @@
+{
+  "set_info": {
+    "name": "Next Destinies",
+    "series": "Black & White",
+    "set_code": "BW4",
+    "release_date": "2012-02-08",
+    "total_cards": 99
+  },
+  "cards": [
+    {
+      "id": "next-destinies-1",
+      "name": "Pinsir",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "1/99",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "pinsir",
+        "grass",
+        "pokemon",
+        "bug",
+        "stag",
+        "beetle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/1.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/1.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "next-destinies-2",
+      "name": "Seedot",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "2/99",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "seedot",
+        "grass",
+        "pokemon",
+        "grass",
+        "acorn",
+        "seed"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/2.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/2.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-3",
+      "name": "Kricketot",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "3/99",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "kricketot",
+        "grass",
+        "pokemon",
+        "bug",
+        "cricket",
+        "music"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/3.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/3.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-4",
+      "name": "Kricketune",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "4/99",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "kricketune",
+        "grass",
+        "pokemon",
+        "bug",
+        "cricket",
+        "music"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/4.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/4.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-5",
+      "name": "Shaymin-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "5/99",
+      "rarity": "Rare Holo ex",
+      "type": "Grass",
+      "matching_keywords": [
+        "shaymin",
+        "ex",
+        "pokemon-ex",
+        "grass",
+        "pokemon",
+        "legendary",
+        "grass",
+        "gratitude",
+        "sky"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/5.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/5.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "next-destinies-6",
+      "name": "Pansage",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "6/99",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "pansage",
+        "grass",
+        "pokemon",
+        "grass",
+        "monkey",
+        "sage"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/6.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-7",
+      "name": "Simisage",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "7/99",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "simisage",
+        "grass",
+        "pokemon",
+        "grass",
+        "monkey",
+        "sage"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/7.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/7.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-8",
+      "name": "Foongus",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "8/99",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "foongus",
+        "grass",
+        "pokemon",
+        "grass",
+        "poison",
+        "mushroom"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/8.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/8.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-9",
+      "name": "Amoonguss",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "9/99",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "amoonguss",
+        "grass",
+        "pokemon",
+        "grass",
+        "poison",
+        "mushroom"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/9.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/9.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-10",
+      "name": "Growlithe",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "10/99",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "growlithe",
+        "fire",
+        "pokemon",
+        "fire",
+        "puppy",
+        "loyal"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/10.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/10.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-11",
+      "name": "Growlithe",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "11/99",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "growlithe",
+        "fire",
+        "pokemon",
+        "fire",
+        "puppy",
+        "loyal"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/11.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/11.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-12",
+      "name": "Arcanine",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "12/99",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "arcanine",
+        "fire",
+        "pokemon",
+        "fire",
+        "legendary",
+        "winged"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/12.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/12.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-13",
+      "name": "Arcanine",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "13/99",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "arcanine",
+        "fire",
+        "pokemon",
+        "fire",
+        "legendary",
+        "winged"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/13.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/13.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-14",
+      "name": "Moltres",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "14/99",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "moltres",
+        "fire",
+        "pokemon",
+        "legendary",
+        "fire",
+        "flying",
+        "flame"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/14.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/14.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "next-destinies-15",
+      "name": "Pansear",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "15/99",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "pansear",
+        "fire",
+        "pokemon",
+        "fire",
+        "monkey",
+        "high"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/15.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/15.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-16",
+      "name": "Simisear",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "16/99",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "simisear",
+        "fire",
+        "pokemon",
+        "fire",
+        "monkey",
+        "ember"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/16.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/16.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-17",
+      "name": "Darumaka",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "17/99",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "darumaka",
+        "fire",
+        "pokemon",
+        "fire",
+        "zen",
+        "daruma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/17.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/17.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-18",
+      "name": "Litwick",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "18/99",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "litwick",
+        "fire",
+        "pokemon",
+        "ghost",
+        "fire",
+        "candle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/18.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/18.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-19",
+      "name": "Lampent",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "19/99",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "lampent",
+        "fire",
+        "pokemon",
+        "ghost",
+        "fire",
+        "lamp"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/19.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/19.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-20",
+      "name": "Chandelure",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "20/99",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "chandelure",
+        "fire",
+        "pokemon",
+        "ghost",
+        "fire",
+        "luring"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/20.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/20.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-21",
+      "name": "Reshiram",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "21/99",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "reshiram",
+        "fire",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "fire",
+        "truth"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/21.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/21.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "next-destinies-22",
+      "name": "Reshiram-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "22/99",
+      "rarity": "Rare Holo ex",
+      "type": "Fire",
+      "matching_keywords": [
+        "reshiram",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "fire",
+        "truth"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/22.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/22.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "next-destinies-23",
+      "name": "Staryu",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "23/99",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "staryu",
+        "water",
+        "pokemon",
+        "water",
+        "star",
+        "mysterious"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/23.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/23.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-24",
+      "name": "Starmie",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "24/99",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "starmie",
+        "water",
+        "pokemon",
+        "water",
+        "psychic",
+        "mysterious"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/24.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/24.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-25",
+      "name": "Lapras",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "25/99",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "lapras",
+        "water",
+        "pokemon",
+        "water",
+        "ice",
+        "transport"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/25.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/25.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "next-destinies-26",
+      "name": "Lapras",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "26/99",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "lapras",
+        "water",
+        "pokemon",
+        "water",
+        "ice",
+        "transport"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/26.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/26.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "next-destinies-27",
+      "name": "Articuno",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "27/99",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "articuno",
+        "water",
+        "pokemon",
+        "legendary",
+        "ice",
+        "flying",
+        "freeze"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/27.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/27.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "next-destinies-28",
+      "name": "Panpour",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "28/99",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "panpour",
+        "water",
+        "pokemon",
+        "water",
+        "monkey",
+        "spray"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/28.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/28.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-29",
+      "name": "Simipour",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "29/99",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "simipour",
+        "water",
+        "pokemon",
+        "water",
+        "monkey",
+        "geyser"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/29.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/29.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-30",
+      "name": "Basculin",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "30/99",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "basculin",
+        "water",
+        "pokemon",
+        "water",
+        "violent",
+        "hostile"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/30.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/30.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-31",
+      "name": "Vanillite",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "31/99",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "vanillite",
+        "water",
+        "pokemon",
+        "ice",
+        "fresh",
+        "snow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/31.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/31.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-32",
+      "name": "Vanillish",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "32/99",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "vanillish",
+        "water",
+        "pokemon",
+        "ice",
+        "icy",
+        "snow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/32.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/32.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-33",
+      "name": "Vanilluxe",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "33/99",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "vanilluxe",
+        "water",
+        "pokemon",
+        "ice",
+        "snowstorm",
+        "blizzard"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/33.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/33.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-34",
+      "name": "Frillish",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "34/99",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "frillish",
+        "water",
+        "pokemon",
+        "water",
+        "ghost",
+        "floating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/34.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/34.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-35",
+      "name": "Jellicent",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "35/99",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "jellicent",
+        "water",
+        "pokemon",
+        "water",
+        "ghost",
+        "floating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/35.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/35.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-36",
+      "name": "Cubchoo",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "36/99",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "cubchoo",
+        "water",
+        "pokemon",
+        "ice",
+        "chill",
+        "polar"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/36.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/36.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-37",
+      "name": "Beartic",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "37/99",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "beartic",
+        "water",
+        "pokemon",
+        "ice",
+        "freeze",
+        "polar"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/37.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/37.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-38",
+      "name": "Kyurem-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "38/99",
+      "rarity": "Rare Holo ex",
+      "type": "Water",
+      "matching_keywords": [
+        "kyurem",
+        "ex",
+        "pokemon-ex",
+        "water",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "ice",
+        "boundary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/38.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/38.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "next-destinies-39",
+      "name": "Pikachu",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "39/99",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "pikachu",
+        "lightning",
+        "pokemon",
+        "electric",
+        "mouse",
+        "static"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/39.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/39.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-40",
+      "name": "Raichu",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "40/99",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "raichu",
+        "lightning",
+        "pokemon",
+        "electric",
+        "mouse",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/40.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/40.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-41",
+      "name": "Zapdos",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "41/99",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "zapdos",
+        "lightning",
+        "pokemon",
+        "legendary",
+        "electric",
+        "flying",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/41.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/41.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "next-destinies-42",
+      "name": "Shinx",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "42/99",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "shinx",
+        "lightning",
+        "pokemon",
+        "electric",
+        "flash",
+        "gleam"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/42.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/42.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-43",
+      "name": "Shinx",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "43/99",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "shinx",
+        "lightning",
+        "pokemon",
+        "electric",
+        "flash",
+        "gleam"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/43.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/43.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-44",
+      "name": "Luxio",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "44/99",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "luxio",
+        "lightning",
+        "pokemon",
+        "electric",
+        "spark",
+        "gleam"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/44.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/44.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-45",
+      "name": "Luxio",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "45/99",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "luxio",
+        "lightning",
+        "pokemon",
+        "electric",
+        "spark",
+        "gleam"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/45.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/45.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-46",
+      "name": "Luxray",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "46/99",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "luxray",
+        "lightning",
+        "pokemon",
+        "electric",
+        "gleam",
+        "eyes"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/46.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/46.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-47",
+      "name": "Blitzle",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "47/99",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "blitzle",
+        "lightning",
+        "pokemon",
+        "electric",
+        "electrified",
+        "zebra"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/47.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/47.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-48",
+      "name": "Zebstrika",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "48/99",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "matching_keywords": [
+        "zebstrika",
+        "lightning",
+        "pokemon",
+        "electric",
+        "thunderbolt",
+        "zebra"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/48.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/48.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-49",
+      "name": "Emolga",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "49/99",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "emolga",
+        "lightning",
+        "pokemon",
+        "electric",
+        "flying",
+        "sky"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/49.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/49.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-50",
+      "name": "Zekrom",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "50/99",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "matching_keywords": [
+        "zekrom",
+        "lightning",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "electric",
+        "deep"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/50.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/50.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "next-destinies-51",
+      "name": "Zekrom-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "51/99",
+      "rarity": "Rare Holo ex",
+      "type": "Lightning",
+      "matching_keywords": [
+        "zekrom",
+        "ex",
+        "pokemon-ex",
+        "lightning",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "electric",
+        "deep"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/51.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/51.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "next-destinies-52",
+      "name": "Grimer",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "52/99",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "grimer",
+        "psychic",
+        "pokemon",
+        "poison",
+        "sludge",
+        "slime"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/52.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/52.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-53",
+      "name": "Muk",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "53/99",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "muk",
+        "psychic",
+        "pokemon",
+        "poison",
+        "sludge",
+        "slime"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/53.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/53.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-54",
+      "name": "Mewtwo-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "54/99",
+      "rarity": "Rare Holo ex",
+      "type": "Psychic",
+      "matching_keywords": [
+        "mewtwo",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "pokemon",
+        "legendary",
+        "psychic",
+        "genetic",
+        "clone"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/54.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/54.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "next-destinies-55",
+      "name": "Ralts",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "55/99",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "ralts",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "fairy",
+        "feeling"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/55.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-56",
+      "name": "Kirlia",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "56/99",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "kirlia",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "fairy",
+        "emotion"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/56.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/56.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-57",
+      "name": "Gardevoir",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "57/99",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gardevoir",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "fairy",
+        "embrace"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/57.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/57.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-58",
+      "name": "Munna",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "58/99",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "munna",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "dream",
+        "eater"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/58.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/58.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-59",
+      "name": "Musharna",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "59/99",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "musharna",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "dream",
+        "smoke"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/59.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/59.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-60",
+      "name": "Darmanitan",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "60/99",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "darmanitan",
+        "psychic",
+        "pokemon",
+        "fire",
+        "psychic",
+        "zen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/60.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/60.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-61",
+      "name": "Elgyem",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "61/99",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "elgyem",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "cerebral",
+        "brainwave"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/61.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/61.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-62",
+      "name": "Beheeyem",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "62/99",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "beheeyem",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "cerebral",
+        "brainwave"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/62.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/62.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-63",
+      "name": "Riolu",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "63/99",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "riolu",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "steel",
+        "emanation"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/63.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/63.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-64",
+      "name": "Lucario",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "64/99",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "lucario",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "steel",
+        "aura"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/64.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/64.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-65",
+      "name": "Hippopotas",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "65/99",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "hippopotas",
+        "fighting",
+        "pokemon",
+        "ground",
+        "hippo",
+        "sand"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/65.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/65.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-66",
+      "name": "Hippowdon",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "66/99",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "hippowdon",
+        "fighting",
+        "pokemon",
+        "ground",
+        "hippo",
+        "sand"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/66.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/66.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-67",
+      "name": "Mienfoo",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "67/99",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "mienfoo",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "arts"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/67.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/67.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-68",
+      "name": "Mienshao",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "68/99",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "mienshao",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "arts"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/68.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/68.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-69",
+      "name": "Sneasel",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "69/99",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "sneasel",
+        "darkness",
+        "pokemon",
+        "dark",
+        "ice",
+        "sharp"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/69.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/69.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-70",
+      "name": "Weavile",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "70/99",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "weavile",
+        "darkness",
+        "pokemon",
+        "dark",
+        "ice",
+        "sharp"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/70.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/70.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-71",
+      "name": "Nuzleaf",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "71/99",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "nuzleaf",
+        "darkness",
+        "pokemon",
+        "grass",
+        "dark",
+        "wily"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/71.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/71.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "next-destinies-72",
+      "name": "Shiftry",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "72/99",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "shiftry",
+        "darkness",
+        "pokemon",
+        "grass",
+        "dark",
+        "wicked"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/72.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/72.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-73",
+      "name": "Scraggy",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "73/99",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "scraggy",
+        "darkness",
+        "pokemon",
+        "dark",
+        "fighting",
+        "shedding"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/73.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/73.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-74",
+      "name": "Scrafty",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "74/99",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "scrafty",
+        "darkness",
+        "pokemon",
+        "dark",
+        "fighting",
+        "hoodlum"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/74.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/74.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-75",
+      "name": "Bronzor",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "75/99",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "bronzor",
+        "metal",
+        "pokemon",
+        "steel",
+        "psychic",
+        "bronze"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/75.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/75.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-76",
+      "name": "Bronzong",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "76/99",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "bronzong",
+        "metal",
+        "pokemon",
+        "steel",
+        "psychic",
+        "bronze"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/76.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/76.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-77",
+      "name": "Ferroseed",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "77/99",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "ferroseed",
+        "metal",
+        "pokemon",
+        "grass",
+        "steel",
+        "thorn"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/77.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/77.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-78",
+      "name": "Jigglypuff",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "78/99",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "jigglypuff",
+        "colorless",
+        "pokemon",
+        "normal",
+        "fairy",
+        "balloon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/78.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/78.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-79",
+      "name": "Wigglytuff",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "79/99",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "wigglytuff",
+        "colorless",
+        "pokemon",
+        "normal",
+        "fairy",
+        "balloon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/79.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/79.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-80",
+      "name": "Meowth",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "80/99",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "meowth",
+        "colorless",
+        "pokemon",
+        "normal",
+        "scratch",
+        "cat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/80.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/80.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-81",
+      "name": "Persian",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "81/99",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "persian",
+        "colorless",
+        "pokemon",
+        "normal",
+        "classy",
+        "cat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/81.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/81.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-82",
+      "name": "Regigigas-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "82/99",
+      "rarity": "Rare Holo ex",
+      "type": "Colorless",
+      "matching_keywords": [
+        "regigigas",
+        "ex",
+        "pokemon-ex",
+        "colorless",
+        "pokemon",
+        "legendary",
+        "normal",
+        "colossal",
+        "slow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/82.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/82.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "next-destinies-83",
+      "name": "Pidove",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "83/99",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "pidove",
+        "colorless",
+        "pokemon",
+        "normal",
+        "flying",
+        "tiny"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/83.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/83.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-84",
+      "name": "Minccino",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "84/99",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "minccino",
+        "colorless",
+        "pokemon",
+        "normal",
+        "chinchilla",
+        "neat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/84.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/84.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "next-destinies-85",
+      "name": "Cinccino",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "85/99",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "cinccino",
+        "colorless",
+        "pokemon",
+        "normal",
+        "chinchilla",
+        "scarf"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/85.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/85.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "next-destinies-86",
+      "name": "Cilan",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "86/99",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "cilan",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "gym",
+        "leader"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/86.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/86.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "next-destinies-87",
+      "name": "Exp. Share",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "87/99",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "exp. share",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "experience",
+        "share"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/87.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/87.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "next-destinies-88",
+      "name": "Heavy Ball",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "88/99",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "heavy ball",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "pokeball",
+        "heavy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/88.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/88.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "next-destinies-89",
+      "name": "Level Ball",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "89/99",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "level ball",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "pokeball",
+        "level"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/89.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/89.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "next-destinies-90",
+      "name": "Pokémon Center",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "90/99",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "pokémon center",
+        "trainer",
+        "support",
+        "item",
+        "stadium",
+        "heal",
+        "center"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/90.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/90.jpg"
+      },
+      "subtype": "Stadium"
+    },
+    {
+      "id": "next-destinies-91",
+      "name": "Skyarrow Bridge",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "91/99",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "skyarrow bridge",
+        "trainer",
+        "support",
+        "item",
+        "stadium",
+        "retreat",
+        "bridge"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/91.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/91.jpg"
+      },
+      "subtype": "Stadium"
+    },
+    {
+      "id": "next-destinies-92",
+      "name": "Double Colorless Energy",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "92/99",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "double colorless energy",
+        "energy",
+        "special",
+        "energy",
+        "colorless",
+        "double"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/92.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/92.jpg"
+      },
+      "subtype": "Special Energy"
+    },
+    {
+      "id": "next-destinies-93",
+      "name": "Prism Energy",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "93/99",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "prism energy",
+        "energy",
+        "special",
+        "energy",
+        "rainbow",
+        "prism"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/93.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/93.jpg"
+      },
+      "subtype": "Special Energy"
+    },
+    {
+      "id": "next-destinies-94",
+      "name": "Shaymin-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "94/99",
+      "rarity": "Rare Ultra",
+      "type": "Grass",
+      "matching_keywords": [
+        "shaymin",
+        "ex",
+        "pokemon-ex",
+        "grass",
+        "pokemon",
+        "legendary",
+        "grass",
+        "gratitude",
+        "sky"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/94.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/94.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "next-destinies-95",
+      "name": "Reshiram-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "95/99",
+      "rarity": "Rare Ultra",
+      "type": "Fire",
+      "matching_keywords": [
+        "reshiram",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "fire",
+        "truth"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/95.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/95.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "next-destinies-96",
+      "name": "Kyurem-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "96/99",
+      "rarity": "Rare Ultra",
+      "type": "Water",
+      "matching_keywords": [
+        "kyurem",
+        "ex",
+        "pokemon-ex",
+        "water",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "ice",
+        "boundary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/96.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/96.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "next-destinies-97",
+      "name": "Zekrom-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "97/99",
+      "rarity": "Rare Ultra",
+      "type": "Lightning",
+      "matching_keywords": [
+        "zekrom",
+        "ex",
+        "pokemon-ex",
+        "lightning",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "electric",
+        "deep"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/97.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/97.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "next-destinies-98",
+      "name": "Mewtwo-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "98/99",
+      "rarity": "Rare Ultra",
+      "type": "Psychic",
+      "matching_keywords": [
+        "mewtwo",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "pokemon",
+        "legendary",
+        "psychic",
+        "genetic",
+        "clone"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/98.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/98.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "next-destinies-99",
+      "name": "Regigigas-EX",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "99/99",
+      "rarity": "Rare Ultra",
+      "type": "Colorless",
+      "matching_keywords": [
+        "regigigas",
+        "ex",
+        "pokemon-ex",
+        "colorless",
+        "pokemon",
+        "legendary",
+        "normal",
+        "colossal",
+        "slow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/99.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/99.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "next-destinies-100",
+      "name": "Emboar",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "100/99",
+      "rarity": "Rare Secret",
+      "type": "Fire",
+      "matching_keywords": [
+        "emboar",
+        "fire",
+        "pokemon",
+        "fire",
+        "fighting",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/100.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/100.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "next-destinies-101",
+      "name": "Chandelure",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "101/99",
+      "rarity": "Rare Secret",
+      "type": "Psychic",
+      "matching_keywords": [
+        "chandelure",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "fire",
+        "luring"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/101.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/101.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "next-destinies-102",
+      "name": "Zoroark",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "102/99",
+      "rarity": "Rare Secret",
+      "type": "Darkness",
+      "matching_keywords": [
+        "zoroark",
+        "darkness",
+        "pokemon",
+        "dark",
+        "illusion",
+        "tricky"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/102.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/102.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "next-destinies-103",
+      "name": "Hydreigon",
+      "set": {
+        "name": "Next Destinies",
+        "series": "Black & White",
+        "set_code": "BW4",
+        "release_date": "2012-02-08"
+      },
+      "number": "103/99",
+      "rarity": "Rare Secret",
+      "type": "Darkness",
+      "matching_keywords": [
+        "hydreigon",
+        "darkness",
+        "pokemon",
+        "dark",
+        "dragon",
+        "brutal"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/nextdestinies/103.jpg",
+        "large": "https://www.serebii.net/card/nextdestinies/103.jpg"
+      },
+      "hp": 150
+    }
+  ]
+}

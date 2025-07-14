@@ -1,0 +1,616 @@
+{
+  "set_info": {
+    "name": "Dragon Vault",
+    "series": "Black & White",
+    "set_code": "DRV",
+    "release_date": "2012-10-05",
+    "total_cards": 20
+  },
+  "cards": [
+    {
+      "id": "dragon-vault-1",
+      "name": "Dratini",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "1/20",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dratini",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "dratini",
+        "serpent",
+        "blue"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/1.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragon-vault-2",
+      "name": "Dratini",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "2/20",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dratini",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "dratini",
+        "serpent",
+        "blue"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/2.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/2.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragon-vault-3",
+      "name": "Dragonair",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "3/20",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragonair",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "dragonair",
+        "mystical",
+        "orb"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/3.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/3.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragon-vault-4",
+      "name": "Dragonair",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "4/20",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragonair",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "dragonair",
+        "mystical",
+        "orb"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/4.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/4.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragon-vault-5",
+      "name": "Dragonite",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "5/20",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragonite",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "dragonite",
+        "gentle",
+        "orange"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/5.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/5.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragon-vault-6",
+      "name": "Bagon",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "6/20",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "bagon",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "bagon",
+        "rock",
+        "head"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/6.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragon-vault-7",
+      "name": "Shelgon",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "7/20",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "shelgon",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "shelgon",
+        "shell",
+        "cocoon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/7.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/7.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragon-vault-8",
+      "name": "Salamence",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "8/20",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "salamence",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "salamence",
+        "wings",
+        "flight"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/8.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/8.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragon-vault-9",
+      "name": "Latias",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "9/20",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "latias",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "latias",
+        "eon",
+        "red"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/9.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/9.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "dragon-vault-10",
+      "name": "Latios",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "10/20",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "latios",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "latios",
+        "eon",
+        "blue"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/10.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/10.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "dragon-vault-11",
+      "name": "Rayquaza",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "11/20",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "rayquaza",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "rayquaza",
+        "sky",
+        "emerald"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/11.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/11.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "dragon-vault-12",
+      "name": "Axew",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "12/20",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "axew",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "axew",
+        "tusk",
+        "small"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/12.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/12.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragon-vault-13",
+      "name": "Axew",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "13/20",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "axew",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "axew",
+        "tusk",
+        "small"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/13.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/13.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragon-vault-14",
+      "name": "Fraxure",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "14/20",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "fraxure",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "fraxure",
+        "axe",
+        "jaw"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/14.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/14.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragon-vault-15",
+      "name": "Fraxure",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "15/20",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "fraxure",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "fraxure",
+        "axe",
+        "jaw"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/15.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/15.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragon-vault-16",
+      "name": "Haxorus",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "16/20",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "haxorus",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "haxorus",
+        "axe",
+        "jaw"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/16.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/16.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragon-vault-17",
+      "name": "Druddigon",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "17/20",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "druddigon",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "druddigon",
+        "cave",
+        "rough"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/17.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/17.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragon-vault-18",
+      "name": "Exp. Share",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "18/20",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "exp share",
+        "trainer",
+        "item",
+        "exp",
+        "share",
+        "experience",
+        "boost"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/18.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/18.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dragon-vault-19",
+      "name": "First Ticket",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "19/20",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "first ticket",
+        "trainer",
+        "item",
+        "first",
+        "ticket",
+        "priority",
+        "advantage"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/19.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/19.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dragon-vault-20",
+      "name": "Super Rod",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "20/20",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "super rod",
+        "trainer",
+        "item",
+        "super",
+        "rod",
+        "fishing",
+        "pokemon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/20.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/20.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dragon-vault-21",
+      "name": "Kyurem",
+      "set": {
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "set_code": "DRV",
+        "release_date": "2012-10-05"
+      },
+      "number": "21/20",
+      "rarity": "Rare Secret",
+      "type": "Dragon",
+      "matching_keywords": [
+        "kyurem",
+        "dragon",
+        "pokemon",
+        "secret",
+        "rare",
+        "dragon",
+        "legendary",
+        "powerful",
+        "ice",
+        "frozen",
+        "boundary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonvault/21.jpg",
+        "large": "https://www.serebii.net/card/dragonvault/21.jpg"
+      },
+      "hp": 150
+    }
+  ]
+}

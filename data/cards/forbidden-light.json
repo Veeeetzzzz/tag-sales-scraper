@@ -1,0 +1,2321 @@
+{
+  "set": {
+    "id": "forbidden-light",
+    "name": "Forbidden Light",
+    "series": "Sun & Moon",
+    "releaseDate": "2018-05-04",
+    "totalCards": 146,
+    "mainSetCards": 131,
+    "symbolUrl": "https://www.serebii.net/card/symbols/forbiddenlight.png",
+    "logoUrl": "https://www.serebii.net/card/forbiddenlight/logo.png"
+  },
+  "cards": [
+    {
+      "id": "forbidden-light-1",
+      "name": "Exeggcute",
+      "number": 1,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/1.jpg"
+    },
+    {
+      "id": "forbidden-light-2",
+      "name": "Alolan Exeggutor",
+      "number": 2,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 160,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/2.jpg"
+    },
+    {
+      "id": "forbidden-light-3",
+      "name": "Snover",
+      "number": 3,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/3.jpg"
+    },
+    {
+      "id": "forbidden-light-4",
+      "name": "Abomasnow",
+      "number": 4,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 140,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/4.jpg"
+    },
+    {
+      "id": "forbidden-light-5",
+      "name": "Scatterbug",
+      "number": 5,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/5.jpg"
+    },
+    {
+      "id": "forbidden-light-6",
+      "name": "Scatterbug",
+      "number": 6,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 40,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/6.jpg"
+    },
+    {
+      "id": "forbidden-light-7",
+      "name": "Spewpa",
+      "number": 7,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/7.jpg"
+    },
+    {
+      "id": "forbidden-light-8",
+      "name": "Vivillon",
+      "number": 8,
+      "type": "Grass",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 100,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/8.jpg"
+    },
+    {
+      "id": "forbidden-light-9",
+      "name": "Skiddo",
+      "number": 9,
+      "type": "Grass",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/9.jpg"
+    },
+    {
+      "id": "forbidden-light-10",
+      "name": "Gogoat",
+      "number": 10,
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/10.jpg"
+    },
+    {
+      "id": "forbidden-light-11",
+      "name": "Pheromosa",
+      "number": 11,
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/11.jpg"
+    },
+    {
+      "id": "forbidden-light-12",
+      "name": "Alolan Marowak",
+      "number": 12,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Alolan"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/12.jpg"
+    },
+    {
+      "id": "forbidden-light-13",
+      "name": "Heatran",
+      "number": 13,
+      "type": "Fire",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/13.jpg"
+    },
+    {
+      "id": "forbidden-light-14",
+      "name": "Fennekin",
+      "number": 14,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/14.jpg"
+    },
+    {
+      "id": "forbidden-light-15",
+      "name": "Fennekin",
+      "number": 15,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/15.jpg"
+    },
+    {
+      "id": "forbidden-light-16",
+      "name": "Braixen",
+      "number": 16,
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/16.jpg"
+    },
+    {
+      "id": "forbidden-light-17",
+      "name": "Delphox",
+      "number": 17,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/17.jpg"
+    },
+    {
+      "id": "forbidden-light-18",
+      "name": "Litleo",
+      "number": 18,
+      "type": "Fire",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/18.jpg"
+    },
+    {
+      "id": "forbidden-light-19",
+      "name": "Pyroar",
+      "number": 19,
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/19.jpg"
+    },
+    {
+      "id": "forbidden-light-20",
+      "name": "Palkia-GX",
+      "number": 20,
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/20.jpg"
+    },
+    {
+      "id": "forbidden-light-21",
+      "name": "Froakie",
+      "number": 21,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/21.jpg"
+    },
+    {
+      "id": "forbidden-light-22",
+      "name": "Froakie",
+      "number": 22,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/22.jpg"
+    },
+    {
+      "id": "forbidden-light-23",
+      "name": "Frogadier",
+      "number": 23,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/23.jpg"
+    },
+    {
+      "id": "forbidden-light-24",
+      "name": "Greninja-GX",
+      "number": 24,
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/24.jpg"
+    },
+    {
+      "id": "forbidden-light-25",
+      "name": "Clauncher",
+      "number": 25,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/25.jpg"
+    },
+    {
+      "id": "forbidden-light-26",
+      "name": "Clawitzer",
+      "number": 26,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 110,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/26.jpg"
+    },
+    {
+      "id": "forbidden-light-27",
+      "name": "Amaura",
+      "number": 27,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Fossil",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/27.jpg"
+    },
+    {
+      "id": "forbidden-light-28",
+      "name": "Aurorus",
+      "number": 28,
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [
+        "Fossil",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/28.jpg"
+    },
+    {
+      "id": "forbidden-light-29",
+      "name": "Bergmite",
+      "number": 29,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/29.jpg"
+    },
+    {
+      "id": "forbidden-light-30",
+      "name": "Avalugg",
+      "number": 30,
+      "type": "Water",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 130,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/30.jpg"
+    },
+    {
+      "id": "forbidden-light-31",
+      "name": "Volcanion Prism Star",
+      "number": 31,
+      "type": "Water",
+      "rarity": "Rare Prism",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 160,
+      "keywords": [
+        "Prism Star",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/31.jpg"
+    },
+    {
+      "id": "forbidden-light-32",
+      "name": "Dewpider",
+      "number": 32,
+      "type": "Water",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/32.jpg"
+    },
+    {
+      "id": "forbidden-light-33",
+      "name": "Araquanid",
+      "number": 33,
+      "type": "Water",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/33.jpg"
+    },
+    {
+      "id": "forbidden-light-34",
+      "name": "Magnemite",
+      "number": 34,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/34.jpg"
+    },
+    {
+      "id": "forbidden-light-35",
+      "name": "Magneton",
+      "number": 35,
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/35.jpg"
+    },
+    {
+      "id": "forbidden-light-36",
+      "name": "Magnezone",
+      "number": 36,
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/36.jpg"
+    },
+    {
+      "id": "forbidden-light-37",
+      "name": "Helioptile",
+      "number": 37,
+      "type": "Lightning",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/37.jpg"
+    },
+    {
+      "id": "forbidden-light-38",
+      "name": "Heliolisk",
+      "number": 38,
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/38.jpg"
+    },
+    {
+      "id": "forbidden-light-39",
+      "name": "Xurkitree",
+      "number": 39,
+      "type": "Lightning",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/39.jpg"
+    },
+    {
+      "id": "forbidden-light-40",
+      "name": "Rotom",
+      "number": 40,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/40.jpg"
+    },
+    {
+      "id": "forbidden-light-41",
+      "name": "Uxie",
+      "number": 41,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Legendary",
+        "Lake Trio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/41.jpg"
+    },
+    {
+      "id": "forbidden-light-42",
+      "name": "Mesprit",
+      "number": 42,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Legendary",
+        "Lake Trio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/42.jpg"
+    },
+    {
+      "id": "forbidden-light-43",
+      "name": "Azelf",
+      "number": 43,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Legendary",
+        "Lake Trio"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/43.jpg"
+    },
+    {
+      "id": "forbidden-light-44",
+      "name": "Espurr",
+      "number": 44,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/44.jpg"
+    },
+    {
+      "id": "forbidden-light-45",
+      "name": "Meowstic",
+      "number": 45,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/45.jpg"
+    },
+    {
+      "id": "forbidden-light-46",
+      "name": "Honedge",
+      "number": 46,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/46.jpg"
+    },
+    {
+      "id": "forbidden-light-47",
+      "name": "Honedge",
+      "number": 47,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/47.jpg"
+    },
+    {
+      "id": "forbidden-light-48",
+      "name": "Doublade",
+      "number": 48,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/48.jpg"
+    },
+    {
+      "id": "forbidden-light-49",
+      "name": "Aegislash",
+      "number": 49,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 120,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/49.jpg"
+    },
+    {
+      "id": "forbidden-light-50",
+      "name": "Inkay",
+      "number": 50,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/50.jpg"
+    },
+    {
+      "id": "forbidden-light-51",
+      "name": "Malamar",
+      "number": 51,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/51.jpg"
+    },
+    {
+      "id": "forbidden-light-52",
+      "name": "Skrelp",
+      "number": 52,
+      "type": "Psychic",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/52.jpg"
+    },
+    {
+      "id": "forbidden-light-53",
+      "name": "Dragalge",
+      "number": 53,
+      "type": "Psychic",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/53.jpg"
+    },
+    {
+      "id": "forbidden-light-54",
+      "name": "Hoopa",
+      "number": 54,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/54.jpg"
+    },
+    {
+      "id": "forbidden-light-55",
+      "name": "Poipole",
+      "number": 55,
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/55.jpg"
+    },
+    {
+      "id": "forbidden-light-56",
+      "name": "Naganadel-GX",
+      "number": 56,
+      "type": "Psychic",
+      "rarity": "Ultra-Rare Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/56.jpg"
+    },
+    {
+      "id": "forbidden-light-57",
+      "name": "Cubone",
+      "number": 57,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/57.jpg"
+    },
+    {
+      "id": "forbidden-light-58",
+      "name": "Torterra",
+      "number": 58,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 160,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/58.jpg"
+    },
+    {
+      "id": "forbidden-light-59",
+      "name": "Infernape",
+      "number": 59,
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/59.jpg"
+    },
+    {
+      "id": "forbidden-light-60",
+      "name": "Gible",
+      "number": 60,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/60.jpg"
+    },
+    {
+      "id": "forbidden-light-61",
+      "name": "Gabite",
+      "number": 61,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/61.jpg"
+    },
+    {
+      "id": "forbidden-light-62",
+      "name": "Garchomp",
+      "number": 62,
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/62.jpg"
+    },
+    {
+      "id": "forbidden-light-63",
+      "name": "Croagunk",
+      "number": 63,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/63.jpg"
+    },
+    {
+      "id": "forbidden-light-64",
+      "name": "Toxicroak",
+      "number": 64,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/64.jpg"
+    },
+    {
+      "id": "forbidden-light-65",
+      "name": "Pancham",
+      "number": 65,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 80,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/65.jpg"
+    },
+    {
+      "id": "forbidden-light-66",
+      "name": "Binacle",
+      "number": 66,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/66.jpg"
+    },
+    {
+      "id": "forbidden-light-67",
+      "name": "Barbaracle",
+      "number": 67,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/67.jpg"
+    },
+    {
+      "id": "forbidden-light-68",
+      "name": "Tyrunt",
+      "number": 68,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 80,
+      "keywords": [
+        "Fossil",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/68.jpg"
+    },
+    {
+      "id": "forbidden-light-69",
+      "name": "Tyrantrum",
+      "number": 69,
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [
+        "Fossil",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/69.jpg"
+    },
+    {
+      "id": "forbidden-light-70",
+      "name": "Hawlucha",
+      "number": 70,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/70.jpg"
+    },
+    {
+      "id": "forbidden-light-71",
+      "name": "Zygarde",
+      "number": 71,
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/71.jpg"
+    },
+    {
+      "id": "forbidden-light-72",
+      "name": "Zygarde",
+      "number": 72,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 100,
+      "keywords": [
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/72.jpg"
+    },
+    {
+      "id": "forbidden-light-73",
+      "name": "Zygarde-GX",
+      "number": 73,
+      "type": "Fighting",
+      "rarity": "Ultra-Rare Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/73.jpg"
+    },
+    {
+      "id": "forbidden-light-74",
+      "name": "Diancie Prism Star",
+      "number": 74,
+      "type": "Fighting",
+      "rarity": "Rare Prism",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 120,
+      "keywords": [
+        "Prism Star",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/74.jpg"
+    },
+    {
+      "id": "forbidden-light-75",
+      "name": "Rockruff",
+      "number": 75,
+      "type": "Fighting",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/75.jpg"
+    },
+    {
+      "id": "forbidden-light-76",
+      "name": "Lycanroc",
+      "number": 76,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 110,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/76.jpg"
+    },
+    {
+      "id": "forbidden-light-77",
+      "name": "Buzzwole",
+      "number": 77,
+      "type": "Fighting",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 130,
+      "keywords": [
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/77.jpg"
+    },
+    {
+      "id": "forbidden-light-78",
+      "name": "Pangoro",
+      "number": 78,
+      "type": "Darkness",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/78.jpg"
+    },
+    {
+      "id": "forbidden-light-79",
+      "name": "Yveltal-GX",
+      "number": 79,
+      "type": "Darkness",
+      "rarity": "Ultra-Rare Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/79.jpg"
+    },
+    {
+      "id": "forbidden-light-80",
+      "name": "Guzzlord",
+      "number": 80,
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 210,
+      "keywords": [
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/80.jpg"
+    },
+    {
+      "id": "forbidden-light-81",
+      "name": "Empoleon",
+      "number": 81,
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 140,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/81.jpg"
+    },
+    {
+      "id": "forbidden-light-82",
+      "name": "Dialga-GX",
+      "number": 82,
+      "type": "Metal",
+      "rarity": "Ultra-Rare Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 180,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/82.jpg"
+    },
+    {
+      "id": "forbidden-light-83",
+      "name": "Flabébé",
+      "number": 83,
+      "type": "Fairy",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/83.jpg"
+    },
+    {
+      "id": "forbidden-light-84",
+      "name": "Flabébé",
+      "number": 84,
+      "type": "Fairy",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 50,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/84.jpg"
+    },
+    {
+      "id": "forbidden-light-85",
+      "name": "Floette",
+      "number": 85,
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 70,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/85.jpg"
+    },
+    {
+      "id": "forbidden-light-86",
+      "name": "Florges",
+      "number": 86,
+      "type": "Fairy",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 100,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/86.jpg"
+    },
+    {
+      "id": "forbidden-light-87",
+      "name": "Sylveon",
+      "number": 87,
+      "type": "Fairy",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 110,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/87.jpg"
+    },
+    {
+      "id": "forbidden-light-88",
+      "name": "Dedenne",
+      "number": 88,
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 70,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/88.jpg"
+    },
+    {
+      "id": "forbidden-light-89",
+      "name": "Klefki",
+      "number": 89,
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/89.jpg"
+    },
+    {
+      "id": "forbidden-light-90",
+      "name": "Xerneas-GX",
+      "number": 90,
+      "type": "Fairy",
+      "rarity": "Ultra-Rare Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/90.jpg"
+    },
+    {
+      "id": "forbidden-light-91",
+      "name": "Goomy",
+      "number": 91,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/91.jpg"
+    },
+    {
+      "id": "forbidden-light-92",
+      "name": "Goomy",
+      "number": 92,
+      "type": "Dragon",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/92.jpg"
+    },
+    {
+      "id": "forbidden-light-93",
+      "name": "Sliggoo",
+      "number": 93,
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 90,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/93.jpg"
+    },
+    {
+      "id": "forbidden-light-94",
+      "name": "Goodra",
+      "number": 94,
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 150,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/94.jpg"
+    },
+    {
+      "id": "forbidden-light-95",
+      "name": "Ultra Necrozma-GX",
+      "number": 95,
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/95.jpg"
+    },
+    {
+      "id": "forbidden-light-96",
+      "name": "Arceus Prism Star",
+      "number": 96,
+      "type": "Colorless",
+      "rarity": "Rare Prism",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 160,
+      "keywords": [
+        "Prism Star",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/96.jpg"
+    },
+    {
+      "id": "forbidden-light-97",
+      "name": "Bunnelby",
+      "number": 97,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/97.jpg"
+    },
+    {
+      "id": "forbidden-light-98",
+      "name": "Diggersby",
+      "number": 98,
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 100,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/98.jpg"
+    },
+    {
+      "id": "forbidden-light-99",
+      "name": "Furfrou",
+      "number": 99,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 90,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/99.jpg"
+    },
+    {
+      "id": "forbidden-light-100",
+      "name": "Noibat",
+      "number": 100,
+      "type": "Colorless",
+      "rarity": "Common",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 60,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/100.jpg"
+    },
+    {
+      "id": "forbidden-light-101",
+      "name": "Noivern",
+      "number": 101,
+      "type": "Colorless",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 120,
+      "keywords": [
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/101.jpg"
+    },
+    {
+      "id": "forbidden-light-102",
+      "name": "Beast Ring",
+      "number": 102,
+      "type": "Trainer",
+      "rarity": "Rare",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [
+        "Beast Support"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/102.jpg"
+    },
+    {
+      "id": "forbidden-light-103",
+      "name": "Bonnie",
+      "number": 103,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/103.jpg"
+    },
+    {
+      "id": "forbidden-light-104",
+      "name": "Crasher Wake",
+      "number": 104,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/104.jpg"
+    },
+    {
+      "id": "forbidden-light-105",
+      "name": "Diantha",
+      "number": 105,
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/105.jpg"
+    },
+    {
+      "id": "forbidden-light-106",
+      "name": "Eneporter",
+      "number": 106,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/106.jpg"
+    },
+    {
+      "id": "forbidden-light-107",
+      "name": "Fossil Excavation Map",
+      "number": 107,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/107.jpg"
+    },
+    {
+      "id": "forbidden-light-108",
+      "name": "Judge",
+      "number": 108,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/108.jpg"
+    },
+    {
+      "id": "forbidden-light-109",
+      "name": "Lady",
+      "number": 109,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/109.jpg"
+    },
+    {
+      "id": "forbidden-light-110",
+      "name": "Lysandre Prism Star",
+      "number": 110,
+      "type": "Trainer",
+      "rarity": "Rare Prism",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Prism Star"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/110.jpg"
+    },
+    {
+      "id": "forbidden-light-111",
+      "name": "Lysandre Labs",
+      "number": 111,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/111.jpg"
+    },
+    {
+      "id": "forbidden-light-112",
+      "name": "Metal Frying Pan",
+      "number": 112,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/112.jpg"
+    },
+    {
+      "id": "forbidden-light-113",
+      "name": "Mysterious Treasure",
+      "number": 113,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/113.jpg"
+    },
+    {
+      "id": "forbidden-light-114",
+      "name": "Ultra Recon Squad",
+      "number": 114,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Beast Support"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/114.jpg"
+    },
+    {
+      "id": "forbidden-light-115",
+      "name": "Ultra Space",
+      "number": 115,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stadium",
+      "hp": null,
+      "keywords": [
+        "Beast Support"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/115.jpg"
+    },
+    {
+      "id": "forbidden-light-116",
+      "name": "Unidentified Fossil",
+      "number": 116,
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/116.jpg"
+    },
+    {
+      "id": "forbidden-light-117",
+      "name": "Beast Energy Prism Star",
+      "number": 117,
+      "type": "Energy",
+      "rarity": "Rare Prism",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "special",
+      "hp": null,
+      "keywords": [
+        "Prism Star",
+        "Beast Support"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/117.jpg"
+    },
+    {
+      "id": "forbidden-light-118",
+      "name": "Unit Energy FightingDarknessFairy",
+      "number": 118,
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "special",
+      "hp": null,
+      "keywords": [
+        "Unit Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/118.jpg"
+    },
+    {
+      "id": "forbidden-light-119",
+      "name": "Palkia-GX",
+      "number": 119,
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/119.jpg"
+    },
+    {
+      "id": "forbidden-light-120",
+      "name": "Greninja-GX",
+      "number": 120,
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/120.jpg"
+    },
+    {
+      "id": "forbidden-light-121",
+      "name": "Naganadel-GX",
+      "number": 121,
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/121.jpg"
+    },
+    {
+      "id": "forbidden-light-122",
+      "name": "Lucario-GX",
+      "number": 122,
+      "type": "Fighting",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 200,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/122.jpg"
+    },
+    {
+      "id": "forbidden-light-123",
+      "name": "Zygarde-GX",
+      "number": 123,
+      "type": "Fighting",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/123.jpg"
+    },
+    {
+      "id": "forbidden-light-124",
+      "name": "Yveltal-GX",
+      "number": 124,
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/124.jpg"
+    },
+    {
+      "id": "forbidden-light-125",
+      "name": "Dialga-GX",
+      "number": 125,
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 180,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/125.jpg"
+    },
+    {
+      "id": "forbidden-light-126",
+      "name": "Xerneas-GX",
+      "number": 126,
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/126.jpg"
+    },
+    {
+      "id": "forbidden-light-127",
+      "name": "Ultra Necrozma-GX",
+      "number": 127,
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/127.jpg"
+    },
+    {
+      "id": "forbidden-light-128",
+      "name": "Bonnie",
+      "number": 128,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/128.jpg"
+    },
+    {
+      "id": "forbidden-light-129",
+      "name": "Crasher Wake",
+      "number": 129,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/129.jpg"
+    },
+    {
+      "id": "forbidden-light-130",
+      "name": "Diantha",
+      "number": 130,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/130.jpg"
+    },
+    {
+      "id": "forbidden-light-131",
+      "name": "Ultra Recon Squad",
+      "number": 131,
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "supporter",
+      "hp": null,
+      "keywords": [
+        "Beast Support"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/131.jpg"
+    },
+    {
+      "id": "forbidden-light-132",
+      "name": "Palkia-GX",
+      "number": 132,
+      "type": "Water",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 200,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/132.jpg"
+    },
+    {
+      "id": "forbidden-light-133",
+      "name": "Greninja-GX",
+      "number": 133,
+      "type": "Water",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage2",
+      "hp": 230,
+      "keywords": [
+        "GX",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/133.jpg"
+    },
+    {
+      "id": "forbidden-light-134",
+      "name": "Naganadel-GX",
+      "number": 134,
+      "type": "Psychic",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Ultra Beast"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/134.jpg"
+    },
+    {
+      "id": "forbidden-light-135",
+      "name": "Lucario-GX",
+      "number": 135,
+      "type": "Fighting",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "stage1",
+      "hp": 200,
+      "keywords": [
+        "GX"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/135.jpg"
+    },
+    {
+      "id": "forbidden-light-136",
+      "name": "Zygarde-GX",
+      "number": 136,
+      "type": "Fighting",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 210,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/136.jpg"
+    },
+    {
+      "id": "forbidden-light-137",
+      "name": "Yveltal-GX",
+      "number": 137,
+      "type": "Darkness",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/137.jpg"
+    },
+    {
+      "id": "forbidden-light-138",
+      "name": "Dialga-GX",
+      "number": 138,
+      "type": "Metal",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 180,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/138.jpg"
+    },
+    {
+      "id": "forbidden-light-139",
+      "name": "Xerneas-GX",
+      "number": 139,
+      "type": "Fairy",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary",
+        "Kalos"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/139.jpg"
+    },
+    {
+      "id": "forbidden-light-140",
+      "name": "Ultra Necrozma-GX",
+      "number": 140,
+      "type": "Dragon",
+      "rarity": "Rare Rainbow",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "basic",
+      "hp": 190,
+      "keywords": [
+        "GX",
+        "Legendary"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/140.jpg"
+    },
+    {
+      "id": "forbidden-light-141",
+      "name": "Beast Ring",
+      "number": 141,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [
+        "Beast Support"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/141.jpg"
+    },
+    {
+      "id": "forbidden-light-142",
+      "name": "Eneporter",
+      "number": 142,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/142.jpg"
+    },
+    {
+      "id": "forbidden-light-143",
+      "name": "Energy Recycler",
+      "number": 143,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/143.jpg"
+    },
+    {
+      "id": "forbidden-light-144",
+      "name": "Metal Frying Pan",
+      "number": 144,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/144.jpg"
+    },
+    {
+      "id": "forbidden-light-145",
+      "name": "Mysterious Treasure",
+      "number": 145,
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "item",
+      "hp": null,
+      "keywords": [],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/145.jpg"
+    },
+    {
+      "id": "forbidden-light-146",
+      "name": "Unit Energy FightingDarknessFairy",
+      "number": 146,
+      "type": "Energy",
+      "rarity": "Rare Secret",
+      "set": "forbidden-light",
+      "setName": "Forbidden Light",
+      "series": "Sun & Moon",
+      "stage": "special",
+      "hp": null,
+      "keywords": [
+        "Unit Energy"
+      ],
+      "imageUrl": "https://www.serebii.net/card/forbiddenlight/146.jpg"
+    }
+  ]
+}

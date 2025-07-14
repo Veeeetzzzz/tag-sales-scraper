@@ -1,0 +1,1531 @@
+{
+  "set_info": {
+    "name": "Furious Fists",
+    "series": "XY",
+    "release_date": "2014-08-13",
+    "total_cards": 113,
+    "symbol": "FUF",
+    "logo": "https://www.serebii.net/card/furiousfists/logo.png"
+  },
+  "cards": [
+    {
+      "id": "furiousfists-1",
+      "name": "Bellsprout",
+      "number": "1",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/1.jpg"
+    },
+    {
+      "id": "furiousfists-2",
+      "name": "Weepinbell",
+      "number": "2",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/2.jpg"
+    },
+    {
+      "id": "furiousfists-3",
+      "name": "Victreebel",
+      "number": "3",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/3.jpg"
+    },
+    {
+      "id": "furiousfists-4",
+      "name": "HeracrossEX",
+      "number": "4",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/4.jpg"
+    },
+    {
+      "id": "furiousfists-5",
+      "name": "MegaHeracrossEX",
+      "number": "5",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo ex",
+      "hp": 230,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/5.jpg"
+    },
+    {
+      "id": "furiousfists-6",
+      "name": "Shroomish",
+      "number": "6",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/6.jpg"
+    },
+    {
+      "id": "furiousfists-7",
+      "name": "Leafeon",
+      "number": "7",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/7.jpg"
+    },
+    {
+      "id": "furiousfists-8",
+      "name": "Shelmet",
+      "number": "8",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/8.jpg"
+    },
+    {
+      "id": "furiousfists-9",
+      "name": "Accelgor",
+      "number": "9",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/9.jpg"
+    },
+    {
+      "id": "furiousfists-10",
+      "name": "Magmar",
+      "number": "10",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/10.jpg"
+    },
+    {
+      "id": "furiousfists-11",
+      "name": "Magmortar",
+      "number": "11",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/11.jpg"
+    },
+    {
+      "id": "furiousfists-12",
+      "name": "Torchic",
+      "number": "12",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/12.jpg"
+    },
+    {
+      "id": "furiousfists-13",
+      "name": "Combusken",
+      "number": "13",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/13.jpg"
+    },
+    {
+      "id": "furiousfists-14",
+      "name": "Blaziken",
+      "number": "14",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/14.jpg"
+    },
+    {
+      "id": "furiousfists-15",
+      "name": "Poliwag",
+      "number": "15",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/15.jpg"
+    },
+    {
+      "id": "furiousfists-16",
+      "name": "Poliwhirl",
+      "number": "16",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/16.jpg"
+    },
+    {
+      "id": "furiousfists-17",
+      "name": "Poliwrath",
+      "number": "17",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/17.jpg"
+    },
+    {
+      "id": "furiousfists-18",
+      "name": "Politoed",
+      "number": "18",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/18.jpg"
+    },
+    {
+      "id": "furiousfists-19",
+      "name": "Glaceon",
+      "number": "19",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/19.jpg"
+    },
+    {
+      "id": "furiousfists-20",
+      "name": "SeismitoadEX",
+      "number": "20",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/20.jpg"
+    },
+    {
+      "id": "furiousfists-21",
+      "name": "Cubchoo",
+      "number": "21",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/21.jpg"
+    },
+    {
+      "id": "furiousfists-22",
+      "name": "Beartic",
+      "number": "22",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/22.jpg"
+    },
+    {
+      "id": "furiousfists-23",
+      "name": "Clauncher",
+      "number": "23",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/23.jpg"
+    },
+    {
+      "id": "furiousfists-24",
+      "name": "Clawitzer",
+      "number": "24",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/24.jpg"
+    },
+    {
+      "id": "furiousfists-25",
+      "name": "Amaura",
+      "number": "25",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/25.jpg"
+    },
+    {
+      "id": "furiousfists-26",
+      "name": "Aurorus",
+      "number": "26",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/26.jpg"
+    },
+    {
+      "id": "furiousfists-27",
+      "name": "Pikachu",
+      "number": "27",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/27.jpg"
+    },
+    {
+      "id": "furiousfists-28",
+      "name": "Raichu",
+      "number": "28",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/28.jpg"
+    },
+    {
+      "id": "furiousfists-29",
+      "name": "Electabuzz",
+      "number": "29",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/29.jpg"
+    },
+    {
+      "id": "furiousfists-30",
+      "name": "Electivire",
+      "number": "30",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/30.jpg"
+    },
+    {
+      "id": "furiousfists-31",
+      "name": "Plusle",
+      "number": "31",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/31.jpg"
+    },
+    {
+      "id": "furiousfists-32",
+      "name": "Minun",
+      "number": "32",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/32.jpg"
+    },
+    {
+      "id": "furiousfists-33",
+      "name": "Thundurus",
+      "number": "33",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/33.jpg"
+    },
+    {
+      "id": "furiousfists-34",
+      "name": "Dedenne",
+      "number": "34",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/34.jpg"
+    },
+    {
+      "id": "furiousfists-35",
+      "name": "Drowzee",
+      "number": "35",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/35.jpg"
+    },
+    {
+      "id": "furiousfists-36",
+      "name": "Hypno",
+      "number": "36",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/36.jpg"
+    },
+    {
+      "id": "furiousfists-37",
+      "name": "Jynx",
+      "number": "37",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/37.jpg"
+    },
+    {
+      "id": "furiousfists-38",
+      "name": "Skorupi",
+      "number": "38",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/38.jpg"
+    },
+    {
+      "id": "furiousfists-39",
+      "name": "Gothita",
+      "number": "39",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/39.jpg"
+    },
+    {
+      "id": "furiousfists-40",
+      "name": "Gothorita",
+      "number": "40",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/40.jpg"
+    },
+    {
+      "id": "furiousfists-41",
+      "name": "Gothitelle",
+      "number": "41",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/41.jpg"
+    },
+    {
+      "id": "furiousfists-42",
+      "name": "Golett",
+      "number": "42",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/42.jpg"
+    },
+    {
+      "id": "furiousfists-43",
+      "name": "Golurk",
+      "number": "43",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 150,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/43.jpg"
+    },
+    {
+      "id": "furiousfists-44",
+      "name": "Machop",
+      "number": "44",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/44.jpg"
+    },
+    {
+      "id": "furiousfists-45",
+      "name": "Machoke",
+      "number": "45",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/45.jpg"
+    },
+    {
+      "id": "furiousfists-46",
+      "name": "Machamp",
+      "number": "46",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 150,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/46.jpg"
+    },
+    {
+      "id": "furiousfists-47",
+      "name": "Hitmonlee",
+      "number": "47",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/47.jpg"
+    },
+    {
+      "id": "furiousfists-48",
+      "name": "Hitmonchan",
+      "number": "48",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/48.jpg"
+    },
+    {
+      "id": "furiousfists-49",
+      "name": "Hitmontop",
+      "number": "49",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/49.jpg"
+    },
+    {
+      "id": "furiousfists-50",
+      "name": "Breloom",
+      "number": "50",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/50.jpg"
+    },
+    {
+      "id": "furiousfists-51",
+      "name": "Makuhita",
+      "number": "51",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 80,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/51.jpg"
+    },
+    {
+      "id": "furiousfists-52",
+      "name": "Hariyama",
+      "number": "52",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/52.jpg"
+    },
+    {
+      "id": "furiousfists-53",
+      "name": "Trapinch",
+      "number": "53",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/53.jpg"
+    },
+    {
+      "id": "furiousfists-54",
+      "name": "LucarioEX",
+      "number": "54",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo ex",
+      "hp": 170,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/54.jpg"
+    },
+    {
+      "id": "furiousfists-55",
+      "name": "MegaLucarioEX",
+      "number": "55",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo ex",
+      "hp": 230,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/55.jpg"
+    },
+    {
+      "id": "furiousfists-56",
+      "name": "Mienfoo",
+      "number": "56",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/56.jpg"
+    },
+    {
+      "id": "furiousfists-57",
+      "name": "Mienshao",
+      "number": "57",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/57.jpg"
+    },
+    {
+      "id": "furiousfists-58",
+      "name": "Landorus",
+      "number": "58",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/58.jpg"
+    },
+    {
+      "id": "furiousfists-59",
+      "name": "Pancham",
+      "number": "59",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/59.jpg"
+    },
+    {
+      "id": "furiousfists-60",
+      "name": "Pancham",
+      "number": "60",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/60.jpg"
+    },
+    {
+      "id": "furiousfists-61",
+      "name": "Tyrunt",
+      "number": "61",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/61.jpg"
+    },
+    {
+      "id": "furiousfists-62",
+      "name": "Tyrantrum",
+      "number": "62",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 150,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/62.jpg"
+    },
+    {
+      "id": "furiousfists-63",
+      "name": "Hawlucha",
+      "number": "63",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/63.jpg"
+    },
+    {
+      "id": "furiousfists-64",
+      "name": "HawluchaEX",
+      "number": "64",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo ex",
+      "hp": 170,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/64.jpg"
+    },
+    {
+      "id": "furiousfists-65",
+      "name": "Drapion",
+      "number": "65",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/65.jpg"
+    },
+    {
+      "id": "furiousfists-66",
+      "name": "Scraggy",
+      "number": "66",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/66.jpg"
+    },
+    {
+      "id": "furiousfists-67",
+      "name": "Scrafty",
+      "number": "67",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/67.jpg"
+    },
+    {
+      "id": "furiousfists-68",
+      "name": "Pangoro",
+      "number": "68",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/68.jpg"
+    },
+    {
+      "id": "furiousfists-69",
+      "name": "Clefairy",
+      "number": "69",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/69.jpg"
+    },
+    {
+      "id": "furiousfists-70",
+      "name": "Clefairy",
+      "number": "70",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/70.jpg"
+    },
+    {
+      "id": "furiousfists-71",
+      "name": "Clefable",
+      "number": "71",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/71.jpg"
+    },
+    {
+      "id": "furiousfists-72",
+      "name": "Sylveon",
+      "number": "72",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/72.jpg"
+    },
+    {
+      "id": "furiousfists-73",
+      "name": "Klefki",
+      "number": "73",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/73.jpg"
+    },
+    {
+      "id": "furiousfists-74",
+      "name": "DragoniteEX",
+      "number": "74",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/74.jpg"
+    },
+    {
+      "id": "furiousfists-75",
+      "name": "Vibrava",
+      "number": "75",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/75.jpg"
+    },
+    {
+      "id": "furiousfists-76",
+      "name": "Flygon",
+      "number": "76",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/76.jpg"
+    },
+    {
+      "id": "furiousfists-77",
+      "name": "Noivern",
+      "number": "77",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/77.jpg"
+    },
+    {
+      "id": "furiousfists-78",
+      "name": "Lickitung",
+      "number": "78",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/78.jpg"
+    },
+    {
+      "id": "furiousfists-79",
+      "name": "Lickilicky",
+      "number": "79",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/79.jpg"
+    },
+    {
+      "id": "furiousfists-80",
+      "name": "Eevee",
+      "number": "80",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/80.jpg"
+    },
+    {
+      "id": "furiousfists-81",
+      "name": "Slakoth",
+      "number": "81",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/81.jpg"
+    },
+    {
+      "id": "furiousfists-82",
+      "name": "Vigoroth",
+      "number": "82",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/82.jpg"
+    },
+    {
+      "id": "furiousfists-83",
+      "name": "Slaking",
+      "number": "83",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "hp": 150,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/83.jpg"
+    },
+    {
+      "id": "furiousfists-84",
+      "name": "Patrat",
+      "number": "84",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/84.jpg"
+    },
+    {
+      "id": "furiousfists-85",
+      "name": "Watchog",
+      "number": "85",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/85.jpg"
+    },
+    {
+      "id": "furiousfists-86",
+      "name": "Tornadus",
+      "number": "86",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/86.jpg"
+    },
+    {
+      "id": "furiousfists-87",
+      "name": "Noibat",
+      "number": "87",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/furiousfists/87.jpg"
+    },
+    {
+      "id": "furiousfists-88",
+      "name": "Battle Reporter",
+      "number": "88",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/88.jpg"
+    },
+    {
+      "id": "furiousfists-89",
+      "name": "Energy Switch",
+      "number": "89",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/89.jpg"
+    },
+    {
+      "id": "furiousfists-90",
+      "name": "Fighting Stadium",
+      "number": "90",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/90.jpg"
+    },
+    {
+      "id": "furiousfists-91",
+      "name": "Focus Sash",
+      "number": "91",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/91.jpg"
+    },
+    {
+      "id": "furiousfists-92",
+      "name": "Fossil Researcher",
+      "number": "92",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/92.jpg"
+    },
+    {
+      "id": "furiousfists-93",
+      "name": "Full Heal",
+      "number": "93",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/93.jpg"
+    },
+    {
+      "id": "furiousfists-94",
+      "name": "Jaw Fossil",
+      "number": "94",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/94.jpg"
+    },
+    {
+      "id": "furiousfists-95",
+      "name": "Korrina",
+      "number": "95",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/95.jpg"
+    },
+    {
+      "id": "furiousfists-96",
+      "name": "Maintenance",
+      "number": "96",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/96.jpg"
+    },
+    {
+      "id": "furiousfists-97",
+      "name": "Mountain Ring",
+      "number": "97",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/97.jpg"
+    },
+    {
+      "id": "furiousfists-98",
+      "name": "Sail Fossil",
+      "number": "98",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/98.jpg"
+    },
+    {
+      "id": "furiousfists-99",
+      "name": "Sparkling Robe",
+      "number": "99",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/99.jpg"
+    },
+    {
+      "id": "furiousfists-100",
+      "name": "Super Scoop Up",
+      "number": "100",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/100.jpg"
+    },
+    {
+      "id": "furiousfists-101",
+      "name": "Tool Retriever",
+      "number": "101",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/101.jpg"
+    },
+    {
+      "id": "furiousfists-102",
+      "name": "Training Center",
+      "number": "102",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/102.jpg"
+    },
+    {
+      "id": "furiousfists-103",
+      "name": "Herbal Energy",
+      "number": "103",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "energy"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/103.jpg"
+    },
+    {
+      "id": "furiousfists-104",
+      "name": "Strong Energy",
+      "number": "104",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "energy"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/104.jpg"
+    },
+    {
+      "id": "furiousfists-105",
+      "name": "HeracrossEX",
+      "number": "105",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/105.jpg"
+    },
+    {
+      "id": "furiousfists-106",
+      "name": "SeismitoadEX",
+      "number": "106",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/106.jpg"
+    },
+    {
+      "id": "furiousfists-107",
+      "name": "LucarioEX",
+      "number": "107",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Ultra",
+      "hp": 170,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/107.jpg"
+    },
+    {
+      "id": "furiousfists-108",
+      "name": "DragoniteEX",
+      "number": "108",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/108.jpg"
+    },
+    {
+      "id": "furiousfists-109",
+      "name": "Battle Reporter",
+      "number": "109",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/109.jpg"
+    },
+    {
+      "id": "furiousfists-110",
+      "name": "Fossil Researcher",
+      "number": "110",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/110.jpg"
+    },
+    {
+      "id": "furiousfists-111",
+      "name": "Korrina",
+      "number": "111",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/111.jpg"
+    },
+    {
+      "id": "furiousfists-112",
+      "name": "MegaHeracrossEX",
+      "number": "112",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Secret",
+      "hp": 230,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/112.jpg"
+    },
+    {
+      "id": "furiousfists-113",
+      "name": "MegaLucarioEX",
+      "number": "113",
+      "set": "Furious Fists",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Secret",
+      "hp": 230,
+      "keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/furiousfists/113.jpg"
+    }
+  ]
+}

@@ -1,0 +1,1652 @@
+{
+  "set_info": {
+    "name": "Phantom Forces",
+    "series": "XY",
+    "release_date": "2014-11-05",
+    "total_cards": 122,
+    "symbol": "PHF",
+    "logo": "https://www.serebii.net/card/phantomforces/logo.png"
+  },
+  "cards": [
+    {
+      "id": "phantomforces-1",
+      "name": "Venonat",
+      "number": "1",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/1.jpg"
+    },
+    {
+      "id": "phantomforces-2",
+      "name": "Venomoth",
+      "number": "2",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/2.jpg"
+    },
+    {
+      "id": "phantomforces-3",
+      "name": "Yanma",
+      "number": "3",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/3.jpg"
+    },
+    {
+      "id": "phantomforces-4",
+      "name": "Yanmega",
+      "number": "4",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/4.jpg"
+    },
+    {
+      "id": "phantomforces-5",
+      "name": "Sewaddle",
+      "number": "5",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/5.jpg"
+    },
+    {
+      "id": "phantomforces-6",
+      "name": "Swadloon",
+      "number": "6",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/6.jpg"
+    },
+    {
+      "id": "phantomforces-7",
+      "name": "Leavanny",
+      "number": "7",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/7.jpg"
+    },
+    {
+      "id": "phantomforces-8",
+      "name": "Karrablast",
+      "number": "8",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/8.jpg"
+    },
+    {
+      "id": "phantomforces-9",
+      "name": "Fletchinder",
+      "number": "9",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/9.jpg"
+    },
+    {
+      "id": "phantomforces-10",
+      "name": "Talonflame",
+      "number": "10",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/10.jpg"
+    },
+    {
+      "id": "phantomforces-11",
+      "name": "Litleo",
+      "number": "11",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/11.jpg"
+    },
+    {
+      "id": "phantomforces-12",
+      "name": "Pyroar",
+      "number": "12",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "hp": 120,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/12.jpg"
+    },
+    {
+      "id": "phantomforces-13",
+      "name": "Krabby",
+      "number": "13",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/13.jpg"
+    },
+    {
+      "id": "phantomforces-14",
+      "name": "Kingler",
+      "number": "14",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/14.jpg"
+    },
+    {
+      "id": "phantomforces-15",
+      "name": "Totodile",
+      "number": "15",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/15.jpg"
+    },
+    {
+      "id": "phantomforces-16",
+      "name": "Croconaw",
+      "number": "16",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/16.jpg"
+    },
+    {
+      "id": "phantomforces-17",
+      "name": "Feraligatr",
+      "number": "17",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 150,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/17.jpg"
+    },
+    {
+      "id": "phantomforces-18",
+      "name": "Finneon",
+      "number": "18",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/18.jpg"
+    },
+    {
+      "id": "phantomforces-19",
+      "name": "Lumineon",
+      "number": "19",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/19.jpg"
+    },
+    {
+      "id": "phantomforces-20",
+      "name": "Frillish",
+      "number": "20",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/20.jpg"
+    },
+    {
+      "id": "phantomforces-21",
+      "name": "Jellicent",
+      "number": "21",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/21.jpg"
+    },
+    {
+      "id": "phantomforces-22",
+      "name": "Alomomola",
+      "number": "22",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/22.jpg"
+    },
+    {
+      "id": "phantomforces-23",
+      "name": "ManectricEX",
+      "number": "23",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Holo ex",
+      "hp": 170,
+      "keywords": [
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/23.jpg"
+    },
+    {
+      "id": "phantomforces-24",
+      "name": "MegaManectricEX",
+      "number": "24",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Holo ex",
+      "hp": 220,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/24.jpg"
+    },
+    {
+      "id": "phantomforces-25",
+      "name": "Pachirisu",
+      "number": "25",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/25.jpg"
+    },
+    {
+      "id": "phantomforces-26",
+      "name": "Joltik",
+      "number": "26",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 30,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/26.jpg"
+    },
+    {
+      "id": "phantomforces-27",
+      "name": "Galvantula",
+      "number": "27",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/27.jpg"
+    },
+    {
+      "id": "phantomforces-28",
+      "name": "Helioptile",
+      "number": "28",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/28.jpg"
+    },
+    {
+      "id": "phantomforces-29",
+      "name": "Helioptile",
+      "number": "29",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/29.jpg"
+    },
+    {
+      "id": "phantomforces-30",
+      "name": "Heliolisk",
+      "number": "30",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/30.jpg"
+    },
+    {
+      "id": "phantomforces-31",
+      "name": "Zubat",
+      "number": "31",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 40,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/31.jpg"
+    },
+    {
+      "id": "phantomforces-32",
+      "name": "Golbat",
+      "number": "32",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/32.jpg"
+    },
+    {
+      "id": "phantomforces-33",
+      "name": "Crobat",
+      "number": "33",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/33.jpg"
+    },
+    {
+      "id": "phantomforces-34",
+      "name": "GengarEX",
+      "number": "34",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo ex",
+      "hp": 170,
+      "keywords": [
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/34.jpg"
+    },
+    {
+      "id": "phantomforces-35",
+      "name": "MegaGengarEX",
+      "number": "35",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo ex",
+      "hp": 220,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/35.jpg"
+    },
+    {
+      "id": "phantomforces-36",
+      "name": "Wobbuffet",
+      "number": "36",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/36.jpg"
+    },
+    {
+      "id": "phantomforces-37",
+      "name": "Gulpin",
+      "number": "37",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/37.jpg"
+    },
+    {
+      "id": "phantomforces-38",
+      "name": "Swalot",
+      "number": "38",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 110,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/38.jpg"
+    },
+    {
+      "id": "phantomforces-39",
+      "name": "Munna",
+      "number": "39",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/39.jpg"
+    },
+    {
+      "id": "phantomforces-40",
+      "name": "Musharna",
+      "number": "40",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/40.jpg"
+    },
+    {
+      "id": "phantomforces-41",
+      "name": "Litwick",
+      "number": "41",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/41.jpg"
+    },
+    {
+      "id": "phantomforces-42",
+      "name": "Lampent",
+      "number": "42",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/42.jpg"
+    },
+    {
+      "id": "phantomforces-43",
+      "name": "Chandelure",
+      "number": "43",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/43.jpg"
+    },
+    {
+      "id": "phantomforces-44",
+      "name": "Pumpkaboo",
+      "number": "44",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/44.jpg"
+    },
+    {
+      "id": "phantomforces-45",
+      "name": "Gourgeist",
+      "number": "45",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/45.jpg"
+    },
+    {
+      "id": "phantomforces-46",
+      "name": "Gligar",
+      "number": "46",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/46.jpg"
+    },
+    {
+      "id": "phantomforces-47",
+      "name": "Gliscor",
+      "number": "47",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 110,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/47.jpg"
+    },
+    {
+      "id": "phantomforces-48",
+      "name": "Roggenrola",
+      "number": "48",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/48.jpg"
+    },
+    {
+      "id": "phantomforces-49",
+      "name": "Boldore",
+      "number": "49",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/49.jpg"
+    },
+    {
+      "id": "phantomforces-50",
+      "name": "Gigalith",
+      "number": "50",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [
+        "fighting"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/50.jpg"
+    },
+    {
+      "id": "phantomforces-51",
+      "name": "Murkrow",
+      "number": "51",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/51.jpg"
+    },
+    {
+      "id": "phantomforces-52",
+      "name": "Honchkrow",
+      "number": "52",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/52.jpg"
+    },
+    {
+      "id": "phantomforces-53",
+      "name": "Poochyena",
+      "number": "53",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/53.jpg"
+    },
+    {
+      "id": "phantomforces-54",
+      "name": "Mightyena",
+      "number": "54",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 90,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/54.jpg"
+    },
+    {
+      "id": "phantomforces-55",
+      "name": "Spiritomb",
+      "number": "55",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 70,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/55.jpg"
+    },
+    {
+      "id": "phantomforces-56",
+      "name": "Purrloin",
+      "number": "56",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/56.jpg"
+    },
+    {
+      "id": "phantomforces-57",
+      "name": "Liepard",
+      "number": "57",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "darkness"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/57.jpg"
+    },
+    {
+      "id": "phantomforces-58",
+      "name": "MalamarEX",
+      "number": "58",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "darkness",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/58.jpg"
+    },
+    {
+      "id": "phantomforces-59",
+      "name": "Skarmory",
+      "number": "59",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/59.jpg"
+    },
+    {
+      "id": "phantomforces-60",
+      "name": "Bronzor",
+      "number": "60",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/60.jpg"
+    },
+    {
+      "id": "phantomforces-61",
+      "name": "Bronzong",
+      "number": "61",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/61.jpg"
+    },
+    {
+      "id": "phantomforces-62",
+      "name": "DialgaEX",
+      "number": "62",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "hp": 180,
+      "keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/62.jpg"
+    },
+    {
+      "id": "phantomforces-63",
+      "name": "Heatran",
+      "number": "63",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/63.jpg"
+    },
+    {
+      "id": "phantomforces-64",
+      "name": "Escavalier",
+      "number": "64",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/64.jpg"
+    },
+    {
+      "id": "phantomforces-65",
+      "name": "AegislashEX",
+      "number": "65",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "hp": 170,
+      "keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/65.jpg"
+    },
+    {
+      "id": "phantomforces-66",
+      "name": "Klefki",
+      "number": "66",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "keywords": [
+        "metal"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/66.jpg"
+    },
+    {
+      "id": "phantomforces-67",
+      "name": "FlorgesEX",
+      "number": "67",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo ex",
+      "hp": 160,
+      "keywords": [
+        "fairy",
+        "ex",
+        "pokemon-ex"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/67.jpg"
+    },
+    {
+      "id": "phantomforces-68",
+      "name": "Swirlix",
+      "number": "68",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/68.jpg"
+    },
+    {
+      "id": "phantomforces-69",
+      "name": "Slurpuff",
+      "number": "69",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "hp": 90,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/69.jpg"
+    },
+    {
+      "id": "phantomforces-70",
+      "name": "Dedenne",
+      "number": "70",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 70,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/70.jpg"
+    },
+    {
+      "id": "phantomforces-71",
+      "name": "Diancie",
+      "number": "71",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "hp": 110,
+      "keywords": [
+        "fairy"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/71.jpg"
+    },
+    {
+      "id": "phantomforces-72",
+      "name": "Deino",
+      "number": "72",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/72.jpg"
+    },
+    {
+      "id": "phantomforces-73",
+      "name": "Zweilous",
+      "number": "73",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/73.jpg"
+    },
+    {
+      "id": "phantomforces-74",
+      "name": "Hydreigon",
+      "number": "74",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/74.jpg"
+    },
+    {
+      "id": "phantomforces-75",
+      "name": "Goomy",
+      "number": "75",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/75.jpg"
+    },
+    {
+      "id": "phantomforces-76",
+      "name": "Sliggoo",
+      "number": "76",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/76.jpg"
+    },
+    {
+      "id": "phantomforces-77",
+      "name": "Goodra",
+      "number": "77",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "keywords": [
+        "dragon"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/77.jpg"
+    },
+    {
+      "id": "phantomforces-78",
+      "name": "Spearow",
+      "number": "78",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/78.jpg"
+    },
+    {
+      "id": "phantomforces-79",
+      "name": "Fearow",
+      "number": "79",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/79.jpg"
+    },
+    {
+      "id": "phantomforces-80",
+      "name": "Chansey",
+      "number": "80",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 120,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/80.jpg"
+    },
+    {
+      "id": "phantomforces-81",
+      "name": "Blissey",
+      "number": "81",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 130,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/81.jpg"
+    },
+    {
+      "id": "phantomforces-82",
+      "name": "Girafarig",
+      "number": "82",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/82.jpg"
+    },
+    {
+      "id": "phantomforces-83",
+      "name": "Whismur",
+      "number": "83",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/83.jpg"
+    },
+    {
+      "id": "phantomforces-84",
+      "name": "Loudred",
+      "number": "84",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/84.jpg"
+    },
+    {
+      "id": "phantomforces-85",
+      "name": "Exploud",
+      "number": "85",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/85.jpg"
+    },
+    {
+      "id": "phantomforces-86",
+      "name": "Regigigas",
+      "number": "86",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "hp": 120,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/86.jpg"
+    },
+    {
+      "id": "phantomforces-87",
+      "name": "Bunnelby",
+      "number": "87",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/87.jpg"
+    },
+    {
+      "id": "phantomforces-88",
+      "name": "Diggersby",
+      "number": "88",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 100,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/88.jpg"
+    },
+    {
+      "id": "phantomforces-89",
+      "name": "Fletchling",
+      "number": "89",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 50,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/89.jpg"
+    },
+    {
+      "id": "phantomforces-90",
+      "name": "Furfrou",
+      "number": "90",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [],
+      "image": "https://www.serebii.net/card/phantomforces/90.jpg"
+    },
+    {
+      "id": "phantomforces-91",
+      "name": "AZ",
+      "number": "91",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/91.jpg"
+    },
+    {
+      "id": "phantomforces-92",
+      "name": "Battle Compressor",
+      "number": "92",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/92.jpg"
+    },
+    {
+      "id": "phantomforces-93",
+      "name": "Dimension Valley",
+      "number": "93",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/93.jpg"
+    },
+    {
+      "id": "phantomforces-94",
+      "name": "Enhanced Hammer",
+      "number": "94",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/94.jpg"
+    },
+    {
+      "id": "phantomforces-95",
+      "name": "Gengar Spirit Link",
+      "number": "95",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/95.jpg"
+    },
+    {
+      "id": "phantomforces-96",
+      "name": "Hand Scope",
+      "number": "96",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/96.jpg"
+    },
+    {
+      "id": "phantomforces-97",
+      "name": "Head Ringer",
+      "number": "97",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/97.jpg"
+    },
+    {
+      "id": "phantomforces-98",
+      "name": "Jamming Net",
+      "number": "98",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/98.jpg"
+    },
+    {
+      "id": "phantomforces-99",
+      "name": "Lysandre's Trump Card",
+      "number": "99",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/99.jpg"
+    },
+    {
+      "id": "phantomforces-100",
+      "name": "Manectric Spirit Link",
+      "number": "100",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/100.jpg"
+    },
+    {
+      "id": "phantomforces-101",
+      "name": "Professor Sycamore",
+      "number": "101",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/101.jpg"
+    },
+    {
+      "id": "phantomforces-102",
+      "name": "Robo Substitute",
+      "number": "102",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/102.jpg"
+    },
+    {
+      "id": "phantomforces-103",
+      "name": "Roller Skates",
+      "number": "103",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/103.jpg"
+    },
+    {
+      "id": "phantomforces-104",
+      "name": "Shauna",
+      "number": "104",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/104.jpg"
+    },
+    {
+      "id": "phantomforces-105",
+      "name": "Steel Shelter",
+      "number": "105",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/105.jpg"
+    },
+    {
+      "id": "phantomforces-106",
+      "name": "Target Whistle",
+      "number": "106",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/106.jpg"
+    },
+    {
+      "id": "phantomforces-107",
+      "name": "Tierno",
+      "number": "107",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/107.jpg"
+    },
+    {
+      "id": "phantomforces-108",
+      "name": "Trick Coin",
+      "number": "108",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/108.jpg"
+    },
+    {
+      "id": "phantomforces-109",
+      "name": "VS Seeker",
+      "number": "109",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/109.jpg"
+    },
+    {
+      "id": "phantomforces-110",
+      "name": "Xerosic",
+      "number": "110",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "trainer"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/110.jpg"
+    },
+    {
+      "id": "phantomforces-111",
+      "name": "Double Colorless Energy",
+      "number": "111",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "energy"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/111.jpg"
+    },
+    {
+      "id": "phantomforces-112",
+      "name": "Mystery Energy",
+      "number": "112",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "hp": 0,
+      "keywords": [
+        "energy"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/112.jpg"
+    },
+    {
+      "id": "phantomforces-113",
+      "name": "ManectricEX",
+      "number": "113",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Ultra",
+      "hp": 170,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/113.jpg"
+    },
+    {
+      "id": "phantomforces-114",
+      "name": "GengarEX",
+      "number": "114",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "hp": 170,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/114.jpg"
+    },
+    {
+      "id": "phantomforces-115",
+      "name": "MalamarEX",
+      "number": "115",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "keywords": [
+        "darkness",
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/115.jpg"
+    },
+    {
+      "id": "phantomforces-116",
+      "name": "FlorgesEX",
+      "number": "116",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "hp": 160,
+      "keywords": [
+        "fairy",
+        "ex",
+        "pokemon-ex",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/116.jpg"
+    },
+    {
+      "id": "phantomforces-117",
+      "name": "AZ",
+      "number": "117",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/117.jpg"
+    },
+    {
+      "id": "phantomforces-118",
+      "name": "Lysandre's Trump Card",
+      "number": "118",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/118.jpg"
+    },
+    {
+      "id": "phantomforces-119",
+      "name": "Xerosic",
+      "number": "119",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": 0,
+      "keywords": [
+        "trainer",
+        "ultra"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/119.jpg"
+    },
+    {
+      "id": "phantomforces-120",
+      "name": "MegaManectricEX",
+      "number": "120",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare Secret",
+      "hp": 220,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/120.jpg"
+    },
+    {
+      "id": "phantomforces-121",
+      "name": "MegaGengarEX",
+      "number": "121",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Secret",
+      "hp": 220,
+      "keywords": [
+        "ex",
+        "pokemon-ex",
+        "mega",
+        "mega-evolution",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/121.jpg"
+    },
+    {
+      "id": "phantomforces-122",
+      "name": "DialgaEX",
+      "number": "122",
+      "set": "Phantom Forces",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Secret",
+      "hp": 180,
+      "keywords": [
+        "metal",
+        "ex",
+        "pokemon-ex",
+        "secret"
+      ],
+      "image": "https://www.serebii.net/card/phantomforces/122.jpg"
+    }
+  ]
+}

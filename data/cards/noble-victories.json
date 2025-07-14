@@ -1,0 +1,2683 @@
+{
+  "set_info": {
+    "name": "Noble Victories",
+    "series": "Black & White",
+    "set_code": "BW3",
+    "release_date": "2011-11-16",
+    "total_cards": 101
+  },
+  "cards": [
+    {
+      "id": "noble-victories-1",
+      "name": "Sewaddle",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "1/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "sewaddle",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "sewing"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/1.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-2",
+      "name": "Swadloon",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "2/101",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "swadloon",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "leaf"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/2.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/2.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-3",
+      "name": "Leavanny",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "3/101",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "leavanny",
+        "grass",
+        "pokemon",
+        "bug",
+        "grass",
+        "nurturing"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/3.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/3.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-4",
+      "name": "Petilil",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "4/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "petilil",
+        "grass",
+        "pokemon",
+        "grass",
+        "bulb",
+        "root"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/4.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/4.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-5",
+      "name": "Lilligant",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "5/101",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "lilligant",
+        "grass",
+        "pokemon",
+        "grass",
+        "flowering",
+        "decorating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/5.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/5.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-6",
+      "name": "Dwebble",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "6/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "dwebble",
+        "grass",
+        "pokemon",
+        "bug",
+        "rock",
+        "hermit"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/6.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-7",
+      "name": "Crustle",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "7/101",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "crustle",
+        "grass",
+        "pokemon",
+        "bug",
+        "rock",
+        "stone"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/7.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/7.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-8",
+      "name": "Karrablast",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "8/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "karrablast",
+        "grass",
+        "pokemon",
+        "bug",
+        "clamping",
+        "beetle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/8.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/8.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-9",
+      "name": "Foongus",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "9/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "foongus",
+        "grass",
+        "pokemon",
+        "grass",
+        "poison",
+        "mushroom"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/9.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/9.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-10",
+      "name": "Amoonguss",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "10/101",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "amoonguss",
+        "grass",
+        "pokemon",
+        "grass",
+        "poison",
+        "mushroom"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/10.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/10.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-11",
+      "name": "Shelmet",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "11/101",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "shelmet",
+        "grass",
+        "pokemon",
+        "bug",
+        "snail",
+        "shell"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/11.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/11.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-12",
+      "name": "Accelgor",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "12/101",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "accelgor",
+        "grass",
+        "pokemon",
+        "bug",
+        "shell",
+        "ninja"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/12.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/12.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-13",
+      "name": "Virizion",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "13/101",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "virizion",
+        "grass",
+        "pokemon",
+        "legendary",
+        "grass",
+        "fighting",
+        "grassland"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/13.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/13.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-14",
+      "name": "Victini",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "14/101",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "victini",
+        "fire",
+        "pokemon",
+        "legendary",
+        "psychic",
+        "fire",
+        "victory"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/14.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/14.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-15",
+      "name": "Victini",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "15/101",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "victini",
+        "fire",
+        "pokemon",
+        "legendary",
+        "psychic",
+        "fire",
+        "victory"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/15.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/15.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-16",
+      "name": "Pansear",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "16/101",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "pansear",
+        "fire",
+        "pokemon",
+        "fire",
+        "monkey",
+        "high"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/16.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/16.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-17",
+      "name": "Simisear",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "17/101",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "simisear",
+        "fire",
+        "pokemon",
+        "fire",
+        "monkey",
+        "ember"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/17.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/17.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-18",
+      "name": "Heatmor",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "18/101",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "heatmor",
+        "fire",
+        "pokemon",
+        "fire",
+        "anteater",
+        "flame"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/18.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/18.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-19",
+      "name": "Larvesta",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "19/101",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "larvesta",
+        "fire",
+        "pokemon",
+        "bug",
+        "fire",
+        "torch"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/19.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/19.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-20",
+      "name": "Larvesta",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "20/101",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "larvesta",
+        "fire",
+        "pokemon",
+        "bug",
+        "fire",
+        "torch"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/20.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/20.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-21",
+      "name": "Volcarona",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "21/101",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "volcarona",
+        "fire",
+        "pokemon",
+        "bug",
+        "fire",
+        "sun"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/21.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/21.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-22",
+      "name": "Tympole",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "22/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "tympole",
+        "water",
+        "pokemon",
+        "water",
+        "tadpole",
+        "vibration"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/22.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/22.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-23",
+      "name": "Palpitoad",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "23/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "palpitoad",
+        "water",
+        "pokemon",
+        "water",
+        "ground",
+        "vibration"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/23.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/23.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-24",
+      "name": "Seismitoad",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "24/101",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "seismitoad",
+        "water",
+        "pokemon",
+        "water",
+        "ground",
+        "vibration"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/24.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/24.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-25",
+      "name": "Tirtouga",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "25/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "tirtouga",
+        "water",
+        "pokemon",
+        "water",
+        "rock",
+        "turtle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/25.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/25.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-26",
+      "name": "Carracosta",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "26/101",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "carracosta",
+        "water",
+        "pokemon",
+        "water",
+        "rock",
+        "turtle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/26.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/26.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-27",
+      "name": "Vanillite",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "27/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "vanillite",
+        "water",
+        "pokemon",
+        "ice",
+        "fresh",
+        "snow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/27.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/27.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-28",
+      "name": "Vanillish",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "28/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "vanillish",
+        "water",
+        "pokemon",
+        "ice",
+        "icy",
+        "snow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/28.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/28.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-29",
+      "name": "Vanilluxe",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "29/101",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "vanilluxe",
+        "water",
+        "pokemon",
+        "ice",
+        "snowstorm",
+        "blizzard"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/29.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/29.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-30",
+      "name": "Frillish",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "30/101",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "frillish",
+        "water",
+        "pokemon",
+        "water",
+        "ghost",
+        "floating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/30.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/30.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-31",
+      "name": "Jellicent",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "31/101",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "jellicent",
+        "water",
+        "pokemon",
+        "water",
+        "ghost",
+        "floating"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/31.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/31.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-32",
+      "name": "Cryogonal",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "32/101",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "cryogonal",
+        "water",
+        "pokemon",
+        "ice",
+        "crystallizing",
+        "chain"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/32.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/32.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-33",
+      "name": "Cryogonal",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "33/101",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "cryogonal",
+        "water",
+        "pokemon",
+        "ice",
+        "crystallizing",
+        "chain"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/33.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/33.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-34",
+      "name": "Kyurem",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "34/101",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "kyurem",
+        "water",
+        "pokemon",
+        "legendary",
+        "dragon",
+        "ice",
+        "boundary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/34.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/34.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-35",
+      "name": "Blitzle",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "35/101",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "blitzle",
+        "lightning",
+        "pokemon",
+        "electric",
+        "electrified",
+        "zebra"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/35.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/35.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-36",
+      "name": "Zebstrika",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "36/101",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "matching_keywords": [
+        "zebstrika",
+        "lightning",
+        "pokemon",
+        "electric",
+        "thunderbolt",
+        "zebra"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/36.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/36.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-37",
+      "name": "Emolga",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "37/101",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "emolga",
+        "lightning",
+        "pokemon",
+        "electric",
+        "flying",
+        "sky"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/37.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/37.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-38",
+      "name": "Tynamo",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "38/101",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "tynamo",
+        "lightning",
+        "pokemon",
+        "electric",
+        "elfish",
+        "eel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/38.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/38.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-39",
+      "name": "Tynamo",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "39/101",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "tynamo",
+        "lightning",
+        "pokemon",
+        "electric",
+        "elfish",
+        "eel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/39.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/39.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-40",
+      "name": "Eelektrik",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "40/101",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "eelektrik",
+        "lightning",
+        "pokemon",
+        "electric",
+        "elfish",
+        "eel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/40.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/40.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-41",
+      "name": "Eelektross",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "41/101",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "eelektross",
+        "lightning",
+        "pokemon",
+        "electric",
+        "elfish",
+        "eel"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/41.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/41.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-42",
+      "name": "Stunfisk",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "42/101",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "stunfisk",
+        "lightning",
+        "pokemon",
+        "electric",
+        "ground",
+        "trap"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/42.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/42.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-43",
+      "name": "Victini",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "43/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "victini",
+        "psychic",
+        "pokemon",
+        "legendary",
+        "psychic",
+        "fire",
+        "victory"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/43.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/43.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-44",
+      "name": "Yamask",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "44/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "yamask",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "spirit",
+        "mask"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/44.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/44.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-45",
+      "name": "Yamask",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "45/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "yamask",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "spirit",
+        "mask"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/45.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/45.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-46",
+      "name": "Cofagrigus",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "46/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "cofagrigus",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "coffin",
+        "sarcophagus"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/46.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/46.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-47",
+      "name": "Cofagrigus",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "47/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "cofagrigus",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "coffin",
+        "sarcophagus"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/47.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/47.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-48",
+      "name": "Trubbish",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "48/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "trubbish",
+        "psychic",
+        "pokemon",
+        "poison",
+        "trash",
+        "bag"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/48.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/48.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-49",
+      "name": "Garbodor",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "49/101",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "garbodor",
+        "psychic",
+        "pokemon",
+        "poison",
+        "trash",
+        "heap"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/49.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/49.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-50",
+      "name": "Solosis",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "50/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "solosis",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "cell",
+        "amplifying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/50.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/50.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-51",
+      "name": "Duosion",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "51/101",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "duosion",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mitosis",
+        "multiplying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/51.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/51.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-52",
+      "name": "Reuniclus",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "52/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "reuniclus",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "multiplying",
+        "amplifying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/52.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/52.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-53",
+      "name": "Reuniclus",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "53/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "reuniclus",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "multiplying",
+        "amplifying"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/53.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/53.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-54",
+      "name": "Elgyem",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "54/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "elgyem",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "cerebral",
+        "brainwave"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/54.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/54.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-55",
+      "name": "Elgyem",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "55/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "elgyem",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "cerebral",
+        "brainwave"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/55.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-56",
+      "name": "Beheeyem",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "56/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "beheeyem",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "cerebral",
+        "brainwave"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/56.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/56.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-57",
+      "name": "Litwick",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "57/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "litwick",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "fire",
+        "candle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/57.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/57.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-58",
+      "name": "Litwick",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "58/101",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "litwick",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "fire",
+        "candle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/58.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/58.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-59",
+      "name": "Lampent",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "59/101",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "lampent",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "fire",
+        "lamp"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/59.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/59.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-60",
+      "name": "Chandelure",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "60/101",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "chandelure",
+        "psychic",
+        "pokemon",
+        "ghost",
+        "fire",
+        "luring"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/60.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/60.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-61",
+      "name": "Gigalith",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "61/101",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "gigalith",
+        "fighting",
+        "pokemon",
+        "rock",
+        "compressed",
+        "energy"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/61.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/61.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-62",
+      "name": "Timburr",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "62/101",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "timburr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "muscular",
+        "construction"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/62.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/62.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-63",
+      "name": "Gurdurr",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "63/101",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "gurdurr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "muscular",
+        "construction"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/63.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/63.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-64",
+      "name": "Conkeldurr",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "64/101",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "conkeldurr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "muscular",
+        "construction"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/64.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/64.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-65",
+      "name": "Conkeldurr",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "65/101",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "conkeldurr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "muscular",
+        "construction"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/65.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/65.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-66",
+      "name": "Archen",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "66/101",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "archen",
+        "fighting",
+        "pokemon",
+        "rock",
+        "flying",
+        "first"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/66.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/66.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-67",
+      "name": "Archeops",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "67/101",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "archeops",
+        "fighting",
+        "pokemon",
+        "rock",
+        "flying",
+        "first"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/67.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/67.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-68",
+      "name": "Stunfisk",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "68/101",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "stunfisk",
+        "fighting",
+        "pokemon",
+        "electric",
+        "ground",
+        "trap"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/68.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/68.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-69",
+      "name": "Mienfoo",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "69/101",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "mienfoo",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "arts"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/69.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/69.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-70",
+      "name": "Mienshao",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "70/101",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "mienshao",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "arts"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/70.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/70.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-71",
+      "name": "Golett",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "71/101",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "golett",
+        "fighting",
+        "pokemon",
+        "ground",
+        "ghost",
+        "automaton"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/71.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/71.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-72",
+      "name": "Golurk",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "72/101",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "golurk",
+        "fighting",
+        "pokemon",
+        "ground",
+        "ghost",
+        "automaton"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/72.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/72.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-73",
+      "name": "Terrakion",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "73/101",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "terrakion",
+        "fighting",
+        "pokemon",
+        "legendary",
+        "rock",
+        "fighting",
+        "cavern"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/73.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/73.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-74",
+      "name": "Landorus",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "74/101",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "landorus",
+        "fighting",
+        "pokemon",
+        "legendary",
+        "ground",
+        "flying",
+        "abundance"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/74.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/74.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-75",
+      "name": "Pawniard",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "75/101",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "pawniard",
+        "darkness",
+        "pokemon",
+        "dark",
+        "steel",
+        "blade"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/75.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/75.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-76",
+      "name": "Bisharp",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "76/101",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "bisharp",
+        "darkness",
+        "pokemon",
+        "dark",
+        "steel",
+        "sword"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/76.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/76.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-77",
+      "name": "Deino",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "77/101",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "deino",
+        "darkness",
+        "pokemon",
+        "dark",
+        "dragon",
+        "irate"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/77.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/77.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-78",
+      "name": "Zweilous",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "78/101",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "zweilous",
+        "darkness",
+        "pokemon",
+        "dark",
+        "dragon",
+        "hostile"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/78.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/78.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-79",
+      "name": "Hydreigon",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "79/101",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "hydreigon",
+        "darkness",
+        "pokemon",
+        "dark",
+        "dragon",
+        "brutal"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/79.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/79.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-80",
+      "name": "Escavalier",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "80/101",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "escavalier",
+        "metal",
+        "pokemon",
+        "bug",
+        "steel",
+        "cavalry"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/80.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/80.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "noble-victories-81",
+      "name": "Pawniard",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "81/101",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "pawniard",
+        "metal",
+        "pokemon",
+        "dark",
+        "steel",
+        "blade"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/81.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/81.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-82",
+      "name": "Bisharp",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "82/101",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "matching_keywords": [
+        "bisharp",
+        "metal",
+        "pokemon",
+        "dark",
+        "steel",
+        "sword"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/82.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/82.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-83",
+      "name": "Durant",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "83/101",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "durant",
+        "metal",
+        "pokemon",
+        "bug",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/83.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/83.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-84",
+      "name": "Cobalion",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "84/101",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "matching_keywords": [
+        "cobalion",
+        "metal",
+        "pokemon",
+        "legendary",
+        "steel",
+        "fighting",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/84.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/84.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-85",
+      "name": "Audino",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "85/101",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "audino",
+        "colorless",
+        "pokemon",
+        "normal",
+        "hearing",
+        "compassion"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/85.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/85.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-86",
+      "name": "Axew",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "86/101",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "axew",
+        "colorless",
+        "pokemon",
+        "dragon",
+        "tusk",
+        "fang"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/86.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/86.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "noble-victories-87",
+      "name": "Fraxure",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "87/101",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "fraxure",
+        "colorless",
+        "pokemon",
+        "dragon",
+        "axe",
+        "jaw"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/87.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/87.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-88",
+      "name": "Haxorus",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "88/101",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "haxorus",
+        "colorless",
+        "pokemon",
+        "dragon",
+        "axe",
+        "jaw"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/88.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/88.jpg"
+      },
+      "hp": 120
+    },
+    {
+      "id": "noble-victories-89",
+      "name": "Druddigon",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "89/101",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "druddigon",
+        "colorless",
+        "pokemon",
+        "dragon",
+        "cave",
+        "rough"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/89.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/89.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "noble-victories-90",
+      "name": "Cover Fossil",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "90/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "cover fossil",
+        "trainer",
+        "support",
+        "item",
+        "fossil",
+        "tirtouga",
+        "turtle"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/90.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/90.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "noble-victories-91",
+      "name": "Eviolite",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "91/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "eviolite",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "evolution",
+        "boost"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/91.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/91.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "noble-victories-92",
+      "name": "N",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "92/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "n",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "team",
+        "plasma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/92.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/92.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "noble-victories-93",
+      "name": "Plume Fossil",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "93/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "plume fossil",
+        "trainer",
+        "support",
+        "item",
+        "fossil",
+        "archen",
+        "feather"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/93.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/93.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "noble-victories-94",
+      "name": "Rocky Helmet",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "94/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "rocky helmet",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "damage",
+        "counter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/94.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/94.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "noble-victories-95",
+      "name": "Super Rod",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "95/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "super rod",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "retrieve",
+        "pokemon"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/95.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/95.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "noble-victories-96",
+      "name": "Xtransceiver",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "96/101",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "xtransceiver",
+        "trainer",
+        "support",
+        "item",
+        "item",
+        "draw",
+        "cards"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/96.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/96.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "noble-victories-97",
+      "name": "Virizion",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "97/101",
+      "rarity": "Rare Ultra",
+      "type": "Grass",
+      "matching_keywords": [
+        "virizion",
+        "grass",
+        "pokemon",
+        "legendary",
+        "grass",
+        "fighting",
+        "grassland"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/97.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/97.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "noble-victories-98",
+      "name": "Victini",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "98/101",
+      "rarity": "Rare Ultra",
+      "type": "Fire",
+      "matching_keywords": [
+        "victini",
+        "fire",
+        "pokemon",
+        "legendary",
+        "psychic",
+        "fire",
+        "victory"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/98.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/98.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "noble-victories-99",
+      "name": "Terrakion",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "99/101",
+      "rarity": "Rare Ultra",
+      "type": "Fighting",
+      "matching_keywords": [
+        "terrakion",
+        "fighting",
+        "pokemon",
+        "legendary",
+        "rock",
+        "fighting",
+        "cavern"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/99.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/99.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "noble-victories-100",
+      "name": "Cobalion",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "100/101",
+      "rarity": "Rare Ultra",
+      "type": "Metal",
+      "matching_keywords": [
+        "cobalion",
+        "metal",
+        "pokemon",
+        "legendary",
+        "steel",
+        "fighting",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/100.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/100.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": "noble-victories-101",
+      "name": "N",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "101/101",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "matching_keywords": [
+        "n",
+        "trainer",
+        "support",
+        "item",
+        "supporter",
+        "team",
+        "plasma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/101.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/101.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "noble-victories-102",
+      "name": "Meowth",
+      "set": {
+        "name": "Noble Victories",
+        "series": "Black & White",
+        "set_code": "BW3",
+        "release_date": "2011-11-16"
+      },
+      "number": "102/101",
+      "rarity": "Rare Secret",
+      "type": "Colorless",
+      "matching_keywords": [
+        "meowth",
+        "colorless",
+        "pokemon",
+        "normal",
+        "scratch",
+        "cat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/noblevictories/102.jpg",
+        "large": "https://www.serebii.net/card/noblevictories/102.jpg"
+      },
+      "hp": 60
+    }
+  ]
+}

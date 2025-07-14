@@ -1,0 +1,2405 @@
+{
+  "set_info": {
+    "name": "Legendary Treasures",
+    "code": "LTR",
+    "release_date": "2013-11-06",
+    "total_cards": 115,
+    "set_number": "BW12",
+    "series": "Black & White"
+  },
+  "cards": [
+    {
+      "id": 1,
+      "name": "Tangela",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "1/113",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "vine",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/1.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 2,
+      "name": "Tangrowth",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "2/113",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "vine",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/2.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/2.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 3,
+      "name": "Shuckle",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "3/113",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "mold",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/3.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/3.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 4,
+      "name": "Cherubi",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "4/113",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "cherry",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/4.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/4.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 5,
+      "name": "Carnivine",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "5/113",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "catcher",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/5.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/5.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 6,
+      "name": "Snivy",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "6/113",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "snake",
+        "unova",
+        "starter",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/6.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 7,
+      "name": "Servine",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "7/113",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "snake",
+        "unova",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/7.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/7.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 8,
+      "name": "Serperior",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "8/113",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "snake",
+        "unova",
+        "starter",
+        "evolution",
+        "regal"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/8.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/8.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 9,
+      "name": "Sewaddle",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "9/113",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "sewing",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/9.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/9.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 10,
+      "name": "Sewaddle",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "10/113",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "sewing",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/10.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/10.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 11,
+      "name": "Swadloon",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "11/113",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "leaf",
+        "wrapped",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/11.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/11.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 12,
+      "name": "Leavanny",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "12/113",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "nurturing",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/12.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/12.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 13,
+      "name": "Dwebble",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "13/113",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "rock",
+        "inn",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/13.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/13.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 14,
+      "name": "Crustle",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "14/113",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "bug",
+        "stone",
+        "home",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/14.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/14.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 15,
+      "name": "Virizion",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "15/113",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "legendary",
+        "grassland",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/15.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/15.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 16,
+      "name": "Genesect",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "16/113",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "grass",
+        "steel",
+        "paleozoic",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/16.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/16.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 17,
+      "name": "Charmander",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "17/113",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "lizard",
+        "kanto",
+        "starter",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/17.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/17.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 18,
+      "name": "Charmeleon",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "18/113",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "flame",
+        "kanto",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/18.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/18.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 19,
+      "name": "Charizard",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "19/113",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "flying",
+        "flame",
+        "kanto",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/19.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/19.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 20,
+      "name": "Vulpix",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "20/113",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "fox",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/20.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/20.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 21,
+      "name": "Ninetales",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "21/113",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "fox",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/21.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/21.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 22,
+      "name": "Moltres",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "22/113",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "flying",
+        "flame",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/22.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/22.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 23,
+      "name": "Victini",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "23/113",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "psychic",
+        "victory",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/23.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/23.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 24,
+      "name": "Victini-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "24/113",
+      "rarity": "Rare Holo ex",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "victory",
+        "legendary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/24.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/24.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 25,
+      "name": "Tepig",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "25/113",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "pig",
+        "unova",
+        "starter",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/25.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/25.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 26,
+      "name": "Pignite",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "26/113",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "fighting",
+        "pig",
+        "unova",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/26.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/26.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 27,
+      "name": "Emboar",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "27/113",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "fighting",
+        "pig",
+        "unova",
+        "starter",
+        "evolution",
+        "mega",
+        "fire"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/27.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/27.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 28,
+      "name": "Reshiram",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "28/113",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "dragon",
+        "legendary",
+        "vast",
+        "white",
+        "truth"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/28.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/28.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 29,
+      "name": "Reshiram-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "29/113",
+      "rarity": "Rare Holo ex",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "vast",
+        "white",
+        "truth"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/29.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/29.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 30,
+      "name": "Magikarp",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "30/113",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "fish",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/30.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/30.jpg"
+      },
+      "hp": 30
+    },
+    {
+      "id": 31,
+      "name": "Gyarados",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "31/113",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "flying",
+        "atrocious",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/31.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/31.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 32,
+      "name": "Articuno",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "32/113",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ice",
+        "flying",
+        "freeze",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/32.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/32.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 33,
+      "name": "Piplup",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "33/113",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "penguin",
+        "sinnoh",
+        "starter",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/33.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/33.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 34,
+      "name": "Prinplup",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "34/113",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "penguin",
+        "sinnoh",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/34.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/34.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 35,
+      "name": "Empoleon",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "35/113",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "steel",
+        "emperor",
+        "sinnoh",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/35.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/35.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 36,
+      "name": "Phione",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "36/113",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "sea",
+        "drifter",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/36.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/36.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 37,
+      "name": "Oshawott",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "37/113",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "otter",
+        "unova",
+        "starter",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/37.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/37.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 38,
+      "name": "Dewott",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "38/113",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "discipline",
+        "unova",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/38.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/38.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 39,
+      "name": "Samurott",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "39/113",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "formidable",
+        "unova",
+        "starter",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/39.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/39.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 40,
+      "name": "Tympole",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "40/113",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "tadpole",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/40.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/40.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 41,
+      "name": "Palpitoad",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "41/113",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "vibration",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/41.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/41.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 42,
+      "name": "Seismitoad",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "42/113",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "vibration",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/42.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/42.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 43,
+      "name": "Kyurem",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "43/113",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "dragon",
+        "legendary",
+        "boundary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/43.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/43.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 44,
+      "name": "Kyurem-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "44/113",
+      "rarity": "Rare Holo ex",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "boundary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/44.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/44.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 45,
+      "name": "Keldeo-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "45/113",
+      "rarity": "Rare Holo ex",
+      "type": "Water",
+      "matching_keywords": [
+        "water",
+        "ex",
+        "pokemon-ex",
+        "legendary",
+        "colt"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/45.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/45.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 46,
+      "name": "Zapdos",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "46/113",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "electric",
+        "flying",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/46.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/46.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 47,
+      "name": "Plusle",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "47/113",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "cheering",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/47.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/47.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 48,
+      "name": "Minun",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "48/113",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "cheering",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/48.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/48.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 49,
+      "name": "Emolga",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "49/113",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "flying",
+        "sky",
+        "squirrel",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/49.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/49.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 50,
+      "name": "Thundurus",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "50/113",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "flying",
+        "bolt",
+        "strike",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/50.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/50.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 51,
+      "name": "Zekrom",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "51/113",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "dragon",
+        "legendary",
+        "deep",
+        "black",
+        "ideals"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/51.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/51.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 52,
+      "name": "Zekrom-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "52/113",
+      "rarity": "Rare Holo ex",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "deep",
+        "black",
+        "ideals"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/52.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/52.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 53,
+      "name": "Mewtwo",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "53/113",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "genetic",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/53.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/53.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 54,
+      "name": "Mewtwo-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "54/113",
+      "rarity": "Rare Holo ex",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ex",
+        "pokemon-ex",
+        "genetic",
+        "legendary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/54.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/54.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 55,
+      "name": "Natu",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "55/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "flying",
+        "tiny",
+        "bird",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/55.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 56,
+      "name": "Xatu",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "56/113",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "flying",
+        "mystic",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/56.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/56.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 57,
+      "name": "Misdreavus",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "57/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "screech",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/57.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/57.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 58,
+      "name": "Mismagius",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "58/113",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ghost",
+        "magical",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/58.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/58.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 59,
+      "name": "Ralts",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "59/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "feeling",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/59.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/59.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 60,
+      "name": "Kirlia",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "60/113",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "emotion",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/60.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/60.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 61,
+      "name": "Sableye",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "61/113",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "dark",
+        "darkness",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/61.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/61.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 62,
+      "name": "Croagunk",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "62/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "fighting",
+        "toxic",
+        "mouth",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/62.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/62.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 63,
+      "name": "Toxicroak",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "63/113",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "fighting",
+        "toxic",
+        "mouth",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/63.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/63.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 64,
+      "name": "Woobat",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "64/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "flying",
+        "bat",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/64.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/64.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 65,
+      "name": "Swoobat",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "65/113",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "flying",
+        "courting",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/65.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/65.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 66,
+      "name": "Sigilyph",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "66/113",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "flying",
+        "avianoid",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/66.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/66.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 67,
+      "name": "Trubbish",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "67/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "trash",
+        "bag",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/67.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/67.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 68,
+      "name": "Garbodor",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "68/113",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "poison",
+        "trash",
+        "heap",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/68.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/68.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 69,
+      "name": "Gothita",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "69/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "fixation",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/69.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/69.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 70,
+      "name": "Gothita",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "70/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "fixation",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/70.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/70.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 71,
+      "name": "Gothorita",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "71/113",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "manipulate",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/71.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/71.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 72,
+      "name": "Gothitelle",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "72/113",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "astral",
+        "body",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/72.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/72.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 73,
+      "name": "Solosis",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "73/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "cell",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/73.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/73.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 74,
+      "name": "Solosis",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "74/113",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "cell",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/74.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/74.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 75,
+      "name": "Duosion",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "75/113",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "mitosis",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/75.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/75.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 76,
+      "name": "Reuniclus",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "76/113",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "multiplying",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/76.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/76.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 77,
+      "name": "Chandelure-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "77/113",
+      "rarity": "Rare Holo ex",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "ghost",
+        "luring"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/77.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/77.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": 78,
+      "name": "Meloetta",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "78/113",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "psychic",
+        "normal",
+        "melody",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/78.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/78.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 79,
+      "name": "Riolu",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "79/113",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "emanation",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/79.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/79.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 80,
+      "name": "Lucario",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "80/113",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "steel",
+        "aura",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/80.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/80.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 81,
+      "name": "Gallade",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "81/113",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "psychic",
+        "blade",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/81.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/81.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 82,
+      "name": "Excadrill-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "82/113",
+      "rarity": "Rare Holo ex",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "ex",
+        "pokemon-ex",
+        "steel",
+        "ground",
+        "subterrene"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/82.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/82.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 83,
+      "name": "Stunfisk",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "83/113",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "electric",
+        "ground",
+        "trap",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/83.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/83.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 84,
+      "name": "Terrakion",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "84/113",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "rock",
+        "cavern",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/84.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/84.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 85,
+      "name": "Landorus",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "85/113",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "ground",
+        "flying",
+        "abundance",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/85.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/85.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 86,
+      "name": "Meloetta",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "86/113",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "fighting",
+        "normal",
+        "melody",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/86.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/86.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 87,
+      "name": "Spiritomb",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "87/113",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "ghost",
+        "forbidden",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/87.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/87.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 88,
+      "name": "Darkrai-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "88/113",
+      "rarity": "Rare Holo ex",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "ex",
+        "pokemon-ex",
+        "pitch",
+        "black",
+        "legendary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/88.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/88.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 89,
+      "name": "Zorua",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "89/113",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "tricky",
+        "fox",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/89.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/89.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 90,
+      "name": "Zoroark",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "90/113",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "darkness",
+        "illusion",
+        "fox",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/90.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/90.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 91,
+      "name": "Cobalion",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "91/113",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "matching_keywords": [
+        "metal",
+        "steel",
+        "iron",
+        "will",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/91.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/91.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 92,
+      "name": "Altaria",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "92/113",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "flying",
+        "humming",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/92.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/92.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 93,
+      "name": "Rayquaza",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "93/113",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "flying",
+        "sky",
+        "high",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/93.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/93.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 94,
+      "name": "Gible",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "94/113",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ground",
+        "land",
+        "shark",
+        "basic",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/94.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/94.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 95,
+      "name": "Gabite",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "95/113",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ground",
+        "cave",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/95.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/95.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 96,
+      "name": "Garchomp",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "96/113",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ground",
+        "mach",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/96.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/96.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 97,
+      "name": "Deino",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "97/113",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "dark",
+        "irate",
+        "basic",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/97.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/97.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 98,
+      "name": "Zweilous",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "98/113",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "dark",
+        "hostile",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/98.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/98.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": 99,
+      "name": "Hydreigon",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "99/113",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "dark",
+        "brutal",
+        "evolution",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/99.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/99.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 100,
+      "name": "Black Kyurem-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "100/113",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "ice",
+        "legendary",
+        "powerful",
+        "black",
+        "boundary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/100.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/100.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 101,
+      "name": "White Kyurem-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "101/113",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "dragon",
+        "ex",
+        "pokemon-ex",
+        "ice",
+        "legendary",
+        "powerful",
+        "white",
+        "boundary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/101.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/101.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 102,
+      "name": "Lugia-EX",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "102/113",
+      "rarity": "Rare Holo ex",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "flying",
+        "diving",
+        "legendary"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/102.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/102.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": 103,
+      "name": "Swablu",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "103/113",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "normal",
+        "flying",
+        "cotton",
+        "bird",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/103.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/103.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 104,
+      "name": "Minccino",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "104/113",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "chinchilla",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/104.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/104.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": 105,
+      "name": "Cinccino",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "105/113",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "scarf",
+        "evolution"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/105.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/105.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 106,
+      "name": "Druddigon",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "106/113",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "cave",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/106.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/106.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 107,
+      "name": "Bouffalant",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "107/113",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "bash",
+        "buffalo",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/107.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/107.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": 108,
+      "name": "Tornadus",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "108/113",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "colorless",
+        "flying",
+        "cyclone",
+        "legendary",
+        "basic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/108.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/108.jpg"
+      },
+      "hp": 130
+    },
+    {
+      "id": 109,
+      "name": "Bianca",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "109/113",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "bianca",
+        "friend"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/109.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/109.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 110,
+      "name": "Cedric Juniper",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "110/113",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "supporter",
+        "cedric",
+        "juniper",
+        "professor"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/110.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/110.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": 111,
+      "name": "Crushing Hammer",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "111/113",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "crushing",
+        "hammer",
+        "discard"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/111.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/111.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 112,
+      "name": "Energy Switch",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "112/113",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "trainer",
+        "item",
+        "energy",
+        "switch",
+        "move"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/112.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/112.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": 113,
+      "name": "Double Colorless Energy",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "113/113",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "matching_keywords": [
+        "energy",
+        "special",
+        "double",
+        "colorless"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/113.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/113.jpg"
+      },
+      "subtype": "Special Energy"
+    },
+    {
+      "id": 114,
+      "name": "Reshiram",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "114/113",
+      "rarity": "Rare Secret",
+      "type": "Fire",
+      "matching_keywords": [
+        "fire",
+        "dragon",
+        "legendary",
+        "vast",
+        "white",
+        "truth",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/114.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/114.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": 115,
+      "name": "Zekrom",
+      "set": "Legendary Treasures",
+      "set_code": "LTR",
+      "number": "115/113",
+      "rarity": "Rare Secret",
+      "type": "Lightning",
+      "matching_keywords": [
+        "lightning",
+        "dragon",
+        "legendary",
+        "deep",
+        "black",
+        "ideals",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/legendarytreasures/115.jpg",
+        "large": "https://www.serebii.net/card/legendarytreasures/115.jpg"
+      },
+      "hp": 150
+    }
+  ]
+}
