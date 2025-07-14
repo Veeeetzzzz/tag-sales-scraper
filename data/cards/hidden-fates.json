@@ -1,0 +1,1345 @@
+{
+  "set_info": {
+    "name": "Hidden Fates",
+    "series": "Sun & Moon",
+    "total_cards": 69,
+    "release_date": "2019-08-23",
+    "set_code": "HF"
+  },
+  "cards": [
+    {
+      "id": "hf-1",
+      "name": "Caterpie",
+      "number": "1/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/1.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-2",
+      "name": "Metapod",
+      "number": "2/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "stage": "Stage 1",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/2.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Caterpie"
+    },
+    {
+      "id": "hf-3",
+      "name": "Butterfree",
+      "number": "3/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 120,
+      "stage": "Stage 2",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/3.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Metapod"
+    },
+    {
+      "id": "hf-4",
+      "name": "Paras",
+      "number": "4/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/4.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-5",
+      "name": "Scyther",
+      "number": "5/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/5.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-6",
+      "name": "Pinsir-GX",
+      "number": "6/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/6.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-7",
+      "name": "Charmander",
+      "number": "7/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/7.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-8",
+      "name": "Charmeleon",
+      "number": "8/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/8.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Charmander"
+    },
+    {
+      "id": "hf-9",
+      "name": "Charizard-GX",
+      "number": "9/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/9.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-10",
+      "name": "Magmar",
+      "number": "10/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/10.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-11",
+      "name": "Psyduck",
+      "number": "11/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/11.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-12",
+      "name": "Slowpoke",
+      "number": "12/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/12.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-13",
+      "name": "Staryu",
+      "number": "13/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/13.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-14",
+      "name": "Starmie-GX",
+      "number": "14/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/14.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-15",
+      "name": "Magikarp",
+      "number": "15/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/15.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-16",
+      "name": "Gyarados-GX",
+      "number": "16/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/16.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-17",
+      "name": "Lapras",
+      "number": "17/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 80,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/17.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-18",
+      "name": "Vaporeon",
+      "number": "18/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Holographic",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/18.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-19",
+      "name": "Pikachu",
+      "number": "19/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/19.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-20",
+      "name": "Raichu-GX",
+      "number": "20/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/20.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-21",
+      "name": "Voltorb",
+      "number": "21/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/21.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-22",
+      "name": "Electrode",
+      "number": "22/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 90,
+      "stage": "Stage 1",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/22.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Voltorb"
+    },
+    {
+      "id": "hf-23",
+      "name": "Jolteon",
+      "number": "23/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/23.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-24",
+      "name": "Zapdos",
+      "number": "24/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "hp": 100,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Holographic",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/24.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-25",
+      "name": "Ekans",
+      "number": "25/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/25.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-26",
+      "name": "Ekans",
+      "number": "26/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/26.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-27",
+      "name": "Arbok",
+      "number": "27/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/27.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Ekans"
+    },
+    {
+      "id": "hf-28",
+      "name": "Koffing",
+      "number": "28/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/28.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-29",
+      "name": "Weezing",
+      "number": "29/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/29.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Koffing"
+    },
+    {
+      "id": "hf-30",
+      "name": "Jynx",
+      "number": "30/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/30.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-31",
+      "name": "Mewtwo-GX",
+      "number": "31/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "GX",
+        "Ultra Rare",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/31.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-32",
+      "name": "Mew",
+      "number": "32/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/32.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-33",
+      "name": "Geodude",
+      "number": "33/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/33.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-34",
+      "name": "Graveler",
+      "number": "34/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/34.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Geodude"
+    },
+    {
+      "id": "hf-35",
+      "name": "Golem",
+      "number": "35/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 130,
+      "stage": "Stage 2",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/35.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Graveler"
+    },
+    {
+      "id": "hf-36",
+      "name": "Onix-GX",
+      "number": "36/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/36.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-37",
+      "name": "Cubone",
+      "number": "37/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/37.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-38",
+      "name": "Clefairy",
+      "number": "38/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/38.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-39",
+      "name": "Clefairy",
+      "number": "39/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/39.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-40",
+      "name": "Clefable",
+      "number": "40/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "hp": 85,
+      "stage": "Stage 1",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/40.jpg",
+      "release_date": "2019-08-23",
+      "evolves_from": "Clefairy"
+    },
+    {
+      "id": "hf-41",
+      "name": "Jigglypuff",
+      "number": "41/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/41.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-42",
+      "name": "Wigglytuff-GX",
+      "number": "42/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/42.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-43",
+      "name": "Mr. Mime",
+      "number": "43/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/43.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-44",
+      "name": "Moltres & Zapdos & Articuno Tag Team GX",
+      "number": "44/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Tag Team GX",
+        "Legendary",
+        "Triple",
+        "Ultra Rare",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/44.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-45",
+      "name": "Farfetch'd",
+      "number": "45/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/45.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-46",
+      "name": "Chansey",
+      "number": "46/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/46.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-47",
+      "name": "Kangaskhan",
+      "number": "47/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 90,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/47.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-48",
+      "name": "Eevee",
+      "number": "48/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Holographic",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/48.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-49",
+      "name": "Eevee",
+      "number": "49/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/49.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-50",
+      "name": "Snorlax",
+      "number": "50/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 120,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/50.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-51",
+      "name": "Bill's Analysis",
+      "number": "51/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/51.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-52",
+      "name": "Blaine's Last Stand",
+      "number": "52/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/52.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-53",
+      "name": "Brock's Grit",
+      "number": "53/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/53.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-54",
+      "name": "Brock's Pewter City Gym",
+      "number": "54/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/54.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-55",
+      "name": "Brock's Training",
+      "number": "55/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/55.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-56",
+      "name": "Erika's Hospitality",
+      "number": "56/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/56.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-57",
+      "name": "Giovanni's Exile",
+      "number": "57/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Team Rocket",
+        "Villain"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/57.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-58",
+      "name": "Jessie & James",
+      "number": "58/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Team Rocket",
+        "Villain",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/58.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-59",
+      "name": "Koga's Trap",
+      "number": "59/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/59.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-60",
+      "name": "Lt. Surge's Strategy",
+      "number": "60/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/60.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-61",
+      "name": "Misty's Cerulean City Gym",
+      "number": "61/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/61.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-62",
+      "name": "Misty's Determination",
+      "number": "62/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/62.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-63",
+      "name": "Misty's Water Command",
+      "number": "63/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/63.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-64",
+      "name": "Pokémon Center Lady",
+      "number": "64/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/64.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-65",
+      "name": "Sabrina's Suggestion",
+      "number": "65/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Gym Leader",
+        "Supporter"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/65.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-66",
+      "name": "Moltres & Zapdos & Articuno Tag Team GX",
+      "number": "66/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Tag Team GX",
+        "Legendary",
+        "Triple",
+        "Ultra Rare",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/66.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-67",
+      "name": "Giovanni's Exile",
+      "number": "67/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Team Rocket",
+        "Villain",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/67.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-68",
+      "name": "Jessie & James",
+      "number": "68/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Team Rocket",
+        "Villain",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/68.jpg",
+      "release_date": "2019-08-23"
+    },
+    {
+      "id": "hf-69",
+      "name": "Moltres & Zapdos & Articuno Tag Team GX",
+      "number": "69/68",
+      "set": "Hidden Fates",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Rainbow",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Hidden Fates",
+        "Shiny",
+        "Kanto",
+        "Tag Team GX",
+        "Legendary",
+        "Triple",
+        "Rainbow Rare",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/hiddenfates/69.jpg",
+      "release_date": "2019-08-23"
+    }
+  ]
+}

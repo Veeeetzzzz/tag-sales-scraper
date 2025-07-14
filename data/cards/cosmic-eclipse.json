@@ -1,0 +1,5317 @@
+{
+  "set_info": {
+    "name": "Cosmic Eclipse",
+    "series": "Sun & Moon",
+    "total_cards": 271,
+    "release_date": "2019-11-01",
+    "set_code": "CEC"
+  },
+  "cards": [
+    {
+      "id": "ce-1",
+      "name": "Venusaur & Snivy Tag Team GX",
+      "number": "1/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/1.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-2",
+      "name": "Oddish",
+      "number": "2/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/2.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-3",
+      "name": "Gloom",
+      "number": "3/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/3.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Oddish"
+    },
+    {
+      "id": "ce-4",
+      "name": "Vileplume-GX",
+      "number": "4/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 250,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/4.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Gloom"
+    },
+    {
+      "id": "ce-5",
+      "name": "Tangela",
+      "number": "5/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/5.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-6",
+      "name": "Tangrowth",
+      "number": "6/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/6.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-7",
+      "name": "Sunkern",
+      "number": "7/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/7.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-8",
+      "name": "Sunflora",
+      "number": "8/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/8.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-9",
+      "name": "Heracross",
+      "number": "9/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/9.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-10",
+      "name": "Lileep",
+      "number": "10/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/10.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-11",
+      "name": "Cradily",
+      "number": "11/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 120,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/11.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Lileep"
+    },
+    {
+      "id": "ce-12",
+      "name": "Tropius",
+      "number": "12/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/12.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-13",
+      "name": "Kricketot",
+      "number": "13/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/13.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-14",
+      "name": "Kricketune",
+      "number": "14/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/14.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-15",
+      "name": "Deerling",
+      "number": "15/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/15.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-16",
+      "name": "Sawsbuck",
+      "number": "16/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/16.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-17",
+      "name": "Rowlet",
+      "number": "17/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/17.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-18",
+      "name": "Rowlet",
+      "number": "18/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/18.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-19",
+      "name": "Dartrix",
+      "number": "19/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/19.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Rowlet"
+    },
+    {
+      "id": "ce-20",
+      "name": "Decidueye",
+      "number": "20/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "hp": 120,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/20.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Dartrix"
+    },
+    {
+      "id": "ce-21",
+      "name": "Buzzwole",
+      "number": "21/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Ultra Beast",
+        "Interdimensional",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/21.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-22",
+      "name": "Charizard & Braixen Tag Team GX",
+      "number": "22/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/22.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-23",
+      "name": "Ponyta",
+      "number": "23/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/23.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-24",
+      "name": "Rapidash",
+      "number": "24/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/24.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Ponyta"
+    },
+    {
+      "id": "ce-25",
+      "name": "Flareon",
+      "number": "25/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/25.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-26",
+      "name": "Slugma",
+      "number": "26/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/26.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-27",
+      "name": "Magcargo",
+      "number": "27/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/27.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Slugma"
+    },
+    {
+      "id": "ce-28",
+      "name": "Entei",
+      "number": "28/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare",
+      "hp": 110,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/28.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-29",
+      "name": "Torkoal",
+      "number": "29/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/29.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-30",
+      "name": "Victini",
+      "number": "30/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/30.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-31",
+      "name": "Tepig",
+      "number": "31/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/31.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-32",
+      "name": "Pignite",
+      "number": "32/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/32.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Tepig"
+    },
+    {
+      "id": "ce-33",
+      "name": "Emboar",
+      "number": "33/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare",
+      "hp": 130,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/33.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Pignite"
+    },
+    {
+      "id": "ce-34",
+      "name": "Larvesta",
+      "number": "34/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/34.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-35",
+      "name": "Volcarona-GX",
+      "number": "35/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 230,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/35.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Larvesta"
+    },
+    {
+      "id": "ce-36",
+      "name": "Litleo",
+      "number": "36/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/36.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-37",
+      "name": "Pyroar",
+      "number": "37/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/37.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Litleo"
+    },
+    {
+      "id": "ce-38",
+      "name": "Blastoise & Piplup Tag Team GX",
+      "number": "38/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/38.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-39",
+      "name": "Alolan Vulpix",
+      "number": "39/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Alolan",
+        "Regional Variant"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/39.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-40",
+      "name": "Psyduck",
+      "number": "40/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/40.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-41",
+      "name": "Golduck",
+      "number": "41/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/41.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Psyduck"
+    },
+    {
+      "id": "ce-42",
+      "name": "Vaporeon",
+      "number": "42/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/42.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-43",
+      "name": "Sneasel",
+      "number": "43/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/43.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-44",
+      "name": "Weavile",
+      "number": "44/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/44.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Sneasel"
+    },
+    {
+      "id": "ce-45",
+      "name": "Wailmer",
+      "number": "45/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/45.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-46",
+      "name": "Wailord",
+      "number": "46/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/46.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Wailmer"
+    },
+    {
+      "id": "ce-47",
+      "name": "Snorunt",
+      "number": "47/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/47.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-48",
+      "name": "Glalie",
+      "number": "48/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/48.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Snorunt"
+    },
+    {
+      "id": "ce-49",
+      "name": "Spheal",
+      "number": "49/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/49.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-50",
+      "name": "Spheal",
+      "number": "50/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/50.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-51",
+      "name": "Sealeo",
+      "number": "51/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/51.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Spheal"
+    },
+    {
+      "id": "ce-52",
+      "name": "Walrein",
+      "number": "52/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 125,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/52.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Sealeo"
+    },
+    {
+      "id": "ce-53",
+      "name": "Kyogre",
+      "number": "53/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 130,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/53.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-54",
+      "name": "Piplup",
+      "number": "54/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/54.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-55",
+      "name": "Prinplup",
+      "number": "55/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/55.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Piplup"
+    },
+    {
+      "id": "ce-56",
+      "name": "Empoleon",
+      "number": "56/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 125,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/56.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Prinplup"
+    },
+    {
+      "id": "ce-57",
+      "name": "Phione",
+      "number": "57/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/57.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-58",
+      "name": "Tympole",
+      "number": "58/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/58.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-59",
+      "name": "Ducklett",
+      "number": "59/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/59.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-60",
+      "name": "Swanna",
+      "number": "60/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/60.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Ducklett"
+    },
+    {
+      "id": "ce-61",
+      "name": "Black Kyurem",
+      "number": "61/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/61.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-62",
+      "name": "Wishiwashi",
+      "number": "62/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/62.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-63",
+      "name": "Wishiwashi-GX",
+      "number": "63/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/63.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-64",
+      "name": "Dewpider",
+      "number": "64/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/64.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-65",
+      "name": "Araquanid",
+      "number": "65/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/65.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Dewpider"
+    },
+    {
+      "id": "ce-66",
+      "name": "Pikachu",
+      "number": "66/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/66.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-67",
+      "name": "Raichu",
+      "number": "67/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 90,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/67.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Pikachu"
+    },
+    {
+      "id": "ce-68",
+      "name": "Magnemite",
+      "number": "68/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/68.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-69",
+      "name": "Magneton",
+      "number": "69/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Rare Holo",
+      "hp": 90,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/69.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Magnemite"
+    },
+    {
+      "id": "ce-70",
+      "name": "Jolteon",
+      "number": "70/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/70.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-71",
+      "name": "Chinchou",
+      "number": "71/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/71.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-72",
+      "name": "Lanturn",
+      "number": "72/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "hp": 90,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/72.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Chinchou"
+    },
+    {
+      "id": "ce-73",
+      "name": "Togedemaru",
+      "number": "73/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/73.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-74",
+      "name": "Togedemaru",
+      "number": "74/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/74.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-75",
+      "name": "Solgaleo & Lunala Tag Team GX",
+      "number": "75/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/75.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-76",
+      "name": "Koffing",
+      "number": "76/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/76.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-77",
+      "name": "Weezing",
+      "number": "77/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/77.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-78",
+      "name": "Natu",
+      "number": "78/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/78.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-79",
+      "name": "Xatu",
+      "number": "79/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/79.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-80",
+      "name": "Ralts",
+      "number": "80/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/80.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-81",
+      "name": "Kirlia",
+      "number": "81/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/81.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Ralts"
+    },
+    {
+      "id": "ce-82",
+      "name": "Gallade",
+      "number": "82/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "hp": 125,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/82.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Kirlia"
+    },
+    {
+      "id": "ce-83",
+      "name": "Duskull",
+      "number": "83/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/83.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-84",
+      "name": "Dusclops",
+      "number": "84/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/84.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Duskull"
+    },
+    {
+      "id": "ce-85",
+      "name": "Dusknoir",
+      "number": "85/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "hp": 125,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/85.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Dusclops"
+    },
+    {
+      "id": "ce-86",
+      "name": "Rotom",
+      "number": "86/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/86.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-87",
+      "name": "Woobat",
+      "number": "87/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/87.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-88",
+      "name": "Swoobat",
+      "number": "88/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/88.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Woobat"
+    },
+    {
+      "id": "ce-89",
+      "name": "Golett",
+      "number": "89/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/89.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-90",
+      "name": "Golurk",
+      "number": "90/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/90.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Golett"
+    },
+    {
+      "id": "ce-91",
+      "name": "Skrelp",
+      "number": "91/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/91.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-92",
+      "name": "Dragalge",
+      "number": "92/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/92.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Skrelp"
+    },
+    {
+      "id": "ce-93",
+      "name": "Phantump",
+      "number": "93/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/93.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-94",
+      "name": "Trevenant",
+      "number": "94/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/94.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Phantump"
+    },
+    {
+      "id": "ce-95",
+      "name": "Oricorio-GX",
+      "number": "95/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/95.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-96",
+      "name": "Mimikyu",
+      "number": "96/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/96.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-97",
+      "name": "Mimikyu",
+      "number": "97/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/97.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-98",
+      "name": "Dhelmise",
+      "number": "98/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/98.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-99",
+      "name": "Cosmog",
+      "number": "99/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/99.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-100",
+      "name": "Cosmog",
+      "number": "100/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Common",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/100.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-101",
+      "name": "Cosmoem",
+      "number": "101/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/101.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-102",
+      "name": "Lunala",
+      "number": "102/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "hp": 120,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/102.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-103",
+      "name": "Marshadow",
+      "number": "103/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "hp": 90,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/103.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-104",
+      "name": "Blacephalon",
+      "number": "104/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "hp": 120,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary",
+        "Ultra Beast",
+        "Interdimensional",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/104.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-105",
+      "name": "Onix",
+      "number": "105/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/105.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-106",
+      "name": "Nosepass",
+      "number": "106/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/106.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-107",
+      "name": "Trapinch",
+      "number": "107/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/107.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-108",
+      "name": "Trapinch",
+      "number": "108/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/108.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-109",
+      "name": "Vibrava",
+      "number": "109/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/109.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Trapinch"
+    },
+    {
+      "id": "ce-110",
+      "name": "Flygon-GX",
+      "number": "110/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 230,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/110.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Vibrava"
+    },
+    {
+      "id": "ce-111",
+      "name": "Anorith",
+      "number": "111/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/111.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-112",
+      "name": "Armaldo",
+      "number": "112/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/112.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Anorith"
+    },
+    {
+      "id": "ce-113",
+      "name": "Groudon",
+      "number": "113/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 130,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/113.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-114",
+      "name": "Drilbur",
+      "number": "114/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/114.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-115",
+      "name": "Excadrill",
+      "number": "115/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/115.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Drilbur"
+    },
+    {
+      "id": "ce-116",
+      "name": "Palpitoad",
+      "number": "116/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/116.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-117",
+      "name": "Seismitoad",
+      "number": "117/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/117.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Palpitoad"
+    },
+    {
+      "id": "ce-118",
+      "name": "Throh",
+      "number": "118/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/118.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-119",
+      "name": "Pancham",
+      "number": "119/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/119.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-120",
+      "name": "Pangoro",
+      "number": "120/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/120.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Pancham"
+    },
+    {
+      "id": "ce-121",
+      "name": "Crabrawler",
+      "number": "121/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/121.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-122",
+      "name": "Crabominable",
+      "number": "122/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/122.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Crabrawler"
+    },
+    {
+      "id": "ce-123",
+      "name": "Rockruff",
+      "number": "123/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/123.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-124",
+      "name": "Lycanroc",
+      "number": "124/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/124.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Rockruff"
+    },
+    {
+      "id": "ce-125",
+      "name": "Passimian",
+      "number": "125/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/125.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-126",
+      "name": "Sandygast",
+      "number": "126/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/126.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-127",
+      "name": "Palossand",
+      "number": "127/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/127.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Sandygast"
+    },
+    {
+      "id": "ce-128",
+      "name": "Alolan Meowth",
+      "number": "128/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Alolan",
+        "Regional Variant"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/128.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-129",
+      "name": "Alolan Persian-GX",
+      "number": "129/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 180,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Alolan",
+        "Regional Variant",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/129.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Alolan Meowth"
+    },
+    {
+      "id": "ce-130",
+      "name": "Alolan Grimer",
+      "number": "130/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Alolan",
+        "Regional Variant"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/130.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-131",
+      "name": "Alolan Muk",
+      "number": "131/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Alolan",
+        "Regional Variant"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/131.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Alolan Grimer"
+    },
+    {
+      "id": "ce-132",
+      "name": "Carvanha",
+      "number": "132/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/132.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-133",
+      "name": "Absol",
+      "number": "133/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/133.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-134",
+      "name": "Pawniard",
+      "number": "134/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/134.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-135",
+      "name": "Bisharp",
+      "number": "135/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/135.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Pawniard"
+    },
+    {
+      "id": "ce-136",
+      "name": "Guzzlord",
+      "number": "136/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Ultra Beast",
+        "Interdimensional",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/136.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-137",
+      "name": "Alolan Sandshrew",
+      "number": "137/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Metal",
+      "rarity": "Common",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Alolan",
+        "Regional Variant"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/137.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-138",
+      "name": "Alolan Sandslash",
+      "number": "138/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Metal",
+      "rarity": "Rare",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Alolan",
+        "Regional Variant"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/138.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Alolan Sandshrew"
+    },
+    {
+      "id": "ce-139",
+      "name": "Steelix",
+      "number": "139/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "hp": 130,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/139.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Onix"
+    },
+    {
+      "id": "ce-140",
+      "name": "Mawile",
+      "number": "140/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/140.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-141",
+      "name": "Probopass",
+      "number": "141/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/141.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Nosepass"
+    },
+    {
+      "id": "ce-142",
+      "name": "Solgaleo",
+      "number": "142/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "hp": 120,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/142.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-143",
+      "name": "Togepi & Cleffa & Igglybuff Tag Team GX",
+      "number": "143/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 270,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/143.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-144",
+      "name": "Clefairy",
+      "number": "144/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/144.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-145",
+      "name": "Alolan Ninetales",
+      "number": "145/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Alolan",
+        "Regional Variant",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/145.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-146",
+      "name": "Azurill",
+      "number": "146/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/146.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-147",
+      "name": "Cottonee",
+      "number": "147/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/147.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-148",
+      "name": "Whimsicott",
+      "number": "148/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "hp": 85,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/148.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Cottonee"
+    },
+    {
+      "id": "ce-149",
+      "name": "Flabébé",
+      "number": "149/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/149.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-150",
+      "name": "Flabébé",
+      "number": "150/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/150.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-151",
+      "name": "Floette",
+      "number": "151/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "hp": 85,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/151.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Flabébé"
+    },
+    {
+      "id": "ce-152",
+      "name": "Florges",
+      "number": "152/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Rare Holo",
+      "hp": 115,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/152.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Floette"
+    },
+    {
+      "id": "ce-153",
+      "name": "Swirlix",
+      "number": "153/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/153.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-154",
+      "name": "Slurpuff",
+      "number": "154/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "hp": 85,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/154.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Swirlix"
+    },
+    {
+      "id": "ce-155",
+      "name": "Sylveon",
+      "number": "155/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "hp": 55,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/155.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-156",
+      "name": "Arceus & Dialga & Palkia Tag Team GX",
+      "number": "156/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/156.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-157",
+      "name": "Reshiram & Zekrom Tag Team GX",
+      "number": "157/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/157.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-158",
+      "name": "Naganadel & Guzzlord Tag Team GX",
+      "number": "158/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Ultra Beast",
+        "Interdimensional",
+        "Ultra Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/158.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-159",
+      "name": "Drampa",
+      "number": "159/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare",
+      "hp": 130,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/159.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-160",
+      "name": "Jangmo-o",
+      "number": "160/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Common",
+      "hp": 75,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/160.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-161",
+      "name": "Jangmo-o",
+      "number": "161/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Common",
+      "hp": 75,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/161.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-162",
+      "name": "Hakamo-o",
+      "number": "162/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Uncommon",
+      "hp": 105,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/162.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Jangmo-o"
+    },
+    {
+      "id": "ce-163",
+      "name": "Kommo-o",
+      "number": "163/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 135,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/163.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Hakamo-o"
+    },
+    {
+      "id": "ce-164",
+      "name": "Ultra Necrozma",
+      "number": "164/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "hp": 140,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Legendary",
+        "Holographic",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/164.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-165",
+      "name": "Mega Lopunny & Jigglypuff Tag Team GX",
+      "number": "165/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 270,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/165.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-166",
+      "name": "Eevee",
+      "number": "166/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/166.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-167",
+      "name": "Eevee",
+      "number": "167/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Eeveelution"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/167.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-168",
+      "name": "Igglybuff",
+      "number": "168/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/168.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-169",
+      "name": "Aipom",
+      "number": "169/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/169.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-170",
+      "name": "Ambipom",
+      "number": "170/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/170.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Aipom"
+    },
+    {
+      "id": "ce-171",
+      "name": "Teddiursa",
+      "number": "171/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/171.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-172",
+      "name": "Ursaring",
+      "number": "172/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/172.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Teddiursa"
+    },
+    {
+      "id": "ce-173",
+      "name": "Zangoose",
+      "number": "173/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/173.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-174",
+      "name": "Lillipup",
+      "number": "174/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/174.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-175",
+      "name": "Herdier",
+      "number": "175/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/175.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Lillipup"
+    },
+    {
+      "id": "ce-176",
+      "name": "Stoutland",
+      "number": "176/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Holo",
+      "hp": 125,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/176.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Herdier"
+    },
+    {
+      "id": "ce-177",
+      "name": "Rufflet",
+      "number": "177/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/177.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-178",
+      "name": "Braviary",
+      "number": "178/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/178.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Rufflet"
+    },
+    {
+      "id": "ce-179",
+      "name": "Helioptile",
+      "number": "179/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/179.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-180",
+      "name": "Heliolisk",
+      "number": "180/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/180.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Helioptile"
+    },
+    {
+      "id": "ce-181",
+      "name": "Stufful",
+      "number": "181/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/181.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-182",
+      "name": "Bewear",
+      "number": "182/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/182.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Stufful"
+    },
+    {
+      "id": "ce-183",
+      "name": "Type: Null",
+      "number": "183/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/183.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-184",
+      "name": "Silvally-GX",
+      "number": "184/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Ultra-Rare Rare",
+      "hp": 200,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/184.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Type: Null"
+    },
+    {
+      "id": "ce-185",
+      "name": "Beastite",
+      "number": "185/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/185.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-186",
+      "name": "Bellelba & Brycen-Man",
+      "number": "186/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/186.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-187",
+      "name": "Chaotic Swell",
+      "number": "187/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/187.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-188",
+      "name": "Clay",
+      "number": "188/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/188.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-189",
+      "name": "Cynthia & Caitlin",
+      "number": "189/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/189.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-190",
+      "name": "Dragonium Z: Dragon Claw",
+      "number": "190/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Z-Move",
+        "Alola"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/190.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-191",
+      "name": "Erika",
+      "number": "191/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/191.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-192",
+      "name": "Great Catcher",
+      "number": "192/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/192.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-193",
+      "name": "Guzma & Hala",
+      "number": "193/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/193.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-194",
+      "name": "Island Challenge Amulet",
+      "number": "194/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/194.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-195",
+      "name": "Lana's Fishing Rod",
+      "number": "195/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/195.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-196",
+      "name": "Lillie's Full Force",
+      "number": "196/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/196.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-197",
+      "name": "Lillie's Poké Doll",
+      "number": "197/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/197.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-198",
+      "name": "Mallow & Lana",
+      "number": "198/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/198.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-199",
+      "name": "Misty & Lorelei",
+      "number": "199/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/199.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-200",
+      "name": "N's Resolve",
+      "number": "200/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/200.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-201",
+      "name": "Professor Oak's Setup",
+      "number": "201/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/201.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-202",
+      "name": "Red & Blue",
+      "number": "202/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/202.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-203",
+      "name": "Roller Skater",
+      "number": "203/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/203.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-204",
+      "name": "Rosa",
+      "number": "204/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Holo",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Holographic"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/204.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-205",
+      "name": "Roxie",
+      "number": "205/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/205.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-206",
+      "name": "Tag Call",
+      "number": "206/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/206.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-207",
+      "name": "Unidentified Fossil",
+      "number": "207/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/207.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-208",
+      "name": "Will",
+      "number": "208/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/208.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-209",
+      "name": "Draw Energy",
+      "number": "209/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Special Energy"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/209.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-210",
+      "name": "Venusaur & Snivy Tag Team GX",
+      "number": "210/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/210.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-211",
+      "name": "Vileplume-GX",
+      "number": "211/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare Ultra",
+      "hp": 250,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/211.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Gloom"
+    },
+    {
+      "id": "ce-212",
+      "name": "Charizard & Braixen Tag Team GX",
+      "number": "212/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/212.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-213",
+      "name": "Volcarona-GX",
+      "number": "213/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare Ultra",
+      "hp": 230,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/213.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Larvesta"
+    },
+    {
+      "id": "ce-214",
+      "name": "Blastoise & Piplup Tag Team GX",
+      "number": "214/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/214.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-215",
+      "name": "Blastoise & Piplup Tag Team GX",
+      "number": "215/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/215.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-216",
+      "name": "Solgaleo & Lunala Tag Team GX",
+      "number": "216/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/216.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-217",
+      "name": "Oricorio-GX",
+      "number": "217/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/217.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-218",
+      "name": "Flygon-GX",
+      "number": "218/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare Ultra",
+      "hp": 230,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/218.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Vibrava"
+    },
+    {
+      "id": "ce-219",
+      "name": "Alolan Persian-GX",
+      "number": "219/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "hp": 180,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Alolan",
+        "Regional Variant",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/219.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Alolan Meowth"
+    },
+    {
+      "id": "ce-220",
+      "name": "Arceus & Dialga & Palkia Tag Team GX",
+      "number": "220/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/220.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-221",
+      "name": "Arceus & Dialga & Palkia Tag Team GX",
+      "number": "221/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/221.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-222",
+      "name": "Reshiram & Zekrom Tag Team GX",
+      "number": "222/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Ultra Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/222.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-223",
+      "name": "Naganadel & Guzzlord Tag Team GX",
+      "number": "223/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Ultra Beast",
+        "Interdimensional",
+        "Ultra Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/223.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-224",
+      "name": "Naganadel & Guzzlord Tag Team GX",
+      "number": "224/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Ultra Beast",
+        "Interdimensional",
+        "Ultra Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/224.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-225",
+      "name": "Mega Lopunny & Jigglypuff Tag Team GX",
+      "number": "225/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "hp": 270,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/225.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-226",
+      "name": "Mega Lopunny & Jigglypuff Tag Team GX",
+      "number": "226/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "hp": 270,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/226.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-227",
+      "name": "Silvally-GX",
+      "number": "227/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "hp": 200,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/227.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Type: Null"
+    },
+    {
+      "id": "ce-228",
+      "name": "Cynthia & Caitlin",
+      "number": "228/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/228.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-229",
+      "name": "Guzma & Hala",
+      "number": "229/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/229.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-230",
+      "name": "Lillie's Full Force",
+      "number": "230/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/230.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-231",
+      "name": "Mallow & Lana",
+      "number": "231/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/231.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-232",
+      "name": "N's Resolve",
+      "number": "232/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/232.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-233",
+      "name": "Professor Oak's Setup",
+      "number": "233/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/233.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-234",
+      "name": "Red & Blue",
+      "number": "234/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Dual Character",
+        "Collaboration",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/234.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-235",
+      "name": "Roller Skater",
+      "number": "235/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/235.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-236",
+      "name": "Rosa",
+      "number": "236/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Supporter",
+        "Trainer",
+        "Ultra Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/236.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-237",
+      "name": "Torkoal",
+      "number": "237/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare Secret",
+      "hp": 70,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/237.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-238",
+      "name": "Weavile",
+      "number": "238/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Secret",
+      "hp": 95,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/238.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Sneasel"
+    },
+    {
+      "id": "ce-239",
+      "name": "Piplup",
+      "number": "239/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Secret",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/239.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-240",
+      "name": "Wishiwashi",
+      "number": "240/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Secret",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/240.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-241",
+      "name": "Pikachu",
+      "number": "241/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Rare Secret",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/241.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-242",
+      "name": "Magnemite",
+      "number": "242/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Lightning",
+      "rarity": "Rare Secret",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/242.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-243",
+      "name": "Koffing",
+      "number": "243/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Secret",
+      "hp": 65,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/243.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-244",
+      "name": "Gallade",
+      "number": "244/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Secret",
+      "hp": 125,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/244.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Kirlia"
+    },
+    {
+      "id": "ce-245",
+      "name": "Mimikyu",
+      "number": "245/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Secret",
+      "hp": 60,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/245.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-246",
+      "name": "Excadrill",
+      "number": "246/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare Secret",
+      "hp": 100,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/246.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Drilbur"
+    },
+    {
+      "id": "ce-247",
+      "name": "Steelix",
+      "number": "247/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Metal",
+      "rarity": "Rare Secret",
+      "hp": 130,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/247.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Onix"
+    },
+    {
+      "id": "ce-248",
+      "name": "Stoutland",
+      "number": "248/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Secret",
+      "hp": 125,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/248.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Herdier"
+    },
+    {
+      "id": "ce-249",
+      "name": "Venusaur & Snivy Tag Team GX",
+      "number": "249/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare Rainbow",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/249.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-250",
+      "name": "Vileplume-GX",
+      "number": "250/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Grass",
+      "rarity": "Rare Rainbow",
+      "hp": 250,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/250.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Gloom"
+    },
+    {
+      "id": "ce-251",
+      "name": "Charizard & Braixen Tag Team GX",
+      "number": "251/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare Rainbow",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/251.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-252",
+      "name": "Volcarona-GX",
+      "number": "252/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fire",
+      "rarity": "Rare Rainbow",
+      "hp": 230,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/252.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Larvesta"
+    },
+    {
+      "id": "ce-253",
+      "name": "Blastoise & Piplup Tag Team GX",
+      "number": "253/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Water",
+      "rarity": "Rare Rainbow",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/253.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-254",
+      "name": "Solgaleo & Lunala Tag Team GX",
+      "number": "254/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Rainbow",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/254.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-255",
+      "name": "Oricorio-GX",
+      "number": "255/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Psychic",
+      "rarity": "Rare Rainbow",
+      "hp": 180,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/255.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-256",
+      "name": "Flygon-GX",
+      "number": "256/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Fighting",
+      "rarity": "Rare Rainbow",
+      "hp": 230,
+      "stage": "Stage 2",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/256.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Vibrava"
+    },
+    {
+      "id": "ce-257",
+      "name": "Alolan Persian-GX",
+      "number": "257/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Darkness",
+      "rarity": "Rare Rainbow",
+      "hp": 180,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Alolan",
+        "Regional Variant",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/257.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Alolan Meowth"
+    },
+    {
+      "id": "ce-258",
+      "name": "Arceus & Dialga & Palkia Tag Team GX",
+      "number": "258/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Rainbow",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Rainbow Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/258.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-259",
+      "name": "Reshiram & Zekrom Tag Team GX",
+      "number": "259/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Rainbow",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Legendary",
+        "Rainbow Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/259.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-260",
+      "name": "Naganadel & Guzzlord Tag Team GX",
+      "number": "260/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Dragon",
+      "rarity": "Rare Rainbow",
+      "hp": 300,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Ultra Beast",
+        "Interdimensional",
+        "Rainbow Rare",
+        "Dragon",
+        "Dual Type"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/260.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-261",
+      "name": "Mega Lopunny & Jigglypuff Tag Team GX",
+      "number": "261/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Rainbow",
+      "hp": 270,
+      "stage": "Basic",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Tag Team GX",
+        "Dual Pokemon",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/261.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-262",
+      "name": "Silvally-GX",
+      "number": "262/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Colorless",
+      "rarity": "Rare Rainbow",
+      "hp": 200,
+      "stage": "Stage 1",
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "GX",
+        "Rainbow Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/262.jpg",
+      "release_date": "2019-11-01",
+      "evolves_from": "Type: Null"
+    },
+    {
+      "id": "ce-263",
+      "name": "Giant Hearth",
+      "number": "263/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/263.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-264",
+      "name": "Great Catcher",
+      "number": "264/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/264.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-265",
+      "name": "Island Challenge Amulet",
+      "number": "265/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/265.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-266",
+      "name": "Lana's Fishing Rod",
+      "number": "266/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/266.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-267",
+      "name": "Lillie's Poké Doll",
+      "number": "267/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/267.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-268",
+      "name": "Martial Arts Dojo",
+      "number": "268/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/268.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-269",
+      "name": "Power Plant",
+      "number": "269/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/269.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-270",
+      "name": "Tag Call",
+      "number": "270/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/270.jpg",
+      "release_date": "2019-11-01"
+    },
+    {
+      "id": "ce-271",
+      "name": "Draw Energy",
+      "number": "271/236",
+      "set": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "type": "Trainer",
+      "rarity": "Rare Secret",
+      "hp": null,
+      "stage": null,
+      "keywords": [
+        "Cosmic Eclipse",
+        "Sun & Moon",
+        "Final Set",
+        "Secret Rare",
+        "Special Energy"
+      ],
+      "image_url": "https://www.serebii.net/card/cosmiceclipse/271.jpg",
+      "release_date": "2019-11-01"
+    }
+  ]
+}
