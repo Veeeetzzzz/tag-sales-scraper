@@ -1,22 +1,22 @@
 {
   "setInfo": {
-    "name": "White Flare",
-    "setCode": "WF01",
+    "name": "Black Bolt (ENG)",
+    "setCode": "BB01-ENG",
     "releaseDate": "2025/07/18",
-    "totalCards": 173,
+    "totalCards": 172,
     "series": "Black & White",
-    "description": "White Flare set featuring Generation V Pokemon with classic Black & White era designs and mechanics"
+    "description": "Black Bolt English set featuring Generation V Pokemon with classic Black & White era designs and mechanics"
   },
   "cards": [
     {
       "number": "001/086",
-      "name": "Sewaddle",
+      "name": "Snivy",
       "type": "Grass",
       "rarity": "Common",
       "matchingKeywords": [
-        "sewaddle",
-        "white flare",
-        "wf01",
+        "snivy",
+        "black bolt eng",
+        "bb01-eng",
         "001"
       ],
       "variants": [
@@ -32,17 +32,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/1.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/1.jpg"
     },
     {
       "number": "002/086",
-      "name": "Swadloon",
+      "name": "Servine",
       "type": "Grass",
       "rarity": "Common",
       "matchingKeywords": [
-        "swadloon",
-        "white flare",
-        "wf01",
+        "servine",
+        "black bolt eng",
+        "bb01-eng",
         "002"
       ],
       "variants": [
@@ -58,70 +58,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/2.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/2.jpg"
     },
     {
       "number": "003/086",
-      "name": "Leavanny",
-      "type": "Grass",
-      "rarity": "Uncommon",
-      "matchingKeywords": [
-        "leavanny",
-        "white flare",
-        "wf01",
-        "003"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/3.jpg"
-    },
-    {
-      "number": "004/086",
-      "name": "Cottonee",
-      "type": "Grass",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "cottonee",
-        "white flare",
-        "wf01",
-        "004"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/4.jpg"
-    },
-    {
-      "number": "005/086",
-      "name": "Whimsicott ex",
+      "name": "Serperior ex",
       "type": "Grass",
       "rarity": "Double Rare",
       "matchingKeywords": [
-        "whimsicottex",
-        "white flare",
-        "wf01",
-        "005"
+        "serperiorex",
+        "black bolt eng",
+        "bb01-eng",
+        "003"
       ],
       "variants": [
         "Regular",
@@ -137,17 +85,69 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/5.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/3.jpg"
     },
     {
-      "number": "006/086",
-      "name": "Deerling",
+      "number": "004/086",
+      "name": "Pansage",
       "type": "Grass",
       "rarity": "Common",
       "matchingKeywords": [
-        "deerling",
-        "white flare",
-        "wf01",
+        "pansage",
+        "black bolt eng",
+        "bb01-eng",
+        "004"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/4.jpg"
+    },
+    {
+      "number": "005/086",
+      "name": "Simisage",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "simisage",
+        "black bolt eng",
+        "bb01-eng",
+        "005"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/5.jpg"
+    },
+    {
+      "number": "006/086",
+      "name": "Petilil",
+      "type": "Grass",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "petilil",
+        "black bolt eng",
+        "bb01-eng",
         "006"
       ],
       "variants": [
@@ -163,17 +163,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/6.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/6.jpg"
     },
     {
       "number": "007/086",
-      "name": "Sawsbuck",
+      "name": "Lilligant",
       "type": "Grass",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "sawsbuck",
-        "white flare",
-        "wf01",
+        "lilligant",
+        "black bolt eng",
+        "bb01-eng",
         "007"
       ],
       "variants": [
@@ -189,17 +189,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/7.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/7.jpg"
     },
     {
       "number": "008/086",
-      "name": "Shelmet",
+      "name": "Maractus",
       "type": "Grass",
       "rarity": "Common",
       "matchingKeywords": [
-        "shelmet",
-        "white flare",
-        "wf01",
+        "maractus",
+        "black bolt eng",
+        "bb01-eng",
         "008"
       ],
       "variants": [
@@ -215,17 +215,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/8.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/8.jpg"
     },
     {
       "number": "009/086",
-      "name": "Accelgor",
+      "name": "Karrablast",
       "type": "Grass",
-      "rarity": "Uncommon",
+      "rarity": "Common",
       "matchingKeywords": [
-        "accelgor",
-        "white flare",
-        "wf01",
+        "karrablast",
+        "black bolt eng",
+        "bb01-eng",
         "009"
       ],
       "variants": [
@@ -233,25 +233,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/9.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/9.jpg"
     },
     {
       "number": "010/086",
-      "name": "Virizion",
+      "name": "Foongus",
       "type": "Grass",
-      "rarity": "Rare",
+      "rarity": "Common",
       "matchingKeywords": [
-        "virizion",
-        "white flare",
-        "wf01",
+        "foongus",
+        "black bolt eng",
+        "bb01-eng",
         "010"
       ],
       "variants": [
@@ -259,130 +259,26 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/10.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/10.jpg"
     },
     {
       "number": "011/086",
-      "name": "Tepig",
-      "type": "Fire",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "tepig",
-        "white flare",
-        "wf01",
-        "011"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/11.jpg"
-    },
-    {
-      "number": "012/086",
-      "name": "Pignite",
-      "type": "Fire",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "pignite",
-        "white flare",
-        "wf01",
-        "012"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/12.jpg"
-    },
-    {
-      "number": "013/086",
-      "name": "Emboar",
-      "type": "Fire",
-      "rarity": "Rare",
-      "matchingKeywords": [
-        "emboar",
-        "white flare",
-        "wf01",
-        "013"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/13.jpg"
-    },
-    {
-      "number": "014/086",
-      "name": "Pansear",
-      "type": "Fire",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "pansear",
-        "white flare",
-        "wf01",
-        "014"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/14.jpg"
-    },
-    {
-      "number": "015/086",
-      "name": "Simisear",
-      "type": "Fire",
+      "name": "Amoonguss",
+      "type": "Grass",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "simisear",
-        "white flare",
-        "wf01",
-        "015"
+        "amoonguss",
+        "black bolt eng",
+        "bb01-eng",
+        "011"
       ],
       "variants": [
         "Regular",
@@ -397,18 +293,44 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/15.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/11.jpg"
     },
     {
-      "number": "016/086",
-      "name": "Litwick",
+      "number": "012/086",
+      "name": "Victini",
+      "type": "Fire",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "victini",
+        "black bolt eng",
+        "bb01-eng",
+        "012"
+      ],
+      "variants": [
+        "Regular",
+        "Black White Rare"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/12.jpg"
+    },
+    {
+      "number": "013/086",
+      "name": "Darumaka",
       "type": "Fire",
       "rarity": "Common",
       "matchingKeywords": [
-        "litwick",
-        "white flare",
-        "wf01",
-        "016"
+        "darumaka",
+        "black bolt eng",
+        "bb01-eng",
+        "013"
       ],
       "variants": [
         "Regular",
@@ -423,17 +345,95 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/16.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/13.jpg"
     },
     {
-      "number": "017/086",
-      "name": "Lampent",
+      "number": "014/086",
+      "name": "Darmanitan",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "darmanitan",
+        "black bolt eng",
+        "bb01-eng",
+        "014"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/14.jpg"
+    },
+    {
+      "number": "015/086",
+      "name": "Larvesta",
       "type": "Fire",
       "rarity": "Common",
       "matchingKeywords": [
-        "lampent",
-        "white flare",
-        "wf01",
+        "larvesta",
+        "black bolt eng",
+        "bb01-eng",
+        "015"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/15.jpg"
+    },
+    {
+      "number": "016/086",
+      "name": "Volcarona",
+      "type": "Fire",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "volcarona",
+        "black bolt eng",
+        "bb01-eng",
+        "016"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/16.jpg"
+    },
+    {
+      "number": "017/086",
+      "name": "Panpour",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "panpour",
+        "black bolt eng",
+        "bb01-eng",
         "017"
       ],
       "variants": [
@@ -449,44 +449,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/17.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/17.jpg"
     },
     {
       "number": "018/086",
-      "name": "Chandelure",
-      "type": "Fire",
-      "rarity": "Rare",
-      "matchingKeywords": [
-        "chandelure",
-        "white flare",
-        "wf01",
-        "018"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/18.jpg"
-    },
-    {
-      "number": "019/086",
-      "name": "Heatmor",
-      "type": "Fire",
+      "name": "Simipour",
+      "type": "Water",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "heatmor",
-        "white flare",
-        "wf01",
-        "019"
+        "simipour",
+        "black bolt eng",
+        "bb01-eng",
+        "018"
       ],
       "variants": [
         "Regular",
@@ -501,18 +475,408 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/19.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/18.jpg"
+    },
+    {
+      "number": "019/086",
+      "name": "Tympole",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "tympole",
+        "black bolt eng",
+        "bb01-eng",
+        "019"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/19.jpg"
     },
     {
       "number": "020/086",
-      "name": "Reshiram ex",
-      "type": "Fire",
+      "name": "Palpitoad",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "palpitoad",
+        "black bolt eng",
+        "bb01-eng",
+        "020"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/20.jpg"
+    },
+    {
+      "number": "021/086",
+      "name": "Seismitoad",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "seismitoad",
+        "black bolt eng",
+        "bb01-eng",
+        "021"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/21.jpg"
+    },
+    {
+      "number": "022/086",
+      "name": "Tirtouga",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "tirtouga",
+        "black bolt eng",
+        "bb01-eng",
+        "022"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/22.jpg"
+    },
+    {
+      "number": "023/086",
+      "name": "Carracosta",
+      "type": "Water",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "carracosta",
+        "black bolt eng",
+        "bb01-eng",
+        "023"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/23.jpg"
+    },
+    {
+      "number": "024/086",
+      "name": "Alomomola",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "alomomola",
+        "black bolt eng",
+        "bb01-eng",
+        "024"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/24.jpg"
+    },
+    {
+      "number": "025/086",
+      "name": "Cubchoo",
+      "type": "Water",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "cubchoo",
+        "black bolt eng",
+        "bb01-eng",
+        "025"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/25.jpg"
+    },
+    {
+      "number": "026/086",
+      "name": "Beartic",
+      "type": "Water",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "beartic",
+        "black bolt eng",
+        "bb01-eng",
+        "026"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/26.jpg"
+    },
+    {
+      "number": "027/086",
+      "name": "Cryogonal",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "cryogonal",
+        "black bolt eng",
+        "bb01-eng",
+        "027"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/27.jpg"
+    },
+    {
+      "number": "028/086",
+      "name": "Kyurem ex",
+      "type": "Water",
       "rarity": "Double Rare",
       "matchingKeywords": [
-        "reshiramex",
-        "white flare",
-        "wf01",
-        "020"
+        "kyuremex",
+        "black bolt eng",
+        "bb01-eng",
+        "028"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/28.jpg"
+    },
+    {
+      "number": "029/086",
+      "name": "Emolga",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "emolga",
+        "black bolt eng",
+        "bb01-eng",
+        "029"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/29.jpg"
+    },
+    {
+      "number": "030/086",
+      "name": "Tynamo",
+      "type": "Lightning",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "tynamo",
+        "black bolt eng",
+        "bb01-eng",
+        "030"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/30.jpg"
+    },
+    {
+      "number": "031/086",
+      "name": "Eelektrik",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "eelektrik",
+        "black bolt eng",
+        "bb01-eng",
+        "031"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/31.jpg"
+    },
+    {
+      "number": "032/086",
+      "name": "Eelektross",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "eelektross",
+        "black bolt eng",
+        "bb01-eng",
+        "032"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/32.jpg"
+    },
+    {
+      "number": "033/086",
+      "name": "Thundurus",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "matchingKeywords": [
+        "thundurus",
+        "black bolt eng",
+        "bb01-eng",
+        "033"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/33.jpg"
+    },
+    {
+      "number": "034/086",
+      "name": "Zekrom ex",
+      "type": "Lightning",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "zekromex",
+        "black bolt eng",
+        "bb01-eng",
+        "034"
       ],
       "variants": [
         "Regular",
@@ -529,382 +893,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/20.jpg"
-    },
-    {
-      "number": "021/086",
-      "name": "Oshawott",
-      "type": "Water",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "oshawott",
-        "white flare",
-        "wf01",
-        "021"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/21.jpg"
-    },
-    {
-      "number": "022/086",
-      "name": "Dewott",
-      "type": "Water",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "dewott",
-        "white flare",
-        "wf01",
-        "022"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/22.jpg"
-    },
-    {
-      "number": "023/086",
-      "name": "Samurott",
-      "type": "Water",
-      "rarity": "Rare",
-      "matchingKeywords": [
-        "samurott",
-        "white flare",
-        "wf01",
-        "023"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/23.jpg"
-    },
-    {
-      "number": "024/086",
-      "name": "Basculin",
-      "type": "Water",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "basculin",
-        "white flare",
-        "wf01",
-        "024"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/24.jpg"
-    },
-    {
-      "number": "025/086",
-      "name": "Ducklett",
-      "type": "Water",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "ducklett",
-        "white flare",
-        "wf01",
-        "025"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/25.jpg"
-    },
-    {
-      "number": "026/086",
-      "name": "Swanna",
-      "type": "Water",
-      "rarity": "Uncommon",
-      "matchingKeywords": [
-        "swanna",
-        "white flare",
-        "wf01",
-        "026"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/26.jpg"
-    },
-    {
-      "number": "027/086",
-      "name": "Vanillite",
-      "type": "Water",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "vanillite",
-        "white flare",
-        "wf01",
-        "027"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/27.jpg"
-    },
-    {
-      "number": "028/086",
-      "name": "Vanillish",
-      "type": "Water",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "vanillish",
-        "white flare",
-        "wf01",
-        "028"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/28.jpg"
-    },
-    {
-      "number": "029/086",
-      "name": "Vanilluxe",
-      "type": "Water",
-      "rarity": "Uncommon",
-      "matchingKeywords": [
-        "vanilluxe",
-        "white flare",
-        "wf01",
-        "029"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/29.jpg"
-    },
-    {
-      "number": "030/086",
-      "name": "Keldeo ex",
-      "type": "Water",
-      "rarity": "Double Rare",
-      "matchingKeywords": [
-        "keldeoex",
-        "white flare",
-        "wf01",
-        "030"
-      ],
-      "variants": [
-        "Regular",
-        "Ultra Rare",
-        "Special Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/30.jpg"
-    },
-    {
-      "number": "031/086",
-      "name": "Blitzle",
-      "type": "Lightning",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "blitzle",
-        "white flare",
-        "wf01",
-        "031"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/31.jpg"
-    },
-    {
-      "number": "032/086",
-      "name": "Zebstrika",
-      "type": "Lightning",
-      "rarity": "Uncommon",
-      "matchingKeywords": [
-        "zebstrika",
-        "white flare",
-        "wf01",
-        "032"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/32.jpg"
-    },
-    {
-      "number": "033/086",
-      "name": "Joltik",
-      "type": "Lightning",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "joltik",
-        "white flare",
-        "wf01",
-        "033"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/33.jpg"
-    },
-    {
-      "number": "034/086",
-      "name": "Galvantula",
-      "type": "Lightning",
-      "rarity": "Uncommon",
-      "matchingKeywords": [
-        "galvantula",
-        "white flare",
-        "wf01",
-        "034"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/34.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/34.jpg"
     },
     {
       "number": "035/086",
-      "name": "Stunfisk",
-      "type": "Lightning",
-      "rarity": "Uncommon",
+      "name": "Munna",
+      "type": "Psychic",
+      "rarity": "Common",
       "matchingKeywords": [
-        "stunfisk",
-        "white flare",
-        "wf01",
+        "munna",
+        "black bolt eng",
+        "bb01-eng",
         "035"
       ],
       "variants": [
@@ -912,25 +911,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/35.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/35.jpg"
     },
     {
       "number": "036/086",
-      "name": "Woobat",
+      "name": "Musharna",
       "type": "Psychic",
-      "rarity": "Common",
+      "rarity": "Uncommon",
       "matchingKeywords": [
-        "woobat",
-        "white flare",
-        "wf01",
+        "musharna",
+        "black bolt eng",
+        "bb01-eng",
         "036"
       ],
       "variants": [
@@ -938,25 +937,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/36.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/36.jpg"
     },
     {
       "number": "037/086",
-      "name": "Swoobat",
+      "name": "Solosis",
       "type": "Psychic",
-      "rarity": "Uncommon",
+      "rarity": "Common",
       "matchingKeywords": [
-        "swoobat",
-        "white flare",
-        "wf01",
+        "solosis",
+        "black bolt eng",
+        "bb01-eng",
         "037"
       ],
       "variants": [
@@ -964,25 +963,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/37.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/37.jpg"
     },
     {
       "number": "038/086",
-      "name": "Sigilyph",
+      "name": "Duosion",
       "type": "Psychic",
-      "rarity": "Uncommon",
+      "rarity": "Common",
       "matchingKeywords": [
-        "sigilyph",
-        "white flare",
-        "wf01",
+        "duosion",
+        "black bolt eng",
+        "bb01-eng",
         "038"
       ],
       "variants": [
@@ -990,6 +989,31 @@
         "Illustration Rare"
       ],
       "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/38.jpg"
+    },
+    {
+      "number": "039/086",
+      "name": "Reuniclus",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "reuniclus",
+        "black bolt eng",
+        "bb01-eng",
+        "039"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
         "low": 0.5,
         "mid": 1.0,
         "high": 2.0
@@ -998,43 +1022,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/38.jpg"
-    },
-    {
-      "number": "039/086",
-      "name": "Yamask",
-      "type": "Psychic",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "yamask",
-        "white flare",
-        "wf01",
-        "039"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/39.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/39.jpg"
     },
     {
       "number": "040/086",
-      "name": "Cofagrigus",
+      "name": "Elgyem",
       "type": "Psychic",
-      "rarity": "Rare",
+      "rarity": "Common",
       "matchingKeywords": [
-        "cofagrigus",
-        "white flare",
-        "wf01",
+        "elgyem",
+        "black bolt eng",
+        "bb01-eng",
         "040"
       ],
       "variants": [
@@ -1042,32 +1040,6 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/40.jpg"
-    },
-    {
-      "number": "041/086",
-      "name": "Gothita",
-      "type": "Psychic",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "gothita",
-        "white flare",
-        "wf01",
-        "041"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
         "high": 1.0
@@ -1076,17 +1048,43 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/41.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/40.jpg"
+    },
+    {
+      "number": "041/086",
+      "name": "Beheeyem",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "beheeyem",
+        "black bolt eng",
+        "bb01-eng",
+        "041"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/41.jpg"
     },
     {
       "number": "042/086",
-      "name": "Gothorita",
+      "name": "Golett",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
-        "gothorita",
-        "white flare",
-        "wf01",
+        "golett",
+        "black bolt eng",
+        "bb01-eng",
         "042"
       ],
       "variants": [
@@ -1102,69 +1100,44 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/42.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/42.jpg"
     },
     {
       "number": "043/086",
-      "name": "Gothitelle",
+      "name": "Golurk",
       "type": "Psychic",
-      "rarity": "Rare",
+      "rarity": "Uncommon",
       "matchingKeywords": [
-        "gothitelle",
-        "white flare",
-        "wf01",
+        "golurk",
+        "black bolt eng",
+        "bb01-eng",
         "043"
-      ],
-      "variants": [
-        "Regular"
-      ],
-      "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/43.jpg"
-    },
-    {
-      "number": "044/086",
-      "name": "Frillish",
-      "type": "Psychic",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "frillish",
-        "white flare",
-        "wf01",
-        "044"
       ],
       "variants": [
         "Regular",
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/44.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/43.jpg"
     },
     {
-      "number": "045/086",
-      "name": "Jellicent ex",
+      "number": "044/086",
+      "name": "Meloetta ex",
       "type": "Psychic",
       "rarity": "Double Rare",
       "matchingKeywords": [
-        "jellicentex",
-        "white flare",
-        "wf01",
-        "045"
+        "meloettaex",
+        "black bolt eng",
+        "bb01-eng",
+        "044"
       ],
       "variants": [
         "Regular",
@@ -1180,18 +1153,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/45.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/44.jpg"
     },
     {
-      "number": "046/086",
-      "name": "Roggenrola",
+      "number": "045/086",
+      "name": "Drilbur",
       "type": "Fighting",
       "rarity": "Common",
       "matchingKeywords": [
-        "roggenrola",
-        "white flare",
-        "wf01",
-        "046"
+        "drilbur",
+        "black bolt eng",
+        "bb01-eng",
+        "045"
       ],
       "variants": [
         "Regular",
@@ -1206,17 +1179,44 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/46.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/45.jpg"
+    },
+    {
+      "number": "046/086",
+      "name": "Excadrill ex",
+      "type": "Fighting",
+      "rarity": "Double Rare",
+      "matchingKeywords": [
+        "excadrillex",
+        "black bolt eng",
+        "bb01-eng",
+        "046"
+      ],
+      "variants": [
+        "Regular",
+        "Ultra Rare",
+        "Special Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 8.0,
+        "mid": 15.0,
+        "high": 25.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/46.jpg"
     },
     {
       "number": "047/086",
-      "name": "Boldore",
+      "name": "Timburr",
       "type": "Fighting",
       "rarity": "Common",
       "matchingKeywords": [
-        "boldore",
-        "white flare",
-        "wf01",
+        "timburr",
+        "black bolt eng",
+        "bb01-eng",
         "047"
       ],
       "variants": [
@@ -1232,17 +1232,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/47.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/47.jpg"
     },
     {
       "number": "048/086",
-      "name": "Gigalith",
+      "name": "Gurdurr",
       "type": "Fighting",
-      "rarity": "Uncommon",
+      "rarity": "Common",
       "matchingKeywords": [
-        "gigalith",
-        "white flare",
-        "wf01",
+        "gurdurr",
+        "black bolt eng",
+        "bb01-eng",
         "048"
       ],
       "variants": [
@@ -1250,25 +1250,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/48.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/48.jpg"
     },
     {
       "number": "049/086",
-      "name": "Sawk",
+      "name": "Conkeldurr",
       "type": "Fighting",
-      "rarity": "Uncommon",
+      "rarity": "Rare",
       "matchingKeywords": [
-        "sawk",
-        "white flare",
-        "wf01",
+        "conkeldurr",
+        "black bolt eng",
+        "bb01-eng",
         "049"
       ],
       "variants": [
@@ -1276,25 +1276,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/49.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/49.jpg"
     },
     {
       "number": "050/086",
-      "name": "Archen",
+      "name": "Throh",
       "type": "Fighting",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "archen",
-        "white flare",
-        "wf01",
+        "throh",
+        "black bolt eng",
+        "bb01-eng",
         "050"
       ],
       "variants": [
@@ -1310,44 +1310,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/50.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/50.jpg"
     },
     {
       "number": "051/086",
-      "name": "Archeops",
-      "type": "Fighting",
-      "rarity": "Rare",
-      "matchingKeywords": [
-        "archeops",
-        "white flare",
-        "wf01",
-        "051"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/51.jpg"
-    },
-    {
-      "number": "052/086",
-      "name": "Mienfoo",
+      "name": "Dwebble",
       "type": "Fighting",
       "rarity": "Common",
       "matchingKeywords": [
-        "mienfoo",
-        "white flare",
-        "wf01",
-        "052"
+        "dwebble",
+        "black bolt eng",
+        "bb01-eng",
+        "051"
       ],
       "variants": [
         "Regular",
@@ -1362,18 +1336,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/52.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/51.jpg"
     },
     {
-      "number": "053/086",
-      "name": "Mienshao",
+      "number": "052/086",
+      "name": "Crustle",
       "type": "Fighting",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "mienshao",
-        "white flare",
-        "wf01",
-        "053"
+        "crustle",
+        "black bolt eng",
+        "bb01-eng",
+        "052"
       ],
       "variants": [
         "Regular",
@@ -1388,18 +1362,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/53.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/52.jpg"
     },
     {
-      "number": "054/086",
-      "name": "Terrakion",
+      "number": "053/086",
+      "name": "Landorus",
       "type": "Fighting",
       "rarity": "Rare",
       "matchingKeywords": [
-        "terrakion",
-        "white flare",
-        "wf01",
-        "054"
+        "landorus",
+        "black bolt eng",
+        "bb01-eng",
+        "053"
       ],
       "variants": [
         "Regular",
@@ -1414,17 +1388,43 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/54.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/53.jpg"
     },
     {
-      "number": "055/086",
-      "name": "Purrloin",
+      "number": "054/086",
+      "name": "Venipede",
       "type": "Darkness",
       "rarity": "Common",
       "matchingKeywords": [
-        "purrloin",
-        "white flare",
-        "wf01",
+        "venipede",
+        "black bolt eng",
+        "bb01-eng",
+        "054"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/54.jpg"
+    },
+    {
+      "number": "055/086",
+      "name": "Whirlipede",
+      "type": "Darkness",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "whirlipede",
+        "black bolt eng",
+        "bb01-eng",
         "055"
       ],
       "variants": [
@@ -1440,17 +1440,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/55.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/55.jpg"
     },
     {
       "number": "056/086",
-      "name": "Liepard",
+      "name": "Scolipede",
       "type": "Darkness",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "liepard",
-        "white flare",
-        "wf01",
+        "scolipede",
+        "black bolt eng",
+        "bb01-eng",
         "056"
       ],
       "variants": [
@@ -1466,17 +1466,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/56.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/56.jpg"
     },
     {
       "number": "057/086",
-      "name": "Scraggy",
+      "name": "Sandile",
       "type": "Darkness",
       "rarity": "Common",
       "matchingKeywords": [
-        "scraggy",
-        "white flare",
-        "wf01",
+        "sandile",
+        "black bolt eng",
+        "bb01-eng",
         "057"
       ],
       "variants": [
@@ -1492,44 +1492,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/57.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/57.jpg"
     },
     {
       "number": "058/086",
-      "name": "Scrafty",
-      "type": "Darkness",
-      "rarity": "Uncommon",
-      "matchingKeywords": [
-        "scrafty",
-        "white flare",
-        "wf01",
-        "058"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/58.jpg"
-    },
-    {
-      "number": "059/086",
-      "name": "Trubbish",
+      "name": "Krokorok",
       "type": "Darkness",
       "rarity": "Common",
       "matchingKeywords": [
-        "trubbish",
-        "white flare",
-        "wf01",
-        "059"
+        "krokorok",
+        "black bolt eng",
+        "bb01-eng",
+        "058"
       ],
       "variants": [
         "Regular",
@@ -1544,17 +1518,43 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/59.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/58.jpg"
     },
     {
-      "number": "060/086",
-      "name": "Garbodor",
+      "number": "059/086",
+      "name": "Krookodile",
       "type": "Darkness",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "garbodor",
-        "white flare",
-        "wf01",
+        "krookodile",
+        "black bolt eng",
+        "bb01-eng",
+        "059"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/59.jpg"
+    },
+    {
+      "number": "060/086",
+      "name": "Escavalier",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "escavalier",
+        "black bolt eng",
+        "bb01-eng",
         "060"
       ],
       "variants": [
@@ -1570,17 +1570,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/60.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/60.jpg"
     },
     {
       "number": "061/086",
-      "name": "Zorua",
-      "type": "Darkness",
+      "name": "Klink",
+      "type": "Metal",
       "rarity": "Common",
       "matchingKeywords": [
-        "zorua",
-        "white flare",
-        "wf01",
+        "klink",
+        "black bolt eng",
+        "bb01-eng",
         "061"
       ],
       "variants": [
@@ -1596,18 +1596,44 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/61.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/61.jpg"
     },
     {
       "number": "062/086",
-      "name": "Zoroark",
-      "type": "Darkness",
+      "name": "Klang",
+      "type": "Metal",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "klang",
+        "black bolt eng",
+        "bb01-eng",
+        "062"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/62.jpg"
+    },
+    {
+      "number": "063/086",
+      "name": "Klinklang",
+      "type": "Metal",
       "rarity": "Rare",
       "matchingKeywords": [
-        "zoroark",
-        "white flare",
-        "wf01",
-        "062"
+        "klinklang",
+        "black bolt eng",
+        "bb01-eng",
+        "063"
       ],
       "variants": [
         "Regular",
@@ -1622,18 +1648,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/62.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/63.jpg"
     },
     {
-      "number": "063/086",
-      "name": "Vullaby",
-      "type": "Darkness",
+      "number": "064/086",
+      "name": "Pawniard",
+      "type": "Metal",
       "rarity": "Common",
       "matchingKeywords": [
-        "vullaby",
-        "white flare",
-        "wf01",
-        "063"
+        "pawniard",
+        "black bolt eng",
+        "bb01-eng",
+        "064"
       ],
       "variants": [
         "Regular",
@@ -1648,18 +1674,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/63.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/64.jpg"
     },
     {
-      "number": "064/086",
-      "name": "Mandibuzz",
-      "type": "Darkness",
+      "number": "065/086",
+      "name": "Bisharp",
+      "type": "Metal",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "mandibuzz",
-        "white flare",
-        "wf01",
-        "064"
+        "bisharp",
+        "black bolt eng",
+        "bb01-eng",
+        "065"
       ],
       "variants": [
         "Regular",
@@ -1674,43 +1700,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/64.jpg"
-    },
-    {
-      "number": "065/086",
-      "name": "Deino",
-      "type": "Darkness",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "deino",
-        "white flare",
-        "wf01",
-        "065"
-      ],
-      "variants": [
-        "Regular",
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/65.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/65.jpg"
     },
     {
       "number": "066/086",
-      "name": "Zweilous",
-      "type": "Darkness",
-      "rarity": "Common",
+      "name": "Cobalion",
+      "type": "Metal",
+      "rarity": "Rare",
       "matchingKeywords": [
-        "zweilous",
-        "white flare",
-        "wf01",
+        "cobalion",
+        "black bolt eng",
+        "bb01-eng",
         "066"
       ],
       "variants": [
@@ -1718,25 +1718,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.25,
-        "mid": 0.5,
-        "high": 1.0
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/66.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/66.jpg"
     },
     {
       "number": "067/086",
-      "name": "Hydreigon ex",
-      "type": "Darkness",
+      "name": "Genesect ex",
+      "type": "Metal",
       "rarity": "Double Rare",
       "matchingKeywords": [
-        "hydreigonex",
-        "white flare",
-        "wf01",
+        "genesectex",
+        "black bolt eng",
+        "bb01-eng",
         "067"
       ],
       "variants": [
@@ -1753,17 +1753,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/67.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/67.jpg"
     },
     {
       "number": "068/086",
-      "name": "Ferroseed",
-      "type": "Metal",
+      "name": "Axew",
+      "type": "Dragon",
       "rarity": "Common",
       "matchingKeywords": [
-        "ferroseed",
-        "white flare",
-        "wf01",
+        "axew",
+        "black bolt eng",
+        "bb01-eng",
         "068"
       ],
       "variants": [
@@ -1779,17 +1779,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/68.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/68.jpg"
     },
     {
       "number": "069/086",
-      "name": "Ferrothorn",
-      "type": "Metal",
-      "rarity": "Uncommon",
+      "name": "Fraxure",
+      "type": "Dragon",
+      "rarity": "Common",
       "matchingKeywords": [
-        "ferrothorn",
-        "white flare",
-        "wf01",
+        "fraxure",
+        "black bolt eng",
+        "bb01-eng",
         "069"
       ],
       "variants": [
@@ -1797,25 +1797,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/69.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/69.jpg"
     },
     {
       "number": "070/086",
-      "name": "Durant",
-      "type": "Metal",
-      "rarity": "Uncommon",
+      "name": "Haxorus",
+      "type": "Dragon",
+      "rarity": "Rare",
       "matchingKeywords": [
-        "durant",
-        "white flare",
-        "wf01",
+        "haxorus",
+        "black bolt eng",
+        "bb01-eng",
         "070"
       ],
       "variants": [
@@ -1823,25 +1823,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "low": 2.0,
+        "mid": 4.0,
+        "high": 8.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/70.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/70.jpg"
     },
     {
       "number": "071/086",
-      "name": "Druddigon",
-      "type": "Dragon",
-      "rarity": "Uncommon",
+      "name": "Pidove",
+      "type": "Colorless",
+      "rarity": "Common",
       "matchingKeywords": [
-        "druddigon",
-        "white flare",
-        "wf01",
+        "pidove",
+        "black bolt eng",
+        "bb01-eng",
         "071"
       ],
       "variants": [
@@ -1849,25 +1849,25 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/71.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/71.jpg"
     },
     {
       "number": "072/086",
-      "name": "Patrat",
+      "name": "Tranquill",
       "type": "Colorless",
       "rarity": "Common",
       "matchingKeywords": [
-        "patrat",
-        "white flare",
-        "wf01",
+        "tranquill",
+        "black bolt eng",
+        "bb01-eng",
         "072"
       ],
       "variants": [
@@ -1883,17 +1883,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/72.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/72.jpg"
     },
     {
       "number": "073/086",
-      "name": "Watchog",
+      "name": "Unfezant",
       "type": "Colorless",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "watchog",
-        "white flare",
-        "wf01",
+        "unfezant",
+        "black bolt eng",
+        "bb01-eng",
         "073"
       ],
       "variants": [
@@ -1909,17 +1909,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/73.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/73.jpg"
     },
     {
       "number": "074/086",
-      "name": "Lillipup",
+      "name": "Audino",
       "type": "Colorless",
       "rarity": "Common",
       "matchingKeywords": [
-        "lillipup",
-        "white flare",
-        "wf01",
+        "audino",
+        "black bolt eng",
+        "bb01-eng",
         "074"
       ],
       "variants": [
@@ -1935,17 +1935,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/74.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/74.jpg"
     },
     {
       "number": "075/086",
-      "name": "Herdier",
+      "name": "Minccino",
       "type": "Colorless",
       "rarity": "Common",
       "matchingKeywords": [
-        "herdier",
-        "white flare",
-        "wf01",
+        "minccino",
+        "black bolt eng",
+        "bb01-eng",
         "075"
       ],
       "variants": [
@@ -1961,17 +1961,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/75.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/75.jpg"
     },
     {
       "number": "076/086",
-      "name": "Stoutland",
+      "name": "Cinccino",
       "type": "Colorless",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "stoutland",
-        "white flare",
-        "wf01",
+        "cinccino",
+        "black bolt eng",
+        "bb01-eng",
         "076"
       ],
       "variants": [
@@ -1987,73 +1987,22 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/76.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/76.jpg"
     },
     {
       "number": "077/086",
-      "name": "Bouffalant ex",
+      "name": "Rufflet",
       "type": "Colorless",
-      "rarity": "Double Rare",
+      "rarity": "Common",
       "matchingKeywords": [
-        "bouffalantex",
-        "white flare",
-        "wf01",
+        "rufflet",
+        "black bolt eng",
+        "bb01-eng",
         "077"
       ],
       "variants": [
         "Regular",
-        "Ultra Rare",
-        "Special Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/77.jpg"
-    },
-    {
-      "number": "078/086",
-      "name": "Tornadus",
-      "type": "Colorless",
-      "rarity": "Rare",
-      "matchingKeywords": [
-        "tornadus",
-        "white flare",
-        "wf01",
-        "078"
-      ],
-      "variants": [
-        "Regular"
-      ],
-      "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/78.jpg"
-    },
-    {
-      "number": "079/086",
-      "name": "Antique Plume Fossil",
-      "type": "Trainer",
-      "rarity": "Common",
-      "matchingKeywords": [
-        "antique plume fossil",
-        "white flare",
-        "wf01",
-        "079"
-      ],
-      "variants": [
-        "Regular"
+        "Illustration Rare"
       ],
       "marketPrice": {
         "low": 0.25,
@@ -2064,18 +2013,44 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/79.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/77.jpg"
     },
     {
-      "number": "080/086",
-      "name": "Brave Bangle",
+      "number": "078/086",
+      "name": "Braviary",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "braviary",
+        "black bolt eng",
+        "bb01-eng",
+        "078"
+      ],
+      "variants": [
+        "Regular",
+        "Illustration Rare"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/78.jpg"
+    },
+    {
+      "number": "079/086",
+      "name": "Air Balloon",
       "type": "Trainer",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "brave bangle",
-        "white flare",
-        "wf01",
-        "080"
+        "air balloon",
+        "black bolt eng",
+        "bb01-eng",
+        "079"
       ],
       "variants": [
         "Regular"
@@ -2089,17 +2064,42 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/80.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/79.jpg"
+    },
+    {
+      "number": "080/086",
+      "name": "Antique Cover Fossil",
+      "type": "Trainer",
+      "rarity": "Common",
+      "matchingKeywords": [
+        "antique cover fossil",
+        "black bolt eng",
+        "bb01-eng",
+        "080"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.25,
+        "mid": 0.5,
+        "high": 1.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/80.jpg"
     },
     {
       "number": "081/086",
-      "name": "Cheren",
+      "name": "Energy Coin",
       "type": "Trainer",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "cheren",
-        "white flare",
-        "wf01",
+        "energy coin",
+        "black bolt eng",
+        "bb01-eng",
         "081"
       ],
       "variants": [
@@ -2114,43 +2114,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/81.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/81.jpg"
     },
     {
       "number": "082/086",
-      "name": "Energy Retrieval",
+      "name": "Fennel",
       "type": "Trainer",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "energy retrieval",
-        "white flare",
-        "wf01",
+        "fennel",
+        "black bolt eng",
+        "bb01-eng",
         "082"
-      ],
-      "variants": [
-        "Regular"
-      ],
-      "marketPrice": {
-        "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/82.jpg"
-    },
-    {
-      "number": "083/086",
-      "name": "Harlequin",
-      "type": "Trainer",
-      "rarity": "Uncommon",
-      "matchingKeywords": [
-        "harlequin",
-        "white flare",
-        "wf01",
-        "083"
       ],
       "variants": [
         "Regular",
@@ -2165,18 +2140,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/83.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/82.jpg"
     },
     {
-      "number": "084/086",
-      "name": "Hilda",
+      "number": "083/086",
+      "name": "N's Plan",
       "type": "Trainer",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "hilda",
-        "white flare",
-        "wf01",
-        "084"
+        "n's plan",
+        "black bolt eng",
+        "bb01-eng",
+        "083"
       ],
       "variants": [
         "Regular",
@@ -2192,17 +2167,43 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/84.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/83.jpg"
     },
     {
-      "number": "085/086",
-      "name": "Tool Scrapper",
+      "number": "084/086",
+      "name": "Pokégear 3.0",
       "type": "Trainer",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "tool scrapper",
-        "white flare",
-        "wf01",
+        "pokégear 3.0",
+        "black bolt eng",
+        "bb01-eng",
+        "084"
+      ],
+      "variants": [
+        "Regular"
+      ],
+      "marketPrice": {
+        "low": 0.5,
+        "mid": 1.0,
+        "high": 2.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/84.jpg"
+    },
+    {
+      "number": "085/086",
+      "name": "Professor's Research [Professor Juniper]",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "matchingKeywords": [
+        "professor's research",
+        "professor juniper",
+        "black bolt eng",
+        "bb01-eng",
         "085"
       ],
       "variants": [
@@ -2217,17 +2218,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/85.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/85.jpg"
     },
     {
       "number": "086/086",
-      "name": "Ignition Energy",
+      "name": "Prism Energy",
       "type": "Energy",
       "rarity": "Uncommon",
       "matchingKeywords": [
-        "ignition energy",
-        "white flare",
-        "wf01",
+        "prism energy",
+        "black bolt eng",
+        "bb01-eng",
         "086"
       ],
       "variants": [
@@ -2242,17 +2243,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/86.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/86.jpg"
     },
     {
       "number": "087/086",
-      "name": "Sewaddle",
+      "name": "Snivy",
       "type": "Grass",
       "rarity": "Illustration Rare",
       "matchingKeywords": [
-        "sewaddle",
-        "white flare",
-        "wf01",
+        "snivy",
+        "black bolt eng",
+        "bb01-eng",
         "087",
         "illustration rare"
       ],
@@ -2268,69 +2269,43 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/87.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/87.jpg"
     },
     {
-      "number": "096/086",
-      "name": "Tepig",
-      "type": "Fire",
-      "rarity": "Illustration Rare",
-      "matchingKeywords": [
-        "tepig",
-        "white flare",
-        "wf01",
-        "096",
-        "illustration rare"
-      ],
-      "variants": [
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 5.0,
-        "mid": 10.0,
-        "high": 20.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/96.jpg"
-    },
-    {
-      "number": "105/086",
-      "name": "Oshawott",
-      "type": "Water",
-      "rarity": "Illustration Rare",
-      "matchingKeywords": [
-        "oshawott",
-        "white flare",
-        "wf01",
-        "105",
-        "illustration rare"
-      ],
-      "variants": [
-        "Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 5.0,
-        "mid": 10.0,
-        "high": 20.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/105.jpg"
-    },
-    {
-      "number": "157/086",
-      "name": "Whimsicott ex",
+      "number": "156/086",
+      "name": "Serperior ex",
       "type": "Grass",
       "rarity": "Ultra Rare",
       "matchingKeywords": [
-        "whimsicottex",
-        "white flare",
-        "wf01",
+        "serperiorex",
+        "black bolt eng",
+        "bb01-eng",
+        "156",
+        "ultra rare"
+      ],
+      "variants": [
+        "Ultra Rare"
+      ],
+      "marketPrice": {
+        "low": 15.0,
+        "mid": 30.0,
+        "high": 50.0
+      },
+      "metadata": {
+        "artist": "Various Artists",
+        "generation": "Generation V"
+      },
+      "imageUrl": "https://www.serebii.net/card/blackbolt/156.jpg"
+    },
+    {
+      "number": "157/086",
+      "name": "Kyurem ex",
+      "type": "Water",
+      "rarity": "Ultra Rare",
+      "matchingKeywords": [
+        "kyuremex",
+        "black bolt eng",
+        "bb01-eng",
         "157",
         "ultra rare"
       ],
@@ -2346,17 +2321,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/157.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/157.jpg"
     },
     {
       "number": "158/086",
-      "name": "Reshiram ex",
-      "type": "Fire",
+      "name": "Zekrom ex",
+      "type": "Lightning",
       "rarity": "Ultra Rare",
       "matchingKeywords": [
-        "reshiramex",
-        "white flare",
-        "wf01",
+        "zekromex",
+        "black bolt eng",
+        "bb01-eng",
         "158",
         "ultra rare"
       ],
@@ -2372,17 +2347,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/158.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/158.jpg"
     },
     {
       "number": "159/086",
-      "name": "Keldeo ex",
-      "type": "Water",
+      "name": "Meloetta ex",
+      "type": "Psychic",
       "rarity": "Ultra Rare",
       "matchingKeywords": [
-        "keldeoex",
-        "white flare",
-        "wf01",
+        "meloettaex",
+        "black bolt eng",
+        "bb01-eng",
         "159",
         "ultra rare"
       ],
@@ -2398,17 +2373,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/159.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/159.jpg"
     },
     {
       "number": "160/086",
-      "name": "Jellicent ex",
-      "type": "Psychic",
+      "name": "Excadrill ex",
+      "type": "Fighting",
       "rarity": "Ultra Rare",
       "matchingKeywords": [
-        "jellicentex",
-        "white flare",
-        "wf01",
+        "excadrillex",
+        "black bolt eng",
+        "bb01-eng",
         "160",
         "ultra rare"
       ],
@@ -2424,17 +2399,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/160.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/160.jpg"
     },
     {
       "number": "161/086",
-      "name": "Hydreigon ex",
-      "type": "Darkness",
+      "name": "Genesect ex",
+      "type": "Metal",
       "rarity": "Ultra Rare",
       "matchingKeywords": [
-        "hydreigonex",
-        "white flare",
-        "wf01",
+        "genesectex",
+        "black bolt eng",
+        "bb01-eng",
         "161",
         "ultra rare"
       ],
@@ -2450,17 +2425,17 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/161.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/161.jpg"
     },
     {
       "number": "162/086",
-      "name": "Bouffalant ex",
-      "type": "Colorless",
+      "name": "Fennel",
+      "type": "Trainer",
       "rarity": "Ultra Rare",
       "matchingKeywords": [
-        "bouffalantex",
-        "white flare",
-        "wf01",
+        "fennel",
+        "black bolt eng",
+        "bb01-eng",
         "162",
         "ultra rare"
       ],
@@ -2468,25 +2443,25 @@
         "Ultra Rare"
       ],
       "marketPrice": {
-        "low": 15.0,
-        "mid": 30.0,
-        "high": 50.0
+        "low": 10.0,
+        "mid": 20.0,
+        "high": 35.0
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/162.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/162.jpg"
     },
     {
       "number": "163/086",
-      "name": "Harlequin",
+      "name": "N's Plan",
       "type": "Trainer",
       "rarity": "Ultra Rare",
       "matchingKeywords": [
-        "harlequin",
-        "white flare",
-        "wf01",
+        "n's plan",
+        "black bolt eng",
+        "bb01-eng",
         "163",
         "ultra rare"
       ],
@@ -2502,44 +2477,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/163.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/163.jpg"
     },
     {
       "number": "164/086",
-      "name": "Hilda",
-      "type": "Trainer",
-      "rarity": "Ultra Rare",
-      "matchingKeywords": [
-        "hilda",
-        "white flare",
-        "wf01",
-        "164",
-        "ultra rare"
-      ],
-      "variants": [
-        "Ultra Rare"
-      ],
-      "marketPrice": {
-        "low": 10.0,
-        "mid": 20.0,
-        "high": 35.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/164.jpg"
-    },
-    {
-      "number": "165/086",
-      "name": "Whimsicott ex",
+      "name": "Serperior ex",
       "type": "Grass",
       "rarity": "Special Illustration Rare",
       "matchingKeywords": [
-        "whimsicottex",
-        "white flare",
-        "wf01",
-        "165",
+        "serperiorex",
+        "black bolt eng",
+        "bb01-eng",
+        "164",
         "special illustration rare"
       ],
       "variants": [
@@ -2554,148 +2503,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/165.jpg"
-    },
-    {
-      "number": "166/086",
-      "name": "Reshiram ex",
-      "type": "Fire",
-      "rarity": "Special Illustration Rare",
-      "matchingKeywords": [
-        "reshiramex",
-        "white flare",
-        "wf01",
-        "166",
-        "special illustration rare"
-      ],
-      "variants": [
-        "Special Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 25.0,
-        "mid": 50.0,
-        "high": 100.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/166.jpg"
-    },
-    {
-      "number": "167/086",
-      "name": "Keldeo ex",
-      "type": "Water",
-      "rarity": "Special Illustration Rare",
-      "matchingKeywords": [
-        "keldeoex",
-        "white flare",
-        "wf01",
-        "167",
-        "special illustration rare"
-      ],
-      "variants": [
-        "Special Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 25.0,
-        "mid": 50.0,
-        "high": 100.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/167.jpg"
-    },
-    {
-      "number": "168/086",
-      "name": "Jellicent ex",
-      "type": "Psychic",
-      "rarity": "Special Illustration Rare",
-      "matchingKeywords": [
-        "jellicentex",
-        "white flare",
-        "wf01",
-        "168",
-        "special illustration rare"
-      ],
-      "variants": [
-        "Special Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 25.0,
-        "mid": 50.0,
-        "high": 100.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/168.jpg"
-    },
-    {
-      "number": "169/086",
-      "name": "Hydreigon ex",
-      "type": "Darkness",
-      "rarity": "Special Illustration Rare",
-      "matchingKeywords": [
-        "hydreigonex",
-        "white flare",
-        "wf01",
-        "169",
-        "special illustration rare"
-      ],
-      "variants": [
-        "Special Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 25.0,
-        "mid": 50.0,
-        "high": 100.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/169.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/164.jpg"
     },
     {
       "number": "170/086",
-      "name": "Bouffalant ex",
-      "type": "Colorless",
-      "rarity": "Special Illustration Rare",
-      "matchingKeywords": [
-        "bouffalantex",
-        "white flare",
-        "wf01",
-        "170",
-        "special illustration rare"
-      ],
-      "variants": [
-        "Special Illustration Rare"
-      ],
-      "marketPrice": {
-        "low": 25.0,
-        "mid": 50.0,
-        "high": 100.0
-      },
-      "metadata": {
-        "artist": "Various Artists",
-        "generation": "Generation V"
-      },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/170.jpg"
-    },
-    {
-      "number": "171/086",
-      "name": "Hilda",
+      "name": "N's Plan",
       "type": "Trainer",
       "rarity": "Special Illustration Rare",
       "matchingKeywords": [
-        "hilda",
-        "white flare",
-        "wf01",
-        "171",
+        "n's plan",
+        "black bolt eng",
+        "bb01-eng",
+        "170",
         "special illustration rare"
       ],
       "variants": [
@@ -2710,18 +2529,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/171.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/170.jpg"
     },
     {
-      "number": "172/086",
+      "number": "171/086",
       "name": "Victini",
       "type": "Fire",
       "rarity": "Black White Rare",
       "matchingKeywords": [
         "victini",
-        "white flare",
-        "wf01",
-        "172",
+        "black bolt eng",
+        "bb01-eng",
+        "171",
         "black white rare"
       ],
       "variants": [
@@ -2736,18 +2555,18 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/172.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/171.jpg"
     },
     {
-      "number": "173/086",
-      "name": "Reshiram ex",
-      "type": "Fire",
+      "number": "172/086",
+      "name": "Zekrom ex",
+      "type": "Lightning",
       "rarity": "Black White Rare",
       "matchingKeywords": [
-        "reshiramex",
-        "white flare",
-        "wf01",
-        "173",
+        "zekromex",
+        "black bolt eng",
+        "bb01-eng",
+        "172",
         "black white rare"
       ],
       "variants": [
@@ -2762,7 +2581,7 @@
         "artist": "Various Artists",
         "generation": "Generation V"
       },
-      "imageUrl": "https://www.serebii.net/card/whiteflare/173.jpg"
+      "imageUrl": "https://www.serebii.net/card/blackbolt/172.jpg"
     }
   ]
-}
+} 
