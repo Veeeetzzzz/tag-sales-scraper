@@ -1,8 +1,9 @@
-{
-  "set_info": {
+﻿{
+  "setInfo": {
     "name": "Kalos Starter Set",
-    "release_date": "November 8, 2013",
-    "total_cards": 39
+    "description": "Kalos Starter Set Pokemon trading card set with various Pokemon cards and mechanics",
+    "releaseDate": "November 8, 2013",
+    "totalCards": 39
   },
   "cards": [
     {
@@ -498,7 +499,7 @@
     },
     {
       "number": "35/39",
-      "name": "Poké Ball",
+      "name": "PokÃ© Ball",
       "type": "Trainer",
       "subtype": "Item",
       "rarity": "Common",
@@ -512,7 +513,7 @@
     },
     {
       "number": "36/39",
-      "name": "Pokémon Catcher",
+      "name": "PokÃ©mon Catcher",
       "type": "Trainer",
       "subtype": "Item",
       "rarity": "Uncommon",
