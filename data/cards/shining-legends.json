@@ -1,9 +1,10 @@
 {
-  "set": {
+  "setInfo": {
     "name": "Shining Legends",
+    "description": "Shining Legends special set featuring 78 cards with shiny Pokemon and legendary creatures",
     "series": "Sun & Moon",
     "printedTotal": 73,
-    "total": 78,
+    "totalCards": 78,
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
