@@ -1,0 +1,227 @@
+{
+  "setInfo": {
+    "name": "MEP Black Star Promos",
+    "description": "Mega Evolution promotional cards featuring various Pokemon from blister packs, Elite Trainer Boxes, and special boxes",
+    "lastUpdated": "2025-01-27",
+    "setCode": "MEP",
+    "totalCards": 11,
+    "releaseDate": "2025-09-26",
+    "tagSales": 0
+  },
+  "cards": [
+    {
+      "id": "mep-001",
+      "name": "Unknown Promo 001",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "001",
+      "fullNumber": "001",
+      "rarity": "Promo",
+      "type": null,
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "MEP 001",
+        "MEP Black Star Promos 001",
+        "Promo 001"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "mep-002",
+      "name": "Unknown Promo 002",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "002",
+      "fullNumber": "002",
+      "rarity": "Promo",
+      "type": null,
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "MEP 002",
+        "MEP Black Star Promos 002",
+        "Promo 002"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "mep-003",
+      "name": "Unknown Promo 003",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "003",
+      "fullNumber": "003",
+      "rarity": "Promo",
+      "type": null,
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "MEP 003",
+        "MEP Black Star Promos 003",
+        "Promo 003"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "mep-004",
+      "name": "Unknown Promo 004",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "004",
+      "fullNumber": "004",
+      "rarity": "Promo",
+      "type": null,
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "MEP 004",
+        "MEP Black Star Promos 004",
+        "Promo 004"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": "mep-005",
+      "name": "Drifloon",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "005",
+      "fullNumber": "005",
+      "rarity": "Promo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Drifloon",
+        "MEP 005",
+        "MEP Black Star Promos 005",
+        "Single Pack Blister"
+      ],
+      "imageUrl": null,
+      "promotion": "Mega Evolution Single Pack Blister"
+    },
+    {
+      "id": "mep-006",
+      "name": "Drifblim",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "006",
+      "fullNumber": "006",
+      "rarity": "Promo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Drifblim",
+        "MEP 006",
+        "MEP Black Star Promos 006",
+        "Single Pack Blister"
+      ],
+      "imageUrl": null,
+      "promotion": "Mega Evolution Single Pack Blister"
+    },
+    {
+      "id": "mep-007",
+      "name": "Psyduck",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "007",
+      "fullNumber": "007",
+      "rarity": "Promo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Psyduck",
+        "MEP 007",
+        "MEP Black Star Promos 007",
+        "Three Pack Blister"
+      ],
+      "imageUrl": null,
+      "promotion": "Mega Evolution Three Pack Blister"
+    },
+    {
+      "id": "mep-008",
+      "name": "Golduck",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "008",
+      "fullNumber": "008",
+      "rarity": "Promo",
+      "type": "Water",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Golduck",
+        "MEP 008",
+        "MEP Black Star Promos 008",
+        "Three Pack Blister"
+      ],
+      "imageUrl": null,
+      "promotion": "Mega Evolution Three Pack Blister"
+    },
+    {
+      "id": "mep-009",
+      "name": "Alakazam",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "009",
+      "fullNumber": "009",
+      "rarity": "Promo",
+      "type": "Psychic",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Alakazam",
+        "MEP 009",
+        "MEP Black Star Promos 009",
+        "Elite Trainer Box",
+        "Mega Gardevoir"
+      ],
+      "imageUrl": null,
+      "promotion": "Mega Evolution Elite Trainer Box (Mega Gardevoir)"
+    },
+    {
+      "id": "mep-010",
+      "name": "Riolu",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "010",
+      "fullNumber": "010",
+      "rarity": "Promo",
+      "type": "Fighting",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Riolu",
+        "MEP 010",
+        "MEP Black Star Promos 010",
+        "Elite Trainer Box",
+        "Mega Lucario"
+      ],
+      "imageUrl": null,
+      "promotion": "Mega Evolution Elite Trainer Box (Mega Lucario)"
+    },
+    {
+      "id": "mep-011",
+      "name": "Mega Latias ex",
+      "setName": "MEP Black Star Promos",
+      "setCode": "MEP",
+      "cardNumber": "011",
+      "fullNumber": "011",
+      "rarity": "Promo",
+      "type": "Dragon",
+      "hp": null,
+      "artist": null,
+      "matchingKeywords": [
+        "Mega Latias ex",
+        "MEP 011",
+        "MEP Black Star Promos 011",
+        "Mega Latias ex Box"
+      ],
+      "imageUrl": null,
+      "promotion": "Mega Latias ex Box"
+    }
+  ]
+} 
