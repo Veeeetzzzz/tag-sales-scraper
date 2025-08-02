@@ -2,7 +2,7 @@
   "dataInfo": {
     "name": "Best Offers Accepted",
     "description": "Pokemon card sales data where eBay offers were accepted. This data is manually compiled as eBay hides the final accepted offer prices on their platform, making it impossible to scrape this information automatically.",
-    "lastUpdated": "2025-06-16",
+    "lastUpdated": "2025-01-27",
     "dataSource": "Manual compilation from protected eBay seller data",
     "notes": "Unlike regular sold listings, this data represents accepted Best Offers which are not publicly visible on eBay after the sale completes. Prices shown are the actual accepted offer amounts. Updated format now includes listing URLs for reference."
   },
@@ -161,6 +161,66 @@
       "quantity": 1,
       "dateLastSold": "5 Jun 2025",
       "listingUrl": "https://www.ebay.co.uk/itm/357000940620?nordt=true&orig_cvip=true&rt=nc"
+    },
+    {
+      "id": "bo-018",
+      "listingTitle": "Muk & Alolan Muk GX TAG grading 9 61/214 Unbroken Bonds Tag Team Pokemon",
+      "avgSold": "30.00",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1,
+      "dateLastSold": "7 Jun 2025",
+      "listingUrl": "https://www.ebay.co.uk/itm/335960863103?nordt=true&orig_cvip=true&rt=nc"
+    },
+    {
+      "id": "bo-019",
+      "listingTitle": "[PLACEHOLDER - Please update listing title]",
+      "avgSold": "0.00",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1,
+      "dateLastSold": "[PLACEHOLDER - Please update date]",
+      "listingUrl": "https://www.ebay.co.uk/itm/356725474912?nordt=true&orig_cvip=true&rt=nc"
+    },
+    {
+      "id": "bo-020",
+      "listingTitle": "TAG 9 Lapras Holo 008/032 CLK Classic Collection Pokemon Japanese MINT",
+      "avgSold": "17.00",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1,
+      "dateLastSold": "4 Jun 2025",
+      "listingUrl": "https://www.ebay.co.uk/itm/396601780145?nordt=true&orig_cvip=true&rt=nc"
+    },
+    {
+      "id": "bo-021",
+      "listingTitle": "[PLACEHOLDER - Please update listing title]",
+      "avgSold": "0.00",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1,
+      "dateLastSold": "[PLACEHOLDER - Please update date]",
+      "listingUrl": "https://www.ebay.co.uk/itm/316757989914?nordt=true&orig_cvip=true&rt=nc"
+    },
+    {
+      "id": "bo-022",
+      "listingTitle": "[PLACEHOLDER - Please update listing title]",
+      "avgSold": "0.00",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1,
+      "dateLastSold": "[PLACEHOLDER - Please update date]",
+      "listingUrl": "https://www.ebay.co.uk/itm/177139415688?nordt=true&orig_cvip=true&rt=nc"
+    },
+    {
+      "id": "bo-023",
+      "listingTitle": "[PLACEHOLDER - Please update listing title]",
+      "avgSold": "0.00",
+      "currency": "GBP",
+      "postage": "0.00",
+      "quantity": 1,
+      "dateLastSold": "[PLACEHOLDER - Please update date]",
+      "listingUrl": "https://www.ebay.co.uk/itm/197362879958?nordt=true&orig_cvip=true&rt=nc"
     }
   ]
 } 
