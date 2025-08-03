@@ -3,16 +3,17 @@
     "name": "Paldean Fates",
     "description": "Pokemon Paldean Fates special set featuring Shiny Pokemon from the Paldea region with over 140 shiny cards, including shiny versions of popular Pokemon like Charizard ex and Forretress ex",
     "lastUpdated": "2024/12/25",
-    "setCode": "SV4.5",
+    "setCode": "PAF",
     "totalCards": 245,
-    "releaseDate": "2024/01/26"
+    "releaseDate": "2024/01/26",
+    "logo": "https://www.serebii.net/card/logo/paldeanfates.png"
   },
   "cards": [
     {
       "number": "001/091",
       "name": "Pineco",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Common",
       "matchingKeywords": [
@@ -21,13 +22,14 @@
         "sv4.5",
         "001",
         "001/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/001.jpg"
     },
     {
       "number": "002/091",
       "name": "Forretress ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -37,13 +39,14 @@
         "sv4.5",
         "002",
         "002/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/002.jpg"
     },
     {
       "number": "003/091",
       "name": "Maractus",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Common",
       "matchingKeywords": [
@@ -52,13 +55,14 @@
         "sv4.5",
         "003",
         "003/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/003.jpg"
     },
     {
       "number": "004/091",
       "name": "Toedscool",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Common",
       "matchingKeywords": [
@@ -67,13 +71,14 @@
         "sv4.5",
         "004",
         "004/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/004.jpg"
     },
     {
       "number": "005/091",
       "name": "Toedscruel ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -83,13 +88,14 @@
         "sv4.5",
         "005",
         "005/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/005.jpg"
     },
     {
       "number": "006/091",
       "name": "Espathra ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -99,13 +105,14 @@
         "sv4.5",
         "006",
         "006/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/006.jpg"
     },
     {
       "number": "007/091",
       "name": "Charmander",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Common",
       "matchingKeywords": [
@@ -114,13 +121,14 @@
         "sv4.5",
         "007",
         "007/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/007.jpg"
     },
     {
       "number": "008/091",
       "name": "Charmeleon",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -129,13 +137,14 @@
         "sv4.5",
         "008",
         "008/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/008.jpg"
     },
     {
       "number": "009/091",
       "name": "Magmar",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Common",
       "matchingKeywords": [
@@ -144,13 +153,14 @@
         "sv4.5",
         "009",
         "009/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/009.jpg"
     },
     {
       "number": "010/091",
       "name": "Magmortar",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -159,13 +169,14 @@
         "sv4.5",
         "010",
         "010/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/010.jpg"
     },
     {
       "number": "011/091",
       "name": "Numel",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Common",
       "matchingKeywords": [
@@ -174,13 +185,14 @@
         "sv4.5",
         "011",
         "011/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/011.jpg"
     },
     {
       "number": "012/091",
       "name": "Camerupt",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -189,13 +201,14 @@
         "sv4.5",
         "012",
         "012/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/012.jpg"
     },
     {
       "number": "013/091",
       "name": "Heat Rotom",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -205,13 +218,14 @@
         "sv4.5",
         "013",
         "013/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/013.jpg"
     },
     {
       "number": "014/091",
       "name": "Charcadet",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Common",
       "matchingKeywords": [
@@ -220,13 +234,14 @@
         "sv4.5",
         "014",
         "014/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/014.jpg"
     },
     {
       "number": "015/091",
       "name": "Armarouge",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -235,13 +250,14 @@
         "sv4.5",
         "015",
         "015/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/015.jpg"
     },
     {
       "number": "016/091",
       "name": "Lapras",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Water",
       "rarity": "Common",
       "matchingKeywords": [
@@ -250,13 +266,14 @@
         "sv4.5",
         "016",
         "016/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/016.jpg"
     },
     {
       "number": "017/091",
       "name": "Frigibax",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Water",
       "rarity": "Common",
       "matchingKeywords": [
@@ -265,13 +282,14 @@
         "sv4.5",
         "017",
         "017/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/017.jpg"
     },
     {
       "number": "018/091",
       "name": "Pikachu",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Lightning",
       "rarity": "Common",
       "matchingKeywords": [
@@ -280,13 +298,14 @@
         "sv4.5",
         "018",
         "018/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/018.jpg"
     },
     {
       "number": "019/091",
       "name": "Raichu",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Lightning",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -295,13 +314,14 @@
         "sv4.5",
         "019",
         "019/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/019.jpg"
     },
     {
       "number": "020/091",
       "name": "Chinchou",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Lightning",
       "rarity": "Common",
       "matchingKeywords": [
@@ -310,13 +330,14 @@
         "sv4.5",
         "020",
         "020/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/020.jpg"
     },
     {
       "number": "021/091",
       "name": "Lanturn",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Lightning",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -325,13 +346,14 @@
         "sv4.5",
         "021",
         "021/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/021.jpg"
     },
     {
       "number": "022/091",
       "name": "Kilowattrel",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Lightning",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -340,13 +362,14 @@
         "sv4.5",
         "022",
         "022/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/022.jpg"
     },
     {
       "number": "023/091",
       "name": "Exeggcute",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -355,13 +378,14 @@
         "sv4.5",
         "023",
         "023/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/023.jpg"
     },
     {
       "number": "024/091",
       "name": "Exeggutor",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -370,13 +394,14 @@
         "sv4.5",
         "024",
         "024/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/024.jpg"
     },
     {
       "number": "025/091",
       "name": "Natu",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -385,13 +410,14 @@
         "sv4.5",
         "025",
         "025/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/025.jpg"
     },
     {
       "number": "026/091",
       "name": "Xatu",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -400,13 +426,14 @@
         "sv4.5",
         "026",
         "026/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/026.jpg"
     },
     {
       "number": "027/091",
       "name": "Ralts",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -415,13 +442,14 @@
         "sv4.5",
         "027",
         "027/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/027.jpg"
     },
     {
       "number": "028/091",
       "name": "Kirlia",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -430,13 +458,14 @@
         "sv4.5",
         "028",
         "028/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/028.jpg"
     },
     {
       "number": "029/091",
       "name": "Gardevoir ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -446,13 +475,14 @@
         "sv4.5",
         "029",
         "029/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/029.jpg"
     },
     {
       "number": "030/091",
       "name": "Chimecho",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -461,13 +491,14 @@
         "sv4.5",
         "030",
         "030/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/030.jpg"
     },
     {
       "number": "031/091",
       "name": "Mime Jr.",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -477,13 +508,14 @@
         "sv4.5",
         "031",
         "031/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/031.jpg"
     },
     {
       "number": "032/091",
       "name": "Woobat",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -492,13 +524,14 @@
         "sv4.5",
         "032",
         "032/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/032.jpg"
     },
     {
       "number": "033/091",
       "name": "Swoobat",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -507,13 +540,14 @@
         "sv4.5",
         "033",
         "033/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/033.jpg"
     },
     {
       "number": "034/091",
       "name": "Cottonee",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -522,13 +556,14 @@
         "sv4.5",
         "034",
         "034/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/034.jpg"
     },
     {
       "number": "035/091",
       "name": "Whimsicott",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -537,13 +572,14 @@
         "sv4.5",
         "035",
         "035/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/035.jpg"
     },
     {
       "number": "036/091",
       "name": "Dedenne",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -552,13 +588,14 @@
         "sv4.5",
         "036",
         "036/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/036.jpg"
     },
     {
       "number": "037/091",
       "name": "Mimikyu",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -567,13 +604,14 @@
         "sv4.5",
         "037",
         "037/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/037.jpg"
     },
     {
       "number": "038/091",
       "name": "Fidough",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -582,13 +620,14 @@
         "sv4.5",
         "038",
         "038/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/038.jpg"
     },
     {
       "number": "039/091",
       "name": "Dachsbun",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -597,13 +636,14 @@
         "sv4.5",
         "039",
         "039/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/039.jpg"
     },
     {
       "number": "040/091",
       "name": "Ceruledge",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -612,13 +652,14 @@
         "sv4.5",
         "040",
         "040/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/040.jpg"
     },
     {
       "number": "041/091",
       "name": "Flittle",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -627,13 +668,14 @@
         "sv4.5",
         "041",
         "041/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/041.jpg"
     },
     {
       "number": "042/091",
       "name": "Greavard",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -642,13 +684,14 @@
         "sv4.5",
         "042",
         "042/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/042.jpg"
     },
     {
       "number": "043/091",
       "name": "Houndstone",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -657,13 +700,14 @@
         "sv4.5",
         "043",
         "043/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/043.jpg"
     },
     {
       "number": "044/091",
       "name": "Gimmighoul",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Common",
       "matchingKeywords": [
@@ -672,13 +716,14 @@
         "sv4.5",
         "044",
         "044/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/044.jpg"
     },
     {
       "number": "045/091",
       "name": "Mankey",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Common",
       "matchingKeywords": [
@@ -687,13 +732,14 @@
         "sv4.5",
         "045",
         "045/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/045.jpg"
     },
     {
       "number": "046/091",
       "name": "Primeape",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -702,13 +748,14 @@
         "sv4.5",
         "046",
         "046/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/046.jpg"
     },
     {
       "number": "047/091",
       "name": "Annihilape",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -717,13 +764,14 @@
         "sv4.5",
         "047",
         "047/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/047.jpg"
     },
     {
       "number": "048/091",
       "name": "Phanpy",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Common",
       "matchingKeywords": [
@@ -732,13 +780,14 @@
         "sv4.5",
         "048",
         "048/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/048.jpg"
     },
     {
       "number": "049/091",
       "name": "Donphan",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -747,13 +796,14 @@
         "sv4.5",
         "049",
         "049/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/049.jpg"
     },
     {
       "number": "050/091",
       "name": "Barboach",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Common",
       "matchingKeywords": [
@@ -762,13 +812,14 @@
         "sv4.5",
         "050",
         "050/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/050.jpg"
     },
     {
       "number": "051/091",
       "name": "Clobbopus",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Common",
       "matchingKeywords": [
@@ -777,13 +828,14 @@
         "sv4.5",
         "051",
         "051/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/051.jpg"
     },
     {
       "number": "052/091",
       "name": "Grapploct",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -792,13 +844,14 @@
         "sv4.5",
         "052",
         "052/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/052.jpg"
     },
     {
       "number": "053/091",
       "name": "Great Tusk ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -808,13 +861,14 @@
         "sv4.5",
         "053",
         "053/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/053.jpg"
     },
     {
       "number": "054/091",
       "name": "Charizard ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -824,13 +878,14 @@
         "sv4.5",
         "054",
         "054/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/054.jpg"
     },
     {
       "number": "055/091",
       "name": "Gastly",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Common",
       "matchingKeywords": [
@@ -839,13 +894,14 @@
         "sv4.5",
         "055",
         "055/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/055.jpg"
     },
     {
       "number": "056/091",
       "name": "Haunter",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Common",
       "matchingKeywords": [
@@ -854,13 +910,14 @@
         "sv4.5",
         "056",
         "056/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/056.jpg"
     },
     {
       "number": "057/091",
       "name": "Gengar",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -869,13 +926,14 @@
         "sv4.5",
         "057",
         "057/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/057.jpg"
     },
     {
       "number": "058/091",
       "name": "Paldean Wooper",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Common",
       "matchingKeywords": [
@@ -885,13 +943,14 @@
         "sv4.5",
         "058",
         "058/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/058.jpg"
     },
     {
       "number": "059/091",
       "name": "Paldean Clodsire ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -902,13 +961,14 @@
         "sv4.5",
         "059",
         "059/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/059.jpg"
     },
     {
       "number": "060/091",
       "name": "Scraggy",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Common",
       "matchingKeywords": [
@@ -917,13 +977,14 @@
         "sv4.5",
         "060",
         "060/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/060.jpg"
     },
     {
       "number": "061/091",
       "name": "Scrafty",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -932,13 +993,14 @@
         "sv4.5",
         "061",
         "061/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/061.jpg"
     },
     {
       "number": "062/091",
       "name": "Maschiff",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Common",
       "matchingKeywords": [
@@ -947,13 +1009,14 @@
         "sv4.5",
         "062",
         "062/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/062.jpg"
     },
     {
       "number": "063/091",
       "name": "Mabosstiff",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -962,13 +1025,14 @@
         "sv4.5",
         "063",
         "063/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/063.jpg"
     },
     {
       "number": "064/091",
       "name": "Varoom",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Metal",
       "rarity": "Common",
       "matchingKeywords": [
@@ -977,13 +1041,14 @@
         "sv4.5",
         "064",
         "064/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/064.jpg"
     },
     {
       "number": "065/091",
       "name": "Revavroom",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Metal",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -992,13 +1057,14 @@
         "sv4.5",
         "065",
         "065/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/065.jpg"
     },
     {
       "number": "066/091",
       "name": "Iron Treads ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Metal",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -1008,13 +1074,14 @@
         "sv4.5",
         "066",
         "066/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/066.jpg"
     },
     {
       "number": "067/091",
       "name": "Gholdengo",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Metal",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -1023,13 +1090,14 @@
         "sv4.5",
         "067",
         "067/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/067.jpg"
     },
     {
       "number": "068/091",
       "name": "Noibat",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Dragon",
       "rarity": "Common",
       "matchingKeywords": [
@@ -1038,13 +1106,14 @@
         "sv4.5",
         "068",
         "068/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/068.jpg"
     },
     {
       "number": "069/091",
       "name": "Noivern ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Dragon",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -1054,13 +1123,14 @@
         "sv4.5",
         "069",
         "069/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/069.jpg"
     },
     {
       "number": "070/091",
       "name": "Cyclizar",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Dragon",
       "rarity": "Rare",
       "matchingKeywords": [
@@ -1069,13 +1139,14 @@
         "sv4.5",
         "070",
         "070/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/070.jpg"
     },
     {
       "number": "071/091",
       "name": "Lechonk",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Colorless",
       "rarity": "Common",
       "matchingKeywords": [
@@ -1084,13 +1155,14 @@
         "sv4.5",
         "071",
         "071/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/071.jpg"
     },
     {
       "number": "072/091",
       "name": "Oinkologne",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Colorless",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -1099,13 +1171,14 @@
         "sv4.5",
         "072",
         "072/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/072.jpg"
     },
     {
       "number": "073/091",
       "name": "Tandemaus",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Colorless",
       "rarity": "Common",
       "matchingKeywords": [
@@ -1114,13 +1187,14 @@
         "sv4.5",
         "073",
         "073/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/073.jpg"
     },
     {
       "number": "074/091",
       "name": "Maushold",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Colorless",
       "rarity": "Uncommon",
       "matchingKeywords": [
@@ -1129,13 +1203,14 @@
         "sv4.5",
         "074",
         "074/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/074.jpg"
     },
     {
       "number": "075/091",
       "name": "Squawkabilly ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Colorless",
       "rarity": "Double Rare",
       "matchingKeywords": [
@@ -1145,13 +1220,14 @@
         "sv4.5",
         "075",
         "075/091"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/075.jpg"
     },
     {
       "number": "092/091",
       "name": "Oddish",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Shiny Rare",
       "matchingKeywords": [
@@ -1162,13 +1238,14 @@
         "092",
         "092/091",
         "shiny"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/092.jpg"
     },
     {
       "number": "212/091",
       "name": "Forretress ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Shiny Ultra Rare",
       "matchingKeywords": [
@@ -1180,13 +1257,14 @@
         "212",
         "212/091",
         "shiny"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/212.jpg"
     },
     {
       "number": "232/091",
       "name": "Mew ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Special Illustration Rare",
       "matchingKeywords": [
@@ -1197,13 +1275,14 @@
         "232",
         "232/091",
         "special illustration"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/232.jpg"
     },
     {
       "number": "233/091",
       "name": "Gardevoir ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Psychic",
       "rarity": "Special Illustration Rare",
       "matchingKeywords": [
@@ -1214,13 +1293,14 @@
         "233",
         "233/091",
         "special illustration"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/233.jpg"
     },
     {
       "number": "234/091",
       "name": "Charizard ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Darkness",
       "rarity": "Special Illustration Rare",
       "matchingKeywords": [
@@ -1231,13 +1311,14 @@
         "234",
         "234/091",
         "special illustration"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/234.jpg"
     },
     {
       "number": "240/091",
       "name": "Wo-Chien ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Grass",
       "rarity": "Hyper Rare",
       "matchingKeywords": [
@@ -1248,13 +1329,14 @@
         "240",
         "240/091",
         "hyper rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/240.jpg"
     },
     {
       "number": "241/091",
       "name": "Chi-Yu ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fire",
       "rarity": "Hyper Rare",
       "matchingKeywords": [
@@ -1265,13 +1347,14 @@
         "241",
         "241/091",
         "hyper rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/241.jpg"
     },
     {
       "number": "242/091",
       "name": "Chien-Pao ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Water",
       "rarity": "Hyper Rare",
       "matchingKeywords": [
@@ -1282,13 +1365,14 @@
         "242",
         "242/091",
         "hyper rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/242.jpg"
     },
     {
       "number": "243/091",
       "name": "Miraidon ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Lightning",
       "rarity": "Hyper Rare",
       "matchingKeywords": [
@@ -1299,13 +1383,14 @@
         "243",
         "243/091",
         "hyper rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/243.jpg"
     },
     {
       "number": "244/091",
       "name": "Ting-Lu ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Hyper Rare",
       "matchingKeywords": [
@@ -1316,13 +1401,14 @@
         "244",
         "244/091",
         "hyper rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/244.jpg"
     },
     {
       "number": "245/091",
       "name": "Koraidon ex",
       "setName": "Paldean Fates",
-      "setCode": "SV4.5",
+      "setCode": "PAF",
       "type": "Fighting",
       "rarity": "Hyper Rare",
       "matchingKeywords": [
@@ -1333,7 +1419,8 @@
         "245",
         "245/091",
         "hyper rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/paldeanfates/245.jpg"
     }
   ]
-} 
+}

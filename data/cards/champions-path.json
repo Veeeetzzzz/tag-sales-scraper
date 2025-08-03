@@ -2,17 +2,18 @@
   "setInfo": {
     "name": "Champion's Path",
     "description": "A special set released in September 2020 featuring Pokémon from the Galar region, including powerful V and VMAX cards. Notable for featuring Charizard V and Charizard VMAX cards.",
-    "setCode": "champions-path",
+    "setCode": "CHAMPIONSPATH",
     "totalCards": 80,
     "releaseDate": "September 25, 2020",
-    "tagSales": []
+    "tagSales": [],
+    "logo": "https://www.serebii.net/card/logo/championspath.png"
   },
   "cards": [
     {
       "id": "champions-path-001",
       "name": "VenusaurV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 1,
       "fullNumber": "001/073",
       "rarity": "Ultra Rare",
@@ -24,13 +25,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/001.jpg"
     },
     {
       "id": "champions-path-002",
       "name": "Weedle",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 2,
       "fullNumber": "002/073",
       "rarity": "Common",
@@ -40,13 +41,13 @@
       "matchingKeywords": [
         "weedle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/002.jpg"
     },
     {
       "id": "champions-path-003",
       "name": "Kakuna",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 3,
       "fullNumber": "003/073",
       "rarity": "Common",
@@ -56,13 +57,13 @@
       "matchingKeywords": [
         "kakuna"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/003.jpg"
     },
     {
       "id": "champions-path-004",
       "name": "Beedrill",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 4,
       "fullNumber": "004/073",
       "rarity": "Uncommon",
@@ -72,13 +73,13 @@
       "matchingKeywords": [
         "beedrill"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/004.jpg"
     },
     {
       "id": "champions-path-005",
       "name": "EldegossV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 5,
       "fullNumber": "005/073",
       "rarity": "Ultra Rare",
@@ -90,13 +91,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/005.jpg"
     },
     {
       "id": "champions-path-006",
       "name": "Vulpix",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 6,
       "fullNumber": "006/073",
       "rarity": "Common",
@@ -106,13 +107,13 @@
       "matchingKeywords": [
         "vulpix"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/006.jpg"
     },
     {
       "id": "champions-path-007",
       "name": "Victini",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 7,
       "fullNumber": "007/073",
       "rarity": "Uncommon",
@@ -122,13 +123,13 @@
       "matchingKeywords": [
         "victini"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/007.jpg"
     },
     {
       "id": "champions-path-008",
       "name": "IncineroarV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 8,
       "fullNumber": "008/073",
       "rarity": "Ultra Rare",
@@ -140,13 +141,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/008.jpg"
     },
     {
       "id": "champions-path-009",
       "name": "Sizzlipede",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 9,
       "fullNumber": "009/073",
       "rarity": "Common",
@@ -156,13 +157,13 @@
       "matchingKeywords": [
         "sizzlipede"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/009.jpg"
     },
     {
       "id": "champions-path-010",
       "name": "Centiskorch",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 10,
       "fullNumber": "010/073",
       "rarity": "Rare Holo",
@@ -172,13 +173,13 @@
       "matchingKeywords": [
         "centiskorch"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/010.jpg"
     },
     {
       "id": "champions-path-011",
       "name": "Carvanha",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 11,
       "fullNumber": "011/073",
       "rarity": "Common",
@@ -188,13 +189,13 @@
       "matchingKeywords": [
         "carvanha"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/011.jpg"
     },
     {
       "id": "champions-path-012",
       "name": "Sharpedo",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 12,
       "fullNumber": "012/073",
       "rarity": "Uncommon",
@@ -204,13 +205,13 @@
       "matchingKeywords": [
         "sharpedo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/012.jpg"
     },
     {
       "id": "champions-path-013",
       "name": "WailordV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 13,
       "fullNumber": "013/073",
       "rarity": "Ultra Rare",
@@ -222,13 +223,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/013.jpg"
     },
     {
       "id": "champions-path-014",
       "name": "DrednawV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 14,
       "fullNumber": "014/073",
       "rarity": "Ultra Rare",
@@ -240,13 +241,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/014.jpg"
     },
     {
       "id": "champions-path-015",
       "name": "DrednawVMAX",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 15,
       "fullNumber": "015/073",
       "rarity": "Rare VMAX",
@@ -258,13 +259,13 @@
         "vmax",
         "vmaxcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/015.jpg"
     },
     {
       "id": "champions-path-016",
       "name": "GardevoirV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 16,
       "fullNumber": "016/073",
       "rarity": "Ultra Rare",
@@ -276,13 +277,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/016.jpg"
     },
     {
       "id": "champions-path-017",
       "name": "GardevoirVMAX",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 17,
       "fullNumber": "017/073",
       "rarity": "Rare VMAX",
@@ -294,13 +295,13 @@
         "vmax",
         "vmaxcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/017.jpg"
     },
     {
       "id": "champions-path-018",
       "name": "Hatenna",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 18,
       "fullNumber": "018/073",
       "rarity": "Common",
@@ -310,13 +311,13 @@
       "matchingKeywords": [
         "hatenna"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/018.jpg"
     },
     {
       "id": "champions-path-019",
       "name": "Hattrem",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 19,
       "fullNumber": "019/073",
       "rarity": "Uncommon",
@@ -326,13 +327,13 @@
       "matchingKeywords": [
         "hattrem"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/019.jpg"
     },
     {
       "id": "champions-path-020",
       "name": "Hatterene",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 20,
       "fullNumber": "020/073",
       "rarity": "Rare Holo",
@@ -342,13 +343,13 @@
       "matchingKeywords": [
         "hatterene"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/020.jpg"
     },
     {
       "id": "champions-path-021",
       "name": "Galarian CursolaV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 21,
       "fullNumber": "021/073",
       "rarity": "Ultra Rare",
@@ -362,13 +363,13 @@
         "galarian",
         "galar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/021.jpg"
     },
     {
       "id": "champions-path-022",
       "name": "AlcremieV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 22,
       "fullNumber": "022/073",
       "rarity": "Ultra Rare",
@@ -380,13 +381,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/022.jpg"
     },
     {
       "id": "champions-path-023",
       "name": "AlcremieVMAX",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 23,
       "fullNumber": "023/073",
       "rarity": "Rare VMAX",
@@ -398,13 +399,13 @@
         "vmax",
         "vmaxcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/023.jpg"
     },
     {
       "id": "champions-path-024",
       "name": "Machop",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 24,
       "fullNumber": "024/073",
       "rarity": "Common",
@@ -414,13 +415,13 @@
       "matchingKeywords": [
         "machop"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/024.jpg"
     },
     {
       "id": "champions-path-025",
       "name": "Machoke",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 25,
       "fullNumber": "025/073",
       "rarity": "Uncommon",
@@ -430,13 +431,13 @@
       "matchingKeywords": [
         "machoke"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/025.jpg"
     },
     {
       "id": "champions-path-026",
       "name": "Machamp",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 26,
       "fullNumber": "026/073",
       "rarity": "Rare Holo",
@@ -446,13 +447,13 @@
       "matchingKeywords": [
         "machamp"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/026.jpg"
     },
     {
       "id": "champions-path-027",
       "name": "LucarioV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 27,
       "fullNumber": "027/073",
       "rarity": "Ultra Rare",
@@ -464,13 +465,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/027.jpg"
     },
     {
       "id": "champions-path-028",
       "name": "Zygarde",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 28,
       "fullNumber": "028/073",
       "rarity": "Rare Holo",
@@ -480,13 +481,13 @@
       "matchingKeywords": [
         "zygarde"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/028.jpg"
     },
     {
       "id": "champions-path-029",
       "name": "Rockruff",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 29,
       "fullNumber": "029/073",
       "rarity": "Common",
@@ -496,13 +497,13 @@
       "matchingKeywords": [
         "rockruff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/029.jpg"
     },
     {
       "id": "champions-path-030",
       "name": "Lycanroc",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 30,
       "fullNumber": "030/073",
       "rarity": "Rare Holo",
@@ -512,13 +513,13 @@
       "matchingKeywords": [
         "lycanroc"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/030.jpg"
     },
     {
       "id": "champions-path-031",
       "name": "Rolycoly",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 31,
       "fullNumber": "031/073",
       "rarity": "Common",
@@ -528,13 +529,13 @@
       "matchingKeywords": [
         "rolycoly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/031.jpg"
     },
     {
       "id": "champions-path-032",
       "name": "GrapploctV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 32,
       "fullNumber": "032/073",
       "rarity": "Ultra Rare",
@@ -546,13 +547,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/032.jpg"
     },
     {
       "id": "champions-path-033",
       "name": "Ekans",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 33,
       "fullNumber": "033/073",
       "rarity": "Common",
@@ -562,13 +563,13 @@
       "matchingKeywords": [
         "ekans"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/033.jpg"
     },
     {
       "id": "champions-path-034",
       "name": "Arbok",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 34,
       "fullNumber": "034/073",
       "rarity": "Uncommon",
@@ -578,13 +579,13 @@
       "matchingKeywords": [
         "arbok"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/034.jpg"
     },
     {
       "id": "champions-path-035",
       "name": "Galarian Zigzagoon",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 35,
       "fullNumber": "035/073",
       "rarity": "Common",
@@ -596,13 +597,13 @@
         "galarian",
         "galar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/035.jpg"
     },
     {
       "id": "champions-path-036",
       "name": "Galarian Linoone",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 36,
       "fullNumber": "036/073",
       "rarity": "Common",
@@ -614,13 +615,13 @@
         "galarian",
         "galar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/036.jpg"
     },
     {
       "id": "champions-path-037",
       "name": "Galarian Obstagoon",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 37,
       "fullNumber": "037/073",
       "rarity": "Rare Holo",
@@ -632,13 +633,13 @@
         "galarian",
         "galar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/037.jpg"
     },
     {
       "id": "champions-path-038",
       "name": "Absol",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 38,
       "fullNumber": "038/073",
       "rarity": "Uncommon",
@@ -648,13 +649,13 @@
       "matchingKeywords": [
         "absol"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/038.jpg"
     },
     {
       "id": "champions-path-039",
       "name": "Purrloin",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 39,
       "fullNumber": "039/073",
       "rarity": "Common",
@@ -664,13 +665,13 @@
       "matchingKeywords": [
         "purrloin"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/039.jpg"
     },
     {
       "id": "champions-path-040",
       "name": "Liepard",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 40,
       "fullNumber": "040/073",
       "rarity": "Uncommon",
@@ -680,13 +681,13 @@
       "matchingKeywords": [
         "liepard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/040.jpg"
     },
     {
       "id": "champions-path-041",
       "name": "Scraggy",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 41,
       "fullNumber": "041/073",
       "rarity": "Common",
@@ -696,13 +697,13 @@
       "matchingKeywords": [
         "scraggy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/041.jpg"
     },
     {
       "id": "champions-path-042",
       "name": "Scrafty",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 42,
       "fullNumber": "042/073",
       "rarity": "Rare Holo",
@@ -712,13 +713,13 @@
       "matchingKeywords": [
         "scrafty"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/042.jpg"
     },
     {
       "id": "champions-path-043",
       "name": "Trubbish",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 43,
       "fullNumber": "043/073",
       "rarity": "Common",
@@ -728,13 +729,13 @@
       "matchingKeywords": [
         "trubbish"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/043.jpg"
     },
     {
       "id": "champions-path-044",
       "name": "Inkay",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 44,
       "fullNumber": "044/073",
       "rarity": "Common",
@@ -744,13 +745,13 @@
       "matchingKeywords": [
         "inkay"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/044.jpg"
     },
     {
       "id": "champions-path-045",
       "name": "Malamar",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 45,
       "fullNumber": "045/073",
       "rarity": "Uncommon",
@@ -760,13 +761,13 @@
       "matchingKeywords": [
         "malamar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/045.jpg"
     },
     {
       "id": "champions-path-046",
       "name": "Nickit",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 46,
       "fullNumber": "046/073",
       "rarity": "Common",
@@ -776,13 +777,13 @@
       "matchingKeywords": [
         "nickit"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/046.jpg"
     },
     {
       "id": "champions-path-047",
       "name": "DuraludonV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 47,
       "fullNumber": "047/073",
       "rarity": "Ultra Rare",
@@ -794,13 +795,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/047.jpg"
     },
     {
       "id": "champions-path-048",
       "name": "Swablu",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 48,
       "fullNumber": "048/073",
       "rarity": "Common",
@@ -810,13 +811,13 @@
       "matchingKeywords": [
         "swablu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/048.jpg"
     },
     {
       "id": "champions-path-049",
       "name": "Altaria",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 49,
       "fullNumber": "049/073",
       "rarity": "Rare Holo",
@@ -826,13 +827,13 @@
       "matchingKeywords": [
         "altaria"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/049.jpg"
     },
     {
       "id": "champions-path-050",
       "name": "Bede",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 50,
       "fullNumber": "050/073",
       "rarity": "Uncommon",
@@ -842,13 +843,13 @@
       "matchingKeywords": [
         "bede"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/050.jpg"
     },
     {
       "id": "champions-path-051",
       "name": "Full Heal",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 51,
       "fullNumber": "051/073",
       "rarity": "Common",
@@ -858,13 +859,13 @@
       "matchingKeywords": [
         "fullheal"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/051.jpg"
     },
     {
       "id": "champions-path-052",
       "name": "Great Ball",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 52,
       "fullNumber": "052/073",
       "rarity": "Uncommon",
@@ -874,13 +875,13 @@
       "matchingKeywords": [
         "greatball"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/052.jpg"
     },
     {
       "id": "champions-path-053",
       "name": "Hop",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 53,
       "fullNumber": "053/073",
       "rarity": "Uncommon",
@@ -890,13 +891,13 @@
       "matchingKeywords": [
         "hop"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/053.jpg"
     },
     {
       "id": "champions-path-054",
       "name": "Hyper Potion",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 54,
       "fullNumber": "054/073",
       "rarity": "Uncommon",
@@ -906,13 +907,13 @@
       "matchingKeywords": [
         "hyperpotion"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/054.jpg"
     },
     {
       "id": "champions-path-055",
       "name": "Kabu",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 55,
       "fullNumber": "055/073",
       "rarity": "Uncommon",
@@ -922,13 +923,13 @@
       "matchingKeywords": [
         "kabu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/055.jpg"
     },
     {
       "id": "champions-path-056",
       "name": "Marnie",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 56,
       "fullNumber": "056/073",
       "rarity": "Rare Holo",
@@ -938,13 +939,13 @@
       "matchingKeywords": [
         "marnie"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/056.jpg"
     },
     {
       "id": "champions-path-057",
       "name": "Milo",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 57,
       "fullNumber": "057/073",
       "rarity": "Uncommon",
@@ -954,13 +955,13 @@
       "matchingKeywords": [
         "milo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/057.jpg"
     },
     {
       "id": "champions-path-058",
       "name": "Piers",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 58,
       "fullNumber": "058/073",
       "rarity": "Uncommon",
@@ -970,13 +971,13 @@
       "matchingKeywords": [
         "piers"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/058.jpg"
     },
     {
       "id": "champions-path-059",
       "name": "Poké Ball",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 59,
       "fullNumber": "059/073",
       "rarity": "Common",
@@ -986,13 +987,13 @@
       "matchingKeywords": [
         "pokéball"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/059.jpg"
     },
     {
       "id": "champions-path-060",
       "name": "Pokémon Center Lady",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 60,
       "fullNumber": "060/073",
       "rarity": "Uncommon",
@@ -1002,13 +1003,13 @@
       "matchingKeywords": [
         "pokémoncenterlady"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/060.jpg"
     },
     {
       "id": "champions-path-061",
       "name": "Potion",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 61,
       "fullNumber": "061/073",
       "rarity": "Common",
@@ -1018,13 +1019,13 @@
       "matchingKeywords": [
         "potion"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/061.jpg"
     },
     {
       "id": "champions-path-062",
       "name": "Professor's Research [Professor Magnolia]",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 62,
       "fullNumber": "062/073",
       "rarity": "Rare Holo",
@@ -1034,13 +1035,13 @@
       "matchingKeywords": [
         "professor'sresearch[professormagnolia]"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/062.jpg"
     },
     {
       "id": "champions-path-063",
       "name": "Rotom Bike",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 63,
       "fullNumber": "063/073",
       "rarity": "Uncommon",
@@ -1050,13 +1051,13 @@
       "matchingKeywords": [
         "rotombike"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/063.jpg"
     },
     {
       "id": "champions-path-064",
       "name": "Rotom Phone",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 64,
       "fullNumber": "064/073",
       "rarity": "Uncommon",
@@ -1066,13 +1067,13 @@
       "matchingKeywords": [
         "rotomphone"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/064.jpg"
     },
     {
       "id": "champions-path-065",
       "name": "Sonia",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 65,
       "fullNumber": "065/073",
       "rarity": "Uncommon",
@@ -1082,13 +1083,13 @@
       "matchingKeywords": [
         "sonia"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/065.jpg"
     },
     {
       "id": "champions-path-066",
       "name": "Suspicious Food Tin",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 66,
       "fullNumber": "066/073",
       "rarity": "Uncommon",
@@ -1098,13 +1099,13 @@
       "matchingKeywords": [
         "suspiciousfoodtin"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/066.jpg"
     },
     {
       "id": "champions-path-067",
       "name": "Team Yell Grunt",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 67,
       "fullNumber": "067/073",
       "rarity": "Uncommon",
@@ -1114,13 +1115,13 @@
       "matchingKeywords": [
         "teamyellgrunt"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/067.jpg"
     },
     {
       "id": "champions-path-068",
       "name": "Turffield Stadium",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 68,
       "fullNumber": "068/073",
       "rarity": "Uncommon",
@@ -1130,13 +1131,13 @@
       "matchingKeywords": [
         "turffieldstadium"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/068.jpg"
     },
     {
       "id": "champions-path-069",
       "name": "DrednawV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 69,
       "fullNumber": "069/073",
       "rarity": "Ultra Rare",
@@ -1148,13 +1149,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/069.jpg"
     },
     {
       "id": "champions-path-070",
       "name": "GardevoirV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 70,
       "fullNumber": "070/073",
       "rarity": "Ultra Rare",
@@ -1166,13 +1167,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/070.jpg"
     },
     {
       "id": "champions-path-071",
       "name": "Galarian CursolaV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 71,
       "fullNumber": "071/073",
       "rarity": "Ultra Rare",
@@ -1186,13 +1187,13 @@
         "galarian",
         "galar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/071.jpg"
     },
     {
       "id": "champions-path-072",
       "name": "GrapploctV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 72,
       "fullNumber": "072/073",
       "rarity": "Ultra Rare",
@@ -1204,13 +1205,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/072.jpg"
     },
     {
       "id": "champions-path-073",
       "name": "Hop",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 73,
       "fullNumber": "073/073",
       "rarity": "Ultra Rare",
@@ -1220,13 +1221,13 @@
       "matchingKeywords": [
         "hop"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/073.jpg"
     },
     {
       "id": "champions-path-074",
       "name": "CharizardVMAX",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 74,
       "fullNumber": "074/073",
       "rarity": "Rainbow Rare",
@@ -1238,13 +1239,13 @@
         "vmax",
         "vmaxcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/074.jpg"
     },
     {
       "id": "champions-path-075",
       "name": "DrednawVMAX",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 75,
       "fullNumber": "075/073",
       "rarity": "Rainbow Rare",
@@ -1256,13 +1257,13 @@
         "vmax",
         "vmaxcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/075.jpg"
     },
     {
       "id": "champions-path-076",
       "name": "GardevoirVMAX",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 76,
       "fullNumber": "076/073",
       "rarity": "Rainbow Rare",
@@ -1274,13 +1275,13 @@
         "vmax",
         "vmaxcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/076.jpg"
     },
     {
       "id": "champions-path-077",
       "name": "Kabu",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 77,
       "fullNumber": "077/073",
       "rarity": "Rainbow Rare",
@@ -1290,13 +1291,13 @@
       "matchingKeywords": [
         "kabu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/077.jpg"
     },
     {
       "id": "champions-path-078",
       "name": "Piers",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 78,
       "fullNumber": "078/073",
       "rarity": "Rainbow Rare",
@@ -1306,13 +1307,13 @@
       "matchingKeywords": [
         "piers"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/078.jpg"
     },
     {
       "id": "champions-path-079",
       "name": "CharizardV",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 79,
       "fullNumber": "079/073",
       "rarity": "Secret Rare",
@@ -1324,13 +1325,13 @@
         "v",
         "vcard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/079.jpg"
     },
     {
       "id": "champions-path-080",
       "name": "Suspicious Food Tin",
       "setName": "Champion's Path",
-      "setCode": "champions-path",
+      "setCode": "CHAMPIONSPATH",
       "cardNumber": 80,
       "fullNumber": "080/073",
       "rarity": "Secret Rare",
@@ -1340,7 +1341,7 @@
       "matchingKeywords": [
         "suspiciousfoodtin"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/championspath/080.jpg"
     }
   ]
 }

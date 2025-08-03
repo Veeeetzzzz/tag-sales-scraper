@@ -3,17 +3,17 @@
     "name": "Team Rocket",
     "description": "Pokemon Team Rocket - Classic April 2000 set introducing Dark Pokemon corrupted by Team Rocket",
     "lastUpdated": "2024-06-01",
-    "setCode": "TR",
+    "setCode": "ROCKET",
     "totalCards": 83,
     "releaseDate": "2000/04/24",
-    "logo": "https://www.serebii.net/card/teamrocket/1.jpg"
+    "logo": "https://www.serebii.net/card/logo/teamrocket.png"
   },
   "cards": [
     {
       "id": "tr-001",
       "name": "Dark Alakazam",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "1",
       "fullNumber": "1/82",
       "rarity": "Rare Holo",
@@ -29,13 +29,13 @@
         "TR Dark Alakazam",
         "Alakazam"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/001.jpg"
     },
     {
       "id": "tr-002",
       "name": "Dark Arbok",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "2",
       "fullNumber": "2/82",
       "rarity": "Rare Holo",
@@ -51,13 +51,13 @@
         "TR Dark Arbok",
         "Arbok"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/002.jpg"
     },
     {
       "id": "tr-003",
       "name": "Dark Blastoise",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "3",
       "fullNumber": "3/82",
       "rarity": "Rare Holo",
@@ -73,13 +73,13 @@
         "TR Dark Blastoise",
         "Blastoise"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/003.jpg"
     },
     {
       "id": "tr-004",
       "name": "Dark Charizard",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "4",
       "fullNumber": "4/82",
       "rarity": "Rare Holo",
@@ -95,13 +95,13 @@
         "TR Dark Charizard",
         "Charizard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/004.jpg"
     },
     {
       "id": "tr-005",
       "name": "Dark Dragonite",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "5",
       "fullNumber": "5/82",
       "rarity": "Rare Holo",
@@ -117,13 +117,13 @@
         "TR Dark Dragonite",
         "Dragonite"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/005.jpg"
     },
     {
       "id": "tr-006",
       "name": "Dark Dugtrio",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "6",
       "fullNumber": "6/82",
       "rarity": "Rare Holo",
@@ -139,13 +139,13 @@
         "TR Dark Dugtrio",
         "Dugtrio"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/006.jpg"
     },
     {
       "id": "tr-007",
       "name": "Dark Golbat",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "7",
       "fullNumber": "7/82",
       "rarity": "Rare Holo",
@@ -161,13 +161,13 @@
         "TR Dark Golbat",
         "Golbat"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/007.jpg"
     },
     {
       "id": "tr-008",
       "name": "Dark Gyarados",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "8",
       "fullNumber": "8/82",
       "rarity": "Rare Holo",
@@ -183,13 +183,13 @@
         "TR Dark Gyarados",
         "Gyarados"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/008.jpg"
     },
     {
       "id": "tr-009",
       "name": "Dark Hypno",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "9",
       "fullNumber": "9/82",
       "rarity": "Rare Holo",
@@ -205,13 +205,13 @@
         "TR Dark Hypno",
         "Hypno"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/009.jpg"
     },
     {
       "id": "tr-010",
       "name": "Dark Machamp",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "10",
       "fullNumber": "10/82",
       "rarity": "Rare Holo",
@@ -227,13 +227,13 @@
         "TR Dark Machamp",
         "Machamp"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/010.jpg"
     },
     {
       "id": "tr-011",
       "name": "Dark Magneton",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "11",
       "fullNumber": "11/82",
       "rarity": "Rare Holo",
@@ -249,13 +249,13 @@
         "TR Dark Magneton",
         "Magneton"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/011.jpg"
     },
     {
       "id": "tr-012",
       "name": "Dark Slowbro",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "12",
       "fullNumber": "12/82",
       "rarity": "Rare Holo",
@@ -271,13 +271,13 @@
         "TR Dark Slowbro",
         "Slowbro"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/012.jpg"
     },
     {
       "id": "tr-013",
       "name": "Dark Vileplume",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "13",
       "fullNumber": "13/82",
       "rarity": "Rare Holo",
@@ -293,13 +293,13 @@
         "TR Dark Vileplume",
         "Vileplume"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/013.jpg"
     },
     {
       "id": "tr-014",
       "name": "Dark Weezing",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "14",
       "fullNumber": "14/82",
       "rarity": "Rare Holo",
@@ -315,13 +315,13 @@
         "TR Dark Weezing",
         "Weezing"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/014.jpg"
     },
     {
       "id": "tr-015",
       "name": "Here Comes Team Rocket!",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "15",
       "fullNumber": "15/82",
       "rarity": "Rare Holo",
@@ -339,13 +339,13 @@
         "Trainer",
         "Here Comes Team Rocket! Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/015.jpg"
     },
     {
       "id": "tr-016",
       "name": "Rocket's Sneak Attack",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "16",
       "fullNumber": "16/82",
       "rarity": "Rare Holo",
@@ -367,13 +367,13 @@
         "Rocket's Sneak Attack Trainer",
         "Rockets Sneak Attack Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/016.jpg"
     },
     {
       "id": "tr-017",
       "name": "Rainbow Energy",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "17",
       "fullNumber": "17/82",
       "rarity": "Rare Holo",
@@ -391,13 +391,13 @@
         "Energy",
         "Rainbow Energy Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/017.jpg"
     },
     {
       "id": "tr-018",
       "name": "Dark Alakazam",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "18",
       "fullNumber": "18/82",
       "rarity": "Rare",
@@ -413,13 +413,13 @@
         "TR Dark Alakazam",
         "Alakazam"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/018.jpg"
     },
     {
       "id": "tr-019",
       "name": "Dark Arbok",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "19",
       "fullNumber": "19/82",
       "rarity": "Rare",
@@ -435,13 +435,13 @@
         "TR Dark Arbok",
         "Arbok"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/019.jpg"
     },
     {
       "id": "tr-020",
       "name": "Dark Blastoise",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "20",
       "fullNumber": "20/82",
       "rarity": "Rare",
@@ -457,13 +457,13 @@
         "TR Dark Blastoise",
         "Blastoise"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/020.jpg"
     },
     {
       "id": "tr-021",
       "name": "Dark Charizard",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "21",
       "fullNumber": "21/82",
       "rarity": "Rare",
@@ -479,13 +479,13 @@
         "TR Dark Charizard",
         "Charizard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/021.jpg"
     },
     {
       "id": "tr-022",
       "name": "Dark Dragonite",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "22",
       "fullNumber": "22/82",
       "rarity": "Rare",
@@ -501,13 +501,13 @@
         "TR Dark Dragonite",
         "Dragonite"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/022.jpg"
     },
     {
       "id": "tr-023",
       "name": "Dark Dugtrio",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "23",
       "fullNumber": "23/82",
       "rarity": "Rare",
@@ -523,13 +523,13 @@
         "TR Dark Dugtrio",
         "Dugtrio"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/023.jpg"
     },
     {
       "id": "tr-024",
       "name": "Dark Golbat",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "24",
       "fullNumber": "24/82",
       "rarity": "Rare",
@@ -545,13 +545,13 @@
         "TR Dark Golbat",
         "Golbat"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/024.jpg"
     },
     {
       "id": "tr-025",
       "name": "Dark Gyarados",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "25",
       "fullNumber": "25/82",
       "rarity": "Rare",
@@ -567,13 +567,13 @@
         "TR Dark Gyarados",
         "Gyarados"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/025.jpg"
     },
     {
       "id": "tr-026",
       "name": "Dark Hypno",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "26",
       "fullNumber": "26/82",
       "rarity": "Rare",
@@ -589,13 +589,13 @@
         "TR Dark Hypno",
         "Hypno"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/026.jpg"
     },
     {
       "id": "tr-027",
       "name": "Dark Machamp",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "27",
       "fullNumber": "27/82",
       "rarity": "Rare",
@@ -611,13 +611,13 @@
         "TR Dark Machamp",
         "Machamp"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/027.jpg"
     },
     {
       "id": "tr-028",
       "name": "Dark Magneton",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "28",
       "fullNumber": "28/82",
       "rarity": "Rare",
@@ -633,13 +633,13 @@
         "TR Dark Magneton",
         "Magneton"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/028.jpg"
     },
     {
       "id": "tr-029",
       "name": "Dark Slowbro",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "29",
       "fullNumber": "29/82",
       "rarity": "Rare",
@@ -655,13 +655,13 @@
         "TR Dark Slowbro",
         "Slowbro"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/029.jpg"
     },
     {
       "id": "tr-030",
       "name": "Dark Vileplume",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "30",
       "fullNumber": "30/82",
       "rarity": "Rare",
@@ -677,13 +677,13 @@
         "TR Dark Vileplume",
         "Vileplume"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/030.jpg"
     },
     {
       "id": "tr-031",
       "name": "Dark Weezing",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "31",
       "fullNumber": "31/82",
       "rarity": "Rare",
@@ -699,13 +699,13 @@
         "TR Dark Weezing",
         "Weezing"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/031.jpg"
     },
     {
       "id": "tr-032",
       "name": "Dark Charmeleon",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "32",
       "fullNumber": "32/82",
       "rarity": "Uncommon",
@@ -721,13 +721,13 @@
         "TR Dark Charmeleon",
         "Charmeleon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/032.jpg"
     },
     {
       "id": "tr-033",
       "name": "Dark Dragonair",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "33",
       "fullNumber": "33/82",
       "rarity": "Uncommon",
@@ -743,13 +743,13 @@
         "TR Dark Dragonair",
         "Dragonair"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/033.jpg"
     },
     {
       "id": "tr-034",
       "name": "Dark Electrode",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "34",
       "fullNumber": "34/82",
       "rarity": "Uncommon",
@@ -765,13 +765,13 @@
         "TR Dark Electrode",
         "Electrode"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/034.jpg"
     },
     {
       "id": "tr-035",
       "name": "Dark Flareon",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "35",
       "fullNumber": "35/82",
       "rarity": "Uncommon",
@@ -787,13 +787,13 @@
         "TR Dark Flareon",
         "Flareon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/035.jpg"
     },
     {
       "id": "tr-036",
       "name": "Dark Gloom",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "36",
       "fullNumber": "36/82",
       "rarity": "Uncommon",
@@ -809,13 +809,13 @@
         "TR Dark Gloom",
         "Gloom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/036.jpg"
     },
     {
       "id": "tr-037",
       "name": "Dark Golduck",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "37",
       "fullNumber": "37/82",
       "rarity": "Uncommon",
@@ -831,13 +831,13 @@
         "TR Dark Golduck",
         "Golduck"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/037.jpg"
     },
     {
       "id": "tr-038",
       "name": "Dark Jolteon",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "38",
       "fullNumber": "38/82",
       "rarity": "Uncommon",
@@ -853,13 +853,13 @@
         "TR Dark Jolteon",
         "Jolteon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/038.jpg"
     },
     {
       "id": "tr-039",
       "name": "Dark Kadabra",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "39",
       "fullNumber": "39/82",
       "rarity": "Uncommon",
@@ -875,13 +875,13 @@
         "TR Dark Kadabra",
         "Kadabra"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/039.jpg"
     },
     {
       "id": "tr-040",
       "name": "Dark Machoke",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "40",
       "fullNumber": "40/82",
       "rarity": "Uncommon",
@@ -897,13 +897,13 @@
         "TR Dark Machoke",
         "Machoke"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/040.jpg"
     },
     {
       "id": "tr-041",
       "name": "Dark Muk",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "41",
       "fullNumber": "41/82",
       "rarity": "Uncommon",
@@ -919,13 +919,13 @@
         "TR Dark Muk",
         "Muk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/041.jpg"
     },
     {
       "id": "tr-042",
       "name": "Dark Persian",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "42",
       "fullNumber": "42/82",
       "rarity": "Uncommon",
@@ -941,13 +941,13 @@
         "TR Dark Persian",
         "Persian"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/042.jpg"
     },
     {
       "id": "tr-043",
       "name": "Dark Primeape",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "43",
       "fullNumber": "43/82",
       "rarity": "Uncommon",
@@ -963,13 +963,13 @@
         "TR Dark Primeape",
         "Primeape"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/043.jpg"
     },
     {
       "id": "tr-044",
       "name": "Dark Rapidash",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "44",
       "fullNumber": "44/82",
       "rarity": "Uncommon",
@@ -985,13 +985,13 @@
         "TR Dark Rapidash",
         "Rapidash"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/044.jpg"
     },
     {
       "id": "tr-045",
       "name": "Dark Vaporeon",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "45",
       "fullNumber": "45/82",
       "rarity": "Uncommon",
@@ -1007,13 +1007,13 @@
         "TR Dark Vaporeon",
         "Vaporeon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/045.jpg"
     },
     {
       "id": "tr-046",
       "name": "Dark Wartortle",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "46",
       "fullNumber": "46/82",
       "rarity": "Uncommon",
@@ -1029,13 +1029,13 @@
         "TR Dark Wartortle",
         "Wartortle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/046.jpg"
     },
     {
       "id": "tr-047",
       "name": "Magikarp",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "47",
       "fullNumber": "47/82",
       "rarity": "Uncommon",
@@ -1050,13 +1050,13 @@
         "Team Rocket Magikarp",
         "TR Magikarp"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/047.jpg"
     },
     {
       "id": "tr-048",
       "name": "Porygon",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "48",
       "fullNumber": "48/82",
       "rarity": "Uncommon",
@@ -1071,13 +1071,13 @@
         "Team Rocket Porygon",
         "TR Porygon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/048.jpg"
     },
     {
       "id": "tr-049",
       "name": "Abra",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "49",
       "fullNumber": "49/82",
       "rarity": "Common",
@@ -1092,13 +1092,13 @@
         "Team Rocket Abra",
         "TR Abra"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/049.jpg"
     },
     {
       "id": "tr-050",
       "name": "Charmander",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "50",
       "fullNumber": "50/82",
       "rarity": "Common",
@@ -1113,13 +1113,13 @@
         "Team Rocket Charmander",
         "TR Charmander"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/050.jpg"
     },
     {
       "id": "tr-051",
       "name": "Dark Raticate",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "51",
       "fullNumber": "51/82",
       "rarity": "Common",
@@ -1135,13 +1135,13 @@
         "TR Dark Raticate",
         "Raticate"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/051.jpg"
     },
     {
       "id": "tr-052",
       "name": "Diglett",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "52",
       "fullNumber": "52/82",
       "rarity": "Common",
@@ -1156,13 +1156,13 @@
         "Team Rocket Diglett",
         "TR Diglett"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/052.jpg"
     },
     {
       "id": "tr-053",
       "name": "Dratini",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "53",
       "fullNumber": "53/82",
       "rarity": "Common",
@@ -1177,13 +1177,13 @@
         "Team Rocket Dratini",
         "TR Dratini"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/053.jpg"
     },
     {
       "id": "tr-054",
       "name": "Drowzee",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "54",
       "fullNumber": "54/82",
       "rarity": "Common",
@@ -1198,13 +1198,13 @@
         "Team Rocket Drowzee",
         "TR Drowzee"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/054.jpg"
     },
     {
       "id": "tr-055",
       "name": "Eevee",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "55",
       "fullNumber": "55/82",
       "rarity": "Common",
@@ -1219,13 +1219,13 @@
         "Team Rocket Eevee",
         "TR Eevee"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/055.jpg"
     },
     {
       "id": "tr-056",
       "name": "Ekans",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "56",
       "fullNumber": "56/82",
       "rarity": "Common",
@@ -1240,13 +1240,13 @@
         "Team Rocket Ekans",
         "TR Ekans"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/056.jpg"
     },
     {
       "id": "tr-057",
       "name": "Grimer",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "57",
       "fullNumber": "57/82",
       "rarity": "Common",
@@ -1261,13 +1261,13 @@
         "Team Rocket Grimer",
         "TR Grimer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/057.jpg"
     },
     {
       "id": "tr-058",
       "name": "Koffing",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "58",
       "fullNumber": "58/82",
       "rarity": "Common",
@@ -1282,13 +1282,13 @@
         "Team Rocket Koffing",
         "TR Koffing"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/058.jpg"
     },
     {
       "id": "tr-059",
       "name": "Machop",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "59",
       "fullNumber": "59/82",
       "rarity": "Common",
@@ -1303,13 +1303,13 @@
         "Team Rocket Machop",
         "TR Machop"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/059.jpg"
     },
     {
       "id": "tr-060",
       "name": "Magnemite",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "60",
       "fullNumber": "60/82",
       "rarity": "Common",
@@ -1324,13 +1324,13 @@
         "Team Rocket Magnemite",
         "TR Magnemite"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/060.jpg"
     },
     {
       "id": "tr-061",
       "name": "Mankey",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "61",
       "fullNumber": "61/82",
       "rarity": "Common",
@@ -1345,13 +1345,13 @@
         "Team Rocket Mankey",
         "TR Mankey"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/061.jpg"
     },
     {
       "id": "tr-062",
       "name": "Meowth",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "62",
       "fullNumber": "62/82",
       "rarity": "Common",
@@ -1366,13 +1366,13 @@
         "Team Rocket Meowth",
         "TR Meowth"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/062.jpg"
     },
     {
       "id": "tr-063",
       "name": "Oddish",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "63",
       "fullNumber": "63/82",
       "rarity": "Common",
@@ -1387,13 +1387,13 @@
         "Team Rocket Oddish",
         "TR Oddish"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/063.jpg"
     },
     {
       "id": "tr-064",
       "name": "Ponyta",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "64",
       "fullNumber": "64/82",
       "rarity": "Common",
@@ -1408,13 +1408,13 @@
         "Team Rocket Ponyta",
         "TR Ponyta"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/064.jpg"
     },
     {
       "id": "tr-065",
       "name": "Psyduck",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "65",
       "fullNumber": "65/82",
       "rarity": "Common",
@@ -1429,13 +1429,13 @@
         "Team Rocket Psyduck",
         "TR Psyduck"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/065.jpg"
     },
     {
       "id": "tr-066",
       "name": "Rattata",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "66",
       "fullNumber": "66/82",
       "rarity": "Common",
@@ -1450,13 +1450,13 @@
         "Team Rocket Rattata",
         "TR Rattata"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/066.jpg"
     },
     {
       "id": "tr-067",
       "name": "Slowpoke",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "67",
       "fullNumber": "67/82",
       "rarity": "Common",
@@ -1471,13 +1471,13 @@
         "Team Rocket Slowpoke",
         "TR Slowpoke"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/067.jpg"
     },
     {
       "id": "tr-068",
       "name": "Squirtle",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "68",
       "fullNumber": "68/82",
       "rarity": "Common",
@@ -1492,13 +1492,13 @@
         "Team Rocket Squirtle",
         "TR Squirtle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/068.jpg"
     },
     {
       "id": "tr-069",
       "name": "Voltorb",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "69",
       "fullNumber": "69/82",
       "rarity": "Common",
@@ -1513,13 +1513,13 @@
         "Team Rocket Voltorb",
         "TR Voltorb"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/069.jpg"
     },
     {
       "id": "tr-070",
       "name": "Zubat",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "70",
       "fullNumber": "70/82",
       "rarity": "Common",
@@ -1534,13 +1534,13 @@
         "Team Rocket Zubat",
         "TR Zubat"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/070.jpg"
     },
     {
       "id": "tr-071",
       "name": "Here Comes Team Rocket!",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "71",
       "fullNumber": "71/82",
       "rarity": "Rare",
@@ -1558,13 +1558,13 @@
         "Trainer",
         "Here Comes Team Rocket! Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/071.jpg"
     },
     {
       "id": "tr-072",
       "name": "Rocket's Sneak Attack",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "72",
       "fullNumber": "72/82",
       "rarity": "Rare",
@@ -1586,13 +1586,13 @@
         "Rocket's Sneak Attack Trainer",
         "Rockets Sneak Attack Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/072.jpg"
     },
     {
       "id": "tr-073",
       "name": "The Boss's Way",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "73",
       "fullNumber": "73/82",
       "rarity": "Uncommon",
@@ -1614,13 +1614,13 @@
         "The Boss's Way Trainer",
         "The Bosss Way Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/073.jpg"
     },
     {
       "id": "tr-074",
       "name": "Challenge!",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "74",
       "fullNumber": "74/82",
       "rarity": "Uncommon",
@@ -1638,13 +1638,13 @@
         "Trainer",
         "Challenge! Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/074.jpg"
     },
     {
       "id": "tr-075",
       "name": "Digger",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "75",
       "fullNumber": "75/82",
       "rarity": "Uncommon",
@@ -1662,13 +1662,13 @@
         "Trainer",
         "Digger Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/075.jpg"
     },
     {
       "id": "tr-076",
       "name": "Imposter Oak's Revenge",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "76",
       "fullNumber": "76/82",
       "rarity": "Uncommon",
@@ -1690,13 +1690,13 @@
         "Imposter Oak's Revenge Trainer",
         "Imposter Oaks Revenge Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/076.jpg"
     },
     {
       "id": "tr-077",
       "name": "Nightly Garbage Run",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "77",
       "fullNumber": "77/82",
       "rarity": "Uncommon",
@@ -1714,13 +1714,13 @@
         "Trainer",
         "Nightly Garbage Run Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/077.jpg"
     },
     {
       "id": "tr-078",
       "name": "Goop Gas Attack",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "78",
       "fullNumber": "78/82",
       "rarity": "Common",
@@ -1738,13 +1738,13 @@
         "Trainer",
         "Goop Gas Attack Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/078.jpg"
     },
     {
       "id": "tr-079",
       "name": "Sleep!",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "79",
       "fullNumber": "79/82",
       "rarity": "Common",
@@ -1762,13 +1762,13 @@
         "Trainer",
         "Sleep! Trainer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/079.jpg"
     },
     {
       "id": "tr-080",
       "name": "Rainbow Energy",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "80",
       "fullNumber": "80/82",
       "rarity": "Rare",
@@ -1786,13 +1786,13 @@
         "Energy",
         "Rainbow Energy Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/080.jpg"
     },
     {
       "id": "tr-081",
       "name": "Full Heal Energy",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "81",
       "fullNumber": "81/82",
       "rarity": "Uncommon",
@@ -1810,13 +1810,13 @@
         "Energy",
         "Full Heal Energy Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/081.jpg"
     },
     {
       "id": "tr-082",
       "name": "Potion Energy",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "82",
       "fullNumber": "82/82",
       "rarity": "Uncommon",
@@ -1834,13 +1834,13 @@
         "Energy",
         "Potion Energy Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/082.jpg"
     },
     {
       "id": "tr-083",
       "name": "Dark Raichu",
       "setName": "Team Rocket",
-      "setCode": "TR",
+      "setCode": "ROCKET",
       "cardNumber": "83",
       "fullNumber": "83/82",
       "rarity": "Rare Holo",
@@ -1859,7 +1859,7 @@
         "Secret",
         "Team Rocket Secret Rare"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/teamrocket/083.jpg"
     }
   ]
 }

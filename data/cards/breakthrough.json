@@ -6,7 +6,8 @@
     "releaseDate": "2015-11-04",
     "totalCards": 164,
     "symbol": "BKT",
-    "logo": "https://www.serebii.net/card/breakthrough/logo.png"
+    "logo": "https://www.serebii.net/card/logo/breakthrough.png",
+    "setCode": "BKT"
   },
   "cards": [
     {
@@ -19,7 +20,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/1.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/001.jpg"
     },
     {
       "id": "breakthrough-2",
@@ -31,7 +33,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/2.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/002.jpg"
     },
     {
       "id": "breakthrough-3",
@@ -43,7 +46,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/3.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/003.jpg"
     },
     {
       "id": "breakthrough-4",
@@ -55,7 +59,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/4.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/004.jpg"
     },
     {
       "id": "breakthrough-5",
@@ -67,7 +72,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/5.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/005.jpg"
     },
     {
       "id": "breakthrough-6",
@@ -79,7 +85,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/6.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/006.jpg"
     },
     {
       "id": "breakthrough-7",
@@ -91,7 +98,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/7.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/007.jpg"
     },
     {
       "id": "breakthrough-8",
@@ -103,7 +111,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/8.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/008.jpg"
     },
     {
       "id": "breakthrough-9",
@@ -115,7 +124,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/9.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/009.jpg"
     },
     {
       "id": "breakthrough-10",
@@ -127,7 +137,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/10.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/010.jpg"
     },
     {
       "id": "breakthrough-11",
@@ -139,7 +150,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/11.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/011.jpg"
     },
     {
       "id": "breakthrough-12",
@@ -154,7 +166,8 @@
       "hp": 160,
       "keywords": [
         "break"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/012.jpg"
     },
     {
       "id": "breakthrough-13",
@@ -166,7 +179,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/13.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/013.jpg"
     },
     {
       "id": "breakthrough-14",
@@ -178,7 +192,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/14.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/014.jpg"
     },
     {
       "id": "breakthrough-15",
@@ -190,7 +205,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/15.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/015.jpg"
     },
     {
       "id": "breakthrough-16",
@@ -202,7 +218,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/16.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/016.jpg"
     },
     {
       "id": "breakthrough-17",
@@ -214,7 +231,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/17.jpg",
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/017.jpg"
     },
     {
       "id": "breakthrough-18",
@@ -226,7 +244,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/18.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/018.jpg"
     },
     {
       "id": "breakthrough-19",
@@ -238,7 +257,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/19.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/019.jpg"
     },
     {
       "id": "breakthrough-20",
@@ -250,7 +270,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/20.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/020.jpg"
     },
     {
       "id": "breakthrough-21",
@@ -265,7 +286,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/021.jpg"
     },
     {
       "id": "breakthrough-22",
@@ -281,7 +303,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/022.jpg"
     },
     {
       "id": "breakthrough-23",
@@ -293,7 +316,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/23.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/023.jpg"
     },
     {
       "id": "breakthrough-24",
@@ -305,7 +329,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/24.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/024.jpg"
     },
     {
       "id": "breakthrough-25",
@@ -317,7 +342,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/25.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/025.jpg"
     },
     {
       "id": "breakthrough-26",
@@ -329,7 +355,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/26.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/026.jpg"
     },
     {
       "id": "breakthrough-27",
@@ -341,7 +368,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/27.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/027.jpg"
     },
     {
       "id": "breakthrough-28",
@@ -353,7 +381,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/28.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/028.jpg"
     },
     {
       "id": "breakthrough-29",
@@ -365,7 +394,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/29.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/029.jpg"
     },
     {
       "id": "breakthrough-30",
@@ -377,7 +407,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/30.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/030.jpg"
     },
     {
       "id": "breakthrough-31",
@@ -389,7 +420,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/31.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/031.jpg"
     },
     {
       "id": "breakthrough-32",
@@ -401,7 +433,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/32.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/032.jpg"
     },
     {
       "id": "breakthrough-33",
@@ -413,7 +446,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/33.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/033.jpg"
     },
     {
       "id": "breakthrough-34",
@@ -428,7 +462,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/034.jpg"
     },
     {
       "id": "breakthrough-35",
@@ -444,7 +479,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/035.jpg"
     },
     {
       "id": "breakthrough-36",
@@ -456,7 +492,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/36.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/036.jpg"
     },
     {
       "id": "breakthrough-37",
@@ -468,7 +505,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/37.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/037.jpg"
     },
     {
       "id": "breakthrough-38",
@@ -480,7 +518,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/38.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/038.jpg"
     },
     {
       "id": "breakthrough-39",
@@ -492,7 +531,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/39.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/039.jpg"
     },
     {
       "id": "breakthrough-40",
@@ -504,7 +544,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/40.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/040.jpg"
     },
     {
       "id": "breakthrough-41",
@@ -516,7 +557,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/41.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/041.jpg"
     },
     {
       "id": "breakthrough-42",
@@ -528,7 +570,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/42.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/042.jpg"
     },
     {
       "id": "breakthrough-43",
@@ -540,7 +583,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/43.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/043.jpg"
     },
     {
       "id": "breakthrough-44",
@@ -552,7 +596,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/44.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/044.jpg"
     },
     {
       "id": "breakthrough-45",
@@ -564,7 +609,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/45.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/045.jpg"
     },
     {
       "id": "breakthrough-46",
@@ -576,7 +622,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/46.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/046.jpg"
     },
     {
       "id": "breakthrough-47",
@@ -588,7 +635,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/47.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/047.jpg"
     },
     {
       "id": "breakthrough-48",
@@ -600,7 +648,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/48.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/048.jpg"
     },
     {
       "id": "breakthrough-49",
@@ -612,7 +661,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/49.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/049.jpg"
     },
     {
       "id": "breakthrough-50",
@@ -627,7 +677,8 @@
       "hp": 130,
       "keywords": [
         "break"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/050.jpg"
     },
     {
       "id": "breakthrough-51",
@@ -639,7 +690,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/51.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/051.jpg"
     },
     {
       "id": "breakthrough-52",
@@ -651,7 +703,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/52.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/052.jpg"
     },
     {
       "id": "breakthrough-53",
@@ -663,7 +716,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/53.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/053.jpg"
     },
     {
       "id": "breakthrough-54",
@@ -675,7 +729,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/54.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/054.jpg"
     },
     {
       "id": "breakthrough-55",
@@ -687,7 +742,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/55.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/055.jpg"
     },
     {
       "id": "breakthrough-56",
@@ -699,7 +755,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/56.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/056.jpg"
     },
     {
       "id": "breakthrough-57",
@@ -711,7 +768,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/57.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/057.jpg"
     },
     {
       "id": "breakthrough-58",
@@ -723,7 +781,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/58.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/058.jpg"
     },
     {
       "id": "breakthrough-59",
@@ -735,7 +794,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/59.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/059.jpg"
     },
     {
       "id": "breakthrough-60",
@@ -747,7 +807,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/60.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/060.jpg"
     },
     {
       "id": "breakthrough-61",
@@ -762,7 +823,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/061.jpg"
     },
     {
       "id": "breakthrough-62",
@@ -777,7 +839,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/062.jpg"
     },
     {
       "id": "breakthrough-63",
@@ -793,7 +856,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/063.jpg"
     },
     {
       "id": "breakthrough-64",
@@ -809,7 +873,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/064.jpg"
     },
     {
       "id": "breakthrough-65",
@@ -821,7 +886,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/65.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/065.jpg"
     },
     {
       "id": "breakthrough-66",
@@ -833,7 +899,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/66.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/066.jpg"
     },
     {
       "id": "breakthrough-67",
@@ -845,7 +912,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/67.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/067.jpg"
     },
     {
       "id": "breakthrough-68",
@@ -857,7 +925,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/68.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/068.jpg"
     },
     {
       "id": "breakthrough-69",
@@ -869,7 +938,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/69.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/069.jpg"
     },
     {
       "id": "breakthrough-70",
@@ -881,7 +951,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/70.jpg",
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/070.jpg"
     },
     {
       "id": "breakthrough-71",
@@ -893,7 +964,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/71.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/071.jpg"
     },
     {
       "id": "breakthrough-72",
@@ -905,7 +977,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/72.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/072.jpg"
     },
     {
       "id": "breakthrough-73",
@@ -917,7 +990,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/73.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/073.jpg"
     },
     {
       "id": "breakthrough-74",
@@ -929,7 +1003,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/74.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/074.jpg"
     },
     {
       "id": "breakthrough-75",
@@ -941,7 +1016,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/75.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/075.jpg"
     },
     {
       "id": "breakthrough-76",
@@ -953,7 +1029,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/76.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/076.jpg"
     },
     {
       "id": "breakthrough-77",
@@ -965,7 +1042,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/77.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/077.jpg"
     },
     {
       "id": "breakthrough-78",
@@ -977,7 +1055,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/78.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/078.jpg"
     },
     {
       "id": "breakthrough-79",
@@ -992,7 +1071,8 @@
       "hp": 130,
       "keywords": [
         "break"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/079.jpg"
     },
     {
       "id": "breakthrough-80",
@@ -1004,7 +1084,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/80.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/080.jpg"
     },
     {
       "id": "breakthrough-81",
@@ -1016,7 +1097,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/81.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/081.jpg"
     },
     {
       "id": "breakthrough-82",
@@ -1028,7 +1110,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/82.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/082.jpg"
     },
     {
       "id": "breakthrough-83",
@@ -1040,7 +1123,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/83.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/083.jpg"
     },
     {
       "id": "breakthrough-84",
@@ -1052,7 +1136,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/84.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/084.jpg"
     },
     {
       "id": "breakthrough-85",
@@ -1064,7 +1149,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/85.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/085.jpg"
     },
     {
       "id": "breakthrough-86",
@@ -1076,7 +1162,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/86.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/086.jpg"
     },
     {
       "id": "breakthrough-87",
@@ -1088,7 +1175,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/87.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/087.jpg"
     },
     {
       "id": "breakthrough-88",
@@ -1100,7 +1188,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/88.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/088.jpg"
     },
     {
       "id": "breakthrough-89",
@@ -1112,7 +1201,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/89.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/089.jpg"
     },
     {
       "id": "breakthrough-90",
@@ -1124,7 +1214,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/90.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/090.jpg"
     },
     {
       "id": "breakthrough-91",
@@ -1136,7 +1227,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/91.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/091.jpg"
     },
     {
       "id": "breakthrough-92",
@@ -1151,7 +1243,8 @@
       "hp": 140,
       "keywords": [
         "break"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/092.jpg"
     },
     {
       "id": "breakthrough-93",
@@ -1163,7 +1256,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/93.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/093.jpg"
     },
     {
       "id": "breakthrough-94",
@@ -1175,7 +1269,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/94.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/094.jpg"
     },
     {
       "id": "breakthrough-95",
@@ -1187,7 +1282,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/95.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/095.jpg"
     },
     {
       "id": "breakthrough-96",
@@ -1199,7 +1295,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/96.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/096.jpg"
     },
     {
       "id": "breakthrough-97",
@@ -1211,7 +1308,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/97.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/097.jpg"
     },
     {
       "id": "breakthrough-98",
@@ -1223,7 +1321,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/98.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/098.jpg"
     },
     {
       "id": "breakthrough-99",
@@ -1235,7 +1334,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/99.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/099.jpg"
     },
     {
       "id": "breakthrough-100",
@@ -1247,7 +1347,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/100.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/100.jpg"
     },
     {
       "id": "breakthrough-101",
@@ -1259,7 +1360,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/101.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/101.jpg"
     },
     {
       "id": "breakthrough-102",
@@ -1271,7 +1373,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/102.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/102.jpg"
     },
     {
       "id": "breakthrough-103",
@@ -1283,7 +1386,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/103.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/103.jpg"
     },
     {
       "id": "breakthrough-104",
@@ -1298,7 +1402,8 @@
       "hp": 150,
       "keywords": [
         "break"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/104.jpg"
     },
     {
       "id": "breakthrough-105",
@@ -1310,7 +1415,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/105.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/105.jpg"
     },
     {
       "id": "breakthrough-106",
@@ -1322,7 +1428,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/106.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/106.jpg"
     },
     {
       "id": "breakthrough-107",
@@ -1334,7 +1441,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/107.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/107.jpg"
     },
     {
       "id": "breakthrough-108",
@@ -1346,7 +1454,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/108.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/108.jpg"
     },
     {
       "id": "breakthrough-109",
@@ -1358,7 +1467,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/109.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/109.jpg"
     },
     {
       "id": "breakthrough-110",
@@ -1370,7 +1480,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/110.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/110.jpg"
     },
     {
       "id": "breakthrough-111",
@@ -1382,7 +1493,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/111.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/111.jpg"
     },
     {
       "id": "breakthrough-112",
@@ -1394,7 +1506,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/112.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/112.jpg"
     },
     {
       "id": "breakthrough-113",
@@ -1409,7 +1522,8 @@
       "hp": 150,
       "keywords": [
         "break"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/113.jpg"
     },
     {
       "id": "breakthrough-114",
@@ -1421,7 +1535,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/114.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/114.jpg"
     },
     {
       "id": "breakthrough-115",
@@ -1433,7 +1548,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/115.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/115.jpg"
     },
     {
       "id": "breakthrough-116",
@@ -1445,7 +1561,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/116.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/116.jpg"
     },
     {
       "id": "breakthrough-117",
@@ -1457,7 +1574,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/117.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/117.jpg"
     },
     {
       "id": "breakthrough-118",
@@ -1469,7 +1587,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/118.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/118.jpg"
     },
     {
       "id": "breakthrough-119",
@@ -1481,7 +1600,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/119.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/119.jpg"
     },
     {
       "id": "breakthrough-120",
@@ -1493,7 +1613,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/120.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/120.jpg"
     },
     {
       "id": "breakthrough-121",
@@ -1505,7 +1626,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/121.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/121.jpg"
     },
     {
       "id": "breakthrough-122",
@@ -1517,7 +1639,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/122.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/122.jpg"
     },
     {
       "id": "breakthrough-123",
@@ -1529,7 +1652,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/123.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/123.jpg"
     },
     {
       "id": "breakthrough-124",
@@ -1541,7 +1665,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/124.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/124.jpg"
     },
     {
       "id": "breakthrough-125",
@@ -1553,7 +1678,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/125.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/125.jpg"
     },
     {
       "id": "breakthrough-126",
@@ -1565,7 +1691,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/126.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/126.jpg"
     },
     {
       "id": "breakthrough-127",
@@ -1577,7 +1704,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/127.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/127.jpg"
     },
     {
       "id": "breakthrough-128",
@@ -1589,7 +1717,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/128.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/128.jpg"
     },
     {
       "id": "breakthrough-129",
@@ -1601,7 +1730,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/129.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/129.jpg"
     },
     {
       "id": "breakthrough-130",
@@ -1613,7 +1743,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/130.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/130.jpg"
     },
     {
       "id": "breakthrough-131",
@@ -1625,7 +1756,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/131.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/131.jpg"
     },
     {
       "id": "breakthrough-132",
@@ -1637,7 +1769,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/132.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/breakthrough/132.jpg"
     },
     {
       "id": "breakthrough-133",
@@ -1649,7 +1782,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/133.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/133.jpg"
     },
     {
       "id": "breakthrough-134",
@@ -1661,7 +1795,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/134.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/134.jpg"
     },
     {
       "id": "breakthrough-135",
@@ -1673,7 +1808,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/135.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/135.jpg"
     },
     {
       "id": "breakthrough-136",
@@ -1685,7 +1821,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/136.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/136.jpg"
     },
     {
       "id": "breakthrough-137",
@@ -1697,7 +1834,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/137.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/137.jpg"
     },
     {
       "id": "breakthrough-138",
@@ -1709,7 +1847,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/138.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/138.jpg"
     },
     {
       "id": "breakthrough-139",
@@ -1721,7 +1860,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/139.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/139.jpg"
     },
     {
       "id": "breakthrough-140",
@@ -1733,7 +1873,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/140.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/140.jpg"
     },
     {
       "id": "breakthrough-141",
@@ -1745,7 +1886,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/141.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/141.jpg"
     },
     {
       "id": "breakthrough-142",
@@ -1757,7 +1899,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/142.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/142.jpg"
     },
     {
       "id": "breakthrough-143",
@@ -1769,7 +1912,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/143.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/143.jpg"
     },
     {
       "id": "breakthrough-144",
@@ -1781,7 +1925,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/144.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/144.jpg"
     },
     {
       "id": "breakthrough-145",
@@ -1793,7 +1938,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/145.jpg",
-      "trainer_type": "Stadium"
+      "trainer_type": "Stadium",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/145.jpg"
     },
     {
       "id": "breakthrough-146",
@@ -1805,7 +1951,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/146.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/146.jpg"
     },
     {
       "id": "breakthrough-147",
@@ -1817,7 +1964,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/147.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/147.jpg"
     },
     {
       "id": "breakthrough-148",
@@ -1829,7 +1977,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/148.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/148.jpg"
     },
     {
       "id": "breakthrough-149",
@@ -1841,7 +1990,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/149.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/149.jpg"
     },
     {
       "id": "breakthrough-150",
@@ -1853,7 +2003,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/150.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/150.jpg"
     },
     {
       "id": "breakthrough-151",
@@ -1865,7 +2016,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/151.jpg",
-      "energy_type": "Special"
+      "energy_type": "Special",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/151.jpg"
     },
     {
       "id": "breakthrough-152",
@@ -1877,7 +2029,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/152.jpg",
-      "energy_type": "Special"
+      "energy_type": "Special",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/152.jpg"
     },
     {
       "id": "breakthrough-153",
@@ -1892,7 +2045,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/153.jpg"
     },
     {
       "id": "breakthrough-154",
@@ -1908,7 +2062,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/154.jpg"
     },
     {
       "id": "breakthrough-155",
@@ -1923,7 +2078,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/155.jpg"
     },
     {
       "id": "breakthrough-156",
@@ -1939,7 +2095,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/156.jpg"
     },
     {
       "id": "breakthrough-157",
@@ -1954,7 +2111,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/157.jpg"
     },
     {
       "id": "breakthrough-158",
@@ -1969,7 +2127,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/158.jpg"
     },
     {
       "id": "breakthrough-159",
@@ -1985,7 +2144,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/159.jpg"
     },
     {
       "id": "breakthrough-160",
@@ -2001,7 +2161,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/160.jpg"
     },
     {
       "id": "breakthrough-161",
@@ -2013,7 +2174,8 @@
       "rarity": "Rare Ultra",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/161.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/161.jpg"
     },
     {
       "id": "breakthrough-162",
@@ -2025,7 +2187,8 @@
       "rarity": "Rare Ultra",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/breakthrough/162.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/breakthrough/162.jpg"
     },
     {
       "id": "breakthrough-163",
@@ -2040,7 +2203,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/163.jpg"
     },
     {
       "id": "breakthrough-164",
@@ -2055,7 +2219,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/breakthrough/164.jpg"
     }
   ]
 }

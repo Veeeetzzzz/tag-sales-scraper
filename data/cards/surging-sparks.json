@@ -7,7 +7,8 @@
     "totalCards": 252,
     "description": "Pokemon Surging Sparks - The eighth expansion in the Scarlet & Violet series featuring powerful ex Pokemon, Pikachu ex variants, and new mechanics",
     "lastUpdated": "2024/12/19",
-    "tagSales": 1847
+    "tagSales": 1847,
+    "logo": "https://www.serebii.net/card/logo/surgingsparks.png"
   },
   "cards": [
     {
@@ -42,11 +43,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/001.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/001.jpg"
     },
     {
       "id": "surging-sparks-002-191",
@@ -80,11 +81,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/002.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/002.jpg"
     },
     {
       "id": "surging-sparks-003-191",
@@ -118,11 +119,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/003.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/003.jpg"
     },
     {
       "id": "surging-sparks-004-191",
@@ -157,22 +158,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/004.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/004.jpg"
     },
     {
       "id": "surging-sparks-005-191",
@@ -204,11 +205,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/005.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/005.jpg"
     },
     {
       "id": "surging-sparks-006-191",
@@ -240,11 +241,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/006.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/006.jpg"
     },
     {
       "id": "surging-sparks-007-191",
@@ -276,11 +277,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/007.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/007.jpg"
     },
     {
       "id": "surging-sparks-008-191",
@@ -312,11 +313,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/008.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/008.jpg"
     },
     {
       "id": "surging-sparks-009-191",
@@ -348,11 +349,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/009.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/009.jpg"
     },
     {
       "id": "surging-sparks-010-191",
@@ -384,11 +385,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/010.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/010.jpg"
     },
     {
       "id": "surging-sparks-011-191",
@@ -419,22 +420,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/011.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/011.jpg"
     },
     {
       "id": "surging-sparks-012-191",
@@ -466,11 +467,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/012.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/012.jpg"
     },
     {
       "id": "surging-sparks-013-191",
@@ -502,11 +503,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/013.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/013.jpg"
     },
     {
       "id": "surging-sparks-014-191",
@@ -537,22 +538,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/014.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/014.jpg"
     },
     {
       "id": "surging-sparks-015-191",
@@ -584,11 +585,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/015.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/015.jpg"
     },
     {
       "id": "surging-sparks-016-191",
@@ -620,11 +621,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/016.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/016.jpg"
     },
     {
       "id": "surging-sparks-017-191",
@@ -656,11 +657,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/017.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/017.jpg"
     },
     {
       "id": "surging-sparks-018-191",
@@ -694,11 +695,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/018.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/018.jpg"
     },
     {
       "id": "surging-sparks-019-191",
@@ -730,11 +731,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/019.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/019.jpg"
     },
     {
       "id": "surging-sparks-020-191",
@@ -769,11 +770,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/020.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/020.jpg"
     },
     {
       "id": "surging-sparks-021-191",
@@ -805,11 +806,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/021.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/021.jpg"
     },
     {
       "id": "surging-sparks-022-191",
@@ -841,11 +842,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/022.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/022.jpg"
     },
     {
       "id": "surging-sparks-023-191",
@@ -877,11 +878,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/023.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/023.jpg"
     },
     {
       "id": "surging-sparks-024-191",
@@ -913,11 +914,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/024.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/024.jpg"
     },
     {
       "id": "surging-sparks-025-191",
@@ -949,11 +950,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/025.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/025.jpg"
     },
     {
       "id": "surging-sparks-026-191",
@@ -985,11 +986,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/026.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/026.jpg"
     },
     {
       "id": "surging-sparks-027-191",
@@ -1021,11 +1022,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/027.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/027.jpg"
     },
     {
       "id": "surging-sparks-028-191",
@@ -1057,11 +1058,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/028.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/028.jpg"
     },
     {
       "id": "surging-sparks-029-191",
@@ -1093,11 +1094,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/029.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/029.jpg"
     },
     {
       "id": "surging-sparks-030-191",
@@ -1129,11 +1130,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/030.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/030.jpg"
     },
     {
       "id": "surging-sparks-031-191",
@@ -1164,22 +1165,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/031.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/031.jpg"
     },
     {
       "id": "surging-sparks-032-191",
@@ -1211,11 +1212,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/032.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/032.jpg"
     },
     {
       "id": "surging-sparks-033-191",
@@ -1247,11 +1248,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/033.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/033.jpg"
     },
     {
       "id": "surging-sparks-034-191",
@@ -1283,11 +1284,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/034.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/034.jpg"
     },
     {
       "id": "surging-sparks-035-191",
@@ -1319,11 +1320,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/035.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/035.jpg"
     },
     {
       "id": "surging-sparks-036-191",
@@ -1358,22 +1359,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/036.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/036.jpg"
     },
     {
       "id": "surging-sparks-037-191",
@@ -1408,22 +1409,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/037.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/037.jpg"
     },
     {
       "id": "surging-sparks-038-191",
@@ -1455,22 +1456,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/038.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/038.jpg"
     },
     {
       "id": "surging-sparks-039-191",
@@ -1504,11 +1505,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/039.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/039.jpg"
     },
     {
       "id": "surging-sparks-040-191",
@@ -1540,11 +1541,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/040.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/040.jpg"
     },
     {
       "id": "surging-sparks-041-191",
@@ -1576,11 +1577,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/041.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/041.jpg"
     },
     {
       "id": "surging-sparks-042-191",
@@ -1615,22 +1616,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/042.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/042.jpg"
     },
     {
       "id": "surging-sparks-043-191",
@@ -1662,11 +1663,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/043.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/043.jpg"
     },
     {
       "id": "surging-sparks-044-191",
@@ -1698,11 +1699,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/044.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/044.jpg"
     },
     {
       "id": "surging-sparks-045-191",
@@ -1734,11 +1735,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/045.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/045.jpg"
     },
     {
       "id": "surging-sparks-046-191",
@@ -1770,11 +1771,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/046.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/046.jpg"
     },
     {
       "id": "surging-sparks-047-191",
@@ -1806,11 +1807,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/047.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/047.jpg"
     },
     {
       "id": "surging-sparks-048-191",
@@ -1849,22 +1850,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/048.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/048.jpg"
     },
     {
       "id": "surging-sparks-049-191",
@@ -1896,11 +1897,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/049.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/049.jpg"
     },
     {
       "id": "surging-sparks-050-191",
@@ -1932,11 +1933,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/050.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/050.jpg"
     },
     {
       "id": "surging-sparks-051-191",
@@ -1968,11 +1969,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/051.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/051.jpg"
     },
     {
       "id": "surging-sparks-052-191",
@@ -2004,11 +2005,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/052.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/052.jpg"
     },
     {
       "id": "surging-sparks-053-191",
@@ -2040,11 +2041,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/053.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/053.jpg"
     },
     {
       "id": "surging-sparks-054-191",
@@ -2076,11 +2077,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/054.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/054.jpg"
     },
     {
       "id": "surging-sparks-055-191",
@@ -2114,11 +2115,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/055.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/055.jpg"
     },
     {
       "id": "surging-sparks-056-191",
@@ -2149,22 +2150,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/056.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/056.jpg"
     },
     {
       "id": "surging-sparks-057-191",
@@ -2200,22 +2201,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/057.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/057.jpg"
     },
     {
       "id": "surging-sparks-058-191",
@@ -2247,11 +2248,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/058.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/058.jpg"
     },
     {
       "id": "surging-sparks-059-191",
@@ -2283,11 +2284,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/059.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/059.jpg"
     },
     {
       "id": "surging-sparks-060-191",
@@ -2319,11 +2320,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/060.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/060.jpg"
     },
     {
       "id": "surging-sparks-061-191",
@@ -2355,11 +2356,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/061.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/061.jpg"
     },
     {
       "id": "surging-sparks-062-191",
@@ -2391,11 +2392,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/062.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/062.jpg"
     },
     {
       "id": "surging-sparks-063-191",
@@ -2427,11 +2428,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/063.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/063.jpg"
     },
     {
       "id": "surging-sparks-064-191",
@@ -2463,11 +2464,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/064.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/064.jpg"
     },
     {
       "id": "surging-sparks-065-191",
@@ -2500,22 +2501,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/065.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/065.jpg"
     },
     {
       "id": "surging-sparks-066-191",
@@ -2547,11 +2548,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/066.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/066.jpg"
     },
     {
       "id": "surging-sparks-067-191",
@@ -2583,11 +2584,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/067.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/067.jpg"
     },
     {
       "id": "surging-sparks-068-191",
@@ -2622,22 +2623,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/068.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/068.jpg"
     },
     {
       "id": "surging-sparks-069-191",
@@ -2669,11 +2670,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/069.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/069.jpg"
     },
     {
       "id": "surging-sparks-070-191",
@@ -2705,11 +2706,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/070.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/070.jpg"
     },
     {
       "id": "surging-sparks-071-191",
@@ -2741,11 +2742,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/071.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/071.jpg"
     },
     {
       "id": "surging-sparks-072-191",
@@ -2776,22 +2777,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/072.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/072.jpg"
     },
     {
       "id": "surging-sparks-073-191",
@@ -2823,11 +2824,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/073.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/073.jpg"
     },
     {
       "id": "surging-sparks-074-191",
@@ -2859,11 +2860,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/074.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/074.jpg"
     },
     {
       "id": "surging-sparks-075-191",
@@ -2895,11 +2896,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/075.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/075.jpg"
     },
     {
       "id": "surging-sparks-076-191",
@@ -2935,22 +2936,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/076.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/076.jpg"
     },
     {
       "id": "surging-sparks-077-191",
@@ -2983,11 +2984,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/077.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/077.jpg"
     },
     {
       "id": "surging-sparks-078-191",
@@ -3019,11 +3020,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/078.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/078.jpg"
     },
     {
       "id": "surging-sparks-079-191",
@@ -3055,11 +3056,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/079.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/079.jpg"
     },
     {
       "id": "surging-sparks-080-191",
@@ -3091,11 +3092,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/080.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/080.jpg"
     },
     {
       "id": "surging-sparks-081-191",
@@ -3127,11 +3128,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/081.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/081.jpg"
     },
     {
       "id": "surging-sparks-082-191",
@@ -3163,11 +3164,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/082.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/082.jpg"
     },
     {
       "id": "surging-sparks-083-191",
@@ -3198,22 +3199,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/083.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/083.jpg"
     },
     {
       "id": "surging-sparks-084-191",
@@ -3245,11 +3246,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/084.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/084.jpg"
     },
     {
       "id": "surging-sparks-085-191",
@@ -3281,11 +3282,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/085.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/085.jpg"
     },
     {
       "id": "surging-sparks-086-191",
@@ -3320,22 +3321,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/086.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/086.jpg"
     },
     {
       "id": "surging-sparks-087-191",
@@ -3367,11 +3368,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/087.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/087.jpg"
     },
     {
       "id": "surging-sparks-088-191",
@@ -3403,11 +3404,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/088.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/088.jpg"
     },
     {
       "id": "surging-sparks-089-191",
@@ -3439,11 +3440,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/089.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/089.jpg"
     },
     {
       "id": "surging-sparks-090-191",
@@ -3475,11 +3476,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/090.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/090.jpg"
     },
     {
       "id": "surging-sparks-091-191",
@@ -3514,22 +3515,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/091.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/091.jpg"
     },
     {
       "id": "surging-sparks-092-191",
@@ -3562,22 +3563,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/092.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/092.jpg"
     },
     {
       "id": "surging-sparks-093-191",
@@ -3609,11 +3610,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/093.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/093.jpg"
     },
     {
       "id": "surging-sparks-094-191",
@@ -3645,11 +3646,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/094.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/094.jpg"
     },
     {
       "id": "surging-sparks-095-191",
@@ -3681,11 +3682,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/095.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/095.jpg"
     },
     {
       "id": "surging-sparks-096-191",
@@ -3719,11 +3720,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/096.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/096.jpg"
     },
     {
       "id": "surging-sparks-097-191",
@@ -3755,11 +3756,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/097.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/097.jpg"
     },
     {
       "id": "surging-sparks-098-191",
@@ -3791,11 +3792,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/098.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/098.jpg"
     },
     {
       "id": "surging-sparks-099-191",
@@ -3827,11 +3828,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/099.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/099.jpg"
     },
     {
       "id": "surging-sparks-100-191",
@@ -3863,11 +3864,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/100.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/100.jpg"
     },
     {
       "id": "surging-sparks-101-191",
@@ -3901,11 +3902,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/101.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/101.jpg"
     },
     {
       "id": "surging-sparks-102-191",
@@ -3937,11 +3938,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/102.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/102.jpg"
     },
     {
       "id": "surging-sparks-103-191",
@@ -3973,11 +3974,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/103.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/103.jpg"
     },
     {
       "id": "surging-sparks-104-191",
@@ -4009,11 +4010,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/104.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/104.jpg"
     },
     {
       "id": "surging-sparks-105-191",
@@ -4045,11 +4046,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/105.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/105.jpg"
     },
     {
       "id": "surging-sparks-106-191",
@@ -4084,22 +4085,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/106.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/106.jpg"
     },
     {
       "id": "surging-sparks-107-191",
@@ -4130,22 +4131,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/107.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/107.jpg"
     },
     {
       "id": "surging-sparks-108-191",
@@ -4177,11 +4178,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/108.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/108.jpg"
     },
     {
       "id": "surging-sparks-109-191",
@@ -4215,11 +4216,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/109.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/109.jpg"
     },
     {
       "id": "surging-sparks-110-191",
@@ -4250,22 +4251,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/110.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/110.jpg"
     },
     {
       "id": "surging-sparks-111-191",
@@ -4297,11 +4298,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/111.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/111.jpg"
     },
     {
       "id": "surging-sparks-112-191",
@@ -4333,11 +4334,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/112.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/112.jpg"
     },
     {
       "id": "surging-sparks-113-191",
@@ -4369,11 +4370,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/113.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/113.jpg"
     },
     {
       "id": "surging-sparks-114-191",
@@ -4405,11 +4406,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/114.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/114.jpg"
     },
     {
       "id": "surging-sparks-115-191",
@@ -4441,11 +4442,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/115.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/115.jpg"
     },
     {
       "id": "surging-sparks-116-191",
@@ -4477,11 +4478,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/116.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/116.jpg"
     },
     {
       "id": "surging-sparks-117-191",
@@ -4513,11 +4514,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/117.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/117.jpg"
     },
     {
       "id": "surging-sparks-118-191",
@@ -4549,11 +4550,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/118.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/118.jpg"
     },
     {
       "id": "surging-sparks-119-191",
@@ -4588,22 +4589,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/119.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/119.jpg"
     },
     {
       "id": "surging-sparks-120-191",
@@ -4635,11 +4636,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/120.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/120.jpg"
     },
     {
       "id": "surging-sparks-121-191",
@@ -4671,11 +4672,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/121.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/121.jpg"
     },
     {
       "id": "surging-sparks-122-191",
@@ -4709,11 +4710,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/122.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/122.jpg"
     },
     {
       "id": "surging-sparks-123-191",
@@ -4747,11 +4748,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/123.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/123.jpg"
     },
     {
       "id": "surging-sparks-124-191",
@@ -4783,11 +4784,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/124.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/124.jpg"
     },
     {
       "id": "surging-sparks-125-191",
@@ -4819,11 +4820,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/125.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/125.jpg"
     },
     {
       "id": "surging-sparks-126-191",
@@ -4855,11 +4856,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/126.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/126.jpg"
     },
     {
       "id": "surging-sparks-127-191",
@@ -4891,11 +4892,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/127.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/127.jpg"
     },
     {
       "id": "surging-sparks-128-191",
@@ -4927,11 +4928,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/128.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/128.jpg"
     },
     {
       "id": "surging-sparks-129-191",
@@ -4963,11 +4964,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/129.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/129.jpg"
     },
     {
       "id": "surging-sparks-130-191",
@@ -5002,22 +5003,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/130.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/130.jpg"
     },
     {
       "id": "surging-sparks-131-191",
@@ -5049,11 +5050,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/131.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/131.jpg"
     },
     {
       "id": "surging-sparks-132-191",
@@ -5086,22 +5087,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/132.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/132.jpg"
     },
     {
       "id": "surging-sparks-133-191",
@@ -5139,22 +5140,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/133.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/133.jpg"
     },
     {
       "id": "surging-sparks-134-191",
@@ -5186,11 +5187,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/134.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/134.jpg"
     },
     {
       "id": "surging-sparks-135-191",
@@ -5221,22 +5222,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/135.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/135.jpg"
     },
     {
       "id": "surging-sparks-136-191",
@@ -5267,22 +5268,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/136.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/136.jpg"
     },
     {
       "id": "surging-sparks-137-191",
@@ -5314,11 +5315,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/137.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/137.jpg"
     },
     {
       "id": "surging-sparks-138-191",
@@ -5350,11 +5351,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/138.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/138.jpg"
     },
     {
       "id": "surging-sparks-139-191",
@@ -5386,11 +5387,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/139.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/139.jpg"
     },
     {
       "id": "surging-sparks-140-191",
@@ -5422,11 +5423,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/140.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/140.jpg"
     },
     {
       "id": "surging-sparks-141-191",
@@ -5457,22 +5458,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/141.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/141.jpg"
     },
     {
       "id": "surging-sparks-142-191",
@@ -5507,22 +5508,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/142.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/142.jpg"
     },
     {
       "id": "surging-sparks-143-191",
@@ -5555,11 +5556,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/143.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/143.jpg"
     },
     {
       "id": "surging-sparks-144-191",
@@ -5591,11 +5592,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/144.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/144.jpg"
     },
     {
       "id": "surging-sparks-145-191",
@@ -5627,11 +5628,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/145.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/145.jpg"
     },
     {
       "id": "surging-sparks-146-191",
@@ -5663,11 +5664,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/146.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/146.jpg"
     },
     {
       "id": "surging-sparks-147-191",
@@ -5702,22 +5703,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/147.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/147.jpg"
     },
     {
       "id": "surging-sparks-148-191",
@@ -5749,11 +5750,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/148.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/148.jpg"
     },
     {
       "id": "surging-sparks-149-191",
@@ -5785,11 +5786,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/149.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/149.jpg"
     },
     {
       "id": "surging-sparks-150-191",
@@ -5821,11 +5822,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/150.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/150.jpg"
     },
     {
       "id": "surging-sparks-151-191",
@@ -5857,11 +5858,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/151.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/151.jpg"
     },
     {
       "id": "surging-sparks-152-191",
@@ -5893,11 +5894,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/152.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/152.jpg"
     },
     {
       "id": "surging-sparks-153-191",
@@ -5929,11 +5930,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/153.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/153.jpg"
     },
     {
       "id": "surging-sparks-154-191",
@@ -5965,11 +5966,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/154.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/154.jpg"
     },
     {
       "id": "surging-sparks-155-191",
@@ -6001,11 +6002,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/155.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/155.jpg"
     },
     {
       "id": "surging-sparks-156-191",
@@ -6037,11 +6038,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/156.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/156.jpg"
     },
     {
       "id": "surging-sparks-157-191",
@@ -6073,11 +6074,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/157.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/157.jpg"
     },
     {
       "id": "surging-sparks-158-191",
@@ -6109,11 +6110,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/158.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/158.jpg"
     },
     {
       "id": "surging-sparks-159-191",
@@ -6148,22 +6149,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/159.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/159.jpg"
     },
     {
       "id": "surging-sparks-160-191",
@@ -6198,22 +6199,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 8.0,
-          "max": 40.0,
-          "average": 24.0
+          "min": 8,
+          "max": 40,
+          "average": 24
         },
         "PSA 10": {
-          "min": 80.0,
-          "max": 200.0,
-          "average": 120.0
+          "min": 80,
+          "max": 200,
+          "average": 120
         },
         "BGS 10": {
-          "min": 72.0,
-          "max": 180.0,
-          "average": 112.0
+          "min": 72,
+          "max": 180,
+          "average": 112
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/160.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/160.jpg"
     },
     {
       "id": "surging-sparks-161-191",
@@ -6244,22 +6245,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 2.0,
-          "max": 15.0,
+          "min": 2,
+          "max": 15,
           "average": 8.5
         },
         "PSA 10": {
-          "min": 30.0,
-          "max": 75.0,
-          "average": 45.0
+          "min": 30,
+          "max": 75,
+          "average": 45
         },
         "BGS 10": {
-          "min": 27.0,
+          "min": 27,
           "max": 67.5,
-          "average": 42.0
+          "average": 42
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/161.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/161.jpg"
     },
     {
       "id": "surging-sparks-162-191",
@@ -6293,22 +6294,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 5.0,
-          "max": 25.0,
-          "average": 15.0
+          "min": 5,
+          "max": 25,
+          "average": 15
         },
         "PSA 10": {
-          "min": 50.0,
-          "max": 125.0,
-          "average": 75.0
+          "min": 50,
+          "max": 125,
+          "average": 75
         },
         "BGS 10": {
-          "min": 45.0,
+          "min": 45,
           "max": 112.5,
-          "average": 70.0
+          "average": 70
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/162.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/162.jpg"
     },
     {
       "id": "surging-sparks-163-191",
@@ -6342,11 +6343,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/163.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/163.jpg"
     },
     {
       "id": "surging-sparks-164-191",
@@ -6380,22 +6381,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 5.0,
-          "max": 25.0,
-          "average": 15.0
+          "min": 5,
+          "max": 25,
+          "average": 15
         },
         "PSA 10": {
-          "min": 50.0,
-          "max": 125.0,
-          "average": 75.0
+          "min": 50,
+          "max": 125,
+          "average": 75
         },
         "BGS 10": {
-          "min": 45.0,
+          "min": 45,
           "max": 112.5,
-          "average": 70.0
+          "average": 70
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/164.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/164.jpg"
     },
     {
       "id": "surging-sparks-165-191",
@@ -6429,11 +6430,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/165.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/165.jpg"
     },
     {
       "id": "surging-sparks-166-191",
@@ -6468,11 +6469,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/166.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/166.jpg"
     },
     {
       "id": "surging-sparks-167-191",
@@ -6507,11 +6508,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/167.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/167.jpg"
     },
     {
       "id": "surging-sparks-168-191",
@@ -6545,11 +6546,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/168.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/168.jpg"
     },
     {
       "id": "surging-sparks-169-191",
@@ -6583,11 +6584,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/169.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/169.jpg"
     },
     {
       "id": "surging-sparks-170-191",
@@ -6619,11 +6620,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/170.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/170.jpg"
     },
     {
       "id": "surging-sparks-171-191",
@@ -6657,11 +6658,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/171.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/171.jpg"
     },
     {
       "id": "surging-sparks-172-191",
@@ -6695,11 +6696,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/172.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/172.jpg"
     },
     {
       "id": "surging-sparks-173-191",
@@ -6731,11 +6732,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.1,
-          "max": 2.0,
+          "max": 2,
           "average": 1.05
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/173.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/173.jpg"
     },
     {
       "id": "surging-sparks-174-191",
@@ -6767,11 +6768,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/174.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/174.jpg"
     },
     {
       "id": "surging-sparks-175-191",
@@ -6805,11 +6806,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/175.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/175.jpg"
     },
     {
       "id": "surging-sparks-176-191",
@@ -6844,22 +6845,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 5.0,
-          "max": 25.0,
-          "average": 15.0
+          "min": 5,
+          "max": 25,
+          "average": 15
         },
         "PSA 10": {
-          "min": 50.0,
-          "max": 125.0,
-          "average": 75.0
+          "min": 50,
+          "max": 125,
+          "average": 75
         },
         "BGS 10": {
-          "min": 45.0,
+          "min": 45,
           "max": 112.5,
-          "average": 70.0
+          "average": 70
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/176.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/176.jpg"
     },
     {
       "id": "surging-sparks-177-191",
@@ -6893,11 +6894,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/177.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/177.jpg"
     },
     {
       "id": "surging-sparks-178-191",
@@ -6931,11 +6932,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/178.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/178.jpg"
     },
     {
       "id": "surging-sparks-179-191",
@@ -6969,11 +6970,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/179.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/179.jpg"
     },
     {
       "id": "surging-sparks-180-191",
@@ -7007,11 +7008,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/180.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/180.jpg"
     },
     {
       "id": "surging-sparks-181-191",
@@ -7045,11 +7046,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/181.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/181.jpg"
     },
     {
       "id": "surging-sparks-182-191",
@@ -7083,22 +7084,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 5.0,
-          "max": 25.0,
-          "average": 15.0
+          "min": 5,
+          "max": 25,
+          "average": 15
         },
         "PSA 10": {
-          "min": 50.0,
-          "max": 125.0,
-          "average": 75.0
+          "min": 50,
+          "max": 125,
+          "average": 75
         },
         "BGS 10": {
-          "min": 45.0,
+          "min": 45,
           "max": 112.5,
-          "average": 70.0
+          "average": 70
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/182.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/182.jpg"
     },
     {
       "id": "surging-sparks-183-191",
@@ -7132,22 +7133,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 5.0,
-          "max": 25.0,
-          "average": 15.0
+          "min": 5,
+          "max": 25,
+          "average": 15
         },
         "PSA 10": {
-          "min": 50.0,
-          "max": 125.0,
-          "average": 75.0
+          "min": 50,
+          "max": 125,
+          "average": 75
         },
         "BGS 10": {
-          "min": 45.0,
+          "min": 45,
           "max": 112.5,
-          "average": 70.0
+          "average": 70
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/183.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/183.jpg"
     },
     {
       "id": "surging-sparks-184-191",
@@ -7181,11 +7182,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/184.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/184.jpg"
     },
     {
       "id": "surging-sparks-185-191",
@@ -7219,22 +7220,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 5.0,
-          "max": 25.0,
-          "average": 15.0
+          "min": 5,
+          "max": 25,
+          "average": 15
         },
         "PSA 10": {
-          "min": 50.0,
-          "max": 125.0,
-          "average": 75.0
+          "min": 50,
+          "max": 125,
+          "average": 75
         },
         "BGS 10": {
-          "min": 45.0,
+          "min": 45,
           "max": 112.5,
-          "average": 70.0
+          "average": 70
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/185.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/185.jpg"
     },
     {
       "id": "surging-sparks-186-191",
@@ -7268,22 +7269,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 5.0,
-          "max": 25.0,
-          "average": 15.0
+          "min": 5,
+          "max": 25,
+          "average": 15
         },
         "PSA 10": {
-          "min": 50.0,
-          "max": 125.0,
-          "average": 75.0
+          "min": 50,
+          "max": 125,
+          "average": 75
         },
         "BGS 10": {
-          "min": 45.0,
+          "min": 45,
           "max": 112.5,
-          "average": 70.0
+          "average": 70
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/186.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/186.jpg"
     },
     {
       "id": "surging-sparks-187-191",
@@ -7315,11 +7316,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/187.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/187.jpg"
     },
     {
       "id": "surging-sparks-188-191",
@@ -7354,11 +7355,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/188.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/188.jpg"
     },
     {
       "id": "surging-sparks-189-191",
@@ -7392,11 +7393,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/189.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/189.jpg"
     },
     {
       "id": "surging-sparks-190-191",
@@ -7428,11 +7429,11 @@
       "priceGuide": {
         "Regular": {
           "min": 0.5,
-          "max": 5.0,
+          "max": 5,
           "average": 2.75
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/190.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/190.jpg"
     },
     {
       "id": "surging-sparks-191-191",
@@ -7466,22 +7467,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 5.0,
-          "max": 25.0,
-          "average": 15.0
+          "min": 5,
+          "max": 25,
+          "average": 15
         },
         "PSA 10": {
-          "min": 50.0,
-          "max": 125.0,
-          "average": 75.0
+          "min": 50,
+          "max": 125,
+          "average": 75
         },
         "BGS 10": {
-          "min": 45.0,
+          "min": 45,
           "max": 112.5,
-          "average": 70.0
+          "average": 70
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/191.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/191.jpg"
     },
     {
       "id": "surging-sparks-192-191",
@@ -7515,22 +7516,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/192.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/192.jpg"
     },
     {
       "id": "surging-sparks-193-191",
@@ -7562,22 +7563,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/193.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/193.jpg"
     },
     {
       "id": "surging-sparks-194-191",
@@ -7609,22 +7610,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/194.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/194.jpg"
     },
     {
       "id": "surging-sparks-195-191",
@@ -7659,22 +7660,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/195.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/195.jpg"
     },
     {
       "id": "surging-sparks-196-191",
@@ -7706,22 +7707,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/196.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/196.jpg"
     },
     {
       "id": "surging-sparks-197-191",
@@ -7753,22 +7754,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/197.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/197.jpg"
     },
     {
       "id": "surging-sparks-198-191",
@@ -7800,22 +7801,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/198.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/198.jpg"
     },
     {
       "id": "surging-sparks-199-191",
@@ -7847,22 +7848,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/199.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/199.jpg"
     },
     {
       "id": "surging-sparks-200-191",
@@ -7894,22 +7895,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/200.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/200.jpg"
     },
     {
       "id": "surging-sparks-201-191",
@@ -7941,22 +7942,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/201.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/201.jpg"
     },
     {
       "id": "surging-sparks-202-191",
@@ -7988,22 +7989,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/202.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/202.jpg"
     },
     {
       "id": "surging-sparks-203-191",
@@ -8036,22 +8037,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/203.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/203.jpg"
     },
     {
       "id": "surging-sparks-204-191",
@@ -8083,22 +8084,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/204.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/204.jpg"
     },
     {
       "id": "surging-sparks-205-191",
@@ -8130,22 +8131,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/205.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/205.jpg"
     },
     {
       "id": "surging-sparks-206-191",
@@ -8177,22 +8178,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/206.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/206.jpg"
     },
     {
       "id": "surging-sparks-207-191",
@@ -8224,22 +8225,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/207.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/207.jpg"
     },
     {
       "id": "surging-sparks-208-191",
@@ -8273,22 +8274,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/208.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/208.jpg"
     },
     {
       "id": "surging-sparks-209-191",
@@ -8320,22 +8321,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/209.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/209.jpg"
     },
     {
       "id": "surging-sparks-210-191",
@@ -8367,22 +8368,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/210.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/210.jpg"
     },
     {
       "id": "surging-sparks-211-191",
@@ -8414,22 +8415,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/211.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/211.jpg"
     },
     {
       "id": "surging-sparks-212-191",
@@ -8461,22 +8462,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/212.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/212.jpg"
     },
     {
       "id": "surging-sparks-213-191",
@@ -8508,22 +8509,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/213.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/213.jpg"
     },
     {
       "id": "surging-sparks-214-191",
@@ -8555,22 +8556,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 10.0,
-          "max": 50.0,
-          "average": 30.0
+          "min": 10,
+          "max": 50,
+          "average": 30
         },
         "PSA 10": {
-          "min": 100.0,
-          "max": 250.0,
-          "average": 150.0
+          "min": 100,
+          "max": 250,
+          "average": 150
         },
         "BGS 10": {
-          "min": 90.0,
-          "max": 225.0,
-          "average": 140.0
+          "min": 90,
+          "max": 225,
+          "average": 140
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/214.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/214.jpg"
     },
     {
       "id": "surging-sparks-215-191",
@@ -8605,22 +8606,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/215.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/215.jpg"
     },
     {
       "id": "surging-sparks-216-191",
@@ -8655,22 +8656,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/216.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/216.jpg"
     },
     {
       "id": "surging-sparks-217-191",
@@ -8705,22 +8706,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/217.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/217.jpg"
     },
     {
       "id": "surging-sparks-218-191",
@@ -8759,22 +8760,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/218.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/218.jpg"
     },
     {
       "id": "surging-sparks-219-191",
@@ -8810,22 +8811,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/219.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/219.jpg"
     },
     {
       "id": "surging-sparks-220-191",
@@ -8861,22 +8862,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/220.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/220.jpg"
     },
     {
       "id": "surging-sparks-221-191",
@@ -8911,22 +8912,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/221.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/221.jpg"
     },
     {
       "id": "surging-sparks-222-191",
@@ -8961,22 +8962,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/222.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/222.jpg"
     },
     {
       "id": "surging-sparks-223-191",
@@ -9011,22 +9012,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/223.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/223.jpg"
     },
     {
       "id": "surging-sparks-224-191",
@@ -9061,22 +9062,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/224.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/224.jpg"
     },
     {
       "id": "surging-sparks-225-191",
@@ -9114,22 +9115,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/225.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/225.jpg"
     },
     {
       "id": "surging-sparks-226-191",
@@ -9164,22 +9165,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/226.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/226.jpg"
     },
     {
       "id": "surging-sparks-227-191",
@@ -9214,22 +9215,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/227.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/227.jpg"
     },
     {
       "id": "surging-sparks-228-191",
@@ -9264,22 +9265,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/228.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/228.jpg"
     },
     {
       "id": "surging-sparks-229-191",
@@ -9314,22 +9315,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/229.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/229.jpg"
     },
     {
       "id": "surging-sparks-230-191",
@@ -9361,22 +9362,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/230.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/230.jpg"
     },
     {
       "id": "surging-sparks-231-191",
@@ -9408,22 +9409,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/231.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/231.jpg"
     },
     {
       "id": "surging-sparks-232-191",
@@ -9455,22 +9456,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/232.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/232.jpg"
     },
     {
       "id": "surging-sparks-233-191",
@@ -9504,22 +9505,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/233.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/233.jpg"
     },
     {
       "id": "surging-sparks-234-191",
@@ -9553,22 +9554,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/234.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/234.jpg"
     },
     {
       "id": "surging-sparks-235-191",
@@ -9600,22 +9601,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 15.0,
-          "max": 80.0,
+          "min": 15,
+          "max": 80,
           "average": 47.5
         },
         "PSA 10": {
-          "min": 160.0,
-          "max": 400.0,
-          "average": 240.0
+          "min": 160,
+          "max": 400,
+          "average": 240
         },
         "BGS 10": {
-          "min": 144.0,
-          "max": 360.0,
-          "average": 224.0
+          "min": 144,
+          "max": 360,
+          "average": 224
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/235.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/235.jpg"
     },
     {
       "id": "surging-sparks-236-191",
@@ -9650,22 +9651,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/236.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/236.jpg"
     },
     {
       "id": "surging-sparks-237-191",
@@ -9700,22 +9701,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/237.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/237.jpg"
     },
     {
       "id": "surging-sparks-238-191",
@@ -9751,22 +9752,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/238.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/238.jpg"
     },
     {
       "id": "surging-sparks-239-191",
@@ -9802,22 +9803,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/239.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/239.jpg"
     },
     {
       "id": "surging-sparks-240-191",
@@ -9852,22 +9853,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/240.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/240.jpg"
     },
     {
       "id": "surging-sparks-241-191",
@@ -9902,22 +9903,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/241.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/241.jpg"
     },
     {
       "id": "surging-sparks-242-191",
@@ -9955,22 +9956,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/242.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/242.jpg"
     },
     {
       "id": "surging-sparks-243-191",
@@ -10005,22 +10006,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/243.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/243.jpg"
     },
     {
       "id": "surging-sparks-244-191",
@@ -10052,22 +10053,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/244.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/244.jpg"
     },
     {
       "id": "surging-sparks-245-191",
@@ -10101,22 +10102,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/245.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/245.jpg"
     },
     {
       "id": "surging-sparks-246-191",
@@ -10150,22 +10151,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 25.0,
-          "max": 150.0,
+          "min": 25,
+          "max": 150,
           "average": 87.5
         },
         "PSA 10": {
-          "min": 300.0,
-          "max": 750.0,
-          "average": 450.0
+          "min": 300,
+          "max": 750,
+          "average": 450
         },
         "BGS 10": {
-          "min": 270.0,
-          "max": 675.0,
-          "average": 420.0
+          "min": 270,
+          "max": 675,
+          "average": 420
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/246.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/246.jpg"
     },
     {
       "id": "surging-sparks-247-191",
@@ -10201,22 +10202,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 30.0,
-          "max": 200.0,
-          "average": 115.0
+          "min": 30,
+          "max": 200,
+          "average": 115
         },
         "PSA 10": {
-          "min": 400.0,
-          "max": 1000.0,
-          "average": 600.0
+          "min": 400,
+          "max": 1000,
+          "average": 600
         },
         "BGS 10": {
-          "min": 360.0,
-          "max": 900.0,
-          "average": 560.0
+          "min": 360,
+          "max": 900,
+          "average": 560
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/247.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/247.jpg"
     },
     {
       "id": "surging-sparks-248-191",
@@ -10254,22 +10255,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 30.0,
-          "max": 200.0,
-          "average": 115.0
+          "min": 30,
+          "max": 200,
+          "average": 115
         },
         "PSA 10": {
-          "min": 400.0,
-          "max": 1000.0,
-          "average": 600.0
+          "min": 400,
+          "max": 1000,
+          "average": 600
         },
         "BGS 10": {
-          "min": 360.0,
-          "max": 900.0,
-          "average": 560.0
+          "min": 360,
+          "max": 900,
+          "average": 560
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/248.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/248.jpg"
     },
     {
       "id": "surging-sparks-249-191",
@@ -10303,22 +10304,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 30.0,
-          "max": 200.0,
-          "average": 115.0
+          "min": 30,
+          "max": 200,
+          "average": 115
         },
         "PSA 10": {
-          "min": 400.0,
-          "max": 1000.0,
-          "average": 600.0
+          "min": 400,
+          "max": 1000,
+          "average": 600
         },
         "BGS 10": {
-          "min": 360.0,
-          "max": 900.0,
-          "average": 560.0
+          "min": 360,
+          "max": 900,
+          "average": 560
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/249.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/249.jpg"
     },
     {
       "id": "surging-sparks-250-191",
@@ -10352,22 +10353,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 30.0,
-          "max": 200.0,
-          "average": 115.0
+          "min": 30,
+          "max": 200,
+          "average": 115
         },
         "PSA 10": {
-          "min": 400.0,
-          "max": 1000.0,
-          "average": 600.0
+          "min": 400,
+          "max": 1000,
+          "average": 600
         },
         "BGS 10": {
-          "min": 360.0,
-          "max": 900.0,
-          "average": 560.0
+          "min": 360,
+          "max": 900,
+          "average": 560
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/250.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/250.jpg"
     },
     {
       "id": "surging-sparks-251-191",
@@ -10401,22 +10402,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 30.0,
-          "max": 200.0,
-          "average": 115.0
+          "min": 30,
+          "max": 200,
+          "average": 115
         },
         "PSA 10": {
-          "min": 400.0,
-          "max": 1000.0,
-          "average": 600.0
+          "min": 400,
+          "max": 1000,
+          "average": 600
         },
         "BGS 10": {
-          "min": 360.0,
-          "max": 900.0,
-          "average": 560.0
+          "min": 360,
+          "max": 900,
+          "average": 560
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/251.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/251.jpg"
     },
     {
       "id": "surging-sparks-252-191",
@@ -10450,22 +10451,22 @@
       ],
       "priceGuide": {
         "Regular": {
-          "min": 30.0,
-          "max": 200.0,
-          "average": 115.0
+          "min": 30,
+          "max": 200,
+          "average": 115
         },
         "PSA 10": {
-          "min": 400.0,
-          "max": 1000.0,
-          "average": 600.0
+          "min": 400,
+          "max": 1000,
+          "average": 600
         },
         "BGS 10": {
-          "min": 360.0,
-          "max": 900.0,
-          "average": 560.0
+          "min": 360,
+          "max": 900,
+          "average": 560
         }
       },
-      "imageUrl": "https://images.pokemontcg.io/sv8/252.png"
+      "imageUrl": "https://www.serebii.net/card/surgingsparks/252.jpg"
     }
   ]
 }

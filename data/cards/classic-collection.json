@@ -3,17 +3,18 @@
     "name": "Classic Collection",
     "description": "Pokemon Classic Collection - Special subset of Celebrations featuring 25 classic Pokemon cards from throughout the TCG's history",
     "lastUpdated": "2025-06-16",
-    "setCode": "CLC",
+    "setCode": "CLASSICCOLLECTION",
     "totalCards": 25,
     "releaseDate": "2021-10-08",
-    "tagSales": 0
+    "tagSales": 0,
+    "logo": "https://www.serebii.net/card/logo/classiccollection.png"
   },
   "cards": [
     {
       "id": "cel25c-001",
       "name": "Blastoise [Base Set]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "001",
       "fullNumber": "001/025",
       "rarity": "Rare Classic",
@@ -28,13 +29,13 @@
         "Classic Collection Blastoise [Base Set]",
         "2/102"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/001.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/001.jpg"
     },
     {
       "id": "cel25c-002",
       "name": "Charizard [Base Set]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "002",
       "fullNumber": "002/025",
       "rarity": "Rare Classic",
@@ -49,13 +50,13 @@
         "Classic Collection Charizard [Base Set]",
         "4/102"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/002.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/002.jpg"
     },
     {
       "id": "cel25c-003",
       "name": "Venusaur [Base Set]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "003",
       "fullNumber": "003/025",
       "rarity": "Rare Classic",
@@ -70,13 +71,13 @@
         "Classic Collection Venusaur [Base Set]",
         "15/102"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/003.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/003.jpg"
     },
     {
       "id": "cel25c-004",
       "name": "Imposter Professor Oak [Base Set]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "004",
       "fullNumber": "004/025",
       "rarity": "Rare Classic",
@@ -91,13 +92,13 @@
         "Classic Collection Imposter Professor Oak [Base Set]",
         "73/102"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/004.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/004.jpg"
     },
     {
       "id": "cel25c-005",
       "name": "Dark Gyarados [Team Rocket]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "005",
       "fullNumber": "005/025",
       "rarity": "Rare Classic",
@@ -112,13 +113,13 @@
         "Classic Collection Dark Gyarados [Team Rocket]",
         "8/82"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/005.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/005.jpg"
     },
     {
       "id": "cel25c-006",
       "name": "Here Comes Team Rocket! [Team Rocket]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "006",
       "fullNumber": "006/025",
       "rarity": "Rare Classic",
@@ -133,13 +134,13 @@
         "Classic Collection Here Comes Team Rocket! [Team Rocket]",
         "15/82"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/006.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/006.jpg"
     },
     {
       "id": "cel25c-007",
       "name": "Rocket's Zapdos [Gym Challenge]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "007",
       "fullNumber": "007/025",
       "rarity": "Rare Classic",
@@ -154,13 +155,13 @@
         "Classic Collection Rocket's Zapdos [Gym Challenge]",
         "15/132"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/007.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/007.jpg"
     },
     {
       "id": "cel25c-008",
       "name": "_____'s Pikachu [Wizards Black Star Promos]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "008",
       "fullNumber": "008/025",
       "rarity": "Rare Classic",
@@ -175,13 +176,13 @@
         "Classic Collection _____'s Pikachu [Wizards Black Star Promos]",
         "24"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/008.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/008.jpg"
     },
     {
       "id": "cel25c-009",
       "name": "Cleffa [Neo Genesis]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "009",
       "fullNumber": "009/025",
       "rarity": "Rare Classic",
@@ -196,13 +197,13 @@
         "Classic Collection Cleffa [Neo Genesis]",
         "20/111"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/009.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/009.jpg"
     },
     {
       "id": "cel25c-010",
       "name": "Shining Magikarp [Neo Revelation]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "010",
       "fullNumber": "010/025",
       "rarity": "Rare Classic",
@@ -217,13 +218,13 @@
         "Classic Collection Shining Magikarp [Neo Revelation]",
         "66/64"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/010.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/010.jpg"
     },
     {
       "id": "cel25c-011",
       "name": "Team Magma's Groudon [EX Team Magma vs Team Aqua]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "011",
       "fullNumber": "011/025",
       "rarity": "Rare Classic",
@@ -238,13 +239,13 @@
         "Classic Collection Team Magma's Groudon [EX Team Magma vs Team Aqua]",
         "9/95"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/011.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/011.jpg"
     },
     {
       "id": "cel25c-012",
       "name": "Rocket's Admin. [EX Team Rocket Returns]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "012",
       "fullNumber": "012/025",
       "rarity": "Rare Classic",
@@ -259,13 +260,13 @@
         "Classic Collection Rocket's Admin. [EX Team Rocket Returns]",
         "86/109"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/012.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/012.jpg"
     },
     {
       "id": "cel25c-013",
       "name": "Mew ex [EX Legend Maker]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "013",
       "fullNumber": "013/025",
       "rarity": "Rare Classic",
@@ -280,13 +281,13 @@
         "Classic Collection Mew ex [EX Legend Maker]",
         "88/92"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/013.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/013.jpg"
     },
     {
       "id": "cel25c-014",
       "name": "Gardevoir ex δ [EX Dragon Frontiers]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "014",
       "fullNumber": "014/025",
       "rarity": "Rare Classic",
@@ -301,13 +302,13 @@
         "Classic Collection Gardevoir ex δ [EX Dragon Frontiers]",
         "93/101"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/014.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/014.jpg"
     },
     {
       "id": "cel25c-015",
       "name": "Umbreon Star [POP Series 5]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "015",
       "fullNumber": "015/025",
       "rarity": "Rare Classic",
@@ -322,13 +323,13 @@
         "Classic Collection Umbreon Star [POP Series 5]",
         "17/17"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/015.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/015.jpg"
     },
     {
       "id": "cel25c-016",
       "name": "Claydol [Great Encounters]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "016",
       "fullNumber": "016/025",
       "rarity": "Rare Classic",
@@ -343,13 +344,13 @@
         "Classic Collection Claydol [Great Encounters]",
         "15/106"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/016.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/016.jpg"
     },
     {
       "id": "cel25c-017",
       "name": "Luxray Pokémon GL LV.X [Rising Rivals]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "017",
       "fullNumber": "017/025",
       "rarity": "Rare Classic",
@@ -364,13 +365,13 @@
         "Classic Collection Luxray Pokémon GL LV.X [Rising Rivals]",
         "109/111"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/017.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/017.jpg"
     },
     {
       "id": "cel25c-018",
       "name": "Garchomp Pokémon C LV.X [Supreme Victors]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "018",
       "fullNumber": "018/025",
       "rarity": "Rare Classic",
@@ -385,13 +386,13 @@
         "Classic Collection Garchomp Pokémon C LV.X [Supreme Victors]",
         "145/147"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/018.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/018.jpg"
     },
     {
       "id": "cel25c-019",
       "name": "Donphan [HeartGold & SoulSilver]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "019",
       "fullNumber": "019/025",
       "rarity": "Rare Classic",
@@ -406,13 +407,13 @@
         "Classic Collection Donphan [HeartGold & SoulSilver]",
         "107/123"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/019.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/019.jpg"
     },
     {
       "id": "cel25c-020",
       "name": "Reshiram [Black & White]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "020",
       "fullNumber": "020/025",
       "rarity": "Rare Classic",
@@ -427,13 +428,13 @@
         "Classic Collection Reshiram [Black & White]",
         "113/114"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/020.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/020.jpg"
     },
     {
       "id": "cel25c-021",
       "name": "Zekrom [Black & White]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "021",
       "fullNumber": "021/025",
       "rarity": "Rare Classic",
@@ -448,13 +449,13 @@
         "Classic Collection Zekrom [Black & White]",
         "114/114"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/021.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/021.jpg"
     },
     {
       "id": "cel25c-022",
       "name": "MewtwoEX [Next Destinies]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "022",
       "fullNumber": "022/025",
       "rarity": "Rare Classic",
@@ -469,13 +470,13 @@
         "Classic Collection MewtwoEX [Next Destinies]",
         "54/99"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/022.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/022.jpg"
     },
     {
       "id": "cel25c-023",
       "name": "XerneasEX [XY]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "023",
       "fullNumber": "023/025",
       "rarity": "Rare Classic",
@@ -490,13 +491,13 @@
         "Classic Collection XerneasEX [XY]",
         "97/146"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/023.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/023.jpg"
     },
     {
       "id": "cel25c-024",
       "name": "MegaRayquazaEX [Roaring Skies]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "024",
       "fullNumber": "024/025",
       "rarity": "Rare Classic",
@@ -511,13 +512,13 @@
         "Classic Collection MegaRayquazaEX [Roaring Skies]",
         "76/108"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/024.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/024.jpg"
     },
     {
       "id": "cel25c-025",
       "name": "Tapu LeleGX [Guardians Rising]",
       "setName": "Classic Collection",
-      "setCode": "CLC",
+      "setCode": "CLASSICCOLLECTION",
       "cardNumber": "025",
       "fullNumber": "025/025",
       "rarity": "Rare Classic",
@@ -532,7 +533,7 @@
         "Classic Collection Tapu LeleGX [Guardians Rising]",
         "60/145"
       ],
-      "imageUrl": "https://images.pokemontcg.io/cel25c/025.png"
+      "imageUrl": "https://www.serebii.net/card/classiccollection/025.jpg"
     }
   ]
 }

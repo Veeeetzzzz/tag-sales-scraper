@@ -6,7 +6,8 @@
     "releaseDate": "2016-02-22",
     "totalCards": 83,
     "symbol": "GEN",
-    "logo": "https://www.serebii.net/card/generations/logo.png"
+    "logo": "https://www.serebii.net/card/logo/generations.png",
+    "setCode": "GENERATIONS"
   },
   "cards": [
     {
@@ -22,7 +23,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/001.jpg"
     },
     {
       "id": "generations-2",
@@ -38,7 +40,8 @@
       "keywords": [
         "ex",
         "mega-evolution"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/002.jpg"
     },
     {
       "id": "generations-3",
@@ -50,7 +53,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/3.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/generations/003.jpg"
     },
     {
       "id": "generations-4",
@@ -62,7 +66,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/4.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/generations/004.jpg"
     },
     {
       "id": "generations-5",
@@ -74,7 +79,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/5.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/generations/005.jpg"
     },
     {
       "id": "generations-6",
@@ -86,7 +92,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/6.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/generations/006.jpg"
     },
     {
       "id": "generations-7",
@@ -98,7 +105,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/7.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/007.jpg"
     },
     {
       "id": "generations-8",
@@ -110,7 +118,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/8.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/generations/008.jpg"
     },
     {
       "id": "generations-9",
@@ -122,7 +131,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/9.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/generations/009.jpg"
     },
     {
       "id": "generations-10",
@@ -137,7 +147,8 @@
       "hp": 160,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/010.jpg"
     },
     {
       "id": "generations-11",
@@ -152,7 +163,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/011.jpg"
     },
     {
       "id": "generations-12",
@@ -168,7 +180,8 @@
       "keywords": [
         "ex",
         "mega-evolution"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/012.jpg"
     },
     {
       "id": "generations-13",
@@ -183,7 +196,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/013.jpg"
     },
     {
       "id": "generations-14",
@@ -195,7 +209,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/14.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/generations/014.jpg"
     },
     {
       "id": "generations-15",
@@ -207,7 +222,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/15.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/015.jpg"
     },
     {
       "id": "generations-16",
@@ -219,7 +235,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/16.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/generations/016.jpg"
     },
     {
       "id": "generations-17",
@@ -234,7 +251,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/017.jpg"
     },
     {
       "id": "generations-18",
@@ -250,7 +268,8 @@
       "keywords": [
         "ex",
         "mega-evolution"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/018.jpg"
     },
     {
       "id": "generations-19",
@@ -262,7 +281,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/19.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/generations/019.jpg"
     },
     {
       "id": "generations-20",
@@ -274,7 +294,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/20.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/generations/020.jpg"
     },
     {
       "id": "generations-21",
@@ -286,7 +307,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/21.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/generations/021.jpg"
     },
     {
       "id": "generations-22",
@@ -298,7 +320,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/22.jpg",
-      "hp": 30
+      "hp": 30,
+      "imageUrl": "https://www.serebii.net/card/generations/022.jpg"
     },
     {
       "id": "generations-23",
@@ -310,7 +333,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/23.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/generations/023.jpg"
     },
     {
       "id": "generations-24",
@@ -325,7 +349,8 @@
       "hp": 160,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/024.jpg"
     },
     {
       "id": "generations-25",
@@ -337,7 +362,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/25.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/generations/025.jpg"
     },
     {
       "id": "generations-26",
@@ -349,7 +375,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/26.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/generations/026.jpg"
     },
     {
       "id": "generations-27",
@@ -361,7 +388,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/27.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/027.jpg"
     },
     {
       "id": "generations-28",
@@ -376,7 +404,8 @@
       "hp": 160,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/028.jpg"
     },
     {
       "id": "generations-29",
@@ -388,7 +417,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/29.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/generations/029.jpg"
     },
     {
       "id": "generations-30",
@@ -400,7 +430,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/30.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/generations/030.jpg"
     },
     {
       "id": "generations-31",
@@ -412,7 +443,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/31.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/generations/031.jpg"
     },
     {
       "id": "generations-32",
@@ -424,7 +456,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/32.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/generations/032.jpg"
     },
     {
       "id": "generations-33",
@@ -436,7 +469,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/33.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/generations/033.jpg"
     },
     {
       "id": "generations-34",
@@ -448,7 +482,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/34.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/generations/034.jpg"
     },
     {
       "id": "generations-35",
@@ -460,7 +495,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/35.jpg",
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/generations/035.jpg"
     },
     {
       "id": "generations-36",
@@ -472,7 +508,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/36.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/036.jpg"
     },
     {
       "id": "generations-37",
@@ -487,7 +524,8 @@
       "hp": 160,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/037.jpg"
     },
     {
       "id": "generations-38",
@@ -499,7 +537,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/38.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/generations/038.jpg"
     },
     {
       "id": "generations-39",
@@ -511,7 +550,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/39.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/039.jpg"
     },
     {
       "id": "generations-40",
@@ -523,7 +563,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/40.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/generations/040.jpg"
     },
     {
       "id": "generations-41",
@@ -535,7 +576,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/41.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/generations/041.jpg"
     },
     {
       "id": "generations-42",
@@ -547,7 +589,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/42.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/generations/042.jpg"
     },
     {
       "id": "generations-43",
@@ -559,7 +602,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/43.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/generations/043.jpg"
     },
     {
       "id": "generations-44",
@@ -571,7 +615,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/44.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/044.jpg"
     },
     {
       "id": "generations-45",
@@ -583,7 +628,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/45.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/generations/045.jpg"
     },
     {
       "id": "generations-46",
@@ -598,7 +644,8 @@
       "hp": 190,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/046.jpg"
     },
     {
       "id": "generations-47",
@@ -610,7 +657,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/47.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/047.jpg"
     },
     {
       "id": "generations-48",
@@ -622,7 +670,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/48.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/048.jpg"
     },
     {
       "id": "generations-49",
@@ -634,7 +683,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/49.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/049.jpg"
     },
     {
       "id": "generations-50",
@@ -646,7 +696,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/50.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/generations/050.jpg"
     },
     {
       "id": "generations-51",
@@ -658,7 +709,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/51.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/generations/051.jpg"
     },
     {
       "id": "generations-52",
@@ -670,7 +722,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/52.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/generations/052.jpg"
     },
     {
       "id": "generations-53",
@@ -682,7 +735,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/53.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/generations/053.jpg"
     },
     {
       "id": "generations-54",
@@ -694,7 +748,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/54.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/generations/054.jpg"
     },
     {
       "id": "generations-55",
@@ -706,7 +761,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/55.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/generations/055.jpg"
     },
     {
       "id": "generations-56",
@@ -718,7 +774,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/56.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/generations/056.jpg"
     },
     {
       "id": "generations-57",
@@ -730,7 +787,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/57.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/generations/057.jpg"
     },
     {
       "id": "generations-58",
@@ -742,7 +800,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/generations/58.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/generations/058.jpg"
     },
     {
       "id": "generations-59",
@@ -756,7 +815,8 @@
       "image_url": "https://www.serebii.net/card/generations/59.jpg",
       "keywords": [
         "supporter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/059.jpg"
     },
     {
       "id": "generations-60",
@@ -770,7 +830,8 @@
       "image_url": "https://www.serebii.net/card/generations/60.jpg",
       "keywords": [
         "item"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/060.jpg"
     },
     {
       "id": "generations-61",
@@ -784,7 +845,8 @@
       "image_url": "https://www.serebii.net/card/generations/61.jpg",
       "keywords": [
         "item"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/061.jpg"
     },
     {
       "id": "generations-62",
@@ -798,7 +860,8 @@
       "image_url": "https://www.serebii.net/card/generations/62.jpg",
       "keywords": [
         "item"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/062.jpg"
     },
     {
       "id": "generations-63",
@@ -812,7 +875,8 @@
       "image_url": "https://www.serebii.net/card/generations/63.jpg",
       "keywords": [
         "supporter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/063.jpg"
     },
     {
       "id": "generations-64",
@@ -826,7 +890,8 @@
       "image_url": "https://www.serebii.net/card/generations/64.jpg",
       "keywords": [
         "item"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/064.jpg"
     },
     {
       "id": "generations-65",
@@ -840,7 +905,8 @@
       "image_url": "https://www.serebii.net/card/generations/65.jpg",
       "keywords": [
         "item"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/065.jpg"
     },
     {
       "id": "generations-66",
@@ -854,11 +920,12 @@
       "image_url": "https://www.serebii.net/card/generations/66.jpg",
       "keywords": [
         "supporter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/066.jpg"
     },
     {
       "id": "generations-67",
-      "name": "Pok\u00e9 Ball",
+      "name": "Poké Ball",
       "number": "67",
       "set": "Generations",
       "series": "XY",
@@ -868,11 +935,12 @@
       "image_url": "https://www.serebii.net/card/generations/67.jpg",
       "keywords": [
         "item"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/067.jpg"
     },
     {
       "id": "generations-68",
-      "name": "Pok\u00e9mon Center Lady",
+      "name": "Pokémon Center Lady",
       "number": "68",
       "set": "Generations",
       "series": "XY",
@@ -882,11 +950,12 @@
       "image_url": "https://www.serebii.net/card/generations/68.jpg",
       "keywords": [
         "supporter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/068.jpg"
     },
     {
       "id": "generations-69",
-      "name": "Pok\u00e9mon Fan Club",
+      "name": "Pokémon Fan Club",
       "number": "69",
       "set": "Generations",
       "series": "XY",
@@ -896,7 +965,8 @@
       "image_url": "https://www.serebii.net/card/generations/69.jpg",
       "keywords": [
         "supporter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/069.jpg"
     },
     {
       "id": "generations-70",
@@ -910,7 +980,8 @@
       "image_url": "https://www.serebii.net/card/generations/70.jpg",
       "keywords": [
         "item"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/070.jpg"
     },
     {
       "id": "generations-71",
@@ -924,7 +995,8 @@
       "image_url": "https://www.serebii.net/card/generations/71.jpg",
       "keywords": [
         "item"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/071.jpg"
     },
     {
       "id": "generations-72",
@@ -938,7 +1010,8 @@
       "image_url": "https://www.serebii.net/card/generations/72.jpg",
       "keywords": [
         "supporter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/072.jpg"
     },
     {
       "id": "generations-73",
@@ -952,7 +1025,8 @@
       "image_url": "https://www.serebii.net/card/generations/73.jpg",
       "keywords": [
         "supporter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/073.jpg"
     },
     {
       "id": "generations-74",
@@ -966,7 +1040,8 @@
       "image_url": "https://www.serebii.net/card/generations/74.jpg",
       "keywords": [
         "special-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/074.jpg"
     },
     {
       "id": "generations-75",
@@ -980,7 +1055,8 @@
       "image_url": "https://www.serebii.net/card/generations/75.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/075.jpg"
     },
     {
       "id": "generations-76",
@@ -994,7 +1070,8 @@
       "image_url": "https://www.serebii.net/card/generations/76.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/076.jpg"
     },
     {
       "id": "generations-77",
@@ -1008,7 +1085,8 @@
       "image_url": "https://www.serebii.net/card/generations/77.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/077.jpg"
     },
     {
       "id": "generations-78",
@@ -1022,7 +1100,8 @@
       "image_url": "https://www.serebii.net/card/generations/78.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/078.jpg"
     },
     {
       "id": "generations-79",
@@ -1036,7 +1115,8 @@
       "image_url": "https://www.serebii.net/card/generations/79.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/079.jpg"
     },
     {
       "id": "generations-80",
@@ -1050,7 +1130,8 @@
       "image_url": "https://www.serebii.net/card/generations/80.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/080.jpg"
     },
     {
       "id": "generations-81",
@@ -1064,7 +1145,8 @@
       "image_url": "https://www.serebii.net/card/generations/81.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/081.jpg"
     },
     {
       "id": "generations-82",
@@ -1078,7 +1160,8 @@
       "image_url": "https://www.serebii.net/card/generations/82.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/082.jpg"
     },
     {
       "id": "generations-83",
@@ -1092,7 +1175,8 @@
       "image_url": "https://www.serebii.net/card/generations/83.jpg",
       "keywords": [
         "basic-energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/generations/083.jpg"
     }
   ]
 }

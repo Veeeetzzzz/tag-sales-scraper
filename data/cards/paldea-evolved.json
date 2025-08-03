@@ -3,17 +3,18 @@
     "name": "Paldea Evolved",
     "description": "Pokemon Paldea Evolved expansion set - Complete 279 card set with ex cards and special variants",
     "lastUpdated": "2024/06/01",
-    "setCode": "SV2",
+    "setCode": "PAL",
     "totalCards": 279,
     "releaseDate": "2023/06/09",
-    "tagSales": 1342
+    "tagSales": 1342,
+    "logo": "https://www.serebii.net/card/logo/paldeaevolved.png"
   },
   "cards": [
     {
       "id": "sv2-001",
       "name": "Hoppip",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "001",
       "fullNumber": "001/193",
       "rarity": "Common",
@@ -29,13 +30,13 @@
         "Paldea Evolved Hoppip",
         "Paldea Hoppip"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/001.jpg"
     },
     {
       "id": "sv2-002",
       "name": "Skiploom",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "002",
       "fullNumber": "002/193",
       "rarity": "Uncommon",
@@ -51,13 +52,13 @@
         "Paldea Evolved Skiploom",
         "Paldea Skiploom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/002.jpg"
     },
     {
       "id": "sv2-003",
       "name": "Jumpluff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "003",
       "fullNumber": "003/193",
       "rarity": "Rare",
@@ -73,13 +74,13 @@
         "Paldea Evolved Jumpluff",
         "Paldea Jumpluff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/003.jpg"
     },
     {
       "id": "sv2-004",
       "name": "Pineco",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "004",
       "fullNumber": "004/193",
       "rarity": "Common",
@@ -95,13 +96,13 @@
         "Paldea Evolved Pineco",
         "Paldea Pineco"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/004.jpg"
     },
     {
       "id": "sv2-005",
       "name": "Forretress ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "005",
       "fullNumber": "005/193",
       "rarity": "Double Rare",
@@ -120,13 +121,13 @@
         "Paldea Forretress ex",
         "Paldea Forretress"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/005.jpg"
     },
     {
       "id": "sv2-006",
       "name": "Heracross",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "006",
       "fullNumber": "006/193",
       "rarity": "Uncommon",
@@ -142,13 +143,13 @@
         "Paldea Evolved Heracross",
         "Paldea Heracross"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/006.jpg"
     },
     {
       "id": "sv2-007",
       "name": "Tropius",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "007",
       "fullNumber": "007/193",
       "rarity": "Common",
@@ -164,13 +165,13 @@
         "Paldea Evolved Tropius",
         "Paldea Tropius"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/007.jpg"
     },
     {
       "id": "sv2-008",
       "name": "Combee",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "008",
       "fullNumber": "008/193",
       "rarity": "Common",
@@ -186,13 +187,13 @@
         "Paldea Evolved Combee",
         "Paldea Combee"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/008.jpg"
     },
     {
       "id": "sv2-009",
       "name": "Vespiquen",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "009",
       "fullNumber": "009/193",
       "rarity": "Uncommon",
@@ -208,13 +209,13 @@
         "Paldea Evolved Vespiquen",
         "Paldea Vespiquen"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/009.jpg"
     },
     {
       "id": "sv2-010",
       "name": "Snover",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "010",
       "fullNumber": "010/193",
       "rarity": "Common",
@@ -230,13 +231,13 @@
         "Paldea Evolved Snover",
         "Paldea Snover"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/010.jpg"
     },
     {
       "id": "sv2-011",
       "name": "Abomasnow",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "011",
       "fullNumber": "011/193",
       "rarity": "Rare",
@@ -252,13 +253,13 @@
         "Paldea Evolved Abomasnow",
         "Paldea Abomasnow"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/011.jpg"
     },
     {
       "id": "sv2-012",
       "name": "Sprigatito",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "012",
       "fullNumber": "012/193",
       "rarity": "Common",
@@ -274,13 +275,13 @@
         "Paldea Evolved Sprigatito",
         "Paldea Sprigatito"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/012.jpg"
     },
     {
       "id": "sv2-013",
       "name": "Sprigatito",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "013",
       "fullNumber": "013/193",
       "rarity": "Common",
@@ -296,13 +297,13 @@
         "Paldea Evolved Sprigatito",
         "Paldea Sprigatito"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/013.jpg"
     },
     {
       "id": "sv2-014",
       "name": "Floragato",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "014",
       "fullNumber": "014/193",
       "rarity": "Uncommon",
@@ -318,13 +319,13 @@
         "Paldea Evolved Floragato",
         "Paldea Floragato"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/014.jpg"
     },
     {
       "id": "sv2-015",
       "name": "Meowscarada ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "015",
       "fullNumber": "015/193",
       "rarity": "Double Rare",
@@ -343,13 +344,13 @@
         "Paldea Meowscarada ex",
         "Paldea Meowscarada"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/015.jpg"
     },
     {
       "id": "sv2-016",
       "name": "Tarountula",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "016",
       "fullNumber": "016/193",
       "rarity": "Common",
@@ -365,13 +366,13 @@
         "Paldea Evolved Tarountula",
         "Paldea Tarountula"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/016.jpg"
     },
     {
       "id": "sv2-017",
       "name": "Tarountula",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "017",
       "fullNumber": "017/193",
       "rarity": "Common",
@@ -387,13 +388,13 @@
         "Paldea Evolved Tarountula",
         "Paldea Tarountula"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/017.jpg"
     },
     {
       "id": "sv2-018",
       "name": "Spidops",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "018",
       "fullNumber": "018/193",
       "rarity": "Uncommon",
@@ -409,13 +410,13 @@
         "Paldea Evolved Spidops",
         "Paldea Spidops"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/018.jpg"
     },
     {
       "id": "sv2-019",
       "name": "Nymble",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "019",
       "fullNumber": "019/193",
       "rarity": "Common",
@@ -431,13 +432,13 @@
         "Paldea Evolved Nymble",
         "Paldea Nymble"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/019.jpg"
     },
     {
       "id": "sv2-020",
       "name": "Nymble",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "020",
       "fullNumber": "020/193",
       "rarity": "Common",
@@ -453,13 +454,13 @@
         "Paldea Evolved Nymble",
         "Paldea Nymble"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/020.jpg"
     },
     {
       "id": "sv2-021",
       "name": "Lokix",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "021",
       "fullNumber": "021/193",
       "rarity": "Rare",
@@ -475,13 +476,13 @@
         "Paldea Evolved Lokix",
         "Paldea Lokix"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/021.jpg"
     },
     {
       "id": "sv2-022",
       "name": "Bramblin",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "022",
       "fullNumber": "022/193",
       "rarity": "Common",
@@ -497,13 +498,13 @@
         "Paldea Evolved Bramblin",
         "Paldea Bramblin"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/022.jpg"
     },
     {
       "id": "sv2-023",
       "name": "Bramblin",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "023",
       "fullNumber": "023/193",
       "rarity": "Common",
@@ -519,13 +520,13 @@
         "Paldea Evolved Bramblin",
         "Paldea Bramblin"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/023.jpg"
     },
     {
       "id": "sv2-024",
       "name": "Brambleghast",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "024",
       "fullNumber": "024/193",
       "rarity": "Uncommon",
@@ -541,13 +542,13 @@
         "Paldea Evolved Brambleghast",
         "Paldea Brambleghast"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/024.jpg"
     },
     {
       "id": "sv2-025",
       "name": "Rellor",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "025",
       "fullNumber": "025/193",
       "rarity": "Common",
@@ -563,13 +564,13 @@
         "Paldea Evolved Rellor",
         "Paldea Rellor"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/025.jpg"
     },
     {
       "id": "sv2-026",
       "name": "Rellor",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "026",
       "fullNumber": "026/193",
       "rarity": "Common",
@@ -585,13 +586,13 @@
         "Paldea Evolved Rellor",
         "Paldea Rellor"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/026.jpg"
     },
     {
       "id": "sv2-027",
       "name": "Wo-Chien ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "027",
       "fullNumber": "027/193",
       "rarity": "Double Rare",
@@ -610,13 +611,13 @@
         "Paldea Wo-Chien ex",
         "Paldea Wo-Chien"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/027.jpg"
     },
     {
       "id": "sv2-028",
       "name": "Paldean Tauros",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "028",
       "fullNumber": "028/193",
       "rarity": "Uncommon",
@@ -632,13 +633,13 @@
         "Paldea Evolved Paldean Tauros",
         "Paldea Paldean Tauros"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/028.jpg"
     },
     {
       "id": "sv2-029",
       "name": "Fletchinder",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "029",
       "fullNumber": "029/193",
       "rarity": "Uncommon",
@@ -654,13 +655,13 @@
         "Paldea Evolved Fletchinder",
         "Paldea Fletchinder"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/029.jpg"
     },
     {
       "id": "sv2-030",
       "name": "Talonflame",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "030",
       "fullNumber": "030/193",
       "rarity": "Uncommon",
@@ -676,13 +677,13 @@
         "Paldea Evolved Talonflame",
         "Paldea Talonflame"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/030.jpg"
     },
     {
       "id": "sv2-031",
       "name": "Litleo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "031",
       "fullNumber": "031/193",
       "rarity": "Common",
@@ -698,13 +699,13 @@
         "Paldea Evolved Litleo",
         "Paldea Litleo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/031.jpg"
     },
     {
       "id": "sv2-032",
       "name": "Pyroar",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "032",
       "fullNumber": "032/193",
       "rarity": "Uncommon",
@@ -720,13 +721,13 @@
         "Paldea Evolved Pyroar",
         "Paldea Pyroar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/032.jpg"
     },
     {
       "id": "sv2-033",
       "name": "Oricorio",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "033",
       "fullNumber": "033/193",
       "rarity": "Rare",
@@ -742,13 +743,13 @@
         "Paldea Evolved Oricorio",
         "Paldea Oricorio"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/033.jpg"
     },
     {
       "id": "sv2-034",
       "name": "Fuecoco",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "034",
       "fullNumber": "034/193",
       "rarity": "Common",
@@ -764,13 +765,13 @@
         "Paldea Evolved Fuecoco",
         "Paldea Fuecoco"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/034.jpg"
     },
     {
       "id": "sv2-035",
       "name": "Fuecoco",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "035",
       "fullNumber": "035/193",
       "rarity": "Common",
@@ -786,13 +787,13 @@
         "Paldea Evolved Fuecoco",
         "Paldea Fuecoco"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/035.jpg"
     },
     {
       "id": "sv2-036",
       "name": "Crocalor",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "036",
       "fullNumber": "036/193",
       "rarity": "Uncommon",
@@ -808,13 +809,13 @@
         "Paldea Evolved Crocalor",
         "Paldea Crocalor"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/036.jpg"
     },
     {
       "id": "sv2-037",
       "name": "Skeledirge ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "037",
       "fullNumber": "037/193",
       "rarity": "Double Rare",
@@ -833,13 +834,13 @@
         "Paldea Skeledirge ex",
         "Paldea Skeledirge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/037.jpg"
     },
     {
       "id": "sv2-038",
       "name": "Charcadet",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "038",
       "fullNumber": "038/193",
       "rarity": "Common",
@@ -855,13 +856,13 @@
         "Paldea Evolved Charcadet",
         "Paldea Charcadet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/038.jpg"
     },
     {
       "id": "sv2-039",
       "name": "Charcadet",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "039",
       "fullNumber": "039/193",
       "rarity": "Common",
@@ -877,13 +878,13 @@
         "Paldea Evolved Charcadet",
         "Paldea Charcadet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/039.jpg"
     },
     {
       "id": "sv2-040",
       "name": "Chi-Yu ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "040",
       "fullNumber": "040/193",
       "rarity": "Double Rare",
@@ -902,13 +903,13 @@
         "Paldea Chi-Yu ex",
         "Paldea Chi-Yu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/040.jpg"
     },
     {
       "id": "sv2-041",
       "name": "Paldean Tauros",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "041",
       "fullNumber": "041/193",
       "rarity": "Uncommon",
@@ -924,13 +925,13 @@
         "Paldea Evolved Paldean Tauros",
         "Paldea Paldean Tauros"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/041.jpg"
     },
     {
       "id": "sv2-042",
       "name": "Magikarp",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "042",
       "fullNumber": "042/193",
       "rarity": "Common",
@@ -946,13 +947,13 @@
         "Paldea Evolved Magikarp",
         "Paldea Magikarp"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/042.jpg"
     },
     {
       "id": "sv2-043",
       "name": "Gyarados",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "043",
       "fullNumber": "043/193",
       "rarity": "Rare",
@@ -968,13 +969,13 @@
         "Paldea Evolved Gyarados",
         "Paldea Gyarados"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/043.jpg"
     },
     {
       "id": "sv2-044",
       "name": "Marill",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "044",
       "fullNumber": "044/193",
       "rarity": "Common",
@@ -990,13 +991,13 @@
         "Paldea Evolved Marill",
         "Paldea Marill"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/044.jpg"
     },
     {
       "id": "sv2-045",
       "name": "Azumarill",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "045",
       "fullNumber": "045/193",
       "rarity": "Uncommon",
@@ -1012,13 +1013,13 @@
         "Paldea Evolved Azumarill",
         "Paldea Azumarill"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/045.jpg"
     },
     {
       "id": "sv2-046",
       "name": "Delibird",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "046",
       "fullNumber": "046/193",
       "rarity": "Common",
@@ -1034,13 +1035,13 @@
         "Paldea Evolved Delibird",
         "Paldea Delibird"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/046.jpg"
     },
     {
       "id": "sv2-047",
       "name": "Luvdisc",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "047",
       "fullNumber": "047/193",
       "rarity": "Common",
@@ -1056,13 +1057,13 @@
         "Paldea Evolved Luvdisc",
         "Paldea Luvdisc"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/047.jpg"
     },
     {
       "id": "sv2-048",
       "name": "Eiscue",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "048",
       "fullNumber": "048/193",
       "rarity": "Uncommon",
@@ -1078,13 +1079,13 @@
         "Paldea Evolved Eiscue",
         "Paldea Eiscue"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/048.jpg"
     },
     {
       "id": "sv2-049",
       "name": "Quaxly",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "049",
       "fullNumber": "049/193",
       "rarity": "Common",
@@ -1100,13 +1101,13 @@
         "Paldea Evolved Quaxly",
         "Paldea Quaxly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/049.jpg"
     },
     {
       "id": "sv2-050",
       "name": "Quaxly",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "050",
       "fullNumber": "050/193",
       "rarity": "Common",
@@ -1122,13 +1123,13 @@
         "Paldea Evolved Quaxly",
         "Paldea Quaxly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/050.jpg"
     },
     {
       "id": "sv2-051",
       "name": "Quaxwell",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "051",
       "fullNumber": "051/193",
       "rarity": "Uncommon",
@@ -1144,13 +1145,13 @@
         "Paldea Evolved Quaxwell",
         "Paldea Quaxwell"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/051.jpg"
     },
     {
       "id": "sv2-052",
       "name": "Quaquaval ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "052",
       "fullNumber": "052/193",
       "rarity": "Double Rare",
@@ -1169,13 +1170,13 @@
         "Paldea Quaquaval ex",
         "Paldea Quaquaval"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/052.jpg"
     },
     {
       "id": "sv2-053",
       "name": "Cetoddle",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "053",
       "fullNumber": "053/193",
       "rarity": "Common",
@@ -1191,13 +1192,13 @@
         "Paldea Evolved Cetoddle",
         "Paldea Cetoddle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/053.jpg"
     },
     {
       "id": "sv2-054",
       "name": "Cetoddle",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "054",
       "fullNumber": "054/193",
       "rarity": "Common",
@@ -1213,13 +1214,13 @@
         "Paldea Evolved Cetoddle",
         "Paldea Cetoddle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/054.jpg"
     },
     {
       "id": "sv2-055",
       "name": "Cetitan",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "055",
       "fullNumber": "055/193",
       "rarity": "Uncommon",
@@ -1235,13 +1236,13 @@
         "Paldea Evolved Cetitan",
         "Paldea Cetitan"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/055.jpg"
     },
     {
       "id": "sv2-056",
       "name": "Veluza",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "056",
       "fullNumber": "056/193",
       "rarity": "Rare",
@@ -1257,13 +1258,13 @@
         "Paldea Evolved Veluza",
         "Paldea Veluza"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/056.jpg"
     },
     {
       "id": "sv2-057",
       "name": "Frigibax",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "057",
       "fullNumber": "057/193",
       "rarity": "Common",
@@ -1279,13 +1280,13 @@
         "Paldea Evolved Frigibax",
         "Paldea Frigibax"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/057.jpg"
     },
     {
       "id": "sv2-058",
       "name": "Frigibax",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "058",
       "fullNumber": "058/193",
       "rarity": "Common",
@@ -1301,13 +1302,13 @@
         "Paldea Evolved Frigibax",
         "Paldea Frigibax"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/058.jpg"
     },
     {
       "id": "sv2-059",
       "name": "Arctibax",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "059",
       "fullNumber": "059/193",
       "rarity": "Uncommon",
@@ -1323,13 +1324,13 @@
         "Paldea Evolved Arctibax",
         "Paldea Arctibax"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/059.jpg"
     },
     {
       "id": "sv2-060",
       "name": "Baxcalibur",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "060",
       "fullNumber": "060/193",
       "rarity": "Rare",
@@ -1345,13 +1346,13 @@
         "Paldea Evolved Baxcalibur",
         "Paldea Baxcalibur"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/060.jpg"
     },
     {
       "id": "sv2-061",
       "name": "Chien-Pao ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "061",
       "fullNumber": "061/193",
       "rarity": "Double Rare",
@@ -1370,13 +1371,13 @@
         "Paldea Chien-Pao ex",
         "Paldea Chien-Pao"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/061.jpg"
     },
     {
       "id": "sv2-062",
       "name": "Pikachu",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "062",
       "fullNumber": "062/193",
       "rarity": "Common",
@@ -1392,13 +1393,13 @@
         "Paldea Evolved Pikachu",
         "Paldea Pikachu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/062.jpg"
     },
     {
       "id": "sv2-063",
       "name": "Pikachu ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "063",
       "fullNumber": "063/193",
       "rarity": "Double Rare",
@@ -1417,13 +1418,13 @@
         "Paldea Pikachu ex",
         "Paldea Pikachu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/063.jpg"
     },
     {
       "id": "sv2-064",
       "name": "Raichu",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "064",
       "fullNumber": "064/193",
       "rarity": "Uncommon",
@@ -1439,13 +1440,13 @@
         "Paldea Evolved Raichu",
         "Paldea Raichu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/064.jpg"
     },
     {
       "id": "sv2-065",
       "name": "Magnemite",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "065",
       "fullNumber": "065/193",
       "rarity": "Common",
@@ -1461,13 +1462,13 @@
         "Paldea Evolved Magnemite",
         "Paldea Magnemite"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/065.jpg"
     },
     {
       "id": "sv2-066",
       "name": "Voltorb",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "066",
       "fullNumber": "066/193",
       "rarity": "Common",
@@ -1483,13 +1484,13 @@
         "Paldea Evolved Voltorb",
         "Paldea Voltorb"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/066.jpg"
     },
     {
       "id": "sv2-067",
       "name": "Electrode",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "067",
       "fullNumber": "067/193",
       "rarity": "Uncommon",
@@ -1505,13 +1506,13 @@
         "Paldea Evolved Electrode",
         "Paldea Electrode"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/067.jpg"
     },
     {
       "id": "sv2-068",
       "name": "Shinx",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "068",
       "fullNumber": "068/193",
       "rarity": "Common",
@@ -1527,13 +1528,13 @@
         "Paldea Evolved Shinx",
         "Paldea Shinx"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/068.jpg"
     },
     {
       "id": "sv2-069",
       "name": "Shinx",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "069",
       "fullNumber": "069/193",
       "rarity": "Common",
@@ -1549,13 +1550,13 @@
         "Paldea Evolved Shinx",
         "Paldea Shinx"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/069.jpg"
     },
     {
       "id": "sv2-070",
       "name": "Luxio",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "070",
       "fullNumber": "070/193",
       "rarity": "Uncommon",
@@ -1571,13 +1572,13 @@
         "Paldea Evolved Luxio",
         "Paldea Luxio"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/070.jpg"
     },
     {
       "id": "sv2-071",
       "name": "Luxray",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "071",
       "fullNumber": "071/193",
       "rarity": "Rare",
@@ -1593,13 +1594,13 @@
         "Paldea Evolved Luxray",
         "Paldea Luxray"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/071.jpg"
     },
     {
       "id": "sv2-072",
       "name": "Pincurchin",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "072",
       "fullNumber": "072/193",
       "rarity": "Common",
@@ -1615,13 +1616,13 @@
         "Paldea Evolved Pincurchin",
         "Paldea Pincurchin"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/072.jpg"
     },
     {
       "id": "sv2-073",
       "name": "Pincurchin",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "073",
       "fullNumber": "073/193",
       "rarity": "Uncommon",
@@ -1637,13 +1638,13 @@
         "Paldea Evolved Pincurchin",
         "Paldea Pincurchin"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/073.jpg"
     },
     {
       "id": "sv2-074",
       "name": "Pawmi",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "074",
       "fullNumber": "074/193",
       "rarity": "Common",
@@ -1659,13 +1660,13 @@
         "Paldea Evolved Pawmi",
         "Paldea Pawmi"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/074.jpg"
     },
     {
       "id": "sv2-075",
       "name": "Pawmo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "075",
       "fullNumber": "075/193",
       "rarity": "Uncommon",
@@ -1681,13 +1682,13 @@
         "Paldea Evolved Pawmo",
         "Paldea Pawmo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/075.jpg"
     },
     {
       "id": "sv2-076",
       "name": "Pawmot",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "076",
       "fullNumber": "076/193",
       "rarity": "Rare",
@@ -1703,13 +1704,13 @@
         "Paldea Evolved Pawmot",
         "Paldea Pawmot"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/076.jpg"
     },
     {
       "id": "sv2-077",
       "name": "Tadbulb",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "077",
       "fullNumber": "077/193",
       "rarity": "Common",
@@ -1725,13 +1726,13 @@
         "Paldea Evolved Tadbulb",
         "Paldea Tadbulb"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/077.jpg"
     },
     {
       "id": "sv2-078",
       "name": "Tadbulb",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "078",
       "fullNumber": "078/193",
       "rarity": "Common",
@@ -1747,13 +1748,13 @@
         "Paldea Evolved Tadbulb",
         "Paldea Tadbulb"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/078.jpg"
     },
     {
       "id": "sv2-079",
       "name": "Bellibolt ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "079",
       "fullNumber": "079/193",
       "rarity": "Double Rare",
@@ -1772,13 +1773,13 @@
         "Paldea Bellibolt ex",
         "Paldea Bellibolt"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/079.jpg"
     },
     {
       "id": "sv2-080",
       "name": "Wattrel",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "080",
       "fullNumber": "080/193",
       "rarity": "Common",
@@ -1794,13 +1795,13 @@
         "Paldea Evolved Wattrel",
         "Paldea Wattrel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/080.jpg"
     },
     {
       "id": "sv2-081",
       "name": "Wattrel",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "081",
       "fullNumber": "081/193",
       "rarity": "Common",
@@ -1816,13 +1817,13 @@
         "Paldea Evolved Wattrel",
         "Paldea Wattrel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/081.jpg"
     },
     {
       "id": "sv2-082",
       "name": "Kilowattrel",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "082",
       "fullNumber": "082/193",
       "rarity": "Uncommon",
@@ -1838,13 +1839,13 @@
         "Paldea Evolved Kilowattrel",
         "Paldea Kilowattrel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/082.jpg"
     },
     {
       "id": "sv2-083",
       "name": "Jigglypuff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "083",
       "fullNumber": "083/193",
       "rarity": "Common",
@@ -1860,13 +1861,13 @@
         "Paldea Evolved Jigglypuff",
         "Paldea Jigglypuff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/083.jpg"
     },
     {
       "id": "sv2-084",
       "name": "Wigglytuff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "084",
       "fullNumber": "084/193",
       "rarity": "Rare",
@@ -1882,13 +1883,13 @@
         "Paldea Evolved Wigglytuff",
         "Paldea Wigglytuff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/084.jpg"
     },
     {
       "id": "sv2-085",
       "name": "Slowpoke",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "085",
       "fullNumber": "085/193",
       "rarity": "Common",
@@ -1904,13 +1905,13 @@
         "Paldea Evolved Slowpoke",
         "Paldea Slowpoke"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/085.jpg"
     },
     {
       "id": "sv2-086",
       "name": "Slowking ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "086",
       "fullNumber": "086/193",
       "rarity": "Double Rare",
@@ -1929,13 +1930,13 @@
         "Paldea Slowking ex",
         "Paldea Slowking"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/086.jpg"
     },
     {
       "id": "sv2-087",
       "name": "Misdreavus",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "087",
       "fullNumber": "087/193",
       "rarity": "Common",
@@ -1951,13 +1952,13 @@
         "Paldea Evolved Misdreavus",
         "Paldea Misdreavus"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/087.jpg"
     },
     {
       "id": "sv2-088",
       "name": "Mismagius",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "088",
       "fullNumber": "088/193",
       "rarity": "Uncommon",
@@ -1973,13 +1974,13 @@
         "Paldea Evolved Mismagius",
         "Paldea Mismagius"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/088.jpg"
     },
     {
       "id": "sv2-089",
       "name": "Spiritomb",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "089",
       "fullNumber": "089/193",
       "rarity": "Rare",
@@ -1995,13 +1996,13 @@
         "Paldea Evolved Spiritomb",
         "Paldea Spiritomb"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/089.jpg"
     },
     {
       "id": "sv2-090",
       "name": "Gothita",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "090",
       "fullNumber": "090/193",
       "rarity": "Common",
@@ -2017,13 +2018,13 @@
         "Paldea Evolved Gothita",
         "Paldea Gothita"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/090.jpg"
     },
     {
       "id": "sv2-091",
       "name": "Gothorita",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "091",
       "fullNumber": "091/193",
       "rarity": "Uncommon",
@@ -2039,13 +2040,13 @@
         "Paldea Evolved Gothorita",
         "Paldea Gothorita"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/091.jpg"
     },
     {
       "id": "sv2-092",
       "name": "Gothitelle",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "092",
       "fullNumber": "092/193",
       "rarity": "Uncommon",
@@ -2061,13 +2062,13 @@
         "Paldea Evolved Gothitelle",
         "Paldea Gothitelle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/092.jpg"
     },
     {
       "id": "sv2-093",
       "name": "Dedenne ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "093",
       "fullNumber": "093/193",
       "rarity": "Double Rare",
@@ -2086,13 +2087,13 @@
         "Paldea Dedenne ex",
         "Paldea Dedenne"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/093.jpg"
     },
     {
       "id": "sv2-094",
       "name": "Oranguru",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "094",
       "fullNumber": "094/193",
       "rarity": "Uncommon",
@@ -2108,13 +2109,13 @@
         "Paldea Evolved Oranguru",
         "Paldea Oranguru"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/094.jpg"
     },
     {
       "id": "sv2-095",
       "name": "Sandygast",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "095",
       "fullNumber": "095/193",
       "rarity": "Common",
@@ -2130,13 +2131,13 @@
         "Paldea Evolved Sandygast",
         "Paldea Sandygast"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/095.jpg"
     },
     {
       "id": "sv2-096",
       "name": "Palossand",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "096",
       "fullNumber": "096/193",
       "rarity": "Uncommon",
@@ -2152,13 +2153,13 @@
         "Paldea Evolved Palossand",
         "Paldea Palossand"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/096.jpg"
     },
     {
       "id": "sv2-097",
       "name": "Mimikyu",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "097",
       "fullNumber": "097/193",
       "rarity": "Rare",
@@ -2174,13 +2175,13 @@
         "Paldea Evolved Mimikyu",
         "Paldea Mimikyu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/097.jpg"
     },
     {
       "id": "sv2-098",
       "name": "Ceruledge",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "098",
       "fullNumber": "098/193",
       "rarity": "Rare",
@@ -2196,13 +2197,13 @@
         "Paldea Evolved Ceruledge",
         "Paldea Ceruledge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/098.jpg"
     },
     {
       "id": "sv2-099",
       "name": "Rabsca",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "099",
       "fullNumber": "099/193",
       "rarity": "Rare",
@@ -2218,13 +2219,13 @@
         "Paldea Evolved Rabsca",
         "Paldea Rabsca"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/099.jpg"
     },
     {
       "id": "sv2-100",
       "name": "Tinkatink",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "100",
       "fullNumber": "100/193",
       "rarity": "Common",
@@ -2238,13 +2239,13 @@
         "Paldea Evolved Tinkatink",
         "Paldea Tinkatink"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/100.jpg"
     },
     {
       "id": "sv2-101",
       "name": "Tinkatink",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "101",
       "fullNumber": "101/193",
       "rarity": "Common",
@@ -2258,13 +2259,13 @@
         "Paldea Evolved Tinkatink",
         "Paldea Tinkatink"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/101.jpg"
     },
     {
       "id": "sv2-102",
       "name": "Tinkatink",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "102",
       "fullNumber": "102/193",
       "rarity": "Common",
@@ -2278,13 +2279,13 @@
         "Paldea Evolved Tinkatink",
         "Paldea Tinkatink"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/102.jpg"
     },
     {
       "id": "sv2-103",
       "name": "Tinkatuff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "103",
       "fullNumber": "103/193",
       "rarity": "Uncommon",
@@ -2298,13 +2299,13 @@
         "Paldea Evolved Tinkatuff",
         "Paldea Tinkatuff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/103.jpg"
     },
     {
       "id": "sv2-104",
       "name": "Tinkatuff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "104",
       "fullNumber": "104/193",
       "rarity": "Uncommon",
@@ -2318,13 +2319,13 @@
         "Paldea Evolved Tinkatuff",
         "Paldea Tinkatuff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/104.jpg"
     },
     {
       "id": "sv2-105",
       "name": "Tinkaton",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "105",
       "fullNumber": "105/193",
       "rarity": "Rare",
@@ -2338,13 +2339,13 @@
         "Paldea Evolved Tinkaton",
         "Paldea Tinkaton"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/105.jpg"
     },
     {
       "id": "sv2-106",
       "name": "Mankey",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "106",
       "fullNumber": "106/193",
       "rarity": "Common",
@@ -2358,13 +2359,13 @@
         "Paldea Evolved Mankey",
         "Paldea Mankey"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/106.jpg"
     },
     {
       "id": "sv2-107",
       "name": "Primeape",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "107",
       "fullNumber": "107/193",
       "rarity": "Uncommon",
@@ -2378,13 +2379,13 @@
         "Paldea Evolved Primeape",
         "Paldea Primeape"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/107.jpg"
     },
     {
       "id": "sv2-108",
       "name": "Paldean Tauros",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "108",
       "fullNumber": "108/193",
       "rarity": "Uncommon",
@@ -2398,13 +2399,13 @@
         "Paldea Evolved Paldean Tauros",
         "Paldea Paldean Tauros"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/108.jpg"
     },
     {
       "id": "sv2-109",
       "name": "Sudowoodo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "109",
       "fullNumber": "109/193",
       "rarity": "Uncommon",
@@ -2418,13 +2419,13 @@
         "Paldea Evolved Sudowoodo",
         "Paldea Sudowoodo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/109.jpg"
     },
     {
       "id": "sv2-110",
       "name": "Larvitar",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "110",
       "fullNumber": "110/193",
       "rarity": "Common",
@@ -2438,13 +2439,13 @@
         "Paldea Evolved Larvitar",
         "Paldea Larvitar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/110.jpg"
     },
     {
       "id": "sv2-111",
       "name": "Pupitar",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "111",
       "fullNumber": "111/193",
       "rarity": "Uncommon",
@@ -2458,13 +2459,13 @@
         "Paldea Evolved Pupitar",
         "Paldea Pupitar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/111.jpg"
     },
     {
       "id": "sv2-112",
       "name": "Makuhita",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "112",
       "fullNumber": "112/193",
       "rarity": "Common",
@@ -2478,13 +2479,13 @@
         "Paldea Evolved Makuhita",
         "Paldea Makuhita"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/112.jpg"
     },
     {
       "id": "sv2-113",
       "name": "Hariyama",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "113",
       "fullNumber": "113/193",
       "rarity": "Rare",
@@ -2498,13 +2499,13 @@
         "Paldea Evolved Hariyama",
         "Paldea Hariyama"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/113.jpg"
     },
     {
       "id": "sv2-114",
       "name": "Croagunk",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "114",
       "fullNumber": "114/193",
       "rarity": "Common",
@@ -2518,13 +2519,13 @@
         "Paldea Evolved Croagunk",
         "Paldea Croagunk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/114.jpg"
     },
     {
       "id": "sv2-115",
       "name": "Toxicroak",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "115",
       "fullNumber": "115/193",
       "rarity": "Uncommon",
@@ -2538,13 +2539,13 @@
         "Paldea Evolved Toxicroak",
         "Paldea Toxicroak"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/115.jpg"
     },
     {
       "id": "sv2-116",
       "name": "Rockruff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "116",
       "fullNumber": "116/193",
       "rarity": "Common",
@@ -2558,13 +2559,13 @@
         "Paldea Evolved Rockruff",
         "Paldea Rockruff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/116.jpg"
     },
     {
       "id": "sv2-117",
       "name": "Lycanroc ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "117",
       "fullNumber": "117/193",
       "rarity": "Double Rare",
@@ -2581,13 +2582,13 @@
         "Paldea Lycanroc ex",
         "Paldea Lycanroc"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/117.jpg"
     },
     {
       "id": "sv2-118",
       "name": "Passimian",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "118",
       "fullNumber": "118/193",
       "rarity": "Uncommon",
@@ -2601,13 +2602,13 @@
         "Paldea Evolved Passimian",
         "Paldea Passimian"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/118.jpg"
     },
     {
       "id": "sv2-119",
       "name": "Falinks",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "119",
       "fullNumber": "119/193",
       "rarity": "Common",
@@ -2621,13 +2622,13 @@
         "Paldea Evolved Falinks",
         "Paldea Falinks"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/119.jpg"
     },
     {
       "id": "sv2-120",
       "name": "Nacli",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "120",
       "fullNumber": "120/193",
       "rarity": "Common",
@@ -2641,13 +2642,13 @@
         "Paldea Evolved Nacli",
         "Paldea Nacli"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/120.jpg"
     },
     {
       "id": "sv2-121",
       "name": "Nacli",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "121",
       "fullNumber": "121/193",
       "rarity": "Common",
@@ -2661,13 +2662,13 @@
         "Paldea Evolved Nacli",
         "Paldea Nacli"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/121.jpg"
     },
     {
       "id": "sv2-122",
       "name": "Naclstack",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "122",
       "fullNumber": "122/193",
       "rarity": "Uncommon",
@@ -2681,13 +2682,13 @@
         "Paldea Evolved Naclstack",
         "Paldea Naclstack"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/122.jpg"
     },
     {
       "id": "sv2-123",
       "name": "Garganacl",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "123",
       "fullNumber": "123/193",
       "rarity": "Rare",
@@ -2701,13 +2702,13 @@
         "Paldea Evolved Garganacl",
         "Paldea Garganacl"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/123.jpg"
     },
     {
       "id": "sv2-124",
       "name": "Glimmet",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "124",
       "fullNumber": "124/193",
       "rarity": "Common",
@@ -2721,13 +2722,13 @@
         "Paldea Evolved Glimmet",
         "Paldea Glimmet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/124.jpg"
     },
     {
       "id": "sv2-125",
       "name": "Glimmet",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "125",
       "fullNumber": "125/193",
       "rarity": "Common",
@@ -2741,13 +2742,13 @@
         "Paldea Evolved Glimmet",
         "Paldea Glimmet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/125.jpg"
     },
     {
       "id": "sv2-126",
       "name": "Glimmora",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "126",
       "fullNumber": "126/193",
       "rarity": "Rare",
@@ -2761,13 +2762,13 @@
         "Paldea Evolved Glimmora",
         "Paldea Glimmora"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/126.jpg"
     },
     {
       "id": "sv2-127",
       "name": "Ting-Lu ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "127",
       "fullNumber": "127/193",
       "rarity": "Double Rare",
@@ -2784,13 +2785,13 @@
         "Paldea Ting-Lu ex",
         "Paldea Ting-Lu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/127.jpg"
     },
     {
       "id": "sv2-128",
       "name": "Paldean Wooper",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "128",
       "fullNumber": "128/193",
       "rarity": "Common",
@@ -2804,13 +2805,13 @@
         "Paldea Evolved Paldean Wooper",
         "Paldea Paldean Wooper"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/128.jpg"
     },
     {
       "id": "sv2-129",
       "name": "Paldean Wooper",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "129",
       "fullNumber": "129/193",
       "rarity": "Common",
@@ -2824,13 +2825,13 @@
         "Paldea Evolved Paldean Wooper",
         "Paldea Paldean Wooper"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/129.jpg"
     },
     {
       "id": "sv2-130",
       "name": "Paldean Clodsire ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "130",
       "fullNumber": "130/193",
       "rarity": "Double Rare",
@@ -2847,13 +2848,13 @@
         "Paldea Paldean Clodsire ex",
         "Paldea Paldean Clodsire"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/130.jpg"
     },
     {
       "id": "sv2-131",
       "name": "Murkrow",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "131",
       "fullNumber": "131/193",
       "rarity": "Common",
@@ -2867,13 +2868,13 @@
         "Paldea Evolved Murkrow",
         "Paldea Murkrow"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/131.jpg"
     },
     {
       "id": "sv2-132",
       "name": "Honchkrow",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "132",
       "fullNumber": "132/193",
       "rarity": "Uncommon",
@@ -2887,13 +2888,13 @@
         "Paldea Evolved Honchkrow",
         "Paldea Honchkrow"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/132.jpg"
     },
     {
       "id": "sv2-133",
       "name": "Sneasel",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "133",
       "fullNumber": "133/193",
       "rarity": "Common",
@@ -2907,13 +2908,13 @@
         "Paldea Evolved Sneasel",
         "Paldea Sneasel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/133.jpg"
     },
     {
       "id": "sv2-134",
       "name": "Weavile",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "134",
       "fullNumber": "134/193",
       "rarity": "Rare",
@@ -2927,13 +2928,13 @@
         "Paldea Evolved Weavile",
         "Paldea Weavile"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/134.jpg"
     },
     {
       "id": "sv2-135",
       "name": "Tyranitar",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "135",
       "fullNumber": "135/193",
       "rarity": "Rare",
@@ -2947,13 +2948,13 @@
         "Paldea Evolved Tyranitar",
         "Paldea Tyranitar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/135.jpg"
     },
     {
       "id": "sv2-136",
       "name": "Sableye",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "136",
       "fullNumber": "136/193",
       "rarity": "Rare",
@@ -2967,13 +2968,13 @@
         "Paldea Evolved Sableye",
         "Paldea Sableye"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/136.jpg"
     },
     {
       "id": "sv2-137",
       "name": "Seviper",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "137",
       "fullNumber": "137/193",
       "rarity": "Uncommon",
@@ -2987,13 +2988,13 @@
         "Paldea Evolved Seviper",
         "Paldea Seviper"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/137.jpg"
     },
     {
       "id": "sv2-138",
       "name": "Deino",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "138",
       "fullNumber": "138/193",
       "rarity": "Common",
@@ -3007,13 +3008,13 @@
         "Paldea Evolved Deino",
         "Paldea Deino"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/138.jpg"
     },
     {
       "id": "sv2-139",
       "name": "Zweilous",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "139",
       "fullNumber": "139/193",
       "rarity": "Uncommon",
@@ -3027,13 +3028,13 @@
         "Paldea Evolved Zweilous",
         "Paldea Zweilous"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/139.jpg"
     },
     {
       "id": "sv2-140",
       "name": "Hydreigon",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "140",
       "fullNumber": "140/193",
       "rarity": "Rare",
@@ -3047,13 +3048,13 @@
         "Paldea Evolved Hydreigon",
         "Paldea Hydreigon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/140.jpg"
     },
     {
       "id": "sv2-141",
       "name": "Maschiff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "141",
       "fullNumber": "141/193",
       "rarity": "Common",
@@ -3067,13 +3068,13 @@
         "Paldea Evolved Maschiff",
         "Paldea Maschiff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/141.jpg"
     },
     {
       "id": "sv2-142",
       "name": "Maschiff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "142",
       "fullNumber": "142/193",
       "rarity": "Common",
@@ -3087,13 +3088,13 @@
         "Paldea Evolved Maschiff",
         "Paldea Maschiff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/142.jpg"
     },
     {
       "id": "sv2-143",
       "name": "Mabosstiff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "143",
       "fullNumber": "143/193",
       "rarity": "Uncommon",
@@ -3107,13 +3108,13 @@
         "Paldea Evolved Mabosstiff",
         "Paldea Mabosstiff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/143.jpg"
     },
     {
       "id": "sv2-144",
       "name": "Shroodle",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "144",
       "fullNumber": "144/193",
       "rarity": "Common",
@@ -3127,13 +3128,13 @@
         "Paldea Evolved Shroodle",
         "Paldea Shroodle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/144.jpg"
     },
     {
       "id": "sv2-145",
       "name": "Shroodle",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "145",
       "fullNumber": "145/193",
       "rarity": "Common",
@@ -3147,13 +3148,13 @@
         "Paldea Evolved Shroodle",
         "Paldea Shroodle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/145.jpg"
     },
     {
       "id": "sv2-146",
       "name": "Grafaiai",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "146",
       "fullNumber": "146/193",
       "rarity": "Uncommon",
@@ -3167,13 +3168,13 @@
         "Paldea Evolved Grafaiai",
         "Paldea Grafaiai"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/146.jpg"
     },
     {
       "id": "sv2-147",
       "name": "Bombirdier",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "147",
       "fullNumber": "147/193",
       "rarity": "Uncommon",
@@ -3187,13 +3188,13 @@
         "Paldea Evolved Bombirdier",
         "Paldea Bombirdier"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/147.jpg"
     },
     {
       "id": "sv2-148",
       "name": "Corviknight",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "148",
       "fullNumber": "148/193",
       "rarity": "Uncommon",
@@ -3207,13 +3208,13 @@
         "Paldea Evolved Corviknight",
         "Paldea Corviknight"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/148.jpg"
     },
     {
       "id": "sv2-149",
       "name": "Cufant",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "149",
       "fullNumber": "149/193",
       "rarity": "Common",
@@ -3227,13 +3228,13 @@
         "Paldea Evolved Cufant",
         "Paldea Cufant"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/149.jpg"
     },
     {
       "id": "sv2-150",
       "name": "Copperajah ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "150",
       "fullNumber": "150/193",
       "rarity": "Double Rare",
@@ -3250,13 +3251,13 @@
         "Paldea Copperajah ex",
         "Paldea Copperajah"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/150.jpg"
     },
     {
       "id": "sv2-151",
       "name": "Orthworm",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "151",
       "fullNumber": "151/193",
       "rarity": "Rare",
@@ -3270,13 +3271,13 @@
         "Paldea Evolved Orthworm",
         "Paldea Orthworm"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/151.jpg"
     },
     {
       "id": "sv2-152",
       "name": "Noibat",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "152",
       "fullNumber": "152/193",
       "rarity": "Common",
@@ -3290,13 +3291,13 @@
         "Paldea Evolved Noibat",
         "Paldea Noibat"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/152.jpg"
     },
     {
       "id": "sv2-153",
       "name": "Noivern ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "153",
       "fullNumber": "153/193",
       "rarity": "Double Rare",
@@ -3313,13 +3314,13 @@
         "Paldea Noivern ex",
         "Paldea Noivern"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/153.jpg"
     },
     {
       "id": "sv2-154",
       "name": "Girafarig",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "154",
       "fullNumber": "154/193",
       "rarity": "Common",
@@ -3333,13 +3334,13 @@
         "Paldea Evolved Girafarig",
         "Paldea Girafarig"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/154.jpg"
     },
     {
       "id": "sv2-155",
       "name": "Farigiraf",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "155",
       "fullNumber": "155/193",
       "rarity": "Uncommon",
@@ -3353,13 +3354,13 @@
         "Paldea Evolved Farigiraf",
         "Paldea Farigiraf"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/155.jpg"
     },
     {
       "id": "sv2-156",
       "name": "Dunsparce",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "156",
       "fullNumber": "156/193",
       "rarity": "Common",
@@ -3373,13 +3374,13 @@
         "Paldea Evolved Dunsparce",
         "Paldea Dunsparce"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/156.jpg"
     },
     {
       "id": "sv2-157",
       "name": "Dudunsparce",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "157",
       "fullNumber": "157/193",
       "rarity": "Uncommon",
@@ -3393,13 +3394,13 @@
         "Paldea Evolved Dudunsparce",
         "Paldea Dudunsparce"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/157.jpg"
     },
     {
       "id": "sv2-158",
       "name": "Wingull",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "158",
       "fullNumber": "158/193",
       "rarity": "Common",
@@ -3413,13 +3414,13 @@
         "Paldea Evolved Wingull",
         "Paldea Wingull"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/158.jpg"
     },
     {
       "id": "sv2-159",
       "name": "Pelipper",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "159",
       "fullNumber": "159/193",
       "rarity": "Uncommon",
@@ -3433,13 +3434,13 @@
         "Paldea Evolved Pelipper",
         "Paldea Pelipper"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/159.jpg"
     },
     {
       "id": "sv2-160",
       "name": "Slakoth",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "160",
       "fullNumber": "160/193",
       "rarity": "Common",
@@ -3453,13 +3454,13 @@
         "Paldea Evolved Slakoth",
         "Paldea Slakoth"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/160.jpg"
     },
     {
       "id": "sv2-161",
       "name": "Vigoroth",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "161",
       "fullNumber": "161/193",
       "rarity": "Uncommon",
@@ -3473,13 +3474,13 @@
         "Paldea Evolved Vigoroth",
         "Paldea Vigoroth"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/161.jpg"
     },
     {
       "id": "sv2-162",
       "name": "Slaking",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "162",
       "fullNumber": "162/193",
       "rarity": "Rare",
@@ -3493,13 +3494,13 @@
         "Paldea Evolved Slaking",
         "Paldea Slaking"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/162.jpg"
     },
     {
       "id": "sv2-163",
       "name": "Fletchling",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "163",
       "fullNumber": "163/193",
       "rarity": "Common",
@@ -3513,13 +3514,13 @@
         "Paldea Evolved Fletchling",
         "Paldea Fletchling"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/163.jpg"
     },
     {
       "id": "sv2-164",
       "name": "Rookidee",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "164",
       "fullNumber": "164/193",
       "rarity": "Common",
@@ -3533,13 +3534,13 @@
         "Paldea Evolved Rookidee",
         "Paldea Rookidee"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/164.jpg"
     },
     {
       "id": "sv2-165",
       "name": "Corvisquire",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "165",
       "fullNumber": "165/193",
       "rarity": "Uncommon",
@@ -3553,13 +3554,13 @@
         "Paldea Evolved Corvisquire",
         "Paldea Corvisquire"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/165.jpg"
     },
     {
       "id": "sv2-166",
       "name": "Tandemaus",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "166",
       "fullNumber": "166/193",
       "rarity": "Common",
@@ -3573,13 +3574,13 @@
         "Paldea Evolved Tandemaus",
         "Paldea Tandemaus"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/166.jpg"
     },
     {
       "id": "sv2-167",
       "name": "Tandemaus",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "167",
       "fullNumber": "167/193",
       "rarity": "Common",
@@ -3593,13 +3594,13 @@
         "Paldea Evolved Tandemaus",
         "Paldea Tandemaus"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/167.jpg"
     },
     {
       "id": "sv2-168",
       "name": "Maushold",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "168",
       "fullNumber": "168/193",
       "rarity": "Uncommon",
@@ -3613,13 +3614,13 @@
         "Paldea Evolved Maushold",
         "Paldea Maushold"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/168.jpg"
     },
     {
       "id": "sv2-169",
       "name": "Squawkabilly ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "169",
       "fullNumber": "169/193",
       "rarity": "Double Rare",
@@ -3636,13 +3637,13 @@
         "Paldea Squawkabilly ex",
         "Paldea Squawkabilly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/169.jpg"
     },
     {
       "id": "sv2-170",
       "name": "Flamigo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "170",
       "fullNumber": "170/193",
       "rarity": "Uncommon",
@@ -3656,13 +3657,13 @@
         "Paldea Evolved Flamigo",
         "Paldea Flamigo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/170.jpg"
     },
     {
       "id": "sv2-171",
       "name": "Artazon",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "171",
       "fullNumber": "171/193",
       "rarity": "Uncommon",
@@ -3676,13 +3677,13 @@
         "Paldea Evolved Artazon",
         "Paldea Artazon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/171.jpg"
     },
     {
       "id": "sv2-172",
       "name": "Boss's Orders [Ghetsis]",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "172",
       "fullNumber": "172/193",
       "rarity": "Rare",
@@ -3696,13 +3697,13 @@
         "Paldea Evolved Boss's Orders [Ghetsis]",
         "Paldea Boss's Orders [Ghetsis]"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/172.jpg"
     },
     {
       "id": "sv2-173",
       "name": "Bravery Charm",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "173",
       "fullNumber": "173/193",
       "rarity": "Uncommon",
@@ -3716,13 +3717,13 @@
         "Paldea Evolved Bravery Charm",
         "Paldea Bravery Charm"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/173.jpg"
     },
     {
       "id": "sv2-174",
       "name": "Calamitous Snowy Mountain",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "174",
       "fullNumber": "174/193",
       "rarity": "Uncommon",
@@ -3736,13 +3737,13 @@
         "Paldea Evolved Calamitous Snowy Mountain",
         "Paldea Calamitous Snowy Mountain"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/174.jpg"
     },
     {
       "id": "sv2-175",
       "name": "Calamitous Wasteland",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "175",
       "fullNumber": "175/193",
       "rarity": "Uncommon",
@@ -3756,13 +3757,13 @@
         "Paldea Evolved Calamitous Wasteland",
         "Paldea Calamitous Wasteland"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/175.jpg"
     },
     {
       "id": "sv2-176",
       "name": "Choice Belt",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "176",
       "fullNumber": "176/193",
       "rarity": "Uncommon",
@@ -3776,13 +3777,13 @@
         "Paldea Evolved Choice Belt",
         "Paldea Choice Belt"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/176.jpg"
     },
     {
       "id": "sv2-177",
       "name": "Clavell",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "177",
       "fullNumber": "177/193",
       "rarity": "Common",
@@ -3796,13 +3797,13 @@
         "Paldea Evolved Clavell",
         "Paldea Clavell"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/177.jpg"
     },
     {
       "id": "sv2-178",
       "name": "Delivery Drone",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "178",
       "fullNumber": "178/193",
       "rarity": "Uncommon",
@@ -3816,13 +3817,13 @@
         "Paldea Evolved Delivery Drone",
         "Paldea Delivery Drone"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/178.jpg"
     },
     {
       "id": "sv2-179",
       "name": "Dendra",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "179",
       "fullNumber": "179/193",
       "rarity": "Uncommon",
@@ -3836,13 +3837,13 @@
         "Paldea Evolved Dendra",
         "Paldea Dendra"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/179.jpg"
     },
     {
       "id": "sv2-180",
       "name": "Falkner",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "180",
       "fullNumber": "180/193",
       "rarity": "Uncommon",
@@ -3856,13 +3857,13 @@
         "Paldea Evolved Falkner",
         "Paldea Falkner"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/180.jpg"
     },
     {
       "id": "sv2-181",
       "name": "Fighting Au Lait",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "181",
       "fullNumber": "181/193",
       "rarity": "Uncommon",
@@ -3876,13 +3877,13 @@
         "Paldea Evolved Fighting Au Lait",
         "Paldea Fighting Au Lait"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/181.jpg"
     },
     {
       "id": "sv2-182",
       "name": "Giacomo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "182",
       "fullNumber": "182/193",
       "rarity": "Uncommon",
@@ -3896,13 +3897,13 @@
         "Paldea Evolved Giacomo",
         "Paldea Giacomo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/182.jpg"
     },
     {
       "id": "sv2-183",
       "name": "Great Ball",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "183",
       "fullNumber": "183/193",
       "rarity": "Common",
@@ -3916,13 +3917,13 @@
         "Paldea Evolved Great Ball",
         "Paldea Great Ball"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/183.jpg"
     },
     {
       "id": "sv2-184",
       "name": "Grusha",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "184",
       "fullNumber": "184/193",
       "rarity": "Uncommon",
@@ -3936,13 +3937,13 @@
         "Paldea Evolved Grusha",
         "Paldea Grusha"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/184.jpg"
     },
     {
       "id": "sv2-185",
       "name": "Iono",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "185",
       "fullNumber": "185/193",
       "rarity": "Uncommon",
@@ -3956,13 +3957,13 @@
         "Paldea Evolved Iono",
         "Paldea Iono"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/185.jpg"
     },
     {
       "id": "sv2-186",
       "name": "Practice Studio",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "186",
       "fullNumber": "186/193",
       "rarity": "Uncommon",
@@ -3976,13 +3977,13 @@
         "Paldea Evolved Practice Studio",
         "Paldea Practice Studio"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/186.jpg"
     },
     {
       "id": "sv2-187",
       "name": "Saguaro",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "187",
       "fullNumber": "187/193",
       "rarity": "Uncommon",
@@ -3996,13 +3997,13 @@
         "Paldea Evolved Saguaro",
         "Paldea Saguaro"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/187.jpg"
     },
     {
       "id": "sv2-188",
       "name": "Super Rod",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "188",
       "fullNumber": "188/193",
       "rarity": "Common",
@@ -4016,13 +4017,13 @@
         "Paldea Evolved Super Rod",
         "Paldea Super Rod"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/188.jpg"
     },
     {
       "id": "sv2-189",
       "name": "Superior Energy Retrieval",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "189",
       "fullNumber": "189/193",
       "rarity": "Uncommon",
@@ -4036,13 +4037,13 @@
         "Paldea Evolved Superior Energy Retrieval",
         "Paldea Superior Energy Retrieval"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/189.jpg"
     },
     {
       "id": "sv2-190",
       "name": "Jet Energy",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "190",
       "fullNumber": "190/193",
       "rarity": "Uncommon",
@@ -4056,13 +4057,13 @@
         "Paldea Evolved Jet Energy",
         "Paldea Jet Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/190.jpg"
     },
     {
       "id": "sv2-191",
       "name": "Luminous Energy",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "191",
       "fullNumber": "191/193",
       "rarity": "Uncommon",
@@ -4076,13 +4077,13 @@
         "Paldea Evolved Luminous Energy",
         "Paldea Luminous Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/191.jpg"
     },
     {
       "id": "sv2-192",
       "name": "Reversal Energy",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "192",
       "fullNumber": "192/193",
       "rarity": "Uncommon",
@@ -4096,13 +4097,13 @@
         "Paldea Evolved Reversal Energy",
         "Paldea Reversal Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/192.jpg"
     },
     {
       "id": "sv2-193",
       "name": "Therapeutic Energy",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "193",
       "fullNumber": "193/193",
       "rarity": "Uncommon",
@@ -4116,13 +4117,13 @@
         "Paldea Evolved Therapeutic Energy",
         "Paldea Therapeutic Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/193.jpg"
     },
     {
       "id": "sv2-194",
       "name": "Heracross",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "194",
       "fullNumber": "194/193",
       "rarity": "Illustration Rare",
@@ -4136,13 +4137,13 @@
         "Paldea Evolved Heracross",
         "Paldea Heracross"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/194.jpg"
     },
     {
       "id": "sv2-195",
       "name": "Tropius",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "195",
       "fullNumber": "195/193",
       "rarity": "Illustration Rare",
@@ -4156,13 +4157,13 @@
         "Paldea Evolved Tropius",
         "Paldea Tropius"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/195.jpg"
     },
     {
       "id": "sv2-196",
       "name": "Sprigatito",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "196",
       "fullNumber": "196/193",
       "rarity": "Illustration Rare",
@@ -4176,13 +4177,13 @@
         "Paldea Evolved Sprigatito",
         "Paldea Sprigatito"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/196.jpg"
     },
     {
       "id": "sv2-197",
       "name": "Floragato",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "197",
       "fullNumber": "197/193",
       "rarity": "Illustration Rare",
@@ -4196,13 +4197,13 @@
         "Paldea Evolved Floragato",
         "Paldea Floragato"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/197.jpg"
     },
     {
       "id": "sv2-198",
       "name": "Bramblin",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "198",
       "fullNumber": "198/193",
       "rarity": "Illustration Rare",
@@ -4216,13 +4217,13 @@
         "Paldea Evolved Bramblin",
         "Paldea Bramblin"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/198.jpg"
     },
     {
       "id": "sv2-199",
       "name": "Fletchinder",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "199",
       "fullNumber": "199/193",
       "rarity": "Illustration Rare",
@@ -4236,13 +4237,13 @@
         "Paldea Evolved Fletchinder",
         "Paldea Fletchinder"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/199.jpg"
     },
     {
       "id": "sv2-200",
       "name": "Pyroar",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "200",
       "fullNumber": "200/193",
       "rarity": "Illustration Rare",
@@ -4256,13 +4257,13 @@
         "Paldea Evolved Pyroar",
         "Paldea Pyroar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/200.jpg"
     },
     {
       "id": "sv2-201",
       "name": "Fuecoco",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "201",
       "fullNumber": "201/193",
       "rarity": "Illustration Rare",
@@ -4276,13 +4277,13 @@
         "Paldea Evolved Fuecoco",
         "Paldea Fuecoco"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/201.jpg"
     },
     {
       "id": "sv2-202",
       "name": "Crocalor",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "202",
       "fullNumber": "202/193",
       "rarity": "Illustration Rare",
@@ -4296,13 +4297,13 @@
         "Paldea Evolved Crocalor",
         "Paldea Crocalor"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/202.jpg"
     },
     {
       "id": "sv2-203",
       "name": "Magikarp",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "203",
       "fullNumber": "203/193",
       "rarity": "Illustration Rare",
@@ -4316,13 +4317,13 @@
         "Paldea Evolved Magikarp",
         "Paldea Magikarp"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/203.jpg"
     },
     {
       "id": "sv2-204",
       "name": "Marill",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "204",
       "fullNumber": "204/193",
       "rarity": "Illustration Rare",
@@ -4336,13 +4337,13 @@
         "Paldea Evolved Marill",
         "Paldea Marill"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/204.jpg"
     },
     {
       "id": "sv2-205",
       "name": "Eiscue",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "205",
       "fullNumber": "205/193",
       "rarity": "Illustration Rare",
@@ -4356,13 +4357,13 @@
         "Paldea Evolved Eiscue",
         "Paldea Eiscue"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/205.jpg"
     },
     {
       "id": "sv2-206",
       "name": "Quaxly",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "206",
       "fullNumber": "206/193",
       "rarity": "Illustration Rare",
@@ -4376,13 +4377,13 @@
         "Paldea Evolved Quaxly",
         "Paldea Quaxly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/206.jpg"
     },
     {
       "id": "sv2-207",
       "name": "Quaxwell",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "207",
       "fullNumber": "207/193",
       "rarity": "Illustration Rare",
@@ -4396,13 +4397,13 @@
         "Paldea Evolved Quaxwell",
         "Paldea Quaxwell"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/207.jpg"
     },
     {
       "id": "sv2-208",
       "name": "Frigibax",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "208",
       "fullNumber": "208/193",
       "rarity": "Illustration Rare",
@@ -4416,13 +4417,13 @@
         "Paldea Evolved Frigibax",
         "Paldea Frigibax"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/208.jpg"
     },
     {
       "id": "sv2-209",
       "name": "Arctibax",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "209",
       "fullNumber": "209/193",
       "rarity": "Illustration Rare",
@@ -4436,13 +4437,13 @@
         "Paldea Evolved Arctibax",
         "Paldea Arctibax"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/209.jpg"
     },
     {
       "id": "sv2-210",
       "name": "Baxcalibur",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "210",
       "fullNumber": "210/193",
       "rarity": "Illustration Rare",
@@ -4456,13 +4457,13 @@
         "Paldea Evolved Baxcalibur",
         "Paldea Baxcalibur"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/210.jpg"
     },
     {
       "id": "sv2-211",
       "name": "Raichu",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "211",
       "fullNumber": "211/193",
       "rarity": "Illustration Rare",
@@ -4476,13 +4477,13 @@
         "Paldea Evolved Raichu",
         "Paldea Raichu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/211.jpg"
     },
     {
       "id": "sv2-212",
       "name": "Mismagius",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "212",
       "fullNumber": "212/193",
       "rarity": "Illustration Rare",
@@ -4496,13 +4497,13 @@
         "Paldea Evolved Mismagius",
         "Paldea Mismagius"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/212.jpg"
     },
     {
       "id": "sv2-213",
       "name": "Gothorita",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "213",
       "fullNumber": "213/193",
       "rarity": "Illustration Rare",
@@ -4516,13 +4517,13 @@
         "Paldea Evolved Gothorita",
         "Paldea Gothorita"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/213.jpg"
     },
     {
       "id": "sv2-214",
       "name": "Sandygast",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "214",
       "fullNumber": "214/193",
       "rarity": "Illustration Rare",
@@ -4536,13 +4537,13 @@
         "Paldea Evolved Sandygast",
         "Paldea Sandygast"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/214.jpg"
     },
     {
       "id": "sv2-215",
       "name": "Rabsca",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "215",
       "fullNumber": "215/193",
       "rarity": "Illustration Rare",
@@ -4556,13 +4557,13 @@
         "Paldea Evolved Rabsca",
         "Paldea Rabsca"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/215.jpg"
     },
     {
       "id": "sv2-216",
       "name": "Tinkatink",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "216",
       "fullNumber": "216/193",
       "rarity": "Illustration Rare",
@@ -4576,13 +4577,13 @@
         "Paldea Evolved Tinkatink",
         "Paldea Tinkatink"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/216.jpg"
     },
     {
       "id": "sv2-217",
       "name": "Tinkatuff",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "217",
       "fullNumber": "217/193",
       "rarity": "Illustration Rare",
@@ -4596,13 +4597,13 @@
         "Paldea Evolved Tinkatuff",
         "Paldea Tinkatuff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/217.jpg"
     },
     {
       "id": "sv2-218",
       "name": "Paldean Tauros",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "218",
       "fullNumber": "218/193",
       "rarity": "Illustration Rare",
@@ -4616,13 +4617,13 @@
         "Paldea Evolved Paldean Tauros",
         "Paldea Paldean Tauros"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/218.jpg"
     },
     {
       "id": "sv2-219",
       "name": "Sudowoodo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "219",
       "fullNumber": "219/193",
       "rarity": "Illustration Rare",
@@ -4636,13 +4637,13 @@
         "Paldea Evolved Sudowoodo",
         "Paldea Sudowoodo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/219.jpg"
     },
     {
       "id": "sv2-220",
       "name": "Nacli",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "220",
       "fullNumber": "220/193",
       "rarity": "Illustration Rare",
@@ -4656,13 +4657,13 @@
         "Paldea Evolved Nacli",
         "Paldea Nacli"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/220.jpg"
     },
     {
       "id": "sv2-221",
       "name": "Paldean Wooper",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "221",
       "fullNumber": "221/193",
       "rarity": "Illustration Rare",
@@ -4676,13 +4677,13 @@
         "Paldea Evolved Paldean Wooper",
         "Paldea Paldean Wooper"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/221.jpg"
     },
     {
       "id": "sv2-222",
       "name": "Tyranitar",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "222",
       "fullNumber": "222/193",
       "rarity": "Illustration Rare",
@@ -4696,13 +4697,13 @@
         "Paldea Evolved Tyranitar",
         "Paldea Tyranitar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/222.jpg"
     },
     {
       "id": "sv2-223",
       "name": "Grafaiai",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "223",
       "fullNumber": "223/193",
       "rarity": "Illustration Rare",
@@ -4716,13 +4717,13 @@
         "Paldea Evolved Grafaiai",
         "Paldea Grafaiai"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/223.jpg"
     },
     {
       "id": "sv2-224",
       "name": "Orthworm",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "224",
       "fullNumber": "224/193",
       "rarity": "Illustration Rare",
@@ -4736,13 +4737,13 @@
         "Paldea Evolved Orthworm",
         "Paldea Orthworm"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/224.jpg"
     },
     {
       "id": "sv2-225",
       "name": "Rookidee",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "225",
       "fullNumber": "225/193",
       "rarity": "Illustration Rare",
@@ -4756,13 +4757,13 @@
         "Paldea Evolved Rookidee",
         "Paldea Rookidee"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/225.jpg"
     },
     {
       "id": "sv2-226",
       "name": "Maushold",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "226",
       "fullNumber": "226/193",
       "rarity": "Illustration Rare",
@@ -4776,13 +4777,13 @@
         "Paldea Evolved Maushold",
         "Paldea Maushold"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/226.jpg"
     },
     {
       "id": "sv2-227",
       "name": "Flamigo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "227",
       "fullNumber": "227/193",
       "rarity": "Illustration Rare",
@@ -4796,13 +4797,13 @@
         "Paldea Evolved Flamigo",
         "Paldea Flamigo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/227.jpg"
     },
     {
       "id": "sv2-228",
       "name": "Farigiraf",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "228",
       "fullNumber": "228/193",
       "rarity": "Illustration Rare",
@@ -4816,13 +4817,13 @@
         "Paldea Evolved Farigiraf",
         "Paldea Farigiraf"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/228.jpg"
     },
     {
       "id": "sv2-229",
       "name": "Dudunsparce",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "229",
       "fullNumber": "229/193",
       "rarity": "Illustration Rare",
@@ -4836,13 +4837,13 @@
         "Paldea Evolved Dudunsparce",
         "Paldea Dudunsparce"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/229.jpg"
     },
     {
       "id": "sv2-230",
       "name": "Forretress ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "230",
       "fullNumber": "230/193",
       "rarity": "Ultra Rare",
@@ -4859,13 +4860,13 @@
         "Paldea Forretress ex",
         "Paldea Forretress"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/230.jpg"
     },
     {
       "id": "sv2-231",
       "name": "Meowscarada ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "231",
       "fullNumber": "231/193",
       "rarity": "Ultra Rare",
@@ -4882,13 +4883,13 @@
         "Paldea Meowscarada ex",
         "Paldea Meowscarada"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/231.jpg"
     },
     {
       "id": "sv2-232",
       "name": "Wo-Chien ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "232",
       "fullNumber": "232/193",
       "rarity": "Ultra Rare",
@@ -4905,13 +4906,13 @@
         "Paldea Wo-Chien ex",
         "Paldea Wo-Chien"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/232.jpg"
     },
     {
       "id": "sv2-233",
       "name": "Skeledirge ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "233",
       "fullNumber": "233/193",
       "rarity": "Ultra Rare",
@@ -4928,13 +4929,13 @@
         "Paldea Skeledirge ex",
         "Paldea Skeledirge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/233.jpg"
     },
     {
       "id": "sv2-234",
       "name": "Chi-Yu ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "234",
       "fullNumber": "234/193",
       "rarity": "Ultra Rare",
@@ -4951,13 +4952,13 @@
         "Paldea Chi-Yu ex",
         "Paldea Chi-Yu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/234.jpg"
     },
     {
       "id": "sv2-235",
       "name": "Quaquaval ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "235",
       "fullNumber": "235/193",
       "rarity": "Ultra Rare",
@@ -4974,13 +4975,13 @@
         "Paldea Quaquaval ex",
         "Paldea Quaquaval"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/235.jpg"
     },
     {
       "id": "sv2-236",
       "name": "Chien-Pao ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "236",
       "fullNumber": "236/193",
       "rarity": "Ultra Rare",
@@ -4997,13 +4998,13 @@
         "Paldea Chien-Pao ex",
         "Paldea Chien-Pao"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/236.jpg"
     },
     {
       "id": "sv2-237",
       "name": "Bellibolt ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "237",
       "fullNumber": "237/193",
       "rarity": "Ultra Rare",
@@ -5020,13 +5021,13 @@
         "Paldea Bellibolt ex",
         "Paldea Bellibolt"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/237.jpg"
     },
     {
       "id": "sv2-238",
       "name": "Slowking ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "238",
       "fullNumber": "238/193",
       "rarity": "Ultra Rare",
@@ -5043,13 +5044,13 @@
         "Paldea Slowking ex",
         "Paldea Slowking"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/238.jpg"
     },
     {
       "id": "sv2-239",
       "name": "Dedenne ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "239",
       "fullNumber": "239/193",
       "rarity": "Ultra Rare",
@@ -5066,13 +5067,13 @@
         "Paldea Dedenne ex",
         "Paldea Dedenne"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/239.jpg"
     },
     {
       "id": "sv2-240",
       "name": "Tinkaton ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "240",
       "fullNumber": "240/193",
       "rarity": "Ultra Rare",
@@ -5089,13 +5090,13 @@
         "Paldea Tinkaton ex",
         "Paldea Tinkaton"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/240.jpg"
     },
     {
       "id": "sv2-241",
       "name": "Lycanroc ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "241",
       "fullNumber": "241/193",
       "rarity": "Ultra Rare",
@@ -5112,13 +5113,13 @@
         "Paldea Lycanroc ex",
         "Paldea Lycanroc"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/241.jpg"
     },
     {
       "id": "sv2-242",
       "name": "Annihilape ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "242",
       "fullNumber": "242/193",
       "rarity": "Ultra Rare",
@@ -5135,13 +5136,13 @@
         "Paldea Annihilape ex",
         "Paldea Annihilape"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/242.jpg"
     },
     {
       "id": "sv2-243",
       "name": "Ting-Lu ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "243",
       "fullNumber": "243/193",
       "rarity": "Ultra Rare",
@@ -5158,13 +5159,13 @@
         "Paldea Ting-Lu ex",
         "Paldea Ting-Lu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/243.jpg"
     },
     {
       "id": "sv2-244",
       "name": "Paldean Clodsire ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "244",
       "fullNumber": "244/193",
       "rarity": "Ultra Rare",
@@ -5181,13 +5182,13 @@
         "Paldea Paldean Clodsire ex",
         "Paldea Paldean Clodsire"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/244.jpg"
     },
     {
       "id": "sv2-245",
       "name": "Copperajah ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "245",
       "fullNumber": "245/193",
       "rarity": "Ultra Rare",
@@ -5204,13 +5205,13 @@
         "Paldea Copperajah ex",
         "Paldea Copperajah"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/245.jpg"
     },
     {
       "id": "sv2-246",
       "name": "Noivern ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "246",
       "fullNumber": "246/193",
       "rarity": "Ultra Rare",
@@ -5227,13 +5228,13 @@
         "Paldea Noivern ex",
         "Paldea Noivern"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/246.jpg"
     },
     {
       "id": "sv2-247",
       "name": "Squawkabilly ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "247",
       "fullNumber": "247/193",
       "rarity": "Ultra Rare",
@@ -5250,13 +5251,13 @@
         "Paldea Squawkabilly ex",
         "Paldea Squawkabilly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/247.jpg"
     },
     {
       "id": "sv2-248",
       "name": "Boss's Orders [Ghetsis]",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "248",
       "fullNumber": "248/193",
       "rarity": "Ultra Rare",
@@ -5270,13 +5271,13 @@
         "Paldea Evolved Boss's Orders [Ghetsis]",
         "Paldea Boss's Orders [Ghetsis]"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/248.jpg"
     },
     {
       "id": "sv2-249",
       "name": "Clavell",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "249",
       "fullNumber": "249/193",
       "rarity": "Ultra Rare",
@@ -5290,13 +5291,13 @@
         "Paldea Evolved Clavell",
         "Paldea Clavell"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/249.jpg"
     },
     {
       "id": "sv2-250",
       "name": "Dendra",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "250",
       "fullNumber": "250/193",
       "rarity": "Ultra Rare",
@@ -5310,13 +5311,13 @@
         "Paldea Evolved Dendra",
         "Paldea Dendra"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/250.jpg"
     },
     {
       "id": "sv2-251",
       "name": "Falkner",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "251",
       "fullNumber": "251/193",
       "rarity": "Ultra Rare",
@@ -5330,13 +5331,13 @@
         "Paldea Evolved Falkner",
         "Paldea Falkner"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/251.jpg"
     },
     {
       "id": "sv2-252",
       "name": "Giacomo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "252",
       "fullNumber": "252/193",
       "rarity": "Ultra Rare",
@@ -5350,13 +5351,13 @@
         "Paldea Evolved Giacomo",
         "Paldea Giacomo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/252.jpg"
     },
     {
       "id": "sv2-253",
       "name": "Grusha",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "253",
       "fullNumber": "253/193",
       "rarity": "Ultra Rare",
@@ -5370,13 +5371,13 @@
         "Paldea Evolved Grusha",
         "Paldea Grusha"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/253.jpg"
     },
     {
       "id": "sv2-254",
       "name": "Iono",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "254",
       "fullNumber": "254/193",
       "rarity": "Ultra Rare",
@@ -5390,13 +5391,13 @@
         "Paldea Evolved Iono",
         "Paldea Iono"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/254.jpg"
     },
     {
       "id": "sv2-255",
       "name": "Saguaro",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "255",
       "fullNumber": "255/193",
       "rarity": "Ultra Rare",
@@ -5410,13 +5411,13 @@
         "Paldea Evolved Saguaro",
         "Paldea Saguaro"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/255.jpg"
     },
     {
       "id": "sv2-256",
       "name": "Meowscarada ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "256",
       "fullNumber": "256/193",
       "rarity": "Special Illustration Rare",
@@ -5433,13 +5434,13 @@
         "Paldea Meowscarada ex",
         "Paldea Meowscarada"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/256.jpg"
     },
     {
       "id": "sv2-257",
       "name": "Wo-Chien ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "257",
       "fullNumber": "257/193",
       "rarity": "Special Illustration Rare",
@@ -5456,13 +5457,13 @@
         "Paldea Wo-Chien ex",
         "Paldea Wo-Chien"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/257.jpg"
     },
     {
       "id": "sv2-258",
       "name": "Skeledirge ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "258",
       "fullNumber": "258/193",
       "rarity": "Special Illustration Rare",
@@ -5479,13 +5480,13 @@
         "Paldea Skeledirge ex",
         "Paldea Skeledirge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/258.jpg"
     },
     {
       "id": "sv2-259",
       "name": "Chi-Yu ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "259",
       "fullNumber": "259/193",
       "rarity": "Special Illustration Rare",
@@ -5502,13 +5503,13 @@
         "Paldea Chi-Yu ex",
         "Paldea Chi-Yu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/259.jpg"
     },
     {
       "id": "sv2-260",
       "name": "Quaquaval ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "260",
       "fullNumber": "260/193",
       "rarity": "Special Illustration Rare",
@@ -5525,13 +5526,13 @@
         "Paldea Quaquaval ex",
         "Paldea Quaquaval"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/260.jpg"
     },
     {
       "id": "sv2-261",
       "name": "Chien-Pao ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "261",
       "fullNumber": "261/193",
       "rarity": "Special Illustration Rare",
@@ -5548,13 +5549,13 @@
         "Paldea Chien-Pao ex",
         "Paldea Chien-Pao"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/261.jpg"
     },
     {
       "id": "sv2-262",
       "name": "Tinkaton ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "262",
       "fullNumber": "262/193",
       "rarity": "Special Illustration Rare",
@@ -5571,13 +5572,13 @@
         "Paldea Tinkaton ex",
         "Paldea Tinkaton"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/262.jpg"
     },
     {
       "id": "sv2-263",
       "name": "Ting-Lu ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "263",
       "fullNumber": "263/193",
       "rarity": "Special Illustration Rare",
@@ -5594,13 +5595,13 @@
         "Paldea Ting-Lu ex",
         "Paldea Ting-Lu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/263.jpg"
     },
     {
       "id": "sv2-264",
       "name": "Squawkabilly ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "264",
       "fullNumber": "264/193",
       "rarity": "Special Illustration Rare",
@@ -5617,13 +5618,13 @@
         "Paldea Squawkabilly ex",
         "Paldea Squawkabilly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/264.jpg"
     },
     {
       "id": "sv2-265",
       "name": "Boss's Orders [Ghetsis]",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "265",
       "fullNumber": "265/193",
       "rarity": "Special Illustration Rare",
@@ -5637,13 +5638,13 @@
         "Paldea Evolved Boss's Orders [Ghetsis]",
         "Paldea Boss's Orders [Ghetsis]"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/265.jpg"
     },
     {
       "id": "sv2-266",
       "name": "Dendra",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "266",
       "fullNumber": "266/193",
       "rarity": "Special Illustration Rare",
@@ -5657,13 +5658,13 @@
         "Paldea Evolved Dendra",
         "Paldea Dendra"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/266.jpg"
     },
     {
       "id": "sv2-267",
       "name": "Giacomo",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "267",
       "fullNumber": "267/193",
       "rarity": "Special Illustration Rare",
@@ -5677,13 +5678,13 @@
         "Paldea Evolved Giacomo",
         "Paldea Giacomo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/267.jpg"
     },
     {
       "id": "sv2-268",
       "name": "Grusha",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "268",
       "fullNumber": "268/193",
       "rarity": "Special Illustration Rare",
@@ -5697,13 +5698,13 @@
         "Paldea Evolved Grusha",
         "Paldea Grusha"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/268.jpg"
     },
     {
       "id": "sv2-269",
       "name": "Iono",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "269",
       "fullNumber": "269/193",
       "rarity": "Special Illustration Rare",
@@ -5717,13 +5718,13 @@
         "Paldea Evolved Iono",
         "Paldea Iono"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/269.jpg"
     },
     {
       "id": "sv2-270",
       "name": "Saguaro",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "270",
       "fullNumber": "270/193",
       "rarity": "Special Illustration Rare",
@@ -5737,13 +5738,13 @@
         "Paldea Evolved Saguaro",
         "Paldea Saguaro"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/270.jpg"
     },
     {
       "id": "sv2-271",
       "name": "Meowscarada ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "271",
       "fullNumber": "271/193",
       "rarity": "Hyper Rare",
@@ -5760,13 +5761,13 @@
         "Paldea Meowscarada ex",
         "Paldea Meowscarada"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/271.jpg"
     },
     {
       "id": "sv2-272",
       "name": "Skeledirge ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "272",
       "fullNumber": "272/193",
       "rarity": "Hyper Rare",
@@ -5783,13 +5784,13 @@
         "Paldea Skeledirge ex",
         "Paldea Skeledirge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/272.jpg"
     },
     {
       "id": "sv2-273",
       "name": "Quaquaval ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "273",
       "fullNumber": "273/193",
       "rarity": "Hyper Rare",
@@ -5806,13 +5807,13 @@
         "Paldea Quaquaval ex",
         "Paldea Quaquaval"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/273.jpg"
     },
     {
       "id": "sv2-274",
       "name": "Chien-Pao ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "274",
       "fullNumber": "274/193",
       "rarity": "Hyper Rare",
@@ -5829,13 +5830,13 @@
         "Paldea Chien-Pao ex",
         "Paldea Chien-Pao"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/274.jpg"
     },
     {
       "id": "sv2-275",
       "name": "Ting-Lu ex",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "275",
       "fullNumber": "275/193",
       "rarity": "Hyper Rare",
@@ -5852,13 +5853,13 @@
         "Paldea Ting-Lu ex",
         "Paldea Ting-Lu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/275.jpg"
     },
     {
       "id": "sv2-276",
       "name": "Super Rod",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "276",
       "fullNumber": "276/193",
       "rarity": "Hyper Rare",
@@ -5872,13 +5873,13 @@
         "Paldea Evolved Super Rod",
         "Paldea Super Rod"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/276.jpg"
     },
     {
       "id": "sv2-277",
       "name": "Superior Energy Retrieval",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "277",
       "fullNumber": "277/193",
       "rarity": "Hyper Rare",
@@ -5892,13 +5893,13 @@
         "Paldea Evolved Superior Energy Retrieval",
         "Paldea Superior Energy Retrieval"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/277.jpg"
     },
     {
       "id": "sv2-278",
       "name": "Basic Grass Energy",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "278",
       "fullNumber": "278/193",
       "rarity": "Hyper Rare",
@@ -5912,13 +5913,13 @@
         "Paldea Evolved Basic Grass Energy",
         "Paldea Basic Grass Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/278.jpg"
     },
     {
       "id": "sv2-279",
       "name": "Basic Water Energy",
       "setName": "Paldea Evolved",
-      "setCode": "SV2",
+      "setCode": "PAL",
       "cardNumber": "279",
       "fullNumber": "279/193",
       "rarity": "Hyper Rare",
@@ -5932,7 +5933,7 @@
         "Paldea Evolved Basic Water Energy",
         "Paldea Basic Water Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/paldeaevolved/279.jpg"
     }
   ]
 }

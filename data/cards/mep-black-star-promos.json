@@ -6,7 +6,8 @@
     "setCode": "MEP",
     "totalCards": 11,
     "releaseDate": "2025-09-26",
-    "tagSales": 0
+    "tagSales": 0,
+    "logo": "https://www.serebii.net/card/logo/mepblackstarpromos.png"
   },
   "cards": [
     {
@@ -25,7 +26,7 @@
         "MEP Black Star Promos 001",
         "Promo 001"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/001.jpg"
     },
     {
       "id": "mep-002",
@@ -43,7 +44,7 @@
         "MEP Black Star Promos 002",
         "Promo 002"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/002.jpg"
     },
     {
       "id": "mep-003",
@@ -61,7 +62,7 @@
         "MEP Black Star Promos 003",
         "Promo 003"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/003.jpg"
     },
     {
       "id": "mep-004",
@@ -79,7 +80,7 @@
         "MEP Black Star Promos 004",
         "Promo 004"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/004.jpg"
     },
     {
       "id": "mep-005",
@@ -98,7 +99,7 @@
         "MEP Black Star Promos 005",
         "Single Pack Blister"
       ],
-      "imageUrl": null,
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/005.jpg",
       "promotion": "Mega Evolution Single Pack Blister"
     },
     {
@@ -118,7 +119,7 @@
         "MEP Black Star Promos 006",
         "Single Pack Blister"
       ],
-      "imageUrl": null,
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/006.jpg",
       "promotion": "Mega Evolution Single Pack Blister"
     },
     {
@@ -138,7 +139,7 @@
         "MEP Black Star Promos 007",
         "Three Pack Blister"
       ],
-      "imageUrl": null,
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/007.jpg",
       "promotion": "Mega Evolution Three Pack Blister"
     },
     {
@@ -158,7 +159,7 @@
         "MEP Black Star Promos 008",
         "Three Pack Blister"
       ],
-      "imageUrl": null,
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/008.jpg",
       "promotion": "Mega Evolution Three Pack Blister"
     },
     {
@@ -179,7 +180,7 @@
         "Elite Trainer Box",
         "Mega Gardevoir"
       ],
-      "imageUrl": null,
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/009.jpg",
       "promotion": "Mega Evolution Elite Trainer Box (Mega Gardevoir)"
     },
     {
@@ -200,7 +201,7 @@
         "Elite Trainer Box",
         "Mega Lucario"
       ],
-      "imageUrl": null,
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/010.jpg",
       "promotion": "Mega Evolution Elite Trainer Box (Mega Lucario)"
     },
     {
@@ -220,8 +221,8 @@
         "MEP Black Star Promos 011",
         "Mega Latias ex Box"
       ],
-      "imageUrl": null,
+      "imageUrl": "https://www.serebii.net/card/mepblackstarpromos/011.jpg",
       "promotion": "Mega Latias ex Box"
     }
   ]
-} 
+}

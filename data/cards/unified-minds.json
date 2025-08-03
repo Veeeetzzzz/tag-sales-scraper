@@ -8,7 +8,9 @@
     "totalCards": 258,
     "mainSetCards": 236,
     "symbolUrl": "https://www.serebii.net/card/symbols/unifiedminds.png",
-    "logoUrl": "https://www.serebii.net/card/unifiedminds/logo.png"
+    "logoUrl": "https://www.serebii.net/card/unifiedminds/logo.png",
+    "setCode": "UNM",
+    "logo": "https://www.serebii.net/card/logo/unifiedminds.png"
   },
   "cards": [
     {
@@ -3465,7 +3467,7 @@
     },
     {
       "id": "unified-minds-204",
-      "name": "Pok\u00e9 Maniac",
+      "name": "Poké Maniac",
       "number": 204,
       "type": "Trainer",
       "rarity": "Uncommon",
@@ -3480,7 +3482,7 @@
     },
     {
       "id": "unified-minds-205",
-      "name": "Pok\u00e9mon Research Lab",
+      "name": "Pokémon Research Lab",
       "number": 205,
       "type": "Trainer",
       "rarity": "Uncommon",
@@ -3998,7 +4000,7 @@
     },
     {
       "id": "unified-minds-236",
-      "name": "Pok\u00e9 Maniac",
+      "name": "Poké Maniac",
       "number": 236,
       "type": "Trainer",
       "rarity": "Rare Ultra",

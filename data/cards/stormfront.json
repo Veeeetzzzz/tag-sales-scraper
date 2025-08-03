@@ -3,18 +3,18 @@
     "name": "Stormfront",
     "description": "Stormfront Pokemon cards - Complete 103 card set",
     "lastUpdated": "2025/07/03",
-    "setCode": "S",
+    "setCode": "SF",
     "totalCards": 100,
     "releaseDate": "2008/11/05",
     "tagSales": 0,
-    "logo": "https://www.serebii.net/card/stormfront/1.jpg"
+    "logo": "https://www.serebii.net/card/logo/stormfront.png"
   },
   "cards": [
     {
       "id": "stormfront-001",
       "name": "Dusknoir",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "1",
       "fullNumber": "1/100",
       "rarity": "Unknown",
@@ -24,13 +24,14 @@
         "Stormfront 1",
         "1/100",
         "Dusknoir Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/001.jpg"
     },
     {
       "id": "stormfront-002",
       "name": "Empoleon",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "2",
       "fullNumber": "2/100",
       "rarity": "Unknown",
@@ -40,13 +41,14 @@
         "Stormfront 2",
         "2/100",
         "Empoleon Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/002.jpg"
     },
     {
       "id": "stormfront-003",
       "name": "Infernape",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "3",
       "fullNumber": "3/100",
       "rarity": "Unknown",
@@ -56,13 +58,14 @@
         "Stormfront 3",
         "3/100",
         "Infernape Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/003.jpg"
     },
     {
       "id": "stormfront-004",
       "name": "Lumineon",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "4",
       "fullNumber": "4/100",
       "rarity": "Unknown",
@@ -72,13 +75,14 @@
         "Stormfront 4",
         "4/100",
         "Lumineon Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/004.jpg"
     },
     {
       "id": "stormfront-005",
       "name": "Magnezone",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "5",
       "fullNumber": "5/100",
       "rarity": "Unknown",
@@ -88,13 +92,14 @@
         "Stormfront 5",
         "5/100",
         "Magnezone Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/005.jpg"
     },
     {
       "id": "stormfront-006",
       "name": "Magnezone",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "6",
       "fullNumber": "6/100",
       "rarity": "Unknown",
@@ -104,13 +109,14 @@
         "Stormfront 6",
         "6/100",
         "Magnezone Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/006.jpg"
     },
     {
       "id": "stormfront-007",
       "name": "Mismagius",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "7",
       "fullNumber": "7/100",
       "rarity": "Unknown",
@@ -120,13 +126,14 @@
         "Stormfront 7",
         "7/100",
         "Mismagius Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/007.jpg"
     },
     {
       "id": "stormfront-008",
       "name": "Raichu",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "8",
       "fullNumber": "8/100",
       "rarity": "Unknown",
@@ -136,13 +143,14 @@
         "Stormfront 8",
         "8/100",
         "Raichu Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/008.jpg"
     },
     {
       "id": "stormfront-009",
       "name": "Regigigas",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "9",
       "fullNumber": "9/100",
       "rarity": "Unknown",
@@ -152,13 +160,14 @@
         "Stormfront 9",
         "9/100",
         "Regigigas Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/009.jpg"
     },
     {
       "id": "stormfront-010",
       "name": "Sceptile",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "10",
       "fullNumber": "10/100",
       "rarity": "Unknown",
@@ -168,13 +177,14 @@
         "Stormfront 10",
         "10/100",
         "Sceptile Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/010.jpg"
     },
     {
       "id": "stormfront-011",
       "name": "Torterra",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "11",
       "fullNumber": "11/100",
       "rarity": "Unknown",
@@ -184,13 +194,14 @@
         "Stormfront 11",
         "11/100",
         "Torterra Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/011.jpg"
     },
     {
       "id": "stormfront-012",
       "name": "Abomasnow",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "12",
       "fullNumber": "12/100",
       "rarity": "Unknown",
@@ -200,13 +211,14 @@
         "Stormfront 12",
         "12/100",
         "Abomasnow Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/012.jpg"
     },
     {
       "id": "stormfront-013",
       "name": "Bronzong",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "13",
       "fullNumber": "13/100",
       "rarity": "Unknown",
@@ -216,13 +228,14 @@
         "Stormfront 13",
         "13/100",
         "Bronzong Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/013.jpg"
     },
     {
       "id": "stormfront-014",
       "name": "Cherrim",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "14",
       "fullNumber": "14/100",
       "rarity": "Unknown",
@@ -232,13 +245,14 @@
         "Stormfront 14",
         "14/100",
         "Cherrim Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/014.jpg"
     },
     {
       "id": "stormfront-015",
       "name": "Drapion",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "15",
       "fullNumber": "15/100",
       "rarity": "Unknown",
@@ -248,13 +262,14 @@
         "Stormfront 15",
         "15/100",
         "Drapion Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/015.jpg"
     },
     {
       "id": "stormfront-016",
       "name": "Drifblim",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "16",
       "fullNumber": "16/100",
       "rarity": "Unknown",
@@ -264,13 +279,14 @@
         "Stormfront 16",
         "16/100",
         "Drifblim Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/016.jpg"
     },
     {
       "id": "stormfront-017",
       "name": "Dusknoir",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "17",
       "fullNumber": "17/100",
       "rarity": "Unknown",
@@ -280,13 +296,14 @@
         "Stormfront 17",
         "17/100",
         "Dusknoir Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/017.jpg"
     },
     {
       "id": "stormfront-018",
       "name": "Gengar",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "18",
       "fullNumber": "18/100",
       "rarity": "Unknown",
@@ -296,13 +313,14 @@
         "Stormfront 18",
         "18/100",
         "Gengar Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/018.jpg"
     },
     {
       "id": "stormfront-019",
       "name": "Gyarados",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "19",
       "fullNumber": "19/100",
       "rarity": "Unknown",
@@ -312,13 +330,14 @@
         "Stormfront 19",
         "19/100",
         "Gyarados Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/019.jpg"
     },
     {
       "id": "stormfront-020",
       "name": "Machamp",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "20",
       "fullNumber": "20/100",
       "rarity": "Unknown",
@@ -328,13 +347,14 @@
         "Stormfront 20",
         "20/100",
         "Machamp Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/020.jpg"
     },
     {
       "id": "stormfront-021",
       "name": "Mamoswine",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "21",
       "fullNumber": "21/100",
       "rarity": "Unknown",
@@ -344,13 +364,14 @@
         "Stormfront 21",
         "21/100",
         "Mamoswine Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/021.jpg"
     },
     {
       "id": "stormfront-022",
       "name": "Rapidash",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "22",
       "fullNumber": "22/100",
       "rarity": "Unknown",
@@ -360,13 +381,14 @@
         "Stormfront 22",
         "22/100",
         "Rapidash Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/022.jpg"
     },
     {
       "id": "stormfront-023",
       "name": "Roserade",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "23",
       "fullNumber": "23/100",
       "rarity": "Unknown",
@@ -376,13 +398,14 @@
         "Stormfront 23",
         "23/100",
         "Roserade Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/023.jpg"
     },
     {
       "id": "stormfront-024",
       "name": "Salamence",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "24",
       "fullNumber": "24/100",
       "rarity": "Unknown",
@@ -392,13 +415,14 @@
         "Stormfront 24",
         "24/100",
         "Salamence Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/024.jpg"
     },
     {
       "id": "stormfront-025",
       "name": "Scizor",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "25",
       "fullNumber": "25/100",
       "rarity": "Unknown",
@@ -408,13 +432,14 @@
         "Stormfront 25",
         "25/100",
         "Scizor Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/025.jpg"
     },
     {
       "id": "stormfront-026",
       "name": "Skuntank",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "26",
       "fullNumber": "26/100",
       "rarity": "Unknown",
@@ -424,13 +449,14 @@
         "Stormfront 26",
         "26/100",
         "Skuntank Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/026.jpg"
     },
     {
       "id": "stormfront-027",
       "name": "Staraptor",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "27",
       "fullNumber": "27/100",
       "rarity": "Unknown",
@@ -440,13 +466,14 @@
         "Stormfront 27",
         "27/100",
         "Staraptor Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/027.jpg"
     },
     {
       "id": "stormfront-028",
       "name": "Steelix",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "28",
       "fullNumber": "28/100",
       "rarity": "Unknown",
@@ -456,13 +483,14 @@
         "Stormfront 28",
         "28/100",
         "Steelix Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/028.jpg"
     },
     {
       "id": "stormfront-029",
       "name": "Tangrowth",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "29",
       "fullNumber": "29/100",
       "rarity": "Unknown",
@@ -472,13 +500,14 @@
         "Stormfront 29",
         "29/100",
         "Tangrowth Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/029.jpg"
     },
     {
       "id": "stormfront-030",
       "name": "Tyranitar",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "30",
       "fullNumber": "30/100",
       "rarity": "Unknown",
@@ -488,13 +517,14 @@
         "Stormfront 30",
         "30/100",
         "Tyranitar Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/030.jpg"
     },
     {
       "id": "stormfront-031",
       "name": "Vespiquen",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "31",
       "fullNumber": "31/100",
       "rarity": "Unknown",
@@ -504,13 +534,14 @@
         "Stormfront 31",
         "31/100",
         "Vespiquen Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/031.jpg"
     },
     {
       "id": "stormfront-032",
       "name": "Bibarel",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "32",
       "fullNumber": "32/100",
       "rarity": "Unknown",
@@ -520,13 +551,14 @@
         "Stormfront 32",
         "32/100",
         "Bibarel Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/032.jpg"
     },
     {
       "id": "stormfront-033",
       "name": "Budew",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "33",
       "fullNumber": "33/100",
       "rarity": "Unknown",
@@ -536,13 +568,14 @@
         "Stormfront 33",
         "33/100",
         "Budew Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/033.jpg"
     },
     {
       "id": "stormfront-034",
       "name": "Dusclops",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "34",
       "fullNumber": "34/100",
       "rarity": "Unknown",
@@ -552,13 +585,14 @@
         "Stormfront 34",
         "34/100",
         "Dusclops Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/034.jpg"
     },
     {
       "id": "stormfront-035",
       "name": "Dusclops",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "35",
       "fullNumber": "35/100",
       "rarity": "Unknown",
@@ -568,13 +602,14 @@
         "Stormfront 35",
         "35/100",
         "Dusclops Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/035.jpg"
     },
     {
       "id": "stormfront-036",
       "name": "Electrode",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "36",
       "fullNumber": "36/100",
       "rarity": "Unknown",
@@ -584,13 +619,14 @@
         "Stormfront 36",
         "36/100",
         "Electrode Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/036.jpg"
     },
     {
       "id": "stormfront-037",
       "name": "Electrode",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "37",
       "fullNumber": "37/100",
       "rarity": "Unknown",
@@ -600,13 +636,14 @@
         "Stormfront 37",
         "37/100",
         "Electrode Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/037.jpg"
     },
     {
       "id": "stormfront-038",
       "name": "Farfetch'd",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "38",
       "fullNumber": "38/100",
       "rarity": "Unknown",
@@ -616,13 +653,14 @@
         "Stormfront 38",
         "38/100",
         "Farfetch'd Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/038.jpg"
     },
     {
       "id": "stormfront-039",
       "name": "Grovyle",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "39",
       "fullNumber": "39/100",
       "rarity": "Unknown",
@@ -632,13 +670,14 @@
         "Stormfront 39",
         "39/100",
         "Grovyle Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/039.jpg"
     },
     {
       "id": "stormfront-040",
       "name": "Haunter",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "40",
       "fullNumber": "40/100",
       "rarity": "Unknown",
@@ -648,13 +687,14 @@
         "Stormfront 40",
         "40/100",
         "Haunter Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/040.jpg"
     },
     {
       "id": "stormfront-041",
       "name": "Machoke",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "41",
       "fullNumber": "41/100",
       "rarity": "Unknown",
@@ -664,13 +704,14 @@
         "Stormfront 41",
         "41/100",
         "Machoke Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/041.jpg"
     },
     {
       "id": "stormfront-042",
       "name": "Magneton",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "42",
       "fullNumber": "42/100",
       "rarity": "Unknown",
@@ -680,13 +721,14 @@
         "Stormfront 42",
         "42/100",
         "Magneton Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/042.jpg"
     },
     {
       "id": "stormfront-043",
       "name": "Magneton",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "43",
       "fullNumber": "43/100",
       "rarity": "Unknown",
@@ -696,13 +738,14 @@
         "Stormfront 43",
         "43/100",
         "Magneton Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/043.jpg"
     },
     {
       "id": "stormfront-044",
       "name": "Miltank",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "44",
       "fullNumber": "44/100",
       "rarity": "Unknown",
@@ -712,13 +755,14 @@
         "Stormfront 44",
         "44/100",
         "Miltank Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/044.jpg"
     },
     {
       "id": "stormfront-045",
       "name": "Pichu",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "45",
       "fullNumber": "45/100",
       "rarity": "Unknown",
@@ -728,13 +772,14 @@
         "Stormfront 45",
         "45/100",
         "Pichu Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/045.jpg"
     },
     {
       "id": "stormfront-046",
       "name": "Piloswine",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "46",
       "fullNumber": "46/100",
       "rarity": "Unknown",
@@ -744,13 +789,14 @@
         "Stormfront 46",
         "46/100",
         "Piloswine Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/046.jpg"
     },
     {
       "id": "stormfront-047",
       "name": "Pupitar",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "47",
       "fullNumber": "47/100",
       "rarity": "Unknown",
@@ -760,13 +806,14 @@
         "Stormfront 47",
         "47/100",
         "Pupitar Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/047.jpg"
     },
     {
       "id": "stormfront-048",
       "name": "Sableye",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "48",
       "fullNumber": "48/100",
       "rarity": "Unknown",
@@ -776,13 +823,14 @@
         "Stormfront 48",
         "48/100",
         "Sableye Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/048.jpg"
     },
     {
       "id": "stormfront-049",
       "name": "Scyther",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "49",
       "fullNumber": "49/100",
       "rarity": "Unknown",
@@ -792,13 +840,14 @@
         "Stormfront 49",
         "49/100",
         "Scyther Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/049.jpg"
     },
     {
       "id": "stormfront-050",
       "name": "Shelgon",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "50",
       "fullNumber": "50/100",
       "rarity": "Unknown",
@@ -808,13 +857,14 @@
         "Stormfront 50",
         "50/100",
         "Shelgon Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/050.jpg"
     },
     {
       "id": "stormfront-051",
       "name": "Skarmory",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "51",
       "fullNumber": "51/100",
       "rarity": "Unknown",
@@ -824,13 +874,14 @@
         "Stormfront 51",
         "51/100",
         "Skarmory Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/051.jpg"
     },
     {
       "id": "stormfront-052",
       "name": "Staravia",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "52",
       "fullNumber": "52/100",
       "rarity": "Unknown",
@@ -840,13 +891,14 @@
         "Stormfront 52",
         "52/100",
         "Staravia Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/052.jpg"
     },
     {
       "id": "stormfront-053",
       "name": "Bagon",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "53",
       "fullNumber": "53/100",
       "rarity": "Unknown",
@@ -856,13 +908,14 @@
         "Stormfront 53",
         "53/100",
         "Bagon Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/053.jpg"
     },
     {
       "id": "stormfront-054",
       "name": "Bidoof",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "54",
       "fullNumber": "54/100",
       "rarity": "Unknown",
@@ -872,13 +925,14 @@
         "Stormfront 54",
         "54/100",
         "Bidoof Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/054.jpg"
     },
     {
       "id": "stormfront-055",
       "name": "Bronzor",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "55",
       "fullNumber": "55/100",
       "rarity": "Unknown",
@@ -888,13 +942,14 @@
         "Stormfront 55",
         "55/100",
         "Bronzor Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/055.jpg"
     },
     {
       "id": "stormfront-056",
       "name": "Cherubi",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "56",
       "fullNumber": "56/100",
       "rarity": "Unknown",
@@ -904,13 +959,14 @@
         "Stormfront 56",
         "56/100",
         "Cherubi Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/056.jpg"
     },
     {
       "id": "stormfront-057",
       "name": "Combee",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "57",
       "fullNumber": "57/100",
       "rarity": "Unknown",
@@ -920,13 +976,14 @@
         "Stormfront 57",
         "57/100",
         "Combee Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/057.jpg"
     },
     {
       "id": "stormfront-058",
       "name": "Drifloon",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "58",
       "fullNumber": "58/100",
       "rarity": "Unknown",
@@ -936,13 +993,14 @@
         "Stormfront 58",
         "58/100",
         "Drifloon Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/058.jpg"
     },
     {
       "id": "stormfront-059",
       "name": "Duskull",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "59",
       "fullNumber": "59/100",
       "rarity": "Unknown",
@@ -952,13 +1010,14 @@
         "Stormfront 59",
         "59/100",
         "Duskull Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/059.jpg"
     },
     {
       "id": "stormfront-060",
       "name": "Duskull",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "60",
       "fullNumber": "60/100",
       "rarity": "Unknown",
@@ -968,13 +1027,14 @@
         "Stormfront 60",
         "60/100",
         "Duskull Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/060.jpg"
     },
     {
       "id": "stormfront-061",
       "name": "Finneon",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "61",
       "fullNumber": "61/100",
       "rarity": "Unknown",
@@ -984,13 +1044,14 @@
         "Stormfront 61",
         "61/100",
         "Finneon Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/061.jpg"
     },
     {
       "id": "stormfront-062",
       "name": "Gastly",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "62",
       "fullNumber": "62/100",
       "rarity": "Unknown",
@@ -1000,13 +1061,14 @@
         "Stormfront 62",
         "62/100",
         "Gastly Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/062.jpg"
     },
     {
       "id": "stormfront-063",
       "name": "Larvitar",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "63",
       "fullNumber": "63/100",
       "rarity": "Unknown",
@@ -1016,13 +1078,14 @@
         "Stormfront 63",
         "63/100",
         "Larvitar Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/063.jpg"
     },
     {
       "id": "stormfront-064",
       "name": "Machop",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "64",
       "fullNumber": "64/100",
       "rarity": "Unknown",
@@ -1032,13 +1095,14 @@
         "Stormfront 64",
         "64/100",
         "Machop Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/064.jpg"
     },
     {
       "id": "stormfront-065",
       "name": "Magikarp",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "65",
       "fullNumber": "65/100",
       "rarity": "Unknown",
@@ -1048,13 +1112,14 @@
         "Stormfront 65",
         "65/100",
         "Magikarp Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/065.jpg"
     },
     {
       "id": "stormfront-066",
       "name": "Magnemite",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "66",
       "fullNumber": "66/100",
       "rarity": "Unknown",
@@ -1064,13 +1129,14 @@
         "Stormfront 66",
         "66/100",
         "Magnemite Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/066.jpg"
     },
     {
       "id": "stormfront-067",
       "name": "Magnemite",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "67",
       "fullNumber": "67/100",
       "rarity": "Unknown",
@@ -1080,13 +1146,14 @@
         "Stormfront 67",
         "67/100",
         "Magnemite Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/067.jpg"
     },
     {
       "id": "stormfront-068",
       "name": "Misdreavus",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "68",
       "fullNumber": "68/100",
       "rarity": "Unknown",
@@ -1096,13 +1163,14 @@
         "Stormfront 68",
         "68/100",
         "Misdreavus Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/068.jpg"
     },
     {
       "id": "stormfront-069",
       "name": "Onix",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "69",
       "fullNumber": "69/100",
       "rarity": "Unknown",
@@ -1112,13 +1180,14 @@
         "Stormfront 69",
         "69/100",
         "Onix Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/069.jpg"
     },
     {
       "id": "stormfront-070",
       "name": "Pikachu",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "70",
       "fullNumber": "70/100",
       "rarity": "Unknown",
@@ -1128,13 +1197,14 @@
         "Stormfront 70",
         "70/100",
         "Pikachu Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/070.jpg"
     },
     {
       "id": "stormfront-071",
       "name": "Ponyta",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "71",
       "fullNumber": "71/100",
       "rarity": "Unknown",
@@ -1144,13 +1214,14 @@
         "Stormfront 71",
         "71/100",
         "Ponyta Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/071.jpg"
     },
     {
       "id": "stormfront-072",
       "name": "Roselia",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "72",
       "fullNumber": "72/100",
       "rarity": "Unknown",
@@ -1160,13 +1231,14 @@
         "Stormfront 72",
         "72/100",
         "Roselia Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/072.jpg"
     },
     {
       "id": "stormfront-073",
       "name": "Skorupi",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "73",
       "fullNumber": "73/100",
       "rarity": "Unknown",
@@ -1176,13 +1248,14 @@
         "Stormfront 73",
         "73/100",
         "Skorupi Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/073.jpg"
     },
     {
       "id": "stormfront-074",
       "name": "Snover",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "74",
       "fullNumber": "74/100",
       "rarity": "Unknown",
@@ -1192,13 +1265,14 @@
         "Stormfront 74",
         "74/100",
         "Snover Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/074.jpg"
     },
     {
       "id": "stormfront-075",
       "name": "Starly",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "75",
       "fullNumber": "75/100",
       "rarity": "Unknown",
@@ -1208,13 +1282,14 @@
         "Stormfront 75",
         "75/100",
         "Starly Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/075.jpg"
     },
     {
       "id": "stormfront-076",
       "name": "Stunky",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "76",
       "fullNumber": "76/100",
       "rarity": "Unknown",
@@ -1224,13 +1299,14 @@
         "Stormfront 76",
         "76/100",
         "Stunky Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/076.jpg"
     },
     {
       "id": "stormfront-077",
       "name": "Swinub",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "77",
       "fullNumber": "77/100",
       "rarity": "Unknown",
@@ -1240,13 +1316,14 @@
         "Stormfront 77",
         "77/100",
         "Swinub Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/077.jpg"
     },
     {
       "id": "stormfront-078",
       "name": "Tangela",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "78",
       "fullNumber": "78/100",
       "rarity": "Unknown",
@@ -1256,13 +1333,14 @@
         "Stormfront 78",
         "78/100",
         "Tangela Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/078.jpg"
     },
     {
       "id": "stormfront-079",
       "name": "Treecko",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "79",
       "fullNumber": "79/100",
       "rarity": "Unknown",
@@ -1272,13 +1350,14 @@
         "Stormfront 79",
         "79/100",
         "Treecko Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/079.jpg"
     },
     {
       "id": "stormfront-080",
       "name": "Voltorb",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "80",
       "fullNumber": "80/100",
       "rarity": "Unknown",
@@ -1288,13 +1367,14 @@
         "Stormfront 80",
         "80/100",
         "Voltorb Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/080.jpg"
     },
     {
       "id": "stormfront-081",
       "name": "Voltorb",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "81",
       "fullNumber": "81/100",
       "rarity": "Unknown",
@@ -1304,13 +1384,14 @@
         "Stormfront 81",
         "81/100",
         "Voltorb Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/081.jpg"
     },
     {
       "id": "stormfront-082",
       "name": "Conductive Quarry",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "82",
       "fullNumber": "82/100",
       "rarity": "Unknown",
@@ -1320,13 +1401,14 @@
         "Stormfront 82",
         "82/100",
         "Conductive Quarry Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/082.jpg"
     },
     {
       "id": "stormfront-083",
       "name": "Energy Link",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "83",
       "fullNumber": "83/100",
       "rarity": "Unknown",
@@ -1336,13 +1418,14 @@
         "Stormfront 83",
         "83/100",
         "Energy Link Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/083.jpg"
     },
     {
       "id": "stormfront-084",
       "name": "Energy Switch",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "84",
       "fullNumber": "84/100",
       "rarity": "Unknown",
@@ -1352,13 +1435,14 @@
         "Stormfront 84",
         "84/100",
         "Energy Switch Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/084.jpg"
     },
     {
       "id": "stormfront-085",
       "name": "Great Ball",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "85",
       "fullNumber": "85/100",
       "rarity": "Unknown",
@@ -1368,13 +1452,14 @@
         "Stormfront 85",
         "85/100",
         "Great Ball Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/085.jpg"
     },
     {
       "id": "stormfront-086",
       "name": "Luxury Ball",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "86",
       "fullNumber": "86/100",
       "rarity": "Unknown",
@@ -1384,13 +1469,14 @@
         "Stormfront 86",
         "86/100",
         "Luxury Ball Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/086.jpg"
     },
     {
       "id": "stormfront-087",
       "name": "Marley's Request",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "87",
       "fullNumber": "87/100",
       "rarity": "Unknown",
@@ -1400,13 +1486,14 @@
         "Stormfront 87",
         "87/100",
         "Marley's Request Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/087.jpg"
     },
     {
       "id": "stormfront-088",
       "name": "Poké Blower +",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "88",
       "fullNumber": "88/100",
       "rarity": "Unknown",
@@ -1416,13 +1503,14 @@
         "Stormfront 88",
         "88/100",
         "Poké Blower + Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/088.jpg"
     },
     {
       "id": "stormfront-089",
       "name": "Poké Drawer +",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "89",
       "fullNumber": "89/100",
       "rarity": "Unknown",
@@ -1432,13 +1520,14 @@
         "Stormfront 89",
         "89/100",
         "Poké Drawer + Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/089.jpg"
     },
     {
       "id": "stormfront-090",
       "name": "Poké Healer +",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "90",
       "fullNumber": "90/100",
       "rarity": "Unknown",
@@ -1448,13 +1537,14 @@
         "Stormfront 90",
         "90/100",
         "Poké Healer + Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/090.jpg"
     },
     {
       "id": "stormfront-091",
       "name": "Premier Ball",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "91",
       "fullNumber": "91/100",
       "rarity": "Unknown",
@@ -1464,13 +1554,14 @@
         "Stormfront 91",
         "91/100",
         "Premier Ball Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/091.jpg"
     },
     {
       "id": "stormfront-092",
       "name": "Potion",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "92",
       "fullNumber": "92/100",
       "rarity": "Unknown",
@@ -1480,13 +1571,14 @@
         "Stormfront 92",
         "92/100",
         "Potion Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/092.jpg"
     },
     {
       "id": "stormfront-093",
       "name": "Switch",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "93",
       "fullNumber": "93/100",
       "rarity": "Unknown",
@@ -1496,13 +1588,14 @@
         "Stormfront 93",
         "93/100",
         "Switch Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/093.jpg"
     },
     {
       "id": "stormfront-094",
       "name": "Cyclone Energy",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "94",
       "fullNumber": "94/100",
       "rarity": "Unknown",
@@ -1512,13 +1605,14 @@
         "Stormfront 94",
         "94/100",
         "Cyclone Energy Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/094.jpg"
     },
     {
       "id": "stormfront-095",
       "name": "Warp Energy",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "95",
       "fullNumber": "95/100",
       "rarity": "Unknown",
@@ -1528,13 +1622,14 @@
         "Stormfront 95",
         "95/100",
         "Warp Energy Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/095.jpg"
     },
     {
       "id": "stormfront-096",
       "name": "Dusknoir LV. X",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "96",
       "fullNumber": "96/100",
       "rarity": "Unknown",
@@ -1544,13 +1639,14 @@
         "Stormfront 96",
         "96/100",
         "Dusknoir LV. X Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/096.jpg"
     },
     {
       "id": "stormfront-097",
       "name": "Heatran LV. X",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "97",
       "fullNumber": "97/100",
       "rarity": "Unknown",
@@ -1560,13 +1656,14 @@
         "Stormfront 97",
         "97/100",
         "Heatran LV. X Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/097.jpg"
     },
     {
       "id": "stormfront-098",
       "name": "Machamp LV. X",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "98",
       "fullNumber": "98/100",
       "rarity": "Unknown",
@@ -1576,13 +1673,14 @@
         "Stormfront 98",
         "98/100",
         "Machamp LV. X Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/098.jpg"
     },
     {
       "id": "stormfront-099",
       "name": "Raichu LV. X",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "99",
       "fullNumber": "99/100",
       "rarity": "Unknown",
@@ -1592,13 +1690,14 @@
         "Stormfront 99",
         "99/100",
         "Raichu LV. X Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/099.jpg"
     },
     {
       "id": "stormfront-100",
       "name": "Regigigas LV. X",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "100",
       "fullNumber": "100/100",
       "rarity": "Unknown",
@@ -1608,13 +1707,14 @@
         "Stormfront 100",
         "100/100",
         "Regigigas LV. X Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/100.jpg"
     },
     {
       "id": "stormfront-sh1",
       "name": "Drifloon",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "SH1",
       "fullNumber": "SH1",
       "rarity": "Unknown",
@@ -1624,13 +1724,14 @@
         "Stormfront SH1",
         "SH1",
         "Drifloon Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/SH1.jpg"
     },
     {
       "id": "stormfront-sh2",
       "name": "Duskull",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "SH2",
       "fullNumber": "SH2",
       "rarity": "Unknown",
@@ -1640,13 +1741,14 @@
         "Stormfront SH2",
         "SH2",
         "Duskull Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/SH2.jpg"
     },
     {
       "id": "stormfront-sh3",
       "name": "Voltorb",
       "setName": "Stormfront",
-      "setCode": "S",
+      "setCode": "SF",
       "cardNumber": "SH3",
       "fullNumber": "SH3",
       "rarity": "Unknown",
@@ -1656,7 +1758,8 @@
         "Stormfront SH3",
         "SH3",
         "Voltorb Stormfront"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/stormfront/SH3.jpg"
     }
   ]
 }

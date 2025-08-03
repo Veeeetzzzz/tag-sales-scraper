@@ -3,7 +3,9 @@
     "name": "Sword & Shield",
     "code": "SSH",
     "releaseDate": "2020-02-07",
-    "totalCards": 202
+    "totalCards": 202,
+    "setCode": "SSH",
+    "logo": "https://www.serebii.net/card/logo/swordshield.png"
   },
   "cards": [
     {
@@ -16,7 +18,8 @@
       "matchingKeywords": [
         "celebi",
         "celebi v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/001.jpg"
     },
     {
       "id": "SSH-002",
@@ -27,7 +30,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "roselia"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/002.jpg"
     },
     {
       "id": "SSH-003",
@@ -38,7 +42,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "roselia"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/003.jpg"
     },
     {
       "id": "SSH-004",
@@ -49,7 +54,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "roserade"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/004.jpg"
     },
     {
       "id": "SSH-005",
@@ -60,7 +66,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "cottonee"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/005.jpg"
     },
     {
       "id": "SSH-006",
@@ -71,7 +78,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "whimsicott"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/006.jpg"
     },
     {
       "id": "SSH-007",
@@ -82,7 +90,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "maractus"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/007.jpg"
     },
     {
       "id": "SSH-008",
@@ -93,7 +102,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "durant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/008.jpg"
     },
     {
       "id": "SSH-009",
@@ -105,7 +115,8 @@
       "matchingKeywords": [
         "dhelmise v",
         "dhelmise"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/009.jpg"
     },
     {
       "id": "SSH-010",
@@ -116,7 +127,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "grookey"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/010.jpg"
     },
     {
       "id": "SSH-011",
@@ -127,7 +139,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "grookey"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/011.jpg"
     },
     {
       "id": "SSH-012",
@@ -138,7 +151,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "thwackey"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/012.jpg"
     },
     {
       "id": "SSH-013",
@@ -149,7 +163,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "thwackey"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/013.jpg"
     },
     {
       "id": "SSH-014",
@@ -160,7 +175,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "rillaboom"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/014.jpg"
     },
     {
       "id": "SSH-015",
@@ -171,7 +187,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "rillaboom"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/015.jpg"
     },
     {
       "id": "SSH-016",
@@ -182,7 +199,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "blipbug"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/016.jpg"
     },
     {
       "id": "SSH-017",
@@ -193,7 +211,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "blipbug"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/017.jpg"
     },
     {
       "id": "SSH-018",
@@ -204,7 +223,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "dottler"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/018.jpg"
     },
     {
       "id": "SSH-019",
@@ -215,7 +235,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "orbeetle"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/019.jpg"
     },
     {
       "id": "SSH-020",
@@ -226,7 +247,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "gossifleur"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/020.jpg"
     },
     {
       "id": "SSH-021",
@@ -237,7 +259,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "eldegoss"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/021.jpg"
     },
     {
       "id": "SSH-022",
@@ -248,7 +271,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "vulpix"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/022.jpg"
     },
     {
       "id": "SSH-023",
@@ -259,7 +283,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "ninetales"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/023.jpg"
     },
     {
       "id": "SSH-024",
@@ -271,7 +296,8 @@
       "matchingKeywords": [
         "torkoal",
         "torkoal v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/024.jpg"
     },
     {
       "id": "SSH-025",
@@ -283,7 +309,8 @@
       "matchingKeywords": [
         "victini",
         "victini v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/025.jpg"
     },
     {
       "id": "SSH-026",
@@ -294,7 +321,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "heatmor"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/026.jpg"
     },
     {
       "id": "SSH-027",
@@ -305,7 +333,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "salandit"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/027.jpg"
     },
     {
       "id": "SSH-028",
@@ -316,7 +345,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "salazzle"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/028.jpg"
     },
     {
       "id": "SSH-029",
@@ -327,7 +357,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "turtonator"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/029.jpg"
     },
     {
       "id": "SSH-030",
@@ -338,7 +369,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "scorbunny"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/030.jpg"
     },
     {
       "id": "SSH-031",
@@ -349,7 +381,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "scorbunny"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/031.jpg"
     },
     {
       "id": "SSH-032",
@@ -360,7 +393,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "raboot"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/032.jpg"
     },
     {
       "id": "SSH-033",
@@ -371,7 +405,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "raboot"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/033.jpg"
     },
     {
       "id": "SSH-034",
@@ -382,7 +417,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "cinderace"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/034.jpg"
     },
     {
       "id": "SSH-035",
@@ -393,7 +429,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "cinderace"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/035.jpg"
     },
     {
       "id": "SSH-036",
@@ -404,7 +441,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "cinderace"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/036.jpg"
     },
     {
       "id": "SSH-037",
@@ -415,7 +453,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "sizzlipede"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/037.jpg"
     },
     {
       "id": "SSH-038",
@@ -426,7 +465,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "sizzlipede"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/038.jpg"
     },
     {
       "id": "SSH-039",
@@ -437,7 +477,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "centiskorch"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/039.jpg"
     },
     {
       "id": "SSH-040",
@@ -448,7 +489,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "shellder"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/040.jpg"
     },
     {
       "id": "SSH-041",
@@ -459,7 +501,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "cloyster"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/041.jpg"
     },
     {
       "id": "SSH-042",
@@ -470,7 +513,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "krabby"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/042.jpg"
     },
     {
       "id": "SSH-043",
@@ -481,7 +525,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "krabby"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/043.jpg"
     },
     {
       "id": "SSH-044",
@@ -492,7 +537,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "kingler"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/044.jpg"
     },
     {
       "id": "SSH-045",
@@ -503,7 +549,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "goldeen"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/045.jpg"
     },
     {
       "id": "SSH-046",
@@ -514,7 +561,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "goldeen"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/046.jpg"
     },
     {
       "id": "SSH-047",
@@ -525,7 +573,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "seaking"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/047.jpg"
     },
     {
       "id": "SSH-048",
@@ -536,7 +585,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "lapras"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/048.jpg"
     },
     {
       "id": "SSH-049",
@@ -548,7 +598,8 @@
       "matchingKeywords": [
         "lapras",
         "lapras v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/049.jpg"
     },
     {
       "id": "SSH-050",
@@ -561,7 +612,8 @@
         "lapras vmax",
         "lapras",
         "vmax"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/050.jpg"
     },
     {
       "id": "SSH-051",
@@ -572,7 +624,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "qwilfish"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/051.jpg"
     },
     {
       "id": "SSH-052",
@@ -583,7 +636,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "mantine"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/052.jpg"
     },
     {
       "id": "SSH-053",
@@ -595,7 +649,8 @@
       "matchingKeywords": [
         "keldeo v",
         "keldeo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/053.jpg"
     },
     {
       "id": "SSH-054",
@@ -606,7 +661,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "sobble"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/054.jpg"
     },
     {
       "id": "SSH-055",
@@ -617,7 +673,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "sobble"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/055.jpg"
     },
     {
       "id": "SSH-056",
@@ -628,7 +685,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "drizzile"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/056.jpg"
     },
     {
       "id": "SSH-057",
@@ -639,7 +697,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "drizzile"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/057.jpg"
     },
     {
       "id": "SSH-058",
@@ -650,7 +709,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "inteleon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/058.jpg"
     },
     {
       "id": "SSH-059",
@@ -661,7 +721,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "inteleon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/059.jpg"
     },
     {
       "id": "SSH-060",
@@ -672,7 +733,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "chewtle"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/060.jpg"
     },
     {
       "id": "SSH-061",
@@ -683,7 +745,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "drednaw"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/061.jpg"
     },
     {
       "id": "SSH-062",
@@ -694,7 +757,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "cramorant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/062.jpg"
     },
     {
       "id": "SSH-063",
@@ -705,7 +769,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "snom"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/063.jpg"
     },
     {
       "id": "SSH-064",
@@ -716,7 +781,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "frosmoth"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/064.jpg"
     },
     {
       "id": "SSH-065",
@@ -727,7 +793,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "pikachu"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/065.jpg"
     },
     {
       "id": "SSH-066",
@@ -738,7 +805,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "raichu"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/066.jpg"
     },
     {
       "id": "SSH-067",
@@ -749,7 +817,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "chinchou"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/067.jpg"
     },
     {
       "id": "SSH-068",
@@ -760,7 +829,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "chinchou"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/068.jpg"
     },
     {
       "id": "SSH-069",
@@ -771,7 +841,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "lanturn"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/069.jpg"
     },
     {
       "id": "SSH-070",
@@ -782,7 +853,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "joltik"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/070.jpg"
     },
     {
       "id": "SSH-071",
@@ -793,7 +865,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "galvantula"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/071.jpg"
     },
     {
       "id": "SSH-072",
@@ -806,7 +879,8 @@
         "tapu",
         "tapu koko v",
         "koko"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/072.jpg"
     },
     {
       "id": "SSH-073",
@@ -817,7 +891,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "yamper"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/073.jpg"
     },
     {
       "id": "SSH-074",
@@ -828,7 +903,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "yamper"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/074.jpg"
     },
     {
       "id": "SSH-075",
@@ -839,7 +915,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "boltund"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/075.jpg"
     },
     {
       "id": "SSH-076",
@@ -850,7 +927,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "boltund"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/076.jpg"
     },
     {
       "id": "SSH-077",
@@ -861,7 +939,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "pincurchin"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/077.jpg"
     },
     {
       "id": "SSH-078",
@@ -872,7 +951,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "morpeko"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/078.jpg"
     },
     {
       "id": "SSH-079",
@@ -884,7 +964,8 @@
       "matchingKeywords": [
         "morpeko",
         "morpeko v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/079.jpg"
     },
     {
       "id": "SSH-080",
@@ -897,7 +978,8 @@
         "morpeko",
         "vmax",
         "morpeko vmax"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/080.jpg"
     },
     {
       "id": "SSH-081",
@@ -910,7 +992,8 @@
         "ponyta",
         "galarian",
         "galarian ponyta"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/081.jpg"
     },
     {
       "id": "SSH-082",
@@ -923,7 +1006,8 @@
         "galarian",
         "rapidash",
         "galarian rapidash"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/082.jpg"
     },
     {
       "id": "SSH-083",
@@ -934,7 +1018,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "gastly"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/083.jpg"
     },
     {
       "id": "SSH-084",
@@ -945,7 +1030,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "haunter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/084.jpg"
     },
     {
       "id": "SSH-085",
@@ -956,7 +1042,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "gengar"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/085.jpg"
     },
     {
       "id": "SSH-086",
@@ -968,7 +1055,8 @@
       "matchingKeywords": [
         "wobbuffet",
         "wobbuffet v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/086.jpg"
     },
     {
       "id": "SSH-087",
@@ -979,7 +1067,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "munna"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/087.jpg"
     },
     {
       "id": "SSH-088",
@@ -990,7 +1079,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "musharna"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/088.jpg"
     },
     {
       "id": "SSH-089",
@@ -1001,7 +1091,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "sinistea"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/089.jpg"
     },
     {
       "id": "SSH-090",
@@ -1012,7 +1103,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "polteageist"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/090.jpg"
     },
     {
       "id": "SSH-091",
@@ -1024,7 +1116,8 @@
       "matchingKeywords": [
         "indeedee",
         "indeedee v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/091.jpg"
     },
     {
       "id": "SSH-092",
@@ -1035,7 +1128,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "diglett"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/092.jpg"
     },
     {
       "id": "SSH-093",
@@ -1046,7 +1140,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "dugtrio"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/093.jpg"
     },
     {
       "id": "SSH-094",
@@ -1057,7 +1152,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "hitmonlee"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/094.jpg"
     },
     {
       "id": "SSH-095",
@@ -1068,7 +1164,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "hitmonchan"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/095.jpg"
     },
     {
       "id": "SSH-096",
@@ -1079,7 +1176,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "rhyhorn"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/096.jpg"
     },
     {
       "id": "SSH-097",
@@ -1090,7 +1188,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "rhyhorn"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/097.jpg"
     },
     {
       "id": "SSH-098",
@@ -1101,7 +1200,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "rhydon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/098.jpg"
     },
     {
       "id": "SSH-099",
@@ -1112,7 +1212,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "rhyperior"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/099.jpg"
     },
     {
       "id": "SSH-100",
@@ -1123,7 +1224,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "sudowoodo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/100.jpg"
     },
     {
       "id": "SSH-101",
@@ -1134,7 +1236,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "baltoy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/101.jpg"
     },
     {
       "id": "SSH-102",
@@ -1145,7 +1248,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "baltoy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/102.jpg"
     },
     {
       "id": "SSH-103",
@@ -1156,7 +1260,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "claydol"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/103.jpg"
     },
     {
       "id": "SSH-104",
@@ -1168,7 +1273,8 @@
       "matchingKeywords": [
         "regirock v",
         "regirock"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/104.jpg"
     },
     {
       "id": "SSH-105",
@@ -1179,7 +1285,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "mudbray"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/105.jpg"
     },
     {
       "id": "SSH-106",
@@ -1190,7 +1297,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "mudsdale"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/106.jpg"
     },
     {
       "id": "SSH-107",
@@ -1201,7 +1309,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "silicobra"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/107.jpg"
     },
     {
       "id": "SSH-108",
@@ -1212,7 +1321,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "silicobra"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/108.jpg"
     },
     {
       "id": "SSH-109",
@@ -1223,7 +1333,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "sandaconda"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/109.jpg"
     },
     {
       "id": "SSH-110",
@@ -1234,7 +1345,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "sandaconda"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/110.jpg"
     },
     {
       "id": "SSH-111",
@@ -1245,7 +1357,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "clobbopus"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/111.jpg"
     },
     {
       "id": "SSH-112",
@@ -1256,7 +1369,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "clobbopus"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/112.jpg"
     },
     {
       "id": "SSH-113",
@@ -1267,7 +1381,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "grapploct"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/113.jpg"
     },
     {
       "id": "SSH-114",
@@ -1278,7 +1393,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "stonjourner"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/114.jpg"
     },
     {
       "id": "SSH-115",
@@ -1290,7 +1406,8 @@
       "matchingKeywords": [
         "stonjourner v",
         "stonjourner"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/115.jpg"
     },
     {
       "id": "SSH-116",
@@ -1303,7 +1420,8 @@
         "stonjourner vmax",
         "stonjourner",
         "vmax"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/116.jpg"
     },
     {
       "id": "SSH-117",
@@ -1316,7 +1434,8 @@
         "zigzagoon",
         "galarian",
         "galarian zigzagoon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/117.jpg"
     },
     {
       "id": "SSH-118",
@@ -1329,7 +1448,8 @@
         "galarian",
         "linoone",
         "galarian linoone"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/118.jpg"
     },
     {
       "id": "SSH-119",
@@ -1342,7 +1462,8 @@
         "obstagoon",
         "galarian",
         "galarian obstagoon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/119.jpg"
     },
     {
       "id": "SSH-120",
@@ -1354,7 +1475,8 @@
       "matchingKeywords": [
         "sableye",
         "sableye v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/120.jpg"
     },
     {
       "id": "SSH-121",
@@ -1365,7 +1487,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "skorupi"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/121.jpg"
     },
     {
       "id": "SSH-122",
@@ -1376,7 +1499,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "drapion"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/122.jpg"
     },
     {
       "id": "SSH-123",
@@ -1387,7 +1511,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "croagunk"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/123.jpg"
     },
     {
       "id": "SSH-124",
@@ -1398,7 +1523,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "toxicroak"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/124.jpg"
     },
     {
       "id": "SSH-125",
@@ -1409,7 +1535,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "nickit"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/125.jpg"
     },
     {
       "id": "SSH-126",
@@ -1420,7 +1547,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "thievul"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/126.jpg"
     },
     {
       "id": "SSH-127",
@@ -1433,7 +1561,8 @@
         "galarian",
         "meowth",
         "galarian meowth"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/127.jpg"
     },
     {
       "id": "SSH-128",
@@ -1446,7 +1575,8 @@
         "galarian",
         "perrserker",
         "galarian perrserker"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/128.jpg"
     },
     {
       "id": "SSH-129",
@@ -1457,7 +1587,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "mawile"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/129.jpg"
     },
     {
       "id": "SSH-130",
@@ -1468,7 +1599,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "ferroseed"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/130.jpg"
     },
     {
       "id": "SSH-131",
@@ -1479,7 +1611,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "ferrothorn"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/131.jpg"
     },
     {
       "id": "SSH-132",
@@ -1492,7 +1625,8 @@
         "galarian stunfisk",
         "galarian",
         "stunfisk"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/132.jpg"
     },
     {
       "id": "SSH-133",
@@ -1503,7 +1637,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "pawniard"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/133.jpg"
     },
     {
       "id": "SSH-134",
@@ -1514,7 +1649,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "bisharp"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/134.jpg"
     },
     {
       "id": "SSH-135",
@@ -1525,7 +1661,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "corviknight"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/135.jpg"
     },
     {
       "id": "SSH-136",
@@ -1536,7 +1673,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "cufant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/136.jpg"
     },
     {
       "id": "SSH-137",
@@ -1547,7 +1685,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "copperajah"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/137.jpg"
     },
     {
       "id": "SSH-138",
@@ -1559,7 +1698,8 @@
       "matchingKeywords": [
         "zacian v",
         "zacian"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/138.jpg"
     },
     {
       "id": "SSH-139",
@@ -1571,7 +1711,8 @@
       "matchingKeywords": [
         "zamazenta v",
         "zamazenta"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/139.jpg"
     },
     {
       "id": "SSH-140",
@@ -1582,7 +1723,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "snorlax"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/140.jpg"
     },
     {
       "id": "SSH-141",
@@ -1594,7 +1736,8 @@
       "matchingKeywords": [
         "snorlax",
         "snorlax v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/141.jpg"
     },
     {
       "id": "SSH-142",
@@ -1607,7 +1750,8 @@
         "snorlax",
         "snorlax vmax",
         "vmax"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/142.jpg"
     },
     {
       "id": "SSH-143",
@@ -1618,7 +1762,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "hoothoot"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/143.jpg"
     },
     {
       "id": "SSH-144",
@@ -1629,7 +1774,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "noctowl"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/144.jpg"
     },
     {
       "id": "SSH-145",
@@ -1640,7 +1786,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "minccino"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/145.jpg"
     },
     {
       "id": "SSH-146",
@@ -1651,7 +1798,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "minccino"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/146.jpg"
     },
     {
       "id": "SSH-147",
@@ -1662,7 +1810,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "cinccino"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/147.jpg"
     },
     {
       "id": "SSH-148",
@@ -1673,7 +1822,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "oranguru"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/148.jpg"
     },
     {
       "id": "SSH-149",
@@ -1684,7 +1834,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "drampa"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/149.jpg"
     },
     {
       "id": "SSH-150",
@@ -1695,7 +1846,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "rookidee"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/150.jpg"
     },
     {
       "id": "SSH-151",
@@ -1706,7 +1858,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "corvisquire"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/151.jpg"
     },
     {
       "id": "SSH-152",
@@ -1717,7 +1870,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "wooloo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/152.jpg"
     },
     {
       "id": "SSH-153",
@@ -1728,7 +1882,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "wooloo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/153.jpg"
     },
     {
       "id": "SSH-154",
@@ -1739,7 +1894,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "dubwool"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/154.jpg"
     },
     {
       "id": "SSH-155",
@@ -1751,7 +1907,8 @@
       "matchingKeywords": [
         "cramorant v",
         "cramorant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/155.jpg"
     },
     {
       "id": "SSH-156",
@@ -1764,7 +1921,8 @@
         "air",
         "air balloon",
         "balloon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/156.jpg"
     },
     {
       "id": "SSH-157",
@@ -1775,7 +1933,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "bede"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/157.jpg"
     },
     {
       "id": "SSH-158",
@@ -1788,7 +1947,8 @@
         "charm",
         "big",
         "big charm"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/158.jpg"
     },
     {
       "id": "SSH-159",
@@ -1801,7 +1961,8 @@
         "hammer",
         "crushing hammer",
         "crushing"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/159.jpg"
     },
     {
       "id": "SSH-160",
@@ -1814,7 +1975,8 @@
         "retrieval",
         "energy retrieval",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/160.jpg"
     },
     {
       "id": "SSH-161",
@@ -1827,7 +1989,8 @@
         "search",
         "energy search",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/161.jpg"
     },
     {
       "id": "SSH-162",
@@ -1840,7 +2003,8 @@
         "switch",
         "energy switch",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/162.jpg"
     },
     {
       "id": "SSH-163",
@@ -1853,7 +2017,8 @@
         "incense",
         "evolution",
         "evolution incense"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/163.jpg"
     },
     {
       "id": "SSH-164",
@@ -1866,7 +2031,8 @@
         "ball",
         "great",
         "great ball"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/164.jpg"
     },
     {
       "id": "SSH-165",
@@ -1877,7 +2043,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "hop"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/165.jpg"
     },
     {
       "id": "SSH-166",
@@ -1890,7 +2057,8 @@
         "potion",
         "hyper",
         "hyper potion"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/166.jpg"
     },
     {
       "id": "SSH-167",
@@ -1903,7 +2071,8 @@
         "egg",
         "lucky",
         "lucky egg"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/167.jpg"
     },
     {
       "id": "SSH-168",
@@ -1916,7 +2085,8 @@
         "lum",
         "berry",
         "lum berry"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/168.jpg"
     },
     {
       "id": "SSH-169",
@@ -1927,7 +2097,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "marnie"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/169.jpg"
     },
     {
       "id": "SSH-170",
@@ -1940,7 +2111,8 @@
         "metal saucer",
         "saucer",
         "metal"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/170.jpg"
     },
     {
       "id": "SSH-171",
@@ -1953,7 +2125,8 @@
         "ordinary",
         "ordinary rod",
         "rod"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/171.jpg"
     },
     {
       "id": "SSH-172",
@@ -1966,7 +2139,8 @@
         "pal",
         "pad",
         "pal pad"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/172.jpg"
     },
     {
       "id": "SSH-173",
@@ -1979,7 +2153,8 @@
         "kid",
         "poké kid",
         "poké"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/173.jpg"
     },
     {
       "id": "SSH-174",
@@ -1992,7 +2167,8 @@
         "3.0",
         "pokégear 3.0",
         "pokégear"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/174.jpg"
     },
     {
       "id": "SSH-175",
@@ -2005,7 +2181,8 @@
         "pokémon",
         "catcher",
         "pokémon catcher"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/175.jpg"
     },
     {
       "id": "SSH-176",
@@ -2019,7 +2196,8 @@
         "pokémon",
         "pokémon center lady",
         "center"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/176.jpg"
     },
     {
       "id": "SSH-177",
@@ -2030,7 +2208,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "potion"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/177.jpg"
     },
     {
       "id": "SSH-178",
@@ -2043,7 +2222,8 @@
         "professor’s research",
         "professor’s",
         "research"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/178.jpg"
     },
     {
       "id": "SSH-179",
@@ -2056,7 +2236,8 @@
         "ball",
         "quick ball",
         "quick"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/179.jpg"
     },
     {
       "id": "SSH-180",
@@ -2069,7 +2250,8 @@
         "rare",
         "candy",
         "rare candy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/180.jpg"
     },
     {
       "id": "SSH-181",
@@ -2082,7 +2264,8 @@
         "bike",
         "rotom",
         "rotom bike"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/181.jpg"
     },
     {
       "id": "SSH-182",
@@ -2095,7 +2278,8 @@
         "berry",
         "sitrus berry",
         "sitrus"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/182.jpg"
     },
     {
       "id": "SSH-183",
@@ -2106,7 +2290,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "switch"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/183.jpg"
     },
     {
       "id": "SSH-184",
@@ -2120,7 +2305,8 @@
         "team",
         "yell",
         "grunt"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/184.jpg"
     },
     {
       "id": "SSH-185",
@@ -2133,7 +2319,8 @@
         "band",
         "vitality",
         "vitality band"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/185.jpg"
     },
     {
       "id": "SSH-186",
@@ -2146,7 +2333,8 @@
         "aurora energy",
         "aurora",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/186.jpg"
     },
     {
       "id": "SSH-187",
@@ -2158,7 +2346,8 @@
       "matchingKeywords": [
         "dhelmise v",
         "dhelmise"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/187.jpg"
     },
     {
       "id": "SSH-188",
@@ -2170,7 +2359,8 @@
       "matchingKeywords": [
         "torkoal",
         "torkoal v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/188.jpg"
     },
     {
       "id": "SSH-189",
@@ -2182,7 +2372,8 @@
       "matchingKeywords": [
         "lapras",
         "lapras v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/189.jpg"
     },
     {
       "id": "SSH-190",
@@ -2194,7 +2385,8 @@
       "matchingKeywords": [
         "morpeko",
         "morpeko v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/190.jpg"
     },
     {
       "id": "SSH-191",
@@ -2206,7 +2398,8 @@
       "matchingKeywords": [
         "wobbuffet",
         "wobbuffet v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/191.jpg"
     },
     {
       "id": "SSH-192",
@@ -2218,7 +2411,8 @@
       "matchingKeywords": [
         "indeedee",
         "indeedee v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/192.jpg"
     },
     {
       "id": "SSH-193",
@@ -2230,7 +2424,8 @@
       "matchingKeywords": [
         "stonjourner v",
         "stonjourner"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/193.jpg"
     },
     {
       "id": "SSH-194",
@@ -2242,7 +2437,8 @@
       "matchingKeywords": [
         "sableye",
         "sableye v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/194.jpg"
     },
     {
       "id": "SSH-195",
@@ -2254,7 +2450,8 @@
       "matchingKeywords": [
         "zacian v",
         "zacian"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/195.jpg"
     },
     {
       "id": "SSH-196",
@@ -2266,7 +2463,8 @@
       "matchingKeywords": [
         "zamazenta v",
         "zamazenta"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/196.jpg"
     },
     {
       "id": "SSH-197",
@@ -2278,7 +2476,8 @@
       "matchingKeywords": [
         "snorlax",
         "snorlax v"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/197.jpg"
     },
     {
       "id": "SSH-198",
@@ -2290,7 +2489,8 @@
       "matchingKeywords": [
         "cramorant v",
         "cramorant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/198.jpg"
     },
     {
       "id": "SSH-199",
@@ -2301,7 +2501,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "bede"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/199.jpg"
     },
     {
       "id": "SSH-200",
@@ -2312,7 +2513,8 @@
       "set": "SSH",
       "matchingKeywords": [
         "marnie"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/200.jpg"
     },
     {
       "id": "SSH-201",
@@ -2325,7 +2527,8 @@
         "professor’s research",
         "professor’s",
         "research"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/201.jpg"
     },
     {
       "id": "SSH-202",
@@ -2339,7 +2542,8 @@
         "team",
         "yell",
         "grunt"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/swordshield/202.jpg"
     }
   ]
 }

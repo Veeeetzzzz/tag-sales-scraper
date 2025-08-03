@@ -3,18 +3,18 @@
     "name": "Fossil",
     "description": "Pokemon Fossil expansion set - Third set in the original Pokemon TCG featuring prehistoric Pokemon",
     "lastUpdated": "2025-06-16",
-    "setCode": "FO",
+    "setCode": "FOSSIL",
     "totalCards": 62,
     "releaseDate": "1999-10-10",
     "tagSales": 0,
-    "logo": "https://www.serebii.net/card/fossil/1.jpg"
+    "logo": "https://www.serebii.net/card/logo/fossil.png"
   },
   "cards": [
     {
       "id": "fossil-01",
       "name": "Aerodactyl",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "01",
       "fullNumber": "1/62",
       "rarity": "Rare Holo",
@@ -28,13 +28,13 @@
         "1/62",
         "Fossil Aerodactyl"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/01.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/001.jpg"
     },
     {
       "id": "fossil-02",
       "name": "Articuno",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "02",
       "fullNumber": "2/62",
       "rarity": "Rare Holo",
@@ -48,13 +48,13 @@
         "2/62",
         "Fossil Articuno"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/02.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/002.jpg"
     },
     {
       "id": "fossil-03",
       "name": "Ditto",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "03",
       "fullNumber": "3/62",
       "rarity": "Rare Holo",
@@ -68,13 +68,13 @@
         "3/62",
         "Fossil Ditto"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/03.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/003.jpg"
     },
     {
       "id": "fossil-04",
       "name": "Dragonite",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "04",
       "fullNumber": "4/62",
       "rarity": "Rare Holo",
@@ -88,13 +88,13 @@
         "4/62",
         "Fossil Dragonite"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/04.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/004.jpg"
     },
     {
       "id": "fossil-05",
       "name": "Gengar",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "05",
       "fullNumber": "5/62",
       "rarity": "Rare Holo",
@@ -108,13 +108,13 @@
         "5/62",
         "Fossil Gengar"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/05.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/005.jpg"
     },
     {
       "id": "fossil-06",
       "name": "Haunter",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "06",
       "fullNumber": "6/62",
       "rarity": "Rare Holo",
@@ -128,13 +128,13 @@
         "6/62",
         "Fossil Haunter"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/06.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/006.jpg"
     },
     {
       "id": "fossil-07",
       "name": "Hitmonlee",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "07",
       "fullNumber": "7/62",
       "rarity": "Rare Holo",
@@ -148,13 +148,13 @@
         "7/62",
         "Fossil Hitmonlee"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/07.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/007.jpg"
     },
     {
       "id": "fossil-08",
       "name": "Hypno",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "08",
       "fullNumber": "8/62",
       "rarity": "Rare Holo",
@@ -168,13 +168,13 @@
         "8/62",
         "Fossil Hypno"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/08.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/008.jpg"
     },
     {
       "id": "fossil-09",
       "name": "Kabutops",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "09",
       "fullNumber": "9/62",
       "rarity": "Rare Holo",
@@ -188,13 +188,13 @@
         "9/62",
         "Fossil Kabutops"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/09.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/009.jpg"
     },
     {
       "id": "fossil-10",
       "name": "Lapras",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "10",
       "fullNumber": "10/62",
       "rarity": "Rare Holo",
@@ -208,13 +208,13 @@
         "10/62",
         "Fossil Lapras"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/10.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/010.jpg"
     },
     {
       "id": "fossil-11",
       "name": "Magneton",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "11",
       "fullNumber": "11/62",
       "rarity": "Rare Holo",
@@ -228,13 +228,13 @@
         "11/62",
         "Fossil Magneton"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/11.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/011.jpg"
     },
     {
       "id": "fossil-12",
       "name": "Moltres",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "12",
       "fullNumber": "12/62",
       "rarity": "Rare Holo",
@@ -248,13 +248,13 @@
         "12/62",
         "Fossil Moltres"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/12.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/012.jpg"
     },
     {
       "id": "fossil-13",
       "name": "Muk",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "13",
       "fullNumber": "13/62",
       "rarity": "Rare Holo",
@@ -268,13 +268,13 @@
         "13/62",
         "Fossil Muk"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/13.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/013.jpg"
     },
     {
       "id": "fossil-14",
       "name": "Raichu",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "14",
       "fullNumber": "14/62",
       "rarity": "Rare Holo",
@@ -288,13 +288,13 @@
         "14/62",
         "Fossil Raichu"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/14.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/014.jpg"
     },
     {
       "id": "fossil-15",
       "name": "Zapdos",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "15",
       "fullNumber": "15/62",
       "rarity": "Rare Holo",
@@ -308,13 +308,13 @@
         "15/62",
         "Fossil Zapdos"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/15.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/015.jpg"
     },
     {
       "id": "fossil-16",
       "name": "Aerodactyl",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "16",
       "fullNumber": "16/62",
       "rarity": "Rare",
@@ -328,13 +328,13 @@
         "16/62",
         "Fossil Aerodactyl"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/16.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/016.jpg"
     },
     {
       "id": "fossil-17",
       "name": "Articuno",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "17",
       "fullNumber": "17/62",
       "rarity": "Rare",
@@ -348,13 +348,13 @@
         "17/62",
         "Fossil Articuno"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/17.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/017.jpg"
     },
     {
       "id": "fossil-18",
       "name": "Ditto",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "18",
       "fullNumber": "18/62",
       "rarity": "Rare",
@@ -368,13 +368,13 @@
         "18/62",
         "Fossil Ditto"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/18.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/018.jpg"
     },
     {
       "id": "fossil-19",
       "name": "Dragonite",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "19",
       "fullNumber": "19/62",
       "rarity": "Rare",
@@ -388,13 +388,13 @@
         "19/62",
         "Fossil Dragonite"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/19.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/019.jpg"
     },
     {
       "id": "fossil-20",
       "name": "Gengar",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "20",
       "fullNumber": "20/62",
       "rarity": "Rare",
@@ -408,13 +408,13 @@
         "20/62",
         "Fossil Gengar"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/20.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/020.jpg"
     },
     {
       "id": "fossil-21",
       "name": "Haunter",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "21",
       "fullNumber": "21/62",
       "rarity": "Rare",
@@ -428,13 +428,13 @@
         "21/62",
         "Fossil Haunter"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/21.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/021.jpg"
     },
     {
       "id": "fossil-22",
       "name": "Hitmonlee",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "22",
       "fullNumber": "22/62",
       "rarity": "Rare",
@@ -448,13 +448,13 @@
         "22/62",
         "Fossil Hitmonlee"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/22.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/022.jpg"
     },
     {
       "id": "fossil-23",
       "name": "Hypno",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "23",
       "fullNumber": "23/62",
       "rarity": "Rare",
@@ -468,13 +468,13 @@
         "23/62",
         "Fossil Hypno"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/23.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/023.jpg"
     },
     {
       "id": "fossil-24",
       "name": "Kabutops",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "24",
       "fullNumber": "24/62",
       "rarity": "Rare",
@@ -488,13 +488,13 @@
         "24/62",
         "Fossil Kabutops"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/24.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/024.jpg"
     },
     {
       "id": "fossil-25",
       "name": "Lapras",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "25",
       "fullNumber": "25/62",
       "rarity": "Rare",
@@ -508,13 +508,13 @@
         "25/62",
         "Fossil Lapras"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/25.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/025.jpg"
     },
     {
       "id": "fossil-26",
       "name": "Magneton",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "26",
       "fullNumber": "26/62",
       "rarity": "Rare",
@@ -528,13 +528,13 @@
         "26/62",
         "Fossil Magneton"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/26.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/026.jpg"
     },
     {
       "id": "fossil-27",
       "name": "Moltres",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "27",
       "fullNumber": "27/62",
       "rarity": "Rare",
@@ -548,13 +548,13 @@
         "27/62",
         "Fossil Moltres"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/27.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/027.jpg"
     },
     {
       "id": "fossil-28",
       "name": "Muk",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "28",
       "fullNumber": "28/62",
       "rarity": "Rare",
@@ -568,13 +568,13 @@
         "28/62",
         "Fossil Muk"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/28.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/028.jpg"
     },
     {
       "id": "fossil-29",
       "name": "Raichu",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "29",
       "fullNumber": "29/62",
       "rarity": "Rare",
@@ -588,13 +588,13 @@
         "29/62",
         "Fossil Raichu"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/29.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/029.jpg"
     },
     {
       "id": "fossil-30",
       "name": "Zapdos",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "30",
       "fullNumber": "30/62",
       "rarity": "Rare",
@@ -608,13 +608,13 @@
         "30/62",
         "Fossil Zapdos"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/30.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/030.jpg"
     },
     {
       "id": "fossil-31",
       "name": "Arbok",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "31",
       "fullNumber": "31/62",
       "rarity": "Uncommon",
@@ -628,13 +628,13 @@
         "31/62",
         "Fossil Arbok"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/31.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/031.jpg"
     },
     {
       "id": "fossil-32",
       "name": "Cloyster",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "32",
       "fullNumber": "32/62",
       "rarity": "Uncommon",
@@ -648,13 +648,13 @@
         "32/62",
         "Fossil Cloyster"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/32.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/032.jpg"
     },
     {
       "id": "fossil-33",
       "name": "Gastly",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "33",
       "fullNumber": "33/62",
       "rarity": "Uncommon",
@@ -668,13 +668,13 @@
         "33/62",
         "Fossil Gastly"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/33.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/033.jpg"
     },
     {
       "id": "fossil-34",
       "name": "Golbat",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "34",
       "fullNumber": "34/62",
       "rarity": "Uncommon",
@@ -688,13 +688,13 @@
         "34/62",
         "Fossil Golbat"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/34.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/034.jpg"
     },
     {
       "id": "fossil-35",
       "name": "Golduck",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "35",
       "fullNumber": "35/62",
       "rarity": "Uncommon",
@@ -708,13 +708,13 @@
         "35/62",
         "Fossil Golduck"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/35.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/035.jpg"
     },
     {
       "id": "fossil-36",
       "name": "Golem",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "36",
       "fullNumber": "36/62",
       "rarity": "Uncommon",
@@ -728,13 +728,13 @@
         "36/62",
         "Fossil Golem"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/36.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/036.jpg"
     },
     {
       "id": "fossil-37",
       "name": "Graveler",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "37",
       "fullNumber": "37/62",
       "rarity": "Uncommon",
@@ -748,13 +748,13 @@
         "37/62",
         "Fossil Graveler"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/37.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/037.jpg"
     },
     {
       "id": "fossil-38",
       "name": "Kingler",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "38",
       "fullNumber": "38/62",
       "rarity": "Uncommon",
@@ -768,13 +768,13 @@
         "38/62",
         "Fossil Kingler"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/38.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/038.jpg"
     },
     {
       "id": "fossil-39",
       "name": "Magmar",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "39",
       "fullNumber": "39/62",
       "rarity": "Uncommon",
@@ -788,13 +788,13 @@
         "39/62",
         "Fossil Magmar"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/39.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/039.jpg"
     },
     {
       "id": "fossil-40",
       "name": "Omastar",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "40",
       "fullNumber": "40/62",
       "rarity": "Uncommon",
@@ -808,13 +808,13 @@
         "40/62",
         "Fossil Omastar"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/40.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/040.jpg"
     },
     {
       "id": "fossil-41",
       "name": "Sandslash",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "41",
       "fullNumber": "41/62",
       "rarity": "Uncommon",
@@ -828,13 +828,13 @@
         "41/62",
         "Fossil Sandslash"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/41.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/041.jpg"
     },
     {
       "id": "fossil-42",
       "name": "Seadra",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "42",
       "fullNumber": "42/62",
       "rarity": "Uncommon",
@@ -848,13 +848,13 @@
         "42/62",
         "Fossil Seadra"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/42.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/042.jpg"
     },
     {
       "id": "fossil-43",
       "name": "Slowbro",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "43",
       "fullNumber": "43/62",
       "rarity": "Uncommon",
@@ -868,13 +868,13 @@
         "43/62",
         "Fossil Slowbro"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/43.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/043.jpg"
     },
     {
       "id": "fossil-44",
       "name": "Tentacruel",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "44",
       "fullNumber": "44/62",
       "rarity": "Uncommon",
@@ -888,13 +888,13 @@
         "44/62",
         "Fossil Tentacruel"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/44.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/044.jpg"
     },
     {
       "id": "fossil-45",
       "name": "Weezing",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "45",
       "fullNumber": "45/62",
       "rarity": "Uncommon",
@@ -908,13 +908,13 @@
         "45/62",
         "Fossil Weezing"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/45.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/045.jpg"
     },
     {
       "id": "fossil-46",
       "name": "Ekans",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "46",
       "fullNumber": "46/62",
       "rarity": "Common",
@@ -928,13 +928,13 @@
         "46/62",
         "Fossil Ekans"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/46.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/046.jpg"
     },
     {
       "id": "fossil-47",
       "name": "Geodude",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "47",
       "fullNumber": "47/62",
       "rarity": "Common",
@@ -948,13 +948,13 @@
         "47/62",
         "Fossil Geodude"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/47.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/047.jpg"
     },
     {
       "id": "fossil-48",
       "name": "Grimer",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "48",
       "fullNumber": "48/62",
       "rarity": "Common",
@@ -968,13 +968,13 @@
         "48/62",
         "Fossil Grimer"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/48.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/048.jpg"
     },
     {
       "id": "fossil-49",
       "name": "Horsea",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "49",
       "fullNumber": "49/62",
       "rarity": "Common",
@@ -988,13 +988,13 @@
         "49/62",
         "Fossil Horsea"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/49.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/049.jpg"
     },
     {
       "id": "fossil-50",
       "name": "Kabuto",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "50",
       "fullNumber": "50/62",
       "rarity": "Common",
@@ -1008,13 +1008,13 @@
         "50/62",
         "Fossil Kabuto"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/50.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/050.jpg"
     },
     {
       "id": "fossil-51",
       "name": "Krabby",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "51",
       "fullNumber": "51/62",
       "rarity": "Common",
@@ -1028,13 +1028,13 @@
         "51/62",
         "Fossil Krabby"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/51.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/051.jpg"
     },
     {
       "id": "fossil-52",
       "name": "Omanyte",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "52",
       "fullNumber": "52/62",
       "rarity": "Common",
@@ -1048,13 +1048,13 @@
         "52/62",
         "Fossil Omanyte"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/52.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/052.jpg"
     },
     {
       "id": "fossil-53",
       "name": "Psyduck",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "53",
       "fullNumber": "53/62",
       "rarity": "Common",
@@ -1068,13 +1068,13 @@
         "53/62",
         "Fossil Psyduck"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/53.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/053.jpg"
     },
     {
       "id": "fossil-54",
       "name": "Shellder",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "54",
       "fullNumber": "54/62",
       "rarity": "Common",
@@ -1088,13 +1088,13 @@
         "54/62",
         "Fossil Shellder"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/54.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/054.jpg"
     },
     {
       "id": "fossil-55",
       "name": "Slowpoke",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "55",
       "fullNumber": "55/62",
       "rarity": "Common",
@@ -1108,13 +1108,13 @@
         "55/62",
         "Fossil Slowpoke"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/55.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/055.jpg"
     },
     {
       "id": "fossil-56",
       "name": "Tentacool",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "56",
       "fullNumber": "56/62",
       "rarity": "Common",
@@ -1128,13 +1128,13 @@
         "56/62",
         "Fossil Tentacool"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/56.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/056.jpg"
     },
     {
       "id": "fossil-57",
       "name": "Zubat",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "57",
       "fullNumber": "57/62",
       "rarity": "Common",
@@ -1148,13 +1148,13 @@
         "57/62",
         "Fossil Zubat"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/57.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/057.jpg"
     },
     {
       "id": "fossil-58",
       "name": "Mr. Fuji",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "58",
       "fullNumber": "58/62",
       "rarity": "Uncommon",
@@ -1168,13 +1168,13 @@
         "58/62",
         "Fossil Mr. Fuji"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/58.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/058.jpg"
     },
     {
       "id": "fossil-59",
       "name": "Energy Search",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "59",
       "fullNumber": "59/62",
       "rarity": "Common",
@@ -1188,13 +1188,13 @@
         "59/62",
         "Fossil Energy Search"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/59.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/059.jpg"
     },
     {
       "id": "fossil-60",
       "name": "Gambler",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "60",
       "fullNumber": "60/62",
       "rarity": "Common",
@@ -1208,13 +1208,13 @@
         "60/62",
         "Fossil Gambler"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/60.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/060.jpg"
     },
     {
       "id": "fossil-61",
       "name": "Recycle",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "61",
       "fullNumber": "61/62",
       "rarity": "Common",
@@ -1228,13 +1228,13 @@
         "61/62",
         "Fossil Recycle"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/61.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/061.jpg"
     },
     {
       "id": "fossil-62",
       "name": "Mysterious Fossil",
       "setName": "Fossil",
-      "setCode": "FO",
+      "setCode": "FOSSIL",
       "cardNumber": "62",
       "fullNumber": "62/62",
       "rarity": "Common",
@@ -1248,7 +1248,7 @@
         "62/62",
         "Fossil Mysterious Fossil"
       ],
-      "imageUrl": "https://images.pokemontcg.io/fossil/62.png"
+      "imageUrl": "https://www.serebii.net/card/fossil/062.jpg"
     }
   ]
 }

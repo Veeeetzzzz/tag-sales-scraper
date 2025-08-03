@@ -16,7 +16,9 @@
     "images": {
       "symbol": "https://www.serebii.net/card/burningshadows/symbol.png",
       "logo": "https://www.serebii.net/card/burningshadows/logo.png"
-    }
+    },
+    "setCode": "BUS",
+    "logo": "https://www.serebii.net/card/logo/burningshadows.png"
   },
   "cards": [
     {
@@ -30,7 +32,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/1.jpg",
         "large": "https://www.serebii.net/card/burningshadows/1.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/001.jpg"
     },
     {
       "id": "bsh2",
@@ -43,7 +46,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/2.jpg",
         "large": "https://www.serebii.net/card/burningshadows/2.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/002.jpg"
     },
     {
       "id": "bsh3",
@@ -56,7 +60,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/3.jpg",
         "large": "https://www.serebii.net/card/burningshadows/3.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/003.jpg"
     },
     {
       "id": "bsh4",
@@ -69,7 +74,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/4.jpg",
         "large": "https://www.serebii.net/card/burningshadows/4.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/004.jpg"
     },
     {
       "id": "bsh5",
@@ -82,7 +88,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/5.jpg",
         "large": "https://www.serebii.net/card/burningshadows/5.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/005.jpg"
     },
     {
       "id": "bsh6",
@@ -95,7 +102,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/6.jpg",
         "large": "https://www.serebii.net/card/burningshadows/6.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/006.jpg"
     },
     {
       "id": "bsh7",
@@ -108,7 +116,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/7.jpg",
         "large": "https://www.serebii.net/card/burningshadows/7.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/007.jpg"
     },
     {
       "id": "bsh8",
@@ -121,7 +130,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/8.jpg",
         "large": "https://www.serebii.net/card/burningshadows/8.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/008.jpg"
     },
     {
       "id": "bsh9",
@@ -134,7 +144,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/9.jpg",
         "large": "https://www.serebii.net/card/burningshadows/9.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/009.jpg"
     },
     {
       "id": "bsh10",
@@ -147,7 +158,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/10.jpg",
         "large": "https://www.serebii.net/card/burningshadows/10.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/010.jpg"
     },
     {
       "id": "bsh11",
@@ -160,7 +172,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/11.jpg",
         "large": "https://www.serebii.net/card/burningshadows/11.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/011.jpg"
     },
     {
       "id": "bsh12",
@@ -173,7 +186,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/12.jpg",
         "large": "https://www.serebii.net/card/burningshadows/12.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/012.jpg"
     },
     {
       "id": "bsh13",
@@ -186,7 +200,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/13.jpg",
         "large": "https://www.serebii.net/card/burningshadows/13.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/013.jpg"
     },
     {
       "id": "bsh14",
@@ -199,7 +214,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/14.jpg",
         "large": "https://www.serebii.net/card/burningshadows/14.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/014.jpg"
     },
     {
       "id": "bsh15",
@@ -212,7 +228,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/15.jpg",
         "large": "https://www.serebii.net/card/burningshadows/15.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/015.jpg"
     },
     {
       "id": "bsh16",
@@ -225,7 +242,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/16.jpg",
         "large": "https://www.serebii.net/card/burningshadows/16.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/016.jpg"
     },
     {
       "id": "bsh17",
@@ -242,7 +260,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/17.jpg",
         "large": "https://www.serebii.net/card/burningshadows/17.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/017.jpg"
     },
     {
       "id": "bsh18",
@@ -255,7 +274,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/18.jpg",
         "large": "https://www.serebii.net/card/burningshadows/18.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/018.jpg"
     },
     {
       "id": "bsh19",
@@ -268,7 +288,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/19.jpg",
         "large": "https://www.serebii.net/card/burningshadows/19.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/019.jpg"
     },
     {
       "id": "bsh20",
@@ -285,7 +306,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/20.jpg",
         "large": "https://www.serebii.net/card/burningshadows/20.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/020.jpg"
     },
     {
       "id": "bsh21",
@@ -302,7 +324,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/21.jpg",
         "large": "https://www.serebii.net/card/burningshadows/21.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/021.jpg"
     },
     {
       "id": "bsh22",
@@ -315,7 +338,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/22.jpg",
         "large": "https://www.serebii.net/card/burningshadows/22.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/022.jpg"
     },
     {
       "id": "bsh23",
@@ -328,7 +352,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/23.jpg",
         "large": "https://www.serebii.net/card/burningshadows/23.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/023.jpg"
     },
     {
       "id": "bsh24",
@@ -341,7 +366,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/24.jpg",
         "large": "https://www.serebii.net/card/burningshadows/24.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/024.jpg"
     },
     {
       "id": "bsh25",
@@ -358,7 +384,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/25.jpg",
         "large": "https://www.serebii.net/card/burningshadows/25.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/025.jpg"
     },
     {
       "id": "bsh26",
@@ -371,7 +398,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/26.jpg",
         "large": "https://www.serebii.net/card/burningshadows/26.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/026.jpg"
     },
     {
       "id": "bsh27",
@@ -387,7 +415,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/27.jpg",
         "large": "https://www.serebii.net/card/burningshadows/27.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/027.jpg"
     },
     {
       "id": "bsh28",
@@ -403,7 +432,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/28.jpg",
         "large": "https://www.serebii.net/card/burningshadows/28.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/028.jpg"
     },
     {
       "id": "bsh29",
@@ -416,7 +446,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/29.jpg",
         "large": "https://www.serebii.net/card/burningshadows/29.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/029.jpg"
     },
     {
       "id": "bsh30",
@@ -429,7 +460,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/30.jpg",
         "large": "https://www.serebii.net/card/burningshadows/30.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/030.jpg"
     },
     {
       "id": "bsh31",
@@ -442,7 +474,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/31.jpg",
         "large": "https://www.serebii.net/card/burningshadows/31.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/031.jpg"
     },
     {
       "id": "bsh32",
@@ -455,7 +488,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/32.jpg",
         "large": "https://www.serebii.net/card/burningshadows/32.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/032.jpg"
     },
     {
       "id": "bsh33",
@@ -468,7 +502,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/33.jpg",
         "large": "https://www.serebii.net/card/burningshadows/33.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/033.jpg"
     },
     {
       "id": "bsh34",
@@ -481,7 +516,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/34.jpg",
         "large": "https://www.serebii.net/card/burningshadows/34.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/034.jpg"
     },
     {
       "id": "bsh35",
@@ -494,7 +530,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/35.jpg",
         "large": "https://www.serebii.net/card/burningshadows/35.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/035.jpg"
     },
     {
       "id": "bsh36",
@@ -507,7 +544,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/36.jpg",
         "large": "https://www.serebii.net/card/burningshadows/36.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/036.jpg"
     },
     {
       "id": "bsh37",
@@ -520,7 +558,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/37.jpg",
         "large": "https://www.serebii.net/card/burningshadows/37.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/037.jpg"
     },
     {
       "id": "bsh38",
@@ -533,7 +572,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/38.jpg",
         "large": "https://www.serebii.net/card/burningshadows/38.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/038.jpg"
     },
     {
       "id": "bsh39",
@@ -550,7 +590,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/39.jpg",
         "large": "https://www.serebii.net/card/burningshadows/39.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/039.jpg"
     },
     {
       "id": "bsh40",
@@ -563,7 +604,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/40.jpg",
         "large": "https://www.serebii.net/card/burningshadows/40.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/040.jpg"
     },
     {
       "id": "bsh41",
@@ -576,7 +618,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/41.jpg",
         "large": "https://www.serebii.net/card/burningshadows/41.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/041.jpg"
     },
     {
       "id": "bsh42",
@@ -589,7 +632,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/42.jpg",
         "large": "https://www.serebii.net/card/burningshadows/42.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/042.jpg"
     },
     {
       "id": "bsh43",
@@ -602,7 +646,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/43.jpg",
         "large": "https://www.serebii.net/card/burningshadows/43.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/043.jpg"
     },
     {
       "id": "bsh44",
@@ -615,7 +660,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/44.jpg",
         "large": "https://www.serebii.net/card/burningshadows/44.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/044.jpg"
     },
     {
       "id": "bsh45",
@@ -628,7 +674,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/45.jpg",
         "large": "https://www.serebii.net/card/burningshadows/45.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/045.jpg"
     },
     {
       "id": "bsh46",
@@ -641,7 +688,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/46.jpg",
         "large": "https://www.serebii.net/card/burningshadows/46.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/046.jpg"
     },
     {
       "id": "bsh47",
@@ -654,7 +702,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/47.jpg",
         "large": "https://www.serebii.net/card/burningshadows/47.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/047.jpg"
     },
     {
       "id": "bsh48",
@@ -667,7 +716,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/48.jpg",
         "large": "https://www.serebii.net/card/burningshadows/48.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/048.jpg"
     },
     {
       "id": "bsh49",
@@ -680,7 +730,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/49.jpg",
         "large": "https://www.serebii.net/card/burningshadows/49.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/049.jpg"
     },
     {
       "id": "bsh50",
@@ -693,7 +744,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/50.jpg",
         "large": "https://www.serebii.net/card/burningshadows/50.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/050.jpg"
     },
     {
       "id": "bsh51",
@@ -706,7 +758,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/51.jpg",
         "large": "https://www.serebii.net/card/burningshadows/51.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/051.jpg"
     },
     {
       "id": "bsh52",
@@ -719,7 +772,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/52.jpg",
         "large": "https://www.serebii.net/card/burningshadows/52.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/052.jpg"
     },
     {
       "id": "bsh53",
@@ -732,7 +786,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/53.jpg",
         "large": "https://www.serebii.net/card/burningshadows/53.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/053.jpg"
     },
     {
       "id": "bsh54",
@@ -745,7 +800,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/54.jpg",
         "large": "https://www.serebii.net/card/burningshadows/54.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/054.jpg"
     },
     {
       "id": "bsh55",
@@ -758,7 +814,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/55.jpg",
         "large": "https://www.serebii.net/card/burningshadows/55.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/055.jpg"
     },
     {
       "id": "bsh56",
@@ -771,7 +828,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/56.jpg",
         "large": "https://www.serebii.net/card/burningshadows/56.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/056.jpg"
     },
     {
       "id": "bsh57",
@@ -784,7 +842,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/57.jpg",
         "large": "https://www.serebii.net/card/burningshadows/57.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/057.jpg"
     },
     {
       "id": "bsh58",
@@ -797,7 +856,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/58.jpg",
         "large": "https://www.serebii.net/card/burningshadows/58.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/058.jpg"
     },
     {
       "id": "bsh59",
@@ -810,7 +870,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/59.jpg",
         "large": "https://www.serebii.net/card/burningshadows/59.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/059.jpg"
     },
     {
       "id": "bsh60",
@@ -823,7 +884,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/60.jpg",
         "large": "https://www.serebii.net/card/burningshadows/60.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/060.jpg"
     },
     {
       "id": "bsh61",
@@ -836,7 +898,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/61.jpg",
         "large": "https://www.serebii.net/card/burningshadows/61.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/061.jpg"
     },
     {
       "id": "bsh62",
@@ -849,7 +912,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/62.jpg",
         "large": "https://www.serebii.net/card/burningshadows/62.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/062.jpg"
     },
     {
       "id": "bsh63",
@@ -866,7 +930,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/63.jpg",
         "large": "https://www.serebii.net/card/burningshadows/63.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/063.jpg"
     },
     {
       "id": "bsh64",
@@ -883,7 +948,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/64.jpg",
         "large": "https://www.serebii.net/card/burningshadows/64.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/064.jpg"
     },
     {
       "id": "bsh65",
@@ -896,7 +962,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/65.jpg",
         "large": "https://www.serebii.net/card/burningshadows/65.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/065.jpg"
     },
     {
       "id": "bsh66",
@@ -909,7 +976,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/66.jpg",
         "large": "https://www.serebii.net/card/burningshadows/66.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/066.jpg"
     },
     {
       "id": "bsh67",
@@ -922,7 +990,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/67.jpg",
         "large": "https://www.serebii.net/card/burningshadows/67.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/067.jpg"
     },
     {
       "id": "bsh68",
@@ -935,7 +1004,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/68.jpg",
         "large": "https://www.serebii.net/card/burningshadows/68.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/068.jpg"
     },
     {
       "id": "bsh69",
@@ -948,7 +1018,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/69.jpg",
         "large": "https://www.serebii.net/card/burningshadows/69.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/069.jpg"
     },
     {
       "id": "bsh70",
@@ -961,7 +1032,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/70.jpg",
         "large": "https://www.serebii.net/card/burningshadows/70.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/070.jpg"
     },
     {
       "id": "bsh71",
@@ -974,7 +1046,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/71.jpg",
         "large": "https://www.serebii.net/card/burningshadows/71.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/071.jpg"
     },
     {
       "id": "bsh72",
@@ -987,7 +1060,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/72.jpg",
         "large": "https://www.serebii.net/card/burningshadows/72.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/072.jpg"
     },
     {
       "id": "bsh73",
@@ -1000,7 +1074,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/73.jpg",
         "large": "https://www.serebii.net/card/burningshadows/73.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/073.jpg"
     },
     {
       "id": "bsh74",
@@ -1013,7 +1088,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/74.jpg",
         "large": "https://www.serebii.net/card/burningshadows/74.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/074.jpg"
     },
     {
       "id": "bsh75",
@@ -1026,7 +1102,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/75.jpg",
         "large": "https://www.serebii.net/card/burningshadows/75.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/075.jpg"
     },
     {
       "id": "bsh76",
@@ -1039,7 +1116,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/76.jpg",
         "large": "https://www.serebii.net/card/burningshadows/76.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/076.jpg"
     },
     {
       "id": "bsh77",
@@ -1052,7 +1130,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/77.jpg",
         "large": "https://www.serebii.net/card/burningshadows/77.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/077.jpg"
     },
     {
       "id": "bsh78",
@@ -1065,7 +1144,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/78.jpg",
         "large": "https://www.serebii.net/card/burningshadows/78.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/078.jpg"
     },
     {
       "id": "bsh79",
@@ -1078,7 +1158,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/79.jpg",
         "large": "https://www.serebii.net/card/burningshadows/79.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/079.jpg"
     },
     {
       "id": "bsh80",
@@ -1095,7 +1176,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/80.jpg",
         "large": "https://www.serebii.net/card/burningshadows/80.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/080.jpg"
     },
     {
       "id": "bsh81",
@@ -1111,7 +1193,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/81.jpg",
         "large": "https://www.serebii.net/card/burningshadows/81.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/081.jpg"
     },
     {
       "id": "bsh82",
@@ -1127,7 +1210,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/82.jpg",
         "large": "https://www.serebii.net/card/burningshadows/82.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/082.jpg"
     },
     {
       "id": "bsh83",
@@ -1143,7 +1227,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/83.jpg",
         "large": "https://www.serebii.net/card/burningshadows/83.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/083.jpg"
     },
     {
       "id": "bsh84",
@@ -1161,7 +1246,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/84.jpg",
         "large": "https://www.serebii.net/card/burningshadows/84.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/084.jpg"
     },
     {
       "id": "bsh85",
@@ -1174,7 +1260,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/85.jpg",
         "large": "https://www.serebii.net/card/burningshadows/85.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/085.jpg"
     },
     {
       "id": "bsh86",
@@ -1187,7 +1274,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/86.jpg",
         "large": "https://www.serebii.net/card/burningshadows/86.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/086.jpg"
     },
     {
       "id": "bsh87",
@@ -1200,7 +1288,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/87.jpg",
         "large": "https://www.serebii.net/card/burningshadows/87.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/087.jpg"
     },
     {
       "id": "bsh88",
@@ -1217,7 +1306,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/88.jpg",
         "large": "https://www.serebii.net/card/burningshadows/88.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/088.jpg"
     },
     {
       "id": "bsh89",
@@ -1230,7 +1320,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/89.jpg",
         "large": "https://www.serebii.net/card/burningshadows/89.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/089.jpg"
     },
     {
       "id": "bsh90",
@@ -1243,7 +1334,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/90.jpg",
         "large": "https://www.serebii.net/card/burningshadows/90.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/090.jpg"
     },
     {
       "id": "bsh91",
@@ -1256,7 +1348,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/91.jpg",
         "large": "https://www.serebii.net/card/burningshadows/91.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/091.jpg"
     },
     {
       "id": "bsh92",
@@ -1269,7 +1362,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/92.jpg",
         "large": "https://www.serebii.net/card/burningshadows/92.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/092.jpg"
     },
     {
       "id": "bsh93",
@@ -1286,7 +1380,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/93.jpg",
         "large": "https://www.serebii.net/card/burningshadows/93.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/093.jpg"
     },
     {
       "id": "bsh94",
@@ -1299,7 +1394,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/94.jpg",
         "large": "https://www.serebii.net/card/burningshadows/94.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/094.jpg"
     },
     {
       "id": "bsh95",
@@ -1312,7 +1408,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/95.jpg",
         "large": "https://www.serebii.net/card/burningshadows/95.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/095.jpg"
     },
     {
       "id": "bsh96",
@@ -1325,7 +1422,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/96.jpg",
         "large": "https://www.serebii.net/card/burningshadows/96.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/096.jpg"
     },
     {
       "id": "bsh97",
@@ -1338,7 +1436,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/97.jpg",
         "large": "https://www.serebii.net/card/burningshadows/97.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/097.jpg"
     },
     {
       "id": "bsh98",
@@ -1351,7 +1450,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/98.jpg",
         "large": "https://www.serebii.net/card/burningshadows/98.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/098.jpg"
     },
     {
       "id": "bsh99",
@@ -1368,7 +1468,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/99.jpg",
         "large": "https://www.serebii.net/card/burningshadows/99.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/099.jpg"
     },
     {
       "id": "bsh100",
@@ -1381,7 +1482,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/100.jpg",
         "large": "https://www.serebii.net/card/burningshadows/100.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/100.jpg"
     },
     {
       "id": "bsh101",
@@ -1394,7 +1496,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/101.jpg",
         "large": "https://www.serebii.net/card/burningshadows/101.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/101.jpg"
     },
     {
       "id": "bsh102",
@@ -1407,7 +1510,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/102.jpg",
         "large": "https://www.serebii.net/card/burningshadows/102.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/102.jpg"
     },
     {
       "id": "bsh103",
@@ -1420,7 +1524,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/103.jpg",
         "large": "https://www.serebii.net/card/burningshadows/103.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/103.jpg"
     },
     {
       "id": "bsh104",
@@ -1433,7 +1538,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/104.jpg",
         "large": "https://www.serebii.net/card/burningshadows/104.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/104.jpg"
     },
     {
       "id": "bsh105",
@@ -1446,7 +1552,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/105.jpg",
         "large": "https://www.serebii.net/card/burningshadows/105.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/105.jpg"
     },
     {
       "id": "bsh106",
@@ -1459,7 +1566,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/106.jpg",
         "large": "https://www.serebii.net/card/burningshadows/106.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/106.jpg"
     },
     {
       "id": "bsh107",
@@ -1472,7 +1580,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/107.jpg",
         "large": "https://www.serebii.net/card/burningshadows/107.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/107.jpg"
     },
     {
       "id": "bsh108",
@@ -1485,7 +1594,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/108.jpg",
         "large": "https://www.serebii.net/card/burningshadows/108.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/108.jpg"
     },
     {
       "id": "bsh109",
@@ -1498,7 +1608,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/109.jpg",
         "large": "https://www.serebii.net/card/burningshadows/109.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/109.jpg"
     },
     {
       "id": "bsh110",
@@ -1511,7 +1622,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/110.jpg",
         "large": "https://www.serebii.net/card/burningshadows/110.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/110.jpg"
     },
     {
       "id": "bsh111",
@@ -1524,7 +1636,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/111.jpg",
         "large": "https://www.serebii.net/card/burningshadows/111.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/111.jpg"
     },
     {
       "id": "bsh112",
@@ -1540,7 +1653,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/112.jpg",
         "large": "https://www.serebii.net/card/burningshadows/112.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/112.jpg"
     },
     {
       "id": "bsh113",
@@ -1556,7 +1670,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/113.jpg",
         "large": "https://www.serebii.net/card/burningshadows/113.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/113.jpg"
     },
     {
       "id": "bsh114",
@@ -1572,7 +1687,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/114.jpg",
         "large": "https://www.serebii.net/card/burningshadows/114.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/114.jpg"
     },
     {
       "id": "bsh115",
@@ -1588,7 +1704,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/115.jpg",
         "large": "https://www.serebii.net/card/burningshadows/115.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/115.jpg"
     },
     {
       "id": "bsh116",
@@ -1604,7 +1721,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/116.jpg",
         "large": "https://www.serebii.net/card/burningshadows/116.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/116.jpg"
     },
     {
       "id": "bsh117",
@@ -1620,7 +1738,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/117.jpg",
         "large": "https://www.serebii.net/card/burningshadows/117.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/117.jpg"
     },
     {
       "id": "bsh118",
@@ -1636,7 +1755,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/118.jpg",
         "large": "https://www.serebii.net/card/burningshadows/118.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/118.jpg"
     },
     {
       "id": "bsh119",
@@ -1652,7 +1772,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/119.jpg",
         "large": "https://www.serebii.net/card/burningshadows/119.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/119.jpg"
     },
     {
       "id": "bsh120",
@@ -1668,7 +1789,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/120.jpg",
         "large": "https://www.serebii.net/card/burningshadows/120.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/120.jpg"
     },
     {
       "id": "bsh121",
@@ -1684,7 +1806,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/121.jpg",
         "large": "https://www.serebii.net/card/burningshadows/121.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/121.jpg"
     },
     {
       "id": "bsh122",
@@ -1700,7 +1823,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/122.jpg",
         "large": "https://www.serebii.net/card/burningshadows/122.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/122.jpg"
     },
     {
       "id": "bsh123",
@@ -1716,7 +1840,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/123.jpg",
         "large": "https://www.serebii.net/card/burningshadows/123.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/123.jpg"
     },
     {
       "id": "bsh124",
@@ -1732,7 +1857,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/124.jpg",
         "large": "https://www.serebii.net/card/burningshadows/124.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/124.jpg"
     },
     {
       "id": "bsh125",
@@ -1748,7 +1874,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/125.jpg",
         "large": "https://www.serebii.net/card/burningshadows/125.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/125.jpg"
     },
     {
       "id": "bsh126",
@@ -1764,7 +1891,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/126.jpg",
         "large": "https://www.serebii.net/card/burningshadows/126.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/126.jpg"
     },
     {
       "id": "bsh127",
@@ -1780,7 +1908,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/127.jpg",
         "large": "https://www.serebii.net/card/burningshadows/127.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/127.jpg"
     },
     {
       "id": "bsh128",
@@ -1796,7 +1925,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/128.jpg",
         "large": "https://www.serebii.net/card/burningshadows/128.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/128.jpg"
     },
     {
       "id": "bsh129",
@@ -1813,7 +1943,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/129.jpg",
         "large": "https://www.serebii.net/card/burningshadows/129.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/129.jpg"
     },
     {
       "id": "bsh130",
@@ -1830,7 +1961,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/130.jpg",
         "large": "https://www.serebii.net/card/burningshadows/130.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/130.jpg"
     },
     {
       "id": "bsh131",
@@ -1847,7 +1979,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/131.jpg",
         "large": "https://www.serebii.net/card/burningshadows/131.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/131.jpg"
     },
     {
       "id": "bsh132",
@@ -1864,7 +1997,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/132.jpg",
         "large": "https://www.serebii.net/card/burningshadows/132.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/132.jpg"
     },
     {
       "id": "bsh133",
@@ -1881,7 +2015,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/133.jpg",
         "large": "https://www.serebii.net/card/burningshadows/133.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/133.jpg"
     },
     {
       "id": "bsh134",
@@ -1898,7 +2033,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/134.jpg",
         "large": "https://www.serebii.net/card/burningshadows/134.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/134.jpg"
     },
     {
       "id": "bsh135",
@@ -1915,7 +2051,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/135.jpg",
         "large": "https://www.serebii.net/card/burningshadows/135.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/135.jpg"
     },
     {
       "id": "bsh136",
@@ -1932,7 +2069,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/136.jpg",
         "large": "https://www.serebii.net/card/burningshadows/136.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/136.jpg"
     },
     {
       "id": "bsh137",
@@ -1949,7 +2087,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/137.jpg",
         "large": "https://www.serebii.net/card/burningshadows/137.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/137.jpg"
     },
     {
       "id": "bsh138",
@@ -1967,7 +2106,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/138.jpg",
         "large": "https://www.serebii.net/card/burningshadows/138.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/138.jpg"
     },
     {
       "id": "bsh139",
@@ -1984,7 +2124,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/139.jpg",
         "large": "https://www.serebii.net/card/burningshadows/139.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/139.jpg"
     },
     {
       "id": "bsh140",
@@ -2001,7 +2142,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/140.jpg",
         "large": "https://www.serebii.net/card/burningshadows/140.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/140.jpg"
     },
     {
       "id": "bsh141",
@@ -2018,7 +2160,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/141.jpg",
         "large": "https://www.serebii.net/card/burningshadows/141.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/141.jpg"
     },
     {
       "id": "bsh142",
@@ -2034,7 +2177,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/142.jpg",
         "large": "https://www.serebii.net/card/burningshadows/142.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/142.jpg"
     },
     {
       "id": "bsh143",
@@ -2050,7 +2194,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/143.jpg",
         "large": "https://www.serebii.net/card/burningshadows/143.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/143.jpg"
     },
     {
       "id": "bsh144",
@@ -2066,7 +2211,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/144.jpg",
         "large": "https://www.serebii.net/card/burningshadows/144.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/144.jpg"
     },
     {
       "id": "bsh145",
@@ -2082,7 +2228,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/145.jpg",
         "large": "https://www.serebii.net/card/burningshadows/145.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/145.jpg"
     },
     {
       "id": "bsh146",
@@ -2098,7 +2245,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/146.jpg",
         "large": "https://www.serebii.net/card/burningshadows/146.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/146.jpg"
     },
     {
       "id": "bsh147",
@@ -2114,7 +2262,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/147.jpg",
         "large": "https://www.serebii.net/card/burningshadows/147.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/147.jpg"
     },
     {
       "id": "bsh148",
@@ -2131,7 +2280,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/148.jpg",
         "large": "https://www.serebii.net/card/burningshadows/148.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/148.jpg"
     },
     {
       "id": "bsh149",
@@ -2148,7 +2298,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/149.jpg",
         "large": "https://www.serebii.net/card/burningshadows/149.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/149.jpg"
     },
     {
       "id": "bsh150",
@@ -2165,7 +2316,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/150.jpg",
         "large": "https://www.serebii.net/card/burningshadows/150.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/150.jpg"
     },
     {
       "id": "bsh151",
@@ -2182,7 +2334,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/151.jpg",
         "large": "https://www.serebii.net/card/burningshadows/151.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/151.jpg"
     },
     {
       "id": "bsh152",
@@ -2199,7 +2352,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/152.jpg",
         "large": "https://www.serebii.net/card/burningshadows/152.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/152.jpg"
     },
     {
       "id": "bsh153",
@@ -2216,7 +2370,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/153.jpg",
         "large": "https://www.serebii.net/card/burningshadows/153.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/153.jpg"
     },
     {
       "id": "bsh154",
@@ -2233,7 +2388,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/154.jpg",
         "large": "https://www.serebii.net/card/burningshadows/154.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/154.jpg"
     },
     {
       "id": "bsh155",
@@ -2250,7 +2406,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/155.jpg",
         "large": "https://www.serebii.net/card/burningshadows/155.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/155.jpg"
     },
     {
       "id": "bsh156",
@@ -2267,7 +2424,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/156.jpg",
         "large": "https://www.serebii.net/card/burningshadows/156.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/156.jpg"
     },
     {
       "id": "bsh157",
@@ -2285,7 +2443,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/157.jpg",
         "large": "https://www.serebii.net/card/burningshadows/157.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/157.jpg"
     },
     {
       "id": "bsh158",
@@ -2302,7 +2461,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/158.jpg",
         "large": "https://www.serebii.net/card/burningshadows/158.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/158.jpg"
     },
     {
       "id": "bsh159",
@@ -2319,7 +2479,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/159.jpg",
         "large": "https://www.serebii.net/card/burningshadows/159.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/159.jpg"
     },
     {
       "id": "bsh160",
@@ -2336,7 +2497,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/160.jpg",
         "large": "https://www.serebii.net/card/burningshadows/160.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/160.jpg"
     },
     {
       "id": "bsh161",
@@ -2352,7 +2514,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/161.jpg",
         "large": "https://www.serebii.net/card/burningshadows/161.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/161.jpg"
     },
     {
       "id": "bsh162",
@@ -2368,7 +2531,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/162.jpg",
         "large": "https://www.serebii.net/card/burningshadows/162.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/162.jpg"
     },
     {
       "id": "bsh163",
@@ -2384,7 +2548,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/163.jpg",
         "large": "https://www.serebii.net/card/burningshadows/163.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/163.jpg"
     },
     {
       "id": "bsh164",
@@ -2400,7 +2565,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/164.jpg",
         "large": "https://www.serebii.net/card/burningshadows/164.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/164.jpg"
     },
     {
       "id": "bsh165",
@@ -2416,7 +2582,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/165.jpg",
         "large": "https://www.serebii.net/card/burningshadows/165.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/165.jpg"
     },
     {
       "id": "bsh166",
@@ -2432,7 +2599,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/166.jpg",
         "large": "https://www.serebii.net/card/burningshadows/166.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/166.jpg"
     },
     {
       "id": "bsh167",
@@ -2448,7 +2616,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/167.jpg",
         "large": "https://www.serebii.net/card/burningshadows/167.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/167.jpg"
     },
     {
       "id": "bsh168",
@@ -2464,7 +2633,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/168.jpg",
         "large": "https://www.serebii.net/card/burningshadows/168.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/168.jpg"
     },
     {
       "id": "bsh169",
@@ -2480,7 +2650,8 @@
       "images": {
         "small": "https://www.serebii.net/card/burningshadows/169.jpg",
         "large": "https://www.serebii.net/card/burningshadows/169.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/burningshadows/169.jpg"
     }
   ]
 }

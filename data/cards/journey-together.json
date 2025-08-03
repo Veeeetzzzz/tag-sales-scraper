@@ -1,11 +1,12 @@
 {
   "setInfo": {
     "name": "Journey Together",
-    "setCode": "JTG",
+    "setCode": "JT",
     "releaseDate": "2025/03/28",
     "totalCards": 190,
     "series": "Special Collection",
-    "description": "Journey Together set featuring beloved trainers and their signature Pokemon companions across multiple generations"
+    "description": "Journey Together set featuring beloved trainers and their signature Pokemon companions across multiple generations",
+    "logo": "https://www.serebii.net/card/logo/journeytogether.png"
   },
   "cards": [
     {
@@ -25,12 +26,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/001.jpg"
     },
     {
       "number": "002/159",
@@ -49,12 +51,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/002.jpg"
     },
     {
       "number": "003/159",
@@ -71,14 +74,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/003.jpg"
     },
     {
       "number": "004/159",
@@ -97,12 +101,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/004.jpg"
     },
     {
       "number": "005/159",
@@ -121,12 +126,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/005.jpg"
     },
     {
       "number": "006/159",
@@ -145,12 +151,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/006.jpg"
     },
     {
       "number": "007/159",
@@ -169,12 +176,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/007.jpg"
     },
     {
       "number": "008/159",
@@ -192,13 +200,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/008.jpg"
     },
     {
       "number": "009/159",
@@ -217,12 +226,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/009.jpg"
     },
     {
       "number": "010/159",
@@ -241,12 +251,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/010.jpg"
     },
     {
       "number": "011/159",
@@ -265,14 +276,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/011.jpg"
     },
     {
       "number": "012/159",
@@ -291,12 +303,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/012.jpg"
     },
     {
       "number": "013/159",
@@ -314,13 +327,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/013.jpg"
     },
     {
       "number": "014/159",
@@ -339,12 +353,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/014.jpg"
     },
     {
       "number": "015/159",
@@ -362,13 +377,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/015.jpg"
     },
     {
       "number": "016/159",
@@ -387,12 +403,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/016.jpg"
     },
     {
       "number": "017/159",
@@ -411,12 +428,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/017.jpg"
     },
     {
       "number": "018/159",
@@ -433,14 +451,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/018.jpg"
     },
     {
       "number": "019/159",
@@ -459,12 +478,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/019.jpg"
     },
     {
       "number": "020/159",
@@ -483,12 +503,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/020.jpg"
     },
     {
       "number": "021/159",
@@ -505,14 +526,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/021.jpg"
     },
     {
       "number": "022/159",
@@ -531,12 +553,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation III"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/022.jpg"
     },
     {
       "number": "023/159",
@@ -554,13 +577,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation III"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/023.jpg"
     },
     {
       "number": "024/159",
@@ -579,14 +603,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation III"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/024.jpg"
     },
     {
       "number": "025/159",
@@ -605,12 +630,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/025.jpg"
     },
     {
       "number": "026/159",
@@ -630,12 +656,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/026.jpg"
     },
     {
       "number": "027/159",
@@ -654,13 +681,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/027.jpg"
     },
     {
       "number": "028/159",
@@ -679,12 +707,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/028.jpg"
     },
     {
       "number": "029/159",
@@ -702,13 +731,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/029.jpg"
     },
     {
       "number": "030/159",
@@ -727,14 +757,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/030.jpg"
     },
     {
       "number": "031/159",
@@ -753,14 +784,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/031.jpg"
     },
     {
       "number": "032/159",
@@ -778,13 +810,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/032.jpg"
     },
     {
       "number": "033/159",
@@ -803,12 +836,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/033.jpg"
     },
     {
       "number": "034/159",
@@ -826,13 +860,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/034.jpg"
     },
     {
       "number": "035/159",
@@ -851,12 +886,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/035.jpg"
     },
     {
       "number": "036/159",
@@ -875,12 +911,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/036.jpg"
     },
     {
       "number": "037/159",
@@ -897,14 +934,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/037.jpg"
     },
     {
       "number": "038/159",
@@ -923,12 +961,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/038.jpg"
     },
     {
       "number": "039/159",
@@ -946,13 +985,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/039.jpg"
     },
     {
       "number": "040/159",
@@ -971,12 +1011,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/040.jpg"
     },
     {
       "number": "041/159",
@@ -993,14 +1034,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/041.jpg"
     },
     {
       "number": "042/159",
@@ -1018,13 +1060,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/042.jpg"
     },
     {
       "number": "043/159",
@@ -1043,14 +1086,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/043.jpg"
     },
     {
       "number": "044/159",
@@ -1070,12 +1114,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/044.jpg"
     },
     {
       "number": "045/159",
@@ -1095,12 +1140,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/045.jpg"
     },
     {
       "number": "046/159",
@@ -1119,13 +1165,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/046.jpg"
     },
     {
       "number": "047/159",
@@ -1145,12 +1192,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/047.jpg"
     },
     {
       "number": "048/159",
@@ -1169,13 +1217,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/048.jpg"
     },
     {
       "number": "049/159",
@@ -1195,12 +1244,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/049.jpg"
     },
     {
       "number": "050/159",
@@ -1219,12 +1269,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/050.jpg"
     },
     {
       "number": "051/159",
@@ -1244,14 +1295,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/051.jpg"
     },
     {
       "number": "052/159",
@@ -1271,12 +1323,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/052.jpg"
     },
     {
       "number": "053/159",
@@ -1297,14 +1350,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/053.jpg"
     },
     {
       "number": "054/159",
@@ -1324,12 +1378,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/054.jpg"
     },
     {
       "number": "055/159",
@@ -1347,14 +1402,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/055.jpg"
     },
     {
       "number": "056/159",
@@ -1375,14 +1431,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/056.jpg"
     },
     {
       "number": "057/159",
@@ -1401,13 +1458,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/057.jpg"
     },
     {
       "number": "058/159",
@@ -1426,12 +1484,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/058.jpg"
     },
     {
       "number": "059/159",
@@ -1450,12 +1509,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/059.jpg"
     },
     {
       "number": "060/159",
@@ -1473,13 +1533,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/060.jpg"
     },
     {
       "number": "061/159",
@@ -1498,12 +1559,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/061.jpg"
     },
     {
       "number": "062/159",
@@ -1522,12 +1584,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/062.jpg"
     },
     {
       "number": "063/159",
@@ -1544,14 +1607,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/063.jpg"
     },
     {
       "number": "064/159",
@@ -1571,12 +1635,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/064.jpg"
     },
     {
       "number": "065/159",
@@ -1595,12 +1660,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/065.jpg"
     },
     {
       "number": "066/159",
@@ -1620,12 +1686,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/066.jpg"
     },
     {
       "number": "067/159",
@@ -1643,14 +1710,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/067.jpg"
     },
     {
       "number": "068/159",
@@ -1670,12 +1738,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/068.jpg"
     },
     {
       "number": "069/159",
@@ -1694,14 +1763,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/069.jpg"
     },
     {
       "number": "070/159",
@@ -1720,12 +1790,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/070.jpg"
     },
     {
       "number": "071/159",
@@ -1744,12 +1815,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/071.jpg"
     },
     {
       "number": "072/159",
@@ -1768,12 +1840,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/072.jpg"
     },
     {
       "number": "073/159",
@@ -1791,13 +1864,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/073.jpg"
     },
     {
       "number": "074/159",
@@ -1816,12 +1890,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/074.jpg"
     },
     {
       "number": "075/159",
@@ -1840,14 +1915,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/075.jpg"
     },
     {
       "number": "076/159",
@@ -1866,12 +1942,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/076.jpg"
     },
     {
       "number": "077/159",
@@ -1890,12 +1967,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/077.jpg"
     },
     {
       "number": "078/159",
@@ -1914,12 +1992,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/078.jpg"
     },
     {
       "number": "079/159",
@@ -1938,14 +2017,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/079.jpg"
     },
     {
       "number": "080/159",
@@ -1964,12 +2044,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/080.jpg"
     },
     {
       "number": "081/159",
@@ -1988,12 +2069,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/081.jpg"
     },
     {
       "number": "082/159",
@@ -2010,14 +2092,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/082.jpg"
     },
     {
       "number": "083/159",
@@ -2036,12 +2119,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/083.jpg"
     },
     {
       "number": "084/159",
@@ -2060,12 +2144,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/084.jpg"
     },
     {
       "number": "085/159",
@@ -2082,14 +2167,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/085.jpg"
     },
     {
       "number": "086/159",
@@ -2109,12 +2195,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/086.jpg"
     },
     {
       "number": "087/159",
@@ -2133,13 +2220,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/087.jpg"
     },
     {
       "number": "088/159",
@@ -2158,12 +2246,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/088.jpg"
     },
     {
       "number": "089/159",
@@ -2181,13 +2270,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/089.jpg"
     },
     {
       "number": "090/159",
@@ -2205,13 +2295,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/090.jpg"
     },
     {
       "number": "091/159",
@@ -2230,12 +2321,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/091.jpg"
     },
     {
       "number": "092/159",
@@ -2253,13 +2345,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/092.jpg"
     },
     {
       "number": "093/159",
@@ -2279,12 +2372,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/093.jpg"
     },
     {
       "number": "094/159",
@@ -2305,14 +2399,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/094.jpg"
     },
     {
       "number": "095/159",
@@ -2329,14 +2424,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/095.jpg"
     },
     {
       "number": "096/159",
@@ -2356,12 +2452,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/096.jpg"
     },
     {
       "number": "097/159",
@@ -2381,12 +2478,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/097.jpg"
     },
     {
       "number": "098/159",
@@ -2407,14 +2505,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/098.jpg"
     },
     {
       "number": "099/159",
@@ -2432,13 +2531,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/099.jpg"
     },
     {
       "number": "100/159",
@@ -2456,13 +2556,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/100.jpg"
     },
     {
       "number": "101/159",
@@ -2481,12 +2582,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/101.jpg"
     },
     {
       "number": "102/159",
@@ -2504,13 +2606,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/102.jpg"
     },
     {
       "number": "103/159",
@@ -2530,12 +2633,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/103.jpg"
     },
     {
       "number": "104/159",
@@ -2555,12 +2659,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/104.jpg"
     },
     {
       "number": "105/159",
@@ -2579,13 +2684,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/105.jpg"
     },
     {
       "number": "106/159",
@@ -2605,12 +2711,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/106.jpg"
     },
     {
       "number": "107/159",
@@ -2627,14 +2734,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/107.jpg"
     },
     {
       "number": "108/159",
@@ -2653,13 +2761,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/108.jpg"
     },
     {
       "number": "109/159",
@@ -2678,12 +2787,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/109.jpg"
     },
     {
       "number": "110/159",
@@ -2701,13 +2811,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/110.jpg"
     },
     {
       "number": "111/159",
@@ -2728,14 +2839,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/111.jpg"
     },
     {
       "number": "112/159",
@@ -2754,12 +2866,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation III"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/112.jpg"
     },
     {
       "number": "113/159",
@@ -2778,12 +2891,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/113.jpg"
     },
     {
       "number": "114/159",
@@ -2802,14 +2916,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation III"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/114.jpg"
     },
     {
       "number": "115/159",
@@ -2828,12 +2943,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/115.jpg"
     },
     {
       "number": "116/159",
@@ -2851,14 +2967,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/116.jpg"
     },
     {
       "number": "117/159",
@@ -2876,14 +2993,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/117.jpg"
     },
     {
       "number": "118/159",
@@ -2902,12 +3020,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation II"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/118.jpg"
     },
     {
       "number": "119/159",
@@ -2926,12 +3045,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation II"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/119.jpg"
     },
     {
       "number": "120/159",
@@ -2950,12 +3070,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation II"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/120.jpg"
     },
     {
       "number": "121/159",
@@ -2974,14 +3095,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 8.0,
-        "mid": 15.0,
-        "high": 25.0
+        "low": 8,
+        "mid": 15,
+        "high": 25
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation II"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/121.jpg"
     },
     {
       "number": "122/159",
@@ -3000,12 +3122,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/122.jpg"
     },
     {
       "number": "123/159",
@@ -3024,12 +3147,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/123.jpg"
     },
     {
       "number": "124/159",
@@ -3048,12 +3172,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/124.jpg"
     },
     {
       "number": "125/159",
@@ -3072,12 +3197,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/125.jpg"
     },
     {
       "number": "126/159",
@@ -3095,13 +3221,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/126.jpg"
     },
     {
       "number": "127/159",
@@ -3120,12 +3247,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/127.jpg"
     },
     {
       "number": "128/159",
@@ -3142,14 +3270,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/128.jpg"
     },
     {
       "number": "129/159",
@@ -3168,12 +3297,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/129.jpg"
     },
     {
       "number": "130/159",
@@ -3192,12 +3322,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/130.jpg"
     },
     {
       "number": "131/159",
@@ -3216,12 +3347,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/131.jpg"
     },
     {
       "number": "132/159",
@@ -3239,13 +3371,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/132.jpg"
     },
     {
       "number": "133/159",
@@ -3265,12 +3398,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/133.jpg"
     },
     {
       "number": "134/159",
@@ -3290,12 +3424,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/134.jpg"
     },
     {
       "number": "135/159",
@@ -3315,12 +3450,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/135.jpg"
     },
     {
       "number": "136/159",
@@ -3338,14 +3474,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 2.0,
-        "mid": 4.0,
-        "high": 8.0
+        "low": 2,
+        "mid": 4,
+        "high": 8
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/136.jpg"
     },
     {
       "number": "137/159",
@@ -3364,12 +3501,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/137.jpg"
     },
     {
       "number": "138/159",
@@ -3388,13 +3526,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/138.jpg"
     },
     {
       "number": "139/159",
@@ -3413,12 +3552,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/139.jpg"
     },
     {
       "number": "140/159",
@@ -3436,13 +3576,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/140.jpg"
     },
     {
       "number": "141/159",
@@ -3461,12 +3602,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/141.jpg"
     },
     {
       "number": "142/159",
@@ -3485,12 +3627,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/142.jpg"
     },
     {
       "number": "143/159",
@@ -3509,12 +3652,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/143.jpg"
     },
     {
       "number": "144/159",
@@ -3533,12 +3677,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/144.jpg"
     },
     {
       "number": "145/159",
@@ -3557,12 +3702,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/145.jpg"
     },
     {
       "number": "146/159",
@@ -3581,13 +3727,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/146.jpg"
     },
     {
       "number": "147/159",
@@ -3606,13 +3753,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/147.jpg"
     },
     {
       "number": "148/159",
@@ -3631,13 +3779,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/148.jpg"
     },
     {
       "number": "149/159",
@@ -3656,13 +3805,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/149.jpg"
     },
     {
       "number": "150/159",
@@ -3680,13 +3830,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/150.jpg"
     },
     {
       "number": "151/159",
@@ -3705,13 +3856,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/151.jpg"
     },
     {
       "number": "152/159",
@@ -3730,13 +3882,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/152.jpg"
     },
     {
       "number": "153/159",
@@ -3755,13 +3908,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/153.jpg"
     },
     {
       "number": "154/159",
@@ -3779,13 +3933,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/154.jpg"
     },
     {
       "number": "155/159",
@@ -3804,12 +3959,13 @@
       "marketPrice": {
         "low": 0.25,
         "mid": 0.5,
-        "high": 1.0
+        "high": 1
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/155.jpg"
     },
     {
       "number": "156/159",
@@ -3827,13 +3983,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/156.jpg"
     },
     {
       "number": "157/159",
@@ -3851,13 +4008,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/157.jpg"
     },
     {
       "number": "158/159",
@@ -3875,13 +4033,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/158.jpg"
     },
     {
       "number": "159/159",
@@ -3899,13 +4058,14 @@
       ],
       "marketPrice": {
         "low": 0.5,
-        "mid": 1.0,
-        "high": 2.0
+        "mid": 1,
+        "high": 2
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/159.jpg"
     },
     {
       "number": "160/159",
@@ -3922,14 +4082,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/160.jpg"
     },
     {
       "number": "161/159",
@@ -3946,14 +4107,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/161.jpg"
     },
     {
       "number": "162/159",
@@ -3970,14 +4132,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/162.jpg"
     },
     {
       "number": "163/159",
@@ -3995,14 +4158,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/163.jpg"
     },
     {
       "number": "164/159",
@@ -4020,14 +4184,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/164.jpg"
     },
     {
       "number": "165/159",
@@ -4044,14 +4209,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/165.jpg"
     },
     {
       "number": "166/159",
@@ -4068,14 +4234,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/166.jpg"
     },
     {
       "number": "167/159",
@@ -4093,14 +4260,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/167.jpg"
     },
     {
       "number": "168/159",
@@ -4117,14 +4285,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation II"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/168.jpg"
     },
     {
       "number": "169/159",
@@ -4141,14 +4310,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/169.jpg"
     },
     {
       "number": "170/159",
@@ -4166,14 +4336,15 @@
         "Regular"
       ],
       "marketPrice": {
-        "low": 4.0,
-        "mid": 8.0,
-        "high": 15.0
+        "low": 4,
+        "mid": 8,
+        "high": 15
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/170.jpg"
     },
     {
       "number": "171/159",
@@ -4192,14 +4363,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/171.jpg"
     },
     {
       "number": "172/159",
@@ -4220,14 +4392,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/172.jpg"
     },
     {
       "number": "173/159",
@@ -4248,14 +4421,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/173.jpg"
     },
     {
       "number": "174/159",
@@ -4274,14 +4448,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/174.jpg"
     },
     {
       "number": "175/159",
@@ -4302,14 +4477,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/175.jpg"
     },
     {
       "number": "176/159",
@@ -4330,14 +4506,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/176.jpg"
     },
     {
       "number": "177/159",
@@ -4356,14 +4533,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation III"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/177.jpg"
     },
     {
       "number": "178/159",
@@ -4382,14 +4560,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation II"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/178.jpg"
     },
     {
       "number": "179/159",
@@ -4408,14 +4587,15 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/179.jpg"
     },
     {
       "number": "180/159",
@@ -4434,14 +4614,15 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/180.jpg"
     },
     {
       "number": "181/159",
@@ -4459,14 +4640,15 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 12.0,
-        "mid": 20.0,
-        "high": 35.0
+        "low": 12,
+        "mid": 20,
+        "high": 35
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/181.jpg"
     },
     {
       "number": "182/159",
@@ -4485,14 +4667,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 25.0,
-        "mid": 45.0,
-        "high": 75.0
+        "low": 25,
+        "mid": 45,
+        "high": 75
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/182.jpg"
     },
     {
       "number": "183/159",
@@ -4513,14 +4696,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 25.0,
-        "mid": 45.0,
-        "high": 75.0
+        "low": 25,
+        "mid": 45,
+        "high": 75
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/183.jpg"
     },
     {
       "number": "184/159",
@@ -4541,14 +4725,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 25.0,
-        "mid": 45.0,
-        "high": 75.0
+        "low": 25,
+        "mid": 45,
+        "high": 75
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation I-VII"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/184.jpg"
     },
     {
       "number": "185/159",
@@ -4569,14 +4754,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 25.0,
-        "mid": 45.0,
-        "high": 75.0
+        "low": 25,
+        "mid": 45,
+        "high": 75
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/185.jpg"
     },
     {
       "number": "186/159",
@@ -4597,14 +4783,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 25.0,
-        "mid": 45.0,
-        "high": 75.0
+        "low": 25,
+        "mid": 45,
+        "high": 75
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/186.jpg"
     },
     {
       "number": "187/159",
@@ -4623,14 +4810,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 25.0,
-        "mid": 45.0,
-        "high": 75.0
+        "low": 25,
+        "mid": 45,
+        "high": 75
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation III"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/187.jpg"
     },
     {
       "number": "188/159",
@@ -4651,14 +4839,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 40.0,
-        "mid": 80.0,
-        "high": 150.0
+        "low": 40,
+        "mid": 80,
+        "high": 150
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation VIII-IX"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/188.jpg"
     },
     {
       "number": "189/159",
@@ -4679,14 +4868,15 @@
         "Special Illustration Rare"
       ],
       "marketPrice": {
-        "low": 40.0,
-        "mid": 80.0,
-        "high": 150.0
+        "low": 40,
+        "mid": 80,
+        "high": 150
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Generation V"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/189.jpg"
     },
     {
       "number": "190/159",
@@ -4704,14 +4894,15 @@
         "Illustration Rare"
       ],
       "marketPrice": {
-        "low": 40.0,
-        "mid": 80.0,
-        "high": 150.0
+        "low": 40,
+        "mid": 80,
+        "high": 150
       },
       "metadata": {
         "artist": "Various Artists",
         "generation": "Mixed Generations"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/journeytogether/190.jpg"
     }
   ]
 }

@@ -6,7 +6,8 @@
     "releaseDate": "2015-08-12",
     "totalCards": 100,
     "symbol": "AOR",
-    "logo": "https://www.serebii.net/card/ancientorigins/logo.png"
+    "logo": "https://www.serebii.net/card/logo/ancientorigins.png",
+    "setCode": "AOR"
   },
   "cards": [
     {
@@ -19,7 +20,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/1.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/001.jpg"
     },
     {
       "id": "ancient-origins-2",
@@ -31,7 +33,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/2.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/002.jpg"
     },
     {
       "id": "ancient-origins-3",
@@ -43,7 +46,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/3.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/003.jpg"
     },
     {
       "id": "ancient-origins-4",
@@ -55,7 +59,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/4.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/004.jpg"
     },
     {
       "id": "ancient-origins-5",
@@ -67,7 +72,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/5.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/005.jpg"
     },
     {
       "id": "ancient-origins-6",
@@ -79,7 +85,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/6.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/006.jpg"
     },
     {
       "id": "ancient-origins-7",
@@ -94,7 +101,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/007.jpg"
     },
     {
       "id": "ancient-origins-8",
@@ -110,7 +118,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/008.jpg"
     },
     {
       "id": "ancient-origins-9",
@@ -122,7 +131,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/9.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/009.jpg"
     },
     {
       "id": "ancient-origins-10",
@@ -134,7 +144,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/10.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/010.jpg"
     },
     {
       "id": "ancient-origins-11",
@@ -146,7 +157,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/11.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/011.jpg"
     },
     {
       "id": "ancient-origins-12",
@@ -158,7 +170,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/12.jpg",
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/012.jpg"
     },
     {
       "id": "ancient-origins-13",
@@ -170,7 +183,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/13.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/013.jpg"
     },
     {
       "id": "ancient-origins-14",
@@ -182,7 +196,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/14.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/014.jpg"
     },
     {
       "id": "ancient-origins-15",
@@ -194,7 +209,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/15.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/015.jpg"
     },
     {
       "id": "ancient-origins-16",
@@ -206,7 +222,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/16.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/016.jpg"
     },
     {
       "id": "ancient-origins-17",
@@ -218,7 +235,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/17.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/017.jpg"
     },
     {
       "id": "ancient-origins-18",
@@ -230,7 +248,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/18.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/018.jpg"
     },
     {
       "id": "ancient-origins-19",
@@ -242,7 +261,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/19.jpg",
-      "hp": 30
+      "hp": 30,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/019.jpg"
     },
     {
       "id": "ancient-origins-20",
@@ -254,7 +274,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/20.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/020.jpg"
     },
     {
       "id": "ancient-origins-21",
@@ -266,7 +287,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/21.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/021.jpg"
     },
     {
       "id": "ancient-origins-22",
@@ -278,7 +300,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/22.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/022.jpg"
     },
     {
       "id": "ancient-origins-23",
@@ -290,7 +313,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/23.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/023.jpg"
     },
     {
       "id": "ancient-origins-24",
@@ -302,7 +326,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/24.jpg",
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/024.jpg"
     },
     {
       "id": "ancient-origins-25",
@@ -317,7 +342,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/025.jpg"
     },
     {
       "id": "ancient-origins-26",
@@ -329,7 +355,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/26.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/026.jpg"
     },
     {
       "id": "ancient-origins-27",
@@ -344,7 +371,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/027.jpg"
     },
     {
       "id": "ancient-origins-28",
@@ -360,7 +388,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/028.jpg"
     },
     {
       "id": "ancient-origins-29",
@@ -372,7 +401,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/29.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/029.jpg"
     },
     {
       "id": "ancient-origins-30",
@@ -384,7 +414,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/30.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/030.jpg"
     },
     {
       "id": "ancient-origins-31",
@@ -396,7 +427,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/31.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/031.jpg"
     },
     {
       "id": "ancient-origins-32",
@@ -408,7 +440,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/32.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/032.jpg"
     },
     {
       "id": "ancient-origins-33",
@@ -420,7 +453,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/33.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/033.jpg"
     },
     {
       "id": "ancient-origins-34",
@@ -432,7 +466,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/34.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/034.jpg"
     },
     {
       "id": "ancient-origins-35",
@@ -444,7 +479,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/35.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/035.jpg"
     },
     {
       "id": "ancient-origins-36",
@@ -459,7 +495,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/036.jpg"
     },
     {
       "id": "ancient-origins-37",
@@ -474,7 +511,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/037.jpg"
     },
     {
       "id": "ancient-origins-38",
@@ -486,7 +524,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/38.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/038.jpg"
     },
     {
       "id": "ancient-origins-39",
@@ -498,7 +537,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/39.jpg",
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/039.jpg"
     },
     {
       "id": "ancient-origins-40",
@@ -510,7 +550,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/40.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/040.jpg"
     },
     {
       "id": "ancient-origins-41",
@@ -522,7 +563,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/41.jpg",
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/041.jpg"
     },
     {
       "id": "ancient-origins-42",
@@ -537,7 +579,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/042.jpg"
     },
     {
       "id": "ancient-origins-43",
@@ -553,7 +596,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/043.jpg"
     },
     {
       "id": "ancient-origins-44",
@@ -565,7 +609,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/44.jpg",
-      "hp": 70
+      "hp": 70,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/044.jpg"
     },
     {
       "id": "ancient-origins-45",
@@ -577,7 +622,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/45.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/045.jpg"
     },
     {
       "id": "ancient-origins-46",
@@ -589,7 +635,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/46.jpg",
-      "hp": 100
+      "hp": 100,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/046.jpg"
     },
     {
       "id": "ancient-origins-47",
@@ -601,7 +648,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/47.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/047.jpg"
     },
     {
       "id": "ancient-origins-48",
@@ -613,7 +661,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/48.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/048.jpg"
     },
     {
       "id": "ancient-origins-49",
@@ -625,7 +674,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/49.jpg",
-      "hp": 150
+      "hp": 150,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/049.jpg"
     },
     {
       "id": "ancient-origins-50",
@@ -637,7 +687,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/50.jpg",
-      "hp": 150
+      "hp": 150,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/050.jpg"
     },
     {
       "id": "ancient-origins-51",
@@ -649,7 +700,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/51.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/051.jpg"
     },
     {
       "id": "ancient-origins-52",
@@ -661,7 +713,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/52.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/052.jpg"
     },
     {
       "id": "ancient-origins-53",
@@ -673,7 +726,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/53.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/053.jpg"
     },
     {
       "id": "ancient-origins-54",
@@ -685,7 +739,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/54.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/054.jpg"
     },
     {
       "id": "ancient-origins-55",
@@ -697,7 +752,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/55.jpg",
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/055.jpg"
     },
     {
       "id": "ancient-origins-56",
@@ -709,7 +765,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/56.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/056.jpg"
     },
     {
       "id": "ancient-origins-57",
@@ -724,7 +781,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/057.jpg"
     },
     {
       "id": "ancient-origins-58",
@@ -736,7 +794,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/58.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/058.jpg"
     },
     {
       "id": "ancient-origins-59",
@@ -748,7 +807,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/59.jpg",
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/059.jpg"
     },
     {
       "id": "ancient-origins-60",
@@ -760,7 +820,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/60.jpg",
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/060.jpg"
     },
     {
       "id": "ancient-origins-61",
@@ -772,7 +833,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/61.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/061.jpg"
     },
     {
       "id": "ancient-origins-62",
@@ -784,7 +846,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/62.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/062.jpg"
     },
     {
       "id": "ancient-origins-63",
@@ -796,7 +859,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/63.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/063.jpg"
     },
     {
       "id": "ancient-origins-64",
@@ -808,7 +872,8 @@
       "rarity": "Common",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/64.jpg",
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/064.jpg"
     },
     {
       "id": "ancient-origins-65",
@@ -820,7 +885,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/65.jpg",
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/065.jpg"
     },
     {
       "id": "ancient-origins-66",
@@ -832,7 +898,8 @@
       "rarity": "Rare",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/66.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/066.jpg"
     },
     {
       "id": "ancient-origins-67",
@@ -844,7 +911,8 @@
       "rarity": "Rare Holo",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/67.jpg",
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/067.jpg"
     },
     {
       "id": "ancient-origins-68",
@@ -859,7 +927,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/068.jpg"
     },
     {
       "id": "ancient-origins-69",
@@ -871,7 +940,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/69.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/069.jpg"
     },
     {
       "id": "ancient-origins-70",
@@ -883,7 +953,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/70.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/070.jpg"
     },
     {
       "id": "ancient-origins-71",
@@ -895,7 +966,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/71.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/071.jpg"
     },
     {
       "id": "ancient-origins-72",
@@ -907,7 +979,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/72.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/072.jpg"
     },
     {
       "id": "ancient-origins-73",
@@ -919,7 +992,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/73.jpg",
-      "trainer_type": "Stadium"
+      "trainer_type": "Stadium",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/073.jpg"
     },
     {
       "id": "ancient-origins-74",
@@ -931,7 +1005,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/74.jpg",
-      "trainer_type": "Stadium"
+      "trainer_type": "Stadium",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/074.jpg"
     },
     {
       "id": "ancient-origins-75",
@@ -943,7 +1018,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/75.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/075.jpg"
     },
     {
       "id": "ancient-origins-76",
@@ -955,7 +1031,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/76.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/076.jpg"
     },
     {
       "id": "ancient-origins-77",
@@ -967,7 +1044,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/77.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/077.jpg"
     },
     {
       "id": "ancient-origins-78",
@@ -979,7 +1057,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/78.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/078.jpg"
     },
     {
       "id": "ancient-origins-79",
@@ -991,7 +1070,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/79.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/079.jpg"
     },
     {
       "id": "ancient-origins-80",
@@ -1003,7 +1083,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/80.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/080.jpg"
     },
     {
       "id": "ancient-origins-81",
@@ -1015,7 +1096,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/81.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/081.jpg"
     },
     {
       "id": "ancient-origins-82",
@@ -1027,7 +1109,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/82.jpg",
-      "energy_type": "Special"
+      "energy_type": "Special",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/082.jpg"
     },
     {
       "id": "ancient-origins-83",
@@ -1039,7 +1122,8 @@
       "rarity": "Uncommon",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/83.jpg",
-      "energy_type": "Special"
+      "energy_type": "Special",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/083.jpg"
     },
     {
       "id": "ancient-origins-84",
@@ -1054,7 +1138,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/084.jpg"
     },
     {
       "id": "ancient-origins-85",
@@ -1070,7 +1155,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/085.jpg"
     },
     {
       "id": "ancient-origins-86",
@@ -1085,7 +1171,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/086.jpg"
     },
     {
       "id": "ancient-origins-87",
@@ -1100,7 +1187,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/087.jpg"
     },
     {
       "id": "ancient-origins-88",
@@ -1116,7 +1204,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/088.jpg"
     },
     {
       "id": "ancient-origins-89",
@@ -1131,7 +1220,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/089.jpg"
     },
     {
       "id": "ancient-origins-90",
@@ -1146,7 +1236,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/090.jpg"
     },
     {
       "id": "ancient-origins-91",
@@ -1161,7 +1252,8 @@
       "hp": 180,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/091.jpg"
     },
     {
       "id": "ancient-origins-92",
@@ -1177,7 +1269,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/092.jpg"
     },
     {
       "id": "ancient-origins-93",
@@ -1192,7 +1285,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/093.jpg"
     },
     {
       "id": "ancient-origins-94",
@@ -1207,7 +1301,8 @@
       "hp": 170,
       "keywords": [
         "ex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/094.jpg"
     },
     {
       "id": "ancient-origins-95",
@@ -1219,7 +1314,8 @@
       "rarity": "Rare Ultra",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/95.jpg",
-      "trainer_type": "Supporter"
+      "trainer_type": "Supporter",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/095.jpg"
     },
     {
       "id": "ancient-origins-96",
@@ -1236,7 +1332,8 @@
         "ex",
         "primal",
         "primal-evolution"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/096.jpg"
     },
     {
       "id": "ancient-origins-97",
@@ -1253,7 +1350,8 @@
         "ex",
         "primal",
         "primal-evolution"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/097.jpg"
     },
     {
       "id": "ancient-origins-98",
@@ -1269,7 +1367,8 @@
       "keywords": [
         "ex",
         "mega"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/098.jpg"
     },
     {
       "id": "ancient-origins-99",
@@ -1281,7 +1380,8 @@
       "rarity": "Rare Secret",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/99.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/099.jpg"
     },
     {
       "id": "ancient-origins-100",
@@ -1293,7 +1393,8 @@
       "rarity": "Rare Secret",
       "artist": "5ban Graphics",
       "image_url": "https://www.serebii.net/card/ancientorigins/100.jpg",
-      "trainer_type": "Item"
+      "trainer_type": "Item",
+      "imageUrl": "https://www.serebii.net/card/ancientorigins/100.jpg"
     }
   ]
 }

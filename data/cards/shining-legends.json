@@ -16,7 +16,9 @@
     "images": {
       "symbol": "https://www.serebii.net/card/shininglegends/symbol.png",
       "logo": "https://www.serebii.net/card/shininglegends/logo.png"
-    }
+    },
+    "setCode": "SLG",
+    "logo": "https://www.serebii.net/card/logo/shininglegends.png"
   },
   "cards": [
     {
@@ -30,7 +32,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/1.jpg",
         "large": "https://www.serebii.net/card/shininglegends/1.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/001.jpg"
     },
     {
       "id": "shl2",
@@ -43,7 +46,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/2.jpg",
         "large": "https://www.serebii.net/card/shininglegends/2.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/002.jpg"
     },
     {
       "id": "shl3",
@@ -56,7 +60,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/3.jpg",
         "large": "https://www.serebii.net/card/shininglegends/3.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/003.jpg"
     },
     {
       "id": "shl4",
@@ -69,7 +74,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/4.jpg",
         "large": "https://www.serebii.net/card/shininglegends/4.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/004.jpg"
     },
     {
       "id": "shl5",
@@ -82,7 +88,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/5.jpg",
         "large": "https://www.serebii.net/card/shininglegends/5.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/005.jpg"
     },
     {
       "id": "shl6",
@@ -95,7 +102,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/6.jpg",
         "large": "https://www.serebii.net/card/shininglegends/6.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/006.jpg"
     },
     {
       "id": "shl7",
@@ -108,7 +116,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/7.jpg",
         "large": "https://www.serebii.net/card/shininglegends/7.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/007.jpg"
     },
     {
       "id": "shl8",
@@ -121,7 +130,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/8.jpg",
         "large": "https://www.serebii.net/card/shininglegends/8.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/008.jpg"
     },
     {
       "id": "shl9",
@@ -138,7 +148,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/9.jpg",
         "large": "https://www.serebii.net/card/shininglegends/9.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/009.jpg"
     },
     {
       "id": "shl10",
@@ -155,7 +166,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/10.jpg",
         "large": "https://www.serebii.net/card/shininglegends/10.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/010.jpg"
     },
     {
       "id": "shl11",
@@ -168,7 +180,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/11.jpg",
         "large": "https://www.serebii.net/card/shininglegends/11.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/011.jpg"
     },
     {
       "id": "shl12",
@@ -181,7 +194,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/12.jpg",
         "large": "https://www.serebii.net/card/shininglegends/12.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/012.jpg"
     },
     {
       "id": "shl13",
@@ -194,7 +208,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/13.jpg",
         "large": "https://www.serebii.net/card/shininglegends/13.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/013.jpg"
     },
     {
       "id": "shl14",
@@ -207,7 +222,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/14.jpg",
         "large": "https://www.serebii.net/card/shininglegends/14.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/014.jpg"
     },
     {
       "id": "shl15",
@@ -220,7 +236,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/15.jpg",
         "large": "https://www.serebii.net/card/shininglegends/15.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/015.jpg"
     },
     {
       "id": "shl16",
@@ -233,7 +250,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/16.jpg",
         "large": "https://www.serebii.net/card/shininglegends/16.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/016.jpg"
     },
     {
       "id": "shl17",
@@ -246,7 +264,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/17.jpg",
         "large": "https://www.serebii.net/card/shininglegends/17.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/017.jpg"
     },
     {
       "id": "shl18",
@@ -259,7 +278,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/18.jpg",
         "large": "https://www.serebii.net/card/shininglegends/18.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/018.jpg"
     },
     {
       "id": "shl19",
@@ -272,7 +292,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/19.jpg",
         "large": "https://www.serebii.net/card/shininglegends/19.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/019.jpg"
     },
     {
       "id": "shl20",
@@ -285,7 +306,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/20.jpg",
         "large": "https://www.serebii.net/card/shininglegends/20.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/020.jpg"
     },
     {
       "id": "shl21",
@@ -298,7 +320,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/21.jpg",
         "large": "https://www.serebii.net/card/shininglegends/21.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/021.jpg"
     },
     {
       "id": "shl22",
@@ -311,7 +334,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/22.jpg",
         "large": "https://www.serebii.net/card/shininglegends/22.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/022.jpg"
     },
     {
       "id": "shl23",
@@ -324,7 +348,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/23.jpg",
         "large": "https://www.serebii.net/card/shininglegends/23.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/023.jpg"
     },
     {
       "id": "shl24",
@@ -337,7 +362,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/24.jpg",
         "large": "https://www.serebii.net/card/shininglegends/24.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/024.jpg"
     },
     {
       "id": "shl25",
@@ -350,7 +376,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/25.jpg",
         "large": "https://www.serebii.net/card/shininglegends/25.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/025.jpg"
     },
     {
       "id": "shl26",
@@ -363,7 +390,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/26.jpg",
         "large": "https://www.serebii.net/card/shininglegends/26.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/026.jpg"
     },
     {
       "id": "shl27",
@@ -380,7 +408,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/27.jpg",
         "large": "https://www.serebii.net/card/shininglegends/27.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/027.jpg"
     },
     {
       "id": "shl28",
@@ -393,7 +422,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/28.jpg",
         "large": "https://www.serebii.net/card/shininglegends/28.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/028.jpg"
     },
     {
       "id": "shl29",
@@ -410,7 +440,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/29.jpg",
         "large": "https://www.serebii.net/card/shininglegends/29.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/029.jpg"
     },
     {
       "id": "shl30",
@@ -423,7 +454,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/30.jpg",
         "large": "https://www.serebii.net/card/shininglegends/30.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/030.jpg"
     },
     {
       "id": "shl31",
@@ -436,7 +468,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/31.jpg",
         "large": "https://www.serebii.net/card/shininglegends/31.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/031.jpg"
     },
     {
       "id": "shl32",
@@ -449,7 +482,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/32.jpg",
         "large": "https://www.serebii.net/card/shininglegends/32.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/032.jpg"
     },
     {
       "id": "shl33",
@@ -462,7 +496,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/33.jpg",
         "large": "https://www.serebii.net/card/shininglegends/33.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/033.jpg"
     },
     {
       "id": "shl34",
@@ -475,7 +510,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/34.jpg",
         "large": "https://www.serebii.net/card/shininglegends/34.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/034.jpg"
     },
     {
       "id": "shl35",
@@ -488,7 +524,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/35.jpg",
         "large": "https://www.serebii.net/card/shininglegends/35.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/035.jpg"
     },
     {
       "id": "shl36",
@@ -501,7 +538,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/36.jpg",
         "large": "https://www.serebii.net/card/shininglegends/36.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/036.jpg"
     },
     {
       "id": "shl37",
@@ -514,7 +552,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/37.jpg",
         "large": "https://www.serebii.net/card/shininglegends/37.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/037.jpg"
     },
     {
       "id": "shl38",
@@ -527,7 +566,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/38.jpg",
         "large": "https://www.serebii.net/card/shininglegends/38.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/038.jpg"
     },
     {
       "id": "shl39",
@@ -544,7 +584,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/39.jpg",
         "large": "https://www.serebii.net/card/shininglegends/39.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/039.jpg"
     },
     {
       "id": "shl40",
@@ -561,7 +602,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/40.jpg",
         "large": "https://www.serebii.net/card/shininglegends/40.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/040.jpg"
     },
     {
       "id": "shl41",
@@ -574,7 +616,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/41.jpg",
         "large": "https://www.serebii.net/card/shininglegends/41.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/041.jpg"
     },
     {
       "id": "shl42",
@@ -591,7 +634,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/42.jpg",
         "large": "https://www.serebii.net/card/shininglegends/42.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/042.jpg"
     },
     {
       "id": "shl43",
@@ -604,7 +648,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/43.jpg",
         "large": "https://www.serebii.net/card/shininglegends/43.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/043.jpg"
     },
     {
       "id": "shl44",
@@ -617,7 +662,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/44.jpg",
         "large": "https://www.serebii.net/card/shininglegends/44.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/044.jpg"
     },
     {
       "id": "shl45",
@@ -630,7 +676,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/45.jpg",
         "large": "https://www.serebii.net/card/shininglegends/45.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/045.jpg"
     },
     {
       "id": "shl46",
@@ -643,7 +690,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/46.jpg",
         "large": "https://www.serebii.net/card/shininglegends/46.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/046.jpg"
     },
     {
       "id": "shl47",
@@ -656,7 +704,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/47.jpg",
         "large": "https://www.serebii.net/card/shininglegends/47.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/047.jpg"
     },
     {
       "id": "shl48",
@@ -669,7 +718,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/48.jpg",
         "large": "https://www.serebii.net/card/shininglegends/48.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/048.jpg"
     },
     {
       "id": "shl49",
@@ -682,7 +732,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/49.jpg",
         "large": "https://www.serebii.net/card/shininglegends/49.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/049.jpg"
     },
     {
       "id": "shl50",
@@ -695,7 +746,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/50.jpg",
         "large": "https://www.serebii.net/card/shininglegends/50.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/050.jpg"
     },
     {
       "id": "shl51",
@@ -708,7 +760,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/51.jpg",
         "large": "https://www.serebii.net/card/shininglegends/51.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/051.jpg"
     },
     {
       "id": "shl52",
@@ -721,7 +774,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/52.jpg",
         "large": "https://www.serebii.net/card/shininglegends/52.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/052.jpg"
     },
     {
       "id": "shl53",
@@ -738,7 +792,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/53.jpg",
         "large": "https://www.serebii.net/card/shininglegends/53.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/053.jpg"
     },
     {
       "id": "shl54",
@@ -751,7 +806,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/54.jpg",
         "large": "https://www.serebii.net/card/shininglegends/54.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/054.jpg"
     },
     {
       "id": "shl55",
@@ -764,7 +820,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/55.jpg",
         "large": "https://www.serebii.net/card/shininglegends/55.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/055.jpg"
     },
     {
       "id": "shl56",
@@ -781,7 +838,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/56.jpg",
         "large": "https://www.serebii.net/card/shininglegends/56.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/056.jpg"
     },
     {
       "id": "shl57",
@@ -798,7 +856,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/57.jpg",
         "large": "https://www.serebii.net/card/shininglegends/57.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/057.jpg"
     },
     {
       "id": "shl58",
@@ -814,7 +873,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/58.jpg",
         "large": "https://www.serebii.net/card/shininglegends/58.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/058.jpg"
     },
     {
       "id": "shl59",
@@ -830,7 +890,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/59.jpg",
         "large": "https://www.serebii.net/card/shininglegends/59.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/059.jpg"
     },
     {
       "id": "shl60",
@@ -846,7 +907,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/60.jpg",
         "large": "https://www.serebii.net/card/shininglegends/60.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/060.jpg"
     },
     {
       "id": "shl61",
@@ -862,7 +924,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/61.jpg",
         "large": "https://www.serebii.net/card/shininglegends/61.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/061.jpg"
     },
     {
       "id": "shl62",
@@ -878,7 +941,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/62.jpg",
         "large": "https://www.serebii.net/card/shininglegends/62.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/062.jpg"
     },
     {
       "id": "shl63",
@@ -894,7 +958,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/63.jpg",
         "large": "https://www.serebii.net/card/shininglegends/63.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/063.jpg"
     },
     {
       "id": "shl64",
@@ -910,7 +975,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/64.jpg",
         "large": "https://www.serebii.net/card/shininglegends/64.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/064.jpg"
     },
     {
       "id": "shl65",
@@ -926,7 +992,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/65.jpg",
         "large": "https://www.serebii.net/card/shininglegends/65.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/065.jpg"
     },
     {
       "id": "shl66",
@@ -942,7 +1009,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/66.jpg",
         "large": "https://www.serebii.net/card/shininglegends/66.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/066.jpg"
     },
     {
       "id": "shl67",
@@ -958,7 +1026,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/67.jpg",
         "large": "https://www.serebii.net/card/shininglegends/67.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/067.jpg"
     },
     {
       "id": "shl68",
@@ -974,7 +1043,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/68.jpg",
         "large": "https://www.serebii.net/card/shininglegends/68.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/068.jpg"
     },
     {
       "id": "shl69",
@@ -990,7 +1060,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/69.jpg",
         "large": "https://www.serebii.net/card/shininglegends/69.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/069.jpg"
     },
     {
       "id": "shl70",
@@ -1006,7 +1077,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/70.jpg",
         "large": "https://www.serebii.net/card/shininglegends/70.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/070.jpg"
     },
     {
       "id": "shl71",
@@ -1023,7 +1095,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/71.jpg",
         "large": "https://www.serebii.net/card/shininglegends/71.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/071.jpg"
     },
     {
       "id": "shl72",
@@ -1040,7 +1113,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/72.jpg",
         "large": "https://www.serebii.net/card/shininglegends/72.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/072.jpg"
     },
     {
       "id": "shl73",
@@ -1056,7 +1130,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/73.jpg",
         "large": "https://www.serebii.net/card/shininglegends/73.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/073.jpg"
     },
     {
       "id": "shl74",
@@ -1073,7 +1148,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/74.jpg",
         "large": "https://www.serebii.net/card/shininglegends/74.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/074.jpg"
     },
     {
       "id": "shl75",
@@ -1090,7 +1166,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/75.jpg",
         "large": "https://www.serebii.net/card/shininglegends/75.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/075.jpg"
     },
     {
       "id": "shl76",
@@ -1107,7 +1184,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/76.jpg",
         "large": "https://www.serebii.net/card/shininglegends/76.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/076.jpg"
     },
     {
       "id": "shl77",
@@ -1124,7 +1202,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/77.jpg",
         "large": "https://www.serebii.net/card/shininglegends/77.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/077.jpg"
     },
     {
       "id": "shl78",
@@ -1141,7 +1220,8 @@
       "images": {
         "small": "https://www.serebii.net/card/shininglegends/78.jpg",
         "large": "https://www.serebii.net/card/shininglegends/78.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/shininglegends/078.jpg"
     }
   ]
 }

@@ -3,14 +3,16 @@
     "name": "TAG TEAM Cards",
     "description": "Pokemon TAG TEAM cards from various sets featuring powerful dual Pokemon combinations like Pikachu & Zekrom-GX and Mewtwo & Mew-GX",
     "releaseDate": "2019/02/01",
-    "lastUpdated": "2024/06/01"
+    "lastUpdated": "2024/06/01",
+    "setCode": "TAGTEAMCARDS",
+    "logo": "https://www.serebii.net/card/logo/tagteamcards.png"
   },
   "cards": [
     {
       "id": "tag-001",
       "name": "Pikachu & Zekrom-GX",
       "setName": "Team Up",
-      "setCode": "TEU",
+      "setCode": "TAGTEAMCARDS",
       "cardNumber": "33",
       "rarity": "Ultra Rare",
       "type": "Electric",
@@ -25,13 +27,13 @@
         "Team Up 33",
         "Pikachu Zekrom GX"
       ],
-      "imageUrl": "https://images.pokemontcg.io/sm9/33_hires.png"
+      "imageUrl": "https://www.serebii.net/card/tagteamcards/033.jpg"
     },
     {
-      "id": "tag-002", 
+      "id": "tag-002",
       "name": "Reshiram & Charizard-GX",
       "setName": "Unbroken Bonds",
-      "setCode": "UNB",
+      "setCode": "TAGTEAMCARDS",
       "cardNumber": "20",
       "rarity": "Ultra Rare",
       "type": "Fire",
@@ -39,20 +41,20 @@
       "artist": "Mitsuhiro Arita",
       "matchingKeywords": [
         "Reshiram Charizard",
-        "Reshiram & Charizard", 
+        "Reshiram & Charizard",
         "ReshiramCharizard",
         "Resh Char",
         "UNB 20",
         "Unbroken Bonds 20",
         "Reshiram Charizard GX"
       ],
-      "imageUrl": "https://images.pokemontcg.io/sm10/20_hires.png"
+      "imageUrl": "https://www.serebii.net/card/tagteamcards/020.jpg"
     },
     {
       "id": "tag-003",
       "name": "Mewtwo & Mew-GX",
-      "setName": "Unified Minds", 
-      "setCode": "UNM",
+      "setName": "Unified Minds",
+      "setCode": "TAGTEAMCARDS",
       "cardNumber": "71",
       "rarity": "Ultra Rare",
       "type": "Psychic",
@@ -61,13 +63,13 @@
       "matchingKeywords": [
         "Mewtwo Mew",
         "Mewtwo & Mew",
-        "MewtwoMew", 
+        "MewtwoMew",
         "Mew2 Mew",
         "UNM 71",
         "Unified Minds 71",
         "Mewtwo Mew GX"
       ],
-      "imageUrl": "https://images.pokemontcg.io/sm11/71_hires.png"
+      "imageUrl": "https://www.serebii.net/card/tagteamcards/071.jpg"
     }
   ]
-} 
+}

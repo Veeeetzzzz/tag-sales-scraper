@@ -3,17 +3,18 @@
     "name": "Scarlet & Violet Base",
     "description": "Pokemon Scarlet & Violet Base expansion set - Complete 258 card set with ex cards and special variants",
     "lastUpdated": "2024-06-01",
-    "setCode": "SV1",
+    "setCode": "SCARLETVIOLETBASE",
     "totalCards": 258,
     "releaseDate": "2023-03-31",
-    "tagSales": 1456
+    "tagSales": 1456,
+    "logo": "https://www.serebii.net/card/logo/scarletvioletbase.png"
   },
   "cards": [
     {
       "id": "sv1-001",
       "name": "Pineco",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "001",
       "fullNumber": "001/198",
       "rarity": "Common",
@@ -28,13 +29,13 @@
         "1/198",
         "Scarlet Violet Pineco"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/001.jpg"
     },
     {
       "id": "sv1-002",
       "name": "Heracross",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "002",
       "fullNumber": "002/198",
       "rarity": "Uncommon",
@@ -49,13 +50,13 @@
         "2/198",
         "Scarlet Violet Heracross"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/002.jpg"
     },
     {
       "id": "sv1-003",
       "name": "Shroomish",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "003",
       "fullNumber": "003/198",
       "rarity": "Common",
@@ -70,13 +71,13 @@
         "3/198",
         "Scarlet Violet Shroomish"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/003.jpg"
     },
     {
       "id": "sv1-004",
       "name": "Breloom",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "004",
       "fullNumber": "004/198",
       "rarity": "Uncommon",
@@ -91,13 +92,13 @@
         "4/198",
         "Scarlet Violet Breloom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/004.jpg"
     },
     {
       "id": "sv1-005",
       "name": "Cacnea",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "005",
       "fullNumber": "005/198",
       "rarity": "Common",
@@ -112,13 +113,13 @@
         "5/198",
         "Scarlet Violet Cacnea"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/005.jpg"
     },
     {
       "id": "sv1-006",
       "name": "Cacturne",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "006",
       "fullNumber": "006/198",
       "rarity": "Uncommon",
@@ -133,13 +134,13 @@
         "6/198",
         "Scarlet Violet Cacturne"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/006.jpg"
     },
     {
       "id": "sv1-007",
       "name": "Tropius",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "007",
       "fullNumber": "007/198",
       "rarity": "Common",
@@ -154,13 +155,13 @@
         "7/198",
         "Scarlet Violet Tropius"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/007.jpg"
     },
     {
       "id": "sv1-008",
       "name": "Scatterbug",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "008",
       "fullNumber": "008/198",
       "rarity": "Common",
@@ -175,13 +176,13 @@
         "8/198",
         "Scarlet Violet Scatterbug"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/008.jpg"
     },
     {
       "id": "sv1-009",
       "name": "Spewpa",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "009",
       "fullNumber": "009/198",
       "rarity": "Common",
@@ -196,13 +197,13 @@
         "9/198",
         "Scarlet Violet Spewpa"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/009.jpg"
     },
     {
       "id": "sv1-010",
       "name": "Vivillon",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "010",
       "fullNumber": "010/198",
       "rarity": "Uncommon",
@@ -217,13 +218,13 @@
         "10/198",
         "Scarlet Violet Vivillon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/010.jpg"
     },
     {
       "id": "sv1-011",
       "name": "Skiddo",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "011",
       "fullNumber": "011/198",
       "rarity": "Common",
@@ -238,13 +239,13 @@
         "11/198",
         "Scarlet Violet Skiddo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/011.jpg"
     },
     {
       "id": "sv1-012",
       "name": "Gogoat",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "012",
       "fullNumber": "012/198",
       "rarity": "Common",
@@ -259,13 +260,13 @@
         "12/198",
         "Scarlet Violet Gogoat"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/012.jpg"
     },
     {
       "id": "sv1-013",
       "name": "Sprigatito",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "013",
       "fullNumber": "013/198",
       "rarity": "Common",
@@ -280,13 +281,13 @@
         "13/198",
         "Scarlet Violet Sprigatito"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/013.jpg"
     },
     {
       "id": "sv1-014",
       "name": "Floragato",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "014",
       "fullNumber": "014/198",
       "rarity": "Uncommon",
@@ -301,13 +302,13 @@
         "14/198",
         "Scarlet Violet Floragato"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/014.jpg"
     },
     {
       "id": "sv1-015",
       "name": "Meowscarada",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "015",
       "fullNumber": "015/198",
       "rarity": "Rare",
@@ -322,13 +323,13 @@
         "15/198",
         "Scarlet Violet Meowscarada"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/015.jpg"
     },
     {
       "id": "sv1-016",
       "name": "Tarountula",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "016",
       "fullNumber": "016/198",
       "rarity": "Common",
@@ -343,13 +344,13 @@
         "16/198",
         "Scarlet Violet Tarountula"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/016.jpg"
     },
     {
       "id": "sv1-017",
       "name": "Tarountula",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "017",
       "fullNumber": "017/198",
       "rarity": "Common",
@@ -364,13 +365,13 @@
         "17/198",
         "Scarlet Violet Tarountula"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/017.jpg"
     },
     {
       "id": "sv1-018",
       "name": "Tarountula",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "018",
       "fullNumber": "018/198",
       "rarity": "Common",
@@ -385,13 +386,13 @@
         "18/198",
         "Scarlet Violet Tarountula"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/018.jpg"
     },
     {
       "id": "sv1-019",
       "name": "Spidops ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "019",
       "fullNumber": "019/198",
       "rarity": "Double Rare",
@@ -407,13 +408,13 @@
         "19/198",
         "Scarlet Violet Spidops"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/019.jpg"
     },
     {
       "id": "sv1-020",
       "name": "Smoliv",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "020",
       "fullNumber": "020/198",
       "rarity": "Common",
@@ -428,13 +429,13 @@
         "20/198",
         "Scarlet Violet Smoliv"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/020.jpg"
     },
     {
       "id": "sv1-021",
       "name": "Smoliv",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "021",
       "fullNumber": "021/198",
       "rarity": "Common",
@@ -449,13 +450,13 @@
         "21/198",
         "Scarlet Violet Smoliv"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/021.jpg"
     },
     {
       "id": "sv1-022",
       "name": "Dolliv",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "022",
       "fullNumber": "022/198",
       "rarity": "Common",
@@ -470,13 +471,13 @@
         "22/198",
         "Scarlet Violet Dolliv"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/022.jpg"
     },
     {
       "id": "sv1-023",
       "name": "Arboliva",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "023",
       "fullNumber": "023/198",
       "rarity": "Rare",
@@ -491,13 +492,13 @@
         "23/198",
         "Scarlet Violet Arboliva"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/023.jpg"
     },
     {
       "id": "sv1-024",
       "name": "Toedscool",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "024",
       "fullNumber": "024/198",
       "rarity": "Common",
@@ -512,13 +513,13 @@
         "24/198",
         "Scarlet Violet Toedscool"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/024.jpg"
     },
     {
       "id": "sv1-025",
       "name": "Toedscool",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "025",
       "fullNumber": "025/198",
       "rarity": "Common",
@@ -533,13 +534,13 @@
         "25/198",
         "Scarlet Violet Toedscool"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/025.jpg"
     },
     {
       "id": "sv1-026",
       "name": "Toedscruel",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "026",
       "fullNumber": "026/198",
       "rarity": "Uncommon",
@@ -554,13 +555,13 @@
         "26/198",
         "Scarlet Violet Toedscruel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/026.jpg"
     },
     {
       "id": "sv1-027",
       "name": "Capsakid",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "027",
       "fullNumber": "027/198",
       "rarity": "Common",
@@ -575,13 +576,13 @@
         "27/198",
         "Scarlet Violet Capsakid"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/027.jpg"
     },
     {
       "id": "sv1-028",
       "name": "Capsakid",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "028",
       "fullNumber": "028/198",
       "rarity": "Common",
@@ -596,13 +597,13 @@
         "28/198",
         "Scarlet Violet Capsakid"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/028.jpg"
     },
     {
       "id": "sv1-029",
       "name": "Scovillain",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "029",
       "fullNumber": "029/198",
       "rarity": "Uncommon",
@@ -617,13 +618,13 @@
         "29/198",
         "Scarlet Violet Scovillain"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/029.jpg"
     },
     {
       "id": "sv1-030",
       "name": "Growlithe",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "030",
       "fullNumber": "030/198",
       "rarity": "Common",
@@ -638,13 +639,13 @@
         "30/198",
         "Scarlet Violet Growlithe"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/030.jpg"
     },
     {
       "id": "sv1-031",
       "name": "Growlithe",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "031",
       "fullNumber": "031/198",
       "rarity": "Common",
@@ -659,13 +660,13 @@
         "31/198",
         "Scarlet Violet Growlithe"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/031.jpg"
     },
     {
       "id": "sv1-032",
       "name": "Arcanine ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "032",
       "fullNumber": "032/198",
       "rarity": "Double Rare",
@@ -682,13 +683,13 @@
         "Scarlet Violet Arcanine ex",
         "Scarlet Violet Arcanine"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/032.jpg"
     },
     {
       "id": "sv1-033",
       "name": "Houndour",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "033",
       "fullNumber": "033/198",
       "rarity": "Common",
@@ -703,13 +704,13 @@
         "33/198",
         "Scarlet Violet Houndour"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/033.jpg"
     },
     {
       "id": "sv1-034",
       "name": "Houndoom",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "034",
       "fullNumber": "034/198",
       "rarity": "Common",
@@ -724,13 +725,13 @@
         "34/198",
         "Scarlet Violet Houndoom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/034.jpg"
     },
     {
       "id": "sv1-035",
       "name": "Torkoal",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "035",
       "fullNumber": "035/198",
       "rarity": "Uncommon",
@@ -745,13 +746,13 @@
         "35/198",
         "Scarlet Violet Torkoal"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/035.jpg"
     },
     {
       "id": "sv1-036",
       "name": "Fuecoco",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "036",
       "fullNumber": "036/198",
       "rarity": "Common",
@@ -766,13 +767,13 @@
         "36/198",
         "Scarlet Violet Fuecoco"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/036.jpg"
     },
     {
       "id": "sv1-037",
       "name": "Crocalor",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "037",
       "fullNumber": "037/198",
       "rarity": "Uncommon",
@@ -787,13 +788,13 @@
         "37/198",
         "Scarlet Violet Crocalor"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/037.jpg"
     },
     {
       "id": "sv1-038",
       "name": "Skeledirge",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "038",
       "fullNumber": "038/198",
       "rarity": "Rare",
@@ -808,13 +809,13 @@
         "38/198",
         "Scarlet Violet Skeledirge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/038.jpg"
     },
     {
       "id": "sv1-039",
       "name": "Charcadet",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "039",
       "fullNumber": "039/198",
       "rarity": "Common",
@@ -829,13 +830,13 @@
         "39/198",
         "Scarlet Violet Charcadet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/039.jpg"
     },
     {
       "id": "sv1-040",
       "name": "Charcadet",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "040",
       "fullNumber": "040/198",
       "rarity": "Common",
@@ -850,13 +851,13 @@
         "40/198",
         "Scarlet Violet Charcadet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/040.jpg"
     },
     {
       "id": "sv1-041",
       "name": "Armarouge",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "041",
       "fullNumber": "041/198",
       "rarity": "Rare",
@@ -871,13 +872,13 @@
         "41/198",
         "Scarlet Violet Armarouge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/041.jpg"
     },
     {
       "id": "sv1-042",
       "name": "Slowpoke",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "042",
       "fullNumber": "042/198",
       "rarity": "Common",
@@ -892,13 +893,13 @@
         "42/198",
         "Scarlet Violet Slowpoke"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/042.jpg"
     },
     {
       "id": "sv1-043",
       "name": "Slowbro",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "043",
       "fullNumber": "043/198",
       "rarity": "Rare",
@@ -913,13 +914,13 @@
         "43/198",
         "Scarlet Violet Slowbro"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/043.jpg"
     },
     {
       "id": "sv1-044",
       "name": "Magikarp",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "044",
       "fullNumber": "044/198",
       "rarity": "Common",
@@ -934,13 +935,13 @@
         "44/198",
         "Scarlet Violet Magikarp"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/044.jpg"
     },
     {
       "id": "sv1-045",
       "name": "Gyarados ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "045",
       "fullNumber": "045/198",
       "rarity": "Double Rare",
@@ -957,13 +958,13 @@
         "Scarlet Violet Gyarados ex",
         "Scarlet Violet Gyarados"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/045.jpg"
     },
     {
       "id": "sv1-046",
       "name": "Buizel",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "046",
       "fullNumber": "046/198",
       "rarity": "Common",
@@ -978,13 +979,13 @@
         "46/198",
         "Scarlet Violet Buizel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/046.jpg"
     },
     {
       "id": "sv1-047",
       "name": "Floatzel",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "047",
       "fullNumber": "047/198",
       "rarity": "Uncommon",
@@ -999,13 +1000,13 @@
         "47/198",
         "Scarlet Violet Floatzel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/047.jpg"
     },
     {
       "id": "sv1-048",
       "name": "Alomomola",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "048",
       "fullNumber": "048/198",
       "rarity": "Common",
@@ -1020,13 +1021,13 @@
         "48/198",
         "Scarlet Violet Alomomola"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/048.jpg"
     },
     {
       "id": "sv1-049",
       "name": "Clauncher",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "049",
       "fullNumber": "049/198",
       "rarity": "Common",
@@ -1041,13 +1042,13 @@
         "49/198",
         "Scarlet Violet Clauncher"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/049.jpg"
     },
     {
       "id": "sv1-050",
       "name": "Clawitzer",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "050",
       "fullNumber": "050/198",
       "rarity": "Common",
@@ -1062,13 +1063,13 @@
         "50/198",
         "Scarlet Violet Clawitzer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/050.jpg"
     },
     {
       "id": "sv1-051",
       "name": "Bruxish",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "051",
       "fullNumber": "051/198",
       "rarity": "Common",
@@ -1083,13 +1084,13 @@
         "51/198",
         "Scarlet Violet Bruxish"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/051.jpg"
     },
     {
       "id": "sv1-052",
       "name": "Quaxly",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "052",
       "fullNumber": "052/198",
       "rarity": "Common",
@@ -1104,13 +1105,13 @@
         "52/198",
         "Scarlet Violet Quaxly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/052.jpg"
     },
     {
       "id": "sv1-053",
       "name": "Quaxwell",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "053",
       "fullNumber": "053/198",
       "rarity": "Uncommon",
@@ -1125,13 +1126,13 @@
         "53/198",
         "Scarlet Violet Quaxwell"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/053.jpg"
     },
     {
       "id": "sv1-054",
       "name": "Quaquaval",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "054",
       "fullNumber": "054/198",
       "rarity": "Rare",
@@ -1146,13 +1147,13 @@
         "54/198",
         "Scarlet Violet Quaquaval"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/054.jpg"
     },
     {
       "id": "sv1-055",
       "name": "Wiglett",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "055",
       "fullNumber": "055/198",
       "rarity": "Common",
@@ -1167,13 +1168,13 @@
         "55/198",
         "Scarlet Violet Wiglett"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/055.jpg"
     },
     {
       "id": "sv1-056",
       "name": "Wiglett",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "056",
       "fullNumber": "056/198",
       "rarity": "Common",
@@ -1188,13 +1189,13 @@
         "56/198",
         "Scarlet Violet Wiglett"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/056.jpg"
     },
     {
       "id": "sv1-057",
       "name": "Wugtrio",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "057",
       "fullNumber": "057/198",
       "rarity": "Uncommon",
@@ -1209,13 +1210,13 @@
         "57/198",
         "Scarlet Violet Wugtrio"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/057.jpg"
     },
     {
       "id": "sv1-058",
       "name": "Cetoddle",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "058",
       "fullNumber": "058/198",
       "rarity": "Common",
@@ -1230,13 +1231,13 @@
         "58/198",
         "Scarlet Violet Cetoddle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/058.jpg"
     },
     {
       "id": "sv1-059",
       "name": "Cetoddle",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "059",
       "fullNumber": "059/198",
       "rarity": "Common",
@@ -1251,13 +1252,13 @@
         "59/198",
         "Scarlet Violet Cetoddle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/059.jpg"
     },
     {
       "id": "sv1-060",
       "name": "Cetitan",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "060",
       "fullNumber": "060/198",
       "rarity": "Uncommon",
@@ -1272,13 +1273,13 @@
         "60/198",
         "Scarlet Violet Cetitan"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/060.jpg"
     },
     {
       "id": "sv1-061",
       "name": "Dondozo",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "061",
       "fullNumber": "061/198",
       "rarity": "Rare",
@@ -1293,13 +1294,13 @@
         "61/198",
         "Scarlet Violet Dondozo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/061.jpg"
     },
     {
       "id": "sv1-062",
       "name": "Tatsugiri",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "062",
       "fullNumber": "062/198",
       "rarity": "Uncommon",
@@ -1314,13 +1315,13 @@
         "62/198",
         "Scarlet Violet Tatsugiri"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/062.jpg"
     },
     {
       "id": "sv1-063",
       "name": "Magnemite",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "063",
       "fullNumber": "063/198",
       "rarity": "Common",
@@ -1335,13 +1336,13 @@
         "63/198",
         "Scarlet Violet Magnemite"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/063.jpg"
     },
     {
       "id": "sv1-064",
       "name": "Magneton",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "064",
       "fullNumber": "064/198",
       "rarity": "Common",
@@ -1356,13 +1357,13 @@
         "64/198",
         "Scarlet Violet Magneton"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/064.jpg"
     },
     {
       "id": "sv1-065",
       "name": "Magnezone ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "065",
       "fullNumber": "065/198",
       "rarity": "Double Rare",
@@ -1379,13 +1380,13 @@
         "Scarlet Violet Magnezone ex",
         "Scarlet Violet Magnezone"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/065.jpg"
     },
     {
       "id": "sv1-066",
       "name": "Mareep",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "066",
       "fullNumber": "066/198",
       "rarity": "Common",
@@ -1400,13 +1401,13 @@
         "66/198",
         "Scarlet Violet Mareep"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/066.jpg"
     },
     {
       "id": "sv1-067",
       "name": "Flaaffy",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "067",
       "fullNumber": "067/198",
       "rarity": "Uncommon",
@@ -1421,13 +1422,13 @@
         "67/198",
         "Scarlet Violet Flaaffy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/067.jpg"
     },
     {
       "id": "sv1-068",
       "name": "Pachirisu",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "068",
       "fullNumber": "068/198",
       "rarity": "Uncommon",
@@ -1442,13 +1443,13 @@
         "68/198",
         "Scarlet Violet Pachirisu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/068.jpg"
     },
     {
       "id": "sv1-069",
       "name": "Rotom",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "069",
       "fullNumber": "069/198",
       "rarity": "Common",
@@ -1463,13 +1464,13 @@
         "69/198",
         "Scarlet Violet Rotom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/069.jpg"
     },
     {
       "id": "sv1-070",
       "name": "Rotom",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "070",
       "fullNumber": "070/198",
       "rarity": "Common",
@@ -1484,13 +1485,13 @@
         "70/198",
         "Scarlet Violet Rotom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/070.jpg"
     },
     {
       "id": "sv1-071",
       "name": "Toxel",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "071",
       "fullNumber": "071/198",
       "rarity": "Common",
@@ -1505,13 +1506,13 @@
         "71/198",
         "Scarlet Violet Toxel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/071.jpg"
     },
     {
       "id": "sv1-072",
       "name": "Toxtricity",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "072",
       "fullNumber": "072/198",
       "rarity": "Uncommon",
@@ -1526,13 +1527,13 @@
         "72/198",
         "Scarlet Violet Toxtricity"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/072.jpg"
     },
     {
       "id": "sv1-073",
       "name": "Pawmi",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "073",
       "fullNumber": "073/198",
       "rarity": "Common",
@@ -1547,13 +1548,13 @@
         "73/198",
         "Scarlet Violet Pawmi"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/073.jpg"
     },
     {
       "id": "sv1-074",
       "name": "Pawmi",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "074",
       "fullNumber": "074/198",
       "rarity": "Common",
@@ -1568,13 +1569,13 @@
         "74/198",
         "Scarlet Violet Pawmi"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/074.jpg"
     },
     {
       "id": "sv1-075",
       "name": "Pawmo",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "075",
       "fullNumber": "075/198",
       "rarity": "Common",
@@ -1589,13 +1590,13 @@
         "75/198",
         "Scarlet Violet Pawmo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/075.jpg"
     },
     {
       "id": "sv1-076",
       "name": "Pawmot",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "076",
       "fullNumber": "076/198",
       "rarity": "Rare",
@@ -1610,13 +1611,13 @@
         "76/198",
         "Scarlet Violet Pawmot"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/076.jpg"
     },
     {
       "id": "sv1-077",
       "name": "Wattrel",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "077",
       "fullNumber": "077/198",
       "rarity": "Common",
@@ -1631,13 +1632,13 @@
         "77/198",
         "Scarlet Violet Wattrel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/077.jpg"
     },
     {
       "id": "sv1-078",
       "name": "Wattrel",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "078",
       "fullNumber": "078/198",
       "rarity": "Common",
@@ -1652,13 +1653,13 @@
         "78/198",
         "Scarlet Violet Wattrel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/078.jpg"
     },
     {
       "id": "sv1-079",
       "name": "Kilowattrel",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "079",
       "fullNumber": "079/198",
       "rarity": "Uncommon",
@@ -1673,13 +1674,13 @@
         "79/198",
         "Scarlet Violet Kilowattrel"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/079.jpg"
     },
     {
       "id": "sv1-080",
       "name": "Miraidon",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "080",
       "fullNumber": "080/198",
       "rarity": "Rare",
@@ -1694,13 +1695,13 @@
         "80/198",
         "Scarlet Violet Miraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/080.jpg"
     },
     {
       "id": "sv1-081",
       "name": "Miraidon ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "081",
       "fullNumber": "081/198",
       "rarity": "Double Rare",
@@ -1717,13 +1718,13 @@
         "Scarlet Violet Miraidon ex",
         "Scarlet Violet Miraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/081.jpg"
     },
     {
       "id": "sv1-082",
       "name": "Drowzee",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "082",
       "fullNumber": "082/198",
       "rarity": "Common",
@@ -1738,13 +1739,13 @@
         "82/198",
         "Scarlet Violet Drowzee"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/082.jpg"
     },
     {
       "id": "sv1-083",
       "name": "Hypno",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "083",
       "fullNumber": "083/198",
       "rarity": "Uncommon",
@@ -1759,13 +1760,13 @@
         "83/198",
         "Scarlet Violet Hypno"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/083.jpg"
     },
     {
       "id": "sv1-084",
       "name": "Ralts",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "084",
       "fullNumber": "084/198",
       "rarity": "Common",
@@ -1780,13 +1781,13 @@
         "84/198",
         "Scarlet Violet Ralts"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/084.jpg"
     },
     {
       "id": "sv1-085",
       "name": "Kirlia",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "085",
       "fullNumber": "085/198",
       "rarity": "Common",
@@ -1801,13 +1802,13 @@
         "85/198",
         "Scarlet Violet Kirlia"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/085.jpg"
     },
     {
       "id": "sv1-086",
       "name": "Gardevoir ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "086",
       "fullNumber": "086/198",
       "rarity": "Double Rare",
@@ -1824,13 +1825,13 @@
         "Scarlet Violet Gardevoir ex",
         "Scarlet Violet Gardevoir"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/086.jpg"
     },
     {
       "id": "sv1-087",
       "name": "Shuppet",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "087",
       "fullNumber": "087/198",
       "rarity": "Common",
@@ -1845,13 +1846,13 @@
         "87/198",
         "Scarlet Violet Shuppet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/087.jpg"
     },
     {
       "id": "sv1-088",
       "name": "Banette ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "088",
       "fullNumber": "088/198",
       "rarity": "Double Rare",
@@ -1868,13 +1869,13 @@
         "Scarlet Violet Banette ex",
         "Scarlet Violet Banette"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/088.jpg"
     },
     {
       "id": "sv1-089",
       "name": "Drifloon",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "089",
       "fullNumber": "089/198",
       "rarity": "Common",
@@ -1889,13 +1890,13 @@
         "89/198",
         "Scarlet Violet Drifloon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/089.jpg"
     },
     {
       "id": "sv1-090",
       "name": "Drifblim",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "090",
       "fullNumber": "090/198",
       "rarity": "Uncommon",
@@ -1910,13 +1911,13 @@
         "90/198",
         "Scarlet Violet Drifblim"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/090.jpg"
     },
     {
       "id": "sv1-091",
       "name": "Flabébé",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "091",
       "fullNumber": "091/198",
       "rarity": "Common",
@@ -1931,13 +1932,13 @@
         "91/198",
         "Scarlet Violet Flabébé"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/091.jpg"
     },
     {
       "id": "sv1-092",
       "name": "Floette",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "092",
       "fullNumber": "092/198",
       "rarity": "Common",
@@ -1952,13 +1953,13 @@
         "92/198",
         "Scarlet Violet Floette"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/092.jpg"
     },
     {
       "id": "sv1-093",
       "name": "Florges",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "093",
       "fullNumber": "093/198",
       "rarity": "Uncommon",
@@ -1973,13 +1974,13 @@
         "93/198",
         "Scarlet Violet Florges"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/093.jpg"
     },
     {
       "id": "sv1-094",
       "name": "Dedenne",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "094",
       "fullNumber": "094/198",
       "rarity": "Common",
@@ -1994,13 +1995,13 @@
         "94/198",
         "Scarlet Violet Dedenne"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/094.jpg"
     },
     {
       "id": "sv1-095",
       "name": "Dedenne",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "095",
       "fullNumber": "095/198",
       "rarity": "Common",
@@ -2015,13 +2016,13 @@
         "95/198",
         "Scarlet Violet Dedenne"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/095.jpg"
     },
     {
       "id": "sv1-096",
       "name": "Klefki",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "096",
       "fullNumber": "096/198",
       "rarity": "Rare",
@@ -2036,13 +2037,13 @@
         "96/198",
         "Scarlet Violet Klefki"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/096.jpg"
     },
     {
       "id": "sv1-097",
       "name": "Fidough",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "097",
       "fullNumber": "097/198",
       "rarity": "Common",
@@ -2057,13 +2058,13 @@
         "97/198",
         "Scarlet Violet Fidough"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/097.jpg"
     },
     {
       "id": "sv1-098",
       "name": "Fidough",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "098",
       "fullNumber": "098/198",
       "rarity": "Common",
@@ -2078,13 +2079,13 @@
         "98/198",
         "Scarlet Violet Fidough"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/098.jpg"
     },
     {
       "id": "sv1-099",
       "name": "Dachsbun",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "099",
       "fullNumber": "099/198",
       "rarity": "Uncommon",
@@ -2099,13 +2100,13 @@
         "99/198",
         "Scarlet Violet Dachsbun"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/099.jpg"
     },
     {
       "id": "sv1-100",
       "name": "Flittle",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "100",
       "fullNumber": "100/198",
       "rarity": "Common",
@@ -2118,13 +2119,13 @@
         "100/198",
         "Scarlet Violet Flittle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/100.jpg"
     },
     {
       "id": "sv1-101",
       "name": "Flittle",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "101",
       "fullNumber": "101/198",
       "rarity": "Common",
@@ -2137,13 +2138,13 @@
         "101/198",
         "Scarlet Violet Flittle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/101.jpg"
     },
     {
       "id": "sv1-102",
       "name": "Flittle",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "102",
       "fullNumber": "102/198",
       "rarity": "Common",
@@ -2156,13 +2157,13 @@
         "102/198",
         "Scarlet Violet Flittle"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/102.jpg"
     },
     {
       "id": "sv1-103",
       "name": "Espathra",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "103",
       "fullNumber": "103/198",
       "rarity": "Uncommon",
@@ -2175,13 +2176,13 @@
         "103/198",
         "Scarlet Violet Espathra"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/103.jpg"
     },
     {
       "id": "sv1-104",
       "name": "Greavard",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "104",
       "fullNumber": "104/198",
       "rarity": "Common",
@@ -2194,13 +2195,13 @@
         "104/198",
         "Scarlet Violet Greavard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/104.jpg"
     },
     {
       "id": "sv1-105",
       "name": "Greavard",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "105",
       "fullNumber": "105/198",
       "rarity": "Common",
@@ -2213,13 +2214,13 @@
         "105/198",
         "Scarlet Violet Greavard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/105.jpg"
     },
     {
       "id": "sv1-106",
       "name": "Houndstone",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "106",
       "fullNumber": "106/198",
       "rarity": "Rare",
@@ -2232,13 +2233,13 @@
         "106/198",
         "Scarlet Violet Houndstone"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/106.jpg"
     },
     {
       "id": "sv1-107",
       "name": "Mankey",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "107",
       "fullNumber": "107/198",
       "rarity": "Common",
@@ -2251,13 +2252,13 @@
         "107/198",
         "Scarlet Violet Mankey"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/107.jpg"
     },
     {
       "id": "sv1-108",
       "name": "Primeape",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "108",
       "fullNumber": "108/198",
       "rarity": "Common",
@@ -2270,13 +2271,13 @@
         "108/198",
         "Scarlet Violet Primeape"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/108.jpg"
     },
     {
       "id": "sv1-109",
       "name": "Annihilape",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "109",
       "fullNumber": "109/198",
       "rarity": "Rare",
@@ -2289,13 +2290,13 @@
         "109/198",
         "Scarlet Violet Annihilape"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/109.jpg"
     },
     {
       "id": "sv1-110",
       "name": "Meditite",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "110",
       "fullNumber": "110/198",
       "rarity": "Common",
@@ -2308,13 +2309,13 @@
         "110/198",
         "Scarlet Violet Meditite"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/110.jpg"
     },
     {
       "id": "sv1-111",
       "name": "Medicham",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "111",
       "fullNumber": "111/198",
       "rarity": "Uncommon",
@@ -2327,13 +2328,13 @@
         "111/198",
         "Scarlet Violet Medicham"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/111.jpg"
     },
     {
       "id": "sv1-112",
       "name": "Riolu",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "112",
       "fullNumber": "112/198",
       "rarity": "Common",
@@ -2346,13 +2347,13 @@
         "112/198",
         "Scarlet Violet Riolu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/112.jpg"
     },
     {
       "id": "sv1-113",
       "name": "Riolu",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "113",
       "fullNumber": "113/198",
       "rarity": "Common",
@@ -2365,13 +2366,13 @@
         "113/198",
         "Scarlet Violet Riolu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/113.jpg"
     },
     {
       "id": "sv1-114",
       "name": "Lucario",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "114",
       "fullNumber": "114/198",
       "rarity": "Uncommon",
@@ -2384,13 +2385,13 @@
         "114/198",
         "Scarlet Violet Lucario"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/114.jpg"
     },
     {
       "id": "sv1-115",
       "name": "Sandile",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "115",
       "fullNumber": "115/198",
       "rarity": "Common",
@@ -2403,13 +2404,13 @@
         "115/198",
         "Scarlet Violet Sandile"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/115.jpg"
     },
     {
       "id": "sv1-116",
       "name": "Krokorok",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "116",
       "fullNumber": "116/198",
       "rarity": "Common",
@@ -2422,13 +2423,13 @@
         "116/198",
         "Scarlet Violet Krokorok"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/116.jpg"
     },
     {
       "id": "sv1-117",
       "name": "Krookodile",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "117",
       "fullNumber": "117/198",
       "rarity": "Uncommon",
@@ -2441,13 +2442,13 @@
         "117/198",
         "Scarlet Violet Krookodile"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/117.jpg"
     },
     {
       "id": "sv1-118",
       "name": "Hawlucha",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "118",
       "fullNumber": "118/198",
       "rarity": "Rare",
@@ -2460,13 +2461,13 @@
         "118/198",
         "Scarlet Violet Hawlucha"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/118.jpg"
     },
     {
       "id": "sv1-119",
       "name": "Silicobra",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "119",
       "fullNumber": "119/198",
       "rarity": "Common",
@@ -2479,13 +2480,13 @@
         "119/198",
         "Scarlet Violet Silicobra"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/119.jpg"
     },
     {
       "id": "sv1-120",
       "name": "Sandaconda",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "120",
       "fullNumber": "120/198",
       "rarity": "Uncommon",
@@ -2498,13 +2499,13 @@
         "120/198",
         "Scarlet Violet Sandaconda"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/120.jpg"
     },
     {
       "id": "sv1-121",
       "name": "Stonjourner",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "121",
       "fullNumber": "121/198",
       "rarity": "Uncommon",
@@ -2517,13 +2518,13 @@
         "121/198",
         "Scarlet Violet Stonjourner"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/121.jpg"
     },
     {
       "id": "sv1-122",
       "name": "Klawf",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "122",
       "fullNumber": "122/198",
       "rarity": "Rare",
@@ -2536,13 +2537,13 @@
         "122/198",
         "Scarlet Violet Klawf"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/122.jpg"
     },
     {
       "id": "sv1-123",
       "name": "Great Tusk ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "123",
       "fullNumber": "123/198",
       "rarity": "Double Rare",
@@ -2557,13 +2558,13 @@
         "Scarlet Violet Great Tusk ex",
         "Scarlet Violet Great Tusk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/123.jpg"
     },
     {
       "id": "sv1-124",
       "name": "Koraidon",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "124",
       "fullNumber": "124/198",
       "rarity": "Rare",
@@ -2576,13 +2577,13 @@
         "124/198",
         "Scarlet Violet Koraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/124.jpg"
     },
     {
       "id": "sv1-125",
       "name": "Koraidon ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "125",
       "fullNumber": "125/198",
       "rarity": "Double Rare",
@@ -2597,13 +2598,13 @@
         "Scarlet Violet Koraidon ex",
         "Scarlet Violet Koraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/125.jpg"
     },
     {
       "id": "sv1-126",
       "name": "Grimer",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "126",
       "fullNumber": "126/198",
       "rarity": "Common",
@@ -2616,13 +2617,13 @@
         "126/198",
         "Scarlet Violet Grimer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/126.jpg"
     },
     {
       "id": "sv1-127",
       "name": "Muk",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "127",
       "fullNumber": "127/198",
       "rarity": "Uncommon",
@@ -2635,13 +2636,13 @@
         "127/198",
         "Scarlet Violet Muk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/127.jpg"
     },
     {
       "id": "sv1-128",
       "name": "Seviper",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "128",
       "fullNumber": "128/198",
       "rarity": "Common",
@@ -2654,13 +2655,13 @@
         "128/198",
         "Scarlet Violet Seviper"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/128.jpg"
     },
     {
       "id": "sv1-129",
       "name": "Spiritomb",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "129",
       "fullNumber": "129/198",
       "rarity": "Uncommon",
@@ -2673,13 +2674,13 @@
         "129/198",
         "Scarlet Violet Spiritomb"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/129.jpg"
     },
     {
       "id": "sv1-130",
       "name": "Croagunk",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "130",
       "fullNumber": "130/198",
       "rarity": "Common",
@@ -2692,13 +2693,13 @@
         "130/198",
         "Scarlet Violet Croagunk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/130.jpg"
     },
     {
       "id": "sv1-131",
       "name": "Toxicroak ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "131",
       "fullNumber": "131/198",
       "rarity": "Double Rare",
@@ -2713,13 +2714,13 @@
         "Scarlet Violet Toxicroak ex",
         "Scarlet Violet Toxicroak"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/131.jpg"
     },
     {
       "id": "sv1-132",
       "name": "Pawniard",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "132",
       "fullNumber": "132/198",
       "rarity": "Common",
@@ -2732,13 +2733,13 @@
         "132/198",
         "Scarlet Violet Pawniard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/132.jpg"
     },
     {
       "id": "sv1-133",
       "name": "Bisharp",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "133",
       "fullNumber": "133/198",
       "rarity": "Common",
@@ -2751,13 +2752,13 @@
         "133/198",
         "Scarlet Violet Bisharp"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/133.jpg"
     },
     {
       "id": "sv1-134",
       "name": "Kingambit",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "134",
       "fullNumber": "134/198",
       "rarity": "Rare",
@@ -2770,13 +2771,13 @@
         "134/198",
         "Scarlet Violet Kingambit"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/134.jpg"
     },
     {
       "id": "sv1-135",
       "name": "Maschiff",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "135",
       "fullNumber": "135/198",
       "rarity": "Common",
@@ -2789,13 +2790,13 @@
         "135/198",
         "Scarlet Violet Maschiff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/135.jpg"
     },
     {
       "id": "sv1-136",
       "name": "Maschiff",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "136",
       "fullNumber": "136/198",
       "rarity": "Common",
@@ -2808,13 +2809,13 @@
         "136/198",
         "Scarlet Violet Maschiff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/136.jpg"
     },
     {
       "id": "sv1-137",
       "name": "Mabosstiff",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "137",
       "fullNumber": "137/198",
       "rarity": "Uncommon",
@@ -2827,13 +2828,13 @@
         "137/198",
         "Scarlet Violet Mabosstiff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/137.jpg"
     },
     {
       "id": "sv1-138",
       "name": "Bombirdier",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "138",
       "fullNumber": "138/198",
       "rarity": "Uncommon",
@@ -2846,13 +2847,13 @@
         "138/198",
         "Scarlet Violet Bombirdier"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/138.jpg"
     },
     {
       "id": "sv1-139",
       "name": "Forretress",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "139",
       "fullNumber": "139/198",
       "rarity": "Uncommon",
@@ -2865,13 +2866,13 @@
         "139/198",
         "Scarlet Violet Forretress"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/139.jpg"
     },
     {
       "id": "sv1-140",
       "name": "Varoom",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "140",
       "fullNumber": "140/198",
       "rarity": "Common",
@@ -2884,13 +2885,13 @@
         "140/198",
         "Scarlet Violet Varoom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/140.jpg"
     },
     {
       "id": "sv1-141",
       "name": "Varoom",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "141",
       "fullNumber": "141/198",
       "rarity": "Common",
@@ -2903,13 +2904,13 @@
         "141/198",
         "Scarlet Violet Varoom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/141.jpg"
     },
     {
       "id": "sv1-142",
       "name": "Revavroom",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "142",
       "fullNumber": "142/198",
       "rarity": "Rare",
@@ -2922,13 +2923,13 @@
         "142/198",
         "Scarlet Violet Revavroom"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/142.jpg"
     },
     {
       "id": "sv1-143",
       "name": "Iron Treads ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "143",
       "fullNumber": "143/198",
       "rarity": "Double Rare",
@@ -2943,13 +2944,13 @@
         "Scarlet Violet Iron Treads ex",
         "Scarlet Violet Iron Treads"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/143.jpg"
     },
     {
       "id": "sv1-144",
       "name": "Chansey",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "144",
       "fullNumber": "144/198",
       "rarity": "Common",
@@ -2962,13 +2963,13 @@
         "144/198",
         "Scarlet Violet Chansey"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/144.jpg"
     },
     {
       "id": "sv1-145",
       "name": "Blissey",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "145",
       "fullNumber": "145/198",
       "rarity": "Uncommon",
@@ -2981,13 +2982,13 @@
         "145/198",
         "Scarlet Violet Blissey"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/145.jpg"
     },
     {
       "id": "sv1-146",
       "name": "Zangoose",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "146",
       "fullNumber": "146/198",
       "rarity": "Common",
@@ -3000,13 +3001,13 @@
         "146/198",
         "Scarlet Violet Zangoose"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/146.jpg"
     },
     {
       "id": "sv1-147",
       "name": "Zangoose",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "147",
       "fullNumber": "147/198",
       "rarity": "Uncommon",
@@ -3019,13 +3020,13 @@
         "147/198",
         "Scarlet Violet Zangoose"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/147.jpg"
     },
     {
       "id": "sv1-148",
       "name": "Starly",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "148",
       "fullNumber": "148/198",
       "rarity": "Common",
@@ -3038,13 +3039,13 @@
         "148/198",
         "Scarlet Violet Starly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/148.jpg"
     },
     {
       "id": "sv1-149",
       "name": "Staravia",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "149",
       "fullNumber": "149/198",
       "rarity": "Common",
@@ -3057,13 +3058,13 @@
         "149/198",
         "Scarlet Violet Staravia"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/149.jpg"
     },
     {
       "id": "sv1-150",
       "name": "Staraptor",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "150",
       "fullNumber": "150/198",
       "rarity": "Uncommon",
@@ -3076,13 +3077,13 @@
         "150/198",
         "Scarlet Violet Staraptor"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/150.jpg"
     },
     {
       "id": "sv1-151",
       "name": "Skwovet",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "151",
       "fullNumber": "151/198",
       "rarity": "Common",
@@ -3095,13 +3096,13 @@
         "151/198",
         "Scarlet Violet Skwovet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/151.jpg"
     },
     {
       "id": "sv1-152",
       "name": "Greedent",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "152",
       "fullNumber": "152/198",
       "rarity": "Uncommon",
@@ -3114,13 +3115,13 @@
         "152/198",
         "Scarlet Violet Greedent"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/152.jpg"
     },
     {
       "id": "sv1-153",
       "name": "Indeedee",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "153",
       "fullNumber": "153/198",
       "rarity": "Rare",
@@ -3133,13 +3134,13 @@
         "153/198",
         "Scarlet Violet Indeedee"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/153.jpg"
     },
     {
       "id": "sv1-154",
       "name": "Lechonk",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "154",
       "fullNumber": "154/198",
       "rarity": "Common",
@@ -3152,13 +3153,13 @@
         "154/198",
         "Scarlet Violet Lechonk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/154.jpg"
     },
     {
       "id": "sv1-155",
       "name": "Lechonk",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "155",
       "fullNumber": "155/198",
       "rarity": "Common",
@@ -3171,13 +3172,13 @@
         "155/198",
         "Scarlet Violet Lechonk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/155.jpg"
     },
     {
       "id": "sv1-156",
       "name": "Lechonk",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "156",
       "fullNumber": "156/198",
       "rarity": "Common",
@@ -3190,13 +3191,13 @@
         "156/198",
         "Scarlet Violet Lechonk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/156.jpg"
     },
     {
       "id": "sv1-157",
       "name": "Oinkologne",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "157",
       "fullNumber": "157/198",
       "rarity": "Uncommon",
@@ -3209,13 +3210,13 @@
         "157/198",
         "Scarlet Violet Oinkologne"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/157.jpg"
     },
     {
       "id": "sv1-158",
       "name": "Oinkologne ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "158",
       "fullNumber": "158/198",
       "rarity": "Double Rare",
@@ -3230,13 +3231,13 @@
         "Scarlet Violet Oinkologne ex",
         "Scarlet Violet Oinkologne"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/158.jpg"
     },
     {
       "id": "sv1-159",
       "name": "Tandemaus",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "159",
       "fullNumber": "159/198",
       "rarity": "Common",
@@ -3249,13 +3250,13 @@
         "159/198",
         "Scarlet Violet Tandemaus"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/159.jpg"
     },
     {
       "id": "sv1-160",
       "name": "Tandemaus",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "160",
       "fullNumber": "160/198",
       "rarity": "Common",
@@ -3268,13 +3269,13 @@
         "160/198",
         "Scarlet Violet Tandemaus"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/160.jpg"
     },
     {
       "id": "sv1-161",
       "name": "Maushold",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "161",
       "fullNumber": "161/198",
       "rarity": "Uncommon",
@@ -3287,13 +3288,13 @@
         "161/198",
         "Scarlet Violet Maushold"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/161.jpg"
     },
     {
       "id": "sv1-162",
       "name": "Squawkabilly",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "162",
       "fullNumber": "162/198",
       "rarity": "Common",
@@ -3306,13 +3307,13 @@
         "162/198",
         "Scarlet Violet Squawkabilly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/162.jpg"
     },
     {
       "id": "sv1-163",
       "name": "Cyclizar",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "163",
       "fullNumber": "163/198",
       "rarity": "Uncommon",
@@ -3325,13 +3326,13 @@
         "163/198",
         "Scarlet Violet Cyclizar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/163.jpg"
     },
     {
       "id": "sv1-164",
       "name": "Cyclizar",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "164",
       "fullNumber": "164/198",
       "rarity": "Rare",
@@ -3344,13 +3345,13 @@
         "164/198",
         "Scarlet Violet Cyclizar"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/164.jpg"
     },
     {
       "id": "sv1-165",
       "name": "Flamigo",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "165",
       "fullNumber": "165/198",
       "rarity": "Uncommon",
@@ -3363,13 +3364,13 @@
         "165/198",
         "Scarlet Violet Flamigo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/165.jpg"
     },
     {
       "id": "sv1-166",
       "name": "Arven",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "166",
       "fullNumber": "166/198",
       "rarity": "Uncommon",
@@ -3382,13 +3383,13 @@
         "166/198",
         "Scarlet Violet Arven"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/166.jpg"
     },
     {
       "id": "sv1-167",
       "name": "Beach Court",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "167",
       "fullNumber": "167/198",
       "rarity": "Uncommon",
@@ -3401,13 +3402,13 @@
         "167/198",
         "Scarlet Violet Beach Court"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/167.jpg"
     },
     {
       "id": "sv1-168",
       "name": "Crushing Hammer",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "168",
       "fullNumber": "168/198",
       "rarity": "Common",
@@ -3420,13 +3421,13 @@
         "168/198",
         "Scarlet Violet Crushing Hammer"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/168.jpg"
     },
     {
       "id": "sv1-169",
       "name": "Defiance Band",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "169",
       "fullNumber": "169/198",
       "rarity": "Uncommon",
@@ -3439,13 +3440,13 @@
         "169/198",
         "Scarlet Violet Defiance Band"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/169.jpg"
     },
     {
       "id": "sv1-170",
       "name": "Electric Generator",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "170",
       "fullNumber": "170/198",
       "rarity": "Uncommon",
@@ -3458,13 +3459,13 @@
         "170/198",
         "Scarlet Violet Electric Generator"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/170.jpg"
     },
     {
       "id": "sv1-171",
       "name": "Energy Retrieval",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "171",
       "fullNumber": "171/198",
       "rarity": "Common",
@@ -3477,13 +3478,13 @@
         "171/198",
         "Scarlet Violet Energy Retrieval"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/171.jpg"
     },
     {
       "id": "sv1-172",
       "name": "Energy Search",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "172",
       "fullNumber": "172/198",
       "rarity": "Common",
@@ -3496,13 +3497,13 @@
         "172/198",
         "Scarlet Violet Energy Search"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/172.jpg"
     },
     {
       "id": "sv1-173",
       "name": "Energy Switch",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "173",
       "fullNumber": "173/198",
       "rarity": "Common",
@@ -3515,13 +3516,13 @@
         "173/198",
         "Scarlet Violet Energy Switch"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/173.jpg"
     },
     {
       "id": "sv1-174",
       "name": "Exp. Share",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "174",
       "fullNumber": "174/198",
       "rarity": "Uncommon",
@@ -3534,13 +3535,13 @@
         "174/198",
         "Scarlet Violet Exp. Share"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/174.jpg"
     },
     {
       "id": "sv1-175",
       "name": "Jacq",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "175",
       "fullNumber": "175/198",
       "rarity": "Uncommon",
@@ -3553,13 +3554,13 @@
         "175/198",
         "Scarlet Violet Jacq"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/175.jpg"
     },
     {
       "id": "sv1-176",
       "name": "Judge",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "176",
       "fullNumber": "176/198",
       "rarity": "Uncommon",
@@ -3572,13 +3573,13 @@
         "176/198",
         "Scarlet Violet Judge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/176.jpg"
     },
     {
       "id": "sv1-177",
       "name": "Katy",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "177",
       "fullNumber": "177/198",
       "rarity": "Uncommon",
@@ -3591,13 +3592,13 @@
         "177/198",
         "Scarlet Violet Katy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/177.jpg"
     },
     {
       "id": "sv1-178",
       "name": "Mesagoza",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "178",
       "fullNumber": "178/198",
       "rarity": "Uncommon",
@@ -3610,13 +3611,13 @@
         "178/198",
         "Scarlet Violet Mesagoza"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/178.jpg"
     },
     {
       "id": "sv1-179",
       "name": "Miriam",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "179",
       "fullNumber": "179/198",
       "rarity": "Uncommon",
@@ -3629,13 +3630,13 @@
         "179/198",
         "Scarlet Violet Miriam"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/179.jpg"
     },
     {
       "id": "sv1-180",
       "name": "Nemona",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "180",
       "fullNumber": "180/198",
       "rarity": "Common",
@@ -3648,13 +3649,13 @@
         "180/198",
         "Scarlet Violet Nemona"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/180.jpg"
     },
     {
       "id": "sv1-181",
       "name": "Nest Ball",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "181",
       "fullNumber": "181/198",
       "rarity": "Uncommon",
@@ -3667,13 +3668,13 @@
         "181/198",
         "Scarlet Violet Nest Ball"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/181.jpg"
     },
     {
       "id": "sv1-182",
       "name": "Pal Pad",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "182",
       "fullNumber": "182/198",
       "rarity": "Common",
@@ -3686,13 +3687,13 @@
         "182/198",
         "Scarlet Violet Pal Pad"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/182.jpg"
     },
     {
       "id": "sv1-183",
       "name": "Penny",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "183",
       "fullNumber": "183/198",
       "rarity": "Uncommon",
@@ -3705,13 +3706,13 @@
         "183/198",
         "Scarlet Violet Penny"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/183.jpg"
     },
     {
       "id": "sv1-184",
       "name": "Picnic Basket",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "184",
       "fullNumber": "184/198",
       "rarity": "Uncommon",
@@ -3724,13 +3725,13 @@
         "184/198",
         "Scarlet Violet Picnic Basket"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/184.jpg"
     },
     {
       "id": "sv1-185",
       "name": "Poké Ball",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "185",
       "fullNumber": "185/198",
       "rarity": "Common",
@@ -3743,13 +3744,13 @@
         "185/198",
         "Scarlet Violet Poké Ball"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/185.jpg"
     },
     {
       "id": "sv1-186",
       "name": "Pokégear 3.0",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "186",
       "fullNumber": "186/198",
       "rarity": "Common",
@@ -3762,13 +3763,13 @@
         "186/198",
         "Scarlet Violet Pokégear 3.0"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/186.jpg"
     },
     {
       "id": "sv1-187",
       "name": "Pokémon Catcher",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "187",
       "fullNumber": "187/198",
       "rarity": "Common",
@@ -3781,13 +3782,13 @@
         "187/198",
         "Scarlet Violet Pokémon Catcher"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/187.jpg"
     },
     {
       "id": "sv1-188",
       "name": "Potion",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "188",
       "fullNumber": "188/198",
       "rarity": "Common",
@@ -3800,13 +3801,13 @@
         "188/198",
         "Scarlet Violet Potion"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/188.jpg"
     },
     {
       "id": "sv1-189",
       "name": "Professor's Research [Professor Sada]",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "189",
       "fullNumber": "189/198",
       "rarity": "Rare",
@@ -3819,13 +3820,13 @@
         "189/198",
         "Scarlet Violet Professor's Research [Professor Sada]"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/189.jpg"
     },
     {
       "id": "sv1-190",
       "name": "Professor's Research [Professor Turo]",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "190",
       "fullNumber": "190/198",
       "rarity": "Rare",
@@ -3838,13 +3839,13 @@
         "190/198",
         "Scarlet Violet Professor's Research [Professor Turo]"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/190.jpg"
     },
     {
       "id": "sv1-191",
       "name": "Rare Candy",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "191",
       "fullNumber": "191/198",
       "rarity": "Common",
@@ -3857,13 +3858,13 @@
         "191/198",
         "Scarlet Violet Rare Candy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/191.jpg"
     },
     {
       "id": "sv1-192",
       "name": "Rock Chestplate",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "192",
       "fullNumber": "192/198",
       "rarity": "Uncommon",
@@ -3876,13 +3877,13 @@
         "192/198",
         "Scarlet Violet Rock Chestplate"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/192.jpg"
     },
     {
       "id": "sv1-193",
       "name": "Rocky Helmet",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "193",
       "fullNumber": "193/198",
       "rarity": "Uncommon",
@@ -3895,13 +3896,13 @@
         "193/198",
         "Scarlet Violet Rocky Helmet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/193.jpg"
     },
     {
       "id": "sv1-194",
       "name": "Switch",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "194",
       "fullNumber": "194/198",
       "rarity": "Common",
@@ -3914,13 +3915,13 @@
         "194/198",
         "Scarlet Violet Switch"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/194.jpg"
     },
     {
       "id": "sv1-195",
       "name": "Team Star Grunt",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "195",
       "fullNumber": "195/198",
       "rarity": "Uncommon",
@@ -3933,13 +3934,13 @@
         "195/198",
         "Scarlet Violet Team Star Grunt"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/195.jpg"
     },
     {
       "id": "sv1-196",
       "name": "Ultra Ball",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "196",
       "fullNumber": "196/198",
       "rarity": "Uncommon",
@@ -3952,13 +3953,13 @@
         "196/198",
         "Scarlet Violet Ultra Ball"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/196.jpg"
     },
     {
       "id": "sv1-197",
       "name": "Vitality Band",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "197",
       "fullNumber": "197/198",
       "rarity": "Uncommon",
@@ -3971,13 +3972,13 @@
         "197/198",
         "Scarlet Violet Vitality Band"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/197.jpg"
     },
     {
       "id": "sv1-198",
       "name": "Youngster",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "198",
       "fullNumber": "198/198",
       "rarity": "Uncommon",
@@ -3990,13 +3991,13 @@
         "198/198",
         "Scarlet Violet Youngster"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/198.jpg"
     },
     {
       "id": "sv1-199",
       "name": "Tarountula",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "199",
       "fullNumber": "199/198",
       "rarity": "Illustration Rare",
@@ -4009,13 +4010,13 @@
         "199/198",
         "Scarlet Violet Tarountula"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/199.jpg"
     },
     {
       "id": "sv1-200",
       "name": "Dolliv",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "200",
       "fullNumber": "200/198",
       "rarity": "Illustration Rare",
@@ -4028,13 +4029,13 @@
         "200/198",
         "Scarlet Violet Dolliv"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/200.jpg"
     },
     {
       "id": "sv1-201",
       "name": "Toedscool",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "201",
       "fullNumber": "201/198",
       "rarity": "Illustration Rare",
@@ -4047,13 +4048,13 @@
         "201/198",
         "Scarlet Violet Toedscool"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/201.jpg"
     },
     {
       "id": "sv1-202",
       "name": "Scovillain",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "202",
       "fullNumber": "202/198",
       "rarity": "Illustration Rare",
@@ -4066,13 +4067,13 @@
         "202/198",
         "Scarlet Violet Scovillain"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/202.jpg"
     },
     {
       "id": "sv1-203",
       "name": "Armarouge",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "203",
       "fullNumber": "203/198",
       "rarity": "Illustration Rare",
@@ -4085,13 +4086,13 @@
         "203/198",
         "Scarlet Violet Armarouge"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/203.jpg"
     },
     {
       "id": "sv1-204",
       "name": "Slowpoke",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "204",
       "fullNumber": "204/198",
       "rarity": "Illustration Rare",
@@ -4104,13 +4105,13 @@
         "204/198",
         "Scarlet Violet Slowpoke"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/204.jpg"
     },
     {
       "id": "sv1-205",
       "name": "Clauncher",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "205",
       "fullNumber": "205/198",
       "rarity": "Illustration Rare",
@@ -4123,13 +4124,13 @@
         "205/198",
         "Scarlet Violet Clauncher"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/205.jpg"
     },
     {
       "id": "sv1-206",
       "name": "Wiglett",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "206",
       "fullNumber": "206/198",
       "rarity": "Illustration Rare",
@@ -4142,13 +4143,13 @@
         "206/198",
         "Scarlet Violet Wiglett"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/206.jpg"
     },
     {
       "id": "sv1-207",
       "name": "Dondozo",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "207",
       "fullNumber": "207/198",
       "rarity": "Illustration Rare",
@@ -4161,13 +4162,13 @@
         "207/198",
         "Scarlet Violet Dondozo"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/207.jpg"
     },
     {
       "id": "sv1-208",
       "name": "Pachirisu",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "208",
       "fullNumber": "208/198",
       "rarity": "Illustration Rare",
@@ -4180,13 +4181,13 @@
         "208/198",
         "Scarlet Violet Pachirisu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/208.jpg"
     },
     {
       "id": "sv1-209",
       "name": "Pawmot",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "209",
       "fullNumber": "209/198",
       "rarity": "Illustration Rare",
@@ -4199,13 +4200,13 @@
         "209/198",
         "Scarlet Violet Pawmot"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/209.jpg"
     },
     {
       "id": "sv1-210",
       "name": "Drowzee",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "210",
       "fullNumber": "210/198",
       "rarity": "Illustration Rare",
@@ -4218,13 +4219,13 @@
         "210/198",
         "Scarlet Violet Drowzee"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/210.jpg"
     },
     {
       "id": "sv1-211",
       "name": "Ralts",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "211",
       "fullNumber": "211/198",
       "rarity": "Illustration Rare",
@@ -4237,13 +4238,13 @@
         "211/198",
         "Scarlet Violet Ralts"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/211.jpg"
     },
     {
       "id": "sv1-212",
       "name": "Kirlia",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "212",
       "fullNumber": "212/198",
       "rarity": "Illustration Rare",
@@ -4256,13 +4257,13 @@
         "212/198",
         "Scarlet Violet Kirlia"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/212.jpg"
     },
     {
       "id": "sv1-213",
       "name": "Fidough",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "213",
       "fullNumber": "213/198",
       "rarity": "Illustration Rare",
@@ -4275,13 +4276,13 @@
         "213/198",
         "Scarlet Violet Fidough"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/213.jpg"
     },
     {
       "id": "sv1-214",
       "name": "Greavard",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "214",
       "fullNumber": "214/198",
       "rarity": "Illustration Rare",
@@ -4294,13 +4295,13 @@
         "214/198",
         "Scarlet Violet Greavard"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/214.jpg"
     },
     {
       "id": "sv1-215",
       "name": "Riolu",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "215",
       "fullNumber": "215/198",
       "rarity": "Illustration Rare",
@@ -4313,13 +4314,13 @@
         "215/198",
         "Scarlet Violet Riolu"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/215.jpg"
     },
     {
       "id": "sv1-216",
       "name": "Sandile",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "216",
       "fullNumber": "216/198",
       "rarity": "Illustration Rare",
@@ -4332,13 +4333,13 @@
         "216/198",
         "Scarlet Violet Sandile"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/216.jpg"
     },
     {
       "id": "sv1-217",
       "name": "Klawf",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "217",
       "fullNumber": "217/198",
       "rarity": "Illustration Rare",
@@ -4351,13 +4352,13 @@
         "217/198",
         "Scarlet Violet Klawf"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/217.jpg"
     },
     {
       "id": "sv1-218",
       "name": "Mabosstiff",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "218",
       "fullNumber": "218/198",
       "rarity": "Illustration Rare",
@@ -4370,13 +4371,13 @@
         "218/198",
         "Scarlet Violet Mabosstiff"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/218.jpg"
     },
     {
       "id": "sv1-219",
       "name": "Bombirdier",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "219",
       "fullNumber": "219/198",
       "rarity": "Illustration Rare",
@@ -4389,13 +4390,13 @@
         "219/198",
         "Scarlet Violet Bombirdier"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/219.jpg"
     },
     {
       "id": "sv1-220",
       "name": "Kingambit",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "220",
       "fullNumber": "220/198",
       "rarity": "Illustration Rare",
@@ -4408,13 +4409,13 @@
         "220/198",
         "Scarlet Violet Kingambit"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/220.jpg"
     },
     {
       "id": "sv1-221",
       "name": "Starly",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "221",
       "fullNumber": "221/198",
       "rarity": "Illustration Rare",
@@ -4427,13 +4428,13 @@
         "221/198",
         "Scarlet Violet Starly"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/221.jpg"
     },
     {
       "id": "sv1-222",
       "name": "Skwovet",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "222",
       "fullNumber": "222/198",
       "rarity": "Illustration Rare",
@@ -4446,13 +4447,13 @@
         "222/198",
         "Scarlet Violet Skwovet"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/222.jpg"
     },
     {
       "id": "sv1-223",
       "name": "Spidops ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "223",
       "fullNumber": "223/198",
       "rarity": "Ultra Rare",
@@ -4467,13 +4468,13 @@
         "Scarlet Violet Spidops ex",
         "Scarlet Violet Spidops"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/223.jpg"
     },
     {
       "id": "sv1-224",
       "name": "Arcanine ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "224",
       "fullNumber": "224/198",
       "rarity": "Ultra Rare",
@@ -4488,13 +4489,13 @@
         "Scarlet Violet Arcanine ex",
         "Scarlet Violet Arcanine"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/224.jpg"
     },
     {
       "id": "sv1-225",
       "name": "Gyarados ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "225",
       "fullNumber": "225/198",
       "rarity": "Ultra Rare",
@@ -4509,13 +4510,13 @@
         "Scarlet Violet Gyarados ex",
         "Scarlet Violet Gyarados"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/225.jpg"
     },
     {
       "id": "sv1-226",
       "name": "Magnezone ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "226",
       "fullNumber": "226/198",
       "rarity": "Ultra Rare",
@@ -4530,13 +4531,13 @@
         "Scarlet Violet Magnezone ex",
         "Scarlet Violet Magnezone"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/226.jpg"
     },
     {
       "id": "sv1-227",
       "name": "Miraidon ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "227",
       "fullNumber": "227/198",
       "rarity": "Ultra Rare",
@@ -4551,13 +4552,13 @@
         "Scarlet Violet Miraidon ex",
         "Scarlet Violet Miraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/227.jpg"
     },
     {
       "id": "sv1-228",
       "name": "Gardevoir ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "228",
       "fullNumber": "228/198",
       "rarity": "Ultra Rare",
@@ -4572,13 +4573,13 @@
         "Scarlet Violet Gardevoir ex",
         "Scarlet Violet Gardevoir"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/228.jpg"
     },
     {
       "id": "sv1-229",
       "name": "Banette ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "229",
       "fullNumber": "229/198",
       "rarity": "Ultra Rare",
@@ -4593,13 +4594,13 @@
         "Scarlet Violet Banette ex",
         "Scarlet Violet Banette"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/229.jpg"
     },
     {
       "id": "sv1-230",
       "name": "Great Tusk ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "230",
       "fullNumber": "230/198",
       "rarity": "Ultra Rare",
@@ -4614,13 +4615,13 @@
         "Scarlet Violet Great Tusk ex",
         "Scarlet Violet Great Tusk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/230.jpg"
     },
     {
       "id": "sv1-231",
       "name": "Koraidon ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "231",
       "fullNumber": "231/198",
       "rarity": "Ultra Rare",
@@ -4635,13 +4636,13 @@
         "Scarlet Violet Koraidon ex",
         "Scarlet Violet Koraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/231.jpg"
     },
     {
       "id": "sv1-232",
       "name": "Toxicroak ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "232",
       "fullNumber": "232/198",
       "rarity": "Ultra Rare",
@@ -4656,13 +4657,13 @@
         "Scarlet Violet Toxicroak ex",
         "Scarlet Violet Toxicroak"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/232.jpg"
     },
     {
       "id": "sv1-233",
       "name": "Iron Treads ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "233",
       "fullNumber": "233/198",
       "rarity": "Ultra Rare",
@@ -4677,13 +4678,13 @@
         "Scarlet Violet Iron Treads ex",
         "Scarlet Violet Iron Treads"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/233.jpg"
     },
     {
       "id": "sv1-234",
       "name": "Oinkologne ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "234",
       "fullNumber": "234/198",
       "rarity": "Ultra Rare",
@@ -4698,13 +4699,13 @@
         "Scarlet Violet Oinkologne ex",
         "Scarlet Violet Oinkologne"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/234.jpg"
     },
     {
       "id": "sv1-235",
       "name": "Arven",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "235",
       "fullNumber": "235/198",
       "rarity": "Ultra Rare",
@@ -4717,13 +4718,13 @@
         "235/198",
         "Scarlet Violet Arven"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/235.jpg"
     },
     {
       "id": "sv1-236",
       "name": "Jacq",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "236",
       "fullNumber": "236/198",
       "rarity": "Ultra Rare",
@@ -4736,13 +4737,13 @@
         "236/198",
         "Scarlet Violet Jacq"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/236.jpg"
     },
     {
       "id": "sv1-237",
       "name": "Katy",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "237",
       "fullNumber": "237/198",
       "rarity": "Ultra Rare",
@@ -4755,13 +4756,13 @@
         "237/198",
         "Scarlet Violet Katy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/237.jpg"
     },
     {
       "id": "sv1-238",
       "name": "Miriam",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "238",
       "fullNumber": "238/198",
       "rarity": "Ultra Rare",
@@ -4774,13 +4775,13 @@
         "238/198",
         "Scarlet Violet Miriam"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/238.jpg"
     },
     {
       "id": "sv1-239",
       "name": "Penny",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "239",
       "fullNumber": "239/198",
       "rarity": "Ultra Rare",
@@ -4793,13 +4794,13 @@
         "239/198",
         "Scarlet Violet Penny"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/239.jpg"
     },
     {
       "id": "sv1-240",
       "name": "Professor's Research [Professor Sada]",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "240",
       "fullNumber": "240/198",
       "rarity": "Ultra Rare",
@@ -4812,13 +4813,13 @@
         "240/198",
         "Scarlet Violet Professor's Research [Professor Sada]"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/240.jpg"
     },
     {
       "id": "sv1-241",
       "name": "Professor's Research [Professor Turo]",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "241",
       "fullNumber": "241/198",
       "rarity": "Ultra Rare",
@@ -4831,13 +4832,13 @@
         "241/198",
         "Scarlet Violet Professor's Research [Professor Turo]"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/241.jpg"
     },
     {
       "id": "sv1-242",
       "name": "Team Star Grunt",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "242",
       "fullNumber": "242/198",
       "rarity": "Ultra Rare",
@@ -4850,13 +4851,13 @@
         "242/198",
         "Scarlet Violet Team Star Grunt"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/242.jpg"
     },
     {
       "id": "sv1-243",
       "name": "Spidops ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "243",
       "fullNumber": "243/198",
       "rarity": "Special Illustration Rare",
@@ -4871,13 +4872,13 @@
         "Scarlet Violet Spidops ex",
         "Scarlet Violet Spidops"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/243.jpg"
     },
     {
       "id": "sv1-244",
       "name": "Miraidon ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "244",
       "fullNumber": "244/198",
       "rarity": "Special Illustration Rare",
@@ -4892,13 +4893,13 @@
         "Scarlet Violet Miraidon ex",
         "Scarlet Violet Miraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/244.jpg"
     },
     {
       "id": "sv1-245",
       "name": "Gardevoir ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "245",
       "fullNumber": "245/198",
       "rarity": "Special Illustration Rare",
@@ -4913,13 +4914,13 @@
         "Scarlet Violet Gardevoir ex",
         "Scarlet Violet Gardevoir"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/245.jpg"
     },
     {
       "id": "sv1-246",
       "name": "Great Tusk ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "246",
       "fullNumber": "246/198",
       "rarity": "Special Illustration Rare",
@@ -4934,13 +4935,13 @@
         "Scarlet Violet Great Tusk ex",
         "Scarlet Violet Great Tusk"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/246.jpg"
     },
     {
       "id": "sv1-247",
       "name": "Koraidon ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "247",
       "fullNumber": "247/198",
       "rarity": "Special Illustration Rare",
@@ -4955,13 +4956,13 @@
         "Scarlet Violet Koraidon ex",
         "Scarlet Violet Koraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/247.jpg"
     },
     {
       "id": "sv1-248",
       "name": "Iron Treads ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "248",
       "fullNumber": "248/198",
       "rarity": "Special Illustration Rare",
@@ -4976,13 +4977,13 @@
         "Scarlet Violet Iron Treads ex",
         "Scarlet Violet Iron Treads"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/248.jpg"
     },
     {
       "id": "sv1-249",
       "name": "Arven",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "249",
       "fullNumber": "249/198",
       "rarity": "Special Illustration Rare",
@@ -4995,13 +4996,13 @@
         "249/198",
         "Scarlet Violet Arven"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/249.jpg"
     },
     {
       "id": "sv1-250",
       "name": "Jacq",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "250",
       "fullNumber": "250/198",
       "rarity": "Special Illustration Rare",
@@ -5014,13 +5015,13 @@
         "250/198",
         "Scarlet Violet Jacq"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/250.jpg"
     },
     {
       "id": "sv1-251",
       "name": "Miriam",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "251",
       "fullNumber": "251/198",
       "rarity": "Special Illustration Rare",
@@ -5033,13 +5034,13 @@
         "251/198",
         "Scarlet Violet Miriam"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/251.jpg"
     },
     {
       "id": "sv1-252",
       "name": "Penny",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "252",
       "fullNumber": "252/198",
       "rarity": "Special Illustration Rare",
@@ -5052,13 +5053,13 @@
         "252/198",
         "Scarlet Violet Penny"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/252.jpg"
     },
     {
       "id": "sv1-253",
       "name": "Miraidon ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "253",
       "fullNumber": "253/198",
       "rarity": "Hyper Rare",
@@ -5073,13 +5074,13 @@
         "Scarlet Violet Miraidon ex",
         "Scarlet Violet Miraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/253.jpg"
     },
     {
       "id": "sv1-254",
       "name": "Koraidon ex",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "254",
       "fullNumber": "254/198",
       "rarity": "Hyper Rare",
@@ -5094,13 +5095,13 @@
         "Scarlet Violet Koraidon ex",
         "Scarlet Violet Koraidon"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/254.jpg"
     },
     {
       "id": "sv1-255",
       "name": "Nest Ball",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "255",
       "fullNumber": "255/198",
       "rarity": "Hyper Rare",
@@ -5113,13 +5114,13 @@
         "255/198",
         "Scarlet Violet Nest Ball"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/255.jpg"
     },
     {
       "id": "sv1-256",
       "name": "Rare Candy",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "256",
       "fullNumber": "256/198",
       "rarity": "Hyper Rare",
@@ -5132,13 +5133,13 @@
         "256/198",
         "Scarlet Violet Rare Candy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/256.jpg"
     },
     {
       "id": "sv1-257",
       "name": "Basic Lightning Energy",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "257",
       "fullNumber": "257/198",
       "rarity": "Hyper Rare",
@@ -5151,13 +5152,13 @@
         "257/198",
         "Scarlet Violet Basic Lightning Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/257.jpg"
     },
     {
       "id": "sv1-258",
       "name": "Basic Fighting Energy",
       "setName": "Scarlet & Violet Base",
-      "setCode": "SV1",
+      "setCode": "SCARLETVIOLETBASE",
       "cardNumber": "258",
       "fullNumber": "258/198",
       "rarity": "Hyper Rare",
@@ -5170,7 +5171,7 @@
         "258/198",
         "Scarlet Violet Basic Fighting Energy"
       ],
-      "imageUrl": null
+      "imageUrl": "https://www.serebii.net/card/scarletvioletbase/258.jpg"
     }
   ]
 }

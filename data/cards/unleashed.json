@@ -5,7 +5,8 @@
     "releaseDate": "2010-05-12",
     "totalCards": 96,
     "symbol": "UL",
-    "logo": "unleashed-logo.png"
+    "logo": "https://www.serebii.net/card/logo/unleashed.png",
+    "setCode": "UL"
   },
   "cards": [
     {
@@ -27,7 +28,8 @@
         "mythical",
         "legendary",
         "jirachi"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/001.jpg"
     },
     {
       "id": "unleashed-2",
@@ -44,7 +46,8 @@
         "holographic",
         "fire",
         "magmortar"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/002.jpg"
     },
     {
       "id": "unleashed-3",
@@ -65,7 +68,8 @@
         "mythical",
         "legendary",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/003.jpg"
     },
     {
       "id": "unleashed-4",
@@ -82,7 +86,8 @@
         "holographic",
         "metagross",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/004.jpg"
     },
     {
       "id": "unleashed-5",
@@ -99,7 +104,8 @@
         "holo",
         "holographic",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/005.jpg"
     },
     {
       "id": "unleashed-6",
@@ -116,7 +122,8 @@
         "holo",
         "water",
         "octillery"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/006.jpg"
     },
     {
       "id": "unleashed-7",
@@ -133,7 +140,8 @@
         "politoed",
         "holographic",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/007.jpg"
     },
     {
       "id": "unleashed-8",
@@ -154,7 +162,8 @@
         "holo",
         "mythical",
         "legendary"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/008.jpg"
     },
     {
       "id": "unleashed-9",
@@ -171,7 +180,8 @@
         "sudowoodo",
         "holographic",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/009.jpg"
     },
     {
       "id": "unleashed-10",
@@ -190,7 +200,8 @@
         "grass",
         "holo",
         "starter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/010.jpg"
     },
     {
       "id": "unleashed-11",
@@ -207,7 +218,8 @@
         "holographic",
         "xatu",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/011.jpg"
     },
     {
       "id": "unleashed-12",
@@ -222,7 +234,8 @@
       "keywords": [
         "grass",
         "beedrill"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/012.jpg"
     },
     {
       "id": "unleashed-13",
@@ -239,7 +252,8 @@
         "water",
         "blastoise",
         "starter pokemon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/013.jpg"
     },
     {
       "id": "unleashed-14",
@@ -254,7 +268,8 @@
       "keywords": [
         "psychic",
         "crobat"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/014.jpg"
     },
     {
       "id": "unleashed-15",
@@ -269,7 +284,8 @@
       "keywords": [
         "fearow",
         "colorless"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/015.jpg"
     },
     {
       "id": "unleashed-16",
@@ -284,7 +300,8 @@
       "keywords": [
         "floatzel",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/016.jpg"
     },
     {
       "id": "unleashed-17",
@@ -299,7 +316,8 @@
       "keywords": [
         "kingdra",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/017.jpg"
     },
     {
       "id": "unleashed-18",
@@ -314,7 +332,8 @@
       "keywords": [
         "lightning",
         "lanturn"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/018.jpg"
     },
     {
       "id": "unleashed-19",
@@ -329,7 +348,8 @@
       "keywords": [
         "lucario",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/019.jpg"
     },
     {
       "id": "unleashed-20",
@@ -344,7 +364,8 @@
       "keywords": [
         "ninetales",
         "fire"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/020.jpg"
     },
     {
       "id": "unleashed-21",
@@ -359,7 +380,8 @@
       "keywords": [
         "water",
         "poliwrath"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/021.jpg"
     },
     {
       "id": "unleashed-22",
@@ -374,7 +396,8 @@
       "keywords": [
         "primeape",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/022.jpg"
     },
     {
       "id": "unleashed-23",
@@ -389,7 +412,8 @@
       "keywords": [
         "grass",
         "roserade"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/023.jpg"
     },
     {
       "id": "unleashed-24",
@@ -404,7 +428,8 @@
       "keywords": [
         "metal",
         "steelix"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/024.jpg"
     },
     {
       "id": "unleashed-25",
@@ -419,7 +444,8 @@
       "keywords": [
         "torkoal",
         "fire"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/025.jpg"
     },
     {
       "id": "unleashed-26",
@@ -434,7 +460,8 @@
       "keywords": [
         "tyranitar",
         "darkness"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/026.jpg"
     },
     {
       "id": "unleashed-27",
@@ -449,7 +476,8 @@
       "keywords": [
         "colorless",
         "ursaring"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/027.jpg"
     },
     {
       "id": "unleashed-28",
@@ -464,7 +492,8 @@
       "keywords": [
         "cherrim",
         "grass"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/028.jpg"
     },
     {
       "id": "unleashed-29",
@@ -479,7 +508,8 @@
       "keywords": [
         "colorless",
         "dunsparce"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/029.jpg"
     },
     {
       "id": "unleashed-30",
@@ -494,7 +524,8 @@
       "keywords": [
         "golbat",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/030.jpg"
     },
     {
       "id": "unleashed-31",
@@ -511,7 +542,8 @@
         "starter pokemon",
         "grotle",
         "starter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/031.jpg"
     },
     {
       "id": "unleashed-32",
@@ -526,7 +558,8 @@
       "keywords": [
         "grass",
         "kakuna"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/032.jpg"
     },
     {
       "id": "unleashed-33",
@@ -541,7 +574,8 @@
       "keywords": [
         "metang",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/033.jpg"
     },
     {
       "id": "unleashed-34",
@@ -556,7 +590,8 @@
       "keywords": [
         "minun",
         "lightning"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/034.jpg"
     },
     {
       "id": "unleashed-35",
@@ -571,7 +606,8 @@
       "keywords": [
         "numel",
         "fire"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/035.jpg"
     },
     {
       "id": "unleashed-36",
@@ -586,7 +622,8 @@
       "keywords": [
         "plusle",
         "lightning"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/036.jpg"
     },
     {
       "id": "unleashed-37",
@@ -601,7 +638,8 @@
       "keywords": [
         "poliwhirl",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/037.jpg"
     },
     {
       "id": "unleashed-38",
@@ -616,7 +654,8 @@
       "keywords": [
         "pupitar",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/038.jpg"
     },
     {
       "id": "unleashed-39",
@@ -631,7 +670,8 @@
       "keywords": [
         "pupitar",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/039.jpg"
     },
     {
       "id": "unleashed-40",
@@ -646,7 +686,8 @@
       "keywords": [
         "seadra",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/040.jpg"
     },
     {
       "id": "unleashed-41",
@@ -661,7 +702,8 @@
       "keywords": [
         "tauros",
         "colorless"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/041.jpg"
     },
     {
       "id": "unleashed-42",
@@ -678,7 +720,8 @@
         "water",
         "wartortle",
         "starter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/042.jpg"
     },
     {
       "id": "unleashed-43",
@@ -693,7 +736,8 @@
       "keywords": [
         "colorless",
         "aipom"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/043.jpg"
     },
     {
       "id": "unleashed-44",
@@ -708,7 +752,8 @@
       "keywords": [
         "beldum",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/044.jpg"
     },
     {
       "id": "unleashed-45",
@@ -723,7 +768,8 @@
       "keywords": [
         "buizel",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/045.jpg"
     },
     {
       "id": "unleashed-46",
@@ -738,7 +784,8 @@
       "keywords": [
         "grass",
         "carnivine"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/046.jpg"
     },
     {
       "id": "unleashed-47",
@@ -753,7 +800,8 @@
       "keywords": [
         "grass",
         "cherubi"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/047.jpg"
     },
     {
       "id": "unleashed-48",
@@ -768,7 +816,8 @@
       "keywords": [
         "lightning",
         "chinchou"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/048.jpg"
     },
     {
       "id": "unleashed-49",
@@ -783,7 +832,8 @@
       "keywords": [
         "water",
         "horsea"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/049.jpg"
     },
     {
       "id": "unleashed-50",
@@ -798,7 +848,8 @@
       "keywords": [
         "larvitar",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/050.jpg"
     },
     {
       "id": "unleashed-51",
@@ -813,7 +864,8 @@
       "keywords": [
         "larvitar",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/051.jpg"
     },
     {
       "id": "unleashed-52",
@@ -828,7 +880,8 @@
       "keywords": [
         "magmar",
         "fire"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/052.jpg"
     },
     {
       "id": "unleashed-53",
@@ -843,7 +896,8 @@
       "keywords": [
         "fighting",
         "mankey"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/053.jpg"
     },
     {
       "id": "unleashed-54",
@@ -858,7 +912,8 @@
       "keywords": [
         "misdreavus",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/054.jpg"
     },
     {
       "id": "unleashed-55",
@@ -873,7 +928,8 @@
       "keywords": [
         "natu",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/055.jpg"
     },
     {
       "id": "unleashed-56",
@@ -888,7 +944,8 @@
       "keywords": [
         "onix",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/056.jpg"
     },
     {
       "id": "unleashed-57",
@@ -903,7 +960,8 @@
       "keywords": [
         "onix",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/057.jpg"
     },
     {
       "id": "unleashed-58",
@@ -918,7 +976,8 @@
       "keywords": [
         "poliwag",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/058.jpg"
     },
     {
       "id": "unleashed-59",
@@ -933,7 +992,8 @@
       "keywords": [
         "water",
         "remoraid"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/059.jpg"
     },
     {
       "id": "unleashed-60",
@@ -948,7 +1008,8 @@
       "keywords": [
         "riolu",
         "fighting"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/060.jpg"
     },
     {
       "id": "unleashed-61",
@@ -963,7 +1024,8 @@
       "keywords": [
         "roselia",
         "grass"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/061.jpg"
     },
     {
       "id": "unleashed-62",
@@ -978,7 +1040,8 @@
       "keywords": [
         "colorless",
         "spearow"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/062.jpg"
     },
     {
       "id": "unleashed-63",
@@ -995,7 +1058,8 @@
         "water",
         "starter",
         "starter pokemon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/063.jpg"
     },
     {
       "id": "unleashed-64",
@@ -1010,7 +1074,8 @@
       "keywords": [
         "colorless",
         "stantler"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/064.jpg"
     },
     {
       "id": "unleashed-65",
@@ -1025,7 +1090,8 @@
       "keywords": [
         "colorless",
         "teddiursa"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/065.jpg"
     },
     {
       "id": "unleashed-66",
@@ -1040,7 +1106,8 @@
       "keywords": [
         "grass",
         "tropius"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/066.jpg"
     },
     {
       "id": "unleashed-67",
@@ -1057,7 +1124,8 @@
         "starter pokemon",
         "turtwig",
         "starter"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/067.jpg"
     },
     {
       "id": "unleashed-68",
@@ -1072,7 +1140,8 @@
       "keywords": [
         "vulpix",
         "fire"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/068.jpg"
     },
     {
       "id": "unleashed-69",
@@ -1087,7 +1156,8 @@
       "keywords": [
         "grass",
         "weedle"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/069.jpg"
     },
     {
       "id": "unleashed-70",
@@ -1102,7 +1172,8 @@
       "keywords": [
         "zubat",
         "psychic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/070.jpg"
     },
     {
       "id": "unleashed-71",
@@ -1117,7 +1188,8 @@
         "cheerleader's cheer",
         "s",
         "cheerleader"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/071.jpg"
     },
     {
       "id": "unleashed-72",
@@ -1130,7 +1202,8 @@
         "dual",
         "ball",
         "dual ball"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/072.jpg"
     },
     {
       "id": "unleashed-73",
@@ -1145,7 +1218,8 @@
         "emcee's chatter",
         "s",
         "announcer"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/073.jpg"
     },
     {
       "id": "unleashed-74",
@@ -1158,7 +1232,8 @@
         "energy returner",
         "returner",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/074.jpg"
     },
     {
       "id": "unleashed-75",
@@ -1173,7 +1248,8 @@
         "engineer",
         "technical",
         "adjustments"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/075.jpg"
     },
     {
       "id": "unleashed-76",
@@ -1186,7 +1262,8 @@
         "good rod",
         "good",
         "rod"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/076.jpg"
     },
     {
       "id": "unleashed-77",
@@ -1201,7 +1278,8 @@
         "interviewer's questions",
         "questions",
         "media"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/077.jpg"
     },
     {
       "id": "unleashed-78",
@@ -1214,7 +1292,8 @@
         "referee",
         "official",
         "judge"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/078.jpg"
     },
     {
       "id": "unleashed-79",
@@ -1227,7 +1306,8 @@
         "herb",
         "life",
         "life herb"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/079.jpg"
     },
     {
       "id": "unleashed-80",
@@ -1238,7 +1318,8 @@
       "cardType": "Trainer",
       "keywords": [
         "pluspower"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/080.jpg"
     },
     {
       "id": "unleashed-81",
@@ -1250,7 +1331,8 @@
       "keywords": [
         "pokémon circulator",
         "circulator"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/081.jpg"
     },
     {
       "id": "unleashed-82",
@@ -1265,7 +1347,8 @@
         "classic",
         "evolution",
         "candy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/082.jpg"
     },
     {
       "id": "unleashed-83",
@@ -1282,7 +1365,8 @@
         "classic",
         "scoop up",
         "scoop"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/083.jpg"
     },
     {
       "id": "unleashed-84",
@@ -1304,7 +1388,8 @@
         "holo",
         "prime",
         "crobat"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/084.jpg"
     },
     {
       "id": "unleashed-85",
@@ -1326,7 +1411,8 @@
         "holo",
         "prime",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/085.jpg"
     },
     {
       "id": "unleashed-86",
@@ -1348,7 +1434,8 @@
         "lightning",
         "prime",
         "lanturn"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/086.jpg"
     },
     {
       "id": "unleashed-87",
@@ -1370,7 +1457,8 @@
         "steelix",
         "holo",
         "prime"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/087.jpg"
     },
     {
       "id": "unleashed-88",
@@ -1392,7 +1480,8 @@
         "holo",
         "prime",
         "darkness"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/088.jpg"
     },
     {
       "id": "unleashed-89",
@@ -1414,7 +1503,8 @@
         "holo",
         "prime",
         "ursaring"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/089.jpg"
     },
     {
       "id": "unleashed-90",
@@ -1451,7 +1541,8 @@
         "combined legendary",
         "volcano",
         "holo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/090.jpg"
     },
     {
       "id": "unleashed-91",
@@ -1488,7 +1579,8 @@
         "combined legendary",
         "volcano",
         "holo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/091.jpg"
     },
     {
       "id": "unleashed-92",
@@ -1525,7 +1617,8 @@
         "combined legendary",
         "holo",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/092.jpg"
     },
     {
       "id": "unleashed-93",
@@ -1562,7 +1655,8 @@
         "combined legendary",
         "holo",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/093.jpg"
     },
     {
       "id": "unleashed-94",
@@ -1599,7 +1693,8 @@
         "volcano",
         "holo",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/094.jpg"
     },
     {
       "id": "unleashed-95",
@@ -1636,7 +1731,8 @@
         "volcano",
         "holo",
         "water"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/095.jpg"
     },
     {
       "id": "unleashed-two",
@@ -1655,7 +1751,8 @@
         "alph",
         "unown",
         "mystery"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/unleashed/001.jpg"
     }
   ]
 }

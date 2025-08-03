@@ -3,7 +3,9 @@
     "name": "Sun & Moon",
     "code": "SUM",
     "releaseDate": "2017-02-03",
-    "totalCards": 149
+    "totalCards": 149,
+    "setCode": "SM",
+    "logo": "https://www.serebii.net/card/logo/sunmoon.png"
   },
   "cards": [
     {
@@ -15,7 +17,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "caterpie"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/001.jpg"
     },
     {
       "id": "SUM-2",
@@ -26,7 +29,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "metapod"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/002.jpg"
     },
     {
       "id": "SUM-3",
@@ -37,7 +41,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "butterfree"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/003.jpg"
     },
     {
       "id": "SUM-4",
@@ -48,7 +53,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "paras"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/004.jpg"
     },
     {
       "id": "SUM-5",
@@ -59,7 +65,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "parasect"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/005.jpg"
     },
     {
       "id": "SUM-6",
@@ -70,7 +77,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "pinsir"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/006.jpg"
     },
     {
       "id": "SUM-7",
@@ -81,7 +89,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "surskit"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/007.jpg"
     },
     {
       "id": "SUM-8",
@@ -92,7 +101,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "masquerain"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/008.jpg"
     },
     {
       "id": "SUM-9",
@@ -103,7 +113,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "rowlet"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/009.jpg"
     },
     {
       "id": "SUM-10",
@@ -114,7 +125,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "dartrix"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/010.jpg"
     },
     {
       "id": "SUM-11",
@@ -125,7 +137,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "decidueye"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/011.jpg"
     },
     {
       "id": "SUM-12",
@@ -136,7 +149,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "decidueye"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/012.jpg"
     },
     {
       "id": "SUM-13",
@@ -147,7 +161,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "grubbin"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/013.jpg"
     },
     {
       "id": "SUM-14",
@@ -158,7 +173,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "fomantis"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/014.jpg"
     },
     {
       "id": "SUM-15",
@@ -169,7 +185,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lurantis"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/015.jpg"
     },
     {
       "id": "SUM-16",
@@ -180,7 +197,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "morelull"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/016.jpg"
     },
     {
       "id": "SUM-17",
@@ -191,7 +209,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "shiinotic"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/017.jpg"
     },
     {
       "id": "SUM-18",
@@ -202,7 +221,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "bounsweet"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/018.jpg"
     },
     {
       "id": "SUM-19",
@@ -213,7 +233,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "steenee"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/019.jpg"
     },
     {
       "id": "SUM-20",
@@ -224,7 +245,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "tsareena"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/020.jpg"
     },
     {
       "id": "SUM-21",
@@ -235,7 +257,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "growlithe"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/021.jpg"
     },
     {
       "id": "SUM-22",
@@ -246,7 +269,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "arcanine"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/022.jpg"
     },
     {
       "id": "SUM-23",
@@ -257,7 +281,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "torkoal"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/023.jpg"
     },
     {
       "id": "SUM-24",
@@ -268,7 +293,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "litten"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/024.jpg"
     },
     {
       "id": "SUM-25",
@@ -279,7 +305,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "torracat"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/025.jpg"
     },
     {
       "id": "SUM-26",
@@ -290,7 +317,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "incineroar"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/026.jpg"
     },
     {
       "id": "SUM-27",
@@ -301,7 +329,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "incineroar"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/027.jpg"
     },
     {
       "id": "SUM-28",
@@ -312,7 +341,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "psyduck"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/028.jpg"
     },
     {
       "id": "SUM-29",
@@ -323,7 +353,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "golduck"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/029.jpg"
     },
     {
       "id": "SUM-30",
@@ -334,7 +365,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "poliwag"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/030.jpg"
     },
     {
       "id": "SUM-31",
@@ -345,7 +377,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "poliwhirl"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/031.jpg"
     },
     {
       "id": "SUM-32",
@@ -356,7 +389,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "poliwrath"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/032.jpg"
     },
     {
       "id": "SUM-33",
@@ -367,7 +401,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "shellder"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/033.jpg"
     },
     {
       "id": "SUM-34",
@@ -378,7 +413,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "cloyster"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/034.jpg"
     },
     {
       "id": "SUM-35",
@@ -389,7 +425,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lapras"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/035.jpg"
     },
     {
       "id": "SUM-36",
@@ -400,7 +437,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "corsola"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/036.jpg"
     },
     {
       "id": "SUM-37",
@@ -411,7 +449,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "wingull"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/037.jpg"
     },
     {
       "id": "SUM-38",
@@ -422,7 +461,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "pelipper"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/038.jpg"
     },
     {
       "id": "SUM-39",
@@ -433,7 +473,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "popplio"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/039.jpg"
     },
     {
       "id": "SUM-40",
@@ -444,7 +485,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "brionne"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/040.jpg"
     },
     {
       "id": "SUM-41",
@@ -455,7 +497,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "primarina"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/041.jpg"
     },
     {
       "id": "SUM-42",
@@ -466,7 +509,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "primarina"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/042.jpg"
     },
     {
       "id": "SUM-43",
@@ -477,7 +521,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "crabominable"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/043.jpg"
     },
     {
       "id": "SUM-44",
@@ -488,7 +533,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "wishiwashi"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/044.jpg"
     },
     {
       "id": "SUM-45",
@@ -499,7 +545,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "dewpider"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/045.jpg"
     },
     {
       "id": "SUM-46",
@@ -510,7 +557,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "araquanid"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/046.jpg"
     },
     {
       "id": "SUM-47",
@@ -521,7 +569,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "pyukumuku"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/047.jpg"
     },
     {
       "id": "SUM-48",
@@ -532,7 +581,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "bruxish"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/048.jpg"
     },
     {
       "id": "SUM-49",
@@ -543,7 +593,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "chinchou"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/049.jpg"
     },
     {
       "id": "SUM-50",
@@ -554,7 +605,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lanturn"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/050.jpg"
     },
     {
       "id": "SUM-51",
@@ -565,7 +617,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "charjabug"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/051.jpg"
     },
     {
       "id": "SUM-52",
@@ -576,7 +629,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "vikavolt"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/052.jpg"
     },
     {
       "id": "SUM-53",
@@ -587,7 +641,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "togedemaru"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/053.jpg"
     },
     {
       "id": "SUM-54",
@@ -598,7 +653,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "zubat"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/054.jpg"
     },
     {
       "id": "SUM-55",
@@ -609,7 +665,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "golbat"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/055.jpg"
     },
     {
       "id": "SUM-56",
@@ -620,7 +677,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "crobat"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/056.jpg"
     },
     {
       "id": "SUM-57",
@@ -633,7 +691,8 @@
         "alolan grimer",
         "grimer",
         "alolan"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/057.jpg"
     },
     {
       "id": "SUM-58",
@@ -646,7 +705,8 @@
         "muk",
         "alolan",
         "alolan muk"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/058.jpg"
     },
     {
       "id": "SUM-59",
@@ -657,7 +717,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "drowzee"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/059.jpg"
     },
     {
       "id": "SUM-60",
@@ -668,7 +729,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "hypno"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/060.jpg"
     },
     {
       "id": "SUM-61",
@@ -679,7 +741,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "espeon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/061.jpg"
     },
     {
       "id": "SUM-62",
@@ -690,7 +753,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "mareanie"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/062.jpg"
     },
     {
       "id": "SUM-63",
@@ -701,7 +765,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "toxapex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/063.jpg"
     },
     {
       "id": "SUM-64",
@@ -712,7 +777,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "cosmog"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/064.jpg"
     },
     {
       "id": "SUM-65",
@@ -723,7 +789,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "cosmoem"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/065.jpg"
     },
     {
       "id": "SUM-66",
@@ -734,7 +801,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lunala"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/066.jpg"
     },
     {
       "id": "SUM-67",
@@ -745,7 +813,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "makuhita"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/067.jpg"
     },
     {
       "id": "SUM-68",
@@ -756,7 +825,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "hariyama"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/068.jpg"
     },
     {
       "id": "SUM-69",
@@ -767,7 +837,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "roggenrola"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/069.jpg"
     },
     {
       "id": "SUM-70",
@@ -778,7 +849,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "boldore"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/070.jpg"
     },
     {
       "id": "SUM-71",
@@ -789,7 +861,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "gigalith"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/071.jpg"
     },
     {
       "id": "SUM-72",
@@ -800,7 +873,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "crabrawler"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/072.jpg"
     },
     {
       "id": "SUM-73",
@@ -811,7 +885,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "passimian"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/073.jpg"
     },
     {
       "id": "SUM-74",
@@ -822,7 +897,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "sandygast"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/074.jpg"
     },
     {
       "id": "SUM-75",
@@ -833,7 +909,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "palossand"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/075.jpg"
     },
     {
       "id": "SUM-76",
@@ -846,7 +923,8 @@
         "alolan",
         "alolan rattata",
         "rattata"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/076.jpg"
     },
     {
       "id": "SUM-77",
@@ -859,7 +937,8 @@
         "alolan",
         "raticate",
         "alolan raticate"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/077.jpg"
     },
     {
       "id": "SUM-78",
@@ -872,7 +951,8 @@
         "alolan",
         "alolan meowth",
         "meowth"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/078.jpg"
     },
     {
       "id": "SUM-79",
@@ -885,7 +965,8 @@
         "alolan persian",
         "alolan",
         "persian"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/079.jpg"
     },
     {
       "id": "SUM-80",
@@ -896,7 +977,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "umbreon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/080.jpg"
     },
     {
       "id": "SUM-81",
@@ -907,7 +989,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "carvanha"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/081.jpg"
     },
     {
       "id": "SUM-82",
@@ -918,7 +1001,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "sharpedo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/082.jpg"
     },
     {
       "id": "SUM-83",
@@ -929,7 +1013,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "sandile"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/083.jpg"
     },
     {
       "id": "SUM-84",
@@ -940,7 +1025,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "krokorok"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/084.jpg"
     },
     {
       "id": "SUM-85",
@@ -951,7 +1037,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "krookodile"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/085.jpg"
     },
     {
       "id": "SUM-86",
@@ -964,7 +1051,8 @@
         "diglett",
         "alolan",
         "alolan diglett"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/086.jpg"
     },
     {
       "id": "SUM-87",
@@ -977,7 +1065,8 @@
         "alolan",
         "dugtrio",
         "alolan dugtrio"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/087.jpg"
     },
     {
       "id": "SUM-88",
@@ -988,7 +1077,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "skarmory"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/088.jpg"
     },
     {
       "id": "SUM-89",
@@ -999,7 +1089,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "solgaleo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/089.jpg"
     },
     {
       "id": "SUM-90",
@@ -1010,7 +1101,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "snubbull"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/090.jpg"
     },
     {
       "id": "SUM-91",
@@ -1021,7 +1113,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "granbull"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/091.jpg"
     },
     {
       "id": "SUM-92",
@@ -1032,7 +1125,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "cutiefly"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/092.jpg"
     },
     {
       "id": "SUM-93",
@@ -1043,7 +1137,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "ribombee"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/093.jpg"
     },
     {
       "id": "SUM-94",
@@ -1054,7 +1149,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "dratini"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/094.jpg"
     },
     {
       "id": "SUM-95",
@@ -1065,7 +1161,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "dragonair"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/095.jpg"
     },
     {
       "id": "SUM-96",
@@ -1076,7 +1173,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "dragonite"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/096.jpg"
     },
     {
       "id": "SUM-97",
@@ -1087,7 +1185,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "spearow"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/097.jpg"
     },
     {
       "id": "SUM-98",
@@ -1098,7 +1197,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "fearow"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/098.jpg"
     },
     {
       "id": "SUM-99",
@@ -1109,7 +1209,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "kangaskhan"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/099.jpg"
     },
     {
       "id": "SUM-100",
@@ -1120,7 +1221,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "tauros"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/100.jpg"
     },
     {
       "id": "SUM-101",
@@ -1131,7 +1233,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "eevee"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/101.jpg"
     },
     {
       "id": "SUM-102",
@@ -1142,7 +1245,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "spinda"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/102.jpg"
     },
     {
       "id": "SUM-103",
@@ -1153,7 +1257,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lillipup"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/103.jpg"
     },
     {
       "id": "SUM-104",
@@ -1164,7 +1269,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "herdier"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/104.jpg"
     },
     {
       "id": "SUM-105",
@@ -1175,7 +1281,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "stoutland"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/105.jpg"
     },
     {
       "id": "SUM-106",
@@ -1186,7 +1293,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "pikipek"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/106.jpg"
     },
     {
       "id": "SUM-107",
@@ -1197,7 +1305,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "trumbeak"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/107.jpg"
     },
     {
       "id": "SUM-108",
@@ -1208,7 +1317,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "toucannon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/108.jpg"
     },
     {
       "id": "SUM-109",
@@ -1219,7 +1329,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "yungoos"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/109.jpg"
     },
     {
       "id": "SUM-110",
@@ -1230,7 +1341,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "gumshoos"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/110.jpg"
     },
     {
       "id": "SUM-111",
@@ -1241,7 +1353,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "stufful"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/111.jpg"
     },
     {
       "id": "SUM-112",
@@ -1252,7 +1365,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "bewear"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/112.jpg"
     },
     {
       "id": "SUM-113",
@@ -1263,7 +1377,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "oranguru"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/113.jpg"
     },
     {
       "id": "SUM-114",
@@ -1276,7 +1391,8 @@
         "big malasada",
         "big",
         "malasada"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/114.jpg"
     },
     {
       "id": "SUM-115",
@@ -1289,7 +1405,8 @@
         "hammer",
         "crushing hammer",
         "crushing"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/115.jpg"
     },
     {
       "id": "SUM-116",
@@ -1302,7 +1419,8 @@
         "retrieval",
         "energy retrieval",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/116.jpg"
     },
     {
       "id": "SUM-117",
@@ -1315,7 +1433,8 @@
         "switch",
         "energy switch",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/117.jpg"
     },
     {
       "id": "SUM-118",
@@ -1328,7 +1447,8 @@
         "exp.",
         "share",
         "exp. share"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/118.jpg"
     },
     {
       "id": "SUM-119",
@@ -1341,7 +1461,8 @@
         "ball",
         "great",
         "great ball"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/119.jpg"
     },
     {
       "id": "SUM-120",
@@ -1352,7 +1473,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "hau"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/120.jpg"
     },
     {
       "id": "SUM-121",
@@ -1363,7 +1485,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "ilima"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/121.jpg"
     },
     {
       "id": "SUM-122",
@@ -1374,7 +1497,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lillie"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/122.jpg"
     },
     {
       "id": "SUM-123",
@@ -1387,7 +1511,8 @@
         "ball",
         "nest ball",
         "nest"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/123.jpg"
     },
     {
       "id": "SUM-124",
@@ -1400,7 +1525,8 @@
         "poison",
         "poison barb",
         "barb"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/124.jpg"
     },
     {
       "id": "SUM-125",
@@ -1413,7 +1539,8 @@
         "ball",
         "poké",
         "poké ball"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/125.jpg"
     },
     {
       "id": "SUM-126",
@@ -1426,7 +1553,8 @@
         "pokémon",
         "catcher",
         "pokémon catcher"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/126.jpg"
     },
     {
       "id": "SUM-127",
@@ -1437,7 +1565,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "potion"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/127.jpg"
     },
     {
       "id": "SUM-128",
@@ -1450,7 +1579,8 @@
         "kukui",
         "professor",
         "professor kukui"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/128.jpg"
     },
     {
       "id": "SUM-129",
@@ -1463,7 +1593,8 @@
         "rare",
         "candy",
         "rare candy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/129.jpg"
     },
     {
       "id": "SUM-130",
@@ -1474,7 +1605,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "repel"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/130.jpg"
     },
     {
       "id": "SUM-131",
@@ -1487,7 +1619,8 @@
         "dex",
         "rotom",
         "rotom dex"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/131.jpg"
     },
     {
       "id": "SUM-132",
@@ -1498,7 +1631,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "switch"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/132.jpg"
     },
     {
       "id": "SUM-133",
@@ -1512,7 +1646,8 @@
         "team",
         "skull",
         "grunt"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/133.jpg"
     },
     {
       "id": "SUM-134",
@@ -1525,7 +1660,8 @@
         "ball",
         "timer",
         "timer ball"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/134.jpg"
     },
     {
       "id": "SUM-135",
@@ -1538,7 +1674,8 @@
         "ball",
         "ultra",
         "ultra ball"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/135.jpg"
     },
     {
       "id": "SUM-136",
@@ -1552,7 +1689,8 @@
         "double colorless energy",
         "colorless",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/136.jpg"
     },
     {
       "id": "SUM-137",
@@ -1565,7 +1703,8 @@
         "rainbow energy",
         "rainbow",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/137.jpg"
     },
     {
       "id": "SUM-138",
@@ -1576,7 +1715,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lurantis"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/138.jpg"
     },
     {
       "id": "SUM-139",
@@ -1587,7 +1727,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lapras"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/139.jpg"
     },
     {
       "id": "SUM-140",
@@ -1598,7 +1739,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "espeon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/140.jpg"
     },
     {
       "id": "SUM-141",
@@ -1609,7 +1751,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lunala"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/141.jpg"
     },
     {
       "id": "SUM-142",
@@ -1620,7 +1763,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "umbreon"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/142.jpg"
     },
     {
       "id": "SUM-143",
@@ -1631,7 +1775,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "solgaleo"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/143.jpg"
     },
     {
       "id": "SUM-144",
@@ -1642,7 +1787,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "tauros"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/144.jpg"
     },
     {
       "id": "SUM-145",
@@ -1653,7 +1799,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "gumshoos"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/145.jpg"
     },
     {
       "id": "SUM-146",
@@ -1664,7 +1811,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "ilima"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/146.jpg"
     },
     {
       "id": "SUM-147",
@@ -1675,7 +1823,8 @@
       "set": "SUM",
       "matchingKeywords": [
         "lillie"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/147.jpg"
     },
     {
       "id": "SUM-148",
@@ -1688,7 +1837,8 @@
         "kukui",
         "professor",
         "professor kukui"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/148.jpg"
     },
     {
       "id": "SUM-149",
@@ -1702,7 +1852,8 @@
         "team",
         "skull",
         "grunt"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/sunmoon/149.jpg"
     }
   ]
 }

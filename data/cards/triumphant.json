@@ -6,7 +6,9 @@
     "totalCards": 103,
     "cardNumberRange": "1-102 + Secret Rare",
     "description": "The fourth and final set in the HeartGold & SoulSilver series, featuring Prime cards including Celebi and Mew, plus LEGEND cards Darkrai & Cresselia and Palkia & Dialga.",
-    "symbolUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/hgss4_logo_triumphant.png"
+    "symbolUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/hgss4_logo_triumphant.png",
+    "setCode": "TM",
+    "logo": "https://www.serebii.net/card/logo/triumphant.png"
   },
   "cards": [
     {
@@ -28,7 +30,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/triumphant/1/102.jpg"
     },
     {
       "name": "Altaria",
@@ -47,7 +50,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/triumphant/2/102.jpg"
     },
     {
       "name": "Celebi",
@@ -70,7 +74,8 @@
         "holographic",
         "mythical"
       ],
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/triumphant/3/102.jpg"
     },
     {
       "name": "Drapion",
@@ -89,7 +94,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/triumphant/4/102.jpg"
     },
     {
       "name": "Mamoswine",
@@ -108,7 +114,8 @@
         "water",
         "holographic"
       ],
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/triumphant/5/102.jpg"
     },
     {
       "name": "Nidoking",
@@ -127,7 +134,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/triumphant/6/102.jpg"
     },
     {
       "name": "Porygon-Z",
@@ -146,7 +154,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/triumphant/7/102.jpg"
     },
     {
       "name": "Rapidash",
@@ -165,7 +174,8 @@
         "holographic",
         "fire"
       ],
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/triumphant/8/102.jpg"
     },
     {
       "name": "Solrock",
@@ -184,7 +194,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/triumphant/9/102.jpg"
     },
     {
       "name": "Spiritomb",
@@ -203,7 +214,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/triumphant/10/102.jpg"
     },
     {
       "name": "Venomoth",
@@ -222,7 +234,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/triumphant/11/102.jpg"
     },
     {
       "name": "Victreebel",
@@ -241,7 +254,8 @@
         "triumphant",
         "holographic"
       ],
-      "hp": 130
+      "hp": 130,
+      "imageUrl": "https://www.serebii.net/card/triumphant/12/102.jpg"
     },
     {
       "name": "Ambipom",
@@ -259,7 +273,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/13/102.jpg"
     },
     {
       "name": "Banette",
@@ -277,7 +292,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/14/102.jpg"
     },
     {
       "name": "Bronzong",
@@ -295,7 +311,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/15/102.jpg"
     },
     {
       "name": "Carnivine",
@@ -313,7 +330,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/16/102.jpg"
     },
     {
       "name": "Ditto",
@@ -331,7 +349,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/17/102.jpg"
     },
     {
       "name": "Dragonite",
@@ -351,7 +370,8 @@
         "triumphant",
         "pseudo-legendary"
       ],
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/triumphant/18/102.jpg"
     },
     {
       "name": "Dugtrio",
@@ -369,7 +389,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/19/102.jpg"
     },
     {
       "name": "Electivire",
@@ -387,7 +408,8 @@
         "triumphant",
         "lightning"
       ],
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/triumphant/20/102.jpg"
     },
     {
       "name": "Elekid",
@@ -407,7 +429,8 @@
         "triumphant",
         "lightning"
       ],
-      "hp": 30
+      "hp": 30,
+      "imageUrl": "https://www.serebii.net/card/triumphant/21/102.jpg"
     },
     {
       "name": "Golduck",
@@ -425,7 +448,8 @@
         "triumphant",
         "water"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/22/102.jpg"
     },
     {
       "name": "Grumpig",
@@ -443,7 +467,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/23/102.jpg"
     },
     {
       "name": "Kricketune",
@@ -461,7 +486,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/24/102.jpg"
     },
     {
       "name": "Lunatone",
@@ -479,7 +505,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/25/102.jpg"
     },
     {
       "name": "Machamp",
@@ -500,7 +527,8 @@
         "fighting type",
         "superpower"
       ],
-      "hp": 140
+      "hp": 140,
+      "imageUrl": "https://www.serebii.net/card/triumphant/26/102.jpg"
     },
     {
       "name": "Magmortar",
@@ -518,7 +546,8 @@
         "triumphant",
         "fire"
       ],
-      "hp": 120
+      "hp": 120,
+      "imageUrl": "https://www.serebii.net/card/triumphant/27/102.jpg"
     },
     {
       "name": "Nidoqueen",
@@ -536,7 +565,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/28/102.jpg"
     },
     {
       "name": "Pidgeot",
@@ -554,7 +584,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/29/102.jpg"
     },
     {
       "name": "Sharpedo",
@@ -572,7 +603,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/30/102.jpg"
     },
     {
       "name": "Wailord",
@@ -592,7 +624,8 @@
         "water",
         "water type"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/31/102.jpg"
     },
     {
       "name": "Dragonair",
@@ -609,7 +642,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/32/102.jpg"
     },
     {
       "name": "Electabuzz",
@@ -626,7 +660,8 @@
         "triumphant",
         "lightning"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/33/102.jpg"
     },
     {
       "name": "Electrode",
@@ -646,7 +681,8 @@
         "triumphant",
         "lightning"
       ],
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/triumphant/34/102.jpg"
     },
     {
       "name": "Haunter",
@@ -663,7 +699,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/35/102.jpg"
     },
     {
       "name": "Kangaskhan",
@@ -680,7 +717,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/36/102.jpg"
     },
     {
       "name": "Lairon",
@@ -697,7 +735,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/37/102.jpg"
     },
     {
       "name": "Lickilicky",
@@ -714,7 +753,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 110
+      "hp": 110,
+      "imageUrl": "https://www.serebii.net/card/triumphant/38/102.jpg"
     },
     {
       "name": "Luvdisc",
@@ -731,7 +771,8 @@
         "triumphant",
         "water"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/39/102.jpg"
     },
     {
       "name": "Machoke",
@@ -748,7 +789,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/40/102.jpg"
     },
     {
       "name": "Magby",
@@ -765,7 +807,8 @@
         "triumphant",
         "fire"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/41/102.jpg"
     },
     {
       "name": "Magmar",
@@ -782,7 +825,8 @@
         "triumphant",
         "fire"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/42/102.jpg"
     },
     {
       "name": "Magneton",
@@ -799,7 +843,8 @@
         "triumphant",
         "lightning"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/43/102.jpg"
     },
     {
       "name": "Marowak",
@@ -816,7 +861,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/44/102.jpg"
     },
     {
       "name": "Nidorina",
@@ -833,7 +879,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/45/102.jpg"
     },
     {
       "name": "Nidorino",
@@ -850,7 +897,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/46/102.jpg"
     },
     {
       "name": "Pidgeotto",
@@ -867,7 +915,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/47/102.jpg"
     },
     {
       "name": "Piloswine",
@@ -884,7 +933,8 @@
         "triumphant",
         "water"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/48/102.jpg"
     },
     {
       "name": "Porygon2",
@@ -901,7 +951,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/49/102.jpg"
     },
     {
       "name": "Tentacruel",
@@ -918,7 +969,8 @@
         "triumphant",
         "water"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/50/102.jpg"
     },
     {
       "name": "Unown",
@@ -935,7 +987,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/51/102.jpg"
     },
     {
       "name": "Wailmer",
@@ -952,7 +1005,8 @@
         "triumphant",
         "water"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/52/102.jpg"
     },
     {
       "name": "Weepinbell",
@@ -969,7 +1023,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 80
+      "hp": 80,
+      "imageUrl": "https://www.serebii.net/card/triumphant/53/102.jpg"
     },
     {
       "name": "Yanmega",
@@ -989,7 +1044,8 @@
         "triumphant",
         "bug type"
       ],
-      "hp": 90
+      "hp": 90,
+      "imageUrl": "https://www.serebii.net/card/triumphant/54/102.jpg"
     },
     {
       "name": "Aipom",
@@ -1006,7 +1062,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/55/102.jpg"
     },
     {
       "name": "Aron",
@@ -1023,7 +1080,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/56/102.jpg"
     },
     {
       "name": "Bellsprout",
@@ -1040,7 +1098,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/57/102.jpg"
     },
     {
       "name": "Bronzor",
@@ -1057,7 +1116,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/58/102.jpg"
     },
     {
       "name": "Carvanha",
@@ -1074,7 +1134,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/59/102.jpg"
     },
     {
       "name": "Cubone",
@@ -1091,7 +1152,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/triumphant/60/102.jpg"
     },
     {
       "name": "Diglett",
@@ -1108,7 +1170,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/61/102.jpg"
     },
     {
       "name": "Dratini",
@@ -1125,7 +1188,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/62/102.jpg"
     },
     {
       "name": "Gastly",
@@ -1142,7 +1206,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/63/102.jpg"
     },
     {
       "name": "Illumise",
@@ -1159,7 +1224,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/64/102.jpg"
     },
     {
       "name": "Kricketot",
@@ -1176,7 +1242,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/65/102.jpg"
     },
     {
       "name": "Lickitung",
@@ -1193,7 +1260,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/66/102.jpg"
     },
     {
       "name": "Machop",
@@ -1210,7 +1278,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/67/102.jpg"
     },
     {
       "name": "Magnemite",
@@ -1227,7 +1296,8 @@
         "triumphant",
         "lightning"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/68/102.jpg"
     },
     {
       "name": "Nidoran♀",
@@ -1244,7 +1314,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/69/102.jpg"
     },
     {
       "name": "Nidoran♂",
@@ -1261,7 +1332,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/70/102.jpg"
     },
     {
       "name": "Pidgey",
@@ -1278,7 +1350,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/71/102.jpg"
     },
     {
       "name": "Ponyta",
@@ -1295,7 +1368,8 @@
         "triumphant",
         "fire"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/72/102.jpg"
     },
     {
       "name": "Porygon",
@@ -1312,7 +1386,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/73/102.jpg"
     },
     {
       "name": "Psyduck",
@@ -1329,7 +1404,8 @@
         "triumphant",
         "water"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/74/102.jpg"
     },
     {
       "name": "Shuppet",
@@ -1346,7 +1422,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/75/102.jpg"
     },
     {
       "name": "Skorupi",
@@ -1363,7 +1440,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 60
+      "hp": 60,
+      "imageUrl": "https://www.serebii.net/card/triumphant/76/102.jpg"
     },
     {
       "name": "Spoink",
@@ -1380,7 +1458,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/77/102.jpg"
     },
     {
       "name": "Swablu",
@@ -1397,7 +1476,8 @@
         "HGSS",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/78/102.jpg"
     },
     {
       "name": "Swinub",
@@ -1414,7 +1494,8 @@
         "triumphant",
         "water"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/79/102.jpg"
     },
     {
       "name": "Tentacool",
@@ -1431,7 +1512,8 @@
         "triumphant",
         "water"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/80/102.jpg"
     },
     {
       "name": "Venonat",
@@ -1448,7 +1530,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/81/102.jpg"
     },
     {
       "name": "Volbeat",
@@ -1465,7 +1548,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/82/102.jpg"
     },
     {
       "name": "Voltorb",
@@ -1482,7 +1566,8 @@
         "triumphant",
         "lightning"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/83/102.jpg"
     },
     {
       "name": "Yanma",
@@ -1499,7 +1584,8 @@
         "grass",
         "triumphant"
       ],
-      "hp": 50
+      "hp": 50,
+      "imageUrl": "https://www.serebii.net/card/triumphant/84/102.jpg"
     },
     {
       "name": "Black Belt",
@@ -1512,7 +1598,8 @@
         "HeartGold SoulSilver",
         "trainer",
         "triumphant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/85/102.jpg"
     },
     {
       "name": "Indigo Plateau",
@@ -1525,7 +1612,8 @@
         "HeartGold SoulSilver",
         "trainer",
         "triumphant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/86/102.jpg"
     },
     {
       "name": "Junk Arm",
@@ -1538,7 +1626,8 @@
         "HeartGold SoulSilver",
         "trainer",
         "triumphant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/87/102.jpg"
     },
     {
       "name": "Seeker",
@@ -1551,7 +1640,8 @@
         "HeartGold SoulSilver",
         "trainer",
         "triumphant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/88/102.jpg"
     },
     {
       "name": "Twins",
@@ -1564,7 +1654,8 @@
         "HeartGold SoulSilver",
         "trainer",
         "triumphant"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/89/102.jpg"
     },
     {
       "name": "Rescue Energy",
@@ -1580,7 +1671,8 @@
         "HGSS",
         "triumphant",
         "energy"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/90/102.jpg"
     },
     {
       "name": "Absol",
@@ -1602,7 +1694,8 @@
         "dark type",
         "holographic",
         "super rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/91/102.jpg"
     },
     {
       "name": "Celebi",
@@ -1626,7 +1719,8 @@
         "holographic",
         "mythical",
         "super rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/92/102.jpg"
     },
     {
       "name": "Electrode",
@@ -1649,7 +1743,8 @@
         "holographic",
         "lightning",
         "super rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/93/102.jpg"
     },
     {
       "name": "Gengar",
@@ -1672,7 +1767,8 @@
         "triumphant",
         "holographic",
         "super rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/94/102.jpg"
     },
     {
       "name": "Machamp",
@@ -1695,7 +1791,8 @@
         "holographic",
         "superpower",
         "super rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/95/102.jpg"
     },
     {
       "name": "Magnezone",
@@ -1718,7 +1815,8 @@
         "holographic",
         "lightning",
         "super rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/96/102.jpg"
     },
     {
       "name": "Mew",
@@ -1741,7 +1839,8 @@
         "original mew",
         "mythical",
         "super rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/97/102.jpg"
     },
     {
       "name": "Yanmega",
@@ -1764,7 +1863,8 @@
         "triumphant",
         "holographic",
         "super rare"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/98/102.jpg"
     },
     {
       "name": "Darkrai & Cresselia LEGEND",
@@ -1788,7 +1888,8 @@
         "triumphant",
         "holographic",
         "legendary"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/99/102.jpg"
     },
     {
       "name": "Darkrai & Cresselia LEGEND",
@@ -1812,7 +1913,8 @@
         "triumphant",
         "holographic",
         "legendary"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/100/102.jpg"
     },
     {
       "name": "Palkia & Dialga LEGEND",
@@ -1837,7 +1939,8 @@
         "holographic",
         "legendary",
         "watermetal"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/101/102.jpg"
     },
     {
       "name": "Palkia & Dialga LEGEND",
@@ -1862,7 +1965,8 @@
         "holographic",
         "legendary",
         "watermetal"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/102/102.jpg"
     },
     {
       "name": "Alph Lithograph",
@@ -1881,7 +1985,8 @@
         "triumphant",
         "ruins of alph",
         "fourth lithograph"
-      ]
+      ],
+      "imageUrl": "https://www.serebii.net/card/triumphant/FOUR.jpg"
     }
   ]
 }

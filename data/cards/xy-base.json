@@ -3,7 +3,9 @@
     "name": "XY",
     "description": "XY base set featuring 146 cards introducing Mega Evolution Pokemon from the Kalos region",
     "releaseDate": "February 5, 2014",
-    "totalCards": 146
+    "totalCards": 146,
+    "setCode": "XY",
+    "logo": "https://www.serebii.net/card/logo/xybase.png"
   },
   "cards": [
     {
@@ -21,7 +23,8 @@
         "kanto",
         "starter"
       ],
-      "image_url": "https://www.serebii.net/card/xy/1.jpg"
+      "image_url": "https://www.serebii.net/card/xy/1.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/001.jpg"
     },
     {
       "number": "2/146",
@@ -40,7 +43,8 @@
         "kanto",
         "starter"
       ],
-      "image_url": "https://www.serebii.net/card/xy/2.jpg"
+      "image_url": "https://www.serebii.net/card/xy/2.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/002.jpg"
     },
     {
       "number": "3/146",
@@ -54,7 +58,8 @@
         "bug",
         "kanto"
       ],
-      "image_url": "https://www.serebii.net/card/xy/3.jpg"
+      "image_url": "https://www.serebii.net/card/xy/3.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/003.jpg"
     },
     {
       "number": "4/146",
@@ -69,7 +74,8 @@
         "kanto",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/4.jpg"
+      "image_url": "https://www.serebii.net/card/xy/4.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/004.jpg"
     },
     {
       "number": "5/146",
@@ -85,7 +91,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/5.jpg"
+      "image_url": "https://www.serebii.net/card/xy/5.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/005.jpg"
     },
     {
       "number": "6/146",
@@ -99,7 +106,8 @@
         "bug",
         "johto"
       ],
-      "image_url": "https://www.serebii.net/card/xy/6.jpg"
+      "image_url": "https://www.serebii.net/card/xy/6.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/006.jpg"
     },
     {
       "number": "7/146",
@@ -114,7 +122,8 @@
         "johto",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/7.jpg"
+      "image_url": "https://www.serebii.net/card/xy/7.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/007.jpg"
     },
     {
       "number": "8/146",
@@ -128,7 +137,8 @@
         "bug",
         "hoenn"
       ],
-      "image_url": "https://www.serebii.net/card/xy/8.jpg"
+      "image_url": "https://www.serebii.net/card/xy/8.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/008.jpg"
     },
     {
       "number": "9/146",
@@ -142,7 +152,8 @@
         "bug",
         "hoenn"
       ],
-      "image_url": "https://www.serebii.net/card/xy/9.jpg"
+      "image_url": "https://www.serebii.net/card/xy/9.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/009.jpg"
     },
     {
       "number": "10/146",
@@ -156,7 +167,8 @@
         "unova",
         "monkey"
       ],
-      "image_url": "https://www.serebii.net/card/xy/10.jpg"
+      "image_url": "https://www.serebii.net/card/xy/10.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/010.jpg"
     },
     {
       "number": "11/146",
@@ -171,7 +183,8 @@
         "monkey",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/11.jpg"
+      "image_url": "https://www.serebii.net/card/xy/11.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/011.jpg"
     },
     {
       "number": "12/146",
@@ -185,7 +198,8 @@
         "starter",
         "kalos"
       ],
-      "image_url": "https://www.serebii.net/card/xy/12.jpg"
+      "image_url": "https://www.serebii.net/card/xy/12.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/012.jpg"
     },
     {
       "number": "13/146",
@@ -200,7 +214,8 @@
         "kalos",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/13.jpg"
+      "image_url": "https://www.serebii.net/card/xy/13.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/013.jpg"
     },
     {
       "number": "14/146",
@@ -216,7 +231,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/14.jpg"
+      "image_url": "https://www.serebii.net/card/xy/14.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/014.jpg"
     },
     {
       "number": "15/146",
@@ -230,7 +246,8 @@
         "bug",
         "kalos"
       ],
-      "image_url": "https://www.serebii.net/card/xy/15.jpg"
+      "image_url": "https://www.serebii.net/card/xy/15.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/015.jpg"
     },
     {
       "number": "16/146",
@@ -245,7 +262,8 @@
         "kalos",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/16.jpg"
+      "image_url": "https://www.serebii.net/card/xy/16.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/016.jpg"
     },
     {
       "number": "17/146",
@@ -264,7 +282,8 @@
         "meadow",
         "high-plains"
       ],
-      "image_url": "https://www.serebii.net/card/xy/17.jpg"
+      "image_url": "https://www.serebii.net/card/xy/17.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/017.jpg"
     },
     {
       "number": "18/146",
@@ -278,7 +297,8 @@
         "kalos",
         "goat"
       ],
-      "image_url": "https://www.serebii.net/card/xy/18.jpg"
+      "image_url": "https://www.serebii.net/card/xy/18.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/018.jpg"
     },
     {
       "number": "19/146",
@@ -293,7 +313,8 @@
         "goat",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/19.jpg"
+      "image_url": "https://www.serebii.net/card/xy/19.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/019.jpg"
     },
     {
       "number": "20/146",
@@ -307,7 +328,8 @@
         "johto",
         "lava"
       ],
-      "image_url": "https://www.serebii.net/card/xy/20.jpg"
+      "image_url": "https://www.serebii.net/card/xy/20.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/020.jpg"
     },
     {
       "number": "21/146",
@@ -322,7 +344,8 @@
         "lava",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/21.jpg"
+      "image_url": "https://www.serebii.net/card/xy/21.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/021.jpg"
     },
     {
       "number": "22/146",
@@ -336,7 +359,8 @@
         "unova",
         "monkey"
       ],
-      "image_url": "https://www.serebii.net/card/xy/22.jpg"
+      "image_url": "https://www.serebii.net/card/xy/22.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/022.jpg"
     },
     {
       "number": "23/146",
@@ -351,7 +375,8 @@
         "monkey",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/23.jpg"
+      "image_url": "https://www.serebii.net/card/xy/23.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/023.jpg"
     },
     {
       "number": "24/146",
@@ -366,7 +391,8 @@
         "kalos",
         "fox"
       ],
-      "image_url": "https://www.serebii.net/card/xy/24.jpg"
+      "image_url": "https://www.serebii.net/card/xy/24.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/024.jpg"
     },
     {
       "number": "25/146",
@@ -382,7 +408,8 @@
         "fox",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/25.jpg"
+      "image_url": "https://www.serebii.net/card/xy/25.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/025.jpg"
     },
     {
       "number": "26/146",
@@ -400,7 +427,8 @@
         "stage2",
         "psychic"
       ],
-      "image_url": "https://www.serebii.net/card/xy/26.jpg"
+      "image_url": "https://www.serebii.net/card/xy/26.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/026.jpg"
     },
     {
       "number": "27/146",
@@ -416,7 +444,8 @@
         "flying",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/27.jpg"
+      "image_url": "https://www.serebii.net/card/xy/27.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/027.jpg"
     },
     {
       "number": "28/146",
@@ -433,7 +462,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/28.jpg"
+      "image_url": "https://www.serebii.net/card/xy/28.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/028.jpg"
     },
     {
       "number": "29/146",
@@ -450,7 +480,8 @@
         "kanto",
         "starter"
       ],
-      "image_url": "https://www.serebii.net/card/xy/29.jpg"
+      "image_url": "https://www.serebii.net/card/xy/29.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/029.jpg"
     },
     {
       "number": "30/146",
@@ -469,7 +500,8 @@
         "kanto",
         "starter"
       ],
-      "image_url": "https://www.serebii.net/card/xy/30.jpg"
+      "image_url": "https://www.serebii.net/card/xy/30.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/030.jpg"
     },
     {
       "number": "31/146",
@@ -483,7 +515,8 @@
         "kanto",
         "shell"
       ],
-      "image_url": "https://www.serebii.net/card/xy/31.jpg"
+      "image_url": "https://www.serebii.net/card/xy/31.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/031.jpg"
     },
     {
       "number": "32/146",
@@ -498,7 +531,8 @@
         "shell",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/32.jpg"
+      "image_url": "https://www.serebii.net/card/xy/32.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/032.jpg"
     },
     {
       "number": "33/146",
@@ -512,7 +546,8 @@
         "kanto",
         "star"
       ],
-      "image_url": "https://www.serebii.net/card/xy/33.jpg"
+      "image_url": "https://www.serebii.net/card/xy/33.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/033.jpg"
     },
     {
       "number": "34/146",
@@ -527,7 +562,8 @@
         "star",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/34.jpg"
+      "image_url": "https://www.serebii.net/card/xy/34.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/034.jpg"
     },
     {
       "number": "35/146",
@@ -542,7 +578,8 @@
         "transport",
         "ice"
       ],
-      "image_url": "https://www.serebii.net/card/xy/35.jpg"
+      "image_url": "https://www.serebii.net/card/xy/35.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/035.jpg"
     },
     {
       "number": "36/146",
@@ -556,7 +593,8 @@
         "johto",
         "coral"
       ],
-      "image_url": "https://www.serebii.net/card/xy/36.jpg"
+      "image_url": "https://www.serebii.net/card/xy/36.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/036.jpg"
     },
     {
       "number": "37/146",
@@ -570,7 +608,8 @@
         "unova",
         "monkey"
       ],
-      "image_url": "https://www.serebii.net/card/xy/37.jpg"
+      "image_url": "https://www.serebii.net/card/xy/37.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/037.jpg"
     },
     {
       "number": "38/146",
@@ -585,7 +624,8 @@
         "monkey",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/38.jpg"
+      "image_url": "https://www.serebii.net/card/xy/38.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/038.jpg"
     },
     {
       "number": "39/146",
@@ -600,7 +640,8 @@
         "kalos",
         "frog"
       ],
-      "image_url": "https://www.serebii.net/card/xy/39.jpg"
+      "image_url": "https://www.serebii.net/card/xy/39.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/039.jpg"
     },
     {
       "number": "40/146",
@@ -616,7 +657,8 @@
         "frog",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/40.jpg"
+      "image_url": "https://www.serebii.net/card/xy/40.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/040.jpg"
     },
     {
       "number": "41/146",
@@ -634,7 +676,8 @@
         "stage2",
         "ninja"
       ],
-      "image_url": "https://www.serebii.net/card/xy/41.jpg"
+      "image_url": "https://www.serebii.net/card/xy/41.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/041.jpg"
     },
     {
       "number": "42/146",
@@ -649,7 +692,8 @@
         "kanto",
         "mascot"
       ],
-      "image_url": "https://www.serebii.net/card/xy/42.jpg"
+      "image_url": "https://www.serebii.net/card/xy/42.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/042.jpg"
     },
     {
       "number": "43/146",
@@ -664,7 +708,8 @@
         "kanto",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/43.jpg"
+      "image_url": "https://www.serebii.net/card/xy/43.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/043.jpg"
     },
     {
       "number": "44/146",
@@ -679,7 +724,8 @@
         "kanto",
         "ball"
       ],
-      "image_url": "https://www.serebii.net/card/xy/44.jpg"
+      "image_url": "https://www.serebii.net/card/xy/44.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/044.jpg"
     },
     {
       "number": "45/146",
@@ -695,7 +741,8 @@
         "ball",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/45.jpg"
+      "image_url": "https://www.serebii.net/card/xy/45.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/045.jpg"
     },
     {
       "number": "46/146",
@@ -713,7 +760,8 @@
         "unova",
         "flying"
       ],
-      "image_url": "https://www.serebii.net/card/xy/46.jpg"
+      "image_url": "https://www.serebii.net/card/xy/46.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/046.jpg"
     },
     {
       "number": "47/146",
@@ -728,7 +776,8 @@
         "kanto",
         "snake"
       ],
-      "image_url": "https://www.serebii.net/card/xy/47.jpg"
+      "image_url": "https://www.serebii.net/card/xy/47.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/047.jpg"
     },
     {
       "number": "48/146",
@@ -744,7 +793,8 @@
         "snake",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/48.jpg"
+      "image_url": "https://www.serebii.net/card/xy/48.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/048.jpg"
     },
     {
       "number": "49/146",
@@ -758,7 +808,8 @@
         "hoenn",
         "pig"
       ],
-      "image_url": "https://www.serebii.net/card/xy/49.jpg"
+      "image_url": "https://www.serebii.net/card/xy/49.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/049.jpg"
     },
     {
       "number": "50/146",
@@ -773,7 +824,8 @@
         "pig",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/50.jpg"
+      "image_url": "https://www.serebii.net/card/xy/50.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/050.jpg"
     },
     {
       "number": "51/146",
@@ -788,7 +840,8 @@
         "bug",
         "unova"
       ],
-      "image_url": "https://www.serebii.net/card/xy/51.jpg"
+      "image_url": "https://www.serebii.net/card/xy/51.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/051.jpg"
     },
     {
       "number": "52/146",
@@ -804,7 +857,8 @@
         "unova",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/52.jpg"
+      "image_url": "https://www.serebii.net/card/xy/52.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/052.jpg"
     },
     {
       "number": "53/146",
@@ -821,7 +875,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/53.jpg"
+      "image_url": "https://www.serebii.net/card/xy/53.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/053.jpg"
     },
     {
       "number": "54/146",
@@ -837,7 +892,8 @@
         "kalos",
         "tree"
       ],
-      "image_url": "https://www.serebii.net/card/xy/54.jpg"
+      "image_url": "https://www.serebii.net/card/xy/54.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/054.jpg"
     },
     {
       "number": "55/146",
@@ -854,7 +910,8 @@
         "tree",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/55.jpg"
+      "image_url": "https://www.serebii.net/card/xy/55.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/055.jpg"
     },
     {
       "number": "56/146",
@@ -870,7 +927,8 @@
         "kalos",
         "pumpkin"
       ],
-      "image_url": "https://www.serebii.net/card/xy/56.jpg"
+      "image_url": "https://www.serebii.net/card/xy/56.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/056.jpg"
     },
     {
       "number": "57/146",
@@ -887,7 +945,8 @@
         "pumpkin",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/57.jpg"
+      "image_url": "https://www.serebii.net/card/xy/57.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/057.jpg"
     },
     {
       "number": "58/146",
@@ -902,7 +961,8 @@
         "kanto",
         "mole"
       ],
-      "image_url": "https://www.serebii.net/card/xy/58.jpg"
+      "image_url": "https://www.serebii.net/card/xy/58.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/058.jpg"
     },
     {
       "number": "59/146",
@@ -918,7 +978,8 @@
         "mole",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/59.jpg"
+      "image_url": "https://www.serebii.net/card/xy/59.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/059.jpg"
     },
     {
       "number": "60/146",
@@ -933,7 +994,8 @@
         "kanto",
         "rhino"
       ],
-      "image_url": "https://www.serebii.net/card/xy/60.jpg"
+      "image_url": "https://www.serebii.net/card/xy/60.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/060.jpg"
     },
     {
       "number": "61/146",
@@ -949,7 +1011,8 @@
         "rhino",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/61.jpg"
+      "image_url": "https://www.serebii.net/card/xy/61.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/061.jpg"
     },
     {
       "number": "62/146",
@@ -966,7 +1029,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/62.jpg"
+      "image_url": "https://www.serebii.net/card/xy/62.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/062.jpg"
     },
     {
       "number": "63/146",
@@ -982,7 +1046,8 @@
         "moon",
         "rock"
       ],
-      "image_url": "https://www.serebii.net/card/xy/63.jpg"
+      "image_url": "https://www.serebii.net/card/xy/63.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/063.jpg"
     },
     {
       "number": "64/146",
@@ -998,7 +1063,8 @@
         "sun",
         "rock"
       ],
-      "image_url": "https://www.serebii.net/card/xy/64.jpg"
+      "image_url": "https://www.serebii.net/card/xy/64.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/064.jpg"
     },
     {
       "number": "65/146",
@@ -1012,7 +1078,8 @@
         "unova",
         "construction"
       ],
-      "image_url": "https://www.serebii.net/card/xy/65.jpg"
+      "image_url": "https://www.serebii.net/card/xy/65.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/065.jpg"
     },
     {
       "number": "66/146",
@@ -1027,7 +1094,8 @@
         "construction",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/66.jpg"
+      "image_url": "https://www.serebii.net/card/xy/66.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/066.jpg"
     },
     {
       "number": "67/146",
@@ -1043,7 +1111,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/67.jpg"
+      "image_url": "https://www.serebii.net/card/xy/67.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/067.jpg"
     },
     {
       "number": "68/146",
@@ -1058,7 +1127,8 @@
         "ghost",
         "hoenn"
       ],
-      "image_url": "https://www.serebii.net/card/xy/68.jpg"
+      "image_url": "https://www.serebii.net/card/xy/68.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/068.jpg"
     },
     {
       "number": "69/146",
@@ -1074,7 +1144,8 @@
         "unova",
         "crocodile"
       ],
-      "image_url": "https://www.serebii.net/card/xy/69.jpg"
+      "image_url": "https://www.serebii.net/card/xy/69.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/069.jpg"
     },
     {
       "number": "70/146",
@@ -1091,7 +1162,8 @@
         "crocodile",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/70.jpg"
+      "image_url": "https://www.serebii.net/card/xy/70.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/070.jpg"
     },
     {
       "number": "71/146",
@@ -1109,7 +1181,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/71.jpg"
+      "image_url": "https://www.serebii.net/card/xy/71.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/071.jpg"
     },
     {
       "number": "72/146",
@@ -1124,7 +1197,8 @@
         "unova",
         "illusion"
       ],
-      "image_url": "https://www.serebii.net/card/xy/72.jpg"
+      "image_url": "https://www.serebii.net/card/xy/72.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/072.jpg"
     },
     {
       "number": "73/146",
@@ -1140,7 +1214,8 @@
         "illusion",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/73.jpg"
+      "image_url": "https://www.serebii.net/card/xy/73.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/073.jpg"
     },
     {
       "number": "74/146",
@@ -1156,7 +1231,8 @@
         "kalos",
         "squid"
       ],
-      "image_url": "https://www.serebii.net/card/xy/74.jpg"
+      "image_url": "https://www.serebii.net/card/xy/74.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/074.jpg"
     },
     {
       "number": "75/146",
@@ -1172,7 +1248,8 @@
         "kalos",
         "squid"
       ],
-      "image_url": "https://www.serebii.net/card/xy/75.jpg"
+      "image_url": "https://www.serebii.net/card/xy/75.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/075.jpg"
     },
     {
       "number": "76/146",
@@ -1189,7 +1266,8 @@
         "squid",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/76.jpg"
+      "image_url": "https://www.serebii.net/card/xy/76.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/076.jpg"
     },
     {
       "number": "77/146",
@@ -1206,7 +1284,8 @@
         "squid",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/77.jpg"
+      "image_url": "https://www.serebii.net/card/xy/77.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/077.jpg"
     },
     {
       "number": "78/146",
@@ -1223,7 +1302,8 @@
         "legendary",
         "destruction"
       ],
-      "image_url": "https://www.serebii.net/card/xy/78.jpg"
+      "image_url": "https://www.serebii.net/card/xy/78.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/078.jpg"
     },
     {
       "number": "79/146",
@@ -1243,7 +1323,8 @@
         "pokemon-ex",
         "powerful"
       ],
-      "image_url": "https://www.serebii.net/card/xy/79.jpg"
+      "image_url": "https://www.serebii.net/card/xy/79.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/079.jpg"
     },
     {
       "number": "80/146",
@@ -1261,7 +1342,8 @@
         "pokemon-ex",
         "powerful"
       ],
-      "image_url": "https://www.serebii.net/card/xy/80.jpg"
+      "image_url": "https://www.serebii.net/card/xy/80.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/080.jpg"
     },
     {
       "number": "81/146",
@@ -1277,7 +1359,8 @@
         "unova",
         "blade"
       ],
-      "image_url": "https://www.serebii.net/card/xy/81.jpg"
+      "image_url": "https://www.serebii.net/card/xy/81.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/081.jpg"
     },
     {
       "number": "82/146",
@@ -1294,7 +1377,8 @@
         "blade",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/82.jpg"
+      "image_url": "https://www.serebii.net/card/xy/82.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/082.jpg"
     },
     {
       "number": "83/146",
@@ -1310,7 +1394,8 @@
         "kalos",
         "sword"
       ],
-      "image_url": "https://www.serebii.net/card/xy/83.jpg"
+      "image_url": "https://www.serebii.net/card/xy/83.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/083.jpg"
     },
     {
       "number": "84/146",
@@ -1327,7 +1412,8 @@
         "sword",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/84.jpg"
+      "image_url": "https://www.serebii.net/card/xy/84.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/084.jpg"
     },
     {
       "number": "85/146",
@@ -1345,7 +1431,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/85.jpg"
+      "image_url": "https://www.serebii.net/card/xy/85.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/085.jpg"
     },
     {
       "number": "86/146",
@@ -1363,7 +1450,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/86.jpg"
+      "image_url": "https://www.serebii.net/card/xy/86.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/086.jpg"
     },
     {
       "number": "87/146",
@@ -1378,7 +1466,8 @@
         "kanto",
         "balloon"
       ],
-      "image_url": "https://www.serebii.net/card/xy/87.jpg"
+      "image_url": "https://www.serebii.net/card/xy/87.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/087.jpg"
     },
     {
       "number": "88/146",
@@ -1393,7 +1482,8 @@
         "kanto",
         "balloon"
       ],
-      "image_url": "https://www.serebii.net/card/xy/88.jpg"
+      "image_url": "https://www.serebii.net/card/xy/88.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/088.jpg"
     },
     {
       "number": "89/146",
@@ -1409,7 +1499,8 @@
         "balloon",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/89.jpg"
+      "image_url": "https://www.serebii.net/card/xy/89.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/089.jpg"
     },
     {
       "number": "90/146",
@@ -1425,7 +1516,8 @@
         "balloon",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/90.jpg"
+      "image_url": "https://www.serebii.net/card/xy/90.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/090.jpg"
     },
     {
       "number": "91/146",
@@ -1440,7 +1532,8 @@
         "kanto",
         "mime"
       ],
-      "image_url": "https://www.serebii.net/card/xy/91.jpg"
+      "image_url": "https://www.serebii.net/card/xy/91.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/091.jpg"
     },
     {
       "number": "92/146",
@@ -1454,7 +1547,8 @@
         "kalos",
         "perfume"
       ],
-      "image_url": "https://www.serebii.net/card/xy/92.jpg"
+      "image_url": "https://www.serebii.net/card/xy/92.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/092.jpg"
     },
     {
       "number": "93/146",
@@ -1469,7 +1563,8 @@
         "perfume",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/93.jpg"
+      "image_url": "https://www.serebii.net/card/xy/93.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/093.jpg"
     },
     {
       "number": "94/146",
@@ -1483,7 +1578,8 @@
         "kalos",
         "cotton"
       ],
-      "image_url": "https://www.serebii.net/card/xy/94.jpg"
+      "image_url": "https://www.serebii.net/card/xy/94.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/094.jpg"
     },
     {
       "number": "95/146",
@@ -1498,7 +1594,8 @@
         "cotton",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/95.jpg"
+      "image_url": "https://www.serebii.net/card/xy/95.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/095.jpg"
     },
     {
       "number": "96/146",
@@ -1513,7 +1610,8 @@
         "legendary",
         "life"
       ],
-      "image_url": "https://www.serebii.net/card/xy/96.jpg"
+      "image_url": "https://www.serebii.net/card/xy/96.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/096.jpg"
     },
     {
       "number": "97/146",
@@ -1531,7 +1629,8 @@
         "pokemon-ex",
         "powerful"
       ],
-      "image_url": "https://www.serebii.net/card/xy/97.jpg"
+      "image_url": "https://www.serebii.net/card/xy/97.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/097.jpg"
     },
     {
       "number": "98/146",
@@ -1547,7 +1646,8 @@
         "kanto",
         "bird"
       ],
-      "image_url": "https://www.serebii.net/card/xy/98.jpg"
+      "image_url": "https://www.serebii.net/card/xy/98.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/098.jpg"
     },
     {
       "number": "99/146",
@@ -1564,7 +1664,8 @@
         "bird",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/99.jpg"
+      "image_url": "https://www.serebii.net/card/xy/99.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/099.jpg"
     },
     {
       "number": "100/146",
@@ -1579,7 +1680,8 @@
         "kanto",
         "bull"
       ],
-      "image_url": "https://www.serebii.net/card/xy/100.jpg"
+      "image_url": "https://www.serebii.net/card/xy/100.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/100.jpg"
     },
     {
       "number": "101/146",
@@ -1594,7 +1696,8 @@
         "johto",
         "snake"
       ],
-      "image_url": "https://www.serebii.net/card/xy/101.jpg"
+      "image_url": "https://www.serebii.net/card/xy/101.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/101.jpg"
     },
     {
       "number": "102/146",
@@ -1610,7 +1713,8 @@
         "hoenn",
         "bird"
       ],
-      "image_url": "https://www.serebii.net/card/xy/102.jpg"
+      "image_url": "https://www.serebii.net/card/xy/102.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/102.jpg"
     },
     {
       "number": "103/146",
@@ -1627,7 +1731,8 @@
         "bird",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/103.jpg"
+      "image_url": "https://www.serebii.net/card/xy/103.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/103.jpg"
     },
     {
       "number": "104/146",
@@ -1642,7 +1747,8 @@
         "hoenn",
         "cat"
       ],
-      "image_url": "https://www.serebii.net/card/xy/104.jpg"
+      "image_url": "https://www.serebii.net/card/xy/104.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/104.jpg"
     },
     {
       "number": "105/146",
@@ -1658,7 +1764,8 @@
         "cat",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/105.jpg"
+      "image_url": "https://www.serebii.net/card/xy/105.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/105.jpg"
     },
     {
       "number": "106/146",
@@ -1673,7 +1780,8 @@
         "sinnoh",
         "beaver"
       ],
-      "image_url": "https://www.serebii.net/card/xy/106.jpg"
+      "image_url": "https://www.serebii.net/card/xy/106.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/106.jpg"
     },
     {
       "number": "107/146",
@@ -1689,7 +1797,8 @@
         "beaver",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/107.jpg"
+      "image_url": "https://www.serebii.net/card/xy/107.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/107.jpg"
     },
     {
       "number": "108/146",
@@ -1704,7 +1813,8 @@
         "unova",
         "puppy"
       ],
-      "image_url": "https://www.serebii.net/card/xy/108.jpg"
+      "image_url": "https://www.serebii.net/card/xy/108.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/108.jpg"
     },
     {
       "number": "109/146",
@@ -1720,7 +1830,8 @@
         "puppy",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/109.jpg"
+      "image_url": "https://www.serebii.net/card/xy/109.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/109.jpg"
     },
     {
       "number": "110/146",
@@ -1737,7 +1848,8 @@
         "evolution",
         "stage2"
       ],
-      "image_url": "https://www.serebii.net/card/xy/110.jpg"
+      "image_url": "https://www.serebii.net/card/xy/110.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/110.jpg"
     },
     {
       "number": "111/146",
@@ -1752,7 +1864,8 @@
         "kalos",
         "rabbit"
       ],
-      "image_url": "https://www.serebii.net/card/xy/111.jpg"
+      "image_url": "https://www.serebii.net/card/xy/111.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/111.jpg"
     },
     {
       "number": "112/146",
@@ -1768,7 +1881,8 @@
         "rabbit",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/112.jpg"
+      "image_url": "https://www.serebii.net/card/xy/112.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/112.jpg"
     },
     {
       "number": "113/146",
@@ -1784,7 +1898,8 @@
         "kalos",
         "bird"
       ],
-      "image_url": "https://www.serebii.net/card/xy/113.jpg"
+      "image_url": "https://www.serebii.net/card/xy/113.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/113.jpg"
     },
     {
       "number": "114/146",
@@ -1799,7 +1914,8 @@
         "kalos",
         "poodle"
       ],
-      "image_url": "https://www.serebii.net/card/xy/114.jpg"
+      "image_url": "https://www.serebii.net/card/xy/114.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/114.jpg"
     },
     {
       "number": "115/146",
@@ -1813,7 +1929,8 @@
         "kalos",
         "draw"
       ],
-      "image_url": "https://www.serebii.net/card/xy/115.jpg"
+      "image_url": "https://www.serebii.net/card/xy/115.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/115.jpg"
     },
     {
       "number": "116/146",
@@ -1826,7 +1943,8 @@
         "item",
         "evolution"
       ],
-      "image_url": "https://www.serebii.net/card/xy/116.jpg"
+      "image_url": "https://www.serebii.net/card/xy/116.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/116.jpg"
     },
     {
       "number": "117/146",
@@ -1840,7 +1958,8 @@
         "fairy",
         "energy"
       ],
-      "image_url": "https://www.serebii.net/card/xy/117.jpg"
+      "image_url": "https://www.serebii.net/card/xy/117.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/117.jpg"
     },
     {
       "number": "118/146",
@@ -1854,7 +1973,8 @@
         "search",
         "pokemon"
       ],
-      "image_url": "https://www.serebii.net/card/xy/118.jpg"
+      "image_url": "https://www.serebii.net/card/xy/118.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/118.jpg"
     },
     {
       "number": "119/146",
@@ -1868,7 +1988,8 @@
         "tool",
         "damage"
       ],
-      "image_url": "https://www.serebii.net/card/xy/119.jpg"
+      "image_url": "https://www.serebii.net/card/xy/119.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/119.jpg"
     },
     {
       "number": "120/146",
@@ -1882,7 +2003,8 @@
         "revive",
         "pokemon"
       ],
-      "image_url": "https://www.serebii.net/card/xy/120.jpg"
+      "image_url": "https://www.serebii.net/card/xy/120.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/120.jpg"
     },
     {
       "number": "121/146",
@@ -1896,7 +2018,8 @@
         "tool",
         "damage"
       ],
-      "image_url": "https://www.serebii.net/card/xy/121.jpg"
+      "image_url": "https://www.serebii.net/card/xy/121.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/121.jpg"
     },
     {
       "number": "122/146",
@@ -1911,7 +2034,8 @@
         "draw",
         "discard"
       ],
-      "image_url": "https://www.serebii.net/card/xy/122.jpg"
+      "image_url": "https://www.serebii.net/card/xy/122.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/122.jpg"
     },
     {
       "number": "123/146",
@@ -1925,7 +2049,8 @@
         "search",
         "energy"
       ],
-      "image_url": "https://www.serebii.net/card/xy/123.jpg"
+      "image_url": "https://www.serebii.net/card/xy/123.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/123.jpg"
     },
     {
       "number": "124/146",
@@ -1939,7 +2064,8 @@
         "disrupt",
         "hand"
       ],
-      "image_url": "https://www.serebii.net/card/xy/124.jpg"
+      "image_url": "https://www.serebii.net/card/xy/124.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/124.jpg"
     },
     {
       "number": "125/146",
@@ -1953,7 +2079,8 @@
         "draw",
         "kalos"
       ],
-      "image_url": "https://www.serebii.net/card/xy/125.jpg"
+      "image_url": "https://www.serebii.net/card/xy/125.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/125.jpg"
     },
     {
       "number": "126/146",
@@ -1967,7 +2094,8 @@
         "darkness",
         "energy"
       ],
-      "image_url": "https://www.serebii.net/card/xy/126.jpg"
+      "image_url": "https://www.serebii.net/card/xy/126.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/126.jpg"
     },
     {
       "number": "127/146",
@@ -1981,7 +2109,8 @@
         "kalos",
         "draw"
       ],
-      "image_url": "https://www.serebii.net/card/xy/127.jpg"
+      "image_url": "https://www.serebii.net/card/xy/127.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/127.jpg"
     },
     {
       "number": "128/146",
@@ -1995,7 +2124,8 @@
         "heal",
         "pokemon"
       ],
-      "image_url": "https://www.serebii.net/card/xy/128.jpg"
+      "image_url": "https://www.serebii.net/card/xy/128.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/128.jpg"
     },
     {
       "number": "129/146",
@@ -2010,7 +2140,8 @@
         "discard",
         "energy"
       ],
-      "image_url": "https://www.serebii.net/card/xy/129.jpg"
+      "image_url": "https://www.serebii.net/card/xy/129.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/129.jpg"
     },
     {
       "number": "130/146",
@@ -2024,7 +2155,8 @@
         "double",
         "colorless"
       ],
-      "image_url": "https://www.serebii.net/card/xy/130.jpg"
+      "image_url": "https://www.serebii.net/card/xy/130.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/130.jpg"
     },
     {
       "number": "131/146",
@@ -2038,7 +2170,8 @@
         "rainbow",
         "any"
       ],
-      "image_url": "https://www.serebii.net/card/xy/131.jpg"
+      "image_url": "https://www.serebii.net/card/xy/131.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/131.jpg"
     },
     {
       "number": "132/146",
@@ -2051,7 +2184,8 @@
         "basic",
         "grass"
       ],
-      "image_url": "https://www.serebii.net/card/xy/132.jpg"
+      "image_url": "https://www.serebii.net/card/xy/132.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/132.jpg"
     },
     {
       "number": "133/146",
@@ -2064,7 +2198,8 @@
         "basic",
         "fire"
       ],
-      "image_url": "https://www.serebii.net/card/xy/133.jpg"
+      "image_url": "https://www.serebii.net/card/xy/133.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/133.jpg"
     },
     {
       "number": "134/146",
@@ -2077,7 +2212,8 @@
         "basic",
         "water"
       ],
-      "image_url": "https://www.serebii.net/card/xy/134.jpg"
+      "image_url": "https://www.serebii.net/card/xy/134.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/134.jpg"
     },
     {
       "number": "135/146",
@@ -2091,7 +2227,8 @@
         "lightning",
         "electric"
       ],
-      "image_url": "https://www.serebii.net/card/xy/135.jpg"
+      "image_url": "https://www.serebii.net/card/xy/135.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/135.jpg"
     },
     {
       "number": "136/146",
@@ -2104,7 +2241,8 @@
         "basic",
         "psychic"
       ],
-      "image_url": "https://www.serebii.net/card/xy/136.jpg"
+      "image_url": "https://www.serebii.net/card/xy/136.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/136.jpg"
     },
     {
       "number": "137/146",
@@ -2117,7 +2255,8 @@
         "basic",
         "fighting"
       ],
-      "image_url": "https://www.serebii.net/card/xy/137.jpg"
+      "image_url": "https://www.serebii.net/card/xy/137.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/137.jpg"
     },
     {
       "number": "138/146",
@@ -2131,7 +2270,8 @@
         "darkness",
         "dark"
       ],
-      "image_url": "https://www.serebii.net/card/xy/138.jpg"
+      "image_url": "https://www.serebii.net/card/xy/138.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/138.jpg"
     },
     {
       "number": "139/146",
@@ -2145,7 +2285,8 @@
         "metal",
         "steel"
       ],
-      "image_url": "https://www.serebii.net/card/xy/139.jpg"
+      "image_url": "https://www.serebii.net/card/xy/139.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/139.jpg"
     },
     {
       "number": "140/146",
@@ -2158,7 +2299,8 @@
         "basic",
         "fairy"
       ],
-      "image_url": "https://www.serebii.net/card/xy/140.jpg"
+      "image_url": "https://www.serebii.net/card/xy/140.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/140.jpg"
     },
     {
       "number": "141/146",
@@ -2176,7 +2318,8 @@
         "starter",
         "secret"
       ],
-      "image_url": "https://www.serebii.net/card/xy/141.jpg"
+      "image_url": "https://www.serebii.net/card/xy/141.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/141.jpg"
     },
     {
       "number": "142/146",
@@ -2194,7 +2337,8 @@
         "starter",
         "secret"
       ],
-      "image_url": "https://www.serebii.net/card/xy/142.jpg"
+      "image_url": "https://www.serebii.net/card/xy/142.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/142.jpg"
     },
     {
       "number": "143/146",
@@ -2213,7 +2357,8 @@
         "flying",
         "secret"
       ],
-      "image_url": "https://www.serebii.net/card/xy/143.jpg"
+      "image_url": "https://www.serebii.net/card/xy/143.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/143.jpg"
     },
     {
       "number": "144/146",
@@ -2234,7 +2379,8 @@
         "powerful",
         "secret"
       ],
-      "image_url": "https://www.serebii.net/card/xy/144.jpg"
+      "image_url": "https://www.serebii.net/card/xy/144.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/144.jpg"
     },
     {
       "number": "145/146",
@@ -2253,7 +2399,8 @@
         "powerful",
         "secret"
       ],
-      "image_url": "https://www.serebii.net/card/xy/145.jpg"
+      "image_url": "https://www.serebii.net/card/xy/145.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/145.jpg"
     },
     {
       "number": "146/146",
@@ -2272,7 +2419,8 @@
         "powerful",
         "secret"
       ],
-      "image_url": "https://www.serebii.net/card/xy/146.jpg"
+      "image_url": "https://www.serebii.net/card/xy/146.jpg",
+      "imageUrl": "https://www.serebii.net/card/xybase/146.jpg"
     }
   ]
 }

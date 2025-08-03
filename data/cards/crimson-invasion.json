@@ -16,7 +16,9 @@
     "images": {
       "symbol": "https://www.serebii.net/card/crimsoninvasion/symbol.png",
       "logo": "https://www.serebii.net/card/crimsoninvasion/logo.png"
-    }
+    },
+    "setCode": "CIN",
+    "logo": "https://www.serebii.net/card/logo/crimsoninvasion.png"
   },
   "cards": [
     {
@@ -30,7 +32,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/1.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/1.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/001.jpg"
     },
     {
       "id": "cri2",
@@ -43,7 +46,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/2.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/2.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/002.jpg"
     },
     {
       "id": "cri3",
@@ -56,7 +60,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/3.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/3.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/003.jpg"
     },
     {
       "id": "cri4",
@@ -69,7 +74,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/4.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/4.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/004.jpg"
     },
     {
       "id": "cri5",
@@ -82,7 +88,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/5.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/5.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/005.jpg"
     },
     {
       "id": "cri6",
@@ -95,7 +102,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/6.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/6.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/006.jpg"
     },
     {
       "id": "cri7",
@@ -108,7 +116,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/7.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/7.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/007.jpg"
     },
     {
       "id": "cri8",
@@ -121,7 +130,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/8.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/8.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/008.jpg"
     },
     {
       "id": "cri9",
@@ -134,7 +144,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/9.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/9.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/009.jpg"
     },
     {
       "id": "cri10",
@@ -147,7 +158,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/10.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/10.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/010.jpg"
     },
     {
       "id": "cri11",
@@ -160,7 +172,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/11.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/11.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/011.jpg"
     },
     {
       "id": "cri12",
@@ -176,7 +189,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/12.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/12.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/012.jpg"
     },
     {
       "id": "cri13",
@@ -189,7 +203,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/13.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/13.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/013.jpg"
     },
     {
       "id": "cri14",
@@ -202,7 +217,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/14.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/14.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/014.jpg"
     },
     {
       "id": "cri15",
@@ -215,7 +231,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/15.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/15.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/015.jpg"
     },
     {
       "id": "cri16",
@@ -228,7 +245,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/16.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/16.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/016.jpg"
     },
     {
       "id": "cri17",
@@ -241,7 +259,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/17.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/17.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/017.jpg"
     },
     {
       "id": "cri18",
@@ -258,7 +277,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/18.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/18.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/018.jpg"
     },
     {
       "id": "cri19",
@@ -271,7 +291,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/19.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/19.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/019.jpg"
     },
     {
       "id": "cri20",
@@ -284,7 +305,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/20.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/20.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/020.jpg"
     },
     {
       "id": "cri21",
@@ -297,7 +319,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/21.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/21.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/021.jpg"
     },
     {
       "id": "cri22",
@@ -310,7 +333,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/22.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/22.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/022.jpg"
     },
     {
       "id": "cri23",
@@ -323,7 +347,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/23.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/23.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/023.jpg"
     },
     {
       "id": "cri24",
@@ -336,7 +361,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/24.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/24.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/024.jpg"
     },
     {
       "id": "cri25",
@@ -349,7 +375,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/25.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/25.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/025.jpg"
     },
     {
       "id": "cri26",
@@ -362,7 +389,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/26.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/26.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/026.jpg"
     },
     {
       "id": "cri27",
@@ -375,7 +403,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/27.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/27.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/027.jpg"
     },
     {
       "id": "cri28",
@@ -388,7 +417,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/28.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/28.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/028.jpg"
     },
     {
       "id": "cri29",
@@ -401,7 +431,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/29.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/29.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/029.jpg"
     },
     {
       "id": "cri30",
@@ -414,7 +445,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/30.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/30.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/030.jpg"
     },
     {
       "id": "cri31",
@@ -430,7 +462,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/31.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/31.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/031.jpg"
     },
     {
       "id": "cri32",
@@ -446,7 +479,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/32.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/32.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/032.jpg"
     },
     {
       "id": "cri33",
@@ -462,7 +496,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/33.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/33.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/033.jpg"
     },
     {
       "id": "cri34",
@@ -480,7 +515,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/34.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/34.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/034.jpg"
     },
     {
       "id": "cri35",
@@ -493,7 +529,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/35.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/35.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/035.jpg"
     },
     {
       "id": "cri36",
@@ -506,7 +543,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/36.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/36.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/036.jpg"
     },
     {
       "id": "cri37",
@@ -519,7 +557,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/37.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/37.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/037.jpg"
     },
     {
       "id": "cri38",
@@ -532,7 +571,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/38.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/38.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/038.jpg"
     },
     {
       "id": "cri39",
@@ -545,7 +585,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/39.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/39.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/039.jpg"
     },
     {
       "id": "cri40",
@@ -558,7 +599,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/40.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/40.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/040.jpg"
     },
     {
       "id": "cri41",
@@ -571,7 +613,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/41.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/41.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/041.jpg"
     },
     {
       "id": "cri42",
@@ -584,7 +627,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/42.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/42.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/042.jpg"
     },
     {
       "id": "cri43",
@@ -597,7 +641,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/43.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/43.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/043.jpg"
     },
     {
       "id": "cri44",
@@ -610,7 +655,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/44.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/44.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/044.jpg"
     },
     {
       "id": "cri45",
@@ -623,7 +669,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/45.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/45.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/045.jpg"
     },
     {
       "id": "cri46",
@@ -636,7 +683,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/46.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/46.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/046.jpg"
     },
     {
       "id": "cri47",
@@ -649,7 +697,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/47.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/47.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/047.jpg"
     },
     {
       "id": "cri48",
@@ -662,7 +711,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/48.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/48.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/048.jpg"
     },
     {
       "id": "cri49",
@@ -680,7 +730,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/49.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/49.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/049.jpg"
     },
     {
       "id": "cri50",
@@ -693,7 +744,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/50.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/50.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/050.jpg"
     },
     {
       "id": "cri51",
@@ -706,7 +758,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/51.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/51.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/051.jpg"
     },
     {
       "id": "cri52",
@@ -719,7 +772,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/52.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/52.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/052.jpg"
     },
     {
       "id": "cri53",
@@ -732,7 +786,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/53.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/53.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/053.jpg"
     },
     {
       "id": "cri54",
@@ -745,7 +800,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/54.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/54.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/054.jpg"
     },
     {
       "id": "cri55",
@@ -758,7 +814,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/55.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/55.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/055.jpg"
     },
     {
       "id": "cri56",
@@ -771,7 +828,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/56.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/56.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/056.jpg"
     },
     {
       "id": "cri57",
@@ -789,7 +847,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/57.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/57.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/057.jpg"
     },
     {
       "id": "cri58",
@@ -802,7 +861,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/58.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/58.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/058.jpg"
     },
     {
       "id": "cri59",
@@ -815,7 +875,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/59.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/59.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/059.jpg"
     },
     {
       "id": "cri60",
@@ -828,7 +889,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/60.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/60.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/060.jpg"
     },
     {
       "id": "cri61",
@@ -841,7 +903,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/61.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/61.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/061.jpg"
     },
     {
       "id": "cri62",
@@ -854,7 +917,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/62.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/62.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/062.jpg"
     },
     {
       "id": "cri63",
@@ -872,7 +936,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/63.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/63.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/063.jpg"
     },
     {
       "id": "cri64",
@@ -885,7 +950,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/64.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/64.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/064.jpg"
     },
     {
       "id": "cri65",
@@ -898,7 +964,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/65.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/65.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/065.jpg"
     },
     {
       "id": "cri66",
@@ -911,7 +978,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/66.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/66.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/066.jpg"
     },
     {
       "id": "cri67",
@@ -924,7 +992,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/67.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/67.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/067.jpg"
     },
     {
       "id": "cri68",
@@ -937,7 +1006,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/68.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/68.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/068.jpg"
     },
     {
       "id": "cri69",
@@ -950,7 +1020,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/69.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/69.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/069.jpg"
     },
     {
       "id": "cri70",
@@ -968,7 +1039,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/70.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/70.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/070.jpg"
     },
     {
       "id": "cri71",
@@ -981,7 +1053,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/71.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/71.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/071.jpg"
     },
     {
       "id": "cri72",
@@ -994,7 +1067,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/72.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/72.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/072.jpg"
     },
     {
       "id": "cri73",
@@ -1007,7 +1081,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/73.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/73.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/073.jpg"
     },
     {
       "id": "cri74",
@@ -1025,7 +1100,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/74.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/74.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/074.jpg"
     },
     {
       "id": "cri75",
@@ -1038,7 +1114,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/75.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/75.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/075.jpg"
     },
     {
       "id": "cri76",
@@ -1051,7 +1128,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/76.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/76.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/076.jpg"
     },
     {
       "id": "cri77",
@@ -1064,7 +1142,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/77.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/77.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/077.jpg"
     },
     {
       "id": "cri78",
@@ -1077,7 +1156,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/78.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/78.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/078.jpg"
     },
     {
       "id": "cri79",
@@ -1090,7 +1170,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/79.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/79.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/079.jpg"
     },
     {
       "id": "cri80",
@@ -1103,7 +1184,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/80.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/80.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/080.jpg"
     },
     {
       "id": "cri81",
@@ -1116,7 +1198,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/81.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/81.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/081.jpg"
     },
     {
       "id": "cri82",
@@ -1129,7 +1212,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/82.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/82.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/082.jpg"
     },
     {
       "id": "cri83",
@@ -1142,7 +1226,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/83.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/83.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/083.jpg"
     },
     {
       "id": "cri84",
@@ -1155,7 +1240,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/84.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/84.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/084.jpg"
     },
     {
       "id": "cri85",
@@ -1168,7 +1254,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/85.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/85.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/085.jpg"
     },
     {
       "id": "cri86",
@@ -1181,7 +1268,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/86.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/86.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/086.jpg"
     },
     {
       "id": "cri87",
@@ -1194,7 +1282,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/87.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/87.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/087.jpg"
     },
     {
       "id": "cri88",
@@ -1207,7 +1296,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/88.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/88.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/088.jpg"
     },
     {
       "id": "cri89",
@@ -1220,7 +1310,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/89.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/89.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/089.jpg"
     },
     {
       "id": "cri90",
@@ -1237,7 +1328,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/90.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/90.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/090.jpg"
     },
     {
       "id": "cri91",
@@ -1253,7 +1345,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/91.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/91.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/091.jpg"
     },
     {
       "id": "cri92",
@@ -1269,7 +1362,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/92.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/92.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/092.jpg"
     },
     {
       "id": "cri93",
@@ -1285,7 +1379,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/93.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/93.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/093.jpg"
     },
     {
       "id": "cri94",
@@ -1301,7 +1396,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/94.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/94.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/094.jpg"
     },
     {
       "id": "cri95",
@@ -1317,7 +1413,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/95.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/95.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/095.jpg"
     },
     {
       "id": "cri96",
@@ -1333,7 +1430,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/96.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/96.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/096.jpg"
     },
     {
       "id": "cri97",
@@ -1349,7 +1447,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/97.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/97.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/097.jpg"
     },
     {
       "id": "cri98",
@@ -1365,7 +1464,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/98.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/98.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/098.jpg"
     },
     {
       "id": "cri99",
@@ -1381,7 +1481,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/99.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/99.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/099.jpg"
     },
     {
       "id": "cri100",
@@ -1397,7 +1498,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/100.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/100.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/100.jpg"
     },
     {
       "id": "cri101",
@@ -1414,7 +1516,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/101.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/101.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/101.jpg"
     },
     {
       "id": "cri102",
@@ -1432,7 +1535,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/102.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/102.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/102.jpg"
     },
     {
       "id": "cri103",
@@ -1450,7 +1554,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/103.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/103.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/103.jpg"
     },
     {
       "id": "cri104",
@@ -1468,7 +1573,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/104.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/104.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/104.jpg"
     },
     {
       "id": "cri105",
@@ -1486,7 +1592,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/105.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/105.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/105.jpg"
     },
     {
       "id": "cri106",
@@ -1504,7 +1611,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/106.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/106.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/106.jpg"
     },
     {
       "id": "cri107",
@@ -1522,7 +1630,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/107.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/107.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/107.jpg"
     },
     {
       "id": "cri108",
@@ -1539,7 +1648,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/108.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/108.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/108.jpg"
     },
     {
       "id": "cri109",
@@ -1555,7 +1665,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/109.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/109.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/109.jpg"
     },
     {
       "id": "cri110",
@@ -1571,7 +1682,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/110.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/110.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/110.jpg"
     },
     {
       "id": "cri111",
@@ -1587,7 +1699,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/111.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/111.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/111.jpg"
     },
     {
       "id": "cri112",
@@ -1604,7 +1717,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/112.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/112.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/112.jpg"
     },
     {
       "id": "cri113",
@@ -1622,7 +1736,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/113.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/113.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/113.jpg"
     },
     {
       "id": "cri114",
@@ -1640,7 +1755,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/114.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/114.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/114.jpg"
     },
     {
       "id": "cri115",
@@ -1658,7 +1774,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/115.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/115.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/115.jpg"
     },
     {
       "id": "cri116",
@@ -1676,7 +1793,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/116.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/116.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/116.jpg"
     },
     {
       "id": "cri117",
@@ -1694,7 +1812,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/117.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/117.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/117.jpg"
     },
     {
       "id": "cri118",
@@ -1712,7 +1831,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/118.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/118.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/118.jpg"
     },
     {
       "id": "cri119",
@@ -1729,7 +1849,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/119.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/119.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/119.jpg"
     },
     {
       "id": "cri120",
@@ -1745,7 +1866,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/120.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/120.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/120.jpg"
     },
     {
       "id": "cri121",
@@ -1761,7 +1883,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/121.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/121.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/121.jpg"
     },
     {
       "id": "cri122",
@@ -1777,7 +1900,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/122.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/122.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/122.jpg"
     },
     {
       "id": "cri123",
@@ -1793,7 +1917,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/123.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/123.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/123.jpg"
     },
     {
       "id": "cri124",
@@ -1809,7 +1934,8 @@
       "images": {
         "small": "https://www.serebii.net/card/crimsoninvasion/124.jpg",
         "large": "https://www.serebii.net/card/crimsoninvasion/124.jpg"
-      }
+      },
+      "imageUrl": "https://www.serebii.net/card/crimsoninvasion/124.jpg"
     }
   ]
 }

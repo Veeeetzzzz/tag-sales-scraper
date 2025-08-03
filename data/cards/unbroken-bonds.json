@@ -8,7 +8,9 @@
     "totalCards": 234,
     "mainSetCards": 214,
     "symbolUrl": "https://www.serebii.net/card/symbols/unbrokenbonds.png",
-    "logoUrl": "https://www.serebii.net/card/unbrokenbonds/logo.png"
+    "logoUrl": "https://www.serebii.net/card/unbrokenbonds/logo.png",
+    "setCode": "UNB",
+    "logo": "https://www.serebii.net/card/logo/unbrokenbonds.png"
   },
   "cards": [
     {
@@ -3073,7 +3075,7 @@
     },
     {
       "id": "unbroken-bonds-182",
-      "name": "Pok\u00e9gear 3.0",
+      "name": "Pokégear 3.0",
       "number": 182,
       "type": "Trainer",
       "rarity": "Uncommon",
@@ -3935,7 +3937,7 @@
     },
     {
       "id": "unbroken-bonds-233",
-      "name": "Pok\u00e9gear 3.0",
+      "name": "Pokégear 3.0",
       "number": 233,
       "type": "Trainer",
       "rarity": "Rare Secret",

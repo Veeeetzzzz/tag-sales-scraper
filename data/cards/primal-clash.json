@@ -6,7 +6,8 @@
     "releaseDate": "2015-02-04",
     "totalCards": 164,
     "symbol": "PRC",
-    "logo": "https://www.serebii.net/card/primalclash/logo.png"
+    "logo": "https://www.serebii.net/card/logo/primalclash.png",
+    "setCode": "PRC"
   },
   "cards": [
     {
@@ -19,7 +20,8 @@
       "rarity": "Common",
       "hp": 50,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/1.jpg"
+      "image": "https://www.serebii.net/card/primalclash/1.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/001.jpg"
     },
     {
       "id": "primalclash-2",
@@ -31,7 +33,8 @@
       "rarity": "Uncommon",
       "hp": 80,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/2.jpg"
+      "image": "https://www.serebii.net/card/primalclash/2.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/002.jpg"
     },
     {
       "id": "primalclash-3",
@@ -43,7 +46,8 @@
       "rarity": "Rare",
       "hp": 120,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/3.jpg"
+      "image": "https://www.serebii.net/card/primalclash/3.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/003.jpg"
     },
     {
       "id": "primalclash-4",
@@ -55,7 +59,8 @@
       "rarity": "Common",
       "hp": 80,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/4.jpg"
+      "image": "https://www.serebii.net/card/primalclash/4.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/004.jpg"
     },
     {
       "id": "primalclash-5",
@@ -67,7 +72,8 @@
       "rarity": "Rare",
       "hp": 110,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/5.jpg"
+      "image": "https://www.serebii.net/card/primalclash/5.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/005.jpg"
     },
     {
       "id": "primalclash-6",
@@ -79,7 +85,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/6.jpg"
+      "image": "https://www.serebii.net/card/primalclash/6.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/006.jpg"
     },
     {
       "id": "primalclash-7",
@@ -91,7 +98,8 @@
       "rarity": "Uncommon",
       "hp": 80,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/7.jpg"
+      "image": "https://www.serebii.net/card/primalclash/7.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/007.jpg"
     },
     {
       "id": "primalclash-8",
@@ -103,7 +111,8 @@
       "rarity": "Rare",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/8.jpg"
+      "image": "https://www.serebii.net/card/primalclash/8.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/008.jpg"
     },
     {
       "id": "primalclash-9",
@@ -115,7 +124,8 @@
       "rarity": "Rare Holo",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/9.jpg"
+      "image": "https://www.serebii.net/card/primalclash/9.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/009.jpg"
     },
     {
       "id": "primalclash-10",
@@ -127,7 +137,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/10.jpg"
+      "image": "https://www.serebii.net/card/primalclash/10.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/010.jpg"
     },
     {
       "id": "primalclash-11",
@@ -139,7 +150,8 @@
       "rarity": "Uncommon",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/11.jpg"
+      "image": "https://www.serebii.net/card/primalclash/11.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/011.jpg"
     },
     {
       "id": "primalclash-12",
@@ -151,7 +163,8 @@
       "rarity": "Rare Holo",
       "hp": 130,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/12.jpg"
+      "image": "https://www.serebii.net/card/primalclash/12.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/012.jpg"
     },
     {
       "id": "primalclash-13",
@@ -163,7 +176,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/13.jpg"
+      "image": "https://www.serebii.net/card/primalclash/13.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/013.jpg"
     },
     {
       "id": "primalclash-14",
@@ -175,7 +189,8 @@
       "rarity": "Uncommon",
       "hp": 80,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/14.jpg"
+      "image": "https://www.serebii.net/card/primalclash/14.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/014.jpg"
     },
     {
       "id": "primalclash-15",
@@ -187,7 +202,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/15.jpg"
+      "image": "https://www.serebii.net/card/primalclash/15.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/015.jpg"
     },
     {
       "id": "primalclash-16",
@@ -199,7 +215,8 @@
       "rarity": "Rare",
       "hp": 130,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/16.jpg"
+      "image": "https://www.serebii.net/card/primalclash/16.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/016.jpg"
     },
     {
       "id": "primalclash-17",
@@ -211,7 +228,8 @@
       "rarity": "Common",
       "hp": 70,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/17.jpg"
+      "image": "https://www.serebii.net/card/primalclash/17.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/017.jpg"
     },
     {
       "id": "primalclash-18",
@@ -223,7 +241,8 @@
       "rarity": "Common",
       "hp": 70,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/18.jpg"
+      "image": "https://www.serebii.net/card/primalclash/18.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/018.jpg"
     },
     {
       "id": "primalclash-19",
@@ -238,7 +257,8 @@
         "ex",
         "pokemon-ex"
       ],
-      "image": "https://www.serebii.net/card/primalclash/19.jpg"
+      "image": "https://www.serebii.net/card/primalclash/19.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/019.jpg"
     },
     {
       "id": "primalclash-20",
@@ -250,7 +270,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/20.jpg"
+      "image": "https://www.serebii.net/card/primalclash/20.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/020.jpg"
     },
     {
       "id": "primalclash-21",
@@ -262,7 +283,8 @@
       "rarity": "Rare",
       "hp": 100,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/21.jpg"
+      "image": "https://www.serebii.net/card/primalclash/21.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/021.jpg"
     },
     {
       "id": "primalclash-22",
@@ -274,7 +296,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/22.jpg"
+      "image": "https://www.serebii.net/card/primalclash/22.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/022.jpg"
     },
     {
       "id": "primalclash-23",
@@ -286,7 +309,8 @@
       "rarity": "Uncommon",
       "hp": 100,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/23.jpg"
+      "image": "https://www.serebii.net/card/primalclash/23.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/023.jpg"
     },
     {
       "id": "primalclash-24",
@@ -298,7 +322,8 @@
       "rarity": "Rare",
       "hp": 100,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/24.jpg"
+      "image": "https://www.serebii.net/card/primalclash/24.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/024.jpg"
     },
     {
       "id": "primalclash-25",
@@ -310,7 +335,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/25.jpg"
+      "image": "https://www.serebii.net/card/primalclash/25.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/025.jpg"
     },
     {
       "id": "primalclash-26",
@@ -322,7 +348,8 @@
       "rarity": "Uncommon",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/26.jpg"
+      "image": "https://www.serebii.net/card/primalclash/26.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/026.jpg"
     },
     {
       "id": "primalclash-27",
@@ -334,7 +361,8 @@
       "rarity": "Uncommon",
       "hp": 80,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/27.jpg"
+      "image": "https://www.serebii.net/card/primalclash/27.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/027.jpg"
     },
     {
       "id": "primalclash-28",
@@ -346,7 +374,8 @@
       "rarity": "Rare Holo",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/28.jpg"
+      "image": "https://www.serebii.net/card/primalclash/28.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/028.jpg"
     },
     {
       "id": "primalclash-29",
@@ -361,7 +390,8 @@
         "ex",
         "pokemon-ex"
       ],
-      "image": "https://www.serebii.net/card/primalclash/29.jpg"
+      "image": "https://www.serebii.net/card/primalclash/29.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/029.jpg"
     },
     {
       "id": "primalclash-30",
@@ -373,7 +403,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/30.jpg"
+      "image": "https://www.serebii.net/card/primalclash/30.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/030.jpg"
     },
     {
       "id": "primalclash-31",
@@ -385,7 +416,8 @@
       "rarity": "Uncommon",
       "hp": 80,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/31.jpg"
+      "image": "https://www.serebii.net/card/primalclash/31.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/031.jpg"
     },
     {
       "id": "primalclash-32",
@@ -397,7 +429,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/32.jpg"
+      "image": "https://www.serebii.net/card/primalclash/32.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/032.jpg"
     },
     {
       "id": "primalclash-33",
@@ -409,7 +442,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/33.jpg"
+      "image": "https://www.serebii.net/card/primalclash/33.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/033.jpg"
     },
     {
       "id": "primalclash-34",
@@ -421,7 +455,8 @@
       "rarity": "Uncommon",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/34.jpg"
+      "image": "https://www.serebii.net/card/primalclash/34.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/034.jpg"
     },
     {
       "id": "primalclash-35",
@@ -433,7 +468,8 @@
       "rarity": "Rare",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/35.jpg"
+      "image": "https://www.serebii.net/card/primalclash/35.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/035.jpg"
     },
     {
       "id": "primalclash-36",
@@ -445,7 +481,8 @@
       "rarity": "Rare Holo",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/36.jpg"
+      "image": "https://www.serebii.net/card/primalclash/36.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/036.jpg"
     },
     {
       "id": "primalclash-37",
@@ -457,7 +494,8 @@
       "rarity": "Rare",
       "hp": 130,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/37.jpg"
+      "image": "https://www.serebii.net/card/primalclash/37.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/037.jpg"
     },
     {
       "id": "primalclash-38",
@@ -472,7 +510,8 @@
         "ex",
         "pokemon-ex"
       ],
-      "image": "https://www.serebii.net/card/primalclash/38.jpg"
+      "image": "https://www.serebii.net/card/primalclash/38.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/038.jpg"
     },
     {
       "id": "primalclash-39",
@@ -484,7 +523,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/39.jpg"
+      "image": "https://www.serebii.net/card/primalclash/39.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/039.jpg"
     },
     {
       "id": "primalclash-40",
@@ -496,7 +536,8 @@
       "rarity": "Uncommon",
       "hp": 100,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/40.jpg"
+      "image": "https://www.serebii.net/card/primalclash/40.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/040.jpg"
     },
     {
       "id": "primalclash-41",
@@ -508,7 +549,8 @@
       "rarity": "Rare",
       "hp": 100,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/41.jpg"
+      "image": "https://www.serebii.net/card/primalclash/41.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/041.jpg"
     },
     {
       "id": "primalclash-42",
@@ -520,7 +562,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/42.jpg"
+      "image": "https://www.serebii.net/card/primalclash/42.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/042.jpg"
     },
     {
       "id": "primalclash-43",
@@ -532,7 +575,8 @@
       "rarity": "Common",
       "hp": 30,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/43.jpg"
+      "image": "https://www.serebii.net/card/primalclash/43.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/043.jpg"
     },
     {
       "id": "primalclash-44",
@@ -544,7 +588,8 @@
       "rarity": "Rare Holo",
       "hp": 110,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/44.jpg"
+      "image": "https://www.serebii.net/card/primalclash/44.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/044.jpg"
     },
     {
       "id": "primalclash-45",
@@ -556,7 +601,8 @@
       "rarity": "Common",
       "hp": 70,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/45.jpg"
+      "image": "https://www.serebii.net/card/primalclash/45.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/045.jpg"
     },
     {
       "id": "primalclash-46",
@@ -568,7 +614,8 @@
       "rarity": "Common",
       "hp": 70,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/46.jpg"
+      "image": "https://www.serebii.net/card/primalclash/46.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/046.jpg"
     },
     {
       "id": "primalclash-47",
@@ -580,7 +627,8 @@
       "rarity": "Uncommon",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/47.jpg"
+      "image": "https://www.serebii.net/card/primalclash/47.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/047.jpg"
     },
     {
       "id": "primalclash-48",
@@ -592,7 +640,8 @@
       "rarity": "Rare",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/48.jpg"
+      "image": "https://www.serebii.net/card/primalclash/48.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/048.jpg"
     },
     {
       "id": "primalclash-49",
@@ -604,7 +653,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/49.jpg"
+      "image": "https://www.serebii.net/card/primalclash/49.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/049.jpg"
     },
     {
       "id": "primalclash-50",
@@ -616,7 +666,8 @@
       "rarity": "Rare Holo",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/50.jpg"
+      "image": "https://www.serebii.net/card/primalclash/50.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/050.jpg"
     },
     {
       "id": "primalclash-51",
@@ -628,7 +679,8 @@
       "rarity": "Uncommon",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/51.jpg"
+      "image": "https://www.serebii.net/card/primalclash/51.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/051.jpg"
     },
     {
       "id": "primalclash-52",
@@ -640,7 +692,8 @@
       "rarity": "Rare",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/52.jpg"
+      "image": "https://www.serebii.net/card/primalclash/52.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/052.jpg"
     },
     {
       "id": "primalclash-53",
@@ -652,7 +705,8 @@
       "rarity": "Rare",
       "hp": 130,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/53.jpg"
+      "image": "https://www.serebii.net/card/primalclash/53.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/053.jpg"
     },
     {
       "id": "primalclash-54",
@@ -667,7 +721,8 @@
         "ex",
         "pokemon-ex"
       ],
-      "image": "https://www.serebii.net/card/primalclash/54.jpg"
+      "image": "https://www.serebii.net/card/primalclash/54.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/054.jpg"
     },
     {
       "id": "primalclash-55",
@@ -684,7 +739,8 @@
         "primal",
         "primal-evolution"
       ],
-      "image": "https://www.serebii.net/card/primalclash/55.jpg"
+      "image": "https://www.serebii.net/card/primalclash/55.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/055.jpg"
     },
     {
       "id": "primalclash-56",
@@ -696,7 +752,8 @@
       "rarity": "Rare Holo",
       "hp": 70,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/56.jpg"
+      "image": "https://www.serebii.net/card/primalclash/56.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/056.jpg"
     },
     {
       "id": "primalclash-57",
@@ -708,7 +765,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/57.jpg"
+      "image": "https://www.serebii.net/card/primalclash/57.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/057.jpg"
     },
     {
       "id": "primalclash-58",
@@ -720,7 +778,8 @@
       "rarity": "Uncommon",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/58.jpg"
+      "image": "https://www.serebii.net/card/primalclash/58.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/058.jpg"
     },
     {
       "id": "primalclash-59",
@@ -732,7 +791,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/59.jpg"
+      "image": "https://www.serebii.net/card/primalclash/59.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/059.jpg"
     },
     {
       "id": "primalclash-60",
@@ -744,7 +804,8 @@
       "rarity": "Uncommon",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/60.jpg"
+      "image": "https://www.serebii.net/card/primalclash/60.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/060.jpg"
     },
     {
       "id": "primalclash-61",
@@ -756,7 +817,8 @@
       "rarity": "Rare Holo",
       "hp": 110,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/61.jpg"
+      "image": "https://www.serebii.net/card/primalclash/61.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/061.jpg"
     },
     {
       "id": "primalclash-62",
@@ -768,7 +830,8 @@
       "rarity": "Common",
       "hp": 40,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/62.jpg"
+      "image": "https://www.serebii.net/card/primalclash/62.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/062.jpg"
     },
     {
       "id": "primalclash-63",
@@ -780,7 +843,8 @@
       "rarity": "Uncommon",
       "hp": 80,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/63.jpg"
+      "image": "https://www.serebii.net/card/primalclash/63.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/063.jpg"
     },
     {
       "id": "primalclash-64",
@@ -792,7 +856,8 @@
       "rarity": "Rare",
       "hp": 80,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/64.jpg"
+      "image": "https://www.serebii.net/card/primalclash/64.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/064.jpg"
     },
     {
       "id": "primalclash-65",
@@ -804,7 +869,8 @@
       "rarity": "Rare Holo",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/65.jpg"
+      "image": "https://www.serebii.net/card/primalclash/65.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/065.jpg"
     },
     {
       "id": "primalclash-66",
@@ -816,7 +882,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/66.jpg"
+      "image": "https://www.serebii.net/card/primalclash/66.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/066.jpg"
     },
     {
       "id": "primalclash-67",
@@ -828,7 +895,8 @@
       "rarity": "Uncommon",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/67.jpg"
+      "image": "https://www.serebii.net/card/primalclash/67.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/067.jpg"
     },
     {
       "id": "primalclash-68",
@@ -840,7 +908,8 @@
       "rarity": "Uncommon",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/68.jpg"
+      "image": "https://www.serebii.net/card/primalclash/68.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/068.jpg"
     },
     {
       "id": "primalclash-69",
@@ -852,7 +921,8 @@
       "rarity": "Rare",
       "hp": 140,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/69.jpg"
+      "image": "https://www.serebii.net/card/primalclash/69.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/069.jpg"
     },
     {
       "id": "primalclash-70",
@@ -864,7 +934,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/70.jpg"
+      "image": "https://www.serebii.net/card/primalclash/70.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/070.jpg"
     },
     {
       "id": "primalclash-71",
@@ -876,7 +947,8 @@
       "rarity": "Uncommon",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/71.jpg"
+      "image": "https://www.serebii.net/card/primalclash/71.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/071.jpg"
     },
     {
       "id": "primalclash-72",
@@ -888,7 +960,8 @@
       "rarity": "Rare",
       "hp": 120,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/72.jpg"
+      "image": "https://www.serebii.net/card/primalclash/72.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/072.jpg"
     },
     {
       "id": "primalclash-73",
@@ -900,7 +973,8 @@
       "rarity": "Rare",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/73.jpg"
+      "image": "https://www.serebii.net/card/primalclash/73.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/073.jpg"
     },
     {
       "id": "primalclash-74",
@@ -914,7 +988,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/74.jpg"
+      "image": "https://www.serebii.net/card/primalclash/74.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/074.jpg"
     },
     {
       "id": "primalclash-75",
@@ -928,7 +1003,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/75.jpg"
+      "image": "https://www.serebii.net/card/primalclash/75.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/075.jpg"
     },
     {
       "id": "primalclash-76",
@@ -942,7 +1018,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/76.jpg"
+      "image": "https://www.serebii.net/card/primalclash/76.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/076.jpg"
     },
     {
       "id": "primalclash-77",
@@ -956,7 +1033,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/77.jpg"
+      "image": "https://www.serebii.net/card/primalclash/77.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/077.jpg"
     },
     {
       "id": "primalclash-78",
@@ -970,7 +1048,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/78.jpg"
+      "image": "https://www.serebii.net/card/primalclash/78.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/078.jpg"
     },
     {
       "id": "primalclash-79",
@@ -984,7 +1063,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/79.jpg"
+      "image": "https://www.serebii.net/card/primalclash/79.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/079.jpg"
     },
     {
       "id": "primalclash-80",
@@ -998,7 +1078,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/80.jpg"
+      "image": "https://www.serebii.net/card/primalclash/80.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/080.jpg"
     },
     {
       "id": "primalclash-81",
@@ -1012,7 +1093,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/81.jpg"
+      "image": "https://www.serebii.net/card/primalclash/81.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/081.jpg"
     },
     {
       "id": "primalclash-82",
@@ -1026,7 +1108,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/82.jpg"
+      "image": "https://www.serebii.net/card/primalclash/82.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/082.jpg"
     },
     {
       "id": "primalclash-83",
@@ -1040,7 +1123,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/83.jpg"
+      "image": "https://www.serebii.net/card/primalclash/83.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/083.jpg"
     },
     {
       "id": "primalclash-84",
@@ -1054,7 +1138,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/84.jpg"
+      "image": "https://www.serebii.net/card/primalclash/84.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/084.jpg"
     },
     {
       "id": "primalclash-85",
@@ -1070,7 +1155,8 @@
         "ex",
         "pokemon-ex"
       ],
-      "image": "https://www.serebii.net/card/primalclash/85.jpg"
+      "image": "https://www.serebii.net/card/primalclash/85.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/085.jpg"
     },
     {
       "id": "primalclash-86",
@@ -1088,7 +1174,8 @@
         "primal",
         "primal-evolution"
       ],
-      "image": "https://www.serebii.net/card/primalclash/86.jpg"
+      "image": "https://www.serebii.net/card/primalclash/86.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/086.jpg"
     },
     {
       "id": "primalclash-87",
@@ -1102,7 +1189,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/87.jpg"
+      "image": "https://www.serebii.net/card/primalclash/87.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/087.jpg"
     },
     {
       "id": "primalclash-88",
@@ -1116,7 +1204,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/88.jpg"
+      "image": "https://www.serebii.net/card/primalclash/88.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/088.jpg"
     },
     {
       "id": "primalclash-89",
@@ -1130,7 +1219,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/89.jpg"
+      "image": "https://www.serebii.net/card/primalclash/89.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/089.jpg"
     },
     {
       "id": "primalclash-90",
@@ -1144,7 +1234,8 @@
       "keywords": [
         "fighting"
       ],
-      "image": "https://www.serebii.net/card/primalclash/90.jpg"
+      "image": "https://www.serebii.net/card/primalclash/90.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/090.jpg"
     },
     {
       "id": "primalclash-91",
@@ -1160,7 +1251,8 @@
         "ex",
         "pokemon-ex"
       ],
-      "image": "https://www.serebii.net/card/primalclash/91.jpg"
+      "image": "https://www.serebii.net/card/primalclash/91.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/091.jpg"
     },
     {
       "id": "primalclash-92",
@@ -1174,7 +1266,8 @@
       "keywords": [
         "darkness"
       ],
-      "image": "https://www.serebii.net/card/primalclash/92.jpg"
+      "image": "https://www.serebii.net/card/primalclash/92.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/092.jpg"
     },
     {
       "id": "primalclash-93",
@@ -1190,7 +1283,8 @@
         "ex",
         "pokemon-ex"
       ],
-      "image": "https://www.serebii.net/card/primalclash/93.jpg"
+      "image": "https://www.serebii.net/card/primalclash/93.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/093.jpg"
     },
     {
       "id": "primalclash-94",
@@ -1208,7 +1302,8 @@
         "mega",
         "mega-evolution"
       ],
-      "image": "https://www.serebii.net/card/primalclash/94.jpg"
+      "image": "https://www.serebii.net/card/primalclash/94.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/094.jpg"
     },
     {
       "id": "primalclash-95",
@@ -1222,7 +1317,8 @@
       "keywords": [
         "metal"
       ],
-      "image": "https://www.serebii.net/card/primalclash/95.jpg"
+      "image": "https://www.serebii.net/card/primalclash/95.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/095.jpg"
     },
     {
       "id": "primalclash-96",
@@ -1236,7 +1332,8 @@
       "keywords": [
         "metal"
       ],
-      "image": "https://www.serebii.net/card/primalclash/96.jpg"
+      "image": "https://www.serebii.net/card/primalclash/96.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/096.jpg"
     },
     {
       "id": "primalclash-97",
@@ -1250,7 +1347,8 @@
       "keywords": [
         "metal"
       ],
-      "image": "https://www.serebii.net/card/primalclash/97.jpg"
+      "image": "https://www.serebii.net/card/primalclash/97.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/097.jpg"
     },
     {
       "id": "primalclash-98",
@@ -1264,7 +1362,8 @@
       "keywords": [
         "metal"
       ],
-      "image": "https://www.serebii.net/card/primalclash/98.jpg"
+      "image": "https://www.serebii.net/card/primalclash/98.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/098.jpg"
     },
     {
       "id": "primalclash-99",
@@ -1278,7 +1377,8 @@
       "keywords": [
         "metal"
       ],
-      "image": "https://www.serebii.net/card/primalclash/99.jpg"
+      "image": "https://www.serebii.net/card/primalclash/99.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/099.jpg"
     },
     {
       "id": "primalclash-100",
@@ -1292,7 +1392,8 @@
       "keywords": [
         "metal"
       ],
-      "image": "https://www.serebii.net/card/primalclash/100.jpg"
+      "image": "https://www.serebii.net/card/primalclash/100.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/100.jpg"
     },
     {
       "id": "primalclash-101",
@@ -1306,7 +1407,8 @@
       "keywords": [
         "fairy"
       ],
-      "image": "https://www.serebii.net/card/primalclash/101.jpg"
+      "image": "https://www.serebii.net/card/primalclash/101.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/101.jpg"
     },
     {
       "id": "primalclash-102",
@@ -1320,7 +1422,8 @@
       "keywords": [
         "fairy"
       ],
-      "image": "https://www.serebii.net/card/primalclash/102.jpg"
+      "image": "https://www.serebii.net/card/primalclash/102.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/102.jpg"
     },
     {
       "id": "primalclash-103",
@@ -1334,7 +1437,8 @@
       "keywords": [
         "fairy"
       ],
-      "image": "https://www.serebii.net/card/primalclash/103.jpg"
+      "image": "https://www.serebii.net/card/primalclash/103.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/103.jpg"
     },
     {
       "id": "primalclash-104",
@@ -1348,7 +1452,8 @@
       "keywords": [
         "fairy"
       ],
-      "image": "https://www.serebii.net/card/primalclash/104.jpg"
+      "image": "https://www.serebii.net/card/primalclash/104.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/104.jpg"
     },
     {
       "id": "primalclash-105",
@@ -1364,7 +1469,8 @@
         "ex",
         "pokemon-ex"
       ],
-      "image": "https://www.serebii.net/card/primalclash/105.jpg"
+      "image": "https://www.serebii.net/card/primalclash/105.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/105.jpg"
     },
     {
       "id": "primalclash-106",
@@ -1382,7 +1488,8 @@
         "mega",
         "mega-evolution"
       ],
-      "image": "https://www.serebii.net/card/primalclash/106.jpg"
+      "image": "https://www.serebii.net/card/primalclash/106.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/106.jpg"
     },
     {
       "id": "primalclash-107",
@@ -1396,7 +1503,8 @@
       "keywords": [
         "dragon"
       ],
-      "image": "https://www.serebii.net/card/primalclash/107.jpg"
+      "image": "https://www.serebii.net/card/primalclash/107.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/107.jpg"
     },
     {
       "id": "primalclash-108",
@@ -1410,7 +1518,8 @@
       "keywords": [
         "dragon"
       ],
-      "image": "https://www.serebii.net/card/primalclash/108.jpg"
+      "image": "https://www.serebii.net/card/primalclash/108.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/108.jpg"
     },
     {
       "id": "primalclash-109",
@@ -1424,7 +1533,8 @@
       "keywords": [
         "dragon"
       ],
-      "image": "https://www.serebii.net/card/primalclash/109.jpg"
+      "image": "https://www.serebii.net/card/primalclash/109.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/109.jpg"
     },
     {
       "id": "primalclash-110",
@@ -1438,7 +1548,8 @@
       "keywords": [
         "dragon"
       ],
-      "image": "https://www.serebii.net/card/primalclash/110.jpg"
+      "image": "https://www.serebii.net/card/primalclash/110.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/110.jpg"
     },
     {
       "id": "primalclash-111",
@@ -1450,7 +1561,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/111.jpg"
+      "image": "https://www.serebii.net/card/primalclash/111.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/111.jpg"
     },
     {
       "id": "primalclash-112",
@@ -1462,7 +1574,8 @@
       "rarity": "Uncommon",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/112.jpg"
+      "image": "https://www.serebii.net/card/primalclash/112.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/112.jpg"
     },
     {
       "id": "primalclash-113",
@@ -1474,7 +1587,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/113.jpg"
+      "image": "https://www.serebii.net/card/primalclash/113.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/113.jpg"
     },
     {
       "id": "primalclash-114",
@@ -1486,7 +1600,8 @@
       "rarity": "Rare",
       "hp": 90,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/114.jpg"
+      "image": "https://www.serebii.net/card/primalclash/114.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/114.jpg"
     },
     {
       "id": "primalclash-115",
@@ -1498,7 +1613,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/115.jpg"
+      "image": "https://www.serebii.net/card/primalclash/115.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/115.jpg"
     },
     {
       "id": "primalclash-116",
@@ -1510,7 +1626,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/116.jpg"
+      "image": "https://www.serebii.net/card/primalclash/116.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/116.jpg"
     },
     {
       "id": "primalclash-117",
@@ -1522,7 +1639,8 @@
       "rarity": "Uncommon",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/117.jpg"
+      "image": "https://www.serebii.net/card/primalclash/117.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/117.jpg"
     },
     {
       "id": "primalclash-118",
@@ -1534,7 +1652,8 @@
       "rarity": "Uncommon",
       "hp": 100,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/118.jpg"
+      "image": "https://www.serebii.net/card/primalclash/118.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/118.jpg"
     },
     {
       "id": "primalclash-119",
@@ -1546,7 +1665,8 @@
       "rarity": "Uncommon",
       "hp": 100,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/119.jpg"
+      "image": "https://www.serebii.net/card/primalclash/119.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/119.jpg"
     },
     {
       "id": "primalclash-120",
@@ -1558,7 +1678,8 @@
       "rarity": "Common",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/120.jpg"
+      "image": "https://www.serebii.net/card/primalclash/120.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/120.jpg"
     },
     {
       "id": "primalclash-121",
@@ -1570,7 +1691,8 @@
       "rarity": "Uncommon",
       "hp": 60,
       "keywords": [],
-      "image": "https://www.serebii.net/card/primalclash/121.jpg"
+      "image": "https://www.serebii.net/card/primalclash/121.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/121.jpg"
     },
     {
       "id": "primalclash-122",
@@ -1584,7 +1706,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/122.jpg"
+      "image": "https://www.serebii.net/card/primalclash/122.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/122.jpg"
     },
     {
       "id": "primalclash-123",
@@ -1598,7 +1721,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/123.jpg"
+      "image": "https://www.serebii.net/card/primalclash/123.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/123.jpg"
     },
     {
       "id": "primalclash-124",
@@ -1612,7 +1736,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/124.jpg"
+      "image": "https://www.serebii.net/card/primalclash/124.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/124.jpg"
     },
     {
       "id": "primalclash-125",
@@ -1626,7 +1751,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/125.jpg"
+      "image": "https://www.serebii.net/card/primalclash/125.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/125.jpg"
     },
     {
       "id": "primalclash-126",
@@ -1640,7 +1766,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/126.jpg"
+      "image": "https://www.serebii.net/card/primalclash/126.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/126.jpg"
     },
     {
       "id": "primalclash-127",
@@ -1654,7 +1781,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/127.jpg"
+      "image": "https://www.serebii.net/card/primalclash/127.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/127.jpg"
     },
     {
       "id": "primalclash-128",
@@ -1668,7 +1796,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/128.jpg"
+      "image": "https://www.serebii.net/card/primalclash/128.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/128.jpg"
     },
     {
       "id": "primalclash-129",
@@ -1682,7 +1811,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/129.jpg"
+      "image": "https://www.serebii.net/card/primalclash/129.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/129.jpg"
     },
     {
       "id": "primalclash-130",
@@ -1696,7 +1826,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/130.jpg"
+      "image": "https://www.serebii.net/card/primalclash/130.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/130.jpg"
     },
     {
       "id": "primalclash-131",
@@ -1710,7 +1841,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/131.jpg"
+      "image": "https://www.serebii.net/card/primalclash/131.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/131.jpg"
     },
     {
       "id": "primalclash-132",
@@ -1724,7 +1856,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/132.jpg"
+      "image": "https://www.serebii.net/card/primalclash/132.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/132.jpg"
     },
     {
       "id": "primalclash-133",
@@ -1738,7 +1871,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/133.jpg"
+      "image": "https://www.serebii.net/card/primalclash/133.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/133.jpg"
     },
     {
       "id": "primalclash-134",
@@ -1752,7 +1886,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/134.jpg"
+      "image": "https://www.serebii.net/card/primalclash/134.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/134.jpg"
     },
     {
       "id": "primalclash-135",
@@ -1766,7 +1901,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/135.jpg"
+      "image": "https://www.serebii.net/card/primalclash/135.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/135.jpg"
     },
     {
       "id": "primalclash-136",
@@ -1780,7 +1916,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/136.jpg"
+      "image": "https://www.serebii.net/card/primalclash/136.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/136.jpg"
     },
     {
       "id": "primalclash-137",
@@ -1794,7 +1931,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/137.jpg"
+      "image": "https://www.serebii.net/card/primalclash/137.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/137.jpg"
     },
     {
       "id": "primalclash-138",
@@ -1808,7 +1946,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/138.jpg"
+      "image": "https://www.serebii.net/card/primalclash/138.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/138.jpg"
     },
     {
       "id": "primalclash-139",
@@ -1822,7 +1961,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/139.jpg"
+      "image": "https://www.serebii.net/card/primalclash/139.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/139.jpg"
     },
     {
       "id": "primalclash-140",
@@ -1836,7 +1976,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/140.jpg"
+      "image": "https://www.serebii.net/card/primalclash/140.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/140.jpg"
     },
     {
       "id": "primalclash-141",
@@ -1850,7 +1991,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/141.jpg"
+      "image": "https://www.serebii.net/card/primalclash/141.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/141.jpg"
     },
     {
       "id": "primalclash-142",
@@ -1864,7 +2006,8 @@
       "keywords": [
         "trainer"
       ],
-      "image": "https://www.serebii.net/card/primalclash/142.jpg"
+      "image": "https://www.serebii.net/card/primalclash/142.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/142.jpg"
     },
     {
       "id": "primalclash-143",
@@ -1878,7 +2021,8 @@
       "keywords": [
         "energy"
       ],
-      "image": "https://www.serebii.net/card/primalclash/143.jpg"
+      "image": "https://www.serebii.net/card/primalclash/143.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/143.jpg"
     },
     {
       "id": "primalclash-144",
@@ -1892,7 +2036,8 @@
       "keywords": [
         "energy"
       ],
-      "image": "https://www.serebii.net/card/primalclash/144.jpg"
+      "image": "https://www.serebii.net/card/primalclash/144.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/144.jpg"
     },
     {
       "id": "primalclash-145",
@@ -1908,7 +2053,8 @@
         "pokemon-ex",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/145.jpg"
+      "image": "https://www.serebii.net/card/primalclash/145.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/145.jpg"
     },
     {
       "id": "primalclash-146",
@@ -1924,7 +2070,8 @@
         "pokemon-ex",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/146.jpg"
+      "image": "https://www.serebii.net/card/primalclash/146.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/146.jpg"
     },
     {
       "id": "primalclash-147",
@@ -1940,7 +2087,8 @@
         "pokemon-ex",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/147.jpg"
+      "image": "https://www.serebii.net/card/primalclash/147.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/147.jpg"
     },
     {
       "id": "primalclash-148",
@@ -1956,7 +2104,8 @@
         "pokemon-ex",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/148.jpg"
+      "image": "https://www.serebii.net/card/primalclash/148.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/148.jpg"
     },
     {
       "id": "primalclash-149",
@@ -1974,7 +2123,8 @@
         "primal-evolution",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/149.jpg"
+      "image": "https://www.serebii.net/card/primalclash/149.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/149.jpg"
     },
     {
       "id": "primalclash-150",
@@ -1991,7 +2141,8 @@
         "pokemon-ex",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/150.jpg"
+      "image": "https://www.serebii.net/card/primalclash/150.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/150.jpg"
     },
     {
       "id": "primalclash-151",
@@ -2010,7 +2161,8 @@
         "primal-evolution",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/151.jpg"
+      "image": "https://www.serebii.net/card/primalclash/151.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/151.jpg"
     },
     {
       "id": "primalclash-152",
@@ -2027,7 +2179,8 @@
         "pokemon-ex",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/152.jpg"
+      "image": "https://www.serebii.net/card/primalclash/152.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/152.jpg"
     },
     {
       "id": "primalclash-153",
@@ -2044,7 +2197,8 @@
         "pokemon-ex",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/153.jpg"
+      "image": "https://www.serebii.net/card/primalclash/153.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/153.jpg"
     },
     {
       "id": "primalclash-154",
@@ -2063,7 +2217,8 @@
         "mega-evolution",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/154.jpg"
+      "image": "https://www.serebii.net/card/primalclash/154.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/154.jpg"
     },
     {
       "id": "primalclash-155",
@@ -2080,7 +2235,8 @@
         "pokemon-ex",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/155.jpg"
+      "image": "https://www.serebii.net/card/primalclash/155.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/155.jpg"
     },
     {
       "id": "primalclash-156",
@@ -2099,7 +2255,8 @@
         "mega-evolution",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/156.jpg"
+      "image": "https://www.serebii.net/card/primalclash/156.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/156.jpg"
     },
     {
       "id": "primalclash-157",
@@ -2114,7 +2271,8 @@
         "trainer",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/157.jpg"
+      "image": "https://www.serebii.net/card/primalclash/157.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/157.jpg"
     },
     {
       "id": "primalclash-158",
@@ -2129,7 +2287,8 @@
         "trainer",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/158.jpg"
+      "image": "https://www.serebii.net/card/primalclash/158.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/158.jpg"
     },
     {
       "id": "primalclash-159",
@@ -2144,7 +2303,8 @@
         "trainer",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/159.jpg"
+      "image": "https://www.serebii.net/card/primalclash/159.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/159.jpg"
     },
     {
       "id": "primalclash-160",
@@ -2159,7 +2319,8 @@
         "trainer",
         "ultra"
       ],
-      "image": "https://www.serebii.net/card/primalclash/160.jpg"
+      "image": "https://www.serebii.net/card/primalclash/160.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/160.jpg"
     },
     {
       "id": "primalclash-161",
@@ -2174,7 +2335,8 @@
         "trainer",
         "secret"
       ],
-      "image": "https://www.serebii.net/card/primalclash/161.jpg"
+      "image": "https://www.serebii.net/card/primalclash/161.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/161.jpg"
     },
     {
       "id": "primalclash-162",
@@ -2189,7 +2351,8 @@
         "trainer",
         "secret"
       ],
-      "image": "https://www.serebii.net/card/primalclash/162.jpg"
+      "image": "https://www.serebii.net/card/primalclash/162.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/162.jpg"
     },
     {
       "id": "primalclash-163",
@@ -2204,7 +2367,8 @@
         "trainer",
         "secret"
       ],
-      "image": "https://www.serebii.net/card/primalclash/163.jpg"
+      "image": "https://www.serebii.net/card/primalclash/163.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/163.jpg"
     },
     {
       "id": "primalclash-164",
@@ -2219,7 +2383,8 @@
         "trainer",
         "secret"
       ],
-      "image": "https://www.serebii.net/card/primalclash/164.jpg"
+      "image": "https://www.serebii.net/card/primalclash/164.jpg",
+      "imageUrl": "https://www.serebii.net/card/primalclash/164.jpg"
     }
   ]
 }
