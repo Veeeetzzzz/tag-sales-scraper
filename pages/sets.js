@@ -460,7 +460,17 @@ export default function Sets() {
                     <div className="p-6">
                       <div className="flex items-start justify-between mb-4">
                         <div className="flex-1">
-                          <h3 className="text-xl font-bold text-gray-900 mb-2">{setInfo.name}</h3>
+                          <div className="flex items-center gap-3 mb-2">
+                            {setInfo.logo && (
+                              <img
+                                src={setInfo.logo}
+                                alt={`${setInfo.name} logo`}
+                                className="h-8 w-auto object-contain"
+                                loading="lazy"
+                              />
+                            )}
+                            <h3 className="text-xl font-bold text-gray-900">{setInfo.name}</h3>
+                          </div>
                           <p className="text-gray-600 text-sm mb-3">{setInfo.description}</p>
                         </div>
                         <div className="bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs font-medium">

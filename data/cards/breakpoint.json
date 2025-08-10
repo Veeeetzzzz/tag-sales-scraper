@@ -1,4 +1,4 @@
-﻿{
+{
   "setInfo": {
     "name": "BREAKpoint",
     "description": "BREAKpoint Pokemon trading card set with various Pokemon cards and mechanics",
@@ -6,7 +6,7 @@
     "releaseDate": "2016-02-03",
     "totalCards": 123,
     "symbol": "BKP",
-    "logo": "https://www.serebii.net/card/breakpoint/logo.png"
+    "logo": "https://www.serebii.net/card/logo/breakpoint.png"
   },
   "cards": [
     {
@@ -1328,7 +1328,7 @@
     },
     {
       "id": "breakpoint-105",
-      "name": "Pok\u00e9mon Catcher",
+      "name": "Pokémon Catcher",
       "number": "105",
       "set": "BREAKpoint",
       "series": "XY",
