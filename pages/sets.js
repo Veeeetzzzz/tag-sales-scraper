@@ -2,8 +2,10 @@ import React, { useEffect, useState } from "react";
 import { useRouter } from 'next/router';
 import Footer from '../components/Footer';
 import CurrencySelector from '../components/CurrencySelector';
+import LanguageSelector from '../components/LanguageSelector';
 import SEOHead from '../components/SEOHead';
 import { useCurrency } from '../contexts/CurrencyContext';
+import { useLanguage } from '../contexts/LanguageContext';
 import { convertAndFormatPrice } from '../utils/currency';
 import { getCardImageUrl } from '../utils/imageUtils';
 
@@ -19,6 +21,7 @@ export default function Sets() {
   const [sortBy, setSortBy] = useState('newest'); // newest, oldest, name-az, name-za
   const router = useRouter();
   const { currency } = useCurrency();
+  const { language, isJapanese } = useLanguage();
 
   const fetchSets = async () => {
     setLoading(true);
@@ -301,11 +304,23 @@ export default function Sets() {
     );
   }
 
-  // Sort sets based on selected option
+  // Filter and sort sets based on language and selected option
   const sortSets = (setsData) => {
     const setEntries = Object.entries(setsData);
     
-    return setEntries.sort(([keyA, setA], [keyB, setB]) => {
+    // Filter by language
+    const filteredEntries = setEntries.filter(([key, setData]) => {
+      const setInfo = setData.setInfo || setData;
+      const setLanguage = setInfo.language || 'English'; // Default to English if not specified
+      
+      if (isJapanese) {
+        return setLanguage === 'Japanese';
+      } else {
+        return setLanguage !== 'Japanese'; // Show English and unspecified sets
+      }
+    });
+    
+    return filteredEntries.sort(([keyA, setA], [keyB, setB]) => {
       // Get setInfo or fallback to set data itself
       const infoA = setA.setInfo || setA;
       const infoB = setB.setInfo || setB;
@@ -419,6 +434,7 @@ export default function Sets() {
                   
                   {/* Controls */}
                   <div className="mt-4 sm:mt-0 sm:ml-4 flex flex-col sm:flex-row gap-4">
+                    <LanguageSelector />
                     <CurrencySelector />
                     
                     {/* Sort Controls */}
@@ -469,7 +485,14 @@ export default function Sets() {
                                 loading="lazy"
                               />
                             )}
-                            <h3 className="text-xl font-bold text-gray-900">{setInfo.name}</h3>
+                            <div>
+                              <h3 className="text-xl font-bold text-gray-900">
+                                {isJapanese && setInfo.nameJapanese ? setInfo.nameJapanese : setInfo.name}
+                              </h3>
+                              {isJapanese && setInfo.nameJapanese && (
+                                <p className="text-sm text-gray-500 mt-1">{setInfo.name}</p>
+                              )}
+                            </div>
                           </div>
                           <p className="text-gray-600 text-sm mb-3">{setInfo.description}</p>
                         </div>

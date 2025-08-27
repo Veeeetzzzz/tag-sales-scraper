@@ -1,0 +1,3344 @@
+﻿{
+  "setInfo": {
+    "name": "Dragons Exalted",
+    "description": "Dragons Exalted Pokemon trading card set with various Pokemon cards and mechanics",
+    "series": "Black & White",
+    "setCode": "BW6",
+    "releaseDate": "2012-08-15",
+    "totalCards": 124
+  },
+  "cards": [
+    {
+      "id": "dragons-exalted-1",
+      "name": "Hoppip",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "1/124",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "hoppip",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/1.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-2",
+      "name": "Skiploom",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "2/124",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "skiploom",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/2.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/2.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-3",
+      "name": "Jumpluff",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "3/124",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "jumpluff",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/3.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/3.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-4",
+      "name": "Yanma",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "4/124",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "yanma",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/4.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/4.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-5",
+      "name": "Yanmega",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "5/124",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "yanmega",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/5.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/5.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-6",
+      "name": "Wurmple",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "6/124",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "wurmple",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/6.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-7",
+      "name": "Silcoon",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "7/124",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "silcoon",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/7.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/7.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-8",
+      "name": "Beautifly",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "8/124",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "beautifly",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/8.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/8.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-9",
+      "name": "Cascoon",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "9/124",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "cascoon",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/9.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/9.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-10",
+      "name": "Nincada",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "10/124",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "nincada",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/10.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/10.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-11",
+      "name": "Ninjask",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "11/124",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "ninjask",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/11.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/11.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-12",
+      "name": "Roselia",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "12/124",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "roselia",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/12.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/12.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-13",
+      "name": "Roselia",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "13/124",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "roselia",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/13.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/13.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-14",
+      "name": "Roserade",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "14/124",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "roserade",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/14.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/14.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-15",
+      "name": "Roserade",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "15/124",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "roserade",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/15.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/15.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-16",
+      "name": "Maractus",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "16/124",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "maractus",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/16.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/16.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-17",
+      "name": "Foongus",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "17/124",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "foongus",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/17.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/17.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-18",
+      "name": "Vulpix",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "18/124",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "vulpix",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/18.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/18.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-19",
+      "name": "Ninetales",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "19/124",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "ninetales",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/19.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/19.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-20",
+      "name": "Magmar",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "20/124",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "magmar",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/20.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/20.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-21",
+      "name": "Magmortar",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "21/124",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "magmortar",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/21.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/21.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-22",
+      "name": "Ho-Oh-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "22/124",
+      "rarity": "Rare Holo ex",
+      "type": "Fire",
+      "matching_keywords": [
+        "ho oh",
+        "fire",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/22.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/22.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dragons-exalted-23",
+      "name": "Magikarp",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "23/124",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "magikarp",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/23.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/23.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-24",
+      "name": "Gyarados",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "24/124",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "gyarados",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/24.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/24.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-25",
+      "name": "Wailmer",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "25/124",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "wailmer",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/25.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/25.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-26",
+      "name": "Wailord",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "26/124",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "wailord",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/26.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/26.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-27",
+      "name": "Feebas",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "27/124",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "feebas",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/27.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/27.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-28",
+      "name": "Milotic",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "28/124",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "milotic",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/28.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/28.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-29",
+      "name": "Spheal",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "29/124",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "spheal",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/29.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/29.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-30",
+      "name": "Sealeo",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "30/124",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "sealeo",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/30.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/30.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-31",
+      "name": "Walrein",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "31/124",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "walrein",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/31.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/31.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-32",
+      "name": "Buizel",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "32/124",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "buizel",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/32.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/32.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-33",
+      "name": "Floatzel",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "33/124",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "floatzel",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/33.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/33.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-34",
+      "name": "Tympole",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "34/124",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "tympole",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/34.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/34.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-35",
+      "name": "Palpitoad",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "35/124",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "palpitoad",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/35.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/35.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-36",
+      "name": "Seismitoad",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "36/124",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "seismitoad",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/36.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/36.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-37",
+      "name": "Alomomola",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "37/124",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "alomomola",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/37.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/37.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-38",
+      "name": "Mareep",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "38/124",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "mareep",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/38.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/38.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-39",
+      "name": "Flaaffy",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "39/124",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "flaaffy",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/39.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/39.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-40",
+      "name": "Ampharos",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "40/124",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "ampharos",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/40.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/40.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-41",
+      "name": "Electrike",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "41/124",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "electrike",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/41.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/41.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-42",
+      "name": "Electrike",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "42/124",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "electrike",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/42.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/42.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-43",
+      "name": "Manectric",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "43/124",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "matching_keywords": [
+        "manectric",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/43.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/43.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-44",
+      "name": "Manectric",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "44/124",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "matching_keywords": [
+        "manectric",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/44.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/44.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-45",
+      "name": "Emolga",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "45/124",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "emolga",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/45.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/45.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-46",
+      "name": "Mew-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "46/124",
+      "rarity": "Rare Holo ex",
+      "type": "Psychic",
+      "matching_keywords": [
+        "mew",
+        "psychic",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/46.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/46.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dragons-exalted-47",
+      "name": "Dustox",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "47/124",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "dustox",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/47.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/47.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-48",
+      "name": "Shedinja",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "48/124",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "shedinja",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/48.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/48.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-49",
+      "name": "Drifloon",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "49/124",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "drifloon",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/49.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/49.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-50",
+      "name": "Drifloon",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "50/124",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "drifloon",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/50.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/50.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-51",
+      "name": "Drifblim",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "51/124",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "drifblim",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/51.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/51.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-52",
+      "name": "Sigilyph",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "52/124",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "sigilyph",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/52.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/52.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-53",
+      "name": "Trubbish",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "53/124",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "trubbish",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/53.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/53.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-54",
+      "name": "Garbodor",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "54/124",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "garbodor",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/54.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/54.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-55",
+      "name": "Gothita",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "55/124",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothita",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/55.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-56",
+      "name": "Gothorita",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "56/124",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothorita",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/56.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/56.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-57",
+      "name": "Gothitelle",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "57/124",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothitelle",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/57.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/57.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-58",
+      "name": "Golett",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "58/124",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "golett",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/58.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/58.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-59",
+      "name": "Golurk",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "59/124",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "golurk",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/59.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/59.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-60",
+      "name": "Cubone",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "60/124",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "cubone",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/60.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/60.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-61",
+      "name": "Marowak",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "61/124",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "marowak",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/61.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/61.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-62",
+      "name": "Nosepass",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "62/124",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "nosepass",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/62.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/62.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-63",
+      "name": "Baltoy",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "63/124",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "baltoy",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/63.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/63.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-64",
+      "name": "Claydol",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "64/124",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "claydol",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/64.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/64.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-65",
+      "name": "Roggenrola",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "65/124",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "roggenrola",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/65.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/65.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-66",
+      "name": "Boldore",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "66/124",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "boldore",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/66.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/66.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-67",
+      "name": "Gigalith",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "67/124",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "gigalith",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/67.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/67.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-68",
+      "name": "Throh",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "68/124",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "throh",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/68.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/68.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-69",
+      "name": "Sawk",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "69/124",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "sawk",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/69.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/69.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-70",
+      "name": "Stunfisk",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "70/124",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "stunfisk",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/70.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/70.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-71",
+      "name": "Terrakion-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "71/124",
+      "rarity": "Rare Holo ex",
+      "type": "Fighting",
+      "matching_keywords": [
+        "terrakion",
+        "fighting",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/71.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/71.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dragons-exalted-72",
+      "name": "Murkrow",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "72/124",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "murkrow",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/72.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/72.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-73",
+      "name": "Honchkrow",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "73/124",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "honchkrow",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/73.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/73.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-74",
+      "name": "Houndour",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "74/124",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "houndour",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/74.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/74.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-75",
+      "name": "Houndoom",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "75/124",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "houndoom",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/75.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/75.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-76",
+      "name": "Stunky",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "76/124",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "stunky",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/76.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/76.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-77",
+      "name": "Skuntank",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "77/124",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "skuntank",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/77.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/77.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-78",
+      "name": "Aron",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "78/124",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "aron",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/78.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/78.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-79",
+      "name": "Lairon",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "79/124",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "lairon",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/79.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/79.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-80",
+      "name": "Aggron",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "80/124",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "matching_keywords": [
+        "aggron",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/80.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/80.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-81",
+      "name": "Registeel-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "81/124",
+      "rarity": "Rare Holo ex",
+      "type": "Metal",
+      "matching_keywords": [
+        "registeel",
+        "metal",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/81.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/81.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dragons-exalted-82",
+      "name": "Probopass",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "82/124",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "probopass",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/82.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/82.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-83",
+      "name": "Durant",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "83/124",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "durant",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/83.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/83.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-84",
+      "name": "Altaria",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "84/124",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "altaria",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/84.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/84.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-85",
+      "name": "Rayquaza-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "85/124",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "rayquaza",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/85.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/85.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dragons-exalted-86",
+      "name": "Gible",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "86/124",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "gible",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/86.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/86.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-87",
+      "name": "Gible",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "87/124",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "gible",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/87.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/87.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-88",
+      "name": "Gabite",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "88/124",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "gabite",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/88.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/88.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-89",
+      "name": "Gabite",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "89/124",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "gabite",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/89.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/89.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-90",
+      "name": "Garchomp",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "90/124",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "garchomp",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/90.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/90.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-91",
+      "name": "Garchomp",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "91/124",
+      "rarity": "Rare",
+      "type": "Dragon",
+      "matching_keywords": [
+        "garchomp",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/91.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/91.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-92",
+      "name": "Giratina-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "92/124",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "giratina",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/92.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/92.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "dragons-exalted-93",
+      "name": "Deino",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "93/124",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "deino",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/93.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/93.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-94",
+      "name": "Deino",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "94/124",
+      "rarity": "Common",
+      "type": "Dragon",
+      "matching_keywords": [
+        "deino",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/94.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/94.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-95",
+      "name": "Zweilous",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "95/124",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "zweilous",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/95.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/95.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-96",
+      "name": "Zweilous",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "96/124",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "zweilous",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/96.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/96.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-97",
+      "name": "Hydreigon",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "97/124",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "hydreigon",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/97.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/97.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-98",
+      "name": "Hydreigon",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "98/124",
+      "rarity": "Rare",
+      "type": "Dragon",
+      "matching_keywords": [
+        "hydreigon",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/98.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/98.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-99",
+      "name": "Aipom",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "99/124",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "aipom",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/99.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/99.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-100",
+      "name": "Ambipom",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "100/124",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "ambipom",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/100.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/100.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-101",
+      "name": "Slakoth",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "101/124",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "slakoth",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/101.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/101.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-102",
+      "name": "Vigoroth",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "102/124",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "vigoroth",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/102.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/102.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-103",
+      "name": "Slaking",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "103/124",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "slaking",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/103.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/103.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-104",
+      "name": "Swablu",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "104/124",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "swablu",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/104.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/104.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-105",
+      "name": "Swablu",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "105/124",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "swablu",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/105.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/105.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-106",
+      "name": "Bidoof",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "106/124",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "bidoof",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/106.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/106.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-107",
+      "name": "Bibarel",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "107/124",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "bibarel",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/107.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/107.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-108",
+      "name": "Audino",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "108/124",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "audino",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/108.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/108.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-109",
+      "name": "Minccino",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "109/124",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "minccino",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/109.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/109.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-110",
+      "name": "Bouffalant",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "110/124",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "bouffalant",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/110.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/110.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "dragons-exalted-111",
+      "name": "Rufflet",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "111/124",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "rufflet",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/111.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/111.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "dragons-exalted-112",
+      "name": "Braviary",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "112/124",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "braviary",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/112.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/112.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "dragons-exalted-113",
+      "name": "Devolution Spray",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "113/124",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "devolution spray",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/113.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/113.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dragons-exalted-114",
+      "name": "Giant Cape",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "114/124",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "giant cape",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/114.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/114.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dragons-exalted-115",
+      "name": "Rescue Scarf",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "115/124",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "rescue scarf",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/115.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/115.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dragons-exalted-116",
+      "name": "Tool Scrapper",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "116/124",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "tool scrapper",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/116.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/116.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "dragons-exalted-117",
+      "name": "Blend Energy GFPD",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "117/124",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "matching_keywords": [
+        "blend energy gfpd",
+        "energy",
+        "special energy",
+        "blend"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/117.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/117.jpg"
+      },
+      "subtype": "Special Energy"
+    },
+    {
+      "id": "dragons-exalted-118",
+      "name": "Blend Energy WLFM",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "118/124",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "matching_keywords": [
+        "blend energy wlfm",
+        "energy",
+        "special energy",
+        "blend"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/118.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/118.jpg"
+      },
+      "subtype": "Special Energy"
+    },
+    {
+      "id": "dragons-exalted-119",
+      "name": "Ho-Oh-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "119/124",
+      "rarity": "Rare Ultra",
+      "type": "Fire",
+      "matching_keywords": [
+        "ho oh",
+        "fire",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/119.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/119.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dragons-exalted-120",
+      "name": "Mew-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "120/124",
+      "rarity": "Rare Ultra",
+      "type": "Psychic",
+      "matching_keywords": [
+        "mew",
+        "psychic",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/120.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/120.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dragons-exalted-121",
+      "name": "Terrakion-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "121/124",
+      "rarity": "Rare Ultra",
+      "type": "Fighting",
+      "matching_keywords": [
+        "terrakion",
+        "fighting",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/121.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/121.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dragons-exalted-122",
+      "name": "Registeel-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "122/124",
+      "rarity": "Rare Ultra",
+      "type": "Metal",
+      "matching_keywords": [
+        "registeel",
+        "metal",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/122.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/122.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dragons-exalted-123",
+      "name": "Rayquaza-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "123/124",
+      "rarity": "Rare Ultra",
+      "type": "Dragon",
+      "matching_keywords": [
+        "rayquaza",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/123.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/123.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dragons-exalted-124",
+      "name": "Giratina-EX",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "124/124",
+      "rarity": "Rare Ultra",
+      "type": "Dragon",
+      "matching_keywords": [
+        "giratina",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/124.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/124.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "dragons-exalted-125",
+      "name": "Serperior",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "125/124",
+      "rarity": "Rare Secret",
+      "type": "Grass",
+      "matching_keywords": [
+        "serperior",
+        "grass",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/125.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/125.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "dragons-exalted-126",
+      "name": "Reuniclus",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "126/124",
+      "rarity": "Rare Secret",
+      "type": "Psychic",
+      "matching_keywords": [
+        "reuniclus",
+        "psychic",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/126.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/126.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "dragons-exalted-127",
+      "name": "Krookodile",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "127/124",
+      "rarity": "Rare Secret",
+      "type": "Darkness",
+      "matching_keywords": [
+        "krookodile",
+        "darkness",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/127.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/127.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "dragons-exalted-128",
+      "name": "Rayquaza",
+      "set": {
+        "name": "Dragons Exalted",
+        "series": "Black & White",
+        "setCode": "BW6",
+        "releaseDate": "2012-08-15"
+      },
+      "number": "128/124",
+      "rarity": "Rare Secret",
+      "type": "Dragon",
+      "matching_keywords": [
+        "rayquaza",
+        "dragon",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/dragonsexalted/128.jpg",
+        "large": "https://www.serebii.net/card/dragonsexalted/128.jpg"
+      },
+      "hp": 150
+    }
+  ]
+}

@@ -116,6 +116,16 @@ class CardMatcher {
       }
     }
     
+    // Also check Japanese name if available
+    if (card.nameJapanese) {
+      const japaneseNameWords = card.nameJapanese.split(/\s+/);
+      for (const word of japaneseNameWords) {
+        if (word.length > 0 && title.includes(word)) {
+          keywordMatches++;
+        }
+      }
+    }
+    
     // Calculate keyword score based on percentage of matches, not total count
     // This prevents dilution from having too many keywords
     const keywordScore = keywords.length > 0 ? keywordMatches / keywords.length : 0;
@@ -130,7 +140,19 @@ class CardMatcher {
         cardNameMatches++;
       }
     }
-    const cardNameScore = cardNameWords.length > 0 ? cardNameMatches / cardNameWords.length : 0;
+    
+    // Also check Japanese name if available
+    if (card.nameJapanese) {
+      const japaneseNameWords = card.nameJapanese.split(/\s+/);
+      for (const word of japaneseNameWords) {
+        if (word.length > 0 && title.includes(word)) {
+          cardNameMatches++;
+        }
+      }
+    }
+    
+    const totalNameWords = cardNameWords.length + (card.nameJapanese ? card.nameJapanese.split(/\s+/).length : 0);
+    const cardNameScore = totalNameWords > 0 ? cardNameMatches / totalNameWords : 0;
     score += cardNameScore * 4; // Weight card name very high
     maxPossibleScore += 4;
 

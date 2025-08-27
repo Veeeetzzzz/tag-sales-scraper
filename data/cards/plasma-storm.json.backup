@@ -1,0 +1,3618 @@
+﻿{
+  "setInfo": {
+    "name": "Plasma Storm",
+    "description": "Plasma Storm Pokemon trading card set with various Pokemon cards and mechanics",
+    "series": "Black & White",
+    "setCode": "BW9",
+    "releaseDate": "2013-02-06",
+    "totalCards": 135
+  },
+  "cards": [
+    {
+      "id": "plasma-storm-1",
+      "name": "Turtwig",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "1/135",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "turtwig",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/1.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-2",
+      "name": "Grotle",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "2/135",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "grotle",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/2.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/2.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-3",
+      "name": "Torterra",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "3/135",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "torterra",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/3.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/3.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-4",
+      "name": "Combee",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "4/135",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "combee",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/4.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/4.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-5",
+      "name": "Vespiquen",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "5/135",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "vespiquen",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/5.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/5.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-6",
+      "name": "Cherubi",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "6/135",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "cherubi",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/6.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/6.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-7",
+      "name": "Cherrim",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "7/135",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "cherrim",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/7.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/7.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-8",
+      "name": "Sewaddle",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "8/135",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "sewaddle",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/8.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/8.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-9",
+      "name": "Swadloon",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "9/135",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "swadloon",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/9.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/9.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-10",
+      "name": "Leavanny",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "10/135",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "leavanny",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/10.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/10.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-11",
+      "name": "Maractus",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "11/135",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "maractus",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/11.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/11.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-12",
+      "name": "Foongus",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "12/135",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "foongus",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/12.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/12.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-13",
+      "name": "Amoonguss",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "13/135",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "amoonguss",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/13.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/13.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-14",
+      "name": "Moltres-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "14/135",
+      "rarity": "Rare Holo ex",
+      "type": "Fire",
+      "matching_keywords": [
+        "moltres",
+        "fire",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "moltres",
+        "legendary",
+        "bird",
+        "flame",
+        "fire",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/14.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/14.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "plasma-storm-15",
+      "name": "Chimchar",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "15/135",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "chimchar",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/15.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/15.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-16",
+      "name": "Monferno",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "16/135",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "monferno",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/16.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/16.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-17",
+      "name": "Infernape",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "17/135",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "infernape",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/17.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/17.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-18",
+      "name": "Victini-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "18/135",
+      "rarity": "Rare Holo ex",
+      "type": "Fire",
+      "matching_keywords": [
+        "victini",
+        "fire",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/18.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/18.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "plasma-storm-19",
+      "name": "Pansear",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "19/135",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "pansear",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/19.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/19.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-20",
+      "name": "Simisear",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "20/135",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "simisear",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/20.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/20.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-21",
+      "name": "Litwick",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "21/135",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "litwick",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/21.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/21.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-22",
+      "name": "Lampent",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "22/135",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "lampent",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/22.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/22.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-23",
+      "name": "Heatmor",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "23/135",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "heatmor",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/23.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/23.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-24",
+      "name": "Squirtle",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "24/135",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "squirtle",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/24.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/24.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-25",
+      "name": "Articuno-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "25/135",
+      "rarity": "Rare Holo ex",
+      "type": "Water",
+      "matching_keywords": [
+        "articuno",
+        "water",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "articuno",
+        "legendary",
+        "bird",
+        "ice",
+        "freeze",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/25.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/25.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "plasma-storm-26",
+      "name": "Swinub",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "26/135",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "swinub",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/26.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/26.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-27",
+      "name": "Piloswine",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "27/135",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "piloswine",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/27.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/27.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-28",
+      "name": "Mamoswine",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "28/135",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "mamoswine",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/28.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/28.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-29",
+      "name": "Lotad",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "29/135",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "lotad",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/29.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/29.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-30",
+      "name": "Lombre",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "30/135",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "lombre",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/30.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/30.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-31",
+      "name": "Ludicolo",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "31/135",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "ludicolo",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/31.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/31.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-32",
+      "name": "Carvanha",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "32/135",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "carvanha",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/32.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/32.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-33",
+      "name": "Sharpedo",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "33/135",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "sharpedo",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/33.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/33.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-34",
+      "name": "Manaphy",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "34/135",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "manaphy",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/34.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/34.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-35",
+      "name": "Vanillite",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "35/135",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "vanillite",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/35.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/35.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-36",
+      "name": "Vanillish",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "36/135",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "vanillish",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/36.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/36.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-37",
+      "name": "Vanilluxe",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "37/135",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "vanilluxe",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/37.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/37.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-38",
+      "name": "Frillish",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "38/135",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "frillish",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/38.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/38.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-39",
+      "name": "Jellicent",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "39/135",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "jellicent",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/39.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/39.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-40",
+      "name": "Cubchoo",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "40/135",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "cubchoo",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/40.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/40.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-41",
+      "name": "Beartic",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "41/135",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "beartic",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/41.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/41.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-42",
+      "name": "Magnemite",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "42/135",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "magnemite",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/42.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/42.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-43",
+      "name": "Magnemite",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "43/135",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "magnemite",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/43.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/43.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-44",
+      "name": "Magneton",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "44/135",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "magneton",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/44.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/44.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-45",
+      "name": "Magneton",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "45/135",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "magneton",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/45.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/45.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-46",
+      "name": "Magnezone",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "46/135",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "magnezone",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/46.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/46.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-47",
+      "name": "Magnezone",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "47/135",
+      "rarity": "Rare",
+      "type": "Lightning",
+      "matching_keywords": [
+        "magnezone",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/47.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/47.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-48",
+      "name": "Zapdos-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "48/135",
+      "rarity": "Rare Holo ex",
+      "type": "Lightning",
+      "matching_keywords": [
+        "zapdos",
+        "lightning",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "zapdos",
+        "legendary",
+        "bird",
+        "thunder",
+        "electric",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/48.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/48.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "plasma-storm-49",
+      "name": "Rotom",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "49/135",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "rotom",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/49.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/49.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-50",
+      "name": "Joltik",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "50/135",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "joltik",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/50.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/50.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-51",
+      "name": "Galvantula",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "51/135",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "galvantula",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/51.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/51.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-52",
+      "name": "Zubat",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "52/135",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "zubat",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/52.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/52.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-53",
+      "name": "Zubat",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "53/135",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "zubat",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/53.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/53.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-54",
+      "name": "Golbat",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "54/135",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "golbat",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/54.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/54.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-55",
+      "name": "Crobat",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "55/135",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "crobat",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/55.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/55.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-56",
+      "name": "Koffing",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "56/135",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "koffing",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/56.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/56.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-57",
+      "name": "Koffing",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "57/135",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "koffing",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/57.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/57.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-58",
+      "name": "Weezing",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "58/135",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "weezing",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/58.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/58.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-59",
+      "name": "Ralts",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "59/135",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "ralts",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/59.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/59.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-60",
+      "name": "Kirlia",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "60/135",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "kirlia",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/60.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/60.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-61",
+      "name": "Gallade",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "61/135",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gallade",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/61.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/61.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-62",
+      "name": "Giratina",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "62/135",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "giratina",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/62.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/62.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-63",
+      "name": "Trubbish",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "63/135",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "trubbish",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/63.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/63.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-64",
+      "name": "Trubbish",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "64/135",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "trubbish",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/64.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/64.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-65",
+      "name": "Trubbish",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "65/135",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "trubbish",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/65.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/65.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-66",
+      "name": "Garbodor",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "66/135",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "garbodor",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/66.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/66.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-67",
+      "name": "Garbodor",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "67/135",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "garbodor",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/67.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/67.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-68",
+      "name": "Elgyem",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "68/135",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "elgyem",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/68.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/68.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-69",
+      "name": "Elgyem",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "69/135",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "elgyem",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/69.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/69.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-70",
+      "name": "Beheeyem",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "70/135",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "beheeyem",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/70.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/70.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-71",
+      "name": "Phanpy",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "71/135",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "phanpy",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/71.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/71.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-72",
+      "name": "Donphan",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "72/135",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "donphan",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/72.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/72.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-73",
+      "name": "Lunatone",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "73/135",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "lunatone",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/73.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/73.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-74",
+      "name": "Solrock",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "74/135",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "solrock",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/74.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/74.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-75",
+      "name": "Riolu",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "75/135",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "riolu",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/75.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/75.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-76",
+      "name": "Riolu",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "76/135",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "riolu",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/76.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/76.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-77",
+      "name": "Lucario",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "77/135",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "lucario",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/77.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/77.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-78",
+      "name": "Lucario",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "78/135",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "lucario",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/78.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/78.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-79",
+      "name": "Timburr",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "79/135",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "timburr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/79.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/79.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-80",
+      "name": "Gurdurr",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "80/135",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "gurdurr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/80.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/80.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-81",
+      "name": "Conkeldurr",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "81/135",
+      "rarity": "Rare",
+      "type": "Fighting",
+      "matching_keywords": [
+        "conkeldurr",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/81.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/81.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-82",
+      "name": "Purrloin",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "82/135",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "purrloin",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/82.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/82.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-83",
+      "name": "Purrloin",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "83/135",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "purrloin",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/83.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/83.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-84",
+      "name": "Liepard",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "84/135",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "liepard",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/84.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/84.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-85",
+      "name": "Scraggy",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "85/135",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "scraggy",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/85.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/85.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-86",
+      "name": "Scrafty",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "86/135",
+      "rarity": "Rare",
+      "type": "Darkness",
+      "matching_keywords": [
+        "scrafty",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/86.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/86.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-87",
+      "name": "Skarmory",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "87/135",
+      "rarity": "Rare",
+      "type": "Metal",
+      "matching_keywords": [
+        "skarmory",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/87.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/87.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-88",
+      "name": "Klink",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "88/135",
+      "rarity": "Common",
+      "type": "Metal",
+      "matching_keywords": [
+        "klink",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/88.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/88.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-89",
+      "name": "Klang",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "89/135",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "klang",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/89.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/89.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-90",
+      "name": "Klinklang",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "90/135",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "matching_keywords": [
+        "klinklang",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/90.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/90.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-91",
+      "name": "Durant",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "91/135",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "durant",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/91.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/91.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-92",
+      "name": "Durant",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "92/135",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "durant",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/92.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/92.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-93",
+      "name": "Cobalion-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "93/135",
+      "rarity": "Rare Holo ex",
+      "type": "Metal",
+      "matching_keywords": [
+        "cobalion",
+        "metal",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/93.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/93.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "plasma-storm-94",
+      "name": "Druddigon",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "94/135",
+      "rarity": "Rare",
+      "type": "Dragon",
+      "matching_keywords": [
+        "druddigon",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/94.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/94.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-95",
+      "name": "Black Kyurem-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "95/135",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "black kyurem",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful",
+        "black",
+        "kyurem",
+        "ice",
+        "frozen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/95.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/95.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "plasma-storm-96",
+      "name": "White Kyurem-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "96/135",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "white kyurem",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful",
+        "white",
+        "kyurem",
+        "ice",
+        "frozen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/96.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/96.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "plasma-storm-97",
+      "name": "Clefairy",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "97/135",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "clefairy",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/97.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/97.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-98",
+      "name": "Clefable",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "98/135",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "clefable",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/98.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/98.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-99",
+      "name": "Doduo",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "99/135",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "doduo",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/99.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/99.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-100",
+      "name": "Dodrio",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "100/135",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "dodrio",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/100.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/100.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-101",
+      "name": "Snorlax",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "101/135",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "snorlax",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/101.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/101.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-102",
+      "name": "Togepi",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "102/135",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "togepi",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/102.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/102.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-103",
+      "name": "Togetic",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "103/135",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "togetic",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/103.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/103.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-104",
+      "name": "Togekiss",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "104/135",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "togekiss",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/104.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/104.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-105",
+      "name": "Whismur",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "105/135",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "whismur",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/105.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/105.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-106",
+      "name": "Loudred",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "106/135",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "loudred",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/106.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/106.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-107",
+      "name": "Exploud",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "107/135",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "ploud",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/107.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/107.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-108",
+      "name": "Lugia-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "108/135",
+      "rarity": "Rare Holo ex",
+      "type": "Colorless",
+      "matching_keywords": [
+        "lugia",
+        "colorless",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/108.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/108.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "plasma-storm-109",
+      "name": "Skitty",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "109/135",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "skitty",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/109.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/109.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-110",
+      "name": "Patrat",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "110/135",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "patrat",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/110.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/110.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-111",
+      "name": "Patrat",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "111/135",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "patrat",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/111.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/111.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-112",
+      "name": "Watchog",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "112/135",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "watchog",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/112.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/112.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "plasma-storm-113",
+      "name": "Watchog",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "113/135",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "watchog",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/113.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/113.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-114",
+      "name": "Bouffalant",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "114/135",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "bouffalant",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/114.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/114.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-115",
+      "name": "Rufflet",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "115/135",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "rufflet",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/115.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/115.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "plasma-storm-116",
+      "name": "Braviary",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "116/135",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "braviary",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/116.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/116.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "plasma-storm-117",
+      "name": "Bicycle",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "117/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "bicycle",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/117.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/117.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-118",
+      "name": "Colress",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "118/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "colress",
+        "trainer",
+        "supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/118.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/118.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "plasma-storm-119",
+      "name": "Colress Machine",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "119/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "colress machine",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/119.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/119.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-120",
+      "name": "Escape Rope",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "120/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "escape rope",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/120.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/120.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-121",
+      "name": "Ether",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "121/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "ether",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/121.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/121.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-122",
+      "name": "Eviolite",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "122/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "eviolite",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/122.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/122.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-123",
+      "name": "Hypnotoxic Laser",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "123/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "hypnotoxic laser",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/123.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/123.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-124",
+      "name": "Plasma Frigate",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "124/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "plasma frigate",
+        "trainer",
+        "stadium",
+        "plasma",
+        "team plasma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/124.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/124.jpg"
+      },
+      "subtype": "Stadium"
+    },
+    {
+      "id": "plasma-storm-125",
+      "name": "Team Plasma Grunt",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "125/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "team plasma grunt",
+        "trainer",
+        "supporter",
+        "plasma",
+        "team plasma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/125.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/125.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "plasma-storm-126",
+      "name": "Virbank City Gym",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "126/135",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "virbank city gym",
+        "trainer",
+        "stadium"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/126.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/126.jpg"
+      },
+      "subtype": "Stadium"
+    },
+    {
+      "id": "plasma-storm-127",
+      "name": "Plasma Energy",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "127/135",
+      "rarity": "Uncommon",
+      "type": "Energy",
+      "matching_keywords": [
+        "plasma energy",
+        "energy",
+        "special energy",
+        "plasma"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/127.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/127.jpg"
+      },
+      "subtype": "Special Energy"
+    },
+    {
+      "id": "plasma-storm-128",
+      "name": "Dowsing Machine",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "128/135",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "dowsing machine",
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/128.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/128.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-129",
+      "name": "Scramble Switch",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "129/135",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "scramble switch",
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/129.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/129.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-130",
+      "name": "Victory Piece",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "130/135",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "victory piece",
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/130.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/130.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "plasma-storm-131",
+      "name": "Victini-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "131/135",
+      "rarity": "Rare Ultra",
+      "type": "Fire",
+      "matching_keywords": [
+        "victini",
+        "fire",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/131.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/131.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "plasma-storm-132",
+      "name": "Articuno-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "132/135",
+      "rarity": "Rare Ultra",
+      "type": "Water",
+      "matching_keywords": [
+        "articuno",
+        "water",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "articuno",
+        "legendary",
+        "bird",
+        "ice",
+        "freeze",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/132.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/132.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "plasma-storm-133",
+      "name": "Cobalion-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "133/135",
+      "rarity": "Rare Ultra",
+      "type": "Metal",
+      "matching_keywords": [
+        "cobalion",
+        "metal",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/133.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/133.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "plasma-storm-134",
+      "name": "Lugia-EX",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "134/135",
+      "rarity": "Rare Ultra",
+      "type": "Colorless",
+      "matching_keywords": [
+        "lugia",
+        "colorless",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/134.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/134.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "plasma-storm-135",
+      "name": "Colress",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "135/135",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "matching_keywords": [
+        "colress",
+        "trainer",
+        "supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/135.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/135.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "plasma-storm-136",
+      "name": "Charizard",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "136/135",
+      "rarity": "Rare Secret",
+      "type": "Fire",
+      "matching_keywords": [
+        "charizard",
+        "fire",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/136.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/136.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "plasma-storm-137",
+      "name": "Blastoise",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "137/135",
+      "rarity": "Rare Secret",
+      "type": "Water",
+      "matching_keywords": [
+        "blastoise",
+        "water",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/137.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/137.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "plasma-storm-138",
+      "name": "Random Receiver",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "setCode": "BW9",
+        "releaseDate": "2013-02-06"
+      },
+      "number": "138/135",
+      "rarity": "Rare Secret",
+      "type": "Trainer",
+      "matching_keywords": [
+        "random receiver",
+        "trainer",
+        "item",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/plasmastorm/138.jpg",
+        "large": "https://www.serebii.net/card/plasmastorm/138.jpg"
+      },
+      "subtype": "Item"
+    }
+  ]
+}

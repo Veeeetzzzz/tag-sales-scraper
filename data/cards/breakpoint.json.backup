@@ -1,0 +1,1608 @@
+﻿{
+  "setInfo": {
+    "name": "BREAKpoint",
+    "description": "BREAKpoint Pokemon trading card set with various Pokemon cards and mechanics",
+    "series": "XY",
+    "releaseDate": "2016-02-03",
+    "totalCards": 123,
+    "symbol": "BKP",
+    "logo": "https://www.serebii.net/card/breakpoint/logo.png"
+  },
+  "cards": [
+    {
+      "id": "breakpoint-1",
+      "name": "Chikorita",
+      "number": "1",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/1.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-2",
+      "name": "Bayleef",
+      "number": "2",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/2.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-3",
+      "name": "Meganium",
+      "number": "3",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/3.jpg",
+      "hp": 140
+    },
+    {
+      "id": "breakpoint-4",
+      "name": "Seedot",
+      "number": "4",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/4.jpg",
+      "hp": 50
+    },
+    {
+      "id": "breakpoint-5",
+      "name": "Kricketot",
+      "number": "5",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/5.jpg",
+      "hp": 40
+    },
+    {
+      "id": "breakpoint-6",
+      "name": "Kricketune",
+      "number": "6",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/6.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-7",
+      "name": "Petilil",
+      "number": "7",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/7.jpg",
+      "hp": 50
+    },
+    {
+      "id": "breakpoint-8",
+      "name": "Lilligant",
+      "number": "8",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/8.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-9",
+      "name": "Durant",
+      "number": "9",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/9.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-10",
+      "name": "Growlithe",
+      "number": "10",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/10.jpg",
+      "hp": 70
+    },
+    {
+      "id": "breakpoint-11",
+      "name": "Arcanine",
+      "number": "11",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/11.jpg",
+      "hp": 120
+    },
+    {
+      "id": "breakpoint-12",
+      "name": "Numel",
+      "number": "12",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/12.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-13",
+      "name": "Camerupt",
+      "number": "13",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/13.jpg",
+      "hp": 130
+    },
+    {
+      "id": "breakpoint-14",
+      "name": "EmboarEX",
+      "number": "14",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/14.jpg",
+      "hp": 180,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-15",
+      "name": "Heatmor",
+      "number": "15",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/15.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-16",
+      "name": "Psyduck",
+      "number": "16",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/16.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-17",
+      "name": "Golduck",
+      "number": "17",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/17.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-18",
+      "name": "GolduckBREAK",
+      "number": "18",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/18.jpg",
+      "hp": 130,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "breakpoint-19",
+      "name": "Slowpoke",
+      "number": "19",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/19.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-20",
+      "name": "Slowbro",
+      "number": "20",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/20.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-21",
+      "name": "Slowking",
+      "number": "21",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/21.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-22",
+      "name": "Shellder",
+      "number": "22",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/22.jpg",
+      "hp": 50
+    },
+    {
+      "id": "breakpoint-23",
+      "name": "Shellder",
+      "number": "23",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/23.jpg",
+      "hp": 50
+    },
+    {
+      "id": "breakpoint-24",
+      "name": "Cloyster",
+      "number": "24",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/24.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-25",
+      "name": "Staryu",
+      "number": "25",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/25.jpg",
+      "hp": 50
+    },
+    {
+      "id": "breakpoint-26",
+      "name": "GyaradosEX",
+      "number": "26",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/26.jpg",
+      "hp": 220,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-27",
+      "name": "MegaGyaradosEX",
+      "number": "27",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/27.jpg",
+      "hp": 240,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "breakpoint-28",
+      "name": "Lapras",
+      "number": "28",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/28.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-29",
+      "name": "Corsola",
+      "number": "29",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/29.jpg",
+      "hp": 70
+    },
+    {
+      "id": "breakpoint-30",
+      "name": "Suicune",
+      "number": "30",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/30.jpg",
+      "hp": 110
+    },
+    {
+      "id": "breakpoint-31",
+      "name": "PalkiaEX",
+      "number": "31",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/31.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-32",
+      "name": "ManaphyEX",
+      "number": "32",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/32.jpg",
+      "hp": 120,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-33",
+      "name": "Tympole",
+      "number": "33",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/33.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-34",
+      "name": "Palpitoad",
+      "number": "34",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/34.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-35",
+      "name": "Seismitoad",
+      "number": "35",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/35.jpg",
+      "hp": 130
+    },
+    {
+      "id": "breakpoint-36",
+      "name": "Ducklett",
+      "number": "36",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/36.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-37",
+      "name": "Swanna",
+      "number": "37",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/37.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-38",
+      "name": "Froakie",
+      "number": "38",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/38.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-39",
+      "name": "Frogadier",
+      "number": "39",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/39.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-40",
+      "name": "Greninja",
+      "number": "40",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/40.jpg",
+      "hp": 130
+    },
+    {
+      "id": "breakpoint-41",
+      "name": "GreninjaBREAK",
+      "number": "41",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/41.jpg",
+      "hp": 170,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "breakpoint-42",
+      "name": "Electabuzz",
+      "number": "42",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/42.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-43",
+      "name": "Electivire",
+      "number": "43",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/43.jpg",
+      "hp": 120
+    },
+    {
+      "id": "breakpoint-44",
+      "name": "Shinx",
+      "number": "44",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/44.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-45",
+      "name": "Luxio",
+      "number": "45",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/45.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-46",
+      "name": "Luxray",
+      "number": "46",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/46.jpg",
+      "hp": 130
+    },
+    {
+      "id": "breakpoint-47",
+      "name": "LuxrayBREAK",
+      "number": "47",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/47.jpg",
+      "hp": 160,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "breakpoint-48",
+      "name": "Blitzle",
+      "number": "48",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/48.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-49",
+      "name": "Zebstrika",
+      "number": "49",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/49.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-50",
+      "name": "Drowzee",
+      "number": "50",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/50.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-51",
+      "name": "Hypno",
+      "number": "51",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/51.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-52",
+      "name": "EspeonEX",
+      "number": "52",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/52.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-53",
+      "name": "Skorupi",
+      "number": "53",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/53.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-54",
+      "name": "Drapion",
+      "number": "54",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/54.jpg",
+      "hp": 110
+    },
+    {
+      "id": "breakpoint-55",
+      "name": "Sigilyph",
+      "number": "55",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/55.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-56",
+      "name": "Trubbish",
+      "number": "56",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/56.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-57",
+      "name": "Garbodor",
+      "number": "57",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/57.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-58",
+      "name": "Espurr",
+      "number": "58",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/58.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-59",
+      "name": "Meowstic",
+      "number": "59",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/59.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-60",
+      "name": "Honedge",
+      "number": "60",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/60.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-61",
+      "name": "Doublade",
+      "number": "61",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/61.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-62",
+      "name": "Aegislash",
+      "number": "62",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/62.jpg",
+      "hp": 140
+    },
+    {
+      "id": "breakpoint-63",
+      "name": "Skrelp",
+      "number": "63",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/63.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-64",
+      "name": "Phantump",
+      "number": "64",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/64.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-65",
+      "name": "Trevenant",
+      "number": "65",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/65.jpg",
+      "hp": 110
+    },
+    {
+      "id": "breakpoint-66",
+      "name": "TrevenantBREAK",
+      "number": "66",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/66.jpg",
+      "hp": 160,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "breakpoint-67",
+      "name": "Sudowoodo",
+      "number": "67",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/67.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-68",
+      "name": "Gible",
+      "number": "68",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/68.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-69",
+      "name": "Gabite",
+      "number": "69",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/69.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-70",
+      "name": "Garchomp",
+      "number": "70",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/70.jpg",
+      "hp": 150
+    },
+    {
+      "id": "breakpoint-71",
+      "name": "Pancham",
+      "number": "71",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/71.jpg",
+      "hp": 70
+    },
+    {
+      "id": "breakpoint-72",
+      "name": "Nuzleaf",
+      "number": "72",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/72.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-73",
+      "name": "Shiftry",
+      "number": "73",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/73.jpg",
+      "hp": 130
+    },
+    {
+      "id": "breakpoint-74",
+      "name": "DarkraiEX",
+      "number": "74",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/74.jpg",
+      "hp": 180,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-75",
+      "name": "Pangoro",
+      "number": "75",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/75.jpg",
+      "hp": 120
+    },
+    {
+      "id": "breakpoint-76",
+      "name": "ScizorEX",
+      "number": "76",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/76.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-77",
+      "name": "MegaScizorEX",
+      "number": "77",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/77.jpg",
+      "hp": 220,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "breakpoint-78",
+      "name": "Mawile",
+      "number": "78",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/78.jpg",
+      "hp": 70
+    },
+    {
+      "id": "breakpoint-79",
+      "name": "Ferroseed",
+      "number": "79",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/79.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-80",
+      "name": "Ferrothorn",
+      "number": "80",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/80.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-81",
+      "name": "Clefairy",
+      "number": "81",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/81.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-82",
+      "name": "Clefable",
+      "number": "82",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/82.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-83",
+      "name": "TogekissEX",
+      "number": "83",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/83.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-84",
+      "name": "Spritzee",
+      "number": "84",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/84.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-85",
+      "name": "Aromatisse",
+      "number": "85",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/85.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-86",
+      "name": "Dragalge",
+      "number": "86",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/86.jpg",
+      "hp": 130
+    },
+    {
+      "id": "breakpoint-87",
+      "name": "Rattata",
+      "number": "87",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/87.jpg",
+      "hp": 50
+    },
+    {
+      "id": "breakpoint-88",
+      "name": "Raticate",
+      "number": "88",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/88.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-89",
+      "name": "RaticateBREAK",
+      "number": "89",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/89.jpg",
+      "hp": 120,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "breakpoint-90",
+      "name": "Dunsparce",
+      "number": "90",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/90.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-91",
+      "name": "Stantler",
+      "number": "91",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/91.jpg",
+      "hp": 80
+    },
+    {
+      "id": "breakpoint-92",
+      "name": "Ho-OhEX",
+      "number": "92",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/92.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-93",
+      "name": "Glameow",
+      "number": "93",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/93.jpg",
+      "hp": 60
+    },
+    {
+      "id": "breakpoint-94",
+      "name": "Purugly",
+      "number": "94",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/94.jpg",
+      "hp": 100
+    },
+    {
+      "id": "breakpoint-95",
+      "name": "Furfrou",
+      "number": "95",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/95.jpg",
+      "hp": 90
+    },
+    {
+      "id": "breakpoint-96",
+      "name": "All-Night Party",
+      "number": "96",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/96.jpg",
+      "keywords": [
+        "stadium"
+      ]
+    },
+    {
+      "id": "breakpoint-97",
+      "name": "Bursting Balloon",
+      "number": "97",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/97.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "breakpoint-98",
+      "name": "Delinquent",
+      "number": "98",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/98.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "breakpoint-99",
+      "name": "Fighting Fury Belt",
+      "number": "99",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/99.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "breakpoint-100",
+      "name": "Great Ball",
+      "number": "100",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/100.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "breakpoint-101",
+      "name": "Gyarados Spirit Link",
+      "number": "101",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/101.jpg",
+      "keywords": [
+        "item",
+        "spirit-link"
+      ]
+    },
+    {
+      "id": "breakpoint-102",
+      "name": "Max Elixir",
+      "number": "102",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/102.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "breakpoint-103",
+      "name": "Max Potion",
+      "number": "103",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/103.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "breakpoint-104",
+      "name": "Misty's Determination",
+      "number": "104",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/104.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "breakpoint-105",
+      "name": "Pok\u00e9mon Catcher",
+      "number": "105",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/105.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "breakpoint-106",
+      "name": "Potion",
+      "number": "106",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/106.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "breakpoint-107",
+      "name": "Professor Sycamore",
+      "number": "107",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/107.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "breakpoint-108",
+      "name": "Psychic's Third Eye",
+      "number": "108",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/108.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "breakpoint-109",
+      "name": "Puzzle of Time",
+      "number": "109",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/109.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "breakpoint-110",
+      "name": "Reverse Valley",
+      "number": "110",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/110.jpg",
+      "keywords": [
+        "stadium"
+      ]
+    },
+    {
+      "id": "breakpoint-111",
+      "name": "Scizor Spirit Link",
+      "number": "111",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/111.jpg",
+      "keywords": [
+        "item",
+        "spirit-link"
+      ]
+    },
+    {
+      "id": "breakpoint-112",
+      "name": "Tierno",
+      "number": "112",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/112.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "breakpoint-113",
+      "name": "Splash Energy",
+      "number": "113",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/113.jpg",
+      "keywords": [
+        "special-energy"
+      ]
+    },
+    {
+      "id": "breakpoint-114",
+      "name": "GyaradosEX",
+      "number": "114",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/114.jpg",
+      "hp": 220,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-115",
+      "name": "MegaGyaradosEX",
+      "number": "115",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/115.jpg",
+      "hp": 240,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "breakpoint-116",
+      "name": "ManaphyEX",
+      "number": "116",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/116.jpg",
+      "hp": 120,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-117",
+      "name": "EspeonEX",
+      "number": "117",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/117.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-118",
+      "name": "DarkraiEX",
+      "number": "118",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/118.jpg",
+      "hp": 180,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-119",
+      "name": "ScizorEX",
+      "number": "119",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/119.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-120",
+      "name": "MegaScizorEX",
+      "number": "120",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/120.jpg",
+      "hp": 220,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "breakpoint-121",
+      "name": "Ho-OhEX",
+      "number": "121",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/121.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "breakpoint-122",
+      "name": "Skyla",
+      "number": "122",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/122.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "breakpoint-123",
+      "name": "GyaradosEX",
+      "number": "123",
+      "set": "BREAKpoint",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/breakpoint/123.jpg",
+      "hp": 220,
+      "keywords": [
+        "ex"
+      ]
+    }
+  ]
+}

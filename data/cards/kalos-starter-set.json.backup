@@ -1,0 +1,571 @@
+﻿{
+  "setInfo": {
+    "name": "Kalos Starter Set",
+    "description": "Kalos Starter Set Pokemon trading card set with various Pokemon cards and mechanics",
+    "releaseDate": "November 8, 2013",
+    "totalCards": 39
+  },
+  "cards": [
+    {
+      "number": "1/39",
+      "name": "Weedle",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "bug"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/1.jpg"
+    },
+    {
+      "number": "2/39",
+      "name": "Pansage",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "monkey"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/2.jpg"
+    },
+    {
+      "number": "3/39",
+      "name": "Chespin",
+      "type": "Grass",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "starter",
+        "kalos"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/3.jpg"
+    },
+    {
+      "number": "4/39",
+      "name": "Quilladin",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "starter",
+        "kalos",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/4.jpg"
+    },
+    {
+      "number": "5/39",
+      "name": "Chesnaught",
+      "type": "Grass",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [
+        "pokemon",
+        "grass",
+        "starter",
+        "kalos",
+        "evolution",
+        "stage2"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/5.jpg"
+    },
+    {
+      "number": "6/39",
+      "name": "Slugma",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "lava"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/6.jpg"
+    },
+    {
+      "number": "7/39",
+      "name": "Pansear",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "monkey"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/7.jpg"
+    },
+    {
+      "number": "8/39",
+      "name": "Fennekin",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "starter",
+        "kalos",
+        "fox"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/8.jpg"
+    },
+    {
+      "number": "9/39",
+      "name": "Braixen",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "starter",
+        "kalos",
+        "fox",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/9.jpg"
+    },
+    {
+      "number": "10/39",
+      "name": "Delphox",
+      "type": "Fire",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [
+        "pokemon",
+        "fire",
+        "starter",
+        "kalos",
+        "fox",
+        "evolution",
+        "stage2",
+        "psychic"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/10.jpg"
+    },
+    {
+      "number": "11/39",
+      "name": "Panpour",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "water",
+        "monkey"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/11.jpg"
+    },
+    {
+      "number": "12/39",
+      "name": "Froakie",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "water",
+        "starter",
+        "kalos",
+        "frog"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/12.jpg"
+    },
+    {
+      "number": "13/39",
+      "name": "Frogadier",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "water",
+        "starter",
+        "kalos",
+        "frog",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/13.jpg"
+    },
+    {
+      "number": "14/39",
+      "name": "Greninja",
+      "type": "Water",
+      "rarity": "Rare",
+      "hp": 140,
+      "keywords": [
+        "pokemon",
+        "water",
+        "starter",
+        "kalos",
+        "frog",
+        "evolution",
+        "stage2",
+        "ninja"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/14.jpg"
+    },
+    {
+      "number": "15/39",
+      "name": "Clauncher",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "water",
+        "kalos",
+        "shrimp"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/15.jpg"
+    },
+    {
+      "number": "16/39",
+      "name": "Poochyena",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "dog"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/16.jpg"
+    },
+    {
+      "number": "17/39",
+      "name": "Mightyena",
+      "type": "Darkness",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "dog",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/17.jpg"
+    },
+    {
+      "number": "18/39",
+      "name": "Inkay",
+      "type": "Darkness",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "darkness",
+        "dark",
+        "kalos",
+        "squid"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/18.jpg"
+    },
+    {
+      "number": "19/39",
+      "name": "Pawniard",
+      "type": "Metal",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "metal",
+        "steel",
+        "blade"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/19.jpg"
+    },
+    {
+      "number": "20/39",
+      "name": "Bisharp",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "metal",
+        "steel",
+        "blade",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/20.jpg"
+    },
+    {
+      "number": "21/39",
+      "name": "Honedge",
+      "type": "Metal",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "metal",
+        "steel",
+        "kalos",
+        "sword",
+        "ghost"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/21.jpg"
+    },
+    {
+      "number": "22/39",
+      "name": "Snubbull",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "dog"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/22.jpg"
+    },
+    {
+      "number": "23/39",
+      "name": "Granbull",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "dog",
+        "evolution"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/23.jpg"
+    },
+    {
+      "number": "24/39",
+      "name": "Swirlix",
+      "type": "Fairy",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "fairy",
+        "kalos",
+        "cotton"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/24.jpg"
+    },
+    {
+      "number": "25/39",
+      "name": "Farfetch'd",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "bird",
+        "flying"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/25.jpg"
+    },
+    {
+      "number": "26/39",
+      "name": "Snorlax",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "hp": 120,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "sleeping",
+        "huge"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/26.jpg"
+    },
+    {
+      "number": "27/39",
+      "name": "Miltank",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "cow",
+        "milk"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/27.jpg"
+    },
+    {
+      "number": "28/39",
+      "name": "Skitty",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "cat"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/28.jpg"
+    },
+    {
+      "number": "29/39",
+      "name": "Bidoof",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "beaver"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/29.jpg"
+    },
+    {
+      "number": "30/39",
+      "name": "Bunnelby",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "kalos",
+        "rabbit"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/30.jpg"
+    },
+    {
+      "number": "31/39",
+      "name": "Fletchling",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 60,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "kalos",
+        "bird",
+        "flying"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/31.jpg"
+    },
+    {
+      "number": "32/39",
+      "name": "Furfrou",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "kalos",
+        "poodle"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/32.jpg"
+    },
+    {
+      "number": "33/39",
+      "name": "Furfrou",
+      "type": "Colorless",
+      "rarity": "Common",
+      "hp": 90,
+      "keywords": [
+        "pokemon",
+        "colorless",
+        "kalos",
+        "poodle"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/33.jpg"
+    },
+    {
+      "number": "34/39",
+      "name": "Crushing Hammer",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Common",
+      "keywords": [
+        "trainer",
+        "item",
+        "discard",
+        "energy"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/34.jpg"
+    },
+    {
+      "number": "35/39",
+      "name": "PokÃ© Ball",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Common",
+      "keywords": [
+        "trainer",
+        "item",
+        "search",
+        "pokemon"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/35.jpg"
+    },
+    {
+      "number": "36/39",
+      "name": "PokÃ©mon Catcher",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Uncommon",
+      "keywords": [
+        "trainer",
+        "item",
+        "switch",
+        "pokemon"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/36.jpg"
+    },
+    {
+      "number": "37/39",
+      "name": "Potion",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Common",
+      "keywords": [
+        "trainer",
+        "item",
+        "heal",
+        "pokemon"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/37.jpg"
+    },
+    {
+      "number": "38/39",
+      "name": "Switch",
+      "type": "Trainer",
+      "subtype": "Item",
+      "rarity": "Common",
+      "keywords": [
+        "trainer",
+        "item",
+        "switch",
+        "pokemon"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/38.jpg"
+    },
+    {
+      "number": "39/39",
+      "name": "Tierno",
+      "type": "Trainer",
+      "subtype": "Supporter",
+      "rarity": "Common",
+      "keywords": [
+        "trainer",
+        "supporter",
+        "draw",
+        "kalos"
+      ],
+      "image_url": "https://www.serebii.net/card/kalosstarterset/39.jpg"
+    }
+  ]
+}

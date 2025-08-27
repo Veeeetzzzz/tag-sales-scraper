@@ -1,0 +1,1660 @@
+﻿{
+  "setInfo": {
+    "name": "Fates Collide",
+    "description": "Fates Collide Pokemon trading card set with various Pokemon cards and mechanics",
+    "series": "XY",
+    "releaseDate": "2016-05-02",
+    "totalCards": 125,
+    "symbol": "FCO",
+    "logo": "https://www.serebii.net/card/fatescollide/logo.png"
+  },
+  "cards": [
+    {
+      "id": "fates-collide-1",
+      "name": "Shuckle",
+      "number": "1",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/1.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-2",
+      "name": "Burmy",
+      "number": "2",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/2.jpg",
+      "hp": 50
+    },
+    {
+      "id": "fates-collide-3",
+      "name": "Wormadam",
+      "number": "3",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/3.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-4",
+      "name": "Mothim",
+      "number": "4",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/4.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-5",
+      "name": "Snivy",
+      "number": "5",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/5.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-6",
+      "name": "Servine",
+      "number": "6",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/6.jpg",
+      "hp": 80
+    },
+    {
+      "id": "fates-collide-7",
+      "name": "Serperior",
+      "number": "7",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/7.jpg",
+      "hp": 130
+    },
+    {
+      "id": "fates-collide-8",
+      "name": "Deerling",
+      "number": "8",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Grass",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/8.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-9",
+      "name": "Moltres",
+      "number": "9",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/9.jpg",
+      "hp": 130
+    },
+    {
+      "id": "fates-collide-10",
+      "name": "Fennekin",
+      "number": "10",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/10.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-11",
+      "name": "Fennekin",
+      "number": "11",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/11.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-12",
+      "name": "Braixen",
+      "number": "12",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/12.jpg",
+      "hp": 80
+    },
+    {
+      "id": "fates-collide-13",
+      "name": "Delphox",
+      "number": "13",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/13.jpg",
+      "hp": 130
+    },
+    {
+      "id": "fates-collide-14",
+      "name": "DelphoxBREAK",
+      "number": "14",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fire",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/14.jpg",
+      "hp": 160,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "fates-collide-15",
+      "name": "Seel",
+      "number": "15",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/15.jpg",
+      "hp": 70
+    },
+    {
+      "id": "fates-collide-16",
+      "name": "Dewgong",
+      "number": "16",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/16.jpg",
+      "hp": 100
+    },
+    {
+      "id": "fates-collide-17",
+      "name": "Omanyte",
+      "number": "17",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/17.jpg",
+      "hp": 70
+    },
+    {
+      "id": "fates-collide-18",
+      "name": "Omastar",
+      "number": "18",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/18.jpg",
+      "hp": 110
+    },
+    {
+      "id": "fates-collide-19",
+      "name": "OmastarBREAK",
+      "number": "19",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/19.jpg",
+      "hp": 140,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "fates-collide-20",
+      "name": "GlaceonEX",
+      "number": "20",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/20.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-21",
+      "name": "White Kyurem",
+      "number": "21",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/21.jpg",
+      "hp": 130
+    },
+    {
+      "id": "fates-collide-22",
+      "name": "Binacle",
+      "number": "22",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/22.jpg",
+      "hp": 70
+    },
+    {
+      "id": "fates-collide-23",
+      "name": "Barbaracle",
+      "number": "23",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/23.jpg",
+      "hp": 120
+    },
+    {
+      "id": "fates-collide-24",
+      "name": "Rotom",
+      "number": "24",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Lightning",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/24.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-25",
+      "name": "AlakazamEX",
+      "number": "25",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/25.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-26",
+      "name": "MegaAlakazamEX",
+      "number": "26",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/26.jpg",
+      "hp": 210,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "fates-collide-27",
+      "name": "Koffing",
+      "number": "27",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/27.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-28",
+      "name": "Weezing",
+      "number": "28",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/28.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-29",
+      "name": "Mew",
+      "number": "29",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/29.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-30",
+      "name": "Spoink",
+      "number": "30",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/30.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-31",
+      "name": "Grumpig",
+      "number": "31",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/31.jpg",
+      "hp": 100
+    },
+    {
+      "id": "fates-collide-32",
+      "name": "Gothita",
+      "number": "32",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/32.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-33",
+      "name": "Solosis",
+      "number": "33",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/33.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-34",
+      "name": "Duosion",
+      "number": "34",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/34.jpg",
+      "hp": 80
+    },
+    {
+      "id": "fates-collide-35",
+      "name": "Reuniclus",
+      "number": "35",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/35.jpg",
+      "hp": 120
+    },
+    {
+      "id": "fates-collide-36",
+      "name": "Diglett",
+      "number": "36",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/36.jpg",
+      "hp": 50
+    },
+    {
+      "id": "fates-collide-37",
+      "name": "Marowak",
+      "number": "37",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/37.jpg",
+      "hp": 100
+    },
+    {
+      "id": "fates-collide-38",
+      "name": "Kabuto",
+      "number": "38",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/38.jpg",
+      "hp": 80
+    },
+    {
+      "id": "fates-collide-39",
+      "name": "Kabutops",
+      "number": "39",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/39.jpg",
+      "hp": 120
+    },
+    {
+      "id": "fates-collide-40",
+      "name": "Larvitar",
+      "number": "40",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/40.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-41",
+      "name": "Larvitar",
+      "number": "41",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/41.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-42",
+      "name": "Pupitar",
+      "number": "42",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/42.jpg",
+      "hp": 80
+    },
+    {
+      "id": "fates-collide-43",
+      "name": "RegirockEX",
+      "number": "43",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/43.jpg",
+      "hp": 180,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-44",
+      "name": "Wormadam",
+      "number": "44",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/44.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-45",
+      "name": "Riolu",
+      "number": "45",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/45.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-46",
+      "name": "Riolu",
+      "number": "46",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/46.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-47",
+      "name": "Lucario",
+      "number": "47",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/47.jpg",
+      "hp": 110
+    },
+    {
+      "id": "fates-collide-48",
+      "name": "Hawlucha",
+      "number": "48",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/48.jpg",
+      "hp": 80
+    },
+    {
+      "id": "fates-collide-49",
+      "name": "Carbink",
+      "number": "49",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/49.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-50",
+      "name": "Carbink",
+      "number": "50",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/50.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-51",
+      "name": "CarbinkBREAK",
+      "number": "51",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/51.jpg",
+      "hp": 120,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "fates-collide-52",
+      "name": "Zygarde",
+      "number": "52",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/52.jpg",
+      "hp": 100
+    },
+    {
+      "id": "fates-collide-53",
+      "name": "Zygarde",
+      "number": "53",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/53.jpg",
+      "hp": 100
+    },
+    {
+      "id": "fates-collide-54",
+      "name": "ZygardeEX",
+      "number": "54",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fighting",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/54.jpg",
+      "hp": 190,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-55",
+      "name": "UmbreonEX",
+      "number": "55",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/55.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-56",
+      "name": "Tyranitar",
+      "number": "56",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/56.jpg",
+      "hp": 160
+    },
+    {
+      "id": "fates-collide-57",
+      "name": "Vullaby",
+      "number": "57",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/57.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-58",
+      "name": "Mandibuzz",
+      "number": "58",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/58.jpg",
+      "hp": 110
+    },
+    {
+      "id": "fates-collide-59",
+      "name": "Wormadam",
+      "number": "59",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/59.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-60",
+      "name": "Bronzor",
+      "number": "60",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/60.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-61",
+      "name": "Bronzong",
+      "number": "61",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/61.jpg",
+      "hp": 100
+    },
+    {
+      "id": "fates-collide-62",
+      "name": "BronzongBREAK",
+      "number": "62",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/62.jpg",
+      "hp": 130,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "fates-collide-63",
+      "name": "Lucario",
+      "number": "63",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/63.jpg",
+      "hp": 110
+    },
+    {
+      "id": "fates-collide-64",
+      "name": "GenesectEX",
+      "number": "64",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/64.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-65",
+      "name": "Jigglypuff",
+      "number": "65",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/65.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-66",
+      "name": "Wigglytuff",
+      "number": "66",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/66.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-67",
+      "name": "Mr. Mime",
+      "number": "67",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/67.jpg",
+      "hp": 80
+    },
+    {
+      "id": "fates-collide-68",
+      "name": "Snubbull",
+      "number": "68",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/68.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-69",
+      "name": "MegaAltariaEX",
+      "number": "69",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/69.jpg",
+      "hp": 200,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "fates-collide-70",
+      "name": "Cottonee",
+      "number": "70",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/70.jpg",
+      "hp": 50
+    },
+    {
+      "id": "fates-collide-71",
+      "name": "Whimsicott",
+      "number": "71",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/71.jpg",
+      "hp": 80
+    },
+    {
+      "id": "fates-collide-72",
+      "name": "DiancieEX",
+      "number": "72",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/72.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-73",
+      "name": "KingdraEX",
+      "number": "73",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/73.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-74",
+      "name": "Meowth",
+      "number": "74",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/74.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-75",
+      "name": "Kangaskhan",
+      "number": "75",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/75.jpg",
+      "hp": 110
+    },
+    {
+      "id": "fates-collide-76",
+      "name": "Aerodactyl",
+      "number": "76",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/76.jpg",
+      "hp": 100
+    },
+    {
+      "id": "fates-collide-77",
+      "name": "Snorlax",
+      "number": "77",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/77.jpg",
+      "hp": 130
+    },
+    {
+      "id": "fates-collide-78",
+      "name": "Lugia",
+      "number": "78",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/78.jpg",
+      "hp": 130
+    },
+    {
+      "id": "fates-collide-79",
+      "name": "LugiaBREAK",
+      "number": "79",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/79.jpg",
+      "hp": 160,
+      "keywords": [
+        "break"
+      ]
+    },
+    {
+      "id": "fates-collide-80",
+      "name": "Whismur",
+      "number": "80",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/80.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-81",
+      "name": "Loudred",
+      "number": "81",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/81.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-82",
+      "name": "Exploud",
+      "number": "82",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/82.jpg",
+      "hp": 140
+    },
+    {
+      "id": "fates-collide-83",
+      "name": "AltariaEX",
+      "number": "83",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/83.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-84",
+      "name": "AudinoEX",
+      "number": "84",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/84.jpg",
+      "hp": 180,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-85",
+      "name": "MegaAudinoEX",
+      "number": "85",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare Holo ex",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/85.jpg",
+      "hp": 210,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "fates-collide-86",
+      "name": "Minccino",
+      "number": "86",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/86.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-87",
+      "name": "Minccino",
+      "number": "87",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/87.jpg",
+      "hp": 60
+    },
+    {
+      "id": "fates-collide-88",
+      "name": "Cinccino",
+      "number": "88",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/88.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-89",
+      "name": "Cinccino",
+      "number": "89",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/89.jpg",
+      "hp": 90
+    },
+    {
+      "id": "fates-collide-90",
+      "name": "Alakazam Spirit Link",
+      "number": "90",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/90.jpg",
+      "keywords": [
+        "item",
+        "spirit-link"
+      ]
+    },
+    {
+      "id": "fates-collide-91",
+      "name": "Altaria Spirit Link",
+      "number": "91",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/91.jpg",
+      "keywords": [
+        "item",
+        "spirit-link"
+      ]
+    },
+    {
+      "id": "fates-collide-92",
+      "name": "Audino Spirit Link",
+      "number": "92",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/92.jpg",
+      "keywords": [
+        "item",
+        "spirit-link"
+      ]
+    },
+    {
+      "id": "fates-collide-93",
+      "name": "Bent Spoon",
+      "number": "93",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/93.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-94",
+      "name": "Chaos Tower",
+      "number": "94",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/94.jpg",
+      "keywords": [
+        "stadium"
+      ]
+    },
+    {
+      "id": "fates-collide-95",
+      "name": "Devolution Spray",
+      "number": "95",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/95.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-96",
+      "name": "Dome Fossil Kabuto",
+      "number": "96",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/96.jpg",
+      "keywords": [
+        "item",
+        "fossil"
+      ]
+    },
+    {
+      "id": "fates-collide-97",
+      "name": "Energy Pouch",
+      "number": "97",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/97.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-98",
+      "name": "Energy Reset",
+      "number": "98",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/98.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-99",
+      "name": "Fairy Drop",
+      "number": "99",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/99.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-100",
+      "name": "Fairy Garden",
+      "number": "100",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/100.jpg",
+      "keywords": [
+        "stadium"
+      ]
+    },
+    {
+      "id": "fates-collide-101",
+      "name": "Fossil Excavation Kit",
+      "number": "101",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/101.jpg",
+      "keywords": [
+        "item",
+        "fossil"
+      ]
+    },
+    {
+      "id": "fates-collide-102",
+      "name": "Helix Fossil Omanyte",
+      "number": "102",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/102.jpg",
+      "keywords": [
+        "item",
+        "fossil"
+      ]
+    },
+    {
+      "id": "fates-collide-103",
+      "name": "Lass's Special",
+      "number": "103",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/103.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "fates-collide-104",
+      "name": "Mega Catcher",
+      "number": "104",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/104.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-105",
+      "name": "N",
+      "number": "105",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/105.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "fates-collide-106",
+      "name": "Old Amber Aerodactyl",
+      "number": "106",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/106.jpg",
+      "keywords": [
+        "item",
+        "fossil"
+      ]
+    },
+    {
+      "id": "fates-collide-107",
+      "name": "Pok\u00e9mon Fan Club",
+      "number": "107",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/107.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "fates-collide-108",
+      "name": "Power Memory",
+      "number": "108",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/108.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-109",
+      "name": "Random Receiver",
+      "number": "109",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/109.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-110",
+      "name": "Scorched Earth",
+      "number": "110",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/110.jpg",
+      "keywords": [
+        "stadium"
+      ]
+    },
+    {
+      "id": "fates-collide-111",
+      "name": "Shauna",
+      "number": "111",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/111.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "fates-collide-112",
+      "name": "Team Rocket's Handiwork",
+      "number": "112",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/112.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "fates-collide-113",
+      "name": "Ultra Ball",
+      "number": "113",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/113.jpg",
+      "keywords": [
+        "item"
+      ]
+    },
+    {
+      "id": "fates-collide-114",
+      "name": "Double Colorless Energy",
+      "number": "114",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/114.jpg",
+      "keywords": [
+        "special-energy"
+      ]
+    },
+    {
+      "id": "fates-collide-115",
+      "name": "Strong Energy",
+      "number": "115",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Energy",
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/115.jpg",
+      "keywords": [
+        "special-energy"
+      ]
+    },
+    {
+      "id": "fates-collide-116",
+      "name": "GlaceonEX",
+      "number": "116",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Water",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/116.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-117",
+      "name": "AlakazamEX",
+      "number": "117",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/117.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-118",
+      "name": "MegaAlakazamEX",
+      "number": "118",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/118.jpg",
+      "hp": 210,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "fates-collide-119",
+      "name": "UmbreonEX",
+      "number": "119",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Darkness",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/119.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-120",
+      "name": "GenesectEX",
+      "number": "120",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Metal",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/120.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-121",
+      "name": "MegaAltariaEX",
+      "number": "121",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Fairy",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/121.jpg",
+      "hp": 200,
+      "keywords": [
+        "ex",
+        "mega-evolution"
+      ]
+    },
+    {
+      "id": "fates-collide-122",
+      "name": "KingdraEX",
+      "number": "122",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Dragon",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/122.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-123",
+      "name": "AltariaEX",
+      "number": "123",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Colorless",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/123.jpg",
+      "hp": 170,
+      "keywords": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fates-collide-124",
+      "name": "Team Rocket's Handiwork",
+      "number": "124",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Trainer",
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/124.jpg",
+      "keywords": [
+        "supporter"
+      ]
+    },
+    {
+      "id": "fates-collide-125",
+      "name": "AlakazamEX",
+      "number": "125",
+      "set": "Fates Collide",
+      "series": "XY",
+      "type": "Psychic",
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "image_url": "https://www.serebii.net/card/fatescollide/125.jpg",
+      "hp": 160,
+      "keywords": [
+        "ex"
+      ]
+    }
+  ]
+}

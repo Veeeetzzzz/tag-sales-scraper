@@ -1,0 +1,3995 @@
+﻿{
+  "setInfo": {
+    "name": "Boundaries Crossed",
+    "description": "Boundaries Crossed Pokemon trading card set with various Pokemon cards and mechanics",
+    "series": "Black & White",
+    "setCode": "BW7",
+    "releaseDate": "2012-11-07",
+    "totalCards": 149
+  },
+  "cards": [
+    {
+      "id": "boundaries-crossed-1",
+      "name": "Oddish",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "1/149",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "oddish",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/1.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/1.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-2",
+      "name": "Gloom",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "2/149",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "gloom",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/2.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/2.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-3",
+      "name": "Vileplume",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "3/149",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "vileplume",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/3.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/3.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-4",
+      "name": "Bellossom",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "4/149",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "bellossom",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/4.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/4.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-5",
+      "name": "Tangela",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "5/149",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "tangela",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/5.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/5.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-6",
+      "name": "Tangrowth",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "6/149",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "tangrowth",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/6.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/6.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-7",
+      "name": "Scyther",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "7/149",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "scyther",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/7.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/7.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-8",
+      "name": "Heracross",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "8/149",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "heracross",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/8.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/8.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-9",
+      "name": "Celebi-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "9/149",
+      "rarity": "Rare Holo ex",
+      "type": "Grass",
+      "matching_keywords": [
+        "celebi",
+        "grass",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/9.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/9.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "boundaries-crossed-10",
+      "name": "Shaymin",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "10/149",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "shaymin",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/10.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/10.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-11",
+      "name": "Snivy",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "11/149",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "snivy",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/11.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/11.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-12",
+      "name": "Servine",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "12/149",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "servine",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/12.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/12.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-13",
+      "name": "Serperior",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "13/149",
+      "rarity": "Rare Holo",
+      "type": "Grass",
+      "matching_keywords": [
+        "serperior",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/13.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/13.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-14",
+      "name": "Cottonee",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "14/149",
+      "rarity": "Common",
+      "type": "Grass",
+      "matching_keywords": [
+        "cottonee",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/14.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/14.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-15",
+      "name": "Whimsicott",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "15/149",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "whimsicott",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/15.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/15.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-16",
+      "name": "Petilil",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "16/149",
+      "rarity": "Uncommon",
+      "type": "Grass",
+      "matching_keywords": [
+        "petilil",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/16.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/16.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-17",
+      "name": "Lilligant",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "17/149",
+      "rarity": "Rare",
+      "type": "Grass",
+      "matching_keywords": [
+        "lilligant",
+        "grass",
+        "pokemon",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/17.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/17.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-18",
+      "name": "Charmander",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "18/149",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "charmander",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/18.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/18.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-19",
+      "name": "Charmeleon",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "19/149",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "charmeleon",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/19.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/19.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-20",
+      "name": "Charizard",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "20/149",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "charizard",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/20.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/20.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-21",
+      "name": "Numel",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "21/149",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "numel",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/21.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/21.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-22",
+      "name": "Camerupt",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "22/149",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "camerupt",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/22.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/22.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-23",
+      "name": "Victini",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "23/149",
+      "rarity": "Rare",
+      "type": "Fire",
+      "matching_keywords": [
+        "victini",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/23.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/23.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-24",
+      "name": "Tepig",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "24/149",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "tepig",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/24.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/24.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-25",
+      "name": "Pignite",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "25/149",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "pignite",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/25.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/25.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-26",
+      "name": "Emboar",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "26/149",
+      "rarity": "Rare Holo",
+      "type": "Fire",
+      "matching_keywords": [
+        "emboar",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/26.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/26.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-27",
+      "name": "Darumaka",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "27/149",
+      "rarity": "Common",
+      "type": "Fire",
+      "matching_keywords": [
+        "darumaka",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/27.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/27.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-28",
+      "name": "Darmanitan",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "28/149",
+      "rarity": "Uncommon",
+      "type": "Fire",
+      "matching_keywords": [
+        "darmanitan",
+        "fire",
+        "pokemon",
+        "fire",
+        "flame",
+        "heat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/28.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/28.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-29",
+      "name": "Squirtle",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "29/149",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "squirtle",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/29.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/29.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-30",
+      "name": "Wartortle",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "30/149",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "wartortle",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/30.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/30.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-31",
+      "name": "Blastoise",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "31/149",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "blastoise",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/31.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/31.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-32",
+      "name": "Psyduck",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "32/149",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "psyduck",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/32.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/32.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-33",
+      "name": "Psyduck",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "33/149",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "psyduck",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/33.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/33.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-34",
+      "name": "Golduck",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "34/149",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "golduck",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/34.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/34.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-35",
+      "name": "Golduck",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "35/149",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "golduck",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/35.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/35.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-36",
+      "name": "Marill",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "36/149",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "marill",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/36.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/36.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-37",
+      "name": "Azumarill",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "37/149",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "azumarill",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/37.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/37.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-38",
+      "name": "Delibird",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "38/149",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "delibird",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/38.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/38.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-39",
+      "name": "Oshawott",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "39/149",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "oshawott",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/39.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/39.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-40",
+      "name": "Dewott",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "40/149",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "dewott",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/40.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/40.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-41",
+      "name": "Samurott",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "41/149",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "samurott",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/41.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/41.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-42",
+      "name": "Ducklett",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "42/149",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "ducklett",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/42.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/42.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-43",
+      "name": "Swanna",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "43/149",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "swanna",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/43.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/43.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-44",
+      "name": "Frillish",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "44/149",
+      "rarity": "Common",
+      "type": "Water",
+      "matching_keywords": [
+        "frillish",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/44.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/44.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-45",
+      "name": "Jellicent",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "45/149",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "jellicent",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/45.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/45.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-46",
+      "name": "Cryogonal",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "46/149",
+      "rarity": "Uncommon",
+      "type": "Water",
+      "matching_keywords": [
+        "cryogonal",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/46.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/46.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-47",
+      "name": "Keldeo",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "47/149",
+      "rarity": "Rare Holo",
+      "type": "Water",
+      "matching_keywords": [
+        "keldeo",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/47.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/47.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-48",
+      "name": "Keldeo",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "48/149",
+      "rarity": "Rare",
+      "type": "Water",
+      "matching_keywords": [
+        "keldeo",
+        "water",
+        "pokemon",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/48.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/48.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-49",
+      "name": "Keldeo-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "49/149",
+      "rarity": "Rare Holo ex",
+      "type": "Water",
+      "matching_keywords": [
+        "keldeo",
+        "water",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/49.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/49.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "boundaries-crossed-50",
+      "name": "Pikachu",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "50/149",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "pikachu",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/50.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/50.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-51",
+      "name": "Voltorb",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "51/149",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "voltorb",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/51.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/51.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-52",
+      "name": "Electrode",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "52/149",
+      "rarity": "Uncommon",
+      "type": "Lightning",
+      "matching_keywords": [
+        "electrode",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/52.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/52.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-53",
+      "name": "Electabuzz",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "53/149",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "electabuzz",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/53.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/53.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-54",
+      "name": "Electivire",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "54/149",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "electivire",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/54.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/54.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-55",
+      "name": "Chinchou",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "55/149",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "chinchou",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/55.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/55.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-56",
+      "name": "Blitzle",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "56/149",
+      "rarity": "Common",
+      "type": "Lightning",
+      "matching_keywords": [
+        "blitzle",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/56.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/56.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-57",
+      "name": "Zebstrika",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "57/149",
+      "rarity": "Rare Holo",
+      "type": "Lightning",
+      "matching_keywords": [
+        "zebstrika",
+        "lightning",
+        "pokemon",
+        "lightning",
+        "electric",
+        "thunder"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/57.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/57.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-58",
+      "name": "Wobbuffet",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "58/149",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "wobbuffet",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/58.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/58.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-59",
+      "name": "Spoink",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "59/149",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "spoink",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/59.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/59.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-60",
+      "name": "Grumpig",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "60/149",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "grumpig",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/60.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/60.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-61",
+      "name": "Duskull",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "61/149",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "duskull",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/61.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/61.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-62",
+      "name": "Dusclops",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "62/149",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "dusclops",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/62.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/62.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-63",
+      "name": "Dusknoir",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "63/149",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "dusknoir",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/63.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/63.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-64",
+      "name": "Croagunk",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "64/149",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "croagunk",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/64.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/64.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-65",
+      "name": "Croagunk",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "65/149",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "croagunk",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/65.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/65.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-66",
+      "name": "Toxicroak",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "66/149",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "toxicroak",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/66.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/66.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-67",
+      "name": "Cresselia-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "67/149",
+      "rarity": "Rare Holo ex",
+      "type": "Psychic",
+      "matching_keywords": [
+        "cresselia",
+        "psychic",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/67.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/67.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "boundaries-crossed-68",
+      "name": "Munna",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "68/149",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "munna",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/68.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/68.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-69",
+      "name": "Musharna",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "69/149",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "musharna",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/69.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/69.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-70",
+      "name": "Woobat",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "70/149",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "woobat",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/70.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/70.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-71",
+      "name": "Swoobat",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "71/149",
+      "rarity": "Rare",
+      "type": "Psychic",
+      "matching_keywords": [
+        "swoobat",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/71.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/71.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-72",
+      "name": "Venipede",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "72/149",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "venipede",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/72.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/72.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-73",
+      "name": "Whirlipede",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "73/149",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "whirlipede",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/73.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/73.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-74",
+      "name": "Scolipede",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "74/149",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "scolipede",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/74.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/74.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-75",
+      "name": "Gothita",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "75/149",
+      "rarity": "Common",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothita",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/75.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/75.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-76",
+      "name": "Gothorita",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "76/149",
+      "rarity": "Uncommon",
+      "type": "Psychic",
+      "matching_keywords": [
+        "gothorita",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/76.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/76.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-77",
+      "name": "Meloetta",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "77/149",
+      "rarity": "Rare Holo",
+      "type": "Psychic",
+      "matching_keywords": [
+        "meloetta",
+        "psychic",
+        "pokemon",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/77.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/77.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-78",
+      "name": "Sandshrew",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "78/149",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "sandshrew",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/78.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/78.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-79",
+      "name": "Sandslash",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "79/149",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "sandslash",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/79.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/79.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-80",
+      "name": "Gligar",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "80/149",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "gligar",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/80.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/80.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-81",
+      "name": "Gliscor",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "81/149",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "gliscor",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/81.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/81.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-82",
+      "name": "Makuhita",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "82/149",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "makuhita",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/82.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/82.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-83",
+      "name": "Trapinch",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "83/149",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "trapinch",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/83.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/83.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-84",
+      "name": "Dwebble",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "84/149",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "dwebble",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/84.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/84.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-85",
+      "name": "Crustle",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "85/149",
+      "rarity": "Rare Holo",
+      "type": "Fighting",
+      "matching_keywords": [
+        "crustle",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/85.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/85.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-86",
+      "name": "Mienfoo",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "86/149",
+      "rarity": "Common",
+      "type": "Fighting",
+      "matching_keywords": [
+        "mienfoo",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/86.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/86.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-87",
+      "name": "Mienfoo",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "87/149",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "mienfoo",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/87.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/87.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-88",
+      "name": "Mienshao",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "88/149",
+      "rarity": "Uncommon",
+      "type": "Fighting",
+      "matching_keywords": [
+        "mienshao",
+        "fighting",
+        "pokemon",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/88.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/88.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-89",
+      "name": "Landorus-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "89/149",
+      "rarity": "Rare Holo ex",
+      "type": "Fighting",
+      "matching_keywords": [
+        "landorus",
+        "fighting",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/89.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/89.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "boundaries-crossed-90",
+      "name": "Purrloin",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "90/149",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "purrloin",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/90.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/90.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-91",
+      "name": "Liepard",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "91/149",
+      "rarity": "Rare Holo",
+      "type": "Darkness",
+      "matching_keywords": [
+        "liepard",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/91.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/91.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-92",
+      "name": "Vullaby",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "92/149",
+      "rarity": "Common",
+      "type": "Darkness",
+      "matching_keywords": [
+        "vullaby",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/92.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/92.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-93",
+      "name": "Mandibuzz",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "93/149",
+      "rarity": "Uncommon",
+      "type": "Darkness",
+      "matching_keywords": [
+        "mandibuzz",
+        "darkness",
+        "pokemon",
+        "darkness",
+        "dark",
+        "shadow"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/93.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/93.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-94",
+      "name": "Scizor",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "94/149",
+      "rarity": "Rare Holo",
+      "type": "Metal",
+      "matching_keywords": [
+        "scizor",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/94.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/94.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-95",
+      "name": "Skarmory",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "95/149",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "skarmory",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/95.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/95.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-96",
+      "name": "Skarmory",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "96/149",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "skarmory",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/96.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/96.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-97",
+      "name": "Klink",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "97/149",
+      "rarity": "Uncommon",
+      "type": "Metal",
+      "matching_keywords": [
+        "klink",
+        "metal",
+        "pokemon",
+        "metal",
+        "steel",
+        "iron"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/97.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/97.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-98",
+      "name": "Vibrava",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "98/149",
+      "rarity": "Uncommon",
+      "type": "Dragon",
+      "matching_keywords": [
+        "vibrava",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/98.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/98.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-99",
+      "name": "Flygon",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "99/149",
+      "rarity": "Rare Holo",
+      "type": "Dragon",
+      "matching_keywords": [
+        "flygon",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/99.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/99.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-100",
+      "name": "Black Kyurem",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "100/149",
+      "rarity": "Rare",
+      "type": "Dragon",
+      "matching_keywords": [
+        "black kyurem",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "black",
+        "kyurem",
+        "ice",
+        "frozen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/100.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/100.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-101",
+      "name": "Black Kyurem-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "101/149",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "black kyurem",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful",
+        "black",
+        "kyurem",
+        "ice",
+        "frozen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/101.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/101.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "boundaries-crossed-102",
+      "name": "White Kyurem",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "102/149",
+      "rarity": "Rare",
+      "type": "Dragon",
+      "matching_keywords": [
+        "white kyurem",
+        "dragon",
+        "pokemon",
+        "dragon",
+        "legendary",
+        "powerful",
+        "white",
+        "kyurem",
+        "ice",
+        "frozen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/102.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/102.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-103",
+      "name": "White Kyurem-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "103/149",
+      "rarity": "Rare Holo ex",
+      "type": "Dragon",
+      "matching_keywords": [
+        "white kyurem",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful",
+        "white",
+        "kyurem",
+        "ice",
+        "frozen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/103.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/103.jpg"
+      },
+      "hp": 170
+    },
+    {
+      "id": "boundaries-crossed-104",
+      "name": "Rattata",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "104/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "rattata",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/104.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/104.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-105",
+      "name": "Raticate",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "105/149",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "raticate",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/105.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/105.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-106",
+      "name": "Meowth",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "106/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "meowth",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/106.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/106.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-107",
+      "name": "Farfetch'd",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "107/149",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "farfetch'd",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/107.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/107.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-108",
+      "name": "Ditto",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "108/149",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "ditto",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/108.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/108.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-109",
+      "name": "Snorlax",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "109/149",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "snorlax",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/109.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/109.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-110",
+      "name": "Togepi",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "110/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "togepi",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/110.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/110.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-111",
+      "name": "Dunsparce",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "111/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "dunsparce",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/111.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/111.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-112",
+      "name": "Taillow",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "112/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "taillow",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/112.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/112.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-113",
+      "name": "Skitty",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "113/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "skitty",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/113.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/113.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-114",
+      "name": "Delcatty",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "114/149",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "delcatty",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/114.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/114.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-115",
+      "name": "Spinda",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "115/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "spinda",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/115.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/115.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-116",
+      "name": "Buneary",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "116/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "buneary",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/116.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/116.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-117",
+      "name": "Lopunny",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "117/149",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "lopunny",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/117.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/117.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-118",
+      "name": "Patrat",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "118/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "patrat",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/118.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/118.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-119",
+      "name": "Watchog",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "119/149",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "watchog",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/119.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/119.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-120",
+      "name": "Lillipup",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "120/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "lillipup",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/120.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/120.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-121",
+      "name": "Herdier",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "121/149",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "herdier",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/121.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/121.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-122",
+      "name": "Stoutland",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "122/149",
+      "rarity": "Rare Holo",
+      "type": "Colorless",
+      "matching_keywords": [
+        "stoutland",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/122.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/122.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-123",
+      "name": "Pidove",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "123/149",
+      "rarity": "Common",
+      "type": "Colorless",
+      "matching_keywords": [
+        "pidove",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/123.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/123.jpg"
+      },
+      "hp": 60
+    },
+    {
+      "id": "boundaries-crossed-124",
+      "name": "Tranquill",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "124/149",
+      "rarity": "Uncommon",
+      "type": "Colorless",
+      "matching_keywords": [
+        "tranquill",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/124.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/124.jpg"
+      },
+      "hp": 90
+    },
+    {
+      "id": "boundaries-crossed-125",
+      "name": "Unfezant",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "125/149",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "unfezant",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/125.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/125.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-126",
+      "name": "Audino",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "126/149",
+      "rarity": "Rare",
+      "type": "Colorless",
+      "matching_keywords": [
+        "audino",
+        "colorless",
+        "pokemon",
+        "colorless",
+        "normal",
+        "neutral"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/126.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/126.jpg"
+      },
+      "hp": 140
+    },
+    {
+      "id": "boundaries-crossed-127",
+      "name": "Aspertia City Gym",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "127/149",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "aspertia city gym",
+        "trainer",
+        "stadium"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/127.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/127.jpg"
+      },
+      "subtype": "Stadium"
+    },
+    {
+      "id": "boundaries-crossed-128",
+      "name": "Energy Search",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "128/149",
+      "rarity": "Common",
+      "type": "Trainer",
+      "matching_keywords": [
+        "energy search",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/128.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/128.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-129",
+      "name": "Great Ball",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "129/149",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "great ball",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/129.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/129.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-130",
+      "name": "Hugh",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "130/149",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "hugh",
+        "trainer",
+        "supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/130.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/130.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "boundaries-crossed-131",
+      "name": "PokÃ© Ball",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "131/149",
+      "rarity": "Common",
+      "type": "Trainer",
+      "matching_keywords": [
+        "pokÃ© ball",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/131.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/131.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-132",
+      "name": "Potion",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "132/149",
+      "rarity": "Common",
+      "type": "Trainer",
+      "matching_keywords": [
+        "potion",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/132.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/132.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-133",
+      "name": "Rocky Helmet",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "133/149",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "rocky helmet",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/133.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/133.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-134",
+      "name": "Skyla",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "134/149",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "skyla",
+        "trainer",
+        "supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/134.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/134.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "boundaries-crossed-135",
+      "name": "Switch",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "135/149",
+      "rarity": "Common",
+      "type": "Trainer",
+      "matching_keywords": [
+        "switch",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/135.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/135.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-136",
+      "name": "Town Map",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "136/149",
+      "rarity": "Uncommon",
+      "type": "Trainer",
+      "matching_keywords": [
+        "town map",
+        "trainer",
+        "item"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/136.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/136.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-137",
+      "name": "Computer Search",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "137/149",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "computer search",
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/137.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/137.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-138",
+      "name": "Crystal Edge",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "138/149",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "crystal edge",
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/138.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/138.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-139",
+      "name": "Crystal Wall",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "139/149",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "crystal wall",
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/139.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/139.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-140",
+      "name": "Gold Potion",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "140/149",
+      "rarity": "Rare Ace",
+      "type": "Trainer",
+      "matching_keywords": [
+        "gold potion",
+        "trainer",
+        "item",
+        "ace",
+        "spec",
+        "ace spec"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/140.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/140.jpg"
+      },
+      "subtype": "Item"
+    },
+    {
+      "id": "boundaries-crossed-141",
+      "name": "Celebi-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "141/149",
+      "rarity": "Rare Ultra",
+      "type": "Grass",
+      "matching_keywords": [
+        "celebi",
+        "grass",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "grass",
+        "nature",
+        "plant"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/141.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/141.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "boundaries-crossed-142",
+      "name": "Keldeo-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "142/149",
+      "rarity": "Rare Ultra",
+      "type": "Water",
+      "matching_keywords": [
+        "keldeo",
+        "water",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "water",
+        "ocean",
+        "sea"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/142.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/142.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "boundaries-crossed-143",
+      "name": "Cresselia-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "143/149",
+      "rarity": "Rare Ultra",
+      "type": "Psychic",
+      "matching_keywords": [
+        "cresselia",
+        "psychic",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "psychic",
+        "mind",
+        "psychic"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/143.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/143.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "boundaries-crossed-144",
+      "name": "Landorus-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "144/149",
+      "rarity": "Rare Ultra",
+      "type": "Fighting",
+      "matching_keywords": [
+        "landorus",
+        "fighting",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "fighting",
+        "martial",
+        "combat"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/144.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/144.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "boundaries-crossed-145",
+      "name": "Black Kyurem-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "145/149",
+      "rarity": "Rare Ultra",
+      "type": "Dragon",
+      "matching_keywords": [
+        "black kyurem",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful",
+        "black",
+        "kyurem",
+        "ice",
+        "frozen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/145.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/145.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "boundaries-crossed-146",
+      "name": "White Kyurem-EX",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "146/149",
+      "rarity": "Rare Ultra",
+      "type": "Dragon",
+      "matching_keywords": [
+        "white kyurem",
+        "dragon",
+        "pokemon",
+        "ex",
+        "pokemon-ex",
+        "dragon",
+        "legendary",
+        "powerful",
+        "white",
+        "kyurem",
+        "ice",
+        "frozen"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/146.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/146.jpg"
+      },
+      "hp": 180
+    },
+    {
+      "id": "boundaries-crossed-147",
+      "name": "Bianca",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "147/149",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "matching_keywords": [
+        "bianca",
+        "trainer",
+        "supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/147.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/147.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "boundaries-crossed-148",
+      "name": "Cheren",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "148/149",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "matching_keywords": [
+        "cheren",
+        "trainer",
+        "supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/148.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/148.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "boundaries-crossed-149",
+      "name": "Skyla",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "149/149",
+      "rarity": "Rare Ultra",
+      "type": "Trainer",
+      "matching_keywords": [
+        "skyla",
+        "trainer",
+        "supporter"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/149.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/149.jpg"
+      },
+      "subtype": "Supporter"
+    },
+    {
+      "id": "boundaries-crossed-150",
+      "name": "Golurk",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "150/149",
+      "rarity": "Rare Secret",
+      "type": "Psychic",
+      "matching_keywords": [
+        "golurk",
+        "psychic",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/150.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/150.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "boundaries-crossed-151",
+      "name": "Terrakion",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "151/149",
+      "rarity": "Rare Secret",
+      "type": "Fighting",
+      "matching_keywords": [
+        "terrakion",
+        "fighting",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/151.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/151.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "boundaries-crossed-152",
+      "name": "Altaria",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "152/149",
+      "rarity": "Rare Secret",
+      "type": "Dragon",
+      "matching_keywords": [
+        "altaria",
+        "dragon",
+        "pokemon",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/152.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/152.jpg"
+      },
+      "hp": 150
+    },
+    {
+      "id": "boundaries-crossed-153",
+      "name": "Rocky Helmet",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "setCode": "BW7",
+        "releaseDate": "2012-11-07"
+      },
+      "number": "153/149",
+      "rarity": "Rare Secret",
+      "type": "Trainer",
+      "matching_keywords": [
+        "rocky helmet",
+        "trainer",
+        "item",
+        "secret",
+        "rare"
+      ],
+      "images": {
+        "small": "https://www.serebii.net/card/boundariescrossed/153.jpg",
+        "large": "https://www.serebii.net/card/boundariescrossed/153.jpg"
+      },
+      "subtype": "Item"
+    }
+  ]
+}
