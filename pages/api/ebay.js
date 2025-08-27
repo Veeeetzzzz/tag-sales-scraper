@@ -6,12 +6,20 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   
   const response = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-      'Accept-Language': 'en-US,en;q=0.5',
-      'Accept-Encoding': 'gzip, deflate',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+      'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.8',
+      'Accept-Encoding': 'gzip, deflate, br',
       'Connection': 'keep-alive',
       'Upgrade-Insecure-Requests': '1',
+      'Sec-Ch-Ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
+      'Sec-Ch-Ua-Mobile': '?0',
+      'Sec-Ch-Ua-Platform': '"Windows"',
+      'Sec-Fetch-Dest': 'document',
+      'Sec-Fetch-Mode': 'navigate',
+      'Sec-Fetch-Site': 'none',
+      'Sec-Fetch-User': '?1',
+      'Cache-Control': 'max-age=0',
     }
   });
   
@@ -20,6 +28,13 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   }
   
   const html = await response.text();
+  
+  // Check if we got a challenge page (bot detection)
+  if (html.includes('Checking your browser') || html.includes('Pardon our interruption') || html.includes('challenge-')) {
+    console.log('eBay challenge page detected - bot protection triggered');
+    throw new Error('eBay bot protection triggered - unable to scrape data. Please try again later or use a different approach.');
+  }
+  
   const $ = cheerio.load(html);
   
   const items = [];
@@ -213,29 +228,83 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
 };
 
 const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
-  console.log('Using playwright approach...');
+  console.log('Using playwright approach with stealth mode...');
   
   const { chromium } = require('playwright');
   const browser = await chromium.launch({
-    headless: true,
+    headless: false, // Run in non-headless mode to avoid detection
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage'
+      '--disable-dev-shm-usage',
+      '--disable-blink-features=AutomationControlled',
+      '--disable-features=site-per-process',
+      '--window-size=1920,1080'
     ]
   });
   
-  const page = await browser.newPage();
-  await page.setExtraHTTPHeaders({
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+  const context = await browser.newContext({
+    viewport: { width: 1920, height: 1080 },
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
   });
   
-  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+  const page = await context.newPage();
+  
+  // Add stealth scripts to avoid detection
+  await page.addInitScript(() => {
+    // Override the navigator.webdriver property
+    Object.defineProperty(navigator, 'webdriver', {
+      get: () => undefined
+    });
+    
+    // Override plugins to look more human
+    Object.defineProperty(navigator, 'plugins', {
+      get: () => [1, 2, 3, 4, 5]
+    });
+    
+    // Override permissions
+    const originalQuery = window.navigator.permissions.query;
+    window.navigator.permissions.query = (parameters) => (
+      parameters.name === 'notifications' ?
+        Promise.resolve({ state: Notification.permission }) :
+        originalQuery(parameters)
+    );
+  });
+  
+  await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+  
+  // Check for challenge page and wait if necessary
+  const pageContent = await page.content();
+  if (pageContent.includes('Checking your browser') || pageContent.includes('challenge-')) {
+    console.log('Challenge page detected, waiting for it to pass...');
+    await page.waitForTimeout(5000); // Wait 5 seconds for challenge to complete
+    
+    // Check if we're still on challenge page
+    const stillChallenge = await page.evaluate(() => 
+      document.body.textContent.includes('Checking your browser')
+    );
+    
+    if (stillChallenge) {
+      console.log('Challenge persists, cannot bypass');
+      await browser.close();
+      throw new Error('eBay bot protection cannot be bypassed automatically');
+    }
+  }
   
   try {
     await page.waitForSelector('.s-item', { timeout: 15000 });
   } catch (error) {
-    console.log('No .s-item found, proceeding anyway...');
+    console.log('No .s-item found, checking for other selectors...');
+    // Try alternative selectors
+    const hasResults = await page.evaluate(() => {
+      return document.querySelector('.srp-results') || 
+             document.querySelector('[data-testid="item"]') ||
+             document.querySelector('.s-result');
+    });
+    
+    if (!hasResults) {
+      console.log('No item selectors found on page');
+    }
   }
   
   const items = await page.evaluate((isUSMarketplace) => {
