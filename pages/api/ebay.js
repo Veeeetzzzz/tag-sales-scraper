@@ -220,23 +220,32 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
 };
 
 const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
-  console.log('Using playwright approach...');
+  console.log('Using playwright approach with full browser context...');
   
   const { chromium } = require('playwright');
+  
+  // Launch with more realistic browser settings
   const browser = await chromium.launch({
-    headless: true,
+    headless: 'new', // Use new headless mode which is more like real Chrome
     args: [
+      '--disable-blink-features=AutomationControlled',
       '--no-sandbox',
       '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage'
+      '--disable-dev-shm-usage',
+      '--disable-web-security',
+      '--disable-features=IsolateOrigins,site-per-process'
     ]
   });
   
-  const page = await browser.newPage();
-  await page.setViewportSize({ width: 1920, height: 1080 });
-  await page.setExtraHTTPHeaders({
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+  // Create context with realistic settings
+  const context = await browser.newContext({
+    viewport: { width: 1920, height: 1080 },
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    locale: 'en-GB',
+    timezoneId: 'Europe/London'
   });
+  
+  const page = await context.newPage();
   
   // Add stealth scripts to avoid detection
   await page.addInitScript(() => {
@@ -259,23 +268,49 @@ const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
     );
   });
   
-  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+  // Navigate to the page and wait for it to fully load
+  console.log('Navigating to eBay...');
+  await page.goto(url, { 
+    waitUntil: 'networkidle', 
+    timeout: 60000 
+  });
   
-  // Wait a bit for dynamic content
-  await page.waitForTimeout(3000);
+  // Wait for the page to stabilize
+  await page.waitForTimeout(2000);
   
-  // Check for challenge page
-  const pageContent = await page.content();
-  if (pageContent.includes('Checking your browser') || pageContent.includes('challenge-')) {
-    console.log('Challenge page detected');
-    await browser.close();
-    throw new Error('eBay bot protection triggered');
+  // Check if we're on a challenge page
+  const pageTitle = await page.title();
+  const pageURL = page.url();
+  console.log('Page title:', pageTitle);
+  console.log('Current URL:', pageURL);
+  
+  // If we see a challenge, wait for it to resolve
+  const hasChallenge = await page.evaluate(() => {
+    return document.body.textContent.includes('Checking your browser') ||
+           document.querySelector('.challenge-form') !== null;
+  });
+  
+  if (hasChallenge) {
+    console.log('Challenge detected, waiting for resolution...');
+    // Wait up to 10 seconds for challenge to auto-resolve
+    try {
+      await page.waitForSelector('.s-item', { timeout: 10000 });
+      console.log('Challenge resolved, items found');
+    } catch {
+      console.log('Challenge did not resolve');
+      await browser.close();
+      throw new Error('eBay challenge page persists');
+    }
   }
   
+  // Wait for search results to load
   try {
-    await page.waitForSelector('.s-item', { timeout: 10000 });
+    await page.waitForSelector('.srp-results, .s-item', { timeout: 10000 });
+    console.log('Search results loaded');
   } catch (error) {
-    console.log('No .s-item found, proceeding anyway...');
+    console.log('No results selector found, checking page content...');
+    const bodyText = await page.evaluate(() => document.body.innerText);
+    console.log('Page content sample:', bodyText.substring(0, 500));
   }
   
   const items = await page.evaluate((isUSMarketplace) => {
@@ -417,19 +452,19 @@ export default async function handler(req, res) {
     
     let items = [];
     
-    // Try fetch + cheerio first (works on Vercel)
+    // Try playwright first (better chance of working with bot protection)
     try {
-      items = await scrapeWithFetch(url, isUSMarketplace);
-      console.log(`Fetch + cheerio extracted ${items.length} items`);
-    } catch (fetchError) {
-      console.log('Fetch + cheerio failed, trying playwright...', fetchError.message);
+      items = await scrapeWithPlaywright(url, isUSMarketplace);
+      console.log(`Playwright extracted ${items.length} items`);
+    } catch (playwrightError) {
+      console.log('Playwright failed, trying fetch + cheerio...', playwrightError.message);
       
-      // Fallback to playwright (local development)
+      // Fallback to fetch + cheerio (simpler but may hit bot protection)
       try {
-        items = await scrapeWithPlaywright(url, isUSMarketplace);
-        console.log(`Playwright extracted ${items.length} items`);
-      } catch (playwrightError) {
-        console.error('Both methods failed:', playwrightError.message);
+        items = await scrapeWithFetch(url, isUSMarketplace);
+        console.log(`Fetch + cheerio extracted ${items.length} items`);
+      } catch (fetchError) {
+        console.error('Both methods failed:', fetchError.message);
         throw new Error('All scraping methods failed');
       }
     }
