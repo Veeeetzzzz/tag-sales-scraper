@@ -23,24 +23,59 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   const $ = cheerio.load(html);
   
   const items = [];
-  const listings = $('.s-item').toArray();
+  // Try multiple selectors for listings as eBay structure may have changed
+  let listings = $('.s-item').toArray();
+  
+  // Fallback selectors if .s-item doesn't work
+  if (listings.length === 0) {
+    listings = $('.srp-results .s-result').toArray();
+  }
+  if (listings.length === 0) {
+    listings = $('[data-testid="item"]').toArray();
+  }
+  if (listings.length === 0) {
+    listings = $('.item').toArray();
+  }
   
   console.log(`Found ${listings.length} listings with cheerio`);
   console.log(`URL used: ${url}`);
+  
+  // Debug: log the HTML structure if no listings found
+  if (listings.length === 0) {
+    console.log('No listings found. Checking page structure...');
+    console.log('Page title:', $('title').text());
+    console.log('Available item selectors:');
+    console.log('- .s-item count:', $('.s-item').length);
+    console.log('- .srp-results count:', $('.srp-results').length);
+    console.log('- .s-result count:', $('.s-result').length);
+    console.log('- [data-testid] elements:', $('[data-testid]').length);
+    
+    // Log first 1000 characters of body to see structure
+    const bodyText = $('body').html();
+    if (bodyText) {
+      console.log('Body HTML sample:', bodyText.substring(0, 1000));
+    }
+  }
   
   listings.slice(1).forEach((item, index) => { // Skip first item (usually ad)
     try {
       const $item = $(item);
       
-      // Extract title
+      // Extract title with multiple fallbacks
       const title = $item.find('.s-item__title span[role="heading"]').text().trim() ||
                    $item.find('.s-item__title span').text().trim() ||
                    $item.find('.s-item__title').text().trim() ||
+                   $item.find('[data-testid="item-title"]').text().trim() ||
+                   $item.find('h3').text().trim() ||
+                   $item.find('.title').text().trim() ||
                    '';
       
-      // Extract price
+      // Extract price with multiple fallbacks
       let price = $item.find('.s-item__price .notranslate').text().trim() ||
                   $item.find('.s-item__price').text().trim() ||
+                  $item.find('[data-testid="item-price"]').text().trim() ||
+                  $item.find('.price').text().trim() ||
+                  $item.find('[class*="price"]').text().trim() ||
                   '';
       
       // For US marketplace, remove shipping costs from price display
@@ -52,6 +87,8 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
       let img = $item.find('.s-item__image img').attr('src') ||
                $item.find('img[src*="ebayimg"]').attr('src') ||
                $item.find('img').attr('data-src') ||
+               $item.find('[data-testid="item-image"] img').attr('src') ||
+               $item.find('.image img').attr('src') ||
                '';
       
       // Upgrade image quality - replace low-res with high-res versions
@@ -63,9 +100,11 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
           .replace(/\.webp$/g, '.jpg'); // Prefer JPG over WebP for better compatibility
       }
       
-      // Extract listing URL
+      // Extract listing URL with multiple fallbacks
       const listingUrl = $item.find('.s-item__link').attr('href') ||
                         $item.find('a[href*="/itm/"]').attr('href') ||
+                        $item.find('[data-testid="item-link"]').attr('href') ||
+                        $item.find('a').attr('href') ||
                         '';
       
       // Extract location information for display only
