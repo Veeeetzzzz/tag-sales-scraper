@@ -6,20 +6,12 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   
   const response = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-      'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.8',
-      'Accept-Encoding': 'gzip, deflate, br',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+      'Accept-Language': 'en-US,en;q=0.5',
+      'Accept-Encoding': 'gzip, deflate',
       'Connection': 'keep-alive',
       'Upgrade-Insecure-Requests': '1',
-      'Sec-Ch-Ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
-      'Sec-Ch-Ua-Mobile': '?0',
-      'Sec-Ch-Ua-Platform': '"Windows"',
-      'Sec-Fetch-Dest': 'document',
-      'Sec-Fetch-Mode': 'navigate',
-      'Sec-Fetch-Site': 'none',
-      'Sec-Fetch-User': '?1',
-      'Cache-Control': 'max-age=0',
     }
   });
   
@@ -228,27 +220,23 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
 };
 
 const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
-  console.log('Using playwright approach with stealth mode...');
+  console.log('Using playwright approach...');
   
   const { chromium } = require('playwright');
   const browser = await chromium.launch({
-    headless: false, // Run in non-headless mode to avoid detection
+    headless: true,
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--disable-blink-features=AutomationControlled',
-      '--disable-features=site-per-process',
-      '--window-size=1920,1080'
+      '--disable-dev-shm-usage'
     ]
   });
   
-  const context = await browser.newContext({
-    viewport: { width: 1920, height: 1080 },
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+  const page = await browser.newPage();
+  await page.setViewportSize({ width: 1920, height: 1080 });
+  await page.setExtraHTTPHeaders({
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
   });
-  
-  const page = await context.newPage();
   
   // Add stealth scripts to avoid detection
   await page.addInitScript(() => {
@@ -271,40 +259,23 @@ const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
     );
   });
   
-  await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
   
-  // Check for challenge page and wait if necessary
+  // Wait a bit for dynamic content
+  await page.waitForTimeout(3000);
+  
+  // Check for challenge page
   const pageContent = await page.content();
   if (pageContent.includes('Checking your browser') || pageContent.includes('challenge-')) {
-    console.log('Challenge page detected, waiting for it to pass...');
-    await page.waitForTimeout(5000); // Wait 5 seconds for challenge to complete
-    
-    // Check if we're still on challenge page
-    const stillChallenge = await page.evaluate(() => 
-      document.body.textContent.includes('Checking your browser')
-    );
-    
-    if (stillChallenge) {
-      console.log('Challenge persists, cannot bypass');
-      await browser.close();
-      throw new Error('eBay bot protection cannot be bypassed automatically');
-    }
+    console.log('Challenge page detected');
+    await browser.close();
+    throw new Error('eBay bot protection triggered');
   }
   
   try {
-    await page.waitForSelector('.s-item', { timeout: 15000 });
+    await page.waitForSelector('.s-item', { timeout: 10000 });
   } catch (error) {
-    console.log('No .s-item found, checking for other selectors...');
-    // Try alternative selectors
-    const hasResults = await page.evaluate(() => {
-      return document.querySelector('.srp-results') || 
-             document.querySelector('[data-testid="item"]') ||
-             document.querySelector('.s-result');
-    });
-    
-    if (!hasResults) {
-      console.log('No item selectors found on page');
-    }
+    console.log('No .s-item found, proceeding anyway...');
   }
   
   const items = await page.evaluate((isUSMarketplace) => {
@@ -430,13 +401,15 @@ export default async function handler(req, res) {
     // Get marketplace parameter
     const marketplace = req.query.marketplace || 'uk'; // Default to UK
     
-    // Set URL based on marketplace
+    // Set URL based on marketplace - using simpler URL that might avoid detection
     let url, isUSMarketplace;
     if (marketplace === 'us') {
-      url = 'https://www.ebay.com/sch/i.html?_nkw=TAG+pokemon&_sacat=0&_from=R40&Graded=Yes&Professional%2520Grader=Technical%2520Authentication%2520%2526%2520Grading%2520%2528TAG%2529&_dcat=183454&rt=nc&LH_Sold=1&LH_Complete=1';
+      // Simplified URL - just search for TAG pokemon in sold listings
+      url = 'https://www.ebay.com/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_sop=13';
       isUSMarketplace = true;
     } else {
-      url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+Pokemon&_sacat=0&_from=R40&Graded=Yes&Professional%2520Grader=Technical%2520Authentication%2520%2526%2520Grading%2520%2528TAG%2529&_dcat=183454&LH_Sold=1&LH_Complete=1&rt=nc&LH_PrefLoc=1';
+      // Simplified URL for UK
+      url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_sop=13&LH_PrefLoc=1';
       isUSMarketplace = false;
     }
     
