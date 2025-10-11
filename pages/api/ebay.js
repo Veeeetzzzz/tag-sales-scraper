@@ -107,6 +107,14 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
     if (bodyLowerCase.includes('captcha') || bodyLowerCase.includes('security check')) {
       throw new Error('eBay security check or CAPTCHA detected');
     }
+    
+    // CRITICAL: If no .s-item elements but page structure exists, this is JavaScript-rendered content
+    if ($('.srp-results').length > 0 && $('.s-item').length === 0) {
+      console.log('CRITICAL: Page has .srp-results container but no .s-item elements!');
+      console.log('This indicates JavaScript-rendered content. Fetch+cheerio cannot handle this.');
+      console.log('Playwright is required to scrape this page.');
+      throw new Error('eBay is serving JavaScript-rendered content. Playwright is required but fetch+cheerio was attempted first and failed. Falling back to Playwright...');
+    }
   }
   
   listings.slice(1).forEach((item, index) => { // Skip first item (usually ad)
