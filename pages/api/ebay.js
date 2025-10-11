@@ -30,27 +30,45 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   const $ = cheerio.load(html);
   
   const items = [];
-  // Try multiple selectors for listings as eBay structure may have changed
-  let listings = $('.s-item').toArray();
+  // Try multiple selectors for listings - be specific to avoid sidebar elements
+  let listings = [];
   
-  // Fallback selectors if .s-item doesn't work
+  // Primary: Select items within the search results container (excludes sidebar)
+  listings = $('.srp-results .s-item').toArray();
+  
+  // Fallback 1: Items within result list
+  if (listings.length === 0) {
+    listings = $('ul.srp-results li.s-item').toArray();
+  }
+  
+  // Fallback 2: Items with info section (real listings have this)
+  if (listings.length === 0) {
+    listings = $('.s-item').filter((i, el) => {
+      return $(el).find('.s-item__info').length > 0;
+    }).toArray();
+  }
+  
+  // Fallback 3: Generic s-item but exclude refine/filter elements
+  if (listings.length === 0) {
+    listings = $('.s-item').not('[class*="refine"]').toArray();
+  }
+  
+  // Fallback 4: Other selectors
   if (listings.length === 0) {
     listings = $('.srp-results .s-result').toArray();
   }
   if (listings.length === 0) {
     listings = $('[data-testid="item"]').toArray();
   }
-  if (listings.length === 0) {
-    listings = $('.item').toArray();
-  }
-  if (listings.length === 0) {
-    listings = $('li.s-item').toArray();
-  }
-  if (listings.length === 0) {
-    listings = $('div[class*="item"]').toArray();
-  }
   
-  console.log(`Found ${listings.length} listings with cheerio`);
+  // Determine which selector worked
+  let selectorUsed = 'none';
+  if ($('.srp-results .s-item').length > 0) selectorUsed = '.srp-results .s-item';
+  else if ($('ul.srp-results li.s-item').length > 0) selectorUsed = 'ul.srp-results li.s-item';
+  else if ($('.s-item').filter((i, el) => $(el).find('.s-item__info').length > 0).length > 0) selectorUsed = '.s-item with .s-item__info';
+  else if ($('.s-item').not('[class*="refine"]').length > 0) selectorUsed = '.s-item (excluding refine)';
+  
+  console.log(`Found ${listings.length} listings with cheerio using selector: ${selectorUsed}`);
   console.log(`URL used: ${url}`);
   
   // Debug: log the first item's HTML structure to see what we're working with
