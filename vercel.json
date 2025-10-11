@@ -1,5 +1,4 @@
 {
-  "buildCommand": "npm install && npx playwright install chromium --with-deps && npm run build",
   "functions": {
     "pages/api/ebay.js": {
       "maxDuration": 60,
@@ -11,7 +10,6 @@
     }
   },
   "env": {
-    "NODE_ENV": "production",
-    "PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD": "0"
+    "NODE_ENV": "production"
   }
 } 

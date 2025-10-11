@@ -6,8 +6,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "download-images": "node scripts/download-images.js",
-    "postinstall": "playwright install chromium --with-deps || echo 'Playwright install failed, will use fetch+cheerio only'"
+    "download-images": "node scripts/download-images.js"
   },
   "dependencies": {
     "ai-seo": "^1.0.1",

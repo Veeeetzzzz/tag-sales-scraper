@@ -22,14 +22,32 @@ const scrapeRSSFeed = async (rssUrl, isUSMarketplace = false) => {
     const $item = $(item);
     const title = $item.find('title').text().trim();
     const link = $item.find('link').text().trim();
+    const description = $item.find('description').text().trim();
     
-    // RSS feeds don't always have sold items, so skip if not useful
+    // Try to extract price from description (often contains "£12.99" or "$12.99")
+    let price = '';
+    const priceMatch = description.match(/[£$][\d,]+\.?\d*/);
+    if (priceMatch) {
+      price = priceMatch[0];
+    }
+    
+    // Try to extract image from description or media tags
+    let img = '';
+    const imgMatch = description.match(/<img[^>]+src="([^"]+)"/);
+    if (imgMatch) {
+      img = imgMatch[1];
+    } else {
+      const mediaContent = $item.find('media\\:content, content').attr('url');
+      if (mediaContent) img = mediaContent;
+    }
+    
+    // RSS feeds may have sold items
     if (title && link) {
       items.push({
         title,
         listingUrl: link,
-        price: '', // RSS might not have price
-        img: '',
+        price: price || '£0.00', // Default price if not found
+        img: img,
         soldDate: 'Recently sold',
         soldInfo: 'Recently sold',
         location: '',
@@ -662,18 +680,9 @@ export default async function handler(req, res) {
       console.log(`Fetch + cheerio extracted ${items.length} items`);
       scraperUsed = 'fetch+cheerio';
     } catch (fetchError) {
-      console.log('Fetch + cheerio failed, trying Playwright...', fetchError.message);
-      
-      // Fallback to Playwright (better chance of working with bot protection)
-      try {
-        items = await scrapeWithPlaywright(url, isUSMarketplace);
-        console.log(`Playwright extracted ${items.length} items`);
-        scraperUsed = 'playwright';
-      } catch (playwrightError) {
-        console.error('Both methods failed. Fetch error:', fetchError.message);
-        console.error('Playwright error:', playwrightError.message);
-        throw new Error(`All scraping methods failed. Fetch: ${fetchError.message}. Playwright: ${playwrightError.message}`);
-      }
+      console.log('Fetch + cheerio failed:', fetchError.message);
+      console.log('Note: Playwright is not available on Vercel serverless functions');
+      throw new Error(`Scraping failed. RSS: ${items.length === 0 ? 'no items' : 'skipped'}. Fetch: ${fetchError.message}. Playwright is not supported on Vercel.`);
       }
     }
     
