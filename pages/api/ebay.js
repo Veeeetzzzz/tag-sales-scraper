@@ -82,22 +82,59 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
     try {
       const $item = $(item);
       
-      // Extract title with multiple fallbacks
-      const title = $item.find('.s-item__title span[role="heading"]').text().trim() ||
-                   $item.find('.s-item__title span').text().trim() ||
-                   $item.find('.s-item__title').text().trim() ||
-                   $item.find('[data-testid="item-title"]').text().trim() ||
-                   $item.find('h3').text().trim() ||
-                   $item.find('.title').text().trim() ||
-                   '';
+      // Extract title with multiple fallbacks - more aggressive approach
+      let title = '';
       
-      // Extract price with multiple fallbacks
-      let price = $item.find('.s-item__price .notranslate').text().trim() ||
-                  $item.find('.s-item__price').text().trim() ||
-                  $item.find('[data-testid="item-price"]').text().trim() ||
-                  $item.find('.price').text().trim() ||
-                  $item.find('[class*="price"]').text().trim() ||
-                  '';
+      // Try different selectors in order
+      const titleSelectors = [
+        '.s-item__title span[role="heading"]',
+        '.s-item__title > span',
+        '.s-item__title',
+        'h3.s-item__title',
+        '[data-testid="item-title"]',
+        'h3',
+        '.title'
+      ];
+      
+      for (const selector of titleSelectors) {
+        const elem = $item.find(selector);
+        if (elem.length > 0) {
+          title = elem.first().text().trim();
+          if (title && title !== 'Shop on eBay') {
+            break;
+          }
+        }
+      }
+      
+      // If still no title, try getting any text from common title containers
+      if (!title) {
+        const titleContainer = $item.find('[class*="title"]').first();
+        if (titleContainer.length > 0) {
+          title = titleContainer.text().trim();
+        }
+      }
+      
+      // Extract price with multiple fallbacks - more aggressive approach
+      let price = '';
+      
+      const priceSelectors = [
+        '.s-item__price .notranslate',
+        '.s-item__price',
+        'span.s-item__price',
+        '[data-testid="item-price"]',
+        '.price',
+        '[class*="price"]'
+      ];
+      
+      for (const selector of priceSelectors) {
+        const elem = $item.find(selector);
+        if (elem.length > 0) {
+          price = elem.first().text().trim();
+          if (price && (price.includes('£') || price.includes('$'))) {
+            break;
+          }
+        }
+      }
       
       // For US marketplace, remove shipping costs from price display
       if (isUSMarketplace && price.includes('+')) {
@@ -189,6 +226,11 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
           location: locationText,
           marketplace: isUSMarketplace ? 'us' : 'uk'
         });
+      } else {
+        // Debug logging for items with missing data
+        if (index < 5) { // Only log first 5 to avoid spam
+          console.log(`Item ${index} missing data - Title: "${title ? title.substring(0, 50) : 'NONE'}", Price: "${price || 'NONE'}"`);
+        }
       }
     } catch (error) {
       console.error(`Error processing item ${index}:`, error);
@@ -264,7 +306,7 @@ const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
   
   // Launch with more realistic browser settings
   const browser = await chromium.launch({
-    headless: 'new', // Use new headless mode which is more like real Chrome
+    headless: true, // Use headless mode
     args: [
       '--disable-blink-features=AutomationControlled',
       '--no-sandbox',
