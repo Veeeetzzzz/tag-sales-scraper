@@ -536,35 +536,69 @@ const scrapeWithJinaProxy = async (url, isUSMarketplace = false) => {
     const text = await response.text();
     console.log('(Jina) Text sample:', text.substring(0, 500));
 
-    // Heuristic parsing: find lines with currency, use previous non-empty as title
-    const lines = text.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
+    // Heuristic parsing: walk through lines and build entries around a price line
+    const rawLines = text.split(/\r?\n/);
+    const lines = rawLines.map(l => l.trim()).filter(Boolean);
     const items = [];
-    for (let i = 1; i < lines.length; i++) {
+    const seen = new Set();
+    const priceRe = /^[£$]\s?[\d,]+(?:\.\d{2})?$/;
+    const urlRe = /(https?:\/\/www\.(?:ebay|ebayimg)\.(?:co\.uk|com)\/[\w\-\/.:%?=&#]+)/i;
+
+    for (let i = 0; i < lines.length; i++) {
       const line = lines[i];
-      if (/^[£$][\d,]+(\.\d{2})?/.test(line)) {
-        // Price line
-        // Find title within the last few lines
-        let title = '';
-        for (let j = i - 1; j >= Math.max(0, i - 5); j--) {
-          if (lines[j] && !/^(Sold|Best Offer|Buy It Now|Bids?:|Ended|Shipping|Postage)/i.test(lines[j])) {
-            title = lines[j];
-            break;
-          }
-        }
-        if (title) {
-          items.push({
-            title,
-            img: '',
-            price: line,
-            soldDate: 'Recently sold',
-            soldInfo: 'Recently sold',
-            listingUrl: '',
-            location: '',
-            marketplace: isUSMarketplace ? 'us' : 'uk'
-          });
+      if (!priceRe.test(line)) continue;
+
+      // Skip zero or placeholder prices
+      const num = parseFloat(line.replace(/[^\d.]/g, '')) || 0;
+      if (num <= 0) continue;
+
+      // Find a reasonable title within the previous 8 lines
+      let title = '';
+      for (let j = i - 1; j >= Math.max(0, i - 8); j--) {
+        const t = lines[j];
+        if (
+          t &&
+          t.length > 8 &&
+          !priceRe.test(t) &&
+          !/^\[?Image\b/i.test(t) &&
+          !/^(Sold|Best Offer|Buy It Now|Bids?:|Ended|Shipping|Postage|Available inventory)/i.test(t)
+        ) {
+          title = t.replace(/^\*+\s*/, '').trim();
+          break;
         }
       }
+      if (!title) continue;
+
+      // Try to find a listing URL within the next 8 lines
+      let listingUrl = '';
+      for (let k = i; k <= Math.min(lines.length - 1, i + 8); k++) {
+        const m = urlRe.exec(lines[k]);
+        if (m && /\/itm\//.test(m[1])) { listingUrl = m[1]; break; }
+      }
+
+      // Try to find an image URL near the title/price lines
+      let img = '';
+      for (let k = Math.max(0, i - 8); k <= Math.min(lines.length - 1, i + 8); k++) {
+        const m = urlRe.exec(lines[k]);
+        if (m && /i\.ebayimg\.com/.test(m[1])) { img = m[1]; break; }
+      }
+
+      const key = `${title}::${line}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+
+      items.push({
+        title,
+        img,
+        price: line,
+        soldDate: 'Recently sold',
+        soldInfo: 'Recently sold',
+        listingUrl,
+        location: '',
+        marketplace: isUSMarketplace ? 'us' : 'uk'
+      });
     }
+
     console.log(`(Jina) Extracted ${items.length} items`);
     return items;
   } catch (error) {
