@@ -1,5 +1,44 @@
 const cheerio = require('cheerio');
 
+// Common post-processing and filtering for scraped items
+const filterItemsCommon = (rawItems = []) => {
+  const dedup = new Set();
+  const cleaned = [];
+  for (const item of rawItems) {
+    if (!item || !item.title) continue;
+    const titleLower = item.title.toLowerCase();
+
+    // Skip placeholders
+    if (titleLower.includes('available inventory')) continue;
+
+    // Price must be > 0
+    const priceNum = parseFloat(String(item.price || '').replace(/[^\d.]/g, '')) || 0;
+    if (isNaN(priceNum) || priceNum <= 0) continue;
+
+    // Exclude other grading unless TAG present
+    const hasOther = titleLower.includes('psa') || titleLower.includes('cgc') || titleLower.includes('bgs');
+    const hasTag = titleLower.includes('tag');
+    if (hasOther && !hasTag) continue;
+
+    // Require TAG mention
+    const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+|tag\d+/.test(titleLower);
+    const hasTagMention = hasTag || titleLower.includes('tag graded') || titleLower.includes('tag grade') || titleLower.includes('tag authenticated') || /\btag\b/.test(titleLower);
+    if (!hasTagGrade && !hasTagMention) continue;
+
+    // Require Pokemon
+    if (!titleLower.includes('pokemon') && !titleLower.includes('pokémon') && !titleLower.includes('pkmn')) continue;
+
+    // Exclude lots/bundles
+    if (titleLower.includes('lot of') || titleLower.includes('bundle of') || titleLower.includes('collection of')) continue;
+
+    const key = `${item.title}::${item.price}`;
+    if (dedup.has(key)) continue;
+    dedup.add(key);
+    cleaned.push(item);
+  }
+  return cleaned.slice(0, 60);
+};
+
 // RSS Feed scraper (bypasses most bot detection)
 const scrapeRSSFeed = async (rssUrl, isUSMarketplace = false) => {
   console.log('Attempting RSS feed scrape...');
@@ -143,8 +182,9 @@ const scrapeWithMobileFetch = async (url, isUSMarketplace = false) => {
       }
     });
     
-    console.log(`(Mobile) Extracted ${items.length} items`);
-    return items;
+    const filtered = filterItemsCommon(items);
+    console.log(`(Mobile) Extracted ${items.length} items, ${filtered.length} after filtering`);
+    return filtered;
   } catch (error) {
     clearTimeout(timeout);
     if (error.name === 'AbortError') {
@@ -501,7 +541,8 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
     });
   }
   
-  return filteredItems;
+  const finalItems = filterItemsCommon(filteredItems);
+  return finalItems;
   } catch (error) {
     clearTimeout(timeout);
     if (error.name === 'AbortError') {
@@ -599,8 +640,9 @@ const scrapeWithJinaProxy = async (url, isUSMarketplace = false) => {
       });
     }
 
-    console.log(`(Jina) Extracted ${items.length} items`);
-    return items;
+    const filtered = filterItemsCommon(items);
+    console.log(`(Jina) Extracted ${items.length} items, ${filtered.length} after filtering`);
+    return filtered;
   } catch (error) {
     clearTimeout(timeout);
     if (error.name === 'AbortError') {
