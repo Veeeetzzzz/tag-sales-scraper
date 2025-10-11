@@ -4,23 +4,33 @@ const cheerio = require('cheerio');
 const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   console.log('Using fetch + cheerio approach...');
   
-  // Try to get eBay to serve non-JavaScript version by pretending to be an older browser
-  const response = await fetch(url, {
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-      'Accept-Language': 'en-US,en;q=0.5',
-      'Accept-Encoding': 'gzip, deflate',
-      'Connection': 'keep-alive',
-      'Cache-Control': 'no-cache',
+  // Create an AbortController for timeout
+  const controller = new AbortController();
+  const timeout = setTimeout(() => {
+    controller.abort();
+  }, 10000); // 10 second timeout
+  
+  try {
+    // Try to get eBay to serve non-JavaScript version by pretending to be an older browser
+    const response = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
+        'Accept-Encoding': 'gzip, deflate',
+        'Connection': 'keep-alive',
+        'Cache-Control': 'no-cache',
+      }
+    });
+    
+    clearTimeout(timeout);
+    
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
     }
-  });
-  
-  if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
-  }
-  
-  const html = await response.text();
+    
+    const html = await response.text();
   
   // Check if we got a challenge page (bot detection)
   if (html.includes('Checking your browser') || html.includes('Pardon our interruption') || html.includes('challenge-')) {
@@ -337,6 +347,14 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   }
   
   return filteredItems;
+  } catch (error) {
+    clearTimeout(timeout);
+    if (error.name === 'AbortError') {
+      console.log('Fetch request timed out after 10 seconds');
+      throw new Error('eBay request timed out - server may be slow or blocking requests');
+    }
+    throw error;
+  }
 };
 
 const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
