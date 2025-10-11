@@ -60,6 +60,101 @@ const scrapeRSSFeed = async (rssUrl, isUSMarketplace = false) => {
   return items;
 };
 
+// Mobile site scraping approach (often SSR and less JS-heavy)
+const scrapeWithMobileFetch = async (url, isUSMarketplace = false) => {
+  console.log('Using mobile fetch + cheerio approach...');
+  
+  // Convert to mobile domain
+  let mobileUrl = url
+    .replace('https://www.ebay.co.uk', 'https://m.ebay.co.uk')
+    .replace('https://www.ebay.com', 'https://m.ebay.com')
+    .replace('https://ebay.co.uk', 'https://m.ebay.co.uk')
+    .replace('https://ebay.com', 'https://m.ebay.com');
+  
+  // Create an AbortController for timeout
+  const controller = new AbortController();
+  const timeout = setTimeout(() => {
+    controller.abort();
+  }, 20000); // 20 second timeout for mobile
+  
+  try {
+    const response = await fetch(mobileUrl, {
+      signal: controller.signal,
+      headers: {
+        // iPhone Safari UA tends to get simpler HTML
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-GB,en;q=0.9',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
+        'Connection': 'keep-alive'
+      }
+    });
+    
+    clearTimeout(timeout);
+    
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    
+    const html = await response.text();
+    const $ = cheerio.load(html);
+    
+    const items = [];
+    // Prefer selecting results inside results container
+    let listings = $('.srp-results .s-item').toArray();
+    if (listings.length === 0) listings = $('ul.srp-results li.s-item').toArray();
+    if (listings.length === 0) listings = $('[data-testid="item"]').toArray();
+    if (listings.length === 0) listings = $('li.s-item, div.s-item').toArray();
+    
+    console.log(`(Mobile) Found ${listings.length} listings`);
+    
+    listings.slice(1).forEach((item) => {
+      const $item = $(item);
+      const title = $item.find('.s-item__title').text().trim() ||
+                    $item.find('h3').text().trim() ||
+                    $item.find('[data-testid="item-title"]').text().trim() || '';
+      let price = $item.find('.s-item__price').text().trim() ||
+                  $item.find('[data-testid="item-price"]').text().trim() || '';
+      if (isUSMarketplace && price.includes('+')) price = price.split('+')[0].trim();
+      let img = $item.find('.s-item__image img').attr('src') || $item.find('img').attr('data-src') || '';
+      if (img) {
+        img = img
+          .replace(/s-l140/g, 's-l500')
+          .replace(/s-l225/g, 's-l500')
+          .replace(/s-l300/g, 's-l500')
+          .replace(/\.webp$/g, '.jpg');
+      }
+      const listingUrl = $item.find('.s-item__link').attr('href') || $item.find('a[href*="/itm/"]').attr('href') || '';
+      const locationText = $item.find('.s-item__location').text().trim() || $item.find('.s-item__shipping').text().trim() || '';
+      const soldInfo = 'Recently sold';
+      
+      if (title && price) {
+        items.push({
+          title,
+          img,
+          price,
+          soldDate: 'Recently sold',
+          soldInfo,
+          listingUrl,
+          location: locationText,
+          marketplace: isUSMarketplace ? 'us' : 'uk'
+        });
+      }
+    });
+    
+    console.log(`(Mobile) Extracted ${items.length} items`);
+    return items;
+  } catch (error) {
+    clearTimeout(timeout);
+    if (error.name === 'AbortError') {
+      console.log('Mobile fetch request timed out after 20 seconds');
+      throw new Error('eBay mobile request timed out');
+    }
+    throw error;
+  }
+};
+
 // Hybrid scraping approach
 const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   console.log('Using fetch + cheerio approach...');
@@ -672,20 +767,30 @@ export default async function handler(req, res) {
       console.log('RSS feed failed:', rssError.message);
     }
     
-    // If RSS didn't work, try regular methods
+    // If RSS didn't work, try mobile site first (SSR/less JS)
+    if (items.length === 0) {
+      try {
+        console.log('Attempting mobile site scrape...');
+        items = await scrapeWithMobileFetch(url, isUSMarketplace);
+        console.log(`Mobile scrape extracted ${items.length} items`);
+        if (items.length > 0) scraperUsed = 'mobile-fetch';
+      } catch (mobileError) {
+        console.log('Mobile scrape failed:', mobileError.message);
+      }
+    }
+
+    // If mobile also didn't work, try desktop fetch
     if (items.length === 0) {
       console.log(`Using ${marketplace.toUpperCase()} eBay URL:`, url);
-    
-    // Try fetch + cheerio first (more reliable on Vercel, simpler)
-    try {
-      console.log('Attempting fetch + cheerio method...');
-      items = await scrapeWithFetch(url, isUSMarketplace);
-      console.log(`Fetch + cheerio extracted ${items.length} items`);
-      scraperUsed = 'fetch+cheerio';
-    } catch (fetchError) {
-      console.log('Fetch + cheerio failed:', fetchError.message);
-      console.log('Note: Playwright is not available on Vercel serverless functions');
-      throw new Error(`Scraping failed. RSS: ${items.length === 0 ? 'no items' : 'skipped'}. Fetch: ${fetchError.message}. Playwright is not supported on Vercel.`);
+      try {
+        console.log('Attempting fetch + cheerio method...');
+        items = await scrapeWithFetch(url, isUSMarketplace);
+        console.log(`Fetch + cheerio extracted ${items.length} items`);
+        scraperUsed = 'fetch+cheerio';
+      } catch (fetchError) {
+        console.log('Fetch + cheerio failed:', fetchError.message);
+        console.log('Note: Playwright is not available on Vercel serverless functions');
+        throw new Error(`Scraping failed. RSS: ${items.length === 0 ? 'no items' : 'skipped'}. Mobile: failed. Fetch: ${fetchError.message}. Playwright is not supported on Vercel.`);
       }
     }
     
