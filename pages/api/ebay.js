@@ -657,6 +657,9 @@ export default async function handler(req, res) {
       isUSMarketplace = false;
     }
     
+    let items = [];
+    let scraperUsed = 'none';
+    
     // Try RSS feed first (often bypasses bot protection)
     try {
       console.log('Trying RSS feed first...');
