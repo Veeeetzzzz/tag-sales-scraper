@@ -254,9 +254,23 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
     }).toArray();
   }
   
-  // Fallback 3: Generic s-item but exclude refine/filter elements
+  // Fallback 3: New eBay SRP card structure (su-styled-text / s-card__image / s-card__price)
   if (listings.length === 0) {
-    listings = $('.s-item').not('[class*="refine"]').toArray();
+    const priceSpans = $('span.s-card__price').toArray();
+    const imageEls = $('img.s-card__image').toArray();
+    const titleSpans = $('span.su-styled-text.primary.default').toArray();
+    const candidates = new Set();
+    const collectParent = (el) => {
+      const $el = $(el);
+      const parent = $el.parents('li,div,article').first();
+      if (parent && parent.length) {
+        candidates.add(parent.get(0));
+      }
+    };
+    priceSpans.forEach(collectParent);
+    imageEls.forEach(collectParent);
+    titleSpans.forEach(collectParent);
+    listings = Array.from(candidates);
   }
   
   // Fallback 4: Other selectors
@@ -272,6 +286,7 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   if ($('.srp-results .s-item').length > 0) selectorUsed = '.srp-results .s-item';
   else if ($('ul.srp-results li.s-item').length > 0) selectorUsed = 'ul.srp-results li.s-item';
   else if ($('.s-item').filter((i, el) => $(el).find('.s-item__info').length > 0).length > 0) selectorUsed = '.s-item with .s-item__info';
+  else if ($('span.s-card__price, img.s-card__image, span.su-styled-text.primary.default').length > 0) selectorUsed = 's-card structure';
   else if ($('.s-item').not('[class*="refine"]').length > 0) selectorUsed = '.s-item (excluding refine)';
   
   console.log(`Found ${listings.length} listings with cheerio using selector: ${selectorUsed}`);
@@ -323,15 +338,16 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
     }
   }
   
-  listings.slice(1).forEach((item, index) => { // Skip first item (usually ad)
+  listings.slice(0).forEach((item, index) => {
     try {
       const $item = $(item);
       
-      // Extract title with multiple fallbacks - more aggressive approach
+      // Extract title with multiple fallbacks - support new SRP structure
       let title = '';
       
       // Try different selectors in order
       const titleSelectors = [
+        '.su-styled-text.primary.default', // new SRP
         '.s-item__title span[role="heading"]',
         '.s-item__title > span',
         '.s-item__title',
@@ -359,10 +375,11 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
         }
       }
       
-      // Extract price with multiple fallbacks - more aggressive approach
+      // Extract price with multiple fallbacks - support new SRP
       let price = '';
       
       const priceSelectors = [
+        'span.s-card__price', // new SRP
         '.s-item__price .notranslate',
         '.s-item__price',
         'span.s-item__price',
@@ -387,7 +404,8 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
       }
       
       // Extract image and upgrade to higher quality
-      let img = $item.find('.s-item__image img').attr('src') ||
+      let img = $item.find('img.s-card__image').attr('src') ||
+               $item.find('.s-item__image img').attr('src') ||
                $item.find('img[src*="ebayimg"]').attr('src') ||
                $item.find('img').attr('data-src') ||
                $item.find('[data-testid="item-image"] img').attr('src') ||
@@ -420,6 +438,7 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
       
       // Try multiple selectors for sold date information
       const soldDateSelectors = [
+        'span.su-styled-text.positive.default', // e.g., Sold 11 Oct 2025
         '.s-item__detail--primary',
         '.s-item__detail',
         '.s-item__ended',
