@@ -12,12 +12,20 @@ class CardMatcher {
   async loadCards(forceReload = false) {
     if (this.initialized && !forceReload) return;
     
+    // Reset state when force reloading to ensure clean state
+    if (forceReload) {
+      this.cards = [];
+      this.sets = {};
+      this.initialized = false;
+      console.log('Force reloading card database - cleared previous data');
+    }
+    
     try {
       const cardsDir = path.join(process.cwd(), 'data', 'cards');
       const files = await fs.readdir(cardsDir);
       
       // Load all JSON files in the cards directory
-      const jsonFiles = files.filter(file => file.endsWith('.json'));
+      const jsonFiles = files.filter(file => file.endsWith('.json') && !file.endsWith('.backup'));
       
       for (const file of jsonFiles) {
         try {
@@ -45,21 +53,12 @@ class CardMatcher {
       this.initialized = true;
       console.log(`Loaded ${this.cards.length} cards from ${Object.keys(this.sets).length} sets for matching`);
       
-      // Clear any previous data when force reloading
-      if (forceReload) {
-        console.log('Force reloaded card database with updated data');
-      }
-          } catch (error) {
-        console.error('Error loading card database:', error);
-        this.cards = [];
-        this.sets = {};
-      }
-      
-      // Reset state when force reloading to ensure clean state
-      if (forceReload) {
-        this.cards = [];
-        this.sets = {};
-      }
+    } catch (error) {
+      console.error('Error loading card database:', error);
+      this.cards = [];
+      this.sets = {};
+      this.initialized = false;
+    }
   }
 
   // Get all available sets

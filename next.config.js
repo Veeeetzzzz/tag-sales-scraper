@@ -9,8 +9,16 @@ const nextConfig = {
   
   // Image optimization
   images: {
-    domains: ['i.ebayimg.com', 'via.placeholder.com'],
+    domains: [
+      'i.ebayimg.com', 
+      'ir.ebaystatic.com',
+      'p.turbosquid.com',
+      'via.placeholder.com',
+      'images.pokemontcg.io'
+    ],
     formats: ['image/webp', 'image/avif'],
+    dangerouslyAllowSVG: true,
+    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
   },
   
   // Headers for SEO and security

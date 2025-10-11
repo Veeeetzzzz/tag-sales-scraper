@@ -1,7 +1,12 @@
 {
   "functions": {
     "pages/api/ebay.js": {
-      "maxDuration": 30
+      "maxDuration": 60,
+      "memory": 1024
+    },
+    "pages/api/card-matcher.js": {
+      "maxDuration": 30,
+      "memory": 512
     }
   },
   "env": {

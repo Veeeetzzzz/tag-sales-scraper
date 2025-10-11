@@ -43,6 +43,12 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   if (listings.length === 0) {
     listings = $('.item').toArray();
   }
+  if (listings.length === 0) {
+    listings = $('li.s-item').toArray();
+  }
+  if (listings.length === 0) {
+    listings = $('div[class*="item"]').toArray();
+  }
   
   console.log(`Found ${listings.length} listings with cheerio`);
   console.log(`URL used: ${url}`);
@@ -53,14 +59,22 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
     console.log('Page title:', $('title').text());
     console.log('Available item selectors:');
     console.log('- .s-item count:', $('.s-item').length);
+    console.log('- li.s-item count:', $('li.s-item').length);
     console.log('- .srp-results count:', $('.srp-results').length);
     console.log('- .s-result count:', $('.s-result').length);
     console.log('- [data-testid] elements:', $('[data-testid]').length);
+    console.log('- div[class*="item"] count:', $('div[class*="item"]').length);
     
-    // Log first 1000 characters of body to see structure
+    // Log first 1500 characters of body to see structure
     const bodyText = $('body').html();
     if (bodyText) {
-      console.log('Body HTML sample:', bodyText.substring(0, 1000));
+      console.log('Body HTML sample (first 1500 chars):', bodyText.substring(0, 1500));
+    }
+    
+    // Check if we're being rate limited or blocked
+    const bodyLowerCase = bodyText ? bodyText.toLowerCase() : '';
+    if (bodyLowerCase.includes('captcha') || bodyLowerCase.includes('security check')) {
+      throw new Error('eBay security check or CAPTCHA detected');
     }
   }
   
@@ -186,29 +200,44 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   const filteredItems = items.filter(item => {
     // Basic filters
     if (!item.title || item.title === 'Shop on eBay' || item.title.length === 0) {
+      console.log('Filtered out: Empty or invalid title');
       return false;
     }
     
     const title = item.title.toLowerCase();
     
-    // Exclude other grading companies
-    if (title.includes('psa') || title.includes('cgc') || title.includes('bgs')) {
+    // Exclude other grading companies (but keep TAG items that mention other companies for comparison)
+    const hasOtherGrading = title.includes('psa') || title.includes('cgc') || title.includes('bgs');
+    const hasTag = title.includes('tag');
+    
+    // Only exclude if it has other grading companies but NO TAG mention
+    if (hasOtherGrading && !hasTag) {
+      console.log(`Filtered out: Has other grading (${title.substring(0, 50)}...)`);
       return false;
     }
     
-    // Must contain "TAG" with more specific patterns
-    const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+/.test(title);
-    if (!hasTagGrade && !title.includes('tag graded') && !title.includes('tag grade')) {
+    // Must contain "TAG" with various patterns (more lenient)
+    const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+|tag\d+/.test(title);
+    const hasTagMention = title.includes('tag graded') || 
+                          title.includes('tag grade') || 
+                          title.includes('tag authenticated') ||
+                          title.includes('tag auth') ||
+                          /\btag\b/.test(title); // Word boundary for "tag"
+    
+    if (!hasTagGrade && !hasTagMention) {
+      console.log(`Filtered out: No TAG mention (${title.substring(0, 50)}...)`);
       return false;
     }
     
-    // Must contain "pokemon" - be more strict
-    if (!title.includes('pokemon')) {
+    // Must contain "pokemon" or "pokémon" - be flexible with spelling
+    if (!title.includes('pokemon') && !title.includes('pokémon') && !title.includes('pkmn')) {
+      console.log(`Filtered out: No Pokemon mention (${title.substring(0, 50)}...)`);
       return false;
     }
     
-    // Additional quality filters
-    if (title.includes('lot') || title.includes('bundle') || title.includes('collection')) {
+    // Additional quality filters - exclude lots and bundles
+    if (title.includes('lot of') || title.includes('bundle of') || title.includes('collection of')) {
+      console.log(`Filtered out: Lot/bundle (${title.substring(0, 50)}...)`);
       return false; // Exclude lots and bundles for cleaner individual card data
     }
     
@@ -216,6 +245,15 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   });
   
   console.log(`Items after filtering: ${filteredItems.length}`);
+  
+  // If we filtered out everything, log the first few titles to help debug
+  if (filteredItems.length === 0 && items.length > 0) {
+    console.log('All items were filtered out. Sample of raw titles:');
+    items.slice(0, 5).forEach((item, i) => {
+      console.log(`  ${i + 1}. "${item.title}"`);
+    });
+  }
+  
   return filteredItems;
 };
 
@@ -408,18 +446,28 @@ const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
         
         const title = item.title.toLowerCase();
         
-        // Exclude other grading companies
-        if (title.includes('psa') || title.includes('cgc') || title.includes('bgs')) return false;
+        // Exclude other grading companies (but keep TAG items that mention other companies for comparison)
+        const hasOtherGrading = title.includes('psa') || title.includes('cgc') || title.includes('bgs');
+        const hasTag = title.includes('tag');
         
-        // Must contain "TAG" with more specific patterns
-        const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+/.test(title);
-        if (!hasTagGrade && !title.includes('tag graded') && !title.includes('tag grade')) return false;
+        // Only exclude if it has other grading companies but NO TAG mention
+        if (hasOtherGrading && !hasTag) return false;
         
-        // Must contain "pokemon" - be more strict
-        if (!title.includes('pokemon')) return false;
+        // Must contain "TAG" with various patterns (more lenient)
+        const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+|tag\d+/.test(title);
+        const hasTagMention = title.includes('tag graded') || 
+                              title.includes('tag grade') || 
+                              title.includes('tag authenticated') ||
+                              title.includes('tag auth') ||
+                              /\btag\b/.test(title); // Word boundary for "tag"
         
-        // Additional quality filters
-        if (title.includes('lot') || title.includes('bundle') || title.includes('collection')) return false;
+        if (!hasTagGrade && !hasTagMention) return false;
+        
+        // Must contain "pokemon" or "pokémon" - be flexible with spelling
+        if (!title.includes('pokemon') && !title.includes('pokémon') && !title.includes('pkmn')) return false;
+        
+        // Additional quality filters - exclude lots and bundles
+        if (title.includes('lot of') || title.includes('bundle of') || title.includes('collection of')) return false;
         
         return true;
       });
@@ -451,31 +499,37 @@ export default async function handler(req, res) {
     console.log(`Using ${marketplace.toUpperCase()} eBay URL:`, url);
     
     let items = [];
+    let scraperUsed = 'none';
     
-    // Try playwright first (better chance of working with bot protection)
+    // Try fetch + cheerio first (more reliable on Vercel, simpler)
     try {
-      items = await scrapeWithPlaywright(url, isUSMarketplace);
-      console.log(`Playwright extracted ${items.length} items`);
-    } catch (playwrightError) {
-      console.log('Playwright failed, trying fetch + cheerio...', playwrightError.message);
+      console.log('Attempting fetch + cheerio method...');
+      items = await scrapeWithFetch(url, isUSMarketplace);
+      console.log(`Fetch + cheerio extracted ${items.length} items`);
+      scraperUsed = 'fetch+cheerio';
+    } catch (fetchError) {
+      console.log('Fetch + cheerio failed, trying Playwright...', fetchError.message);
       
-      // Fallback to fetch + cheerio (simpler but may hit bot protection)
+      // Fallback to Playwright (better chance of working with bot protection)
       try {
-        items = await scrapeWithFetch(url, isUSMarketplace);
-        console.log(`Fetch + cheerio extracted ${items.length} items`);
-      } catch (fetchError) {
-        console.error('Both methods failed:', fetchError.message);
-        throw new Error('All scraping methods failed');
+        items = await scrapeWithPlaywright(url, isUSMarketplace);
+        console.log(`Playwright extracted ${items.length} items`);
+        scraperUsed = 'playwright';
+      } catch (playwrightError) {
+        console.error('Both methods failed. Fetch error:', fetchError.message);
+        console.error('Playwright error:', playwrightError.message);
+        throw new Error(`All scraping methods failed. Fetch: ${fetchError.message}. Playwright: ${playwrightError.message}`);
       }
     }
     
     if (items.length === 0) {
-      console.log('No items found - this might indicate eBay structure changes');
+      console.log('No items found - this might indicate eBay structure changes or filtering too strict');
       return res.status(200).json({ 
         items: [], 
         error: 'No items found', 
         timestamp: new Date().toISOString(),
-        message: 'The scraper might need updating for current eBay structure.'
+        message: 'The scraper might need updating for current eBay structure, or no TAG graded Pokemon cards have sold recently.',
+        scraperUsed: scraperUsed
       });
     }
     
@@ -486,7 +540,8 @@ export default async function handler(req, res) {
       items, 
       timestamp: new Date().toISOString(),
       count: items.length,
-      marketplace: marketplace
+      marketplace: marketplace,
+      scraperUsed: scraperUsed
     });
     
   } catch (error) {
