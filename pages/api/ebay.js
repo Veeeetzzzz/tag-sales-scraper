@@ -879,6 +879,7 @@ export default async function handler(req, res) {
     
     // Get marketplace parameter
     const marketplace = req.query.marketplace || 'uk'; // Default to UK
+    const includeDesktop = req.query.includeDesktop === '1' || req.query.includeDesktop === 'true';
     
     // Set URL based on marketplace
     // Try RSS feed first (less protected), fallback to regular HTML
@@ -895,54 +896,35 @@ export default async function handler(req, res) {
     
     let items = [];
     let scraperUsed = 'none';
-    
-    // Try RSS feed first (often bypasses bot protection)
-    try {
-      console.log('Trying RSS feed first...');
-      items = await scrapeRSSFeed(rssUrl, isUSMarketplace);
-      if (items.length > 0) {
-        console.log(`RSS feed extracted ${items.length} items`);
-        scraperUsed = 'rss-feed';
-      }
-    } catch (rssError) {
-      console.log('RSS feed failed:', rssError.message);
-    }
-    
-    // If RSS didn't work, try mobile site first (SSR/less JS)
-    if (items.length === 0) {
-      try {
-        console.log('Attempting mobile site scrape...');
-        items = await scrapeWithMobileFetch(url, isUSMarketplace);
-        console.log(`Mobile scrape extracted ${items.length} items`);
-        if (items.length > 0) scraperUsed = 'mobile-fetch';
-      } catch (mobileError) {
-        console.log('Mobile scrape failed:', mobileError.message);
-      }
-    }
 
-    // If mobile also didn't work, try Jina proxy, then desktop fetch
-    if (items.length === 0) {
-      try {
-        console.log('Attempting Jina proxy scrape...');
-        items = await scrapeWithJinaProxy(url, isUSMarketplace);
-        console.log(`Jina proxy extracted ${items.length} items`);
-        if (items.length > 0) scraperUsed = 'jina-proxy';
-      } catch (jinaError) {
-        console.log('Jina proxy failed:', jinaError.message);
+    // Run RSS, Mobile, and Jina in parallel and pick the best result
+    console.log('Launching parallel fast scrapers (RSS, Mobile, Jina)...');
+    const fastAttempts = await Promise.allSettled([
+      (async () => ({ src: 'rss-feed', data: await scrapeRSSFeed(rssUrl, isUSMarketplace) }))(),
+      (async () => ({ src: 'mobile-fetch', data: await scrapeWithMobileFetch(url, isUSMarketplace) }))(),
+      (async () => ({ src: 'jina-proxy', data: await scrapeWithJinaProxy(url, isUSMarketplace) }))(),
+    ]);
+    // Choose the one with the most items
+    let best = { src: 'none', data: [] };
+    for (const r of fastAttempts) {
+      if (r.status === 'fulfilled' && Array.isArray(r.value.data) && r.value.data.length > best.data.length) {
+        best = r.value;
       }
     }
+    items = best.data;
+    scraperUsed = best.src;
+    console.log(`Fast scrapers completed. Best: ${scraperUsed} with ${items.length} items`);
 
-    if (items.length === 0) {
+    // Optionally try slow desktop fetch only if explicitly requested and nothing found
+    if (items.length === 0 && includeDesktop) {
       console.log(`Using ${marketplace.toUpperCase()} eBay URL:`, url);
       try {
-        console.log('Attempting fetch + cheerio method...');
+        console.log('Attempting desktop fetch + cheerio method (explicit)...');
         items = await scrapeWithFetch(url, isUSMarketplace);
         console.log(`Fetch + cheerio extracted ${items.length} items`);
         scraperUsed = 'fetch+cheerio';
       } catch (fetchError) {
-        console.log('Fetch + cheerio failed:', fetchError.message);
-        console.log('Note: Playwright is not available on Vercel serverless functions');
-        throw new Error(`Scraping failed. RSS: ${items.length === 0 ? 'no items' : 'skipped'}. Mobile: failed. Jina: failed. Fetch: ${fetchError.message}. Playwright is not supported on Vercel.`);
+        console.log('Desktop fetch failed:', fetchError.message);
       }
     }
     
