@@ -53,6 +53,19 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   console.log(`Found ${listings.length} listings with cheerio`);
   console.log(`URL used: ${url}`);
   
+  // Debug: log the first item's HTML structure to see what we're working with
+  if (listings.length > 0) {
+    const firstItem = $(listings[0]);
+    const itemHtml = firstItem.html();
+    console.log('First item HTML structure (first 1000 chars):');
+    console.log(itemHtml ? itemHtml.substring(0, 1000) : 'NO HTML');
+    
+    // Log what classes and structure we see
+    console.log('First item classes:', firstItem.attr('class'));
+    console.log('First item direct children:', firstItem.children().map((i, el) => $(el).attr('class')).get().join(', '));
+    console.log('First item text content (first 200 chars):', firstItem.text().trim().substring(0, 200));
+  }
+  
   // Debug: log the HTML structure if no listings found
   if (listings.length === 0) {
     console.log('No listings found. Checking page structure...');
