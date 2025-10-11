@@ -163,7 +163,7 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   const controller = new AbortController();
   const timeout = setTimeout(() => {
     controller.abort();
-  }, 10000); // 10 second timeout
+  }, 20000); // 20 second timeout
   
   try {
     // Try to get eBay to serve non-JavaScript version by pretending to be an older browser
@@ -512,6 +512,71 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   }
 };
 
+// Jina AI text proxy fallback
+const scrapeWithJinaProxy = async (url, isUSMarketplace = false) => {
+  console.log('Using Jina AI text proxy fallback...');
+  // Transform https://host/path -> https://r.jina.ai/http://host/path
+  const httpUrl = url.replace('https://', 'http://');
+  const jinaUrl = `https://r.jina.ai/${httpUrl}`;
+
+  // 20s timeout
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 20000);
+
+  try {
+    const response = await fetch(jinaUrl, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'text/plain,*/*',
+        'Cache-Control': 'no-cache'
+      }
+    });
+    clearTimeout(timeout);
+    const text = await response.text();
+    console.log('(Jina) Text sample:', text.substring(0, 500));
+
+    // Heuristic parsing: find lines with currency, use previous non-empty as title
+    const lines = text.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
+    const items = [];
+    for (let i = 1; i < lines.length; i++) {
+      const line = lines[i];
+      if (/^[£$][\d,]+(\.\d{2})?/.test(line)) {
+        // Price line
+        // Find title within the last few lines
+        let title = '';
+        for (let j = i - 1; j >= Math.max(0, i - 5); j--) {
+          if (lines[j] && !/^(Sold|Best Offer|Buy It Now|Bids?:|Ended|Shipping|Postage)/i.test(lines[j])) {
+            title = lines[j];
+            break;
+          }
+        }
+        if (title) {
+          items.push({
+            title,
+            img: '',
+            price: line,
+            soldDate: 'Recently sold',
+            soldInfo: 'Recently sold',
+            listingUrl: '',
+            location: '',
+            marketplace: isUSMarketplace ? 'us' : 'uk'
+          });
+        }
+      }
+    }
+    console.log(`(Jina) Extracted ${items.length} items`);
+    return items;
+  } catch (error) {
+    clearTimeout(timeout);
+    if (error.name === 'AbortError') {
+      console.log('Jina proxy request timed out after 20 seconds');
+      throw new Error('Jina proxy request timed out');
+    }
+    throw error;
+  }
+};
+
 const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
   console.log('Using playwright approach with full browser context...');
   
@@ -779,7 +844,18 @@ export default async function handler(req, res) {
       }
     }
 
-    // If mobile also didn't work, try desktop fetch
+    // If mobile also didn't work, try Jina proxy, then desktop fetch
+    if (items.length === 0) {
+      try {
+        console.log('Attempting Jina proxy scrape...');
+        items = await scrapeWithJinaProxy(url, isUSMarketplace);
+        console.log(`Jina proxy extracted ${items.length} items`);
+        if (items.length > 0) scraperUsed = 'jina-proxy';
+      } catch (jinaError) {
+        console.log('Jina proxy failed:', jinaError.message);
+      }
+    }
+
     if (items.length === 0) {
       console.log(`Using ${marketplace.toUpperCase()} eBay URL:`, url);
       try {
@@ -790,7 +866,7 @@ export default async function handler(req, res) {
       } catch (fetchError) {
         console.log('Fetch + cheerio failed:', fetchError.message);
         console.log('Note: Playwright is not available on Vercel serverless functions');
-        throw new Error(`Scraping failed. RSS: ${items.length === 0 ? 'no items' : 'skipped'}. Mobile: failed. Fetch: ${fetchError.message}. Playwright is not supported on Vercel.`);
+        throw new Error(`Scraping failed. RSS: ${items.length === 0 ? 'no items' : 'skipped'}. Mobile: failed. Jina: failed. Fetch: ${fetchError.message}. Playwright is not supported on Vercel.`);
       }
     }
     
