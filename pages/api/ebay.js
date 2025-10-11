@@ -1,5 +1,47 @@
 const cheerio = require('cheerio');
 
+// RSS Feed scraper (bypasses most bot detection)
+const scrapeRSSFeed = async (rssUrl, isUSMarketplace = false) => {
+  console.log('Attempting RSS feed scrape...');
+  
+  const response = await fetch(rssUrl, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+    }
+  });
+  
+  if (!response.ok) {
+    throw new Error(`RSS HTTP error! status: ${response.status}`);
+  }
+  
+  const xml = await response.text();
+  const $ = cheerio.load(xml, { xmlMode: true });
+  
+  const items = [];
+  $('item').each((index, item) => {
+    const $item = $(item);
+    const title = $item.find('title').text().trim();
+    const link = $item.find('link').text().trim();
+    
+    // RSS feeds don't always have sold items, so skip if not useful
+    if (title && link) {
+      items.push({
+        title,
+        listingUrl: link,
+        price: '', // RSS might not have price
+        img: '',
+        soldDate: 'Recently sold',
+        soldInfo: 'Recently sold',
+        location: '',
+        marketplace: isUSMarketplace ? 'us' : 'uk'
+      });
+    }
+  });
+  
+  console.log(`RSS feed found ${items.length} items`);
+  return items;
+};
+
 // Hybrid scraping approach
 const scrapeWithFetch = async (url, isUSMarketplace = false) => {
   console.log('Using fetch + cheerio approach...');
@@ -584,22 +626,34 @@ export default async function handler(req, res) {
     // Get marketplace parameter
     const marketplace = req.query.marketplace || 'uk'; // Default to UK
     
-    // Set URL based on marketplace - using simpler URL that might avoid detection
-    let url, isUSMarketplace;
+    // Set URL based on marketplace
+    // Try RSS feed first (less protected), fallback to regular HTML
+    let url, rssUrl, isUSMarketplace;
     if (marketplace === 'us') {
-      // Simplified URL - just search for TAG pokemon in sold listings
       url = 'https://www.ebay.com/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_sop=13';
+      rssUrl = 'https://www.ebay.com/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_rss=1';
       isUSMarketplace = true;
     } else {
-      // Simplified URL for UK
       url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_sop=13&LH_PrefLoc=1';
+      rssUrl = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_rss=1';
       isUSMarketplace = false;
     }
     
-    console.log(`Using ${marketplace.toUpperCase()} eBay URL:`, url);
+    // Try RSS feed first (often bypasses bot protection)
+    try {
+      console.log('Trying RSS feed first...');
+      items = await scrapeRSSFeed(rssUrl, isUSMarketplace);
+      if (items.length > 0) {
+        console.log(`RSS feed extracted ${items.length} items`);
+        scraperUsed = 'rss-feed';
+      }
+    } catch (rssError) {
+      console.log('RSS feed failed:', rssError.message);
+    }
     
-    let items = [];
-    let scraperUsed = 'none';
+    // If RSS didn't work, try regular methods
+    if (items.length === 0) {
+      console.log(`Using ${marketplace.toUpperCase()} eBay URL:`, url);
     
     // Try fetch + cheerio first (more reliable on Vercel, simpler)
     try {
@@ -619,6 +673,7 @@ export default async function handler(req, res) {
         console.error('Both methods failed. Fetch error:', fetchError.message);
         console.error('Playwright error:', playwrightError.message);
         throw new Error(`All scraping methods failed. Fetch: ${fetchError.message}. Playwright: ${playwrightError.message}`);
+      }
       }
     }
     
