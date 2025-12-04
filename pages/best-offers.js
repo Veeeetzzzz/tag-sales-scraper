@@ -334,7 +334,7 @@ export default function BestOffers() {
                         </td>
                         <td className="px-6 py-4 text-sm text-gray-900">
                           <div className="max-w-md">
-                            <p className="line-clamp-2">{offer.listingTitle}</p>
+                            <p className="line-clamp-2 text-gray-900">{offer.listingTitle}</p>
                           </div>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-sm font-bold text-green-600">

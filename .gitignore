@@ -139,3 +139,4 @@ package-lock.json
 # Cached images directory
 public/cached-images/
 !public/cached-images/.gitkeep
+.vercel

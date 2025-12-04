@@ -164,7 +164,7 @@ export default function Sets() {
                             <div key={idx} className="bg-white border rounded-lg p-3">
                               <div className="flex justify-between items-start">
                                 <div className="flex-1">
-                                  <p className="text-sm font-medium line-clamp-2">{sale.title}</p>
+                                  <p className="text-sm font-medium line-clamp-2 text-gray-900">{sale.title}</p>
                                   <p className="text-xs text-gray-500 mt-1">
                                     Confidence: {(sale.matchConfidence * 100).toFixed(0)}%
                                   </p>
@@ -261,7 +261,7 @@ export default function Sets() {
                 alt={card.name}
                 className="w-full h-40 object-contain rounded mb-2"
               />
-              <h3 className="font-semibold text-sm mb-1 line-clamp-2">{card.name}</h3>
+              <h3 className="font-semibold text-sm mb-1 line-clamp-2 text-gray-900">{card.name}</h3>
               <p className="text-xs text-gray-600 mb-1">{card.fullNumber || card.cardNumber}</p>
               <p className="text-xs text-gray-500">{card.rarity}</p>
             </div>

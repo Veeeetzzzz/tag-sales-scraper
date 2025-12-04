@@ -1,31 +1,36 @@
 const cheerio = require('cheerio');
 
 // Common post-processing and filtering for scraped items
-const filterItemsCommon = (rawItems = []) => {
+// Note: Since we now use eBay's built-in TAG grader filter, we're less strict about TAG keywords
+const filterItemsCommon = (rawItems = [], strictTagFilter = false) => {
   const dedup = new Set();
   const cleaned = [];
   for (const item of rawItems) {
     if (!item || !item.title) continue;
     const titleLower = item.title.toLowerCase();
 
-    // Skip placeholders
+    // Skip placeholders and generic items
     if (titleLower.includes('available inventory')) continue;
+    if (titleLower === 'shop on ebay') continue;
 
     // Price must be > 0
     const priceNum = parseFloat(String(item.price || '').replace(/[^\d.]/g, '')) || 0;
     if (isNaN(priceNum) || priceNum <= 0) continue;
 
-    // Exclude other grading unless TAG present
+    // Exclude other grading companies (PSA, CGC, BGS) unless TAG is also present
     const hasOther = titleLower.includes('psa') || titleLower.includes('cgc') || titleLower.includes('bgs');
     const hasTag = titleLower.includes('tag');
     if (hasOther && !hasTag) continue;
 
-    // Require TAG mention
-    const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+|tag\d+/.test(titleLower);
-    const hasTagMention = hasTag || titleLower.includes('tag graded') || titleLower.includes('tag grade') || titleLower.includes('tag authenticated') || /\btag\b/.test(titleLower);
-    if (!hasTagGrade && !hasTagMention) continue;
+    // TAG keyword check - only apply strict filtering if strictTagFilter is true
+    // When using eBay's built-in TAG grader filter, we don't need this as strictly
+    if (strictTagFilter) {
+      const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+|tag\d+/.test(titleLower);
+      const hasTagMention = hasTag || titleLower.includes('tag graded') || titleLower.includes('tag grade') || titleLower.includes('tag authenticated') || /\btag\b/.test(titleLower);
+      if (!hasTagGrade && !hasTagMention) continue;
+    }
 
-    // Require Pokemon
+    // Require Pokemon - must contain pokemon/pokémon/pkmn somewhere
     if (!titleLower.includes('pokemon') && !titleLower.includes('pokémon') && !titleLower.includes('pkmn')) continue;
 
     // Exclude lots/bundles
@@ -96,19 +101,20 @@ const scrapeRSSFeed = async (rssUrl, isUSMarketplace = false) => {
   });
   
   console.log(`RSS feed found ${items.length} items`);
-  return items;
+  // RSS uses keyword search, so apply strict TAG filtering
+  return filterItemsCommon(items, true);
 };
 
 // Mobile site scraping approach (often SSR and less JS-heavy)
 const scrapeWithMobileFetch = async (url, isUSMarketplace = false) => {
   console.log('Using mobile fetch + cheerio approach...');
   
-  // Convert to mobile domain
+  // Convert to mobile domain - mobile site often has simpler HTML
   let mobileUrl = url
-    .replace('https://www.ebay.co.uk', 'https://m.ebay.co.uk')
-    .replace('https://www.ebay.com', 'https://m.ebay.com')
-    .replace('https://ebay.co.uk', 'https://m.ebay.co.uk')
-    .replace('https://ebay.com', 'https://m.ebay.com');
+    .replace('https://www.ebay.co.uk', 'https://www.ebay.co.uk') // Keep www for now, m. often redirects
+    .replace('https://www.ebay.com', 'https://www.ebay.com');
+  
+  console.log(`Mobile URL: ${mobileUrl}`);
   
   // Create an AbortController for timeout
   const controller = new AbortController();
@@ -182,7 +188,8 @@ const scrapeWithMobileFetch = async (url, isUSMarketplace = false) => {
       }
     });
     
-    const filtered = filterItemsCommon(items);
+    // Main URL uses eBay's TAG filter, so we don't need strict TAG keyword filtering
+    const filtered = filterItemsCommon(items, false);
     console.log(`(Mobile) Extracted ${items.length} items, ${filtered.length} after filtering`);
     return filtered;
   } catch (error) {
@@ -345,14 +352,15 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
       // Extract title with multiple fallbacks - support new SRP structure
       let title = '';
       
-      // Try different selectors in order
+      // Try different selectors in order - updated for 2024/2025 eBay structure
       const titleSelectors = [
-        '.su-styled-text.primary.default', // new SRP
         '.s-item__title span[role="heading"]',
         '.s-item__title > span',
         '.s-item__title',
         'h3.s-item__title',
+        '.su-styled-text.primary.default', // new SRP
         '[data-testid="item-title"]',
+        '[class*="title"] span',
         'h3',
         '.title'
       ];
@@ -436,17 +444,23 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
       // Try to extract actual sold date from eBay
       let soldInfo = 'Recently sold';
       
-      // Try multiple selectors for sold date information
+      // Try multiple selectors for sold date information - updated for 2024/2025 eBay
       const soldDateSelectors = [
+        '.s-item__title--tag .POSITIVE', // "Sold [date]" text in new layout
+        '.s-item__title--tagblock .POSITIVE',
+        '.POSITIVE', // Generic positive class often used for sold dates
         'span.su-styled-text.positive.default', // e.g., Sold 11 Oct 2025
+        '.s-item__caption--signal .POSITIVE',
         '.s-item__detail--primary',
         '.s-item__detail',
         '.s-item__ended',
         '.s-item__time-left',
+        '.s-item__endedDate',
         '.s-item__time-end',
         '.s-item__time',
         '[class*="sold"]',
-        '[class*="ended"]'
+        '[class*="ended"]',
+        '.s-item__caption'
       ];
       
       let soldDateText = '';
@@ -560,7 +574,8 @@ const scrapeWithFetch = async (url, isUSMarketplace = false) => {
     });
   }
   
-  const finalItems = filterItemsCommon(filteredItems);
+  // Main URL uses eBay's TAG filter, so we don't need strict TAG keyword filtering
+  const finalItems = filterItemsCommon(filteredItems, false);
   return finalItems;
   } catch (error) {
     clearTimeout(timeout);
@@ -659,7 +674,8 @@ const scrapeWithJinaProxy = async (url, isUSMarketplace = false) => {
       });
     }
 
-    const filtered = filterItemsCommon(items);
+    // Jina uses the main URL with eBay's TAG filter, so less strict filtering
+    const filtered = filterItemsCommon(items, false);
     console.log(`(Jina) Extracted ${items.length} items, ${filtered.length} after filtering`);
     return filtered;
   } catch (error) {
@@ -766,19 +782,100 @@ const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
     console.log('Page content sample:', bodyText.substring(0, 500));
   }
   
-  const items = await page.evaluate((isUSMarketplace) => {
-    const listings = Array.from(document.querySelectorAll('.s-item'));
+  // Debug: explore the page structure to find the correct selectors
+  const structureInfo = await page.evaluate(() => {
+    const info = {
+      sItem: document.querySelectorAll('.s-item').length,
+      dataViewport: document.querySelectorAll('[data-viewport]').length,
+      srResult: document.querySelectorAll('.sr-result').length,
+      srpResults: document.querySelectorAll('.srp-results').length,
+      listingInfo: document.querySelectorAll('[class*="listing"]').length,
+      strItem: document.querySelectorAll('[class*="str-item"]').length,
+      itemCard: document.querySelectorAll('[class*="item-card"]').length,
+      // Look for elements with price indicators
+      priceElements: document.querySelectorAll('[class*="price"]').length,
+      // Check for sold listing specific classes
+      soldElements: document.querySelectorAll('[class*="sold"], [class*="Sold"]').length,
+    };
     
-    return listings.slice(1).map((item, index) => {
+    // Try to find listing containers by looking for elements with href to /itm/
+    const linksToItems = document.querySelectorAll('a[href*="/itm/"]');
+    info.itemLinks = linksToItems.length;
+    
+    // Get sample of container classes around item links
+    if (linksToItems.length > 0) {
+      const firstLink = linksToItems[0];
+      const parent = firstLink.closest('li, div[class], article');
+      info.sampleParentClass = parent?.className || 'no parent found';
+      info.sampleParentTag = parent?.tagName || 'none';
+    }
+    
+    return info;
+  });
+  console.log('Page structure:', JSON.stringify(structureInfo, null, 2));
+  
+  const items = await page.evaluate((isUSMarketplace) => {
+    // Try multiple selectors for listings - eBay keeps changing their structure
+    let listings = [];
+    
+    // Method 1: Find by item links and work backwards to container
+    const itemLinks = Array.from(document.querySelectorAll('a[href*="/itm/"]'));
+    const uniqueContainers = new Set();
+    
+    for (const link of itemLinks) {
+      // Find the closest list item or div that's likely the card container
+      const container = link.closest('li, div.s-item, div[class*="item"], article, div[data-viewport]');
+      if (container && !uniqueContainers.has(container)) {
+        uniqueContainers.add(container);
+        listings.push(container);
+      }
+    }
+    
+    // Method 2: If Method 1 failed, try traditional selectors
+    if (listings.length === 0) {
+      listings = Array.from(document.querySelectorAll('.s-item, .srp-results li, [class*="str-item"], [class*="listing-item"]'));
+    }
+    
+    console.log('Found', listings.length, 'listing containers');
+    
+    return listings.map((item, index) => {
       try {
-        const titleElement = item.querySelector('.s-item__title span[role="heading"]') || 
-                            item.querySelector('.s-item__title span') ||
-                            item.querySelector('.s-item__title');
-        const title = titleElement?.textContent?.trim() || '';
+        // Try multiple selectors for title - updated for 2024/2025 eBay structure
+        let title = '';
+        const titleSelectors = [
+          '.s-item__title span[role="heading"]',
+          '.s-item__title span',
+          '.s-item__title',
+          '[class*="title"] span',
+          '[class*="title"]',
+          'h3',
+          'a[href*="/itm/"]' // Fall back to link text
+        ];
         
-        const priceElement = item.querySelector('.s-item__price .notranslate') ||
-                            item.querySelector('.s-item__price');
-        let price = priceElement?.textContent?.trim() || '';
+        for (const sel of titleSelectors) {
+          const el = item.querySelector(sel);
+          if (el) {
+            title = el.textContent?.trim() || '';
+            if (title && title.length > 10 && title !== 'Shop on eBay') break;
+          }
+        }
+        
+        // Try multiple selectors for price
+        let price = '';
+        const priceSelectors = [
+          '.s-item__price .notranslate',
+          '.s-item__price',
+          '[class*="price"]',
+          'span[class*="Price"]'
+        ];
+        
+        for (const sel of priceSelectors) {
+          const el = item.querySelector(sel);
+          if (el) {
+            price = el.textContent?.trim() || '';
+            if (price && (price.includes('£') || price.includes('$') || price.includes('€'))) break;
+          }
+        }
         
         // For US marketplace, remove shipping costs from price display
         if (isUSMarketplace && price.includes('+')) {
@@ -854,42 +951,46 @@ const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
         
         return { title, img, price, soldDate: 'Recently sold', soldInfo, listingUrl, location: locationText, marketplace: isUSMarketplace ? 'us' : 'uk' };
       } catch (error) {
-        return { title: '', img: '', price: '', soldDate: '', soldInfo: '', listingUrl: '', location: '', marketplace: isUSMarketplace ? 'us' : 'uk' };
+        return { title: '', img: '', price: '', soldDate: '', soldInfo: '', listingUrl: '', location: '', marketplace: isUSMarketplace ? 'us' : 'uk', error: error.message };
       }
-          }).filter(item => {
-        if (!item.title || item.title === 'Shop on eBay' || item.title.length === 0) return false;
-        
-        const title = item.title.toLowerCase();
-        
-        // Exclude other grading companies (but keep TAG items that mention other companies for comparison)
-        const hasOtherGrading = title.includes('psa') || title.includes('cgc') || title.includes('bgs');
-        const hasTag = title.includes('tag');
-        
-        // Only exclude if it has other grading companies but NO TAG mention
-        if (hasOtherGrading && !hasTag) return false;
-        
-        // Must contain "TAG" with various patterns (more lenient)
-        const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+|tag\d+/.test(title);
-        const hasTagMention = title.includes('tag graded') || 
-                              title.includes('tag grade') || 
-                              title.includes('tag authenticated') ||
-                              title.includes('tag auth') ||
-                              /\btag\b/.test(title); // Word boundary for "tag"
-        
-        if (!hasTagGrade && !hasTagMention) return false;
-        
-        // Must contain "pokemon" or "pokémon" - be flexible with spelling
-        if (!title.includes('pokemon') && !title.includes('pokémon') && !title.includes('pkmn')) return false;
-        
-        // Additional quality filters - exclude lots and bundles
-        if (title.includes('lot of') || title.includes('bundle of') || title.includes('collection of')) return false;
-        
-        return true;
-      });
+    });
   }, isUSMarketplace);
   
+  // Log raw items count before filtering
+  console.log(`Playwright raw items before filter: ${items.length}`);
+  if (items.length > 0) {
+    console.log('First 3 raw items:', items.slice(0, 3).map(i => ({ title: i.title?.substring(0, 50), price: i.price })));
+  }
+  
+  // Apply filtering outside of page.evaluate for better debugging
+  const filteredItems = items.filter(item => {
+    if (!item.title || item.title === 'Shop on eBay' || item.title.length === 0) {
+      return false;
+    }
+    
+    const title = item.title.toLowerCase();
+    
+    // Exclude other grading companies (but keep TAG items that mention other companies for comparison)
+    const hasOtherGrading = title.includes('psa') || title.includes('cgc') || title.includes('bgs');
+    const hasTag = title.includes('tag');
+    
+    // Only exclude if it has other grading companies but NO TAG mention
+    if (hasOtherGrading && !hasTag) return false;
+    
+    // Since we're using eBay's TAG filter, be less strict about TAG keyword
+    // Only require Pokemon mention
+    if (!title.includes('pokemon') && !title.includes('pokémon') && !title.includes('pkmn')) return false;
+    
+    // Exclude lots and bundles
+    if (title.includes('lot of') || title.includes('bundle of') || title.includes('collection of')) return false;
+    
+    return true;
+  });
+  
+  console.log(`Playwright filtered items: ${filteredItems.length}`);
+  
   await browser.close();
-  return items;
+  return filteredItems;
 };
 
 export default async function handler(req, res) {
@@ -901,28 +1002,49 @@ export default async function handler(req, res) {
     const includeDesktop = req.query.includeDesktop === '1' || req.query.includeDesktop === 'true';
     
     // Set URL based on marketplace
-    // Try RSS feed first (less protected), fallback to regular HTML
+    // Use eBay's item specifics filter for TAG graded Pokemon cards (more reliable than keyword search)
+    // Professional Grader = Technical Authentication & Grading (TAG)
+    // IMPORTANT: The filter value needs double URL-encoding because eBay's search expects it that way
     let url, rssUrl, isUSMarketplace;
+    
+    // Double URL-encoded params for TAG grader filter (matches how eBay generates these URLs)
+    // Technical Authentication & Grading (TAG) -> %2520 = encoded space, %2526 = encoded &, %2528/%2529 = encoded ()
+    const tagGraderFilter = 'Professional%2520Grader=Technical%2520Authentication%2520%2526%2520Grading%2520%2528TAG%2529';
+    
     if (marketplace === 'us') {
-      url = 'https://www.ebay.com/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_sop=13';
-      rssUrl = 'https://www.ebay.com/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_rss=1';
+      // US eBay with TAG grader filter - worldwide location
+      url = `https://www.ebay.com/sch/i.html?_nkw=Pokemon&_sacat=0&_from=R40&Graded=Yes&${tagGraderFilter}&_dcat=183454&LH_PrefLoc=2&rt=nc&LH_Sold=1&LH_Complete=1&_sop=13`;
+      rssUrl = `https://www.ebay.com/sch/i.html?_nkw=Pokemon+TAG+graded&LH_Sold=1&LH_Complete=1&_rss=1`;
       isUSMarketplace = true;
     } else {
-      url = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_sop=13&LH_PrefLoc=1';
-      rssUrl = 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+graded+pokemon&LH_Sold=1&LH_Complete=1&_rss=1';
+      // UK eBay with TAG grader filter - worldwide location (LH_PrefLoc=2)
+      url = `https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon&_sacat=0&_from=R40&Graded=Yes&${tagGraderFilter}&_dcat=183454&LH_PrefLoc=2&rt=nc&LH_Sold=1&LH_Complete=1&_sop=13`;
+      rssUrl = `https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon+TAG+graded&LH_Sold=1&LH_Complete=1&_rss=1`;
       isUSMarketplace = false;
     }
     
+    console.log(`Using ${marketplace.toUpperCase()} marketplace with TAG grader filter`);
+    console.log(`Main URL: ${url}`);
+    
     let items = [];
     let scraperUsed = 'none';
+    
+    // Also try a simpler keyword-based URL for the fast scrapers (more likely to work)
+    const simpleUrl = isUSMarketplace 
+      ? 'https://www.ebay.com/sch/i.html?_nkw=TAG+graded+pokemon&_sacat=183454&LH_Sold=1&LH_Complete=1&_sop=13'
+      : 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+graded+pokemon&_sacat=183454&LH_Sold=1&LH_Complete=1&_sop=13';
 
     // Run RSS, Mobile, and Jina in parallel and pick the best result
+    // Try both the filter-based URL and the simple keyword URL
     console.log('Launching parallel fast scrapers (RSS, Mobile, Jina)...');
     const fastAttempts = await Promise.allSettled([
       (async () => ({ src: 'rss-feed', data: await scrapeRSSFeed(rssUrl, isUSMarketplace) }))(),
-      (async () => ({ src: 'mobile-fetch', data: await scrapeWithMobileFetch(url, isUSMarketplace) }))(),
-      (async () => ({ src: 'jina-proxy', data: await scrapeWithJinaProxy(url, isUSMarketplace) }))(),
+      (async () => ({ src: 'mobile-fetch-filter', data: await scrapeWithMobileFetch(url, isUSMarketplace) }))(),
+      (async () => ({ src: 'mobile-fetch-simple', data: await scrapeWithMobileFetch(simpleUrl, isUSMarketplace) }))(),
+      (async () => ({ src: 'jina-proxy-filter', data: await scrapeWithJinaProxy(url, isUSMarketplace) }))(),
+      (async () => ({ src: 'jina-proxy-simple', data: await scrapeWithJinaProxy(simpleUrl, isUSMarketplace) }))(),
     ]);
+    
     // Choose the one with the most items
     let best = { src: 'none', data: [] };
     for (const r of fastAttempts) {
@@ -933,6 +1055,27 @@ export default async function handler(req, res) {
     items = best.data;
     scraperUsed = best.src;
     console.log(`Fast scrapers completed. Best: ${scraperUsed} with ${items.length} items`);
+
+    // If no items found, try Playwright (full browser) as fallback
+    if (items.length === 0) {
+      console.log('Fast scrapers failed, trying Playwright browser...');
+      try {
+        items = await scrapeWithPlaywright(url, isUSMarketplace);
+        console.log(`Playwright extracted ${items.length} items`);
+        scraperUsed = 'playwright';
+      } catch (playwrightError) {
+        console.log('Playwright failed:', playwrightError.message);
+        
+        // Try simple URL with Playwright as last resort
+        try {
+          items = await scrapeWithPlaywright(simpleUrl, isUSMarketplace);
+          console.log(`Playwright (simple URL) extracted ${items.length} items`);
+          scraperUsed = 'playwright-simple';
+        } catch (err) {
+          console.log('Playwright (simple URL) also failed:', err.message);
+        }
+      }
+    }
 
     // Optionally try slow desktop fetch only if explicitly requested and nothing found
     if (items.length === 0 && includeDesktop) {

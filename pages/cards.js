@@ -434,7 +434,7 @@ export default function Cards() {
                         <div key={idx} className="bg-white border rounded-lg p-3">
                           <div className="flex justify-between items-start">
                             <div className="flex-1">
-                              <p className="text-sm font-medium line-clamp-2">{sale.title}</p>
+                              <p className="text-sm font-medium line-clamp-2 text-gray-900">{sale.title}</p>
                               <p className="text-xs text-gray-500 mt-1">
                                 Confidence: {(sale.matchConfidence * 100).toFixed(0)}%
                               </p>
@@ -751,7 +751,7 @@ export default function Cards() {
                     loading="lazy"
                   />
                   
-                  <h3 className="font-semibold text-lg mb-2 line-clamp-2">{sale.title}</h3>
+                  <h3 className="font-semibold text-lg mb-2 line-clamp-2 text-gray-900">{sale.title}</h3>
                   
                   <div className="flex justify-between items-center mb-2">
                     <p className="text-green-600 font-bold text-xl">

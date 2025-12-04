@@ -492,7 +492,7 @@ export default function Home() {
       <div className="p-6">
         <div className="mb-6">
           <div className="flex justify-between items-center mb-4">
-            <h2 className="text-3xl font-bold text-center flex-1">
+            <h2 className="text-3xl font-bold text-center flex-1 text-green-600">
               eBay TAG Graded Pokemon Sales
             </h2>
             <div className="flex gap-2">
@@ -700,7 +700,7 @@ export default function Home() {
                   className="w-full h-48 object-contain mb-4 rounded"
                   loading="lazy"
                 />
-                <h2 className="text-lg font-semibold mb-2 line-clamp-2">{item.title}</h2>
+                <h2 className="text-lg font-semibold mb-2 line-clamp-2 text-gray-900">{item.title}</h2>
                 <p className="text-green-600 font-bold text-xl mb-2">
                   {convertAndFormatPrice(item.price, currency)}
                 </p>
