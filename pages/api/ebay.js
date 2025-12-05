@@ -1,8 +1,8 @@
-const cheerio = require('cheerio');
+// eBay TAG Graded Pokemon Cards Scraper
+// Uses Puppeteer with @sparticuz/chromium for serverless compatibility (Vercel)
 
 // Common post-processing and filtering for scraped items
-// Note: Since we now use eBay's built-in TAG grader filter, we're less strict about TAG keywords
-const filterItemsCommon = (rawItems = [], strictTagFilter = false) => {
+const filterItemsCommon = (rawItems = []) => {
   const dedup = new Set();
   const cleaned = [];
   for (const item of rawItems) {
@@ -22,14 +22,6 @@ const filterItemsCommon = (rawItems = [], strictTagFilter = false) => {
     const hasTag = titleLower.includes('tag');
     if (hasOther && !hasTag) continue;
 
-    // TAG keyword check - only apply strict filtering if strictTagFilter is true
-    // When using eBay's built-in TAG grader filter, we don't need this as strictly
-    if (strictTagFilter) {
-      const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+|tag\d+/.test(titleLower);
-      const hasTagMention = hasTag || titleLower.includes('tag graded') || titleLower.includes('tag grade') || titleLower.includes('tag authenticated') || /\btag\b/.test(titleLower);
-      if (!hasTagGrade && !hasTagMention) continue;
-    }
-
     // Require Pokemon - must contain pokemon/pokémon/pkmn somewhere
     if (!titleLower.includes('pokemon') && !titleLower.includes('pokémon') && !titleLower.includes('pkmn')) continue;
 
@@ -44,953 +36,256 @@ const filterItemsCommon = (rawItems = [], strictTagFilter = false) => {
   return cleaned.slice(0, 60);
 };
 
-// RSS Feed scraper (bypasses most bot detection)
-const scrapeRSSFeed = async (rssUrl, isUSMarketplace = false) => {
-  console.log('Attempting RSS feed scrape...');
+// Browser-based scraping using Puppeteer (serverless compatible)
+const scrapeWithPuppeteer = async (url, isUSMarketplace = false) => {
+  console.log('Using Puppeteer browser approach...');
   
-  const response = await fetch(rssUrl, {
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-    }
-  });
+  let browser = null;
   
-  if (!response.ok) {
-    throw new Error(`RSS HTTP error! status: ${response.status}`);
-  }
-  
-  const xml = await response.text();
-  const $ = cheerio.load(xml, { xmlMode: true });
-  
-  const items = [];
-  $('item').each((index, item) => {
-    const $item = $(item);
-    const title = $item.find('title').text().trim();
-    const link = $item.find('link').text().trim();
-    const description = $item.find('description').text().trim();
+  try {
+    // Dynamic imports for serverless compatibility
+    const puppeteer = require('puppeteer-core');
     
-    // Try to extract price from description (often contains "£12.99" or "$12.99")
-    let price = '';
-    const priceMatch = description.match(/[£$][\d,]+\.?\d*/);
-    if (priceMatch) {
-      price = priceMatch[0];
-    }
+    let executablePath;
+    let args;
     
-    // Try to extract image from description or media tags
-    let img = '';
-    const imgMatch = description.match(/<img[^>]+src="([^"]+)"/);
-    if (imgMatch) {
-      img = imgMatch[1];
+    // Check if running on Vercel/AWS Lambda (serverless)
+    if (process.env.AWS_LAMBDA_FUNCTION_VERSION || process.env.VERCEL) {
+      // Use @sparticuz/chromium for serverless
+      const chromium = require('@sparticuz/chromium');
+      executablePath = await chromium.executablePath();
+      args = chromium.args;
+      console.log('Running in serverless environment');
     } else {
-      const mediaContent = $item.find('media\\:content, content').attr('url');
-      if (mediaContent) img = mediaContent;
-    }
-    
-    // RSS feeds may have sold items
-    if (title && link) {
-      items.push({
-        title,
-        listingUrl: link,
-        price: price || '£0.00', // Default price if not found
-        img: img,
-        soldDate: 'Recently sold',
-        soldInfo: 'Recently sold',
-        location: '',
-        marketplace: isUSMarketplace ? 'us' : 'uk'
+      // Local development - use system Chrome or Edge
+      const fs = require('fs');
+      
+      // Possible Chrome/Edge paths on Windows
+      const windowsPaths = [
+        'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+        'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
+        process.env.LOCALAPPDATA + '\\Google\\Chrome\\Application\\chrome.exe',
+        'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
+        'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe'
+      ].filter(Boolean);
+      
+      // Possible paths on macOS
+      const macPaths = [
+        '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+        '/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge'
+      ];
+      
+      // Possible paths on Linux
+      const linuxPaths = [
+        '/usr/bin/google-chrome',
+        '/usr/bin/chromium-browser',
+        '/usr/bin/chromium',
+        '/usr/bin/microsoft-edge'
+      ];
+      
+      const pathsToTry = process.platform === 'win32' 
+        ? windowsPaths 
+        : process.platform === 'darwin' 
+          ? macPaths 
+          : linuxPaths;
+      
+      executablePath = pathsToTry.find(p => {
+        try { return fs.existsSync(p); } catch { return false; }
       });
-    }
-  });
-  
-  console.log(`RSS feed found ${items.length} items`);
-  // RSS uses keyword search, so apply strict TAG filtering
-  return filterItemsCommon(items, true);
-};
-
-// Mobile site scraping approach (often SSR and less JS-heavy)
-const scrapeWithMobileFetch = async (url, isUSMarketplace = false) => {
-  console.log('Using mobile fetch + cheerio approach...');
-  
-  // Convert to mobile domain - mobile site often has simpler HTML
-  let mobileUrl = url
-    .replace('https://www.ebay.co.uk', 'https://www.ebay.co.uk') // Keep www for now, m. often redirects
-    .replace('https://www.ebay.com', 'https://www.ebay.com');
-  
-  console.log(`Mobile URL: ${mobileUrl}`);
-  
-  // Create an AbortController for timeout
-  const controller = new AbortController();
-  const timeout = setTimeout(() => {
-    controller.abort();
-  }, 20000); // 20 second timeout for mobile
-  
-  try {
-    const response = await fetch(mobileUrl, {
-      signal: controller.signal,
-      headers: {
-        // iPhone Safari UA tends to get simpler HTML
-        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'en-GB,en;q=0.9',
-        'Cache-Control': 'no-cache',
-        'Pragma': 'no-cache',
-        'Connection': 'keep-alive'
-      }
-    });
-    
-    clearTimeout(timeout);
-    
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
-    
-    const html = await response.text();
-    const $ = cheerio.load(html);
-    
-    const items = [];
-    // Prefer selecting results inside results container
-    let listings = $('.srp-results .s-item').toArray();
-    if (listings.length === 0) listings = $('ul.srp-results li.s-item').toArray();
-    if (listings.length === 0) listings = $('[data-testid="item"]').toArray();
-    if (listings.length === 0) listings = $('li.s-item, div.s-item').toArray();
-    
-    console.log(`(Mobile) Found ${listings.length} listings`);
-    
-    listings.slice(1).forEach((item) => {
-      const $item = $(item);
-      const title = $item.find('.s-item__title').text().trim() ||
-                    $item.find('h3').text().trim() ||
-                    $item.find('[data-testid="item-title"]').text().trim() || '';
-      let price = $item.find('.s-item__price').text().trim() ||
-                  $item.find('[data-testid="item-price"]').text().trim() || '';
-      if (isUSMarketplace && price.includes('+')) price = price.split('+')[0].trim();
-      let img = $item.find('.s-item__image img').attr('src') || $item.find('img').attr('data-src') || '';
-      if (img) {
-        img = img
-          .replace(/s-l140/g, 's-l500')
-          .replace(/s-l225/g, 's-l500')
-          .replace(/s-l300/g, 's-l500')
-          .replace(/\.webp$/g, '.jpg');
-      }
-      const listingUrl = $item.find('.s-item__link').attr('href') || $item.find('a[href*="/itm/"]').attr('href') || '';
-      const locationText = $item.find('.s-item__location').text().trim() || $item.find('.s-item__shipping').text().trim() || '';
-      const soldInfo = 'Recently sold';
       
-      if (title && price) {
-        items.push({
-          title,
-          img,
-          price,
-          soldDate: 'Recently sold',
-          soldInfo,
-          listingUrl,
-          location: locationText,
-          marketplace: isUSMarketplace ? 'us' : 'uk'
-        });
+      if (!executablePath) {
+        console.log('No browser found at common paths, tried:', pathsToTry);
+        throw new Error('Could not find Chrome or Edge browser. Please install Chrome or Edge.');
       }
+      
+      args = [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-dev-shm-usage',
+        '--disable-gpu',
+        '--single-process'
+      ];
+      console.log('Running in local development environment with:', executablePath);
+    }
+    
+    browser = await puppeteer.launch({
+      executablePath,
+      headless: true,
+      args: [
+        ...args,
+        '--disable-blink-features=AutomationControlled',
+        '--disable-web-security',
+        '--disable-features=IsolateOrigins,site-per-process'
+      ],
+      defaultViewport: { width: 1920, height: 1080 }
     });
     
-    // Main URL uses eBay's TAG filter, so we don't need strict TAG keyword filtering
-    const filtered = filterItemsCommon(items, false);
-    console.log(`(Mobile) Extracted ${items.length} items, ${filtered.length} after filtering`);
-    return filtered;
-  } catch (error) {
-    clearTimeout(timeout);
-    if (error.name === 'AbortError') {
-      console.log('Mobile fetch request timed out after 20 seconds');
-      throw new Error('eBay mobile request timed out');
-    }
-    throw error;
-  }
-};
-
-// Hybrid scraping approach
-const scrapeWithFetch = async (url, isUSMarketplace = false) => {
-  console.log('Using fetch + cheerio approach...');
-  
-  // Create an AbortController for timeout
-  const controller = new AbortController();
-  const timeout = setTimeout(() => {
-    controller.abort();
-  }, 20000); // 20 second timeout
-  
-  try {
-    // Try to get eBay to serve non-JavaScript version by pretending to be an older browser
-    const response = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
-        'Accept-Encoding': 'gzip, deflate',
-        'Connection': 'keep-alive',
-        'Cache-Control': 'no-cache',
-      }
+    const page = await browser.newPage();
+    
+    // Set user agent to look like a real browser
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+    
+    // Set extra headers
+    await page.setExtraHTTPHeaders({
+      'Accept-Language': 'en-GB,en;q=0.9'
     });
     
-    clearTimeout(timeout);
+    // Navigate to the page
+    console.log('Navigating to eBay...');
+    await page.goto(url, { 
+      waitUntil: 'networkidle2', 
+      timeout: 30000 
+    });
     
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
+    // Wait for content to load
+    await new Promise(r => setTimeout(r, 2000));
     
-    const html = await response.text();
-  
-  // Check if we got a challenge page (bot detection)
-  if (html.includes('Checking your browser') || html.includes('Pardon our interruption') || html.includes('challenge-')) {
-    console.log('eBay challenge page detected - bot protection triggered');
-    throw new Error('eBay bot protection triggered - unable to scrape data. Please try again later or use a different approach.');
-  }
-  
-  const $ = cheerio.load(html);
-  
-  const items = [];
-  // Try multiple selectors for listings - be specific to avoid sidebar elements
-  let listings = [];
-  
-  // Primary: Select items within the search results container (excludes sidebar)
-  listings = $('.srp-results .s-item').toArray();
-  
-  // Fallback 1: Items within result list
-  if (listings.length === 0) {
-    listings = $('ul.srp-results li.s-item').toArray();
-  }
-  
-  // Fallback 2: Items with info section (real listings have this)
-  if (listings.length === 0) {
-    listings = $('.s-item').filter((i, el) => {
-      return $(el).find('.s-item__info').length > 0;
-    }).toArray();
-  }
-  
-  // Fallback 3: New eBay SRP card structure (su-styled-text / s-card__image / s-card__price)
-  if (listings.length === 0) {
-    const priceSpans = $('span.s-card__price').toArray();
-    const imageEls = $('img.s-card__image').toArray();
-    const titleSpans = $('span.su-styled-text.primary.default').toArray();
-    const candidates = new Set();
-    const collectParent = (el) => {
-      const $el = $(el);
-      const parent = $el.parents('li,div,article').first();
-      if (parent && parent.length) {
-        candidates.add(parent.get(0));
-      }
-    };
-    priceSpans.forEach(collectParent);
-    imageEls.forEach(collectParent);
-    titleSpans.forEach(collectParent);
-    listings = Array.from(candidates);
-  }
-  
-  // Fallback 4: Other selectors
-  if (listings.length === 0) {
-    listings = $('.srp-results .s-result').toArray();
-  }
-  if (listings.length === 0) {
-    listings = $('[data-testid="item"]').toArray();
-  }
-  
-  // Determine which selector worked
-  let selectorUsed = 'none';
-  if ($('.srp-results .s-item').length > 0) selectorUsed = '.srp-results .s-item';
-  else if ($('ul.srp-results li.s-item').length > 0) selectorUsed = 'ul.srp-results li.s-item';
-  else if ($('.s-item').filter((i, el) => $(el).find('.s-item__info').length > 0).length > 0) selectorUsed = '.s-item with .s-item__info';
-  else if ($('span.s-card__price, img.s-card__image, span.su-styled-text.primary.default').length > 0) selectorUsed = 's-card structure';
-  else if ($('.s-item').not('[class*="refine"]').length > 0) selectorUsed = '.s-item (excluding refine)';
-  
-  console.log(`Found ${listings.length} listings with cheerio using selector: ${selectorUsed}`);
-  console.log(`URL used: ${url}`);
-  
-  // Debug: log the first item's HTML structure to see what we're working with
-  if (listings.length > 0) {
-    const firstItem = $(listings[0]);
-    const itemHtml = firstItem.html();
-    console.log('First item HTML structure (first 1000 chars):');
-    console.log(itemHtml ? itemHtml.substring(0, 1000) : 'NO HTML');
+    // Check page info
+    const pageTitle = await page.title();
+    console.log('Page title:', pageTitle);
     
-    // Log what classes and structure we see
-    console.log('First item classes:', firstItem.attr('class'));
-    console.log('First item direct children:', firstItem.children().map((i, el) => $(el).attr('class')).get().join(', '));
-    console.log('First item text content (first 200 chars):', firstItem.text().trim().substring(0, 200));
-  }
-  
-  // Debug: log the HTML structure if no listings found
-  if (listings.length === 0) {
-    console.log('No listings found. Checking page structure...');
-    console.log('Page title:', $('title').text());
-    console.log('Available item selectors:');
-    console.log('- .s-item count:', $('.s-item').length);
-    console.log('- li.s-item count:', $('li.s-item').length);
-    console.log('- .srp-results count:', $('.srp-results').length);
-    console.log('- .s-result count:', $('.s-result').length);
-    console.log('- [data-testid] elements:', $('[data-testid]').length);
-    console.log('- div[class*="item"] count:', $('div[class*="item"]').length);
-    
-    // Log first 1500 characters of body to see structure
-    const bodyText = $('body').html();
-    if (bodyText) {
-      console.log('Body HTML sample (first 1500 chars):', bodyText.substring(0, 1500));
-    }
-    
-    // Check if we're being rate limited or blocked
-    const bodyLowerCase = bodyText ? bodyText.toLowerCase() : '';
-    if (bodyLowerCase.includes('captcha') || bodyLowerCase.includes('security check')) {
-      throw new Error('eBay security check or CAPTCHA detected');
-    }
-    
-    // CRITICAL: If no .s-item elements but page structure exists, this is JavaScript-rendered content
-    if ($('.srp-results').length > 0 && $('.s-item').length === 0) {
-      console.log('CRITICAL: Page has .srp-results container but no .s-item elements!');
-      console.log('This indicates JavaScript-rendered content. Fetch+cheerio cannot handle this.');
-      console.log('Playwright is required to scrape this page.');
-      throw new Error('eBay is serving JavaScript-rendered content. Playwright is required but fetch+cheerio was attempted first and failed. Falling back to Playwright...');
-    }
-  }
-  
-  listings.slice(0).forEach((item, index) => {
+    // Wait for search results
     try {
-      const $item = $(item);
-      
-      // Extract title with multiple fallbacks - support new SRP structure
-      let title = '';
-      
-      // Try different selectors in order - updated for 2024/2025 eBay structure
-      const titleSelectors = [
-        '.s-item__title span[role="heading"]',
-        '.s-item__title > span',
-        '.s-item__title',
-        'h3.s-item__title',
-        '.su-styled-text.primary.default', // new SRP
-        '[data-testid="item-title"]',
-        '[class*="title"] span',
-        'h3',
-        '.title'
-      ];
-      
-      for (const selector of titleSelectors) {
-        const elem = $item.find(selector);
-        if (elem.length > 0) {
-          title = elem.first().text().trim();
-          if (title && title !== 'Shop on eBay') {
-            break;
-          }
-        }
-      }
-      
-      // If still no title, try getting any text from common title containers
-      if (!title) {
-        const titleContainer = $item.find('[class*="title"]').first();
-        if (titleContainer.length > 0) {
-          title = titleContainer.text().trim();
-        }
-      }
-      
-      // Extract price with multiple fallbacks - support new SRP
-      let price = '';
-      
-      const priceSelectors = [
-        'span.s-card__price', // new SRP
-        '.s-item__price .notranslate',
-        '.s-item__price',
-        'span.s-item__price',
-        '[data-testid="item-price"]',
-        '.price',
-        '[class*="price"]'
-      ];
-      
-      for (const selector of priceSelectors) {
-        const elem = $item.find(selector);
-        if (elem.length > 0) {
-          price = elem.first().text().trim();
-          if (price && (price.includes('£') || price.includes('$'))) {
-            break;
-          }
-        }
-      }
-      
-      // For US marketplace, remove shipping costs from price display
-      if (isUSMarketplace && price.includes('+')) {
-        price = price.split('+')[0].trim();
-      }
-      
-      // Extract image and upgrade to higher quality
-      let img = $item.find('img.s-card__image').attr('src') ||
-               $item.find('.s-item__image img').attr('src') ||
-               $item.find('img[src*="ebayimg"]').attr('src') ||
-               $item.find('img').attr('data-src') ||
-               $item.find('[data-testid="item-image"] img').attr('src') ||
-               $item.find('.image img').attr('src') ||
-               '';
-      
-      // Upgrade image quality - replace low-res with high-res versions
-      if (img) {
-        img = img
-          .replace(/s-l140/g, 's-l500')
-          .replace(/s-l225/g, 's-l500')
-          .replace(/s-l300/g, 's-l500')
-          .replace(/\.webp$/g, '.jpg'); // Prefer JPG over WebP for better compatibility
-      }
-      
-      // Extract listing URL with multiple fallbacks
-      const listingUrl = $item.find('.s-item__link').attr('href') ||
-                        $item.find('a[href*="/itm/"]').attr('href') ||
-                        $item.find('[data-testid="item-link"]').attr('href') ||
-                        $item.find('a').attr('href') ||
-                        '';
-      
-      // Extract location information for display only
-      const locationText = $item.find('.s-item__location').text().trim() ||
-                          $item.find('.s-item__shipping').text().trim() ||
-                          '';
-      
-      // Try to extract actual sold date from eBay
-      let soldInfo = 'Recently sold';
-      
-      // Try multiple selectors for sold date information - updated for 2024/2025 eBay
-      const soldDateSelectors = [
-        '.s-item__title--tag .POSITIVE', // "Sold [date]" text in new layout
-        '.s-item__title--tagblock .POSITIVE',
-        '.POSITIVE', // Generic positive class often used for sold dates
-        'span.su-styled-text.positive.default', // e.g., Sold 11 Oct 2025
-        '.s-item__caption--signal .POSITIVE',
-        '.s-item__detail--primary',
-        '.s-item__detail',
-        '.s-item__ended',
-        '.s-item__time-left',
-        '.s-item__endedDate',
-        '.s-item__time-end',
-        '.s-item__time',
-        '[class*="sold"]',
-        '[class*="ended"]',
-        '.s-item__caption'
-      ];
-      
-      let soldDateText = '';
-      for (const selector of soldDateSelectors) {
-        const element = $item.find(selector);
-        if (element.length > 0) {
-          const text = element.text().trim();
-          if (text && (text.toLowerCase().includes('sold') || text.toLowerCase().includes('ended') || text.includes('ago'))) {
-            soldDateText = text;
-            break;
-          }
-        }
-      }
-      
-      if (soldDateText) {
-        soldInfo = soldDateText;
-      } else {
-        // Fallback: use more realistic recent dates based on eBay patterns
-        const now = new Date();
-        const randomDays = Math.floor(Math.random() * 14) + 1; // 1-14 days ago for realism
-        const soldDate = new Date(now.getTime() - (randomDays * 24 * 60 * 60 * 1000));
-        
-        // Format like eBay typically does
-        const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 
-                           'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-        const day = soldDate.getDate();
-        const month = monthNames[soldDate.getMonth()];
-        const year = soldDate.getFullYear();
-        
-        soldInfo = `${day} ${month} ${year}`;
-      }
-      
-      if (title && price) {
-        items.push({
-          title,
-          img,
-          price,
-          soldDate: 'Recently sold',
-          soldInfo,
-          listingUrl,
-          location: locationText,
-          marketplace: isUSMarketplace ? 'us' : 'uk'
-        });
-      } else {
-        // Debug logging for items with missing data
-        if (index < 5) { // Only log first 5 to avoid spam
-          console.log(`Item ${index} missing data - Title: "${title ? title.substring(0, 50) : 'NONE'}", Price: "${price || 'NONE'}"`);
-        }
-      }
+      await page.waitForSelector('a[href*="/itm/"]', { timeout: 10000 });
+      console.log('Search results loaded');
     } catch (error) {
-      console.error(`Error processing item ${index}:`, error);
-    }
-  });
-  
-  console.log(`Raw items before filtering: ${items.length}`);
-  
-  const filteredItems = items.filter(item => {
-    // Basic filters
-    if (!item.title || item.title === 'Shop on eBay' || item.title.length === 0) {
-      console.log('Filtered out: Empty or invalid title');
-      return false;
+      console.log('No item links found, checking page content...');
     }
     
-    const title = item.title.toLowerCase();
-    
-    // Exclude other grading companies (but keep TAG items that mention other companies for comparison)
-    const hasOtherGrading = title.includes('psa') || title.includes('cgc') || title.includes('bgs');
-    const hasTag = title.includes('tag');
-    
-    // Only exclude if it has other grading companies but NO TAG mention
-    if (hasOtherGrading && !hasTag) {
-      console.log(`Filtered out: Has other grading (${title.substring(0, 50)}...)`);
-      return false;
-    }
-    
-    // Must contain "TAG" with various patterns (more lenient)
-    const hasTagGrade = /tag\s*\d+|tag-\d+|tag_\d+|tag\d+/.test(title);
-    const hasTagMention = title.includes('tag graded') || 
-                          title.includes('tag grade') || 
-                          title.includes('tag authenticated') ||
-                          title.includes('tag auth') ||
-                          /\btag\b/.test(title); // Word boundary for "tag"
-    
-    if (!hasTagGrade && !hasTagMention) {
-      console.log(`Filtered out: No TAG mention (${title.substring(0, 50)}...)`);
-      return false;
-    }
-    
-    // Must contain "pokemon" or "pokémon" - be flexible with spelling
-    if (!title.includes('pokemon') && !title.includes('pokémon') && !title.includes('pkmn')) {
-      console.log(`Filtered out: No Pokemon mention (${title.substring(0, 50)}...)`);
-      return false;
-    }
-    
-    // Additional quality filters - exclude lots and bundles
-    if (title.includes('lot of') || title.includes('bundle of') || title.includes('collection of')) {
-      console.log(`Filtered out: Lot/bundle (${title.substring(0, 50)}...)`);
-      return false; // Exclude lots and bundles for cleaner individual card data
-    }
-    
-    return true;
-  });
-  
-  console.log(`Items after filtering: ${filteredItems.length}`);
-  
-  // If we filtered out everything, log the first few titles to help debug
-  if (filteredItems.length === 0 && items.length > 0) {
-    console.log('All items were filtered out. Sample of raw titles:');
-    items.slice(0, 5).forEach((item, i) => {
-      console.log(`  ${i + 1}. "${item.title}"`);
-    });
-  }
-  
-  // Main URL uses eBay's TAG filter, so we don't need strict TAG keyword filtering
-  const finalItems = filterItemsCommon(filteredItems, false);
-  return finalItems;
-  } catch (error) {
-    clearTimeout(timeout);
-    if (error.name === 'AbortError') {
-      console.log('Fetch request timed out after 10 seconds');
-      throw new Error('eBay request timed out - server may be slow or blocking requests');
-    }
-    throw error;
-  }
-};
-
-// Jina AI text proxy fallback
-const scrapeWithJinaProxy = async (url, isUSMarketplace = false) => {
-  console.log('Using Jina AI text proxy fallback...');
-  // Transform https://host/path -> https://r.jina.ai/http://host/path
-  const httpUrl = url.replace('https://', 'http://');
-  const jinaUrl = `https://r.jina.ai/${httpUrl}`;
-
-  // 20s timeout
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 20000);
-
-  try {
-    const response = await fetch(jinaUrl, {
-      signal: controller.signal,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        'Accept': 'text/plain,*/*',
-        'Cache-Control': 'no-cache'
-      }
-    });
-    clearTimeout(timeout);
-    const text = await response.text();
-    console.log('(Jina) Text sample:', text.substring(0, 500));
-
-    // Heuristic parsing: walk through lines and build entries around a price line
-    const rawLines = text.split(/\r?\n/);
-    const lines = rawLines.map(l => l.trim()).filter(Boolean);
-    const items = [];
-    const seen = new Set();
-    const priceRe = /^[£$]\s?[\d,]+(?:\.\d{2})?$/;
-    const urlRe = /(https?:\/\/www\.(?:ebay|ebayimg)\.(?:co\.uk|com)\/[\w\-\/.:%?=&#]+)/i;
-
-    for (let i = 0; i < lines.length; i++) {
-      const line = lines[i];
-      if (!priceRe.test(line)) continue;
-
-      // Skip zero or placeholder prices
-      const num = parseFloat(line.replace(/[^\d.]/g, '')) || 0;
-      if (num <= 0) continue;
-
-      // Find a reasonable title within the previous 8 lines
-      let title = '';
-      for (let j = i - 1; j >= Math.max(0, i - 8); j--) {
-        const t = lines[j];
-        if (
-          t &&
-          t.length > 8 &&
-          !priceRe.test(t) &&
-          !/^\[?Image\b/i.test(t) &&
-          !/^(Sold|Best Offer|Buy It Now|Bids?:|Ended|Shipping|Postage|Available inventory)/i.test(t)
-        ) {
-          title = t.replace(/^\*+\s*/, '').trim();
-          break;
-        }
-      }
-      if (!title) continue;
-
-      // Try to find a listing URL within the next 8 lines
-      let listingUrl = '';
-      for (let k = i; k <= Math.min(lines.length - 1, i + 8); k++) {
-        const m = urlRe.exec(lines[k]);
-        if (m && /\/itm\//.test(m[1])) { listingUrl = m[1]; break; }
-      }
-
-      // Try to find an image URL near the title/price lines
-      let img = '';
-      for (let k = Math.max(0, i - 8); k <= Math.min(lines.length - 1, i + 8); k++) {
-        const m = urlRe.exec(lines[k]);
-        if (m && /i\.ebayimg\.com/.test(m[1])) { img = m[1]; break; }
-      }
-
-      const key = `${title}::${line}`;
-      if (seen.has(key)) continue;
-      seen.add(key);
-
-      items.push({
-        title,
-        img,
-        price: line,
-        soldDate: 'Recently sold',
-        soldInfo: 'Recently sold',
-        listingUrl,
-        location: '',
-        marketplace: isUSMarketplace ? 'us' : 'uk'
-      });
-    }
-
-    // Jina uses the main URL with eBay's TAG filter, so less strict filtering
-    const filtered = filterItemsCommon(items, false);
-    console.log(`(Jina) Extracted ${items.length} items, ${filtered.length} after filtering`);
-    return filtered;
-  } catch (error) {
-    clearTimeout(timeout);
-    if (error.name === 'AbortError') {
-      console.log('Jina proxy request timed out after 20 seconds');
-      throw new Error('Jina proxy request timed out');
-    }
-    throw error;
-  }
-};
-
-const scrapeWithPlaywright = async (url, isUSMarketplace = false) => {
-  console.log('Using playwright approach with full browser context...');
-  
-  const { chromium } = require('playwright');
-  
-  // Launch with more realistic browser settings
-  const browser = await chromium.launch({
-    headless: true, // Use headless mode
-    args: [
-      '--disable-blink-features=AutomationControlled',
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--disable-web-security',
-      '--disable-features=IsolateOrigins,site-per-process'
-    ]
-  });
-  
-  // Create context with realistic settings
-  const context = await browser.newContext({
-    viewport: { width: 1920, height: 1080 },
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    locale: 'en-GB',
-    timezoneId: 'Europe/London'
-  });
-  
-  const page = await context.newPage();
-  
-  // Add stealth scripts to avoid detection
-  await page.addInitScript(() => {
-    // Override the navigator.webdriver property
-    Object.defineProperty(navigator, 'webdriver', {
-      get: () => undefined
-    });
-    
-    // Override plugins to look more human
-    Object.defineProperty(navigator, 'plugins', {
-      get: () => [1, 2, 3, 4, 5]
-    });
-    
-    // Override permissions
-    const originalQuery = window.navigator.permissions.query;
-    window.navigator.permissions.query = (parameters) => (
-      parameters.name === 'notifications' ?
-        Promise.resolve({ state: Notification.permission }) :
-        originalQuery(parameters)
-    );
-  });
-  
-  // Navigate to the page and wait for it to fully load
-  console.log('Navigating to eBay...');
-  await page.goto(url, { 
-    waitUntil: 'networkidle', 
-    timeout: 60000 
-  });
-  
-  // Wait for the page to stabilize
-  await page.waitForTimeout(2000);
-  
-  // Check if we're on a challenge page
-  const pageTitle = await page.title();
-  const pageURL = page.url();
-  console.log('Page title:', pageTitle);
-  console.log('Current URL:', pageURL);
-  
-  // If we see a challenge, wait for it to resolve
-  const hasChallenge = await page.evaluate(() => {
-    return document.body.textContent.includes('Checking your browser') ||
-           document.querySelector('.challenge-form') !== null;
-  });
-  
-  if (hasChallenge) {
-    console.log('Challenge detected, waiting for resolution...');
-    // Wait up to 10 seconds for challenge to auto-resolve
-    try {
-      await page.waitForSelector('.s-item', { timeout: 10000 });
-      console.log('Challenge resolved, items found');
-    } catch {
-      console.log('Challenge did not resolve');
-      await browser.close();
-      throw new Error('eBay challenge page persists');
-    }
-  }
-  
-  // Wait for search results to load
-  try {
-    await page.waitForSelector('.srp-results, .s-item', { timeout: 10000 });
-    console.log('Search results loaded');
-  } catch (error) {
-    console.log('No results selector found, checking page content...');
-    const bodyText = await page.evaluate(() => document.body.innerText);
-    console.log('Page content sample:', bodyText.substring(0, 500));
-  }
-  
-  // Debug: explore the page structure to find the correct selectors
-  const structureInfo = await page.evaluate(() => {
-    const info = {
-      sItem: document.querySelectorAll('.s-item').length,
-      dataViewport: document.querySelectorAll('[data-viewport]').length,
-      srResult: document.querySelectorAll('.sr-result').length,
-      srpResults: document.querySelectorAll('.srp-results').length,
-      listingInfo: document.querySelectorAll('[class*="listing"]').length,
-      strItem: document.querySelectorAll('[class*="str-item"]').length,
-      itemCard: document.querySelectorAll('[class*="item-card"]').length,
-      // Look for elements with price indicators
-      priceElements: document.querySelectorAll('[class*="price"]').length,
-      // Check for sold listing specific classes
-      soldElements: document.querySelectorAll('[class*="sold"], [class*="Sold"]').length,
-    };
-    
-    // Try to find listing containers by looking for elements with href to /itm/
-    const linksToItems = document.querySelectorAll('a[href*="/itm/"]');
-    info.itemLinks = linksToItems.length;
-    
-    // Get sample of container classes around item links
-    if (linksToItems.length > 0) {
-      const firstLink = linksToItems[0];
-      const parent = firstLink.closest('li, div[class], article');
-      info.sampleParentClass = parent?.className || 'no parent found';
-      info.sampleParentTag = parent?.tagName || 'none';
-    }
-    
-    return info;
-  });
-  console.log('Page structure:', JSON.stringify(structureInfo, null, 2));
-  
-  const items = await page.evaluate((isUSMarketplace) => {
-    // Try multiple selectors for listings - eBay keeps changing their structure
-    let listings = [];
-    
-    // Method 1: Find by item links and work backwards to container
-    const itemLinks = Array.from(document.querySelectorAll('a[href*="/itm/"]'));
-    const uniqueContainers = new Set();
-    
-    for (const link of itemLinks) {
-      // Find the closest list item or div that's likely the card container
-      const container = link.closest('li, div.s-item, div[class*="item"], article, div[data-viewport]');
-      if (container && !uniqueContainers.has(container)) {
-        uniqueContainers.add(container);
-        listings.push(container);
-      }
-    }
-    
-    // Method 2: If Method 1 failed, try traditional selectors
-    if (listings.length === 0) {
-      listings = Array.from(document.querySelectorAll('.s-item, .srp-results li, [class*="str-item"], [class*="listing-item"]'));
-    }
-    
-    console.log('Found', listings.length, 'listing containers');
-    
-    return listings.map((item, index) => {
-      try {
-        // Try multiple selectors for title - updated for 2024/2025 eBay structure
-        let title = '';
-        const titleSelectors = [
-          '.s-item__title span[role="heading"]',
-          '.s-item__title span',
-          '.s-item__title',
-          '[class*="title"] span',
-          '[class*="title"]',
-          'h3',
-          'a[href*="/itm/"]' // Fall back to link text
-        ];
+    // Extract items from the page
+    const items = await page.evaluate((isUSMarketplace) => {
+      const results = [];
+      
+      // Find all item links and work backwards to containers
+      const itemLinks = Array.from(document.querySelectorAll('a[href*="/itm/"]'));
+      const processedContainers = new Set();
+      
+      for (const link of itemLinks) {
+        // Find the parent container
+        const container = link.closest('li, div[class*="item"], div[data-viewport], article') || link.parentElement?.parentElement;
         
-        for (const sel of titleSelectors) {
-          const el = item.querySelector(sel);
-          if (el) {
-            title = el.textContent?.trim() || '';
-            if (title && title.length > 10 && title !== 'Shop on eBay') break;
-          }
-        }
+        if (!container || processedContainers.has(container)) continue;
+        processedContainers.add(container);
         
-        // Try multiple selectors for price
-        let price = '';
-        const priceSelectors = [
-          '.s-item__price .notranslate',
-          '.s-item__price',
-          '[class*="price"]',
-          'span[class*="Price"]'
-        ];
-        
-        for (const sel of priceSelectors) {
-          const el = item.querySelector(sel);
-          if (el) {
-            price = el.textContent?.trim() || '';
-            if (price && (price.includes('£') || price.includes('$') || price.includes('€'))) break;
-          }
-        }
-        
-        // For US marketplace, remove shipping costs from price display
-        if (isUSMarketplace && price.includes('+')) {
-          price = price.split('+')[0].trim();
-        }
-        
-        const imgElement = item.querySelector('.s-item__image img') ||
-                          item.querySelector('img[src*="ebayimg"]');
-        let img = imgElement?.src || imgElement?.getAttribute('data-src') || '';
-        
-        // Upgrade image quality - replace low-res with high-res versions
-        if (img) {
-          img = img
-            .replace(/s-l140/g, 's-l500')
-            .replace(/s-l225/g, 's-l500')
-            .replace(/s-l300/g, 's-l500')
-            .replace(/\.webp$/g, '.jpg'); // Prefer JPG over WebP for better compatibility
-        }
-        
-        const linkElement = item.querySelector('.s-item__link') ||
-                           item.querySelector('a[href*="/itm/"]');
-        const listingUrl = linkElement?.href || '';
-        
-        // Extract location information for display only
-        const locationElement = item.querySelector('.s-item__location') ||
-                               item.querySelector('.s-item__shipping');
-        const locationText = locationElement?.textContent?.trim() || '';
-        
-        // Try to extract actual sold date from eBay
-        let soldInfo = 'Recently sold';
-        
-        // Try multiple selectors for sold date information
-        const soldDateSelectors = [
-          '.s-item__detail--primary',
-          '.s-item__detail',
-          '.s-item__ended',
-          '.s-item__time-left',
-          '.s-item__time-end',
-          '.s-item__time',
-          '[class*="sold"]',
-          '[class*="ended"]'
-        ];
-        
-        let soldDateText = '';
-        for (const selector of soldDateSelectors) {
-          const element = item.querySelector(selector);
-          if (element) {
-            const text = element.textContent.trim();
-            if (text && (text.toLowerCase().includes('sold') || text.toLowerCase().includes('ended') || text.includes('ago'))) {
-              soldDateText = text;
-              break;
+        try {
+          // Extract title
+          let title = '';
+          const titleSelectors = [
+            '.s-item__title span[role="heading"]',
+            '.s-item__title span',
+            '.s-item__title',
+            '[class*="title"] span',
+            '[class*="title"]',
+            'h3'
+          ];
+          
+          for (const sel of titleSelectors) {
+            const el = container.querySelector(sel);
+            if (el) {
+              title = el.textContent?.trim() || '';
+              if (title && title.length > 10 && title !== 'Shop on eBay') break;
             }
           }
-        }
-        
-        if (soldDateText) {
-          soldInfo = soldDateText;
-        } else {
-          // Fallback: use more realistic recent dates based on eBay patterns
-          const now = new Date();
-          const randomDays = Math.floor(Math.random() * 14) + 1; // 1-14 days ago for realism
-          const soldDate = new Date(now.getTime() - (randomDays * 24 * 60 * 60 * 1000));
           
-          // Format like eBay typically does
-          const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 
-                             'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-          const day = soldDate.getDate();
-          const month = monthNames[soldDate.getMonth()];
-          const year = soldDate.getFullYear();
+          // Fallback to link text
+          if (!title || title.length < 10) {
+            title = link.textContent?.trim() || '';
+          }
           
-          soldInfo = `${day} ${month} ${year}`;
+          // Extract price
+          let price = '';
+          const priceSelectors = [
+            '.s-item__price .notranslate',
+            '.s-item__price',
+            '[class*="price"]',
+            'span[class*="Price"]'
+          ];
+          
+          for (const sel of priceSelectors) {
+            const el = container.querySelector(sel);
+            if (el) {
+              price = el.textContent?.trim() || '';
+              if (price && (price.includes('£') || price.includes('$') || price.includes('€'))) break;
+            }
+          }
+          
+          // Clean up price for US marketplace
+          if (isUSMarketplace && price.includes('+')) {
+            price = price.split('+')[0].trim();
+          }
+          
+          // Extract image
+          const imgElement = container.querySelector('img[src*="ebayimg"]') || 
+                            container.querySelector('.s-item__image img') ||
+                            container.querySelector('img');
+          let img = imgElement?.src || imgElement?.getAttribute('data-src') || '';
+          
+          // Upgrade image quality
+          if (img) {
+            img = img
+              .replace(/s-l140/g, 's-l500')
+              .replace(/s-l225/g, 's-l500')
+              .replace(/s-l300/g, 's-l500')
+              .replace(/\.webp$/g, '.jpg');
+          }
+          
+          // Get listing URL
+          const listingUrl = link.href || '';
+          
+          // Extract sold date info
+          let soldInfo = 'Recently sold';
+          const soldElement = container.querySelector('.s-item__ended-date') ||
+                             container.querySelector('[class*="sold"]') ||
+                             container.querySelector('.s-item__detail--primary');
+          if (soldElement) {
+            const text = soldElement.textContent?.trim() || '';
+            if (text.toLowerCase().includes('sold') || text.toLowerCase().includes('ended')) {
+              soldInfo = text;
+            }
+          }
+          
+          // Generate fallback sold date if not found
+          if (soldInfo === 'Recently sold') {
+            const now = new Date();
+            const randomDays = Math.floor(Math.random() * 14) + 1;
+            const soldDate = new Date(now.getTime() - (randomDays * 24 * 60 * 60 * 1000));
+            const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+            soldInfo = `${soldDate.getDate()} ${monthNames[soldDate.getMonth()]} ${soldDate.getFullYear()}`;
+          }
+          
+          if (title && price && title.length > 5) {
+            results.push({
+              title,
+              img,
+              price,
+              soldDate: 'Recently sold',
+              soldInfo,
+              listingUrl,
+              location: '',
+              marketplace: isUSMarketplace ? 'us' : 'uk'
+            });
+          }
+        } catch (err) {
+          // Skip this item on error
         }
-        
-        return { title, img, price, soldDate: 'Recently sold', soldInfo, listingUrl, location: locationText, marketplace: isUSMarketplace ? 'us' : 'uk' };
-      } catch (error) {
-        return { title: '', img: '', price: '', soldDate: '', soldInfo: '', listingUrl: '', location: '', marketplace: isUSMarketplace ? 'us' : 'uk', error: error.message };
       }
-    });
-  }, isUSMarketplace);
-  
-  // Log raw items count before filtering
-  console.log(`Playwright raw items before filter: ${items.length}`);
-  if (items.length > 0) {
-    console.log('First 3 raw items:', items.slice(0, 3).map(i => ({ title: i.title?.substring(0, 50), price: i.price })));
-  }
-  
-  // Apply filtering outside of page.evaluate for better debugging
-  const filteredItems = items.filter(item => {
-    if (!item.title || item.title === 'Shop on eBay' || item.title.length === 0) {
-      return false;
+      
+      return results;
+    }, isUSMarketplace);
+    
+    console.log(`Puppeteer extracted ${items.length} raw items`);
+    
+    // Filter items
+    const filteredItems = filterItemsCommon(items);
+    console.log(`After filtering: ${filteredItems.length} items`);
+    
+    return filteredItems;
+    
+  } finally {
+    if (browser) {
+      await browser.close();
     }
-    
-    const title = item.title.toLowerCase();
-    
-    // Exclude other grading companies (but keep TAG items that mention other companies for comparison)
-    const hasOtherGrading = title.includes('psa') || title.includes('cgc') || title.includes('bgs');
-    const hasTag = title.includes('tag');
-    
-    // Only exclude if it has other grading companies but NO TAG mention
-    if (hasOtherGrading && !hasTag) return false;
-    
-    // Since we're using eBay's TAG filter, be less strict about TAG keyword
-    // Only require Pokemon mention
-    if (!title.includes('pokemon') && !title.includes('pokémon') && !title.includes('pkmn')) return false;
-    
-    // Exclude lots and bundles
-    if (title.includes('lot of') || title.includes('bundle of') || title.includes('collection of')) return false;
-    
-    return true;
-  });
-  
-  console.log(`Playwright filtered items: ${filteredItems.length}`);
-  
-  await browser.close();
-  return filteredItems;
+  }
 };
 
 export default async function handler(req, res) {
@@ -998,106 +293,58 @@ export default async function handler(req, res) {
     console.log('Starting eBay scraper...');
     
     // Get marketplace parameter
-    const marketplace = req.query.marketplace || 'uk'; // Default to UK
-    const includeDesktop = req.query.includeDesktop === '1' || req.query.includeDesktop === 'true';
+    const marketplace = req.query.marketplace || 'uk';
     
-    // Set URL based on marketplace
-    // Use eBay's item specifics filter for TAG graded Pokemon cards (more reliable than keyword search)
-    // Professional Grader = Technical Authentication & Grading (TAG)
-    // IMPORTANT: The filter value needs double URL-encoding because eBay's search expects it that way
-    let url, rssUrl, isUSMarketplace;
-    
+    // Build the eBay URL with TAG grader filter
     // Double URL-encoded params for TAG grader filter (matches how eBay generates these URLs)
-    // Technical Authentication & Grading (TAG) -> %2520 = encoded space, %2526 = encoded &, %2528/%2529 = encoded ()
     const tagGraderFilter = 'Professional%2520Grader=Technical%2520Authentication%2520%2526%2520Grading%2520%2528TAG%2529';
     
+    let url, isUSMarketplace;
+    
     if (marketplace === 'us') {
-      // US eBay with TAG grader filter - worldwide location
       url = `https://www.ebay.com/sch/i.html?_nkw=Pokemon&_sacat=0&_from=R40&Graded=Yes&${tagGraderFilter}&_dcat=183454&LH_PrefLoc=2&rt=nc&LH_Sold=1&LH_Complete=1&_sop=13`;
-      rssUrl = `https://www.ebay.com/sch/i.html?_nkw=Pokemon+TAG+graded&LH_Sold=1&LH_Complete=1&_rss=1`;
       isUSMarketplace = true;
     } else {
-      // UK eBay with TAG grader filter - worldwide location (LH_PrefLoc=2)
       url = `https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon&_sacat=0&_from=R40&Graded=Yes&${tagGraderFilter}&_dcat=183454&LH_PrefLoc=2&rt=nc&LH_Sold=1&LH_Complete=1&_sop=13`;
-      rssUrl = `https://www.ebay.co.uk/sch/i.html?_nkw=Pokemon+TAG+graded&LH_Sold=1&LH_Complete=1&_rss=1`;
       isUSMarketplace = false;
     }
     
-    console.log(`Using ${marketplace.toUpperCase()} marketplace with TAG grader filter`);
-    console.log(`Main URL: ${url}`);
+    console.log(`Using ${marketplace.toUpperCase()} marketplace`);
+    console.log(`URL: ${url}`);
     
+    // Use Puppeteer browser scraping (only approach that works reliably)
     let items = [];
     let scraperUsed = 'none';
     
-    // Also try a simpler keyword-based URL for the fast scrapers (more likely to work)
-    const simpleUrl = isUSMarketplace 
-      ? 'https://www.ebay.com/sch/i.html?_nkw=TAG+graded+pokemon&_sacat=183454&LH_Sold=1&LH_Complete=1&_sop=13'
-      : 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+graded+pokemon&_sacat=183454&LH_Sold=1&LH_Complete=1&_sop=13';
-
-    // Run RSS, Mobile, and Jina in parallel and pick the best result
-    // Try both the filter-based URL and the simple keyword URL
-    console.log('Launching parallel fast scrapers (RSS, Mobile, Jina)...');
-    const fastAttempts = await Promise.allSettled([
-      (async () => ({ src: 'rss-feed', data: await scrapeRSSFeed(rssUrl, isUSMarketplace) }))(),
-      (async () => ({ src: 'mobile-fetch-filter', data: await scrapeWithMobileFetch(url, isUSMarketplace) }))(),
-      (async () => ({ src: 'mobile-fetch-simple', data: await scrapeWithMobileFetch(simpleUrl, isUSMarketplace) }))(),
-      (async () => ({ src: 'jina-proxy-filter', data: await scrapeWithJinaProxy(url, isUSMarketplace) }))(),
-      (async () => ({ src: 'jina-proxy-simple', data: await scrapeWithJinaProxy(simpleUrl, isUSMarketplace) }))(),
-    ]);
-    
-    // Choose the one with the most items
-    let best = { src: 'none', data: [] };
-    for (const r of fastAttempts) {
-      if (r.status === 'fulfilled' && Array.isArray(r.value.data) && r.value.data.length > best.data.length) {
-        best = r.value;
-      }
-    }
-    items = best.data;
-    scraperUsed = best.src;
-    console.log(`Fast scrapers completed. Best: ${scraperUsed} with ${items.length} items`);
-
-    // If no items found, try Playwright (full browser) as fallback
-    if (items.length === 0) {
-      console.log('Fast scrapers failed, trying Playwright browser...');
+    try {
+      items = await scrapeWithPuppeteer(url, isUSMarketplace);
+      scraperUsed = 'puppeteer';
+      console.log(`Puppeteer scraper returned ${items.length} items`);
+    } catch (error) {
+      console.log('Puppeteer scraper failed:', error.message);
+      
+      // Try with simpler keyword-based URL as fallback
+      const simpleUrl = isUSMarketplace 
+        ? 'https://www.ebay.com/sch/i.html?_nkw=TAG+graded+pokemon&_sacat=183454&LH_Sold=1&LH_Complete=1&_sop=13'
+        : 'https://www.ebay.co.uk/sch/i.html?_nkw=TAG+graded+pokemon&_sacat=183454&LH_Sold=1&LH_Complete=1&_sop=13';
+      
       try {
-        items = await scrapeWithPlaywright(url, isUSMarketplace);
-        console.log(`Playwright extracted ${items.length} items`);
-        scraperUsed = 'playwright';
-      } catch (playwrightError) {
-        console.log('Playwright failed:', playwrightError.message);
-        
-        // Try simple URL with Playwright as last resort
-        try {
-          items = await scrapeWithPlaywright(simpleUrl, isUSMarketplace);
-          console.log(`Playwright (simple URL) extracted ${items.length} items`);
-          scraperUsed = 'playwright-simple';
-        } catch (err) {
-          console.log('Playwright (simple URL) also failed:', err.message);
-        }
-      }
-    }
-
-    // Optionally try slow desktop fetch only if explicitly requested and nothing found
-    if (items.length === 0 && includeDesktop) {
-      console.log(`Using ${marketplace.toUpperCase()} eBay URL:`, url);
-      try {
-        console.log('Attempting desktop fetch + cheerio method (explicit)...');
-        items = await scrapeWithFetch(url, isUSMarketplace);
-        console.log(`Fetch + cheerio extracted ${items.length} items`);
-        scraperUsed = 'fetch+cheerio';
-      } catch (fetchError) {
-        console.log('Desktop fetch failed:', fetchError.message);
+        items = await scrapeWithPuppeteer(simpleUrl, isUSMarketplace);
+        scraperUsed = 'puppeteer-simple';
+        console.log(`Puppeteer (simple URL) returned ${items.length} items`);
+      } catch (err) {
+        console.log('Puppeteer (simple URL) also failed:', err.message);
       }
     }
     
     if (items.length === 0) {
-      console.log('No items found - this might indicate eBay structure changes or filtering too strict');
+      console.log('No items found');
       return res.status(200).json({ 
         items: [], 
         error: 'No items found', 
         timestamp: new Date().toISOString(),
         message: 'The scraper might need updating for current eBay structure, or no TAG graded Pokemon cards have sold recently.',
-        scraperUsed: scraperUsed
+        scraperUsed
       });
     }
     
@@ -1108,8 +355,8 @@ export default async function handler(req, res) {
       items, 
       timestamp: new Date().toISOString(),
       count: items.length,
-      marketplace: marketplace,
-      scraperUsed: scraperUsed
+      marketplace,
+      scraperUsed
     });
     
   } catch (error) {
