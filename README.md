@@ -2,7 +2,13 @@
 
 A modern web application that tracks Pokemon TAG graded card sales from eBay, with intelligent card matching and price analytics, use the hosted version or download and run locally with all the card information - both run super fast.
 
-<img width="1013" height="715" alt="image" src="https://github.com/user-attachments/assets/27e34466-ea08-4a80-aedd-6734bd5224cc" />
+### Homepage
+
+<img width="1565" height="1036" alt="image" src="https://github.com/user-attachments/assets/73aeb086-12ab-4714-8eae-29af27552cd2" />
+
+### Card Matcher
+
+<img width="1383" height="1322" alt="image" src="https://github.com/user-attachments/assets/ae024234-61f4-4632-b6f9-373d65440280" />
 
 
 ## 🚀 Features
