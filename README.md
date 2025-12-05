@@ -1,6 +1,9 @@
 # TAG Sales Scraper 🎴
 
-A modern web application that tracks Pokemon TAG graded card sales from eBay, with intelligent card matching and price analytics.
+A modern web application that tracks Pokemon TAG graded card sales from eBay, with intelligent card matching and price analytics, use the hosted version or download and run locally with all the card information - both run super fast.
+
+<img width="1013" height="715" alt="image" src="https://github.com/user-attachments/assets/27e34466-ea08-4a80-aedd-6734bd5224cc" />
+
 
 ## 🚀 Features
 
