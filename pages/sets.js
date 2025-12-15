@@ -80,11 +80,28 @@ export default function Sets() {
   };
 
   const getCardImage = (card) => {
-    return getCardImageUrl(card);
+    // Try multiple strategies to get card image
+    if (card?.imageUrl) {
+      return card.imageUrl;
+    }
+    const result = getCardImageUrl(card);
+    // Only use if it's not a placeholder URL
+    if (result && !result.includes('placeholder') && !result.includes('image-fallback')) {
+      return result;
+    }
+    return card?.imageUrl || null;
   };
 
   const CardModal = ({ card, onClose }) => {
     const cardData = cardSales[card.id];
+    const imageUrl = getCardImage(card);
+    
+    // Get fallback image from most recent sale if available
+    const fallbackImage = cardData?.sales && cardData.sales.length > 0 
+      ? cardData.sales[0].img || cardData.sales[0].image 
+      : null;
+
+    console.log('Sets CardModal - Card:', card.name, 'ImageURL:', imageUrl, 'Fallback:', fallbackImage);
 
     return (
       <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
@@ -105,11 +122,43 @@ export default function Sets() {
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
               <div>
-                <img 
-                  src={getCardImage(card)} 
-                  alt={card.name}
-                  className="w-full max-w-sm mx-auto rounded-lg shadow-lg"
-                />
+                <div className="relative">
+                  {imageUrl && (
+                    <img 
+                      src={imageUrl} 
+                      alt={card.name}
+                      className="w-full max-w-sm mx-auto rounded-lg shadow-lg"
+                      onError={(e) => {
+                        console.error('Image failed to load:', imageUrl);
+                        // Try fallback image on error
+                        if (fallbackImage && e.target.src !== fallbackImage) {
+                          console.log('Trying fallback image:', fallbackImage);
+                          e.target.src = fallbackImage;
+                        } else {
+                          // Hide the img element and show placeholder
+                          e.target.style.display = 'none';
+                          const placeholder = e.target.parentElement.querySelector('.image-placeholder');
+                          if (placeholder) {
+                            placeholder.style.display = 'flex';
+                          }
+                        }
+                      }}
+                    />
+                  )}
+                  <div 
+                    className="image-placeholder w-full max-w-sm mx-auto h-96 bg-gray-100 rounded-lg shadow-lg flex items-center justify-center text-gray-400"
+                    style={{ display: imageUrl ? 'none' : 'flex' }}
+                  >
+                    <div className="text-center">
+                      <svg className="w-16 h-16 mx-auto mb-2" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M4 4h16v16H4V4zm2 2v12h12V6H6zm8 3l3 4H7l2-2.5L11 13l3-4z"/>
+                      </svg>
+                      <p className="text-lg">No Image Available</p>
+                      <p className="text-sm mt-2 text-gray-600">Card: {card.name}</p>
+                      <p className="text-xs mt-1 text-gray-500">{card.setName} • {card.cardNumber}</p>
+                    </div>
+                  </div>
+                </div>
 
                 <div className="mt-4 space-y-3 text-sm">
                   <div><strong>HP:</strong> {card.hp || card.metadata?.hp || 'N/A'}</div>
