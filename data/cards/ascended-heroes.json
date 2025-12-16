@@ -1,0 +1,170 @@
+{
+  "setInfo": {
+    "name": "Mega Evolution—Ascended Heroes",
+    "description": "Mega Evolution—Ascended Heroes is a custom Pokémon TCG set centered on powerful Mega Evolution Pokémon and iconic Trainers. Only a subset of its cards have been revealed so far; additional details will be added as more cards are officially shown.",
+    "series": "Custom",
+    "releaseDate": "2026-01-30",
+    "totalCards": 217,
+    "symbol": "ASH",
+    "logo": "https://www.serebii.net/card/logo/ascendedheroes.png",
+    "setCode": "ASH"
+  },
+  "cards": [
+    {
+      "id": "ascended-heroes-10",
+      "name": "Mega Meganiumex",
+      "number": "10",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Grass",
+      "rarity": "Double Rare",
+      "mark": "J",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/10.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/010.jpg"
+    },
+    {
+      "id": "ascended-heroes-20",
+      "name": "Charmander",
+      "number": "20",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Fire",
+      "rarity": "Common",
+      "mark": "J",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/20.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/020.jpg"
+    },
+    {
+      "id": "ascended-heroes-22",
+      "name": "Mega Charizard Yex",
+      "number": "22",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "mark": "J",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/22.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/022.jpg"
+    },
+    {
+      "id": "ascended-heroes-25",
+      "name": "Entei",
+      "number": "25",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Fire",
+      "rarity": "Rare",
+      "mark": "I",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/25.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/025.jpg"
+    },
+    {
+      "id": "ascended-heroes-31",
+      "name": "Mega Emboarex",
+      "number": "31",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Fire",
+      "rarity": "Double Rare",
+      "mark": "J",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/31.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/031.jpg"
+    },
+    {
+      "id": "ascended-heroes-43",
+      "name": "Mega Feraligatrex",
+      "number": "43",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Water",
+      "rarity": "Double Rare",
+      "mark": "J",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/43.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/043.jpg"
+    },
+    {
+      "id": "ascended-heroes-51",
+      "name": "N's Vanilluxe",
+      "number": "51",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Water",
+      "rarity": "Uncommon",
+      "mark": "I",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/51.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/051.jpg"
+    },
+    {
+      "id": "ascended-heroes-123",
+      "name": "Gastly",
+      "number": "123",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Darkness",
+      "rarity": "Common",
+      "mark": "I",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/123.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/123.jpg"
+    },
+    {
+      "id": "ascended-heroes-183",
+      "name": "Boss's Orders [Corbeau]",
+      "number": "183",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Su",
+      "rarity": "Uncommon",
+      "mark": "I",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/183.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/183.jpg"
+    },
+    {
+      "id": "ascended-heroes-204",
+      "name": "Team Rocket's Giovanni",
+      "number": "204",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Su",
+      "rarity": "Uncommon",
+      "mark": "I",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/204.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/204.jpg"
+    },
+    {
+      "id": "ascended-heroes-226",
+      "name": "Psyduck",
+      "number": "226",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Water",
+      "rarity": "Illustration Rare",
+      "mark": "I",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/226.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/226.jpg"
+    },
+    {
+      "id": "ascended-heroes-283",
+      "name": "Mega Hawluchaex",
+      "number": "283",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Fighting",
+      "rarity": "Special Illustration Rare",
+      "mark": "I",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/283.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/283.jpg"
+    },
+    {
+      "id": "ascended-heroes-284",
+      "name": "Mega Gengarex",
+      "number": "284",
+      "set": "Mega Evolution—Ascended Heroes",
+      "series": "Custom",
+      "type": "Darkness",
+      "rarity": "Special Illustration Rare",
+      "mark": "I",
+      "image_url": "https://www.serebii.net/card/ascendedheroes/284.jpg",
+      "imageUrl": "https://www.serebii.net/card/ascendedheroes/284.jpg"
+    }
+  ]
+}
