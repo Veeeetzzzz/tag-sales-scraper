@@ -1,5 +1,27 @@
 # Scraper Fixes - Summary
 
+## 2026-05-13 Update
+
+### Current Failure
+- The deployed/current scraper had drifted from this handover: `pages/api/ebay.js` was Puppeteer-only, while the notes below describe fetch+cheerio-first fallbacks.
+- Live checks showed recent TAG graded Pokemon sold listings do exist, so the empty state was not just "no recent sales".
+- Direct desktop/RSS requests can receive eBay/Akamai access-denied responses. The mobile HTML result path was able to return current sold listings before repeated test probes triggered access-denied responses.
+
+### Fix Applied
+- Rebuilt `pages/api/ebay.js` as a mobile-first layered scraper.
+- Uses the broader `TAG Pokemon` sold-listing query first because current sold titles often say `TAG 10` without the word "graded".
+- Added strict TAG-grade filtering so "Tag Team", "Tag Bolt", GetGraded, PSA, CGC, etc. do not leak into results.
+- Added support for current eBay result structures, including classic `.s-item` markup and newer `s-card`/`su-styled-text` markup.
+- Tries lightweight scrapers sequentially to avoid hammering eBay: mobile keyword, mobile graded keyword, desktop keyword, RSS, Jina.
+- Falls back to Puppeteer with `@sparticuz/chromium` only if lightweight paths return no items.
+- Added `?debug=1` support on `/api/ebay` to include scraper attempt counts/errors in the JSON response.
+
+### Verification
+- `node -c pages/api/ebay.js` passes.
+- `npm.cmd run build` passes.
+- Mock handler smoke test parses a representative eBay sold listing and returns upgraded `s-l500` image URLs.
+- Live smoke tests returned current UK and US listings from `mobile-keyword` before later repeated probes started returning access-denied responses from this environment.
+
 ## Issues Found and Fixed
 
 ### 1. Critical Bug in `pages/api/card-matcher.js`
