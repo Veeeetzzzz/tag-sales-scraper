@@ -1,7 +1,8 @@
 const cheerio = require('cheerio');
 
 const MAX_ITEMS = 60;
-const FETCH_TIMEOUT_MS = 10000;
+const IS_SERVERLESS = !!(process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_VERSION);
+const FETCH_TIMEOUT_MS = IS_SERVERLESS ? 5000 : 10000;
 const PUPPETEER_TIMEOUT_MS = 30000;
 const TAG_GRADER_FILTER =
   'Professional%2520Grader=Technical%2520Authentication%2520%2526%2520Grading%2520%2528TAG%2529';
@@ -727,93 +728,128 @@ const runAttempt = async (source, attempt, attempts) => {
 
 const mergeItems = (results) => filterItemsCommon(results.flatMap((result) => result.data || []));
 
-export default async function handler(req, res) {
-  try {
-    console.log('Starting eBay scraper...');
+export async function getEbaySales({
+  marketplace = 'uk',
+  debug = false,
+  includeBrowser,
+  includeDesktop
+} = {}) {
+  console.log('Starting eBay scraper...');
 
-    const marketplaceKey = req.query.marketplace === 'us' ? 'us' : 'uk';
-    const debug = req.query.debug === '1' || req.query.debug === 'true';
-    const marketplaceConfig = MARKETPLACES[marketplaceKey];
-    const urls = buildUrls(marketplaceConfig);
-    const attempts = [];
+  const marketplaceKey = marketplace === 'us' ? 'us' : 'uk';
+  const allowBrowserFallback = includeBrowser ?? !IS_SERVERLESS;
+  const allowDesktopFetch = includeDesktop ?? !IS_SERVERLESS;
+  const marketplaceConfig = MARKETPLACES[marketplaceKey];
+  const urls = buildUrls(marketplaceConfig);
+  const attempts = [];
 
-    console.log(`Using ${marketplaceKey.toUpperCase()} marketplace`);
-    console.log(`Keyword URL: ${urls.keyword}`);
-    console.log(`Grader-filter URL: ${urls.graderFilter}`);
+  console.log(`Using ${marketplaceKey.toUpperCase()} marketplace`);
+  console.log(`Keyword URL: ${urls.keyword}`);
+  console.log(`Grader-filter URL: ${urls.graderFilter}`);
 
-    let items = [];
-    let scraperUsed = 'none';
+  let items = [];
+  let scraperUsed = 'none';
 
-    const lightweightAttempts = [
-      ['mobile-keyword', () => scrapeWithHtmlFetch(urls.keyword, marketplaceConfig, 'mobile')],
-      ['mobile-graded-keyword', () => scrapeWithHtmlFetch(urls.gradedKeyword, marketplaceConfig, 'mobile')],
-      ['desktop-keyword', () => scrapeWithHtmlFetch(urls.keyword, marketplaceConfig, 'desktop')],
-      ['rss-keyword', () => scrapeRSSFeed(urls.rssKeyword, marketplaceConfig)],
-      ['jina-keyword', () => scrapeWithJinaProxy(urls.keyword, marketplaceConfig)]
-    ];
+  const lightweightAttempts = [
+    ['mobile-keyword', () => scrapeWithHtmlFetch(urls.keyword, marketplaceConfig, 'mobile')],
+    ['mobile-graded-keyword', () => scrapeWithHtmlFetch(urls.gradedKeyword, marketplaceConfig, 'mobile')],
+    ['rss-keyword', () => scrapeRSSFeed(urls.rssKeyword, marketplaceConfig)],
+    ['jina-keyword', () => scrapeWithJinaProxy(urls.keyword, marketplaceConfig)],
+    ...(allowDesktopFetch
+      ? [['desktop-keyword', () => scrapeWithHtmlFetch(urls.keyword, marketplaceConfig, 'desktop')]]
+      : [])
+  ];
 
-    for (const [source, attempt] of lightweightAttempts) {
-      const result = await runAttempt(source, attempt, attempts);
-      if (result.data.length > 0) {
-        items = mergeItems([result]);
-        scraperUsed = source;
-        break;
-      }
+  for (const [source, attempt] of lightweightAttempts) {
+    const result = await runAttempt(source, attempt, attempts);
+    if (result.data.length > 0) {
+      items = mergeItems([result]);
+      scraperUsed = source;
+      break;
     }
+  }
 
-    if (items.length === 0) {
-      const browserKeyword = await runAttempt(
-        'puppeteer-keyword',
-        () => scrapeWithPuppeteer(urls.keyword, marketplaceConfig),
-        attempts
-      );
-      items = mergeItems([browserKeyword]);
-      scraperUsed = browserKeyword.data.length > 0 ? browserKeyword.source : scraperUsed;
-    }
+  if (items.length === 0 && allowBrowserFallback) {
+    const browserKeyword = await runAttempt(
+      'puppeteer-keyword',
+      () => scrapeWithPuppeteer(urls.keyword, marketplaceConfig),
+      attempts
+    );
+    items = mergeItems([browserKeyword]);
+    scraperUsed = browserKeyword.data.length > 0 ? browserKeyword.source : scraperUsed;
+  }
 
-    if (items.length === 0) {
-      const browserGrader = await runAttempt(
-        'puppeteer-grader-filter',
-        () => scrapeWithPuppeteer(urls.graderFilter, marketplaceConfig),
-        attempts
-      );
-      items = mergeItems([browserGrader]);
-      scraperUsed = browserGrader.data.length > 0 ? browserGrader.source : scraperUsed;
-    }
+  if (items.length === 0 && allowBrowserFallback) {
+    const browserGrader = await runAttempt(
+      'puppeteer-grader-filter',
+      () => scrapeWithPuppeteer(urls.graderFilter, marketplaceConfig),
+      attempts
+    );
+    items = mergeItems([browserGrader]);
+    scraperUsed = browserGrader.data.length > 0 ? browserGrader.source : scraperUsed;
+  } else if (items.length === 0 && debug) {
+    attempts.push({
+      source: 'puppeteer',
+      skipped: 'Browser fallback is disabled unless includeBrowser=1 is passed'
+    });
+  }
 
-    if (items.length === 0 && req.query.includeDesktop === '1') {
-      const desktopGrader = await runAttempt(
-        'desktop-grader-filter',
-        () => scrapeWithHtmlFetch(urls.graderFilter, marketplaceConfig, 'desktop'),
-        attempts
-      );
-      items = mergeItems([desktopGrader]);
-      scraperUsed = desktopGrader.data.length > 0 ? desktopGrader.source : scraperUsed;
-    }
+  if (items.length === 0 && includeDesktop === true) {
+    const desktopGrader = await runAttempt(
+      'desktop-grader-filter',
+      () => scrapeWithHtmlFetch(urls.graderFilter, marketplaceConfig, 'desktop'),
+      attempts
+    );
+    items = mergeItems([desktopGrader]);
+    scraperUsed = desktopGrader.data.length > 0 ? desktopGrader.source : scraperUsed;
+  }
 
-    if (items.length === 0) {
-      console.log('No items found after all scraper attempts');
-      return res.status(200).json({
-        items: [],
-        error: 'No items found',
-        timestamp: new Date().toISOString(),
-        message:
-          'No current TAG graded Pokemon sold listings could be parsed from eBay. Recent sold listings do exist, so check scraper attempt logs for eBay access-denied or structure changes.',
-        scraperUsed,
-        ...(debug ? { attempts } : {})
-      });
-    }
-
-    res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate=300');
-
-    res.status(200).json({
-      items,
+  if (items.length === 0) {
+    console.log('No items found after all scraper attempts');
+    return {
+      items: [],
+      error: 'No items found',
       timestamp: new Date().toISOString(),
-      count: items.length,
+      message:
+        'No current TAG graded Pokemon sold listings could be parsed from eBay. Recent sold listings do exist, so check scraper attempt logs for eBay access-denied or structure changes.',
       marketplace: marketplaceKey,
       scraperUsed,
       ...(debug ? { attempts } : {})
+    };
+  }
+
+  return {
+    items,
+    timestamp: new Date().toISOString(),
+    count: items.length,
+    marketplace: marketplaceKey,
+    scraperUsed,
+    ...(debug ? { attempts } : {})
+  };
+}
+
+export default async function handler(req, res) {
+  try {
+    const debug = req.query.debug === '1' || req.query.debug === 'true';
+    const includeBrowser =
+      req.query.includeBrowser === '1' || req.query.includeBrowser === 'true'
+        ? true
+        : req.query.skipBrowser === '1'
+          ? false
+          : undefined;
+    const includeDesktop =
+      req.query.includeDesktop === '1' || req.query.includeDesktop === 'true'
+        ? true
+        : undefined;
+    const result = await getEbaySales({
+      marketplace: req.query.marketplace,
+      debug,
+      includeBrowser,
+      includeDesktop
     });
+
+    res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate=300');
+    res.status(200).json(result);
   } catch (error) {
     console.error('Error scraping eBay:', error);
     res.status(500).json({

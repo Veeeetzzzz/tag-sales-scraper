@@ -6,14 +6,19 @@ import { useCurrency } from '../contexts/CurrencyContext';
 import { convertAndFormatPrice, convertCurrency } from '../utils/currency';
 import { getOptimizedImageUrl, getCardImageUrl } from '../utils/imageUtils';
 
+const CARD_SALES_CACHE_KEY = 'tag-card-sales-data-v2';
+
 export default function Cards() {
   const [allSales, setAllSales] = useState([]);
   const [filteredSales, setFilteredSales] = useState([]);
   const [cardSales, setCardSales] = useState({});
   const [loading, setLoading] = useState(true);
+  const [isRefreshing, setIsRefreshing] = useState(false);
   const [error, setError] = useState(null);
+  const [statusMessage, setStatusMessage] = useState(null);
   const [unmatchedSales, setUnmatchedSales] = useState([]);
   const [selectedCard, setSelectedCard] = useState(null);
+  const [lastFetchTime, setLastFetchTime] = useState(null);
   const { currency, setCurrency } = useCurrency();
 
   // Filter states
@@ -27,103 +32,103 @@ export default function Cards() {
 
   // Note: getHighQualityImageUrl moved to utils/imageUtils.js and renamed to getOptimizedImageUrl
 
-  const fetchCardData = async () => {
-    setLoading(true);
-    setError(null);
-    try {
-      // Fetch from both UK and US marketplaces
-      const [ukResponse, usResponse] = await Promise.all([
-        fetch('/api/ebay?marketplace=uk'),
-        fetch('/api/ebay?marketplace=us')
-      ]);
-      
-      const [ukData, usData] = await Promise.all([
-        ukResponse.json(),
-        usResponse.json()
-      ]);
-      
-      // Combine sales data from both marketplaces
-      const allItems = [];
-      
-      if (ukData.items && ukData.items.length > 0) {
-        ukData.items.forEach(item => {
-          allItems.push({
-            ...item,
-            marketplace: 'uk',
-            img: getOptimizedImageUrl(item.img) // Upgrade image quality
-          });
-        });
-      }
-      
-      if (usData.items && usData.items.length > 0) {
-        usData.items.forEach(item => {
-          allItems.push({
-            ...item,
-            marketplace: 'us',
-            img: getOptimizedImageUrl(item.img) // Upgrade image quality
-          });
-        });
-      }
-      
-      if (allItems.length > 0) {
-        // Then match cards to sales
-        const matchResponse = await fetch('/api/card-matcher', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ sales: allItems })
-        });
-        
-        const matchData = await matchResponse.json();
-        
-        if (matchData.success) {
-          setCardSales(matchData.cardSales);
-          setUnmatchedSales(matchData.unmatchedSales);
-          
-          // Create a combined array of all sales with match information
-          const allSalesWithMatches = [];
-          
-          // Add matched sales
-          Object.values(matchData.cardSales).forEach(cardData => {
-            cardData.sales.forEach(sale => {
-              allSalesWithMatches.push({
-                ...sale,
-                matched: true,
-                matchedCard: cardData.card,
-                matchConfidence: sale.matchConfidence,
-                img: getOptimizedImageUrl(sale.img) // Ensure high quality image
-              });
-            });
-          });
-          
-          // Add unmatched sales
-          matchData.unmatchedSales.forEach(sale => {
-            allSalesWithMatches.push({
-              ...sale,
-              matched: false,
-              matchedCard: null,
-              matchConfidence: 0,
-              img: getOptimizedImageUrl(sale.img) // Ensure high quality image
-            });
-          });
-          
-          setAllSales(allSalesWithMatches);
-          setFilteredSales(allSalesWithMatches);
-        } else {
-          setError('Failed to match cards to sales');
+  const normalizeSaleImages = (sales = []) =>
+    sales.map(sale => ({
+      ...sale,
+      img: getOptimizedImageUrl(sale.img)
+    }));
+
+  const normalizeCardSales = (salesByCard = {}) =>
+    Object.fromEntries(
+      Object.entries(salesByCard).map(([cardId, cardData]) => [
+        cardId,
+        {
+          ...cardData,
+          sales: normalizeSaleImages(cardData.sales || [])
         }
+      ])
+    );
+
+  const applyCardSalesData = (data) => {
+    const normalizedCardSales = normalizeCardSales(data.cardSales || {});
+    const normalizedUnmatchedSales = normalizeSaleImages(data.unmatchedSales || []);
+    const normalizedAllSales = normalizeSaleImages(data.allSales || []);
+
+    setCardSales(normalizedCardSales);
+    setUnmatchedSales(normalizedUnmatchedSales);
+    setAllSales(normalizedAllSales);
+    setFilteredSales(normalizedAllSales);
+    setLastFetchTime(data.timestamp ? new Date(data.timestamp) : new Date());
+  };
+
+  const loadCachedCardData = () => {
+    try {
+      const cachedData = localStorage.getItem(CARD_SALES_CACHE_KEY);
+      if (!cachedData) return false;
+
+      const parsedData = JSON.parse(cachedData);
+      if (!parsedData || !Array.isArray(parsedData.allSales)) return false;
+
+      applyCardSalesData(parsedData);
+      return true;
+    } catch (error) {
+      console.error('Error loading cached card data:', error);
+      localStorage.removeItem(CARD_SALES_CACHE_KEY);
+      return false;
+    }
+  };
+
+  const saveCachedCardData = (data) => {
+    try {
+      localStorage.setItem(CARD_SALES_CACHE_KEY, JSON.stringify(data));
+    } catch (error) {
+      console.error('Error saving card data cache:', error);
+    }
+  };
+
+  const fetchCardData = async ({ background = false, allowStale = false, refresh = false } = {}) => {
+    if (background) {
+      setIsRefreshing(true);
+    } else {
+      setLoading(true);
+    }
+    setError(null);
+    setStatusMessage(null);
+
+    try {
+      const response = await fetch(`/api/card-sales${refresh ? '?refresh=1' : ''}`);
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.message || data.error || 'Failed to load card data');
+      }
+
+      applyCardSalesData(data);
+      if (data.success) {
+        saveCachedCardData(data);
       } else {
-        setError('No sales data available from either marketplace');
+        setStatusMessage(data.message || data.error || 'No sales data available from either marketplace');
       }
     } catch (error) {
       console.error('Error fetching card data:', error);
-      setError('Failed to load card data');
+
+      if (allowStale) {
+        setStatusMessage(`Could not refresh sales data: ${error.message}`);
+      } else {
+        setError(error.message || 'Failed to load card data');
+      }
     } finally {
       setLoading(false);
+      setIsRefreshing(false);
     }
   };
 
   useEffect(() => {
-    fetchCardData();
+    const hasCachedData = loadCachedCardData();
+    fetchCardData({
+      background: hasCachedData,
+      allowStale: hasCachedData
+    });
   }, []);
 
   const formatPrice = (price) => {
@@ -630,14 +635,27 @@ export default function Cards() {
                   {filteredSales.length} of {allSales.length} sales •
                   {matchedSalesCount} matched • {unmatchedSalesCount} unmatched
                 </p>
+                {lastFetchTime && (
+                  <p className="text-sm text-gray-500 mt-1">
+                    Last updated: {lastFetchTime.toLocaleString()}
+                    {isRefreshing ? ' - Refreshing...' : ''}
+                  </p>
+                )}
+                {statusMessage && (
+                  <p className="text-sm text-orange-600 mt-1">{statusMessage}</p>
+                )}
               </div>
               <div className="mt-4 sm:mt-0 flex gap-2">
                 <button 
-                  onClick={fetchCardData}
-                  disabled={loading}
+                  onClick={() => fetchCardData({
+                    background: allSales.length > 0,
+                    allowStale: allSales.length > 0,
+                    refresh: true
+                  })}
+                  disabled={loading || isRefreshing}
                   className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 disabled:opacity-50"
                 >
-                  Refresh
+                  {isRefreshing ? 'Refreshing...' : 'Refresh'}
                 </button>
               </div>
             </div>

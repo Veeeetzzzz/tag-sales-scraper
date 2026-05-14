@@ -7,6 +7,10 @@
     "pages/api/card-matcher.js": {
       "maxDuration": 30,
       "memory": 512
+    },
+    "pages/api/card-sales.js": {
+      "maxDuration": 30,
+      "memory": 512
     }
   },
   "env": {

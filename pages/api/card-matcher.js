@@ -9,6 +9,52 @@ class CardMatcher {
     this.initialized = false;
   }
 
+  normalizeMatchText(value = '') {
+    return String(value)
+      .toLowerCase()
+      .normalize('NFKD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  buildMatchIndex(card) {
+    const cardNameWords = this.normalizeMatchText(card.name)
+      .split(' ')
+      .filter(word => word.length > 2);
+    const japaneseNameWords = card.nameJapanese
+      ? this.normalizeMatchText(card.nameJapanese).split(/\s+/).filter(Boolean)
+      : [];
+    const setName = this.normalizeMatchText(card.setName);
+
+    return {
+      keywords: (card.matchingKeywords || []).map(keyword => this.normalizeMatchText(keyword)),
+      cardNameWords,
+      japaneseNameWords,
+      totalNameWords: cardNameWords.length + japaneseNameWords.length,
+      fullNumber: card.fullNumber ? this.normalizeMatchText(card.fullNumber) : '',
+      cardNumber: card.cardNumber ? this.normalizeMatchText(card.cardNumber) : '',
+      setCode: card.setCode ? this.normalizeMatchText(card.setCode) : '',
+      setNameVariations: setName
+        ? [
+            setName,
+            setName.replace(/\s+/g, ''),
+            setName.replace(/[^a-z0-9]/g, ''),
+            setName.replace('&', 'and')
+          ]
+        : []
+    };
+  }
+
+  indexCard(card) {
+    const indexedCard = { ...card };
+    Object.defineProperty(indexedCard, '__matchIndex', {
+      value: this.buildMatchIndex(indexedCard),
+      enumerable: false
+    });
+    return indexedCard;
+  }
+
   async loadCards(forceReload = false) {
     if (this.initialized && !forceReload) return;
     
@@ -34,16 +80,18 @@ class CardMatcher {
           const cardDatabase = JSON.parse(fileData);
           
           if (cardDatabase.cards && Array.isArray(cardDatabase.cards)) {
+            const indexedCards = cardDatabase.cards.map(card => this.indexCard(card));
+
             // Store set info
             const setKey = file.replace('.json', '');
             this.sets[setKey] = {
               ...cardDatabase.setInfo,
-              cards: cardDatabase.cards,
+              cards: indexedCards,
               fileName: file
             };
             
             // Add cards to main array for matching
-            this.cards.push(...cardDatabase.cards);
+            this.cards.push(...indexedCards);
           }
         } catch (error) {
           console.error(`Error loading ${file}:`, error);
@@ -75,9 +123,14 @@ class CardMatcher {
 
   // Fuzzy matching algorithm
   matchCard(saleTitle) {
-    const normalizedTitle = saleTitle.toLowerCase().trim();
+    const normalizedTitle = this.normalizeMatchText(saleTitle);
     let bestMatch = null;
     let bestScore = 0;
+
+    // Early filter: must contain "pokemon" OR "tag" to be considered valid
+    if (!normalizedTitle.includes('pokemon') && !normalizedTitle.includes('tag')) {
+      return null;
+    }
 
     for (const card of this.cards) {
       const score = this.calculateMatchScore(normalizedTitle, card);
@@ -97,31 +150,22 @@ class CardMatcher {
   calculateMatchScore(title, card) {
     let score = 0;
     let maxPossibleScore = 0;
-
-    // Early filter: must contain "pokemon" OR "tag" (for TAG graded cards) to be considered valid
-    if (!title.includes('pokemon') && !title.includes('tag')) {
-      return 0;
-    }
+    const matchIndex = card.__matchIndex || this.buildMatchIndex(card);
 
     // Check each matching keyword - but weight them differently
-    const keywords = card.matchingKeywords || [];
+    const keywords = matchIndex.keywords;
     let keywordMatches = 0;
     
     for (const keyword of keywords) {
-      const normalizedKeyword = keyword.toLowerCase();
-      
-      if (title.includes(normalizedKeyword)) {
+      if (title.includes(keyword)) {
         keywordMatches++;
       }
     }
     
     // Also check Japanese name if available
-    if (card.nameJapanese) {
-      const japaneseNameWords = card.nameJapanese.split(/\s+/);
-      for (const word of japaneseNameWords) {
-        if (word.length > 0 && title.includes(word)) {
-          keywordMatches++;
-        }
+    for (const word of matchIndex.japaneseNameWords) {
+      if (title.includes(word)) {
+        keywordMatches++;
       }
     }
     
@@ -132,56 +176,42 @@ class CardMatcher {
     maxPossibleScore += 2;
 
     // Bonus for card name match - require more precise matching
-    const cardNameWords = card.name.toLowerCase().split(' ');
     let cardNameMatches = 0;
-    for (const word of cardNameWords) {
-      if (word.length > 2 && title.includes(word)) { // Ignore very short words
+    for (const word of matchIndex.cardNameWords) {
+      if (title.includes(word)) {
         cardNameMatches++;
       }
     }
     
     // Also check Japanese name if available
-    if (card.nameJapanese) {
-      const japaneseNameWords = card.nameJapanese.split(/\s+/);
-      for (const word of japaneseNameWords) {
-        if (word.length > 0 && title.includes(word)) {
-          cardNameMatches++;
-        }
+    for (const word of matchIndex.japaneseNameWords) {
+      if (title.includes(word)) {
+        cardNameMatches++;
       }
     }
     
-    const totalNameWords = cardNameWords.length + (card.nameJapanese ? card.nameJapanese.split(/\s+/).length : 0);
-    const cardNameScore = totalNameWords > 0 ? cardNameMatches / totalNameWords : 0;
+    const cardNameScore = matchIndex.totalNameWords > 0 ? cardNameMatches / matchIndex.totalNameWords : 0;
     score += cardNameScore * 4; // Weight card name very high
     maxPossibleScore += 4;
 
     // Bonus for card number match (very important for Pokemon cards)
-    if (card.fullNumber && title.includes(card.fullNumber)) {
+    if (matchIndex.fullNumber && title.includes(matchIndex.fullNumber)) {
       score += 2; // High weight for exact card number match
-    } else if (card.cardNumber && title.includes(card.cardNumber + '/')) {
+    } else if (matchIndex.cardNumber && title.includes(matchIndex.cardNumber + '/')) {
       score += 1.5; // Partial credit for card number without full format
     }
     maxPossibleScore += 2;
 
     // Bonus for set identification - check multiple variations
     let setMatch = false;
-    if (card.setCode && title.includes(card.setCode.toLowerCase())) {
+    if (matchIndex.setCode && title.includes(matchIndex.setCode)) {
       setMatch = true;
     }
     // Check for set name variations
-    if (card.setName) {
-      const setNameVariations = [
-        card.setName.toLowerCase(),
-        card.setName.toLowerCase().replace(/\s+/g, ''),
-        card.setName.toLowerCase().replace(/[^a-z0-9]/g, ''),
-        card.setName.toLowerCase().replace('&', 'and')
-      ];
-      
-      for (const variation of setNameVariations) {
-        if (title.includes(variation)) {
-          setMatch = true;
-          break;
-        }
+    for (const variation of matchIndex.setNameVariations) {
+      if (title.includes(variation)) {
+        setMatch = true;
+        break;
       }
     }
     
@@ -215,7 +245,7 @@ class CardMatcher {
     const matched = [];
     const keywords = card.matchingKeywords || [];
     for (const keyword of keywords) {
-      if (title.includes(keyword.toLowerCase())) {
+      if (title.includes(this.normalizeMatchText(keyword))) {
         matched.push(keyword);
       }
     }
@@ -320,11 +350,15 @@ class CardMatcher {
   }
 }
 
+const matcher = new CardMatcher();
+
+export function getCardMatcher() {
+  return matcher;
+}
+
 // API endpoint
 export default async function handler(req, res) {
   try {
-    const matcher = new CardMatcher();
-    
     if (req.method === 'GET') {
       // Return all sets information
       const { set, action } = req.query;
