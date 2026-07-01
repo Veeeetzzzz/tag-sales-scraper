@@ -353,6 +353,62 @@ export default function Sets() {
     );
   }
 
+  const parseReleaseDate = (releaseDate, fallbackDate) => {
+    if (!releaseDate) {
+      return fallbackDate;
+    }
+
+    const value = String(releaseDate).trim();
+    const ddmmyyyy = value.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
+
+    if (ddmmyyyy) {
+      const [, day, month, year] = ddmmyyyy;
+      return new Date(Number(year), Number(month) - 1, Number(day)).getTime();
+    }
+
+    const yyyymmdd = value.match(/^(\d{4})[-/](\d{2})[-/](\d{2})$/);
+
+    if (yyyymmdd) {
+      const [, year, month, day] = yyyymmdd;
+      return new Date(Number(year), Number(month) - 1, Number(day)).getTime();
+    }
+
+    const parsedDate = Date.parse(value);
+    return Number.isNaN(parsedDate) ? fallbackDate : parsedDate;
+  };
+
+  const formatReleaseDate = (releaseDate) => {
+    if (!releaseDate) {
+      return '';
+    }
+
+    const value = String(releaseDate).trim();
+    const ddmmyyyy = value.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
+
+    if (ddmmyyyy) {
+      return value;
+    }
+
+    const yyyymmdd = value.match(/^(\d{4})[-/](\d{2})[-/](\d{2})$/);
+
+    if (yyyymmdd) {
+      const [, year, month, day] = yyyymmdd;
+      return `${day}/${month}/${year}`;
+    }
+
+    const parsedDate = Date.parse(value);
+
+    if (Number.isNaN(parsedDate)) {
+      return value;
+    }
+
+    const date = new Date(parsedDate);
+    const day = String(date.getDate()).padStart(2, '0');
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const year = date.getFullYear();
+    return `${day}/${month}/${year}`;
+  };
+
   // Filter and sort sets based on language and selected option
   const sortSets = (setsData) => {
     const setEntries = Object.entries(setsData);
@@ -377,13 +433,13 @@ export default function Sets() {
       switch (sortBy) {
         case 'newest':
           // Sort by release date (newest first)
-          const dateA = new Date(infoA.releaseDate || '1900-01-01');
-          const dateB = new Date(infoB.releaseDate || '1900-01-01');
+          const dateA = parseReleaseDate(infoA.releaseDate, new Date(1900, 0, 1).getTime());
+          const dateB = parseReleaseDate(infoB.releaseDate, new Date(1900, 0, 1).getTime());
           return dateB - dateA;
         case 'oldest':
           // Sort by release date (oldest first)
-          const dateA2 = new Date(infoA.releaseDate || '2099-01-01');
-          const dateB2 = new Date(infoB.releaseDate || '2099-01-01');
+          const dateA2 = parseReleaseDate(infoA.releaseDate, new Date(2099, 0, 1).getTime());
+          const dateB2 = parseReleaseDate(infoB.releaseDate, new Date(2099, 0, 1).getTime());
           return dateA2 - dateB2;
         case 'name-az':
           return infoA.name.localeCompare(infoB.name);
@@ -560,7 +616,7 @@ export default function Sets() {
                         {setInfo.releaseDate && (
                           <div className="flex justify-between">
                             <span className="text-gray-600">Release Date:</span>
-                            <span className="font-medium">{setInfo.releaseDate.substring(2).replace(/-/g, '/')}</span>
+                            <span className="font-medium">{formatReleaseDate(setInfo.releaseDate)}</span>
                           </div>
                         )}
                         
