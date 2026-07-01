@@ -13,6 +13,8 @@ function parseArgs(argv) {
   const args = {
     set: 'base-set',
     sourceTemplate: null,
+    logoUrl: null,
+    skipLogo: false,
     dryRun: false,
   };
 
@@ -23,6 +25,10 @@ function parseArgs(argv) {
       args.set = argv[++i];
     } else if (arg === '--source-template') {
       args.sourceTemplate = argv[++i];
+    } else if (arg === '--logo-url') {
+      args.logoUrl = argv[++i];
+    } else if (arg === '--skip-logo') {
+      args.skipLogo = true;
     } else if (arg === '--dry-run') {
       args.dryRun = true;
     } else if (arg === '--help' || arg === '-h') {
@@ -46,6 +52,8 @@ rewrites that set JSON to root-relative public paths.
 Options:
   --set <slug>                 data/cards/<slug>.json to migrate
   --source-template <url>      card source URL with {number} or {paddedNumber}
+  --logo-url <url>             override setInfo.logo as the logo source
+  --skip-logo                  migrate cards but leave setInfo.logo unchanged
   --dry-run                    report actions without writing files or JSON
 `);
 }
@@ -117,7 +125,7 @@ async function downloadFile(url, destination, dryRun) {
   console.log(`saved ${path.relative(process.cwd(), destination)} (${buffer.length} bytes)`);
 }
 
-async function migrateSet({ set, sourceTemplate, dryRun }) {
+async function migrateSet({ set, sourceTemplate, logoUrl, skipLogo, dryRun }) {
   const jsonPath = path.join(DATA_DIR, `${set}.json`);
 
   if (!fs.existsSync(jsonPath)) {
@@ -132,11 +140,11 @@ async function migrateSet({ set, sourceTemplate, dryRun }) {
     throw new Error(`${jsonPath} does not contain a cards array`);
   }
 
-  if (data.setInfo && data.setInfo.logo) {
-    const logoUrl = data.setInfo.logo;
-    const logoExt = getExtensionFromUrl(logoUrl, 'image/png');
+  if (data.setInfo && data.setInfo.logo && !skipLogo) {
+    const resolvedLogoUrl = logoUrl || data.setInfo.logo;
+    const logoExt = getExtensionFromUrl(resolvedLogoUrl, 'image/png');
     const logoDestination = path.join(assetRoot, `logo${logoExt}`);
-    await downloadFile(logoUrl, logoDestination, dryRun);
+    await downloadFile(resolvedLogoUrl, logoDestination, dryRun);
     data.setInfo.logo = `/card-assets/${set}/logo${logoExt}`;
   }
 
